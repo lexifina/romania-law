@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2013",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-1-2013",
+"path": "local/arad/nadlac/2013/1",
+"kind": "local",
+"year": "2013",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2013 privind aprobarea ordinei de zi a ședinței extraordinare a Consiliului local Nădlac din data de 15.01.2013 Consiliul local al orașului Nădlac, întrunit în ședința extraordinară din data de 15.01.2013, Având în vedere: - prevederile art.43 din Legea nr.251/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare În temeiul art.45(1) din Legea nr.215/2001 pr",
+"short": "HCL Nădlac nr. 1/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-15",
+"latest": "2013-01-15",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2013-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

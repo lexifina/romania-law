@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2008",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-105-2008",
+   "path": "local/arad/ineu/2008/105",
+   "short": "HCL Ineu nr. 105/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 105/2008 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-10530-10-2008-privind-rectificarea-bugetului-local-consolidat-de-venituri-si-cheltuieli-pe-anul-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h105-30.10.08.pdf",
+     "sha256": "5ebaa6362ec508d477821e8856a13500bcc7ce23e1981c6246c89add31263491"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-121-2008",
+   "path": "local/arad/ineu/2008/121",
+   "short": "HCL Ineu nr. 121/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 121/2008 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-12127-11-2010-privind-rectificarea-bugetului-local-consolidat-de-venituri-si-cheltuieli-pe-anul-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h121-27.11.08.pdf",
+     "sha256": "66ee6a733985597659fee0060b08a5dd0aebd8bc4b4c44d812ee3fb7b441fb8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-143-2008",
+   "path": "local/arad/ineu/2008/143",
+   "short": "HCL Ineu nr. 143/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 143/2008 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-14330-10-2010-privind-rectificarea-bugetului-local-consolidat-de-venituri-si-cheltuieli-pe-anul-2008/",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h143-30.12.08.pdf",
+     "sha256": "8735173f345af006c1b42837718676780902d5756176ad6b25c65ac4d4ecc841"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-31-2008",
+   "path": "local/arad/ineu/2008/31",
+   "short": "HCL Ineu nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 31/2008 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-3118-03-2008/",
+   "versions": [
+    {
+     "from": "2008-03-18",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h31-18.03.08.pdf",
+     "sha256": "8b270835e2888992e148a38db706256197fa2719106d7b6cbd14ab77de8c6405"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-5-2008",
+   "path": "local/arad/ineu/2008/5",
+   "short": "HCL Ineu nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 5/2008 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-531-01-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h5-31.01.08.pdf",
+     "sha256": "6d19bc39d505da64f953e656aa632531d0dff91f243b62ee86f487a7000aaab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-58-2008",
+   "path": "local/arad/ineu/2008/58",
+   "short": "HCL Ineu nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 58/2008 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-5831-07-2008-privind-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2009/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h58-31.07.08.pdf",
+     "sha256": "38d1ab1d6e412a7e84a56bf23d7fad5d14c9a866d254a08cdb74dbeea25f058d"
+    }
+   ]
+  }
+ ]
+}

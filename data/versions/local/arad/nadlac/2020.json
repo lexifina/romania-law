@@ -3,6 +3,156 @@
  "shard": "local/arad/nadlac/2020",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2020",
+   "path": "local/arad/nadlac/2020/1",
+   "short": "HCL Nădlac nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2020 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/hot1a.pdf",
+     "sha256": "464cb24e5f2febbd283b185ba1f5fd3962244bf61b4cbc387078f06d73689d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2020",
+   "path": "local/arad/nadlac/2020/10",
+   "short": "HCL Nădlac nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h10.pdf",
+     "sha256": "7840d9a634c007575bbe58205df1de57e0d9dab011471b0026e349f9334ba395"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2020",
+   "path": "local/arad/nadlac/2020/100",
+   "short": "HCL Nădlac nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 24.09.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h100.pdf",
+     "sha256": "f5f9ab363584a3d337984fc40bc14c0cab335dae6edfa930d8ac42814dd01cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2020",
+   "path": "local/arad/nadlac/2020/101",
+   "short": "HCL Nădlac nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2020 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h101.pdf",
+     "sha256": "c0bd58873e122ad80eb646cfde55ea322cad92740a7b2cfbf5780aaa11f2f885"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2020",
+   "path": "local/arad/nadlac/2020/102",
+   "short": "HCL Nădlac nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2020 privind aprobarea prelungirii duratei contractelor de închiriere pentru locuinţele pentru tineri, destinate închirierii, situate în oraşul Nădlac str. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h102.pdf",
+     "sha256": "a20c52890ef14ad19e567af3b13cb137d9bbec54e7ac5defa1f150dbadfbb86f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2020",
+   "path": "local/arad/nadlac/2020/103",
+   "short": "HCL Nădlac nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 24.11.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h103.pdf",
+     "sha256": "00250ea9f668283ba3b9eaefeed90e087b644f3e980bc4f3062d857d49229d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2020",
+   "path": "local/arad/nadlac/2020/104",
+   "short": "HCL Nădlac nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2020 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 09.11.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h104.pdf",
+     "sha256": "36b577869a15850ca1160e4520eef2a2c42a37aa92bb436f5b692c8ddce1de3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2020",
+   "path": "local/arad/nadlac/2020/105",
+   "short": "HCL Nădlac nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2020 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h105.pdf",
+     "sha256": "7a9c4f2b502d0ca54fa3ba5b598f1f7d391c412b6f66e2a6ae3cd37fbf0ba9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2020",
+   "path": "local/arad/nadlac/2020/106",
+   "short": "HCL Nădlac nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2020 privind aprobarea execuției bugetului local aferent trimestrului II al anului 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h106.pdf",
+     "sha256": "eacf7f17c3b0d00cbcb6ed79dc82e62095beb76a7ba839505dc5a5f6c8444f8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-107-2020",
+   "path": "local/arad/nadlac/2020/107",
+   "short": "HCL Nădlac nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2020 privind anularea accesoriilor în cazul obligațiilor bugetare restante la data de 31 martie 2020 datorate bugetului local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h107.pdf",
+     "sha256": "c78a2bb649c3372eb323dd035224bae25d62c5b694ea0946a058baf0bfd1ecce"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-108-2020",
    "path": "local/arad/nadlac/2020/108",
    "short": "HCL Nădlac nr. 108/2020",
@@ -29,6 +179,246 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h109.pdf",
      "sha256": "0600662218c67d0ddd123f763f28ad93324db61fded2766186f2555acc9c2d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2020",
+   "path": "local/arad/nadlac/2020/112",
+   "short": "HCL Nădlac nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2020 privind aprobarea Actului Adițional nr.6 la Contractul de delegare nr.908/14.05.2018",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h112.pdf",
+     "sha256": "d2d3ddc556be698992d5cb201701e1c76e4738c09185ea3f1a07c23e28af61db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2020",
+   "path": "local/arad/nadlac/2020/113",
+   "short": "HCL Nădlac nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2020 privind numirea reprezentanților Consiliului Local Nădlac în cadrul consiliului de administrație, precum și în comisia de evaluare și asigurare a calității educației al Liceului Teoretic Jozef Gregor Tajovsky",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h113.pdf",
+     "sha256": "d15c84fb06b20fd55e58fb85c5453d925548f686ab5ee10a34097a5b9f99715c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2020",
+   "path": "local/arad/nadlac/2020/114",
+   "short": "HCL Nădlac nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2020 privind aprobarea prelungirii duratei de dare în folosință gratuită, din partea Consiliului Județean Arad, a unei ambulanțe pentru a deservi Serviciul Mobil de Urgență, Reanimare și Descarcerare Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h114.pdf",
+     "sha256": "89493d403feb270a05a234a921ef42d6996b52ba4d79b2e2a2525ab61482ddec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2020",
+   "path": "local/arad/nadlac/2020/115",
+   "short": "HCL Nădlac nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2020 privind alegerea Consiliului de Administraţie la Clubul Sportiv „Victoria” Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h115.pdf",
+     "sha256": "1f040f1e3875df9ad3beaa18f43031a48ae7ed461764e19bbbf266ce30d3dd45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2020",
+   "path": "local/arad/nadlac/2020/116",
+   "short": "HCL Nădlac nr. 116/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 08.12.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h116.pdf",
+     "sha256": "18c7e644a3b916b46cf96f3bc4a41a484f7f8ad85c8602bdf7de3ca8af83aee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2020",
+   "path": "local/arad/nadlac/2020/117",
+   "short": "HCL Nădlac nr. 117/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2020 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 24.11.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h117.pdf",
+     "sha256": "ec5e12c0e2e0369a39da1270b106b9b9e15b55d8ad170f79a43f28025b2dcb01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2020",
+   "path": "local/arad/nadlac/2020/118",
+   "short": "HCL Nădlac nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2020 privind alegerea viceprimarului orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h118.pdf",
+     "sha256": "43870a150a87119fc5f8a437fbc4b708e3528527c482fa5bb85481dc34cc1cd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2020",
+   "path": "local/arad/nadlac/2020/119",
+   "short": "HCL Nădlac nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 11.12.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h119.pdf",
+     "sha256": "9650052b3f52365e3dad419e6ecd478dcd3fd4880b207e7adbc4a113568c71a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2020",
+   "path": "local/arad/nadlac/2020/12",
+   "short": "HCL Nădlac nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2020 privind organizarea rețelei școlare pentru anul școlar 2020-2021 în cadrul unității administrativ-teritoriale Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h12.pdf",
+     "sha256": "80f1736c8dd1e2b35357460f91b5545138c65c6651e24bb2fed683a2d9ee34bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2020",
+   "path": "local/arad/nadlac/2020/120",
+   "short": "HCL Nădlac nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2020 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h120.pdf",
+     "sha256": "2274b6f251ced0b04b746a8d544652f95969b7cf322de7631a6891f33f620a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-121-2020",
+   "path": "local/arad/nadlac/2020/121",
+   "short": "HCL Nădlac nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 121/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 22.12.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h121.pdf",
+     "sha256": "f9e2c90993fd6bccc90c1cb3250fef313d27c2d1ae37ea6e56b5dcbe5b715139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2020",
+   "path": "local/arad/nadlac/2020/122",
+   "short": "HCL Nădlac nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2020 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h122.pdf",
+     "sha256": "df1b7e2358d8d78243e52a5967d74a981da8b1d160201115c919fc53a9cff6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2020",
+   "path": "local/arad/nadlac/2020/123",
+   "short": "HCL Nădlac nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2020 privind aprobarea introducerii în circuitul funciar a unor drumuri de exploatare, respectiv modificarea suprafețelor unor drumuri intabulate",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h123.pdf",
+     "sha256": "b193092f4c9976bd299f755c1a673e1b4739207ea987dedf8be321d29ed02111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-124-2020",
+   "path": "local/arad/nadlac/2020/124",
+   "short": "HCL Nădlac nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 22.12.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h124.pdf",
+     "sha256": "e69db857de52aac38a56aeff81b04b891f5bd8110aa297fbca5551c22d7f5952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-125-2020",
+   "path": "local/arad/nadlac/2020/125",
+   "short": "HCL Nădlac nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 125/2020 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 08.12.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h125.pdf",
+     "sha256": "376a5d87a5e3832b8d4054b72dc60871a6d521dab7609e6e80a40d16e78c4810"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-126-2020",
+   "path": "local/arad/nadlac/2020/126",
+   "short": "HCL Nădlac nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 126/2020 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 11.12.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h126.pdf",
+     "sha256": "a490fa5d223014c1220a1c60a174a5bcf3f39000264d644facaf1820fe8e2cfd"
     }
    ]
   },
@@ -63,6 +453,441 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-129-2020",
+   "path": "local/arad/nadlac/2020/129",
+   "short": "HCL Nădlac nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h129.pdf",
+     "sha256": "e6db5c83b79da3a46949cc760259799e1f9ec8db892e2d5627b27e819a6c8dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-13-2020",
+   "path": "local/arad/nadlac/2020/13",
+   "short": "HCL Nădlac nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h13.pdf",
+     "sha256": "4ebc5ffa1d567ff7329b0b2a66a6379c823660b039ae123536f9668e12726ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-130-2020",
+   "path": "local/arad/nadlac/2020/130",
+   "short": "HCL Nădlac nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 130/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h130.pdf",
+     "sha256": "7de25512e6f21d5242accadca84713e5350324ffa28b19d5dbb49bae4ff5a026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-131-2020",
+   "path": "local/arad/nadlac/2020/131",
+   "short": "HCL Nădlac nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h131.pdf",
+     "sha256": "3f182459a5ac97e8da584118c9bbe55496dfba19c004c1d63cf67700c662ec50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2020",
+   "path": "local/arad/nadlac/2020/132",
+   "short": "HCL Nădlac nr. 132/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h132.pdf",
+     "sha256": "8b453effd5fafdb96cbc6c4e21bcf890ae941bf05dbee097956a7454c0ca81c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-133-2020",
+   "path": "local/arad/nadlac/2020/133",
+   "short": "HCL Nădlac nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h133.pdf",
+     "sha256": "a09e19f62befb840907ffdda867b59b96949259c9983f57486c82602f0c28409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2020",
+   "path": "local/arad/nadlac/2020/134",
+   "short": "HCL Nădlac nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2020 privind modificarea comisiei de negociere a nivelului chiriilor pentru localurile școlare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h134.pdf",
+     "sha256": "30d223a239f3f250ec3a9ceccf43bc17f52332e63e23c5387a0d93e35027e247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2020",
+   "path": "local/arad/nadlac/2020/14",
+   "short": "HCL Nădlac nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2020 privind aprobarea reducerii prețului de vânzare a terenului evidențiat în CF nr.309496 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h14.pdf",
+     "sha256": "047ca03de08ebc791b388d1b448579422fc1e214d86fb3bef4561bbddc5ad143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2020",
+   "path": "local/arad/nadlac/2020/15",
+   "short": "HCL Nădlac nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2020 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr.14",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h15.pdf",
+     "sha256": "e90abe9fb754a2518fae9fc8b3ebf36e9d5ff04413df3143bd6b19836a63d88a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2020",
+   "path": "local/arad/nadlac/2020/16",
+   "short": "HCL Nădlac nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2020 privind aprobarea vânzării unor terenuri proprietatea privată a orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h16.pdf",
+     "sha256": "53c09a6ca421fc35240b9e942b4b8af3bfd7d9825769bce80352161c9637f435"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-168-2020",
+   "path": "local/arad/nadlac/2020/168",
+   "short": "HCL Nădlac nr. 168/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/August/Hot_168_-_2011.pdf",
+     "sha256": "04a102e4d09e2f2349f70419f3b3166e13d12f54bfe50bd9249c1acfd72a1092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2020",
+   "path": "local/arad/nadlac/2020/17",
+   "short": "HCL Nădlac nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2020 privind stabilirea chiriei lunare pentru locuințele pentru tineri, destinate închirierii, situate în orașul Nădlac, construite prin Agenția Națională pentru Locuințe",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h17.pdf",
+     "sha256": "810c0c83414c3c9a5e51ba8f57abfa29b68afd395e54bdb3b94cc21e44175e8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2020",
+   "path": "local/arad/nadlac/2020/18",
+   "short": "HCL Nădlac nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2020 privind acordarea unui mandat reprezentantului orașului Nădlac în AGA la Asociația de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h18.pdf",
+     "sha256": "47d5915dc44263bbc100e4bb3720ddd356349a94f21ab38b3c3a95cf84dc85a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2020",
+   "path": "local/arad/nadlac/2020/19",
+   "short": "HCL Nădlac nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2020 privind aprobarea procesului verbal privind stabilirea nivelului chiriilor pentru imobilele, proprietatea unor terțe persoane, în care funcționează unitățile de învățământ",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h19.pdf",
+     "sha256": "2049d4c3d23f5ecd4d1957f462571e8f43e130fcfd7d7e8187c1bfe3b38228cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-192-2020",
+   "path": "local/arad/nadlac/2020/192",
+   "short": "HCL Nădlac nr. 192/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 192/2020 privind rectificarea suprafeței parcelei nr. cad.301620 , evidenţiată în CF n r .301620 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_192_-_2011.pdf",
+     "sha256": "f83c2364bdffce54d08675f21b5dcd26663eb34fba003a2bece71b11833ec178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-193-2020",
+   "path": "local/arad/nadlac/2020/193",
+   "short": "HCL Nădlac nr. 193/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 193/2020 privind rectificarea suprafeței parcelei nr. cad.303501 , evidenţiată în CF n r .303501 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_193_-_2011.pdf",
+     "sha256": "a45968ac7d5da8001898878d14abd875c0792fd98e8d45a52d8ff22b8bdd089a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-194-2020",
+   "path": "local/arad/nadlac/2020/194",
+   "short": "HCL Nădlac nr. 194/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 194/2020 privind aprobarea parcelării t eren u lui în suprafaţă totală de 17071 mp, parcela nr. cad.301620 , evidenţiată în CF n r .301620 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_194_-_2011.pdf",
+     "sha256": "4f7deb9f4f84c7b1be516f4f87ff20a35eb8960a06afa196e2bd4880c4c1323d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-198-2020",
+   "path": "local/arad/nadlac/2020/198",
+   "short": "HCL Nădlac nr. 198/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 198/2020 privind sistarea Cărții Funciare nr. 303736 Nădlac ( provenită din conversia pe hârtie a CF nr. 10695 Nădlac ) , pa rcela nr.cad.1276",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_198_-_2011.pdf",
+     "sha256": "480f75ca2d57ca504ae06baf659dc848654220404300dab1ed821d3ba7dd812e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2020",
+   "path": "local/arad/nadlac/2020/2",
+   "short": "HCL Nădlac nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 02.112020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/hot2a.pdf",
+     "sha256": "791559c89945d9850df89d469fd0b321b626f29a2d0e7652f9b884e2e24baa50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2020",
+   "path": "local/arad/nadlac/2020/20",
+   "short": "HCL Nădlac nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2020 privind aprobarea introducerii în circuitul funciar a unor drumuri de exploatare și radierea unor drumuri",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h20.pdf",
+     "sha256": "584040c2455138500cee147d88b602773bed817ed70a81b123ac78b0c463579d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-203-2020",
+   "path": "local/arad/nadlac/2020/203",
+   "short": "HCL Nădlac nr. 203/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 203/2020 privind aprobarea prelungirii termenului contractului de închiriere nr. 8832/23.10.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_203_-_2011.pdf",
+     "sha256": "c8139e85f76afd1dc9c6f68f96551cedc70f590f04f64d7666549af2760a72ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-209-2020",
+   "path": "local/arad/nadlac/2020/209",
+   "short": "HCL Nădlac nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 209/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Noiembrie/Hot_209_-_2011.pdf",
+     "sha256": "2f60119514066f750b5f6d7f386246628a2726247cccaf282328f752898f2c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2020",
+   "path": "local/arad/nadlac/2020/21",
+   "short": "HCL Nădlac nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2020 privind aprobarea rectificării suprafeței imobilului situat în orașul Nădlac, parcela evidențiată în CF nr. 311525 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h21.pdf",
+     "sha256": "266e49ac7948b2520a9c75303c306e9230b2ea6f8f047a4c2af16b72ad94293b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-216-2020",
+   "path": "local/arad/nadlac/2020/216",
+   "short": "HCL Nădlac nr. 216/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 216/2020 privind atribuirea unei suprafeţe din parcela nr. top. 13691/ 56 , evidenţiată în CF nr. 30 3476 Nădlac – Nr. CF vechi 2201 Nădlac, în folosinţă gratuită pe durata existenţei locuinţei proprietate personală, d – lui Antal Raul – Costantin",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Noiembrie/Hot_216_-_2011.pdf",
+     "sha256": "c7b8b62524e78950f9f63b3ab992e696e73d6689743b2152846fcba0fb40321d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-218-2020",
+   "path": "local/arad/nadlac/2020/218",
+   "short": "HCL Nădlac nr. 218/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 218/2020 privind rectificarea suprafeței parcelei nr. cad.303667 , evidenţiată în CF n r .303667 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Noiembrie/Hot_218_-_2011.pdf",
+     "sha256": "94e6524941dcf846dcf82f8bfb592fbdd5928e46f03f24c8bd042908bffe3687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2020",
+   "path": "local/arad/nadlac/2020/22",
+   "short": "HCL Nădlac nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h22.pdf",
+     "sha256": "a6a218082e96dca146300da4ee5e96e61528e6e6b1343023ca2c3be679019b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-220-2020",
+   "path": "local/arad/nadlac/2020/220",
+   "short": "HCL Nădlac nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 220/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Noiembrie/Hot_220_-_2011.pdf",
+     "sha256": "e1a91403c98ed4dcfd241565f7e1fe4b9a3e1f028c0338a5e9044ed88ad0d49b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-222-2020",
+   "path": "local/arad/nadlac/2020/222",
+   "short": "HCL Nădlac nr. 222/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 222/2020 privind rectificarea suprafeței parcelei nr. ca d.302192 , evidenţiată în CF n r .302192 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Noiembrie/Hot_222_-_2011.pdf",
+     "sha256": "1203e6b11f1aa3f9c3854900646f30024497d20521718d758547586aa5feb7fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2020",
+   "path": "local/arad/nadlac/2020/23",
+   "short": "HCL Nădlac nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 20.02.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h23.pdf",
+     "sha256": "56fa7d9da75582a5f50dafbabb24f8edfb368009cf3fb07c6975652cf55d4648"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-234-2020",
    "path": "local/arad/nadlac/2020/234",
    "short": "HCL Nădlac nr. 234/2020",
@@ -74,6 +899,111 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Decembrie/hot_234_-_2011.pdf",
      "sha256": "64e713538b9f9bb61f9de0ca15155583f6265d238c72247f74792ddd0d656ebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-235-2020",
+   "path": "local/arad/nadlac/2020/235",
+   "short": "HCL Nădlac nr. 235/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 235/2020 privind aprobarea parcelării t eren u lui în suprafaţă totală de 3011 mp, parcela nr. cad.303129 , evidenţia tă în CF n r .303129 Nădlac , precum și vânzarea cu drept de preemțiune a unei parcele",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Decembrie/hot_235_-_2011.pdf",
+     "sha256": "7f3e7589ce31f52706c5ec5094a7047b16c5deea659a3e0277babf478e457f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2020",
+   "path": "local/arad/nadlac/2020/24",
+   "short": "HCL Nădlac nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2020 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 23.01.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h24.pdf",
+     "sha256": "f0d6c158e196a313947b93803773edcd1e6fc097149e1ce0d6d0564322cb5229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2020",
+   "path": "local/arad/nadlac/2020/26",
+   "short": "HCL Nădlac nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2020 privind înființarea serviciului public de salubrizare al Orașului Nădlac și stabilirea modalității de gestiune a unor activități din cadrul serviciului public de salubrizare din orașul Nădlac, în conformitate cu Legea nr.51/2006 a serviciilor comunitare de utilități p",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h26.pdf",
+     "sha256": "c6c036ee870937f8843045a83544bbacac6d47d7d5dd2fe4cc48ff3332511ff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2020",
+   "path": "local/arad/nadlac/2020/27",
+   "short": "HCL Nădlac nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2020 privind aprobarea organigramei și a statului de funcții",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h27.pdf",
+     "sha256": "8425815c0d171cb98cc464338fc2a827fae3c27028b11fcc594f738bff2daa57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2020",
+   "path": "local/arad/nadlac/2020/29",
+   "short": "HCL Nădlac nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2020 privind aprobarea Planului de acţiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Nădlac, pentru anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h29.pdf",
+     "sha256": "0cef9ef393616445b8c7d73955e2f9d645d8fa385af0a36fac2bcffe9338085e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2020",
+   "path": "local/arad/nadlac/2020/3",
+   "short": "HCL Nădlac nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2020 privind aprobarea procesului verbal al şedinţei privind ceremonia de constituire a Consiliului local Nădlac din data de 22.10.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/hot3a.pdf",
+     "sha256": "a37107696be6e07209e1e81a6cc6e0be73a1afd92ea97aefe8eba170c96f58a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2020",
+   "path": "local/arad/nadlac/2020/30",
+   "short": "HCL Nădlac nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2020 privind aprobarea Planului de acțiuni și lucrări de interes local, care vor fi prestate de beneficiarii Legii nr.416/2001, privind venitul minim garantat, pentru anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h30.pdf",
+     "sha256": "eec71f67ad2e3c45769fb2c0ab5d85e1a22c52af008f1684fef372e61df5adce"
     }
    ]
   },
@@ -93,6 +1023,81 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-32-2020",
+   "path": "local/arad/nadlac/2020/32",
+   "short": "HCL Nădlac nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2020 privind aprobarea reevaluării unor terenuri proprietatea privată a orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h32.pdf",
+     "sha256": "3ff164e57816e8c1e6ab90d272b1700bd5caf88c21db3f40f993384a484a66be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2020",
+   "path": "local/arad/nadlac/2020/33",
+   "short": "HCL Nădlac nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h33.pdf",
+     "sha256": "8347a9c98d7a7db64b6acba2e6aa1bdbb330321367c37b5d69ba973379efc11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2020",
+   "path": "local/arad/nadlac/2020/34",
+   "short": "HCL Nădlac nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2020 privind aprobarea rectificării suprafeței imobilului situat în orașul Nădlac, parcela evidențiată în CF nr.301952 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h34.pdf",
+     "sha256": "02954374153160cecfba2611f8c5b1b8d45d248d697a59c1ebce52e6249dbe31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2020",
+   "path": "local/arad/nadlac/2020/35",
+   "short": "HCL Nădlac nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h35.pdf",
+     "sha256": "e3effcdaa6819d165163cab53dc0fc3d5e8d2ac6fefa504c20cbfcd42fd6220d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2020",
+   "path": "local/arad/nadlac/2020/36",
+   "short": "HCL Nădlac nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2020 privind aprobarea prelungirii duratei contractelor de închiriere pentru locuinţele pentru tineri, destinate închirierii, situate în oraşul Nădlac str.G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h36.pdf",
+     "sha256": "3c1a94bb880312c0dc28f162e7748cfc766639faf829f0558766c4dbb723b20d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-37-2020",
    "path": "local/arad/nadlac/2020/37",
    "short": "HCL Nădlac nr. 37/2020",
@@ -104,6 +1109,111 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h37.pdf",
      "sha256": "07169380af92392c28dd633ad99d45c9626d7b11a2d5a7deec518d053d484307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2020",
+   "path": "local/arad/nadlac/2020/39",
+   "short": "HCL Nădlac nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2020 privind aprobarea dării în folosinţă gratuită a unor bunuri proprietate publică a orașului Nădlac, către Liceul Teoretic „Jozef Gregor Tajovsky” Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h39.pdf",
+     "sha256": "fbde80d45e8b24bbb71a49eb6aae574a9b4ab049b9a3f47c3180c1da43661e06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-4-2020",
+   "path": "local/arad/nadlac/2020/4",
+   "short": "HCL Nădlac nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 09.11.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/hot4a.pdf",
+     "sha256": "d98735787bc6c51145ab36e45af28d58e54d83da7df3009b548de003bc71951d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2020",
+   "path": "local/arad/nadlac/2020/40",
+   "short": "HCL Nădlac nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2020 privind aprobarea primirii în folosință gratuită a mijlocului fix „AMBULANȚA SMURD”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h40.pdf",
+     "sha256": "5c35940c1b9dc15f355e9c89f785dd8634fe47fcc5a23ee9d50e4d07902ec8b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2020",
+   "path": "local/arad/nadlac/2020/41",
+   "short": "HCL Nădlac nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h41.pdf",
+     "sha256": "c375913a70d4da39482c5afc16356a4c55e460962c6f0dbced51523ac3c62b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2020",
+   "path": "local/arad/nadlac/2020/42",
+   "short": "HCL Nădlac nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 31.03.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h42.pdf",
+     "sha256": "d44a2a444d222e3d97a2c2c9ccbca2fcabbab306ee50ac1b954701550010c107"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2020",
+   "path": "local/arad/nadlac/2020/43",
+   "short": "HCL Nădlac nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 20.02.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h43.pdf",
+     "sha256": "4170c65f4d5be042a8d47676c73361bab21b959fa606e05a194fb020515aa67d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2020",
+   "path": "local/arad/nadlac/2020/44",
+   "short": "HCL Nădlac nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2020 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h44.pdf",
+     "sha256": "2f16e56e9b6291fc7f769ea47b278c7e350f34a03c8a2eb434598437ae5b73c2"
     }
    ]
   },
@@ -123,6 +1233,456 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-46-2020",
+   "path": "local/arad/nadlac/2020/46",
+   "short": "HCL Nădlac nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2020 privind aprobarea planului local de resurse umane, materiale și financiare pentru gestionarea situațiilor de urgență pentru anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h46.pdf",
+     "sha256": "01c482e43883c022805e1fd6497035b7555cf5d5012e4fbea2c25ef43231d0dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2020",
+   "path": "local/arad/nadlac/2020/48",
+   "short": "HCL Nădlac nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2020 privind aprobarea vânzării terenului în suprafaţă de 1.008 mp, parcela cu nr. cad. 311335, evidenţiată în CF nr. 311335 Nădlac, situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h48.pdf",
+     "sha256": "ef0283474e67b858660a76d3ab580b2cf96bc0e250edd1e3208051a1eec00f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2020",
+   "path": "local/arad/nadlac/2020/49",
+   "short": "HCL Nădlac nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2020 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Local al orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h49.pdf",
+     "sha256": "32d73dc86aa90345fd266a7c8acaa1c6399636cb3730a4c5d6c746f017071897"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2020",
+   "path": "local/arad/nadlac/2020/5",
+   "short": "HCL Nădlac nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2020 privind aprobarea procesului verbal al ședinței privind ordinare a Consiliului Local al orașului Nădlac din data de 02.11.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/hot5a.pdf",
+     "sha256": "c54db70db574d4ceb5562b63a2c831dcd46e09c363df7d1b0dbfad6a33feaaab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2020",
+   "path": "local/arad/nadlac/2020/50",
+   "short": "HCL Nădlac nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2020 privind aprobarea programului de lucrări edilitar-gospodărești, reparații și dotări finanțate din bugetul local pentru anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h50.pdf",
+     "sha256": "13a870a12ff600c4cc02cd4b2e86506cc2770684a2db9680e3c64d9a241837d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2020",
+   "path": "local/arad/nadlac/2020/51",
+   "short": "HCL Nădlac nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h51.pdf",
+     "sha256": "89fdecd0d8bfa96e46d69688a649052060fa9b3ec6f19bc1a86491ca9f96947b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2020",
+   "path": "local/arad/nadlac/2020/52",
+   "short": "HCL Nădlac nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 30.04.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h52.pdf",
+     "sha256": "ca7fab4110bb74cd58d739c8d8df439399d18e4d711b5c72c38515f5f725676e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2020",
+   "path": "local/arad/nadlac/2020/53",
+   "short": "HCL Nădlac nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 31.03.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h53.pdf",
+     "sha256": "b3bdfd34277d14efa709cfcb2e9dcd6aa16c97a7c2c26252c48bba71641b57f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2020",
+   "path": "local/arad/nadlac/2020/54",
+   "short": "HCL Nădlac nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2020 privind aprobarea nivelurilor impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei sume în lei, precum şi limitele amenzilor care se fac venit la bugetul local, care se indexează anual pe baza ratei inflației, apli",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h54.pdf",
+     "sha256": "231200574f6fd6fa03285a99125c9250d971a986799c9e43237cc6262ccc63bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2020",
+   "path": "local/arad/nadlac/2020/55",
+   "short": "HCL Nădlac nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2020 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h55.pdf",
+     "sha256": "7414afdfdc907f629bb52d4f243696b5ed966e98d8fc46936d48f79346b849f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2020",
+   "path": "local/arad/nadlac/2020/56",
+   "short": "HCL Nădlac nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h56.pdf",
+     "sha256": "a496711f9811adabcfbdbb8aa3ec7ceeab5c44bc07cff8083cc2c3adb09bdc96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2020",
+   "path": "local/arad/nadlac/2020/57",
+   "short": "HCL Nădlac nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2020 privind aprobarea rectificării suprafeței imobilului situat în orașul Nădlac, parcela evidențiată în CF nr.313507 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h57.pdf",
+     "sha256": "352cf86f1d580644c4cf4c86a7abb89d726ff26e4a939db42bf8fbfbcb13a733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2020",
+   "path": "local/arad/nadlac/2020/59",
+   "short": "HCL Nădlac nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2020 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h59.pdf",
+     "sha256": "2a3ec247c4d6349f96a5df052bcb110d37f7d127bfb2c8c8c4c2fa1b140d1fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2020",
+   "path": "local/arad/nadlac/2020/6",
+   "short": "HCL Nădlac nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/hot6a.pdf",
+     "sha256": "d07563154e440b208388b96d1cea4c7e1188102cdf0049f0dbe53cb98c132861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2020",
+   "path": "local/arad/nadlac/2020/60",
+   "short": "HCL Nădlac nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 16.06.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h60.pdf",
+     "sha256": "ff90bc1d2878918db854ba7f32f3f23f7f8452237a496495f6f6a103aaa8f634"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2020",
+   "path": "local/arad/nadlac/2020/61",
+   "short": "HCL Nădlac nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 30.04.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h61.pdf",
+     "sha256": "59789a12e9441b421737243e7309677c0dbaf42c97fcccb5f7acc5b249248343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-62-2020",
+   "path": "local/arad/nadlac/2020/62",
+   "short": "HCL Nădlac nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2020 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h62.pdf",
+     "sha256": "8b44bf808d5c76140941642cdf988a6309f5fba56c1fb769e19c1275071ced9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2020",
+   "path": "local/arad/nadlac/2020/63",
+   "short": "HCL Nădlac nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2020 privind aprobarea execuției bugetului local aferent trimestrului I al anului 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h63.pdf",
+     "sha256": "42a6d8b20c6aef0ed68fd977fd23ad3f14632de4fb4a09eca4060b64bd50b6ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2020",
+   "path": "local/arad/nadlac/2020/64",
+   "short": "HCL Nădlac nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2020 privind participarea Orașului Nădlac, în colaborare cu Asociația Diakonia Evanghelică Nădlac și Liceul Teoretic Jozef Gregor Tajovsky Nădlac, în vederea acoperirii cheltuielilor cu salariile personalului nedidactic",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h64.pdf",
+     "sha256": "d46fd31d134d06201193f67f01289f983558d74ab7e5ae25eb9fda43814288b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-66-2020",
+   "path": "local/arad/nadlac/2020/66",
+   "short": "HCL Nădlac nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2020 privind aprobarea prelungirii duratei contractelor de închiriere pentru locuințele pentru tineri, destinate închirierii, situate în orașul Nădlac, str. G. Coșbuc, nr.54, jud. Arad, construite prin Agenția Națională pentru Locuințe",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h66.pdf",
+     "sha256": "ecc90bfab0636e0ec87810381d8e0abc00ba3e0d91583a25c3cd489dc1160f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-67-2020",
+   "path": "local/arad/nadlac/2020/67",
+   "short": "HCL Nădlac nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2020 privind demararea procedurii de vânzare prin licitație publică a imobilelor ( terenuri ) evidențiate în CF nr.313728 Nădlac, CF nr.313729 Nădlac, CF nr.313730 Nădlac, situate în intravilanul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h67.pdf",
+     "sha256": "7b6eaae73e7ef9080fa7798aa9dc51284db5686e597ae71d1e1a88fa1cf77ed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-69-2020",
+   "path": "local/arad/nadlac/2020/69",
+   "short": "HCL Nădlac nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 69/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h69.pdf",
+     "sha256": "b2b988986dfca0b1edfbf5fca063285e52d84dbff7ca34f795e5d10b892f39ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2020",
+   "path": "local/arad/nadlac/2020/7",
+   "short": "HCL Nădlac nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 23.01.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h7.pdf",
+     "sha256": "ba5c97936f6e16afdd50c2a698d05305753d9e57c7e69b1270dda0f228f351ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2020",
+   "path": "local/arad/nadlac/2020/70",
+   "short": "HCL Nădlac nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2020 privind aprobarea vânzării apartamentului situat în orașul Nădlac, str. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h70.pdf",
+     "sha256": "68a1455dfb356f454dbaa96fc414ec89915e5b02635051c19b3b28b4d4aa3fb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2020",
+   "path": "local/arad/nadlac/2020/71",
+   "short": "HCL Nădlac nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2020 privind aprobarea Actului Adițional la Actul Constitutiv, Actul Constitutiv revizuit, Actul Adițional la Statut și Statutul revizuit al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h71.pdf",
+     "sha256": "1650e10652b202d9e0aff24fb59c12a44006760c02cf04e583d5ab881a1d6de6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-72-2020",
+   "path": "local/arad/nadlac/2020/72",
+   "short": "HCL Nădlac nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 28.07.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h72.pdf",
+     "sha256": "7d9991102548fcf4f666e4c689530358f902b5ca499f0d666286249f2291323c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2020",
+   "path": "local/arad/nadlac/2020/73",
+   "short": "HCL Nădlac nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 16.06.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h73.pdf",
+     "sha256": "864b4b4feead767e25930cd8dce602a90f7bc570f3d073bd24d41550d0e8f339"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2020",
+   "path": "local/arad/nadlac/2020/74",
+   "short": "HCL Nădlac nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2020 privind încheierea și aprobarea exercițiului bugetar pe anul 2019",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h74.pdf",
+     "sha256": "d61714e2441763c1ef4bbaa8502884be3dd8fcd8ff7e23449a00972d930e01b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2020",
+   "path": "local/arad/nadlac/2020/75",
+   "short": "HCL Nădlac nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2020 privind aprobarea prelungirii contractului de comodat nr. 5092/ 28.06. 2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Mai/hot_75_-_2012.pdf",
+     "sha256": "252fa41f8836099225c818cfc574b2a9c574213e6989c19de6321d9992b83e03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2020",
+   "path": "local/arad/nadlac/2020/76",
+   "short": "HCL Nădlac nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h76.pdf",
+     "sha256": "0c94671d8e05d6f96e1cb2af36a58e43187b1f11d9a83bcce35b7fb455e61bcd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-78-2020",
    "path": "local/arad/nadlac/2020/78",
    "short": "HCL Nădlac nr. 78/2020",
@@ -138,6 +1698,186 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-79-2020",
+   "path": "local/arad/nadlac/2020/79",
+   "short": "HCL Nădlac nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 79/2020 privind aprobarea măsurilor pentru remedierea deficiențelor și pentru realizarea capacității de apărare împotriva incendiilor și în alte situații de urgență la nivelul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h79.pdf",
+     "sha256": "b0e8cb5380e91073163b5c8a526a69c5471146bfa381a6d90696fbd6bf857c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2020",
+   "path": "local/arad/nadlac/2020/8",
+   "short": "HCL Nădlac nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2020 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 08.01.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h8.pdf",
+     "sha256": "d93dca04ee41fa96ab6f521bb60851ee74790a756bf7a85467774f2f422aa4dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2020",
+   "path": "local/arad/nadlac/2020/80",
+   "short": "HCL Nădlac nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2020 privind aprobarea vânzării terenului în suprafaţă de 861 mp, parcela cu nr. cad. 313867, evidenţiată în CF nr. 313867 Nădlac, situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h80.pdf",
+     "sha256": "0305c3788b7c9ab5be44c4ddf6b802554f5f29a0cadd05ddcfb0f7d54be5ce9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-81-2020",
+   "path": "local/arad/nadlac/2020/81",
+   "short": "HCL Nădlac nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2020 privind suspendarea, pentru anul 2020, punerii în aplicare a prevederilor Hotărârii nr.18/30.01.2018",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h81.pdf",
+     "sha256": "e0c4fd24829f5f7665f185a26120701fab736ab71a94d1f08205cbc6a8a0d36a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-82-2020",
+   "path": "local/arad/nadlac/2020/82",
+   "short": "HCL Nădlac nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2020 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr.15",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h82.pdf",
+     "sha256": "e11949fe28f75562c216c6d26dca68bd8df05d312ef502885bfc336055871eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2020",
+   "path": "local/arad/nadlac/2020/83",
+   "short": "HCL Nădlac nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2020 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h83.pdf",
+     "sha256": "539c2ffe96ea6b879ef3393dcf616c42070ba0ef68a3107c10214bae3eb20dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-84-2020",
+   "path": "local/arad/nadlac/2020/84",
+   "short": "HCL Nădlac nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 10.09.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h84.pdf",
+     "sha256": "92d6142aee2c51676ad01f4d8f68921f356d15d2719a4ba44a990785bcb33c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2020",
+   "path": "local/arad/nadlac/2020/85",
+   "short": "HCL Nădlac nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 28.07.2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h85.pdf",
+     "sha256": "ce0e5d82a4de53d2ba4f0ca05dbed184e88794ff30176ae49518357cb379e875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-86-2020",
+   "path": "local/arad/nadlac/2020/86",
+   "short": "HCL Nădlac nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h86.pdf",
+     "sha256": "c04276a59d4de78c76574f160c336905ef6db803f7507df67dbc6c11a4c5bb6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2020",
+   "path": "local/arad/nadlac/2020/87",
+   "short": "HCL Nădlac nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h87.pdf",
+     "sha256": "d67f9ea369d4903deed642dc03edd667dea9dcfd5c2b0344bae303ae42432931"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2020",
+   "path": "local/arad/nadlac/2020/88",
+   "short": "HCL Nădlac nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h88.pdf",
+     "sha256": "a72996ac85752451d1402f779a513dac6459e313899917418d98310647739889"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2020",
+   "path": "local/arad/nadlac/2020/89",
+   "short": "HCL Nădlac nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h89.pdf",
+     "sha256": "3a7de94714cea8cf0cf79bdcb8ee4e29ed63c628d0328248425ddd3b479ea06a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-9-2020",
    "path": "local/arad/nadlac/2020/9",
    "short": "HCL Nădlac nr. 9/2020",
@@ -149,6 +1889,141 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h9.pdf",
      "sha256": "b69934266aa249e30138286e120d17a0327f5589d9a784abce50fc2889a6dfcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2020",
+   "path": "local/arad/nadlac/2020/90",
+   "short": "HCL Nădlac nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h90.pdf",
+     "sha256": "e4dfde9c10c5a1e97d9314ab8a79ff769b5178284182631909a4ac7c3a99554a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2020",
+   "path": "local/arad/nadlac/2020/91",
+   "short": "HCL Nădlac nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h91.pdf",
+     "sha256": "91deb061e1bf9ac5a7a34877e3712445e3353a7b610988f53add917c9c165a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-92-2020",
+   "path": "local/arad/nadlac/2020/92",
+   "short": "HCL Nădlac nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h92.pdf",
+     "sha256": "24cbb8c7cb4a97a28edbaad3bbc932610bfb8fe7bee5539648e30eafd1a7ed96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2020",
+   "path": "local/arad/nadlac/2020/93",
+   "short": "HCL Nădlac nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h93.pdf",
+     "sha256": "989c5e8c13295985761456e4e998b509b1dcd567f6b611700b4116e5b4b0466c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2020",
+   "path": "local/arad/nadlac/2020/94",
+   "short": "HCL Nădlac nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2020 privind reorganizarea comisiilor de specialitate ale Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h94.pdf",
+     "sha256": "f5a51651956da8b830ba011148f9277d9d5709b05e3944c54e4d7a69a2d435f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2020",
+   "path": "local/arad/nadlac/2020/95",
+   "short": "HCL Nădlac nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2020 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h95.pdf",
+     "sha256": "7bdd4b8cb06a4c76467af7458efe9ff00a400035e4bc11d1f0334cbdd702776e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2020",
+   "path": "local/arad/nadlac/2020/96",
+   "short": "HCL Nădlac nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h96.pdf",
+     "sha256": "5362f0cd5c6be817ee055042a33248a9da4d17a9e532045bdd46e94a72c0d18e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2020",
+   "path": "local/arad/nadlac/2020/98",
+   "short": "HCL Nădlac nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h98.pdf",
+     "sha256": "aa7024cb92bee3a3d6d8e282d7318929ddde7525c25758a92decd1eebab56a8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2020",
+   "path": "local/arad/nadlac/2020/99",
+   "short": "HCL Nădlac nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h99.pdf",
+     "sha256": "58b9a94f0f7aa2014132c58d061d441262e1efe18ca6dca869d8feb0264103f6"
     }
    ]
   }

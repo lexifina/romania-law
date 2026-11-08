@@ -3,6 +3,231 @@
  "shard": "local/arad/ignesti/2025",
  "acts": [
   {
+   "slug": "hcl-arad--ignesti-41-2025",
+   "path": "local/arad/ignesti/2025/41",
+   "short": "HCL Ignești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 41/2025 Privind aprobarea contului de execuție a bugetului local al comunei Ignești la data de 30.06.2025 HCL 41",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/07/HCL-41.doc",
+     "sha256": "1c21096d2744037dbb459a579690edfda61234127728da0dc6b2019e0bbd0d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-42-2025",
+   "path": "local/arad/ignesti/2025/42",
+   "short": "HCL Ignești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 42/2025 Privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respective colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similar provenind din activităţi comerciale din industrie şi instituţii, inclusive fracţii colectate separat din județul Arad, zonele 2, 3 și 4, avizarea Strategiei de contractare, a Studiului de fundamenta",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/07/HCL-42.docx",
+     "sha256": "8a2571b8eaa409a954ad59a7d680728f9d94998e443c06a3c34b6f6c7e66f645"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-43-2025",
+   "path": "local/arad/ignesti/2025/43",
+   "short": "HCL Ignești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 43/2025 Privind avizarea Strategiei de contractare și a Documentației de atribuire pentru delegarea gestiuniiunor activități componente ale serviciului de salubrizare în județul Arad, Zona 4 HCL 43",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/07/HCL-43.docx",
+     "sha256": "dda0198dbae77db08a6cd512be2d5d8a08598b9adbf90caefaf49fb48d1f5004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-44-2025",
+   "path": "local/arad/ignesti/2025/44",
+   "short": "HCL Ignești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 44/2025 Privind transformarea unui post aferentunei funcții publice de execuție din cadrul aparatului de specialitate al primarului comunei Ignești, județul Arad HCL 44",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/07/HCL-44.docx",
+     "sha256": "7920e58491a1c17df74fef30c46d131138cf6b8a64384e0bb8c3f1f3dabfafb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-46-2025",
+   "path": "local/arad/ignesti/2025/46",
+   "short": "HCL Ignești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 46/2025 Privind alegerea preşedintelui de şedinţă HCL 46",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/09/HCL-46.doc",
+     "sha256": "f346e160e71899250fedd7e52a7b58edf59552d3cf45ede65be8dbba1fe35835"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-47-2025",
+   "path": "local/arad/ignesti/2025/47",
+   "short": "HCL Ignești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 47/2025 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 12.09.2025 HCL 47",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/09/HCL-47.doc",
+     "sha256": "2261252548a750033a0bb795f799df9669fb6b538305d1b99848026cf5d7e403"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-48-2025",
+   "path": "local/arad/ignesti/2025/48",
+   "short": "HCL Ignești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 48/2025 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 2025 HCL 48",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/09/HCL-48.doc",
+     "sha256": "83705c6567667ab909b7b5520eebea5eea4e26eea9b0149d12123c13f3934ab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-49-2025",
+   "path": "local/arad/ignesti/2025/49",
+   "short": "HCL Ignești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 49/2025 Privind rectificarea bugetului local pe anul 2025 HCL 49",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/09/HCL-49.doc",
+     "sha256": "66bdc0798b0968f194e820eb7d73c563be488d7cd45f6d1e5968adad2d8c1b32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-50-2025",
+   "path": "local/arad/ignesti/2025/50",
+   "short": "HCL Ignești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/09/HCL-50.doc",
+     "sha256": "a63aca82e8d035abf923e66ea8f70543446d5c71280aaff76b909e60666ee353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-52-2025",
+   "path": "local/arad/ignesti/2025/52",
+   "short": "HCL Ignești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 52/2025 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 29.10. 2025 HCL 52",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-52.doc",
+     "sha256": "dd799b1e7a190e7e64df6667761b14f8dceed6042f6f448b14cefddbe08b86b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-53-2025",
+   "path": "local/arad/ignesti/2025/53",
+   "short": "HCL Ignești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 53/2025 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 12.09.2025 HCL 53",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-53.doc",
+     "sha256": "d56ba5e424867dbd26a529fd2d6668e29067d097d1375324d8c55d50166ef8e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-54-2025",
+   "path": "local/arad/ignesti/2025/54",
+   "short": "HCL Ignești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 54/2025 Privind aprobarea contului de execuție a bugetului local al comunei Ignești la data de 30.09.2025 HCL 54",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-54.doc",
+     "sha256": "c48c8bb21556f03f0c40df3c33dd2990b901547d15843b4ad88e70bf7a438ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-55-2025",
+   "path": "local/arad/ignesti/2025/55",
+   "short": "HCL Ignești nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 55/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-55.doc",
+     "sha256": "41e8186498711597a32922db5fbc8dbc44dfbb8e4e13c310173c0a8311175fee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-56-2025",
+   "path": "local/arad/ignesti/2025/56",
+   "short": "HCL Ignești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 56/2025 Privind aprobarea închirierii prin licitație publică a unui spațiu comercial din blocul de locuințe, situat în loc. Ignești, nr. 5, comuna Ignești, jud",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-56.doc",
+     "sha256": "b9fd921e1f96d0259d050fb50b40d1ff3bd80f4534b18d569e3c2f9fcdcf05f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-57-2025",
+   "path": "local/arad/ignesti/2025/57",
+   "short": "HCL Ignești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 57/2025 Privind desemnarea reprezentantului Consiliului Local al comunei Ignești, județul Arad, în Consiliul de Administrație al Școlii primare Susani, în anul școlar 2025-2026 HCL 57",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-57.docx",
+     "sha256": "aa4ae60020b0c2016a4effa490be6f58de105043916fc14d64a5b2c31763152a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-59-2025",
    "path": "local/arad/ignesti/2025/59",
    "short": "HCL Ignești nr. 59/2025",

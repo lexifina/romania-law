@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2018",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-196-2018",
+   "path": "local/arad/ineu/2018/196",
+   "short": "HCL Ineu nr. 196/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 196/2018 pentru a descărca Hotărârea 196 din 21.12.2018",
+   "url": "https://primariaineu.ro/hotararea-196-impozite-si-taxe-2018/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2018/01/HOT.NR_.196-din-21.12.2017.pdf",
+     "sha256": "ec74f9859d10290433601060b21bb22a4bb132f3d647ab0e18e2d9332bd25619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-41-2018",
+   "path": "local/arad/ineu/2018/41",
+   "short": "HCL Ineu nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 41/2018",
+   "url": "https://primariaineu.ro/wp-content/uploads/2023/06/41.-hotararea-nr.117-din-data-de-14.07.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2023/06/41.-hotararea-nr.117-din-data-de-14.07.2018.pdf",
+     "sha256": "f6081936bdc6723fbfe749dc5b12f20a0b9a0ec21418b6b54d2d9a339f8b2fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-42-2018",
+   "path": "local/arad/ineu/2018/42",
+   "short": "HCL Ineu nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 42/2018",
+   "url": "https://primariaineu.ro/wp-content/uploads/2023/06/42.-hotararea-nr.118-din-data-de-14.07.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2023/06/42.-hotararea-nr.118-din-data-de-14.07.2018.pdf",
+     "sha256": "ef0582b907812f3412ef4bef2002b17a755ceb9377c4cbe1b6acfc20d89ae484"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-43-2018",
+   "path": "local/arad/ineu/2018/43",
+   "short": "HCL Ineu nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 43/2018",
+   "url": "https://primariaineu.ro/wp-content/uploads/2023/06/43.-hotararea-nr.227din-data-de-13.12.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2023/06/43.-hotararea-nr.227din-data-de-13.12.2018.pdf",
+     "sha256": "969fe900dbadc68632bc8d94a948ff3ebb0386d14b3a1390af037baf5f09c87f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-62-2018",
+   "path": "local/arad/ineu/2018/62",
+   "short": "HCL Ineu nr. 62/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 62/2018",
+   "url": "https://primariaineu.ro/wp-content/uploads/2023/06/46.-HCL-nr.-62-din-25.04.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2023/06/46.-HCL-nr.-62-din-25.04.2018.pdf",
+     "sha256": "25681f65f31f4ac1a30cfc356c717095f098df6276129e703e4769797cf9b423"
+    }
+   ]
+  }
+ ]
+}

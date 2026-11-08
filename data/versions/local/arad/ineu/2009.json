@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2009",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-142-2009",
+   "path": "local/arad/ineu/2009/142",
+   "short": "HCL Ineu nr. 142/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 142/2009 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-14226-10-2009/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h142-26.10.09.pdf",
+     "sha256": "6a6f7589de78e799d87071f9b0eed0c8ba32c5c87666f73e7aa800d68501015c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-35-2009",
+   "path": "local/arad/ineu/2009/35",
+   "short": "HCL Ineu nr. 35/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 35/2009 pentru a vedea hotărârea!",
+   "url": "https://primariaineu.ro/hotararea-3530-03-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2013/08/h35-30.03.09.pdf",
+     "sha256": "b007b314323db57464a17d5bf58437120b199b2063ec5129d5a641fb5d78207a"
+    }
+   ]
+  }
+ ]
+}

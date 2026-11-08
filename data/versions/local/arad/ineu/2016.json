@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2016",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-1-2016",
+   "path": "local/arad/ineu/2016/1",
+   "short": "HCL Ineu nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 1/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-15-1-2016/",
+   "versions": [
+    {
+     "from": "2016-01-15",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-15.01.2016HOT.1-14.pdf",
+     "sha256": "fb085e0d1cd7a26a327fd3da965a503a075b1026181df96020ed584d076e2cb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-100-2016",
+   "path": "local/arad/ineu/2016/100",
+   "short": "HCL Ineu nr. 100/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 100/2016 pentru a vizualiza hotărârea",
+   "url": "https://primariaineu.ro/hotarari-sedinta-13-7-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-13",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-13.07.2016HOT.100-1.pdf",
+     "sha256": "08281df8a5ab49b1210297a83c7ad4b197e9fbc835d2ba4580f591d65d216b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-101-2016",
+   "path": "local/arad/ineu/2016/101",
+   "short": "HCL Ineu nr. 101/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 101/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-13-7-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-13",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-13.07.2016HOT.101-103-1.pdf",
+     "sha256": "6538e90dafb82140b8e0310d3d6ed0c7bc6b2ce1c3e1a8e6b4ee52bc6fb2c8e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-104-2016",
+   "path": "local/arad/ineu/2016/104",
+   "short": "HCL Ineu nr. 104/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 104/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-13-7-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-13",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-13.07.2016HOT.104-116-1.pdf",
+     "sha256": "88f472fe2bf6c5129b42cc612baacf2ee6a9f82621192d069d298db0402efc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-117-2016",
+   "path": "local/arad/ineu/2016/117",
+   "short": "HCL Ineu nr. 117/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 117/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-24-8-2016/",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-24.08.2016HOT.117-125.pdf",
+     "sha256": "17084bb5559761019fb38f6cc47ac7646696c8db3cb8538bcfc661f5954006dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-126-2016",
+   "path": "local/arad/ineu/2016/126",
+   "short": "HCL Ineu nr. 126/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 126/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-6-9-2016/",
+   "versions": [
+    {
+     "from": "2016-09-06",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-06.09.2016HOT.126-128.pdf",
+     "sha256": "72efc08540640a587b4a9e691fdd15ff0f25f479e370496f7826704940e509ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-129-2016",
+   "path": "local/arad/ineu/2016/129",
+   "short": "HCL Ineu nr. 129/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 129/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-14-9-2016/",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-14.09.2016HOT.129-136.pdf",
+     "sha256": "c5b38e7109c95ab442fa332a021c692469a65475a2cb143936f81bdee9f4c183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-137-2016",
+   "path": "local/arad/ineu/2016/137",
+   "short": "HCL Ineu nr. 137/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 137/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-30-9-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-30.09.2016HOT.137-147.pdf",
+     "sha256": "903ff8d558567549f18c5bd28a2e644e02333487bd962e6db622e5663a591989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-148-2016",
+   "path": "local/arad/ineu/2016/148",
+   "short": "HCL Ineu nr. 148/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 148/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-21-10-2016/",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-21.10.2016HOT.148-151.pdf",
+     "sha256": "083d23f9b4081e159221cd96cb3838c9263d9c30037ea3cf51377f68e21d9456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-15-2016",
+   "path": "local/arad/ineu/2016/15",
+   "short": "HCL Ineu nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 15/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-29-1-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-29.01.2016HOT.15-28.pdf",
+     "sha256": "be883f3e756bccfd37e9ccccdb7415afcf0925e41e0e30a048514d4116031e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-152-2016",
+   "path": "local/arad/ineu/2016/152",
+   "short": "HCL Ineu nr. 152/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 152/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-31-10-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-31.10.2016HOT.152-163.pdf",
+     "sha256": "8766924739c43aefb6e8b35aceee705d5b25bf5009a887635a0863bcae8ba881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-164-2016",
+   "path": "local/arad/ineu/2016/164",
+   "short": "HCL Ineu nr. 164/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 164/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-31-10-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-31.10.2016HOT.164-169.pdf",
+     "sha256": "c33f79ade8714d867ceeee4fbcd8da6c6faff6fef9de1f3291d698498b29cc21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-170-2016",
+   "path": "local/arad/ineu/2016/170",
+   "short": "HCL Ineu nr. 170/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 170/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-22-11-2016/",
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-22.11.2016HOT.170-174.pdf",
+     "sha256": "1bfe3ce0699f9dc91b4af7c8538f1b80783e41243e6256cadff94d7ba2ffaaa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-175-2016",
+   "path": "local/arad/ineu/2016/175",
+   "short": "HCL Ineu nr. 175/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 175/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-29-11-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-29.11.2016HOT.175-188.pdf",
+     "sha256": "9a71f5148f4a6d4a9b48649d73ed047499396016ac1271612256021e7811c584"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-189-2016",
+   "path": "local/arad/ineu/2016/189",
+   "short": "HCL Ineu nr. 189/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 189/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-8-12-2016/",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-08.12.2016HOT.189-192.pdf",
+     "sha256": "5ae754a3cf5b74d8f36c91de65d6446bf9a9de4dd00601aec3db7f121cefdc5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-193-2016",
+   "path": "local/arad/ineu/2016/193",
+   "short": "HCL Ineu nr. 193/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 193/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-23-12-2016/",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-23.12.2016HOT.193-196.pdf",
+     "sha256": "b48fe1933b1b967b3ad43a718c41b6eb89200e661bab30bc259c24be69b264c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-197-2016",
+   "path": "local/arad/ineu/2016/197",
+   "short": "HCL Ineu nr. 197/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 197/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-23-12-2016/",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-23.12.2016HOT.197-204.pdf",
+     "sha256": "b0acb55318b69f455cca6ad25da2b4e7cfa1223a47b440c09021b2f08f88024d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-29-2016",
+   "path": "local/arad/ineu/2016/29",
+   "short": "HCL Ineu nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 29/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-5-2-2016/",
+   "versions": [
+    {
+     "from": "2016-02-05",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-05.02.2016HOT.29-33.pdf",
+     "sha256": "cc36fa86b1447cb13bcc80a0d553ddc2a4cd4d5f7df9abf12d8aaae3d7a0d549"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-33-2016",
+   "path": "local/arad/ineu/2016/33",
+   "short": "HCL Ineu nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 33/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-5-2-2016/",
+   "versions": [
+    {
+     "from": "2016-02-05",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-05.02.2016HOT.33-45.pdf",
+     "sha256": "ea6ffe6cbdd1e212135e1e2da208790a6a312f1c45046b3eb21f42a09ece0fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-40-2016",
+   "path": "local/arad/ineu/2016/40",
+   "short": "HCL Ineu nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 40/2016",
+   "url": "https://primariaineu.ro/wp-content/uploads/2023/06/40.-Hotararea-95-din-30.06.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2023/06/40.-Hotararea-95-din-30.06.2016.pdf",
+     "sha256": "2d067265421000cd2acb7fd7d91dd04949597d2e6ef0aeb66557b5c822da4115"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-46-2016",
+   "path": "local/arad/ineu/2016/46",
+   "short": "HCL Ineu nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 46/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-31-3-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-31.03.2016HOT.46-56.pdf",
+     "sha256": "109e34d422d8d0449ab23e2962af86c762d2385791bf45fad2eb583e73fda541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-57-2016",
+   "path": "local/arad/ineu/2016/57",
+   "short": "HCL Ineu nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 57/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-31-3-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-31.03.2016HOT.57-63.pdf",
+     "sha256": "10a993bf91fca4e978d56d2642677a8dd57544acb593d5056d666f7aca5dd1e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-64-2016",
+   "path": "local/arad/ineu/2016/64",
+   "short": "HCL Ineu nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 64/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-28-4-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-28.04.2016HOT.64-71-1.pdf",
+     "sha256": "b743324395a3e07095ec9dbd4f629f9869948650f32beddca36bdd08a3057e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-72-2016",
+   "path": "local/arad/ineu/2016/72",
+   "short": "HCL Ineu nr. 72/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 72/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-20-5-2016/",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-20.05.2016HOT.72-86.pdf",
+     "sha256": "a24ce1c6aa0cdd4720b6b2466e9673a2e587259bf4c0bb7f4b7025bfddef04d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-87-2016",
+   "path": "local/arad/ineu/2016/87",
+   "short": "HCL Ineu nr. 87/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 87/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-24-6-2016/",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-24.06.2016HOT.87-92.pdf",
+     "sha256": "7bac5561ca47a2bf3b10f51be72f987e6b9382db2c4aa5501a9b40590bfca486"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-93-2016",
+   "path": "local/arad/ineu/2016/93",
+   "short": "HCL Ineu nr. 93/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 93/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-24-6-2016/",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-24.06.2016HOT.93-96.pdf",
+     "sha256": "20bd959fbd3b7494e4c458c3adc2995ccbbda5f4679ab71defeb64f4f3ac4716"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-97-2016",
+   "path": "local/arad/ineu/2016/97",
+   "short": "HCL Ineu nr. 97/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 97/2016 pentru a vizualiza hotărârile",
+   "url": "https://primariaineu.ro/hotarari-sedinta-13-7-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-13",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2017/06/Sedinta-13.07.2016HOT.97-99.pdf",
+     "sha256": "b7cdbc5d7bdc30e7bb7a5aaf2bdc2bfbbae5ac69501d8ce6d03304be90e8ad56"
+    }
+   ]
+  }
+ ]
+}

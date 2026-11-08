@@ -1,4 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+cnsc-decizie-2026-1,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjk0ODU5YWQtMTQwOS00YjA5LThhY2YtMWM3ZWJkM2I0NTBm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xLnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-10,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2I4NjUxYjMtYmJlOC00MzAxLWFhZTMtNGJmZDFiMzI3NTdk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMC5wZGY=&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-100,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjZjNjc3Y2ItZTU0Mi00ZGE3LTliYzUtYTkxMmE3MGNjZTY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1002,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODMyNWMyNjAtYWMxNS00MzEzLWE1ZWYtODhiZmFjMTc2NDk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDAyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1003,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQzMDhkMGEtNjVhNS00NTdjLWJhNzctMjAyMDNjNWRlMDdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDAzLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1005,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzIzMzRhZTgtZDRmMi00NDFlLWJmNzMtOWYzNjk2NWExMDJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDA1LnBkZg==&action=YXR0YWNobWVudA==
@@ -6,6 +9,7 @@ cnsc-decizie-2026-1006,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1007,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmIyMTRkZDAtMmU2MC00NjgxLTkzMTktMGE3MGEwNDg1MTdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDA3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1008,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTYwY2I2Y2QtOThlYS00ZjRiLTkyMTAtYTVkOGIxNDFhZjUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDA4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1009,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFiNzFkYTMtYmJiMS00MmM5LWIwMDEtYjVjMzE0MDRiZTQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDA5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-101,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Nzc4MjBiNzgtNDZlNy00OTU3LWI1YzctZmZiNTVmNzg2NTA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1010,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGM5YTUxYTktMjZjOC00NGMyLThjYzYtMDUyNDM0M2IzMjc4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDEwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1012,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzUyNzdjMzEtMTg2OS00MWZiLWIyYzctYjkwMzYyODljY2Yw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDEyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1013,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OThkZjY4NDctOGIzNS00ZjE0LTgzN2MtMDg3MjJkMGEwNDA5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDEzLnBkZg==&action=YXR0YWNobWVudA==
@@ -14,12 +18,14 @@ cnsc-decizie-2026-1015,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1016,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjg5MGVjNTAtNjVkYS00ZGFjLTliNTctNDY0N2EyODg0ZWUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDE2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1017,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTcwN2Q4NGUtYzBhMS00NTE1LWJlZmMtZTcwOTFkZGMwODAw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDE3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1019,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTFhZGE3ZDYtOWEyOC00ZmMwLTlkZmUtY2ZmZmMyYzM4NmZh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDE5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-102,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGYyNmE3ZTktNmMyMS00YmZmLWE2MjEtNGIwZjRkOWQ0ZmY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1020,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODNmMGEwZWYtN2JkMC00MTFkLWE2MDItMGQ3NWJmNWNiNTM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDIwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1022,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTJjOWVjYjAtMWY1NS00NDIwLWI5ZTctMzVlZGFjZTI1YWFj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDIyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1023,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGI4NDk0OTAtYTYwOC00NWE4LWIxZWMtMDY2M2ViMjczMWMx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDIzLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1025,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDc2ZWIxOTEtZDgyMS00ZmE1LWE2NGEtODViMjJlY2NhZjYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDI1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1026,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDFkZjdmM2YtNzAwOS00Yjk2LThmMDMtN2ZjZjIwY2Y5YmJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDI2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1029,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE2MmJhNzItNDU4ZC00NDQwLTllMmMtNWMzMjUwM2EzMTBj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDI5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-103,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzBkYzVhMDItOTNlMC00NzczLWE4ZDEtNWFmYmMyOTQzNDUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDMucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1030,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWE1OWE0MDItYTlmYi00ODM0LWE0ZjItMGM3NmFmMzU1NTFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDMwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1032,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjA5OThhZmEtZWY4Ny00NWEwLWEwODMtY2Q4YzczMzUyYTk2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDMyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1033,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTExZGY4MWMtNDIxNi00N2JiLTg3ZWQtMzYzNmNlYTQ0NGRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDMzLnBkZg==&action=YXR0YWNobWVudA==
@@ -28,6 +34,7 @@ cnsc-decizie-2026-1036,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1037,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2JhNDE2YWYtZWE4Mi00YzJlLWFmYjMtNTNlNTVlYjgwYjU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDM3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1038,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTM3MTJhZDYtMmY1YS00NjkyLThhM2YtOTg3MmY0NGFmYzJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDM4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1039,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWU4MTgxYmYtYTUxNy00NDg0LThkYmUtMTc0NjVlNmMzMzgy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDM5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-104,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2JkYTIwYWYtMzQ0My00MWUzLWJkMTYtMzVkOGZlMjUyNDEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1040,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDg2MTlmMDMtNWUxNy00Njc0LWE0NTAtMzM1MzEyYWRkMGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1044,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzhkMjFjOTUtMzY0Ny00YTgxLTk5YjktYWY4MWU2YmFmMzE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQ0LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1045,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjUyNzNiYmItMDM1Yi00ZThlLWJhZTItODhhOTA1NDYwZTk2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQ1LnBkZg==&action=YXR0YWNobWVudA==
@@ -35,6 +42,7 @@ cnsc-decizie-2026-1046,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1047,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2YzOGJmYjctNmZjNS00YmI2LTkxZDctOWUyYzM1ODA0Njhk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQ3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1048,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWNlMmE4ZTctZWU1ZS00NGJkLWE5NzgtMTM1ODkzZmIxODkx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQ4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1049,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGQyMjRmMGEtZDhhYS00YjJlLWI2OTEtZmY3Y2FjMzYwMWY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDQ5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-105,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yzg3MzQ1NGQtZjdkYy00ZDkwLWFkYWYtZGQ1YzNkYTgzOTE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1051,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWM3NmUxMWYtZmM4NS00MDVkLTkzNzctOGU3MjVkMzQzY2Vl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDUxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1052,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzFlZThkYzYtNDg5YS00YTIyLTkxMDMtMzdhMDc4MjZlM2Q2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDUyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1054,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjFhNGI4ZmQtNDBhNS00ZTBmLTkyNWItODM5YTg5N2FhNDFi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDU0LnBkZg==&action=YXR0YWNobWVudA==
@@ -42,6 +50,7 @@ cnsc-decizie-2026-1055,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1056,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmY5NmQwODEtYzRmMC00Y2RmLTg1OWEtYzc2ZGJiODdhM2Qy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDU2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1057,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGE1OTdjMGUtYTcxYS00NWVhLWIxNDgtZGI1OTg2YTFlNjIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDU3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1059,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjBhNjEwZWUtZTZmYi00MGMwLWFiNzEtODBlOWM3YjRlNzU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDU5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-106,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2ZmZDk5MzQtOTNlMC00NDdhLWFjNTItMWEyZWJkNWZkYzk5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1060,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTE1ODg2MzAtNWMyNS00OTNjLTkxMTktYTIzMzY1MjlmNWIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDYwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1061,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzYwNTEzMDktMWY3Zi00N2ZiLWExMWMtM2E5NDQ1NDRlZWYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDYxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1062,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWYwYmZhZGEtMGUzNy00MGJiLWJjZTEtMTY3OGM1MDdmOTk1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDYyLnBkZg==&action=YXR0YWNobWVudA==
@@ -51,6 +60,7 @@ cnsc-decizie-2026-1066,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1067,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGI0ZjJkM2MtZjE5Yy00MzFhLTkzNjMtZTY2ZDE4MmZiMDMy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDY3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1068,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTM0OTBmNTYtMjUzMy00YzZjLTg4YTktY2M0N2E3MjllMWJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDY4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1069,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWVjZGEyYWQtZWViMS00YWU2LTk2MDMtMzJmZjJlZTM3ZTYw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDY5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-107,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzI4MWI1YTUtZGVlNS00MTE5LTg2YTAtNzAwYWQ0YzM5ZDZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1071,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTgyNWNlOWMtZmI0ZS00NjE4LWJhYWItODVmYTJlMmI3NjI4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDcxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1072,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjEyNzM4NTctYzZmYi00YTg5LTgzY2EtZWNkYjQyN2NmN2Iz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDcyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1073,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDUyNDE5ZTktZmQ2Mi00ZjgxLTliODAtNGM2NGE2ZGMwYTJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDczLnBkZg==&action=YXR0YWNobWVudA==
@@ -58,6 +68,7 @@ cnsc-decizie-2026-1075,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1076,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2FhMGQ1ZTktOTg3NC00NjRjLTljMmItZjdlNGIyY2NiMDk2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDc2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1077,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTZkZGQ3ZWMtYjg3NC00N2JhLTg0NTgtNGE5Y2EyMWRlNGQ2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDc3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1078,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmRlZDc4MjAtZjEwNi00YzYyLTk1NmYtM2VhZjVlZmJhMDBk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDc4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-108,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjFhMTRlODktZTYwMi00ZDk3LWE4ZDAtOTU1Yjc0Nzk4OTgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1080,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mzc0M2RhNTItNzAwNS00OTBlLTgyNjUtZjFkOGEyMmM2NzE2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDgwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1081,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzFmNTIyNzAtMzg1Ny00MWUyLWE4MWQtNWYxNzA5NDIzNjc4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDgxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1082,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzQzZWExMTUtNGI1OC00NTA3LWIxNWYtMjNmYzBiNjJmZTAx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDgyLnBkZg==&action=YXR0YWNobWVudA==
@@ -67,12 +78,15 @@ cnsc-decizie-2026-1085,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1086,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWU1NDFiYzMtZDFhYS00NzNjLWIzODYtYjcxYzBjNTE2Mzg1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDg2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1087,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDVlMTBhYzAtNDNiNS00MmM3LThhNmEtNDZhMTg1OTY4YzI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDg3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1088,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzhiYTI5YjQtMGFiNS00NDBjLTkyOGItMTcwYWQwODdmZTdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDg4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-109,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODEwZTgxYzUtMGYxMC00ZmU5LTg0MWEtNzcxYzdlMDNlYjM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDkucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1090,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjk2MTAyOTUtYzMxOC00ZjA3LTgxYzMtOTdhZDllZTI1YWYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDkwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1092,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2FjNzcwODUtODU1YS00Mzg5LThiMDEtM2UwZTI1YzNhZTYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDkyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1094,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2EzYzMwMTUtMjcyOS00ZTkwLThlZDQtYjQ1NDZjMGFjOWVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDk0LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1095,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OThlNWM2MTItMDIzMS00ZWQ1LThlMmEtMjFhZDE1YjlhNmUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDk1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1098,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzdmYTQ4MTctNTM0Yy00NDA2LTlkN2UtMWE3ZDVjNDg5M2Ew&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1099,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWY3ZWRhNDgtZGQ4Ni00ZDAzLWFjYzUtM2U4ZWVkYjNjNmIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMDk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-11,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2YwMmVhNzEtZWEzYS00OTEzLWEzZTQtNTFlMGZiNGY4NGUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMS5wZGY=&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-110,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjVjOGE3ZDUtMjRhNC00OGYxLWFjNWQtMGNiODhhOTc4M2Nh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1101,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWMxNTBkODYtYWMwMC00NWFjLWI3NGUtNTE1MWQyODgyODVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTAxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1103,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGYxOTg2NDAtZjk3Zi00MDA1LThiY2ItMjIyNDc1N2UzNTA2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTAzLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1104,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDU5MzNhM2ItMGI4YS00YTJiLTliNTYtM2VmZTczMGUxZWVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTA0LnBkZg==&action=YXR0YWNobWVudA==
@@ -80,6 +94,7 @@ cnsc-decizie-2026-1105,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1106,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjJkY2JkZDQtY2FjOC00YmY2LThjNDEtYWJiNWJmYTFiMzgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTA2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1107,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTRiZDgwYTYtZDU2ZC00ZWE2LTk3NGEtNzYzYzdjNzcyNjdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTA3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1109,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTMzOTc4MWUtZDg3OS00MzlmLTgxNzItZjFiNDc1OGY3ODg4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTA5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-111,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTgwMWUzNDAtYzYxMS00NzI2LWE4NGItZTE2ODNhNGQxYjU2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1110,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTg5NTk3YmItNjFmNS00MzBmLWJjODYtZTk5YzdiNmZkM2Ez&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTEwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1111,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2EwZjVhZGMtYTYzNy00Yzc5LWEwMzQtNzdmYmUyODQ0ZDZl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTExLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1112,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjY4OGNjZDYtZDg2NS00NjVjLTlhMzMtYjJjMTQ1ZWE4MTE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTEyLnBkZg==&action=YXR0YWNobWVudA==
@@ -90,6 +105,7 @@ cnsc-decizie-2026-1116,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1117,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjhmOGVkNzYtZjRhZS00MWE2LWI5NjAtNzNkODk1NWVjZGU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTE3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1118,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTM1MmUzYWYtY2U2ZS00OGE5LWIwODEtZjg4ZDY0MjkxMGQy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTE4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1119,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzdmMmFmZjItZjkzMC00ZGJmLTgxOWUtYzI3NWYzYTgxYTAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTE5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-112,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTJiODE1NWUtOGU0MS00YmU1LTgzYTktZDNiNDM0MjY4MWZh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1120,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTIzNjc5ZDAtOTY2NS00OTc2LTgyNzItOTA0ZTQ0MjY5YTFk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTIwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1121,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTYyZTg4NzgtNTRmNy00NTJmLWFjZDItMTY2MTI4NDMxYzk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTIxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1122,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmQ0MDI5MGYtNTk4ZS00MTUzLWI3MTQtMWJjOTUzMDIxNTYz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTIyLnBkZg==&action=YXR0YWNobWVudA==
@@ -97,6 +113,7 @@ cnsc-decizie-2026-1124,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1125,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjEzYmE2OGMtOTRjYy00ZjgxLThlYmMtZjU4Njk5MTBkNTU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTI1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1127,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzYxZmFmNjMtM2VmYy00YjBmLWIzZGYtYjllMjU2MDBmYTBi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTI3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1129,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWRlOWEzNGUtNjMwNy00ZTRmLWJiNmYtZWM1NzQ1NWU2NjA2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTI5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-113,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODRmNTk4MWUtYWExOC00MTZiLTljZjMtMDI0YmM2Mzc5OWM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTMucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1130,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjc0N2YzMDYtYTYwMy00N2MzLTljMDAtZWQxNzhkNDZlMDJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTMwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1131,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTVmYWI5OGItYTdiYy00ZDI3LTk2YmItZjc5NzFjZmUzZjky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTMxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1132,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTk4NTY2N2QtOWRhMi00NmI5LTgxNTctYjg4MTcxNzg2ODNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTMyLnBkZg==&action=YXR0YWNobWVudA==
@@ -104,6 +121,7 @@ cnsc-decizie-2026-1134,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1137,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTFjOTU4NzUtYzdkZC00N2ExLWE3NjYtYTg3MDliNDk2ZjBk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTM3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1138,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWZlNWIwNjctN2FkOC00NTQ1LThiOTEtODY1YmU0ZTgyZGVk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODM4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1138-2,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGJhYzE0MGQtYWM5Zi00NGJjLTliNzktY2E4OGZjMjA4YTBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTM4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-114,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGUxOGYxMWEtMjgxZC00NzdjLTljZWMtZDcxNDIyYzFmMTNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1140,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWM5ZDdmZTctOGZhOS00YzBmLWIwMzYtOTA1OGE0NTYzNzFj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1142,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjNlNDIyNDUtYzk1ZC00MWY0LWI3ZjEtNWI3NzUwOWY1Yjdk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1144,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJhYjYzMzQtMTZhYS00MjM0LWI4MzItYWE3N2Q1MmNmYjRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQ0LnBkZg==&action=YXR0YWNobWVudA==
@@ -112,6 +130,7 @@ cnsc-decizie-2026-1146,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1147,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjdmNjI0ZjYtNTBkYS00Nzc4LTg3ZTItZjEwMWNiYzRiNjI3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQ3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1148,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y1NGRhNWQtYTQyNy00ZTAzLTgxNGItYmMwM2MwNGZkOGYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQ4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1149,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmI0YmFiYmMtNzlhNC00NTAzLWI4ZjktZmU1MGZmM2UwNjA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTQ5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-115,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTNjYTg2MGMtZTgzYi00ZTljLWE2ZGYtY2M4OTZmZmFmY2Q3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1150,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDM5ZTYzZjEtNmE3Zi00MTZmLTk1ZDItNTNjMzQ2MzY5ZWRh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTUwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1151,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTc5NGEwOTUtNTJiZi00OGRiLWFhZWEtMDUxYmRjYTg3MGJh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTUxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1153,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzM1ZDFiMTctZDY2Zi00YTU1LWJlZWQtMjIyOGJhNWYwNmM4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTUzLnBkZg==&action=YXR0YWNobWVudA==
@@ -154,6 +173,7 @@ cnsc-decizie-2026-1195,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1196,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2NlOTE3YmYtZGJmZC00ODFkLTg2Y2MtMDI0MTVjODQ5ZWEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1197,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGUwY2E2MDgtZmFmNS00NjdlLWI5ODQtMjM1ZmY1YzI0MWQy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1198,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjY1Y2E2MWEtZTYxYy00MThiLTlhMWYtOTMwMzgyYmZiMGMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTk4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-12,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE4MzExYjEtNWU4My00NmU1LTk3NjEtZDc1OWI0M2Q2OTJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1202,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTVhNzQ4ZWEtOTQ4NS00MTM1LTgxMmItZjJlOTNhMjYyM2Yz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjAyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1203,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWE2YTA1ZDktOWE2Mi00MzlmLTg5ODctM2M0NWNmMWU2M2M3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjAzLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1205,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjU4N2FlZWQtNmZiMS00YzdmLWFlOTEtYjQwMmQ4MWZkN2Nh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjA1LnBkZg==&action=YXR0YWNobWVudA==
@@ -241,6 +261,7 @@ cnsc-decizie-2026-1295,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1296,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTgxNTQ5ZGYtNjk5Yi00MTJhLTlmMTQtM2VmNjk1YWU4NGIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1298,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTBjNmU2ZWUtMmI5Zi00MTdhLWE5MTAtOGRlMzUxYzNlYTg0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1299,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTQyMWQ3MzAtYTE4MC00MDk0LWE2MjQtMzkwODcxZjc5Yzk2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-13,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjhlZTg5YjUtNTI2My00Y2YyLTkzOWYtNTkwODRmM2E1ZTNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMy5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-130,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmYzNTg3MWEtYjFkNy00YmE1LWFjMmUtZTM5ZThlOWZiYThl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1300,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmUzYjIwMTctNzYzNS00MGJiLTk0NzQtZWUyN2I3ZjM4Nzhm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1301,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjQyMzQzNGItYzI5Yy00ZjVlLTkwNzEtN2UyZjYzYjE1MjUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -335,6 +356,7 @@ cnsc-decizie-2026-1396,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1397,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjU1OWRmZmEtNzAxMC00NDZjLTgwYTktODhmMTQ1Y2ZkZmJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1398,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmVjNzUxMmMtNWRkZi00MmEzLTk1YjMtOGRhNzk2M2M0NmVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1399,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2RiMGZkYzktNDg0MS00NmMwLWJkNDEtZTQwNDBkMzU3Yjgy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-14,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmVlYWI2YzEtMWI1Yy00ZjkyLWIyZWEtMmRiNWE3M2ZjYWNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1400,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTA4ODVkYTktZDYxZS00MTE5LWIwYjUtMzljNmIyY2Q5Mjg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1401,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjdjOGIxZWUtNzJlNi00NWFlLWEyODktMDFkYmZhZTBhMzgx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDAxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1402,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDExNTI2ZWUtOWM5NS00Mzk2LTgzZTgtMWIzYWFhMWZiYzNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDAyLnBkZg==&action=YXR0YWNobWVudA==
@@ -432,6 +454,7 @@ cnsc-decizie-2026-1496,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1497,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDExYWI5YWYtN2M1ZS00MWU0LThlNTctYTU5MzIyNDkzODEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1498,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGM4OGE3MDYtMTViNy00M2FlLTk2MzAtOTU4MWNkM2QzYjIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1499,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWVkMGJjYmMtYWU3MC00NzQxLTg2NmUtZDY1MWY0ZjFlZjQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-15,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODhjZDE3MTMtZWFmOS00OGIzLTk3MjMtOWUzMWUxZjRkMmNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-150,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmFkMjFkNjctMGYxNy00YzBjLTkxZDQtNmRiYWZkYjQ1MWMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1500,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTMzMDY2ZmMtZTg4Yi00NGUwLWE0ZWYtNzkxNGIwY2FkN2Y0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1501,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGM1MDg3NjEtY2EyZi00ZmY0LWJhMGMtMGVhMmZlNjEyNzM1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -524,6 +547,7 @@ cnsc-decizie-2026-1595,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1596,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2M1NGU2YTQtMDQ3Ni00Yzg2LTk3NWEtMTI4ZGRhOTMxMjQx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1597,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWRmZGM4MzAtOTY2Ni00ZWRiLTliNDItMzI1NTAwY2IyOTQ2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1599,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmEyYzEyOTAtMzkwNC00YmQ3LTk2ZjgtNzE3NzQ2OWQ4ZTM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-16,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzNlOTA5OWYtZGQ5OS00YjE4LWIwNzMtZTI0NzBjZWVjNTQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-160,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGZhNTI1MjktNzQ5ZS00ZjMxLWFhMWYtMDZjMTkxZTA0YWJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1600,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGQ4Nzk0YTItMTIxZC00MmNmLTg1MGItMDdhMzk4NTFhODI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1601,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjA2M2FiNDktZjJhNC00NDZiLWFmOGMtZDQ2OGFiYmIwYmY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -617,6 +641,7 @@ cnsc-decizie-2026-1695,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1697,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQ5NmYwNGQtMjBhNy00YWI4LThkY2QtMDE3NTI2MGZmY2I2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1698,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGUzYTU4NDItMDQ1Yi00ZDM2LTkzYmYtODBjZjllOGI0Yjdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1699,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTliOTIwYmUtYWMyMi00NmIwLTg2NWYtNTNmMWZlZTYyNjc2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-17,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTk0MGNlNjYtODNiMS00YTBhLWI3NjEtYzY5YjMyYzExM2Jm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNy5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-170,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTE4NzY5OTktNDcwZC00MDcwLTlkZTctYjBkNDA5YjdjNzU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1700,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDFjNmYyOTctMjBhNi00ODg4LWI5YzEtNTliMTc0YjE4NTQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1701,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzA5ZWIyZjYtMjlkNS00NDJiLWFlMjYtYmM1YTI5YmM2ZGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -713,6 +738,7 @@ cnsc-decizie-2026-1796,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1797,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTIyMjkyNzgtNzIzZC00ZDVjLWI2MDAtYmMwOWI0OWZmMjRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1798,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjhkODM1ZTEtZmJjYS00NzNlLWEwZDUtYTA2NTU4MDdjY2U4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1799,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjYyZDUyOWItYjhjMy00NGQzLWIxZjktNWZmYWY5NWNlYWI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-18,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGU0ZWE1NGEtNWQ0OS00M2IyLThjNmMtYzA1Y2I0MDA4MzQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-180,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTc4ZmFhNmItMjMzOS00ZGY1LWJiMWYtYTAwZTUyZjk2N2Qz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1800,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2UyNWJmY2YtYjJkMy00OWYzLTk1NDUtNGE0ODZlMDUxMzFk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1801,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmM1N2RkNmEtNGE3ZS00ZDUxLWI2MzktM2JhMTljY2JmZGI1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -808,6 +834,7 @@ cnsc-decizie-2026-1896,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1897,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmY4MjI5M2QtZjljZi00M2ZjLTkxNDctNzBlZjljMzBhZjdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1898,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWUxMTViNmMtMTFhMi00ZjcyLWEzNzgtZjcwMzU0MzAyY2I5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1899,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjQ1OGNjZjQtYjYxZS00MjYyLTg0M2UtMWZjOTE1OGY1YTNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-19,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTYzNjBiZjMtMzExOS00ZTM1LTlmNGYtN2Q4NTg1OThkMzMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-190,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2VlOWZlM2EtMzA2NC00ZDUyLTkxMDQtZTIwNGY3NjM3ZmZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1900,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjQ5N2Q4YTEtYjZlYy00ZDEzLWFmOTEtNzM2MzRkZTQwOWIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1901,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGZmM2ZiOTItNjI4Yy00NTgzLTkwYjgtYWZjYjExOGE1YTc3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -894,6 +921,8 @@ cnsc-decizie-2026-1993,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-1994,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFlYzExYzEtMWM5MS00YWUxLTg0YmUtNGNiY2E3NGFiMzgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTk0LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1995,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjI1Nzk5YjYtNTNhYi00MjNmLWJiODEtMTc2MTk4ZDM1Zjdk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTk1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-1999,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTkwZjE0OGEtNDRjNS00Zjk2LWFlNmMtNmVkMmU2MzQ2ZTY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-2,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjA2MzY2OTItYmVkOS00ZTBlLTlkYzYtY2Q2OGVmNWQ4NTM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yLnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-20,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGUyNGVmNDEtOTljNS00OTU0LWI2M2YtNDkyYzBkNzBmYzZh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-200,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzJmYjE2MmYtYTM2My00ZjMxLWJiODItMjc2ZWIxNTU4NzAx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2000,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzA3ZWFkMDgtOTg3MS00Y2QyLTlhODQtZmNiMTZmMjZjMDUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2001,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2NmMThmYTAtMDAxNS00NjY1LTgyMTYtNTdiZTQ1ZjI3NGIx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -981,6 +1010,7 @@ cnsc-decizie-2026-2095,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2096,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWI3MTRiNzgtM2UwNy00YzRmLTk1MmUtMWVjY2Y3MTQ2MjY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2097,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODZlZjhjMDgtYmZlOS00Y2I4LWIxNjMtY2MzNDk2MGZlMWEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2099,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDA4ODNiNTQtNmNiNy00ZDEyLWI0YzQtMDkyOTY2MTk1M2Yw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-21,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjc2ODAyMWItNWM4OS00MWE1LWJiMGUtYTI4ZWY3MjVmNDA2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-210,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTA1YjE5OWQtOTFiNy00ODgxLTkyYTEtZWI0M2RmNWQwNzkw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2100,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGVhODRmOTctNzYwZC00NjI3LTkyOWUtYzViZjE2N2M5ZDk1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2101,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGU2MzFiY2ItM2QwMi00N2VkLWFmYzctZTlhMDUxYzNkZTg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -1068,6 +1098,7 @@ cnsc-decizie-2026-2195,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2197,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzQxNzYxYzMtYjA4MC00NDlmLTg1NmMtYWMxOGY3ZjE3MDMx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2198,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWE4ZjM2M2YtMDBkYS00ODNiLWJjNmYtZTIyZjRiNWQ1NDk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2199,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGVjZTUyNzQtMDI3YS00ZWNkLWFiNzgtYjlhNmE5ZTc3YmM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-22,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDNhMjZhODQtZDAxNy00NDA4LWI3YTctNTZiMmVjNWFiMmZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-220,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDk1OWYwNjEtMWFmYy00MjhhLWE1NWYtMTViNGJmZDExNDcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2200,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2Y2M2FmMDYtNDdhOS00YjA4LWJlNjQtYmUyMzk4YTEyNmJh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2201,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWY4Y2EyN2QtN2U3Ni00ZmNjLWIxNzEtYmM4YWMyNWE5YzU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -1156,6 +1187,7 @@ cnsc-decizie-2026-2294,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2295,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTVmNDA3NjEtZGFjYi00ZWFiLWFhZmMtNjBmYzY4ODc5YWQx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjk1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2296,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODk4YmE5YTQtYTU1Mi00ZWUzLTk0ODktZjUyY2JkYjdkY2I4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2299,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjg3OTljMDgtNzQyYS00OWViLWIyMWItM2I3Y2I2ODdjNDli&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-23,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGNlMTY3MDAtYjQxNy00NTllLTg3ODQtNzIwNzBjNzczMTdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMy5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2300,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDhjODNlYTktNTIzYy00OGY0LWEyZTgtYjk3MjU2YzMzNDc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2302,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2U3NDVmZmYtOGNlYy00OGNkLThhNDQtNmNlNTI5ODIxNmQx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzAyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2303,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTUwN2IwMDgtNDFkMC00NmU0LWFlNTMtMzg0ODcxZDlmNDY5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzAzLnBkZg==&action=YXR0YWNobWVudA==
@@ -1239,6 +1271,7 @@ cnsc-decizie-2026-2396,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2397,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2NmYzA4YmQtYjY3OS00NGQxLTk4NjYtOTZhNGI4MWMyMWM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2398,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2E0NmE0YTEtMTUzMS00NDFiLTgwZjQtNTdiMTVmZDY1NWNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2399,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjRjMTA0MTQtNTQ2MS00Y2QwLTk4YjUtZjc2NzNjZTI1YzBm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-24,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTcwMDZjZDEtYmY3ZC00ODY1LTg4ODYtOGYyMTI0Mjc0NTUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-240,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWMyZGE0MGMtMTMzNi00ZjA1LWE1YTEtMWU4NTY0MGQ0NzI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2400,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2QxNmZlNTYtMWU1NC00MTMwLTkyYzgtNjhiM2RlOTA3MmM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2401,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmFlODc5ODAtM2Q1ZS00MTdlLWEzYjAtZjhhNjUxNjI5MTU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -1322,6 +1355,7 @@ cnsc-decizie-2026-2494,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2496,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTIzMDQyNjItMjMxYy00YjYwLWIyMjctZjY4ZjkxMTY2Mjc2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2497,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjYzMDgwOGYtNGFmNS00YWYzLWI4Y2UtYzQ3NzRjNDNkMTdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2498,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjUyMTU0OTAtMDQyYy00M2RhLWE4NWYtYmYxOTJmNjM1YjNk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDk4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-25,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2ZmNmQ3NWQtZjA0OS00NmFjLWFmOGYtYjM3Mjc2MTkwNzlh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-250,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmIxZTU0YjQtNjhhZC00ODNlLWIwOTUtODUyMGUyMzU2NmUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2501,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Zjc5M2ZmOGUtYzMyZS00Y2VjLTgxZDYtZWQ1ZGVkNmM4YTc4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTAxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2502,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Q2NjdiMWMtOTJlNi00NDRlLTkwNjYtZGNjMjg1OGJmYzkx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTAyLnBkZg==&action=YXR0YWNobWVudA==
@@ -1405,6 +1439,7 @@ cnsc-decizie-2026-2595,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2596,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWRlMjNkYjYtZmFkYy00ZjAzLWE2MDItZGEwZDM4MTAyNTVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2597,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzFmZTBlMzgtMDhhNC00ZTExLWFiNjUtMTQyNzM3MDQ1OGZm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2598,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTVkODkwYTItYWNmNy00ZjUyLTljY2MtNTM0OTZmMzU4MGY4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTk4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-26,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWMwN2YyNjItNTczMC00Y2VkLTgwMTMtOWVjZjNiOWU1YmRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-260,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yzg2NDJmNjItYzYwZi00N2Y0LTgwYTktMGI2ODYyZTE3ZTEw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2600,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2RkZTc0MTQtZmExNy00NjY5LWE2MmYtNzZlMjJlN2IyNDNh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2601,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2ZlN2E0YWEtYjdkMi00ZWE5LThjMjItZDJlYmFlM2E5NmM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -1720,6 +1755,7 @@ cnsc-decizie-2026-2995,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-2996,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWFlYzE5YTQtZGU4YS00YzNjLTkxMDQtMDIxNGY5ODUzNmJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2997,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdlNThlMDEtZjY5MS00YmRjLTg1NWUtNzFkZmE3ZmY5ZjUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-2998,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGUyYmIxMzUtMzRmMy00MDI1LThjMWYtNGI4OGI0ZmFkNmUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTk4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-3,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yzg5Mjk2ZDgtMjkyYy00ZWM5LTgwMTEtYmVmNTA4MTQ5NDNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-300,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWE2MDI4MGItZGFmNC00NzYxLTgxZDMtZmY0ZmQwZjZkMmY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3000,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTVlMWI2NTUtZTk1NC00ZDEzLTk1OTMtMWJiMWYxMTAwMDFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMDAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3001,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODE1OTE4NTMtNjVlOS00OGY1LTkyNGMtNzkwNzFhYzQ1ZWRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMDAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -1801,6 +1837,7 @@ cnsc-decizie-2026-3090,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-3093,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzI0YmU3ZWYtNjJmZS00NmJlLTgwMDUtYjljMDFkYjE4NDI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMDkzLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3094,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTE2YjljOWUtMDk1Ni00ZjNiLWEwN2ItOWVhNDYxMGM4NjNh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMDk0LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3095,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Zjk1OTY5ZTktODA5Mi00ODNhLTg2NzEtZjk1M2ZhYjRiMjRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMDk1LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-31,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2NiN2E3OTYtNDgzYS00NWFkLWI2NmYtOGZhNDczNzVkZTI1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3100,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjgyMDk0ZDUtODAzYy00ZDZhLWE5MGMtOWY3YmQ2Y2JiMTNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMTAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3101,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjE0MWZiYzAtMWQ3Ni00OGQzLWI2ZDMtZDE2ODFjNTA3Mzcx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMTAxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3102,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzM4ZDI3NjQtZDhhMS00MDVmLTgxMzQtNGRjZDBhZWNmZjA2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMTAyLnBkZg==&action=YXR0YWNobWVudA==
@@ -1884,6 +1921,7 @@ cnsc-decizie-2026-3193,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-3197,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjVkODE2ZTYtYjA0MC00YzMzLTllNDctN2UyYzQ3M2QyYjI4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMTk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3198,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGM2OGQ0MmItNTBhMC00YmVkLTgxNDItMmFmZjk3MGYxMmYw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMTk4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3199,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTM5YmFhZTctYzc3My00NDhmLWFkYjgtZTg0NDczNzZiNjAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMTk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-32,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGY1MzE1YzMtYmUxYS00YWFkLTkzN2YtZDQxYTEyYzgyOTEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-320,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjBhMTc1NTEtOWY2OC00ZmVmLThhYjgtMTQ3YTMzMDMwYmFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3200,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGQ0YTEzNTEtNDJkZS00NjMwLTg3NjUtN2M3MjZkOTcwNThk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3201,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2VkODhlODItNWZhMC00MGE3LTgwYjYtYzJlMmJhZDRiMmU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjAxLnBkZg==&action=YXR0YWNobWVudA==
@@ -1967,6 +2005,7 @@ cnsc-decizie-2026-3290,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-3294,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWNjZTU4N2EtYmJjNy00ZTEwLWFmYjQtMTczNGQxY2UxMjli&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjk0LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3295,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWU2YzRlZWYtZTg4Ny00ZTY1LWJiYmYtZjY1YTQzOGIxYzRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjk1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3296,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTg5NmM3MTQtZmQ2My00YmFiLTk5MWEtYzc5MzM3ZTUyYmEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMjk2LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-33,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjY1MmJjY2EtMmM2Ny00MGM5LWFkZjQtZGY5NTkzYTIyNGZh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMy5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-330,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWM5NzZhNGMtZDhmYy00OTMwLTkzMjUtZjQzOWY5NDYxMjdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3300,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzNkNjI1OWQtMzY1YS00ZjkzLWFhZjQtMjc0Mjk3MDcxZWI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3302,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDZkODYwZDUtMWRhOC00NDAwLTliYzItMDFiYmY0NGUxZGQx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzAyLnBkZg==&action=YXR0YWNobWVudA==
@@ -2050,6 +2089,7 @@ cnsc-decizie-2026-3395,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-3396,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODUzOTllOTMtMjAwMS00NTA1LThmMzUtMmY2OGMxMjMzNGEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzk2LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3397,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWRiNGRjOWUtYmM3OC00ZTgxLThiNGYtYjMyNTlmYzJmNzBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3398,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2E2YTM4M2ItODEyYy00NjQ2LWFmNTEtMmFlZTM3YWYxOTMx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzk4LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-34,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjEwYWVhOWYtOTg2Yy00YmVlLTg3YmEtNTI3NGE2OGM3ZjE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-340,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDExMDI0MTktZjdkYy00YTQ2LTg1YjktMTQxMDYyYTJkMmMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3400,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTA4M2RiYzItY2QwNS00OTRlLWEzNGItMTFmNjE3NDJlNmU2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDAwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3403,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODk5OGE5YTMtOTgwNy00NzEzLTgzZTktNThhMWM4NGU3MmI1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDAzLnBkZg==&action=YXR0YWNobWVudA==
@@ -2084,6 +2124,7 @@ cnsc-decizie-2026-344,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-3440,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTVlNGEyNzktZTI0Ny00ZTlhLWE0ODItMDlmODBjNmVjNmIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDQwLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3443,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzNlODExNzAtMjdmOC00YjRhLTk1MDUtNDkzMDNhODllMzRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDQzLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3446,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTA0Yjg3ZjEtMGQxOS00OGY2LWI3YmEtNWZiM2RmODJhNzI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDQ2LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-3447,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDJiNjZhYjYtOWYyZC00ZjY0LWFhNzMtOTkxNmIyNTdjN2I2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDQ3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3448,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGYwMjE5ZmEtZDJiOS00MzNmLWFjNmMtOGZmNmFlZjY3NDI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDQ4LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3449,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGMyYTIwMmEtYTlmYy00NzgyLTkzZWItN2RjOTVlNTRhOThl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDQ5LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-345,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjJmMjcwZTYtMTczZi00OTQ3LWIyNGYtMjhjMDMxNWY0YjAx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDUucGRm&action=YXR0YWNobWVudA==
@@ -2123,6 +2164,7 @@ cnsc-decizie-2026-3494,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.a
 cnsc-decizie-2026-3495,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTlmOTE5YmEtYjI1My00NmUzLWIzOGYtMGE4NmY0ZGQ5NTNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDk1LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3497,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjczZWM4YTMtYzgxYS00NmVkLWI2ZDQtMmExY2RhOWI1MDEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDk3LnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3499,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDQzN2Y2NGQtYTdjMy00MGJiLTk1ZWUtMGM2NmM2MDI2NzNk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNDk5LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-35,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzZkN2JkMGMtMDVkNi00YzUwLWJhYjQtNDU0Njk1OGYxZjIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-350,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTUzZDk5MjktZTg5My00ZjZlLTkxYTAtMTZkNDZjZTAzYzAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3502,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjNlOGQ3M2QtYzEyNS00MTE3LWFjNjktOWU2NmEzYmRhNDhm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNTAyLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-3504,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTRiMTZlMDMtM2IyNy00MWNmLTllN2UtNTRiNTIyODA0ODMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNTA0LnBkZg==&action=YXR0YWNobWVudA==
@@ -2166,6 +2208,7 @@ cnsc-decizie-2026-366,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-367,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDJlMWVlMjktMjYxZC00YzhmLTgwODktYjMzNDQ4MzQ4OWRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-368,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTk0ZTZjNGItZGE4Ni00YjE5LWJjZDMtNjAyNTE4YzkyODAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNjgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-369,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTI4NzFlYzQtZGFiNi00ODczLWEzM2QtN2Q4NGFmMTA5NmY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-37,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGU2NGQwZDMtYjg0Yi00NGViLWFmNmMtZWM3NjAwZWM0OWUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNy5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-370,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTVjYjI4YWMtNTdmNy00MWE1LTljN2ItMjg2NDM1ZjFjZTk5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-371,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTRjZGNlMGYtMzM2OS00NWEyLTg4ZGMtMDRlNmM1MjBlN2Fi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-372,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDUyZTQzMDEtN2MzOS00OGNiLTk1YTUtOTJhNzgzMzY4YTg0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNzIucGRm&action=YXR0YWNobWVudA==
@@ -2176,6 +2219,7 @@ cnsc-decizie-2026-375,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-376,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTA1NTk0YzAtYWU5OS00YjNkLTk1YzEtNWU1NTVkOGYyYmJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-377,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mzk0OWU4ZTctNzcxNS00OTlmLTlmMjEtNTUzYTMzMThkNDk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-378,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWFlMTRlMGUtNTI5MS00NzhkLWE1MTQtOWVkMDk1MGVmYzc3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNzgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-38,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODc4NDJmNDMtMmU5Ni00Yjk5LTlhZTItYTQ4Njk3OTNiYTFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-380,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWZlMTMyZDMtODg3Yy00YTNiLTk4ZjMtMzY2MTQ1MjQxZjlk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-381,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Njk2MDE0ODAtNTM2NS00YWQwLWI1YzAtZGU2NjBkZGUyZmFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zODEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-382,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDQwYmVhNTEtMTAwOS00OTBiLTlmYjctOTRmYjM1NmI4NDdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zODIucGRm&action=YXR0YWNobWVudA==
@@ -2185,6 +2229,7 @@ cnsc-decizie-2026-385,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-386,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzM1NWYwMDEtYmU0Zi00ZDczLWE3MWYtMzEyZGYxMmY5Y2Jm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zODYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-387,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjkyODEyZGMtYWUyMy00NTg1LWE4NTItMDMwYWRkYmZiYzE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zODcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-389,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzliYmFmNTYtZDRiMS00ZGNiLTgwYzctZDA5ZGRhMjg1YjY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zODkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-39,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTliYjFlZDktOGUwZS00NGQwLTgwMjctNmVkNDc0ZGNjYWNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-390,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTBkODAyYjEtZTNmZS00NDk3LTk3MWMtMjljNTJlZTVlZWU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-391,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGU5NDI0OGItMzU0ZC00MzFhLTkyNGYtZjlmNDAwYTdjNmE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-392,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWQ2OWFmNjEtNDcwMy00NjdiLWIwZTYtNTNlOTQxZWYxMzU2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOTIucGRm&action=YXR0YWNobWVudA==
@@ -2193,6 +2238,8 @@ cnsc-decizie-2026-394,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-3971,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWU1MDg2YmEtNGZlMi00OTQ5LWI3NjYtODQxNWRiYWNhNjJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTcxLnBkZg==&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-398,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQyNTI5NzYtZmFjNS00Y2M0LWJiYjUtODA3ZThjNTY1MjYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-399,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzM2ZDk2NDktY2E2MS00OGNmLThiY2EtZDVkMGJlNTE5NGMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zOTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-4,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTMzZjFjYWYtNWU3Zi00YzgyLWIyODYtZGFmYjllMmFmNzdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-40,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmI5YTFkZDYtOGUzNi00NzFiLTk5OGQtOGY3YmY1YzdkNDIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-400,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGM3OTBkNjEtNjI5ZS00YzE5LTlkYWYtMTU3ODRhNjg1MTM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-402,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmJlNTIyOWEtODdjOS00MDkzLWE5ZTItYjYwNWVjZWJmZTNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-403,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzM3ODFjNmUtOTcyNy00OTNjLWFmNzctMDMyMTY2Njc2MjZl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDMucGRm&action=YXR0YWNobWVudA==
@@ -2200,6 +2247,7 @@ cnsc-decizie-2026-404,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-405,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzI2YjNhNDYtMmUyNS00MjliLThlYzYtMTNkODJlMTNjYzAy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-406,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzhjZmNkNTQtMGNkNy00OWU4LWFlMWMtNGUwMjFhZTVhZjEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-409,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDVjNGU3MWMtNWQ1Zi00MjliLTljMmMtZGVjNWJmMTJkMWU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-41,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2NhYjQyOTktYjgxZC00ZmQ1LWE2NzQtYWZiYzI3MmI1YzJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-410,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWQ2NjdkNGMtOWQyNi00YTU0LTllZjQtNzcxZDNjYWRlOGY4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-411,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzcyMjhmNDEtMGExNC00MGM4LWI4ZTktZGU1NGYxNjQ3NTgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-412,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmFkNDc4MzAtM2U5ZC00NjFkLWIwOTUtNTQ3NjU1NDkyOTAy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MTIucGRm&action=YXR0YWNobWVudA==
@@ -2210,6 +2258,7 @@ cnsc-decizie-2026-416,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-417,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGU3Nzk5MjItNjFmOS00MjczLWE0NmUtM2U3YjBmYjcwMTRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-418,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDA1ZDU2N2UtYTJjOC00Y2ZkLTkyMGMtYTk4MTY0ZjBjOWFm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-419,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGFmMDE3Y2QtNGVkZC00NTZlLThhMjgtNDFjMDEzZTZhMTI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-42,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGY2Zjc3MmItMGQ5Yy00ZTQwLWI3ZjgtY2NmMGU2MTEyZjZi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80Mi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-420,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjVjODUwODMtZWVkZS00MGJlLWExZDYtYzgwODBlMGVkMTNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-421,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjBiMWFmZmQtNGFjNi00NTRhLWEyZGYtOWQwN2I2OWQ5YTYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-422,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTFkZDNlYmEtNWU1Mi00ZTliLTkzOTgtNDlhYjhhZTU0MTE2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MjIucGRm&action=YXR0YWNobWVudA==
@@ -2219,6 +2268,7 @@ cnsc-decizie-2026-425,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-426,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzViYzg5ZTctMWRhZi00MDZlLWFlYTYtNzU5NzUzMTM3NTBm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MjYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-427,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWIwNWNmZWMtMzQxMy00MGZjLTk1M2QtZmQ5NjJhNTdkNWFm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-429,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDhhNTdjNWMtZGViMC00ZmViLWIwNDQtOGM2MzJkMzlhN2U4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-43,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWEzMzVjOGEtYWNjYi00M2ZmLWI1ODctZjA3MWI2NmQ4ZjBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80My5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-430,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTRmZjE1ZDQtMzk3Zi00NTI3LWE4MzktMjY1YzI1YzgyZTE0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-431,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjgzNTAwY2MtNWU3MS00NDkzLTk0OTYtYzAwZDdkYTc4Yzdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-432,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGQzMjUwMmUtY2IwNC00ZWI5LWJjYzYtN2U3Mjc1MWY0MzJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzIucGRm&action=YXR0YWNobWVudA==
@@ -2226,6 +2276,7 @@ cnsc-decizie-2026-435,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-436,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDBlNWZkNzgtMDBiYy00Zjk1LWI5YzItNjMxNjUyZjc2ZTU2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-437,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWFiMmM5YzItNzI1OS00OWQwLWE4YjItMzZiYzljOTFiNmI4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-438,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWYzNzY2YzQtYTUyMi00NzJhLWI5YjEtODY4ZjIwNjg3MzNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-44,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzliOTUyN2MtODM4MC00MDE2LWI5MjAtZTk2ZmM1M2QzYWY5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-441,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjFlZTJjYjgtZDNjNS00ODNmLTlmNWQtNDRhYmYyNjk4Mzlh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-442,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDc4YzA5NjItMTY5NS00MzE5LWIzNTAtYzljNThlY2NmYTdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NDIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-443,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWVjZTA3MjgtMjBkNy00NjEwLTk5YWMtYjAwYWQxNWZhNmJh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NDMucGRm&action=YXR0YWNobWVudA==
@@ -2235,6 +2286,7 @@ cnsc-decizie-2026-446,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-447,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWM1YmEwMmMtN2UyMC00YzIxLWJiNDgtOGFhMGZkYjdjODdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-448,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjFjOGJkY2EtYzQ3NS00ZDM5LWJhYmEtNzVlNDExZjdmZDRh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-449,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGFiNzQ5OTgtMTFmYS00ZDQyLTg0MTgtOTAzZjFhZjczZDg1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-45,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTM1ZDU1NWItYmJlMy00OTFiLWI4MjQtNzhmYzllNWNmN2Zk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-450,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTgyNDYwNzItODg0YS00MDRlLWIwMTMtZDIxZGUyNzMxY2Jl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-451,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDk1MjY5MTAtODhiMy00MmNhLWIzZjYtMjZmYTY5MjhkM2I3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-452,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTdlNzc4NTEtMmQ4OC00MGNjLWI5ZDgtZjI0ZGY3YWNkY2Y4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NTIucGRm&action=YXR0YWNobWVudA==
@@ -2254,6 +2306,7 @@ cnsc-decizie-2026-466,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-467,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmYzZGUwODItNGVkZS00MjY2LWFlZWUtNzUwZDIyMzdhN2E5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-468,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzllNjQyNzctZDA3OC00ZTg0LWI0MDQtZjRjMGQ5ODFlN2M0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NjgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-469,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjkwN2JjNzctZjkxYy00MGQyLWI1YzMtZjRhYmE5MGEyZDMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-47,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzY1YTIzYTYtYmI4ZC00OTY4LTg0ZDYtMTJkNTdjMTE2MjEw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80Ny5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-470,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDAzMjA4YjctNDcyZS00NWQ2LTkzODUtN2RhNTI4MGE5MTRh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-471,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTQ0ZGUyMjAtMWQxZS00MzE4LTllODEtOGQxZjVjNGJjMDAy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-472,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzJiYjhhODYtYmY4Mi00MTBhLThjZjMtN2FjZGU5YjliNDRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NzIucGRm&action=YXR0YWNobWVudA==
@@ -2262,6 +2315,7 @@ cnsc-decizie-2026-474,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-476,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MThlYjYwYmYtNTlmYy00YjI5LTg2ZWUtOTE0YTQ2YjNhMWE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-478,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGE3NmVjYTctMTZiZS00YmUwLWI5OWQtOTY4NGI3ZjRkNjc2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-479,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2E3MzkxYTAtZGM1NS00OTY2LTk3MTYtZmE4OGM1ZGUxODg5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80NzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-48,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTdiYmViMzYtY2I3OS00M2ZlLWIwOGMtN2VmOTdhZWM5Mjcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-480,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjNlY2E1MjgtYmIwNC00YjBhLTk5MGUtMDFjYjlmNTMzODg2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80ODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-481,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWU0NTY3ZDYtNGQ0OC00NzE4LTlmZmEtMWZiZWMzYjE1NDBm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80ODEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-482,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmY5NDU0OWQtNmEyYy00Mjg4LTk4ZmEtMGE3ZThkZTYyNzY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80ODIucGRm&action=YXR0YWNobWVudA==
@@ -2270,6 +2324,7 @@ cnsc-decizie-2026-485,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-486,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2EyMTY2ZGMtN2M2ZC00ZTcxLWI3NzItM2EwZjcyMzBmNjk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80ODYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-487,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTEzMzMxYTEtYTk1Yi00NjFjLTkwYWUtY2VlZGI1ZWE4Yzk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80ODcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-489,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjBjNDQ3OWQtZTdmYy00YzE3LWFjZjgtN2VhZWIwMmFkOTJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80ODkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-49,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmMyZDc1YWMtMTNhNi00ZGFiLThlYWMtYTVlYTExOTA0ZDcz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-492,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWE4OWQ4NDQtYzg5Zi00ZDI2LTk5NzYtZDdjYzFiNjYwMTll&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OTIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-493,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTUxNjcyNTAtNmQ3ZC00ZTEwLWEyZDAtYjc0ZTZjZjhhMmEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OTMucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-494,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGFmMGIyODMtZGFkOS00M2ZkLWFlNGItMmFmNzVmYzE1OTUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OTQucGRm&action=YXR0YWNobWVudA==
@@ -2278,6 +2333,8 @@ cnsc-decizie-2026-496,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-497,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzY0NDYwZDUtZTNkNC00MDY5LThmNjYtY2RiNTVlZDI4NWQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-498,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDc1NmI5MzktNWZhZC00MDk3LTg3ZjUtNDFkNmRjNDZiMzFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-499,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGQ2NjE4YmMtZWNjMS00M2E0LWFmZjQtMzM4NzE2NjQzMDRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80OTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-5,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmJlYzczNzItOGNhOS00NDBhLTljNTYtOWJhMmZmZDVmYmIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-50,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODNmZWFiZGUtNGNmMy00N2QxLTk3OWUtOGQwMGIyYTI0NWI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-500,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTExZWZkOGEtMzQ2Ni00ZjhiLWI0M2YtYTAxNTU4ZDM3M2Ey&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-501,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmE0NzQxYTUtOGZkOS00NjMzLThjNzktNDRlMmJjYzNhYTYz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-502,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTBlZjdlYjktN2QyOS00MTU5LTljMTEtMWM3NTJlYjI5NTg2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDIucGRm&action=YXR0YWNobWVudA==
@@ -2288,6 +2345,7 @@ cnsc-decizie-2026-506,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-507,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTNmOWVhOGQtNDdmOS00OWVlLTgxZWItMjRlMzE2YmFjNWUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-508,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDQwOGRhZDQtYWJmYi00OWIzLTk5MjAtMmYwOTlhYjI2NjY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-509,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjQ3MGE5ZmQtOTdhMi00MjhjLTk4MTYtOWI2ZTQyMGY5NDMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-51,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTg1MzA4YmQtN2IzMi00YzVlLTgxYmQtYTgxM2MxNmI2Y2Iz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-510,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGViYThkYjAtZTE0Mi00NzNmLTg2NjYtNGY3Yzg4ZTdmZmNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-511,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzhmYzZmNGQtMzM0YS00ZjA0LThmNmMtYjNhODg5YTgxOTQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-512,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTU1ZGJjZDgtOTI5OC00MDE2LWE0YjgtZDVkODU3MWY1ODc4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MTIucGRm&action=YXR0YWNobWVudA==
@@ -2297,6 +2355,7 @@ cnsc-decizie-2026-516,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-517,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2U0MmViOTktMDhlYS00YjVjLThmZDctOWI2ODViYTA0Nzcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-518,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjE3MTAxMzctODg5OS00ZWVjLWEyMTktZGIxODM1NzhkMWQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-519,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzI2YjRiMTMtN2M2Yi00ZGZjLTgwMGYtM2M2MmRiZmI2Njky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-52,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzVkNzc1ZGMtYWZiYS00NzFjLTg5NjgtZjBkNmEwZjZhZGU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81Mi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-520,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzE0YzU4ZWUtMzMzZS00NWYyLWE0NTEtMGNmZmNjYzE5MTk4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-521,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGUxY2Y4OTktMjZmNy00OGI5LWExMmMtMjUyOTk1YmJmZTY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-522,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTE4YzA1ZjItNzM3ZC00ZmE0LTk1ODQtN2Q5OWJkOTIxNzdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MjIucGRm&action=YXR0YWNobWVudA==
@@ -2315,6 +2374,7 @@ cnsc-decizie-2026-536,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-537,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWYwODQyYWEtMTM5NS00M2I4LWFhNWEtOTEzMDUwZTM2MzY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-538,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzFhMzY0ZTEtMDdiMy00MjFkLWI4YjAtOTExMWE5ODQ5NGQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-539,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWE2MTIwNjEtOWVjYy00ZmUzLWFlMGQtZjA2ZGI3ZTFmOGVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-54,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWZhNjZiMjYtOTQyYy00NTA2LWE5MWUtZWE5MDYwYWIzNzhm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-540,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDM1ZmRlODgtMWQ3MS00YzA0LWIyMjktYzE1MDdmYWZkZDMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-541,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjY2YThlYzUtZjc5OC00ZmMzLTgwMjMtMzg4NTI3YTkyMTg0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-543,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjNhZjY3ZGItYzYwOS00MmRhLWI0NDYtYjNjMjU1OWMyOTU0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NDMucGRm&action=YXR0YWNobWVudA==
@@ -2323,6 +2383,7 @@ cnsc-decizie-2026-545,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-546,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2ZlOWZlMjktMzVmZi00ODUzLWIxYWYtYTBmNzk3YzZmOTcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NDYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-547,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjkwZjJjOWUtMzMxMS00NzA3LTg4NmEtODZjODc4M2JmNWIy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-548,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzgzZThlNzItZDg1ZC00M2Y3LWJmNGQtMjAyOTQ4NzFjNWEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NDgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-55,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTViMTgxYTEtMTFmMy00YjRjLTgyZmYtNjdkMjUwYjkzMDE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-550,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTVjM2UzYTItOTA0My00MjkyLWI1MTktOTc0OTg1MmM0NDM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-551,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTc2ZGI2ZDQtMjFjMy00ZTU0LWE5YTItNDlhMTBjMTE5YTBi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-552,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjdhN2I3MjEtM2MxNS00Zjc3LTk2M2QtZGQ2M2FmMjNkM2Qz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NTIucGRm&action=YXR0YWNobWVudA==
@@ -2331,6 +2392,7 @@ cnsc-decizie-2026-554,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-555,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGQxZmVhZDktZWU2OC00YTFmLTg4OGUtMDdlZTVmMTQ3ZGRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NTUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-557,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODdmY2Q4ODgtMzY0NC00N2QwLTkwZWItNjg0MmI3MzM4ZGFi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-558,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTA0ZGIyMDItNmFkZC00Nzk2LTgzYWItOTRkNDhmZTZlMmUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NTgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-56,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTUxNjIxYjEtZGI1NC00ZTJlLWEzMjYtYjM5ZjJjNjc2Mzc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81Ni5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-560,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MThlMWQzNjQtMjI0Mi00YWQ3LThlODEtZDU3ZDk4YzkxMTI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-561,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2M2NDg4YzQtYTY2NS00ZWY3LWE5YTktN2ExMDY5ZDZmN2Nj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-562,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjYxNzE5MjEtZWVjZS00YmYyLTkwYjctZWEwMzE1MDhkMWQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjIucGRm&action=YXR0YWNobWVudA==
@@ -2340,6 +2402,7 @@ cnsc-decizie-2026-565,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-566,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmM5YTE5MDEtMWE3Zi00N2MwLTg2ZjgtMDBhYTM3ODljZTM4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-568,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGVlZWEzODEtOTc3MC00MTA5LWEzOWUtNTYxZDJkOGFmNzZh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-569,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDE0N2NmOWYtYjRkZC00ZjMyLTlkYmItN2I3MTEwYTQxOWMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-57,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODlmOTYxYTYtY2E0OC00MWFlLWJmYjItNTdiZTEyMDQzZGM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81Ny5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-570,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzU4YzliNDktZjhjOS00MzI4LWFjOTctMjM5NGJlMzljODRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-571,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzcwM2M3ZTgtZjc4YS00N2E3LTg0NTktMjAwN2Y5N2M2Nzgy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-573,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjViZTFjYTQtNjdmNC00MjRiLTlhMWEtZWExOWVhY2YwNDk5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzMucGRm&action=YXR0YWNobWVudA==
@@ -2348,6 +2411,7 @@ cnsc-decizie-2026-575,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-576,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjY2YzdlOGUtNmI3ZC00ODI1LTg0NGMtMTVjZDJmOGZlYzZi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-577,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTU3OTJiMDktYWZmZi00YmIwLWI4NWYtZjQxM2ZlZDU3MDVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-578,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2FhNDg5N2QtNmNhMC00ZDYyLTgxZDQtNzc3ODM4MDUxYjA0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-58,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGJiZjdlZmQtZTcyNC00NDQ3LWI4YWYtYTg4NDJjN2RjODEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-580,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTMyYmRkNzQtMTcwYi00MDBhLTk4MDYtZDU0NzdmYTE2ZGZm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81ODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-581,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjI1ZjJiY2UtMDU4Yi00ZmY3LTkxYzItZGIyNjBjMWVlNTVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81ODEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-582,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWU5NDIxNDUtZGU0NS00MzlmLWJjMzEtMDg1ZjJiYTRmN2Fi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81ODIucGRm&action=YXR0YWNobWVudA==
@@ -2355,6 +2419,7 @@ cnsc-decizie-2026-583,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-584,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWJkMDkxNzEtYzZkYS00ZWQ5LThlZjAtZDM5ODYyZDFlZmVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81ODQucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-585,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWY0NWZjOWQtOWZmYi00MzUwLWFmYTQtOTk2OTA2Mjc3M2Q2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81ODUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-588,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmE1ZDE5YzEtNTkxYy00YTBmLTlkZDUtYjkzMzNiMTQ4MmI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81ODgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-59,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzdlYjcxNjAtZDc2My00M2U3LWE4ZmItMTk4Njk3MDQyYzA4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-590,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzExOTBhOGYtZWZiOC00NjRiLWJkMmUtMWQ1MDg1MmNhNDgy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-591,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTI1MDNkODEtNjcxMi00MzRhLWJjNzAtODZlZGZhMmQwOThj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-593,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTJkYmRhODktMTAxZS00MzUzLWIxZmMtMTQxMmExZGViZWE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OTMucGRm&action=YXR0YWNobWVudA==
@@ -2362,6 +2427,8 @@ cnsc-decizie-2026-594,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-597,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDNhNjQ2YmEtMzgzOC00ODMxLWJhOWItZThjYzMxNjQ4ZmUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-598,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTg4MDc5Y2ItMDQ1OS00MDdkLWJlY2ItNmRkZTA3YjRmOWY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-599,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTIzY2VhMzQtOGUyZC00MWQwLWFkZGYtNTEwMjczNTg4OTUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81OTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-6,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2VmNTMwNjMtNjhhZS00ZDFkLWJjN2ItNjliZjE1NzZkZTU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-60,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQxMmMwZWYtNjc3Ni00YTMzLWE3NjQtMGEwZWZjNGZlMTJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-600,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2JmNGU1YWItMjUzZS00NWIzLTkxOTAtYzU1MmU4ZThhMWI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-601,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzFlMmE2MmMtOTAwNy00MzJiLWI3MjctMjgzYmZkZWQ4ODA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-602,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmFmNjAxNTEtOTc3ZC00YmYxLTljOTAtMGVmNjc3YzQxYzg5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MDIucGRm&action=YXR0YWNobWVudA==
@@ -2371,6 +2438,7 @@ cnsc-decizie-2026-606,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-607,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzEyOWMyNjEtZTJkYS00MzZjLWJhZjItZmQzYzNiNjIwNWNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-608,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjEwMjVkNDMtM2IyMC00YzVjLWEwY2UtOGExMDZjMjM5Yzg2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-609,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmNjYzVjN2EtYjAwNi00OGU4LTg3NTQtYWQ0MjFjOTg5NjRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-61,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWFiMjI0NjAtZmRiYy00ODY2LWFlMmMtZjBlNzU2NWMyNzRh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-610,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTkxOTg4YmMtY2E1Yi00ZTU1LWJmMGQtYzg3MDEzYTc5MzYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-611,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGQ1MzQ0OGEtNTk0Zi00ZTI5LWE2NWItZDhkMzJiOGQ5Njdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-612,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDUwZTliMDEtNWQ2MC00YjUzLWI4OGUtNTQ1OTRmODQ3YTky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MTIucGRm&action=YXR0YWNobWVudA==
@@ -2380,6 +2448,7 @@ cnsc-decizie-2026-615,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-616,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODlhMTAyYzItYjFlNS00OGE2LWIwNmQtMzU3NmRhMjVlM2E5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MTYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-618,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDYxYjRiMWEtNDI1Ny00YmUwLWI4ODYtMzJiMzQyNjg0Nzk4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-619,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdiNDI3ZDktZDJhYS00MzZjLTk0ODQtYjA3OWM4MzRlMjUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-62,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDhhZGQzOWYtZjJhMy00MTM2LThjNjAtZWM0YzQ2NzFmZDJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82Mi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-621,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmI5ZmQ5OTMtMWZhMC00Zjg0LTk2YzUtYzZiZDAzMDJjNTRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-622,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTMxNzdkMWUtNzlkNS00YzdkLThmNmYtNTIwYWUzYjI0ODE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-623,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjFhNzZlZmYtMjgwMy00NzdjLWJhNGYtMDMwODRiZWNhN2M5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjMucGRm&action=YXR0YWNobWVudA==
@@ -2388,6 +2457,7 @@ cnsc-decizie-2026-625,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-627,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDI2NzkyMmYtOWQ2ZS00ZGY2LTg3OTItNTgyNWNhODg4MTY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-628,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzBlNjFjNWItZDY4OS00MTI2LTlmYjUtZTU3OTRlOGJkOTJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-629,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTExY2FmMGUtY2VjNC00NmE0LWI2OGUtZTU0OTI2MjQyYTYw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-63,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2U5MThiNDQtNDFiZC00MWIwLThlMTEtY2Q1YmY0ODFhNTk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82My5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-630,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDZkZWQ1OTgtY2YxOC00NDJhLWE5MWQtMWQxODEwYzdkMWI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-632,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDg2NmUyN2ItMGUwZS00YTg4LThiZTgtNWQ4NWVlNTNhN2Ex&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MzIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-633,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWNmNTBmZTgtNDU2ZS00NDljLTgwMTAtOGUyOGU3MTgxMzcx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MzMucGRm&action=YXR0YWNobWVudA==
@@ -2396,6 +2466,7 @@ cnsc-decizie-2026-635,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-636,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGI5NGEwNDEtMGM4Mi00Njc0LTk1MGYtOGEzN2NjOGJjOTZj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-637,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWIxNTJmZmYtNmYzYS00NTliLTljMmQtNWIwZDliNGQ4ZTJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-639,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzM4ZTdhODgtODMwNi00ZDZkLWI5YmUtM2RjYjliZGI2YmE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-64,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGY3N2E1MWQtMWZlYi00MjkxLWJkNjctMTkxY2UzZjVlZmE0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-640,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2ZmM2RiYzgtZDkyNy00MDE1LWE5MzUtMjRiZTk0NDQ1MDg5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-641,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzBkZGY3MTUtNDBlYS00NjlkLTg3NmQtNjI1MmU2Nzk2NTll&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-642,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmYwOGI3YTctZDQ1MC00NWI5LThiYTgtNTcxYjI0OTE2OGU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NDIucGRm&action=YXR0YWNobWVudA==
@@ -2406,6 +2477,7 @@ cnsc-decizie-2026-646,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-647,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjhhMTAxNDktODU4Ny00MWM1LWI0YWQtM2ZjMDJlZjg3NTYw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-648,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWY0NTM1MzAtNTkzZS00ZTZkLWE3YzctMjI5YjIyYzA2YjU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-649,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTYxOGI4MDctYTc1Ny00MjgzLWFiNTMtOGI5YWJmZmNkOGNk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-65,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdjMTA0OGItMWEzMy00YjM5LTgwMzktMjBjNDExZDg3NmIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-650,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2E3M2UzMjYtZDhkYS00ZjM1LWE0YTgtZDczYjIwNmVhNjQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-651,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWNkNDliNWMtMWYyMS00ZDk3LWE3MzYtMjE0NjFiZmMwY2Yz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-652,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzhkNmIwMDMtNzdjYS00MTg5LTg1ZjUtMGE4NzdiNWRmNDAw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTIucGRm&action=YXR0YWNobWVudA==
@@ -2414,6 +2486,7 @@ cnsc-decizie-2026-654,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-655,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2MxYTFkMmUtZjE4ZS00ZWZjLTkzZWQtYjU0OWFmMDVmMjYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-656,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmNlNmQ4YjItN2Q1NS00MDVhLWJlMmItZWQ3YjU2YjVmOGJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-659,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGUyMThiNTktODEyYy00ZTRjLTk5YmUtMThiM2NkNTEwMWQ0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-66,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzkzNjlhOTctYmMzZi00NzM4LWEyODEtYTgzYmYzNmRhNTE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82Ni5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-660,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2Q4NmZkYTQtMTQ3Yi00NTk5LThlYzEtMTkzYWQwODNhYWMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-661,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2RjODNmYTgtOWY1Yy00NzI4LWFkOTEtY2Q2NzFjOWY5MzAw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-663,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFiOGFhOGYtODkwMS00OWUzLWJkNjAtMDk4NmJlYWJiYmI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NjMucGRm&action=YXR0YWNobWVudA==
@@ -2421,6 +2494,7 @@ cnsc-decizie-2026-664,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-667,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzdmY2RmYjctMjA4Mi00MWM1LTg1OTItNzI2ZjEzMmI3YjQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-668,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTUwNmUwYTAtZWFmNC00ZjY5LWJjNGEtNGY5M2IyMzg1Yjhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NjgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-669,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFiNjVlMDktMTZkYi00YzkxLTliY2ItODMzODJmM2M4ZTg2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-67,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTZiMTIzMDItOGFhNy00MjZiLTg4ZjktYWFhZDY0Njg2NGI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82Ny5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-670,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTQxNDIwZDAtMWIyNy00ZDgzLTg3MTEtNWMzMjc1Y2ViNWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-671,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjM3NzYyNjYtNjZiNy00NjdiLThjMzktMmUyZTA2MWUxMTI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-672,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTgxY2Y5NjktYzgzNi00ODQyLWFlNDAtNDQxN2RlZjhhZjUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NzIucGRm&action=YXR0YWNobWVudA==
@@ -2430,6 +2504,7 @@ cnsc-decizie-2026-676,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-677,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmM3YzdlMTAtODljNS00ZDBlLTk4YzMtNDU3ZjVmYjMwNzky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-678,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQ4N2UwNzUtZGZjNC00YTcwLTkxN2ItMzZiNmJlMzQzYzBj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-679,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2M4MDk3NWMtOTIyMy00ZDQ4LWIxZGQtOWM4ZjA3YzIzNTVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-68,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGMzMzc1NDctNzQxMy00MTk0LTg2OTYtNDZkMmNhNmQxOWVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82OC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-680,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjMzZjE4ZTItYWE2YS00NTVjLTg0MzAtN2I4MzkzNWYzZTgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82ODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-681,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJlYWQwNTEtOTdjNC00MjU4LWI0YzYtYjAyNmNiZTc5N2Vl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82ODEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-683,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzY2YjFhOTMtZjgxOS00ZWQ4LTljOGMtYzMyYWJmY2JhYmI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82ODMucGRm&action=YXR0YWNobWVudA==
@@ -2448,6 +2523,8 @@ cnsc-decizie-2026-695,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-696,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzkwMzhhN2QtYmQyYS00ZjAyLThkMDMtN2M4ZWQzMTM5NmJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82OTYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-697,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjBmNzE2NTgtMjRmZi00ZTU0LTg4MjctODRkY2ViOTVkMTg1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82OTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-698,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDY3M2QzMjAtYTEwYi00NjYwLTkyOTQtNzI1MTYzMDc1Njc4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82OTgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-7,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWI0YjkxY2MtYmI5Zi00MmU4LWJkYWYtZmUxNzk4NWNjNzdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-70,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzBiZDZiZTgtNjlhNS00ZTNkLThlZjAtZmEwZTg1NmY0NWFi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-700,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmMyYWRhNTQtN2RkZS00ZGVlLWE0MzEtYTcwOGQyYzNjZDI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-701,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDljZjY4YzYtNmNmNC00NGUzLWFjOWQtMzU5YjdiYWFiNDU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-702,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDkxOGRjYjYtMmRlNS00NTI5LTlmOGYtM2Q0NTFjYmVjN2Qx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MDIucGRm&action=YXR0YWNobWVudA==
@@ -2458,6 +2535,7 @@ cnsc-decizie-2026-706,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-707,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTBjYzk5MTQtNGI4Ny00NWNhLTliMjItNDlkMWNiOGNjNGY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-708,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWU0NjJmMmEtZWI4MS00OTgzLWExNzQtYjFiNTcwZGVjOWJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-709,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzM2MTQ2MWYtZmMyMC00Y2Q1LWExNDktMjQ1MDgzNWI2NWU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-71,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWJiZjc5MzYtNWNkNC00ZjAzLWFlZmItNDlkNWYxYWU2MGUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-710,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODI2OTNkNDMtNDAzYy00MmRkLWE0NWMtMjFkOTJjNzRkYWIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-711,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjk3NWUwNzAtMzVkZi00MjAxLWI5MmYtYzIzZGJmZDJhOWQ0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-712,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzAxMGNlYzktZDcwYi00MTJjLThiMWEtNGQzYWZkNTBjMzcx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MTIucGRm&action=YXR0YWNobWVudA==
@@ -2466,6 +2544,7 @@ cnsc-decizie-2026-714,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-715,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDY2NDEyY2YtMDJkMC00MDM5LTlmZGItMGIwNWIzOGZjM2Zi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MTUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-718,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGY1ZmI1ZjMtZjhiNC00ZGYyLTlhZjMtY2JhNTVhZjc0YjE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-719,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTU1OTAyMzEtZWFlMy00MjIyLTk4MGItNTBlNGViYWI3MDEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-72,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmQ5YTkxNjItMDIyZC00OTEyLTk5ZDktMzgyOTQ1NTgzYWNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83Mi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-721,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWEyYTUzNjEtZmVlYS00NTQzLTllZTctMDg3NDllNDJiNjc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-722,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjFhZmFhMGUtYWVlYi00N2NkLWE5MzItOGVjNjcyNmQ1ZjJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MjIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-723,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzkzZjU5MWYtNjI0Mi00MGJiLTg3MjgtNmRiOTAyZDhhZDcx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MjMucGRm&action=YXR0YWNobWVudA==
@@ -2475,6 +2554,7 @@ cnsc-decizie-2026-726,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-727,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTNjNDFlMDgtODhhZC00NWYzLWFhOWMtMmI1ZDI2NjFkNzM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-728,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDliZDJmMTEtYTJmNC00MmUxLWI2MTYtNWExNjg0NjY2YTc5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MjgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-729,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDAwZTM1MjctYzQ3NS00N2RjLTk3NzAtMjUyNjU2MTg4OWEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MjkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-73,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmQyMmQ2NTItNzNiOC00MzJlLTgzN2YtOGU2MmRkODdmOGE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83My5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-730,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFmNWM3ZDQtY2FhNC00Y2ZmLWEwZjEtZDU4NGIzMTQ1YTk1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-731,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmNhYjBjYWYtODIxNS00NGQ4LWJkMzAtNTY0N2E5MTU1ZDkw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-732,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGNiZjI0OWQtYTY1ZC00ZWU3LWEyMDctNDQxMGMwZTJiMWNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MzIucGRm&action=YXR0YWNobWVudA==
@@ -2484,6 +2564,7 @@ cnsc-decizie-2026-735,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-736,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yzg4NGZkZTYtMzNlOC00N2E5LWFlNDYtMzdiMjZiY2ZjNzdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-738,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmY2NjVlMGQtMzFiOC00ZTgxLTlmZWYtNDNiMWZhNTYxODAx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-739,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDhlODE5NzUtYzliZS00YWQzLTk2YzctMjAxMjJhNzY0OGYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83MzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-74,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmZmMDMxMWMtNTA2Yi00ZGEyLWJiODktMWZmYTRmMzY2NWJh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-740,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDg3OTYwNDItNDRkMC00OTZmLWE3MDktN2Y1ZmZlNmRmMTAy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-741,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTFlMmUzN2YtZDBiMi00ZTUyLWE5YzItOWZiZGMyYWZhMDI1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-742,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmU0MDU4MGItYzEwYi00YTkwLWI4MGItMTIxZWI3OGQzZGZm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NDIucGRm&action=YXR0YWNobWVudA==
@@ -2491,6 +2572,7 @@ cnsc-decizie-2026-746,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-747,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTc1YzEwNGYtODk2Yy00OWI4LWFkZmUtYzg5ZjUxYzYxYTg4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-748,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWE0ZjcyN2YtMTE4NC00MzFmLWExYmUtMzRjOTFiNDM2YjQx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-749,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTllN2Q5ZjctNzE2OS00MTA2LThmOGYtNWIzODBlZjYwZTg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-75,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjA2NDYxZGMtNzljZC00NjVlLWEwMTMtNTU5ODhjMGNiNTYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-750,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTAzMTYxYzItYWZiNS00ZmNiLThmYWUtMTk1Mjk2YzI5NzU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-751,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGMzYmVlZTMtNmVhNC00NjllLThjOTEtNmRmYzYwMjdkNmQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-752,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTE0MDU3ZWItZTRmOS00ODMyLTlhNTItNWUzZGZiMWNkYzAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NTIucGRm&action=YXR0YWNobWVudA==
@@ -2499,6 +2581,7 @@ cnsc-decizie-2026-754,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-755,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDczMGYxOWEtZjdjNi00NzQ4LWIwZTctY2E2OTY1ZTM1YzUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NTUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-757,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWE1ZTVhMTktMWM3Yi00NTcxLWFmNzktZTJmYWU4MTM4ZDgw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-759,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTYwODUxYjItYjQ5NS00OTM2LWI2NDMtZDRiZjRhMTU5NGI4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-76,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjhhZDg0YWQtYTU2My00ZGYwLTgyYWUtMzNmYWE3MjE1NjBi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83Ni5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-760,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODc3ODk4OWYtMzAxNS00ODI2LThhYzUtZWY5MDZhZTYxMTA2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-761,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTEzOTRiN2ItNGYwYy00YzI0LTllM2ItNDkwY2NlNzU1ODU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-762,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTA2ZWRhZGMtNDlkZC00NDFhLWIzYmQtNTcwMzk0MWRkZjdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NjIucGRm&action=YXR0YWNobWVudA==
@@ -2508,6 +2591,7 @@ cnsc-decizie-2026-765,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-766,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDQwZDcwNTItNzYyNC00NjkxLTg3N2EtYjQwODFlY2I1ZWYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NjYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-767,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDk3Nzc1NTktZDFmOC00NjQ2LTgzM2ItZmRiODdmZjk5ZmIy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-768,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTNmNDA4N2EtNTg4Yi00N2Q2LWFlN2YtNmMwYTNiYzZhZmYz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NjgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-77,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDI3MGQ2ZjEtNTE1YS00M2NmLWI2ZTAtODYwNWM1YzJhMDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83Ny5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-770,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDBhMjE1ZDItNTEzZS00ZTQ2LTkyMTItNzZjY2ZjODMzZmYw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-771,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmYxM2RlNTMtMDFkNS00ZThiLTk1NGItYjIzNDU2OTIzMzVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-772,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWI4MzQ2NzItZWM0Mi00ODU1LTliNTQtNDgyZTFlNTczNDBi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NzIucGRm&action=YXR0YWNobWVudA==
@@ -2518,6 +2602,7 @@ cnsc-decizie-2026-776,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-777,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTEzN2JmMzMtODAzZi00MDhlLTg0NjEtNDVlYjk4ODgyMmEw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-778,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDI0ZmNlZWYtZDI5OS00YzVlLThlNDUtMDQyM2M4Y2IwNWM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-779,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2ZhMTg4YzAtODIyOS00Yjk0LTg0YTctZWMwODk2MmQ2ZmU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83NzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-78,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjk0ODM5ODMtMTllOS00ZGQyLWJiY2QtZTJhZTUyN2I0MWY5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-780,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmZkZDM1ZTUtMDI3ZC00MWNmLWEyNGYtZjhjMGQ1NDU5OWRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83ODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-782,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzhhNGQ2MDUtOTZhNS00NjVhLWJjYjAtYjNjOTE0YmI3NWU0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83ODIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-783,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTdjZmQxMjgtNzRiZi00ZDM2LTk4NWItOTBkMjQ0YTkwN2Ni&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83ODMucGRm&action=YXR0YWNobWVudA==
@@ -2526,6 +2611,7 @@ cnsc-decizie-2026-786,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-787,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2ZiYzAxNzUtYTU2Zi00YWI2LTk1NzktMjExNTk2ODQ5ZTZl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83ODcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-788,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzUyZTRlMzQtNTA5MS00ODA3LWJlNTMtNzNjOTdkNWE1ZjU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83ODgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-789,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTk3YzlkYTQtNDkyNy00NTRkLWJjNTItZDNmMWNkYzQxMWVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83ODkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-79,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWE3NWJlOTYtMGU0NC00NDhiLWFjOWQtNjFjNzg1N2MzMWYx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-790,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODIwYjEwZGItMWY2NC00YTY0LWFjOGItOGFjMGZmYjYyMjE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-791,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDdlNDQ1NTctNjQ2Zi00NTY3LWIzYzctNDcyODY4NzhlOTQy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-792,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWZiZmFlZTktMDgwMS00M2M1LThmY2UtMjQwZTRiZjAyYTBk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OTIucGRm&action=YXR0YWNobWVudA==
@@ -2535,6 +2621,8 @@ cnsc-decizie-2026-795,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-796,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmQ3YjgyY2UtYThiMS00ZmFhLTg1YjEtYzUwOGE2YTJiMjQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OTYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-798,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Njk5ZDY1ZjItN2UxOS00ODU0LWIwNTMtMmQ2NWY2Y2Q2NDhl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-799,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGRiZDRkZGUtODE1MC00NDQ5LTljZmItNzRkMzNlMThjMTlh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV83OTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-8,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGE3MzhlNmItNjkyNC00MjkzLThhZWYtODEwMzc3MmE5ZTcx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-80,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTYzNTFkNWEtYjA3OS00NDU3LWIyYTgtMmQzMjFlYmJmM2E3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-800,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzI1NDNkMTItZTg4Yy00YzA0LWFmODUtYjY0N2FkODc0ZDIw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-801,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTkwNWQxMTEtODRhOS00NjE0LWFiODktZDEzMTk4NzQ2NTc0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-802,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzZkMDFiNmUtNjU3Yi00NmQ2LWJkZWYtYTIwNjk3N2I4NmNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MDIucGRm&action=YXR0YWNobWVudA==
@@ -2545,6 +2633,7 @@ cnsc-decizie-2026-806,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-807,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjZhZTliN2ItYzBjNS00NTdlLTkzNDMtZDA5MjVlOGQwNDlh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-808,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTg0OTMxZWQtMzI4ZC00YTE4LWE1M2QtNmQ2YjZjMDkzMjY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-809,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmI1YzU0YmEtNmU5Yy00NTI2LTgyNmItMzgxYjg0MDU4YTgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-81,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjZmNDM2OWUtYTBkYi00MjMwLWFiNTQtNmQ2ODE3MmIwM2Vm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-811,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDYxYmY5OWItNjZkMS00ZTE2LWI0MWEtODU4ZjY2OWU3NDM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-812,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y5NDljMjAtYTY1Mi00MWY1LWJjODctODE3NTk0NGFmZGU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MTIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-813,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjIyODYzNTgtY2ZjNi00ODVlLTg2NmYtNjYxZGQ5OTFhYTI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MTMucGRm&action=YXR0YWNobWVudA==
@@ -2552,6 +2641,7 @@ cnsc-decizie-2026-814,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-815,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODJhYzUyY2YtMDI3My00NmIzLWE3ZjMtMWMxNzUxNzg3MWI3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MTUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-816,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGI3NzM5YTUtNjEyZi00NjFlLWJjNWEtMjEwM2RlYmMyOThm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MTYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-817,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjhiNjdhMjUtZTU3ZS00MjIxLThiNGUtZjdmZDI5MzQzYzgw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MTcucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-82,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWM0ZTA5YTItZGI1NC00MGJiLWE3MTgtOTU3Yjk2N2I0YzQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84Mi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-820,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTNiZDE4NjktZjdhZi00M2JkLTgwMDItMjZiN2FkODJhZTdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-821,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDU4ZTA2ZDEtMDFlNC00YzRmLWI1YjEtNzU3MzI4Mzg2Nzlh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-822,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWUzZDE3ZDktY2Q4NS00OGU1LWI1OWYtZWYzYjM0YzhiZTdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MjIucGRm&action=YXR0YWNobWVudA==
@@ -2559,6 +2649,7 @@ cnsc-decizie-2026-823,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-824,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjMzNzQ5MGYtNmQyNS00MTk3LTlhNzgtZWY1MzgwNjM2ZDk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MjQucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-827,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTZjZTg3YWEtNTA1Ny00Njk5LTlhZTQtMDczZmYzZmY4YjE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MjcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-828,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTFkMzM2NDUtMzgxMy00YmZhLWE4NzctMTAwZGMxMzNmNTYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MjgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-83,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDY4ZjczMjQtOGU3MC00ZDU2LWFlYmUtOGQyNjQ0MjJhOTli&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84My5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-830,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGU2YmZiNWUtMjE5YS00MTllLThiZmYtYmJhNjI0OGEyMTEy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-831,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDNjNDczNjYtMWRmZC00ZTVlLWIwZGItMzI3MWRjZGQ5YmVi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-832,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGU2YjE4NGYtY2IyYy00YTdhLWJmOGYtMTBkOWIzZjBiYWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MzIucGRm&action=YXR0YWNobWVudA==
@@ -2568,6 +2659,7 @@ cnsc-decizie-2026-836,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-837,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDgyYzEzOGYtMTk1My00NDFiLWFhZDktZWY3ZjRmZGFkM2E0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-838,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTczNTEyZDctOTBiOS00OTk5LWEwNzctNTRjMjljNjcyOTg5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-839,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjM3ZDA2N2EtZmJmYy00MWY2LTk1MGYtNzE4ZDNhZWZkODE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84MzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-84,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGNlOWQyZmItZjUzNS00YjM3LWE1MjgtMDFkOGE0NTM5NGEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-840,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTFhYjVlZmYtZDA5Ny00OWJiLWE4MmQtYWE3YmVlOWNiZDhi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-842,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGI4MDNiNWYtZWM2Yy00YjIyLWEwOGQtODU4ZjBmOGU1ZjAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NDIucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-843,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzA0Y2MzODMtMWUyYi00NzMyLTkwNjctNzZhMjNiMWEzZTlm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NDMucGRm&action=YXR0YWNobWVudA==
@@ -2576,6 +2668,7 @@ cnsc-decizie-2026-846,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-847,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjc4YzU1YWYtZDc1Zi00ZGYwLTg5ZjktODFkOWI3MGE2MzJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-848,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTBjOTQzYmMtYjAzOC00MGY0LTg3ZTQtOWY4NTkwYmVhMzE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-849,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTBhMGQ3MzUtODU1OS00M2E1LWJkZmUtYjJmOTIzZjZmNzg2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-85,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDY5ZWYzYzEtYzAwOC00NjgzLWE0NWQtZGYyYTYzYzg3OGEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-850,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDhjNDMyZmUtZDMwZC00NjNmLWE5MjMtZTk2Njk1ZjRmNjRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-851,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjU0MDk3ODUtNGZjNy00NjVjLWI1ODYtNDZmYWU3MWZhYWJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-852,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OThhNTc4MWQtZTQ0OS00ZWEwLThlNDUtY2I5NjBlZTg2ZWI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NTIucGRm&action=YXR0YWNobWVudA==
@@ -2586,6 +2679,7 @@ cnsc-decizie-2026-856,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-857,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGY3MWRhMDktNDc3Mi00Yjg1LThkMWItYmE3MWM5NmI4NzRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-858,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmNiYTliOWYtMTYzMC00NzVjLTk4OTgtMTVhM2EzNmUxOGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-859,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjU3YTFhNWYtNzZkNy00ZDc3LTk0NTItODdkOGZkYjJjM2E4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-86,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmM1YjBiOGEtYzcyYy00NmZhLTk4YTMtMzk0ZWM2ZmY3ZGE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84Ni5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-860,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODI0OTNhZTUtN2Q0Ni00MWNhLTlhYmQtZTc1Yzg1ZjEwMTQy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-861,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODcyYmY2ZDktNTc0ZS00NGM0LTkyOTQtMjg4MzdhNDYwOGRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-862,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTAxZTQ5ZTktMTcxOS00NTRiLThlMjUtODg4NmJkMTdiZTRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NjIucGRm&action=YXR0YWNobWVudA==
@@ -2603,6 +2697,7 @@ cnsc-decizie-2026-874,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-875,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDhiMjRiNWEtNmU1Mi00YTE4LTgyNzAtZGU5ZmM3ZDY2OTgx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NzUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-876,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmMyZGViM2QtMjQyYy00NDJjLTlhZGUtZDA0Y2MwN2U0ZWEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NzYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-878,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjY3MGY2NjYtMDVhYy00ZjlmLTliZjQtZTdlYzY3MDU5MmMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NzgucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-88,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Njk0MjY2NjctZTg2Yy00YmRlLWE3OGQtMzdmMWZhMmZlNGRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-880,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWIwNmIxNzctZTM1NS00NmE2LWFjMGQtMmQ5YWZmYWQ5ZmQ0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84ODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-881,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzA3ODFmODYtOTc2ZC00M2QzLThiNjEtNTM3YTA2Njg2MzQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84ODEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-882,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzE3MjlkODctYTEwYi00MjM3LWExNWYtMDA3MWYzZTliYzM4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84ODIucGRm&action=YXR0YWNobWVudA==
@@ -2612,6 +2707,7 @@ cnsc-decizie-2026-885,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-887,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzgyODQ2NzgtMjc0YS00YzE4LWJmYTYtMmZlYjE2ZDIyNGZi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84ODcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-888,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTgwNzM4ZGYtOGMyZS00ODEwLWE3MzUtZDEzODQ2MjBmMTJh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84ODgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-889,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjU4YzM1MTAtODdhYi00YWZmLWE4NWYtZWM0YzVjNTJiMGY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84ODkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-89,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmM5MWVlYjMtY2RkZC00ZDc2LTlkZjYtMjQxN2YwNDhkNzM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-890,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmVhZDE2OGUtNWVlMy00ZTQ2LWE5YjItNzAxNTNlOTYwMzVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-891,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzJkN2NiYzYtZGRmMC00ZDc1LWE1YWMtNDY2MWE4NTYxZGNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-892,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mjc2MjUyZWYtNTM0Ny00N2QxLTkxYzYtZWZkMzgwMzYwNTdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OTIucGRm&action=YXR0YWNobWVudA==
@@ -2620,6 +2716,8 @@ cnsc-decizie-2026-894,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-897,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDk1OGM2NDUtYmE0NS00ODhkLWFmNjYtNDBlYzNlODNlOWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-898,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGQ0YjMyZGYtZmZkYi00MWY2LTkzNGItZDZkNjNiOTI1NDYz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-899,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDhkODYxNzYtN2Q1ZC00M2YzLTg1N2YtNTk0MGYxZGNiZWE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84OTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-9,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmQwMDgyMjMtOGE0Yy00ZmYyLWFhNzUtYTU5MjVjM2EzZDJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85LnBkZg==&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-90,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWQyYzEzZjUtMmRkNy00ZjViLTk0ZDEtNjI0NGRkMmZiZjE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-900,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjQ0ODAxYTktYjI1OC00MmUzLWIwODYtYmZlNDgxNGE1Nzcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-901,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGFiOGFiNmYtNGY5MC00YTUyLWFjYmItMjY4Zjg2OGMzZjVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-902,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWU1YmM5YjMtY2UxYy00MWYwLWIyZmYtNTQ3MDY0YzYxYjA5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDIucGRm&action=YXR0YWNobWVudA==
@@ -2629,6 +2727,7 @@ cnsc-decizie-2026-906,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-907,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTg3MDFhZmMtNGYyNi00MWFmLTljZWUtYjJiYzgxZDI0ZGM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-908,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmQzZmVkYzQtZGZkMS00N2NmLWI5OWItYzNjOGM0YzNmN2I5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-909,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGIxNmM3NzQtYWUxMC00NWMwLTlkNjItYmRhNWQxM2VhZjgy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-91,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDljYjJkMDMtZTAzYy00ZGJlLTk3OGQtODI5YWZmZDNhNDg2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MS5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-910,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjVhNWU4YTYtODA0ZC00ZDk0LThjNWEtOWEyMWU1MzQ3NTEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-911,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTM2ZTI4NzEtYTg5MC00OTE1LTkzMDUtNGZkNmJkNTY5ZGE2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-912,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjFjYmQ5M2YtZTFiZC00OTIxLTllMGMtMGQxZGY5MzBjMGVh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTIucGRm&action=YXR0YWNobWVudA==
@@ -2637,6 +2736,7 @@ cnsc-decizie-2026-915,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-916,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjVkMGNhMWYtYzJkNS00ZmMxLWE0ZWEtODMwMTA0YWEyOTIx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-917,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmRmZTJjN2ItN2MzMy00NDk4LWI4MWMtOTQ1NWExZDEyMDJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-919,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmNjOWE2ZTgtMTVkZS00Y2E1LTgzMWMtZGZjMTVlOGVmMzAw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-92,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWIzNGViZjYtMjcwZi00MmIzLWI4ZTMtOTBjMjUxYTU3NjM4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85Mi5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-920,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzFkN2ZhM2EtMWI2ZS00ZWY1LTliYmEtNTkzOGVmNWE2MjQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MjAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-921,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDY0MzVlMDItMGY5Zi00MTUwLWE2MWQtOTJmOTVjNGNmMDgw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-922,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTAxOWQwMjItNDFlNS00M2E3LWJjYzEtNTAwNDUzOTA1Yzll&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MjIucGRm&action=YXR0YWNobWVudA==
@@ -2645,6 +2745,7 @@ cnsc-decizie-2026-924,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-925,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGY2MWYxMDctZDUzMi00ZTE3LWExYmYtMGM4NDk3Mjg2MGY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MjUucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-926,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGY0ZWJlY2QtODlmNC00ZGE2LTk1MjEtMTliMmVmNjYzNWJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MjYucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-927,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTk4OWYxNTYtMDIxMC00ZWMxLTg0MmUtNjBmOTRkODNhYzQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MjcucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-93,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDg3MzRkMTgtZTQwMi00YzQxLTk1ZWMtM2ZlMDNlMzI4MjE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85My5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-930,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWNiMzljMDQtZjVlZC00OGZiLTlhNmQtNmMxZWYzY2VlOTdh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-931,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmYxOGRiMGUtYmNiMi00YWI0LWJmOGYtNTdiYzNlNWMwZmM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-933,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjBjZmE0MTAtYWU5ZC00ZGMyLWE5NzAtOTY5NmI2MDM0OWM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzMucGRm&action=YXR0YWNobWVudA==
@@ -2653,6 +2754,7 @@ cnsc-decizie-2026-936,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-937,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzUyYzc5NDQtNzM1Yy00ZTI0LWI0YTUtZWViMmFlYzE5YzQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-938,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTRjY2U4NjYtZjI2Mi00ZjZjLWFmNDktNTg3ZmE2ZjcxZmM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-939,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjY2YzU2Y2MtNmU5OC00MmMzLTlmMDYtOTRjYTQxMTgzNDc2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-94,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjQ2YzIyN2EtZWQzZC00NDlmLTlmYWUtMmY1ZWJkZjg5ODhi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-940,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGUyNTEwMGUtN2U0OC00YWFmLThlMjAtMWNmNDMwMGI0ZTg0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NDAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-941,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDEwYWQ4MmItNzc3MS00ZGRjLTkwNzItYzI0ZWY0YmM5ZDY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NDEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-942,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDg3YzAzMWYtOTBjZC00ZGQ3LWIyYzQtZmYxNzg3ZWQ3Nzhm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NDIucGRm&action=YXR0YWNobWVudA==
@@ -2671,6 +2773,7 @@ cnsc-decizie-2026-956,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-957,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGVjNWE2ODYtNWUyMS00YTE3LTg4NTUtNDAyMWEyOGQwN2E1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NTcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-958,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTA0MDM0MGItY2I2ZC00ODk1LWExMDktZmUzYzVlNTA3NDc5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NTgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-959,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDhkNTUyY2UtY2Q2OC00ZDBhLTkzMTMtZjhmODY1YmVkYTQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NTkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-96,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTg5Zjc2MmEtNzQxYi00MWM5LTk5ZmMtZDQzYjlmN2MwNGUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85Ni5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-961,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDM5MjI4YzQtMWUyOS00YmIzLTgyZDItYTJhN2QxMGVjMjIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NjEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-963,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWY4MWRkMjItYTliNi00ZGE4LTg3MmYtZjI4NWYzZTc3YzIy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NjMucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-964,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmUzYzY2MmQtOGZiNC00OGRhLWE4OTMtYjQ0MTExMzJmNDQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NjQucGRm&action=YXR0YWNobWVudA==
@@ -2687,6 +2790,7 @@ cnsc-decizie-2026-976,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.as
 cnsc-decizie-2026-977,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmFjMTQyNTctNmNjNC00ZGY1LTk3OGQtMWJmNTIyODc1YTBl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NzcucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-978,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGM1NjJmMjAtOWEwZS00YWZmLWFmNmYtNTdlZTkzNWM0N2Ri&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NzgucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-979,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODE2MjE3NmYtMmNjYi00NjU3LTkzYzItZmZmZDlkNDA3YjA3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85NzkucGRm&action=YXR0YWNobWVudA==
+cnsc-decizie-2026-98,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGRiYTAyZjMtNjJjZi00ZjU5LThkMGUtYjFhNjliZjc2MjE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85OC5wZGY=&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-980,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzhhNWQ4NTEtN2M5YS00YmM3LTgwMzAtOWI0YjIyMTMwMWE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85ODAucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-981,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTM4NDQ2MGQtYjBiNi00ZTYwLTliZjYtYWQ1NjIxZThjNTdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85ODEucGRm&action=YXR0YWNobWVudA==
 cnsc-decizie-2026-982,unverified,,,,,,,http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDIwY2VjYjEtYWZjOS00MjA2LTlmM2UtYTk0MWVkN2ExNzMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85ODIucGRm&action=YXR0YWNobWVudA==

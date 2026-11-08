@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/ineu/2009",
+"acts": [
+{
+"slug": "hcl-arad--ineu-35-2009",
+"path": "local/arad/ineu/2009/35",
+"kind": "local",
+"year": "2009",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 35/2009 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 35/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-03-30",
+"latest": "2009-03-30",
+"portal": "https://primariaineu.ro/hotararea-3530-03-2009/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-142-2009",
+"path": "local/arad/ineu/2009/142",
+"kind": "local",
+"year": "2009",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 142/2009 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 142/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-26",
+"latest": "2009-10-26",
+"portal": "https://primariaineu.ro/hotararea-14226-10-2009/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

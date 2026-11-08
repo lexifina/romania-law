@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2014",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-1-2014",
+"path": "local/arad/nadlac/2014/1",
+"kind": "local",
+"year": "2014",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2014 privind alegerea președintelui de ședință Consiliul local al orașului Nădlac, întrunit în ședința extraordinară din data de 15.01.2014, Având în vedere: - propunerea nominală pentru alegerea președintelui de ședință și rezultatul votului deschis al majorității consilierilor în funcție - prevederile art.9 din Anexa nr. 1 la Ordonanța Guvernului nr. 35/2002, pentru aprobarea Regulamentului-cadru de",
+"short": "HCL Nădlac nr. 1/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-01-15",
+"latest": "2014-01-15",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2014-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--nadlac-122-2014",
+"path": "local/arad/nadlac/2014/122",
+"kind": "local",
+"year": "2014",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2014 privind alegerea președintelui de ședință Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 28.10.2014, Având în vedere: - Propunerile nominale pentru alegerea președintelui de ședință și rezultatul votului deschis al majorității consilierilor în funcție - prevederile art.9 din Anexa nr. 1 la Ordonanța Guvernului nr. 35/2002, pentru aprobarea Regulamentului-cadru de orga",
+"short": "HCL Nădlac nr. 122/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-28",
+"latest": "2014-10-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2014-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--nadlac-138-2014",
+"path": "local/arad/nadlac/2014/138",
+"kind": "local",
+"year": "2014",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2014 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Nădlac din data de 25.11.2014 Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 25.11.2014, Având în vedere: - prevederile art.43 din Legea nr.251/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare În temeiul art.45(1) din Legea nr.215/2001 privind admi",
+"short": "HCL Nădlac nr. 138/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-11-25",
+"latest": "2014-11-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2014-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--nadlac-151-2014",
+"path": "local/arad/nadlac/2014/151",
+"kind": "local",
+"year": "2014",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2014 privind aprobarea ordinei de zi a ședinței de îndată a Consiliului local Nădlac din data de 12.12.2014 Consiliul local al orașului Nădlac, întrunit în ședința de îndată din data de 12.12.2014, Având în vedere: - prevederile art.43 din Legea nr.251/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare În temeiul art.45(1) din Legea nr.215/2001 privind ad",
+"short": "HCL Nădlac nr. 151/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-12",
+"latest": "2014-12-12",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2014-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--nadlac-154-2014",
+"path": "local/arad/nadlac/2014/154",
+"kind": "local",
+"year": "2014",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 154/2014 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Nădlac din data de 22.12.2014 Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 22.12.2014, Având în vedere: - prevederile art.43 din Legea nr.251/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare În temeiul art.45(1) din Legea nr.215/2001 privind admi",
+"short": "HCL Nădlac nr. 154/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-22",
+"latest": "2014-12-22",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2014-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

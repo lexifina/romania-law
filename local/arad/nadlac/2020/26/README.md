@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2020 privind înființarea serviciului public de salubrizare al Orașului Nădlac și stabilirea modalității de gestiune a unor activități din cadrul serviciului public de salubrizare din orașul Nădlac, în conformitate cu Legea nr.51/2006 a serviciilor comunitare de utilități p
+
+HCL Nădlac nr. 26/2020 · 1 versions, from 2020-02-20 (latest in force: 2020-02-20) · <https://primaria-nadlac.ro/hotarari-din-anul-2020-2/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--nadlac-26-2020` (tags `hcl-arad--nadlac-26-2020/<day>`; `python tools/on.py <day> hcl-arad--nadlac-26-2020`).
+
+## Decisions made by hand
+
+- HCL Nădlac nr. 26/2020: listed from Consiliul Local al Orașului Nădlac (primaria-nadlac.ro); an individual decision: metadata only.
+- HCL Nădlac nr. 26/2020: dated from 20 February 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Nădlac nr. 26/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

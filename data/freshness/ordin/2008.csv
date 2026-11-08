@@ -1,25 +1,25 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-ordin-aaas-1-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/88469
-ordin-aaas-18-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93503
+ordin-aaas-1-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88469
+ordin-aaas-18-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93503
 ordin-aaas-1837-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98552
-ordin-aaas-1896-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99529
-ordin-aaas-19-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93353
+ordin-aaas-1896-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99529
+ordin-aaas-19-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93353
 ordin-aaas-1908-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100267
-ordin-aaas-2-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91806
-ordin-aaas-20-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93356
+ordin-aaas-2-2008,pending-change,,,,Decizia nr. 474/2009,2009-04-02,no,https://legislatie.just.ro/Public/DetaliiDocument/91806
+ordin-aaas-20-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93356
 ordin-aaas-207-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91365
-ordin-aaas-23-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93509
-ordin-aaas-24-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93547
-ordin-aaas-30-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93405
-ordin-aaas-33-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97957
+ordin-aaas-23-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93509
+ordin-aaas-24-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93547
+ordin-aaas-30-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93405
+ordin-aaas-33-2008,pending-change,,,,HG nr. 5/2010,2010-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/97957
 ordin-aaas-355-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92255
-ordin-aaas-81-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101489
+ordin-aaas-81-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101489
 ordin-achizitii-113-2008,pending-change,,,,Ordinul nr. 107/2009,2009-07-06,no,https://legislatie.just.ro/Public/DetaliiDocument/93108
 ordin-agricultura-10-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89003
 ordin-agricultura-138-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90091
 ordin-agricultura-139-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89884
 ordin-agricultura-142-2008,pending-change,,,,Ordinul nr. 1525/2018,2018-12-20,no,https://legislatie.just.ro/Public/DetaliiDocument/96064
-ordin-agricultura-147181-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91036
+ordin-agricultura-147181-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91036
 ordin-agricultura-15-2008,pending-change,,,,Ordinul nr. 30/2010,2010-02-08,no,https://legislatie.just.ro/Public/DetaliiDocument/89223
 ordin-agricultura-157-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90826
 ordin-agricultura-160-2008,pending-change,,,,Ordinul nr. 1762/2015,2015-07-16,no,https://legislatie.just.ro/Public/DetaliiDocument/90660
@@ -32,7 +32,7 @@ ordin-agricultura-216-2008,pending-change,,,,Ordinul nr. 1115/2015,2015-07-16,no
 ordin-agricultura-218-2008,pending-change,,,,Ordinul nr. 1221/2010,2010-08-11,no,https://legislatie.just.ro/Public/DetaliiDocument/91269
 ordin-agricultura-219-2008,pending-change,,,,Ordinul nr. 1620/2017,2017-12-27,no,https://legislatie.just.ro/Public/DetaliiDocument/91402
 ordin-agricultura-222-2008,pending-change,,,,Rectificarea nr. 222/2008,2008-02-08,no,https://legislatie.just.ro/Public/DetaliiDocument/91535
-ordin-agricultura-223-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93271
+ordin-agricultura-223-2008,pending-change,,,,Ordinul nr. 1330/2015,2015-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/93271
 ordin-agricultura-224-2008,pending-change,,,,Ordinul nr. 146/2017,2017-05-11,no,https://legislatie.just.ro/Public/DetaliiDocument/94773
 ordin-agricultura-226-2008,pending-change,,,,Ordinul nr. 189/2009,2009-03-04,no,https://legislatie.just.ro/Public/DetaliiDocument/91380
 ordin-agricultura-236-2008,pending-change,,,,Ordinul nr. 434/2009,2009-06-25,no,https://legislatie.just.ro/Public/DetaliiDocument/97185
@@ -44,7 +44,7 @@ ordin-agricultura-247-2008,pending-change,,,,Ordinul nr. 1763/2014,2014-11-10,no
 ordin-agricultura-253-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92804
 ordin-agricultura-255-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92101
 ordin-agricultura-260-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92401
-ordin-agricultura-276-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98760
+ordin-agricultura-276-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98760
 ordin-agricultura-277-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92967
 ordin-agricultura-279-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92958
 ordin-agricultura-288-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93527
@@ -112,7 +112,7 @@ ordin-agricultura-61-2008,pending-change,,,,Ordinul nr. 1501/2013,2013-12-20,no,
 ordin-agricultura-610-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98236
 ordin-agricultura-620-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100985
 ordin-agricultura-624-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98096
-ordin-agricultura-625-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98131
+ordin-agricultura-625-2008,pending-change,,,,Rectificarea nr. 625/2008,2008-09-23,no,https://legislatie.just.ro/Public/DetaliiDocument/98131
 ordin-agricultura-64-b-2008,pending-change,,,,Ordinul nr. 139/2008,2008-02-22,no,https://legislatie.just.ro/Public/DetaliiDocument/89479
 ordin-agricultura-640-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98949
 ordin-agricultura-642-2008,pending-change,,,,Ordinul nr. 739/2008,2008-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/98543
@@ -162,7 +162,7 @@ ordin-anaf-1173-2008,pending-change,,,,Ordinul nr. 1600/2008,2008-11-27,no,https
 ordin-anaf-1209-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97128
 ordin-anaf-1234-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97216
 ordin-anaf-1261-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97521
-ordin-anaf-1272-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97596
+ordin-anaf-1272-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97596
 ordin-anaf-131-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89233
 ordin-anaf-1338-2008,pending-change,,,,Ordinul nr. 41/2022,2022-01-13,no,https://legislatie.just.ro/Public/DetaliiDocument/98183
 ordin-anaf-134-2008,pending-change,,,,Ordinul nr. 132/2009,2009-02-02,no,https://legislatie.just.ro/Public/DetaliiDocument/89878
@@ -215,12 +215,12 @@ ordin-ancpi-247-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-ancpi-518-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98199
 ordin-ancpi-601-2008,pending-change,,,,Ordinul nr. 799/2011,2011-05-18,no,https://legislatie.just.ro/Public/DetaliiDocument/100005
 ordin-anfp-10280-2008,pending-change,,,,Ordinul nr. 1932/2009,2009-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/98013
-ordin-anfp-114-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/88689
+ordin-anfp-114-2008,pending-change,,,,Ordinul nr. 1306/2013,2013-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/88689
 ordin-anfp-11430-2008,pending-change,,,,hg-761-2017,2017-10-11,no,https://legislatie.just.ro/Public/DetaliiDocument/99185
 ordin-anfp-13601-2008,pending-change,,,,Ordinul nr. 233/2022,2022-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/101069
 ordin-anfp-4500-2008,pending-change,,,,Ordinul nr. 1200/2013,2013-04-04,no,https://legislatie.just.ro/Public/DetaliiDocument/92264
-ordin-anfp-7078-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95789
-ordin-anfp-8720-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96932
+ordin-anfp-7078-2008,pending-change,,,,Ordinul nr. 8720/2008,2008-08-25,no,https://legislatie.just.ro/Public/DetaliiDocument/95789
+ordin-anfp-8720-2008,pending-change,,,,Ordinul nr. 1306/2013,2013-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/96932
 ordin-anofm-112-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90275
 ordin-anofm-57-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89806
 ordin-anpc-130-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92062
@@ -309,7 +309,9 @@ ordin-anre-50-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://leg
 ordin-anre-51-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94302
 ordin-anre-53-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93919
 ordin-anre-54-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93867
+ordin-anre-55-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93874
 ordin-anre-56-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93956
+ordin-anre-57-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94880
 ordin-anre-58-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94756
 ordin-anre-59-2008,pending-change,,,,Ordinul nr. 32/2016,2016-07-19,no,https://legislatie.just.ro/Public/DetaliiDocument/96151
 ordin-anre-6-2008,pending-change,,,,Ordinul nr. 76/2008,2008-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/89226
@@ -356,34 +358,35 @@ ordin-anre-98-2008,pending-change,,,,Ordinul nr. 35/2009,2009-03-24,no,https://l
 ordin-anre-99-2008,pending-change,,,,Ordinul nr. 48/2011,2011-12-06,no,https://legislatie.just.ro/Public/DetaliiDocument/94964
 ordin-anrm-102-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93993
 ordin-anrm-109-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94450
-ordin-anrm-132-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95548
-ordin-anrm-143-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96385
-ordin-anrm-147-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96344
+ordin-anrm-132-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95548
+ordin-anrm-143-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96385
+ordin-anrm-147-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96344
+ordin-anrm-151-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96461
 ordin-anrm-167-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97205
 ordin-anrm-175-2008,pending-change,,,,Ordinul nr. 35/2010,2010-02-15,no,https://legislatie.just.ro/Public/DetaliiDocument/97591
 ordin-anrm-177-2008,pending-change,,,,Ordinul nr. 2724/2016,2016-07-18,no,https://legislatie.just.ro/Public/DetaliiDocument/97570
-ordin-anrm-190-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97820
-ordin-anrm-197-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98194
-ordin-anrm-20-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89341
+ordin-anrm-190-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97820
+ordin-anrm-197-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98194
+ordin-anrm-20-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89341
 ordin-anrm-202-2008,pending-change,,,,Ordinul nr. 21/2010,2010-01-19,no,https://legislatie.just.ro/Public/DetaliiDocument/98558
 ordin-anrm-207-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98844
 ordin-anrm-21-2008,pending-change,,,,HG nr. 5/2018,2018-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/89389
-ordin-anrm-216-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99099
-ordin-anrm-236-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99807
-ordin-anrm-241-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100015
+ordin-anrm-216-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99099
+ordin-anrm-236-2008,pending-change,,,,Ordinul nr. 329/2008,2008-04-23,no,https://legislatie.just.ro/Public/DetaliiDocument/99807
+ordin-anrm-241-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100015
 ordin-anrm-243-2008,pending-change,,,,Ordinul nr. 13/2010,2010-01-14,no,https://legislatie.just.ro/Public/DetaliiDocument/100129
-ordin-anrm-245-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100446
+ordin-anrm-245-2008,pending-change,,,,Rectificarea nr. 245/2008,2008-02-25,no,https://legislatie.just.ro/Public/DetaliiDocument/100446
 ordin-anrm-246-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100607
-ordin-anrm-29-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89789
+ordin-anrm-29-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89789
 ordin-anrm-43-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90360
-ordin-anrm-46-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90529
+ordin-anrm-46-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90529
 ordin-anrm-47-2008,pending-change,,,,Ordinul nr. 890/2025,2025-10-17,no,https://legislatie.just.ro/Public/DetaliiDocument/91143
 ordin-anrm-52-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90836
 ordin-anrm-53-2008,pending-change,,,,Ordinul nr. 248/2020,2020-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/91054
-ordin-anrm-59-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90915
-ordin-anrm-64-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91351
+ordin-anrm-59-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90915
+ordin-anrm-64-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91351
 ordin-anrm-65-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91539
-ordin-anrm-8-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89171
+ordin-anrm-8-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89171
 ordin-anrm-82-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92903
 ordin-anrm-87-2008,pending-change,,,,Ordinul nr. 116/2016,2016-05-20,no,https://legislatie.just.ro/Public/DetaliiDocument/93493
 ordin-anrm-98-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93958
@@ -424,6 +427,7 @@ ordin-ansvsa-72-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-ansvsa-78-2008,pending-change,,,,Ordinul nr. 66/2012,2012-10-19,no,https://legislatie.just.ro/Public/DetaliiDocument/98218
 ordin-ansvsa-79-2008,pending-change,,,,Ordinul nr. 992/2026,2026-10-26,no,https://legislatie.just.ro/Public/DetaliiDocument/98039
 ordin-ansvsa-80-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98046
+ordin-ansvsa-81-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98509
 ordin-ansvsa-82-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98414
 ordin-ansvsa-83-2008,pending-change,,,,Ordinul nr. 40/2010,2010-04-29,no,https://legislatie.just.ro/Public/DetaliiDocument/99118
 ordin-ansvsa-84-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98566
@@ -473,7 +477,7 @@ ordin-bnr-39-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.
 ordin-bnr-4-2008,pending-change,,,,Ordinul nr. 1/2012,2012-01-11,no,https://legislatie.just.ro/Public/DetaliiDocument/96674
 ordin-bnr-40-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/21176-ordin-40-2008
 ordin-bnr-5-2008,pending-change,,,,Ordinul nr. 18/2012,2012-09-28,no,https://legislatie.just.ro/Public/DetaliiDocument/96498
-ordin-bnr-6-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96813
+ordin-bnr-6-2008,pending-change,,,,Ordinul nr. 15/2006,2006-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/96813
 ordin-bnr-7-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96841
 ordin-bnr-8-2008,pending-change,,,,Ordinul nr. 10/2012,2012-08-02,no,https://legislatie.just.ro/Public/DetaliiDocument/96839
 ordin-bnr-9-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96882
@@ -509,19 +513,19 @@ ordin-cnvm-59-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://leg
 ordin-cnvm-83-2008,pending-change,,,,REGULAMENT nr. 13 din 28 noiembrie 2019 privind instituirea măsurilor de preveni,2019-11-28,no,https://legislatie.just.ro/Public/DetaliiDocument/95551
 ordin-cnvm-89-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95792
 ordin-cnvm-92-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96672
-ordin-cnvm-99-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96815
+ordin-cnvm-99-2008,pending-change,,,,Ordinul nr. 15/2006,2006-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/96815
 ordin-comunicatii-104-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92968
-ordin-comunicatii-151-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92929
-ordin-comunicatii-152-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92970
+ordin-comunicatii-151-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92929
+ordin-comunicatii-152-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92970
 ordin-comunicatii-190-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92849
-ordin-comunicatii-229-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93203
+ordin-comunicatii-229-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93203
 ordin-comunicatii-235-2008,pending-change,,,,Ordinul nr. 286/2018,2018-03-12,no,https://legislatie.just.ro/Public/DetaliiDocument/198616
 ordin-comunicatii-412-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97165
 ordin-comunicatii-432-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97379
 ordin-comunicatii-68-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89620
 ordin-comunicatii-690-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100394
 ordin-comunicatii-693-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101283
-ordin-comunicatii-9-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/88862
+ordin-comunicatii-9-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88862
 ordin-copii-253-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100385
 ordin-csa-1-2008,pending-change,,,,NORMĂ nr. 2 din 20 ianuarie 2016 pentru modificarea alin. (1) al art. 47 din Nor,2016-01-20,no,https://legislatie.just.ro/Public/DetaliiDocument/91319
 ordin-csa-10-2008,pending-change,,,,NORMĂ nr. 28 din 23 decembrie 2015 privind funcţionarea asigurătorilor supravegh,2015-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/94338
@@ -529,7 +533,7 @@ ordin-csa-11-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legi
 ordin-csa-12-2008,pending-change,,,,NORMĂ nr. 37 din 23 decembrie 2015 privind procedura de întocmire şi eliberare a,2015-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/95875
 ordin-csa-13-2008,pending-change,,,,Ordinul nr. 26/2010,2010-12-13,no,https://legislatie.just.ro/Public/DetaliiDocument/97879
 ordin-csa-14-2008,pending-change,,,,Ordinul nr. 11/2009,2009-07-21,no,https://legislatie.just.ro/Public/DetaliiDocument/98750
-ordin-csa-15-2008,pending-change,,,,Rectificarea nr. 15/2008,2008-01-18,no,https://legislatie.just.ro/Public/DetaliiDocument/98752
+ordin-csa-15-2008,pending-change,,,,NORMĂ nr. 20 din 24 octombrie 2014 privind cotele de contribuţie datorate de asi,2014-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/98752
 ordin-csa-16-2008,pending-change,,,,Decizia nr. 511/2017,2017-07-04,no,https://legislatie.just.ro/Public/DetaliiDocument/98751
 ordin-csa-17-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99051
 ordin-csa-18-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99052
@@ -538,7 +542,7 @@ ordin-csa-2-2008,pending-change,,,,NORMĂ nr. 28 din 23 decembrie 2015 privind f
 ordin-csa-20-2008,pending-change,,,,Ordinul nr. 21/2009,2009-11-19,no,https://legislatie.just.ro/Public/DetaliiDocument/99071
 ordin-csa-21-2008,pending-change,,,,HG nr. 5/2018,2018-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/100801
 ordin-csa-22-2008,pending-change,,,,Ordinul nr. 7/2012,2012-04-26,no,https://legislatie.just.ro/Public/DetaliiDocument/100868
-ordin-csa-23-2008,pending-change,,,,Ordinul nr. 87/2011,2011-05-03,no,https://legislatie.just.ro/Public/DetaliiDocument/100979
+ordin-csa-23-2008,pending-change,,,,NORMĂ nr. 38 din 28 noiembrie 2023 privind asigurarea obligatorie a locuinţelor ,2023-11-28,no,https://legislatie.just.ro/Public/DetaliiDocument/100979
 ordin-csa-24-2008,pending-change,,,,REGULAMENT nr. 13 din 28 noiembrie 2019 privind instituirea măsurilor de preveni,2019-11-28,no,https://legislatie.just.ro/Public/DetaliiDocument/101061
 ordin-csa-3-2008,pending-change,,,,NORMĂ nr. 28 din 23 decembrie 2015 privind funcţionarea asigurătorilor supravegh,2015-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/92229
 ordin-csa-4-2008,pending-change,,,,NORMĂ nr. 28 din 23 decembrie 2015 privind funcţionarea asigurătorilor supravegh,2015-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/92233
@@ -548,63 +552,63 @@ ordin-csa-7-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legis
 ordin-csa-8-2008,pending-change,,,,Ordinul nr. 20/2008,2008-11-07,no,https://legislatie.just.ro/Public/DetaliiDocument/95204
 ordin-csa-9-2008,pending-change,,,,NORMĂ nr. 18 din 4 decembrie 2013 pentru modificarea şi completarea Normelor pri,2013-12-04,no,https://legislatie.just.ro/Public/DetaliiDocument/94326
 ordin-csm-866-c-2008,pending-change,,,,Ordinul nr. 1213/2008,2008-04-24,no,https://legislatie.just.ro/Public/DetaliiDocument/91984
-ordin-cultura-2001-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89322
-ordin-cultura-2002-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89344
-ordin-cultura-2014-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89290
-ordin-cultura-2015-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89364
-ordin-cultura-2031-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89565
-ordin-cultura-2038-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89568
-ordin-cultura-2039-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89569
-ordin-cultura-2044-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89830
-ordin-cultura-2057-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91289
-ordin-cultura-2058-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91290
-ordin-cultura-2075-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91291
-ordin-cultura-2077-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91292
-ordin-cultura-2078-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91293
-ordin-cultura-2079-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91294
-ordin-cultura-2080-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91295
-ordin-cultura-2081-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91296
-ordin-cultura-2082-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91297
-ordin-cultura-2083-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91298
-ordin-cultura-2097-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90946
-ordin-cultura-2162-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92471
-ordin-cultura-2173-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91854
+ordin-cultura-2001-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89322
+ordin-cultura-2002-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89344
+ordin-cultura-2014-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89290
+ordin-cultura-2015-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89364
+ordin-cultura-2031-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89565
+ordin-cultura-2038-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89568
+ordin-cultura-2039-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89569
+ordin-cultura-2044-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89830
+ordin-cultura-2057-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91289
+ordin-cultura-2058-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91290
+ordin-cultura-2075-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91291
+ordin-cultura-2077-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91292
+ordin-cultura-2078-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91293
+ordin-cultura-2079-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91294
+ordin-cultura-2080-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91295
+ordin-cultura-2081-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91296
+ordin-cultura-2082-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91297
+ordin-cultura-2083-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91298
+ordin-cultura-2097-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90946
+ordin-cultura-2162-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92471
+ordin-cultura-2173-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91854
 ordin-cultura-2220-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95198
-ordin-cultura-2238-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93654
-ordin-cultura-2239-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93655
-ordin-cultura-2242-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93656
+ordin-cultura-2238-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93654
+ordin-cultura-2239-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93655
+ordin-cultura-2242-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93656
 ordin-cultura-2260-2008,pending-change,,,,og-19-2024,2024-01-31,no,https://legislatie.just.ro/Public/DetaliiDocument/95750
 ordin-cultura-2326-2008,pending-change,,,,Rectificarea nr. 2326/2008,2008-05-16,no,https://legislatie.just.ro/Public/DetaliiDocument/93582
 ordin-cultura-2359-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94212
 ordin-cultura-2371-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95318
-ordin-cultura-2376-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95662
-ordin-cultura-2377-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95704
-ordin-cultura-2378-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95705
-ordin-cultura-2379-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95706
-ordin-cultura-2385-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95707
-ordin-cultura-2397-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96239
+ordin-cultura-2376-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95662
+ordin-cultura-2377-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95704
+ordin-cultura-2378-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95705
+ordin-cultura-2379-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95706
+ordin-cultura-2385-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95707
+ordin-cultura-2397-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96239
 ordin-cultura-2398-2008,pending-change,,,,Ordinul nr. 2495/2010,2010-08-26,no,https://legislatie.just.ro/Public/DetaliiDocument/99221
-ordin-cultura-2424-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96240
-ordin-cultura-2426-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96241
-ordin-cultura-2494-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101342
-ordin-cultura-2495-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101343
+ordin-cultura-2424-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96240
+ordin-cultura-2426-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96241
+ordin-cultura-2494-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101342
+ordin-cultura-2495-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101343
 ordin-cultura-2504-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96582
-ordin-cultura-2569-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98240
-ordin-cultura-2570-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98241
-ordin-cultura-2596-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98934
-ordin-cultura-2597-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98935
-ordin-cultura-2600-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98943
-ordin-cultura-2662-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100180
-ordin-cultura-2695-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101344
-ordin-cultura-2696-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101345
-ordin-cultura-2697-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101346
-ordin-cultura-2698-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101347
-ordin-cultura-2699-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101348
-ordin-cultura-2704-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101349
+ordin-cultura-2569-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98240
+ordin-cultura-2570-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98241
+ordin-cultura-2596-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98934
+ordin-cultura-2597-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98935
+ordin-cultura-2600-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98943
+ordin-cultura-2662-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100180
+ordin-cultura-2695-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101344
+ordin-cultura-2696-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101345
+ordin-cultura-2697-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101346
+ordin-cultura-2698-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101347
+ordin-cultura-2699-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101348
+ordin-cultura-2704-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101349
 ordin-dezvoltare-1037-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97740
 ordin-dezvoltare-1147-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90342
-ordin-dezvoltare-1208-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98696
-ordin-dezvoltare-1209-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98275
+ordin-dezvoltare-1208-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98696
+ordin-dezvoltare-1209-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98275
 ordin-dezvoltare-1294-2008,pending-change,,,,Ordinul nr. 1360/2011,2011-04-20,no,https://legislatie.just.ro/Public/DetaliiDocument/99309
 ordin-dezvoltare-1298-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98314
 ordin-dezvoltare-1299-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98323
@@ -614,8 +618,8 @@ ordin-dezvoltare-1525-2008,pending-change,,,,Ordinul nr. 725/2009,2009-09-16,no,
 ordin-dezvoltare-1553-2008,pending-change,,,,og-16-2014,2014-08-19,no,https://legislatie.just.ro/Public/DetaliiDocument/100577
 ordin-dezvoltare-1583-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100991
 ordin-dezvoltare-185-2008,pending-change,,,,Ordinul nr. 2170/2010,2010-08-20,no,https://legislatie.just.ro/Public/DetaliiDocument/90304
-ordin-dezvoltare-186-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91043
-ordin-dezvoltare-187-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90889
+ordin-dezvoltare-186-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91043
+ordin-dezvoltare-187-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90889
 ordin-dezvoltare-234-2008,pending-change,,,,Ordinul nr. 71/2009,2009-02-11,no,https://legislatie.just.ro/Public/DetaliiDocument/91142
 ordin-dezvoltare-245-2008,pending-change,,,,Ordinul nr. 1466/2010,2010-05-17,no,https://legislatie.just.ro/Public/DetaliiDocument/93604
 ordin-dezvoltare-267-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93202
@@ -644,38 +648,38 @@ ordin-educatie-3007-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-educatie-3152-2008,pending-change,,,,Ordinul nr. 6276/2011,2011-11-10,no,https://legislatie.just.ro/Public/DetaliiDocument/89698
 ordin-educatie-3154-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89771
 ordin-educatie-3173-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89971
-ordin-educatie-3218-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89713
-ordin-educatie-3219-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89714
+ordin-educatie-3218-2008,pending-change,,,,Ordinul nr. 3548/2009,2009-03-30,no,https://legislatie.just.ro/Public/DetaliiDocument/89713
+ordin-educatie-3219-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89714
 ordin-educatie-3315-2008,pending-change,,,,Ordinul nr. 3331/2009,2009-03-04,no,https://legislatie.just.ro/Public/DetaliiDocument/90500
 ordin-educatie-3325-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90680
 ordin-educatie-3361-2008,pending-change,,,,Ordinul nr. 4964/2012,2012-08-02,no,https://legislatie.just.ro/Public/DetaliiDocument/90503
 ordin-educatie-3390-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90604
-ordin-educatie-3491-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91321
+ordin-educatie-3491-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91321
 ordin-educatie-3565-2008,pending-change,,,,Ordinul nr. 3800/2015,2015-05-07,no,https://legislatie.just.ro/Public/DetaliiDocument/91382
-ordin-educatie-3605-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91470
+ordin-educatie-3605-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91470
 ordin-educatie-3628-2008,pending-change,,,,Ordinul nr. 4630/2010,2010-08-11,no,https://legislatie.just.ro/Public/DetaliiDocument/91651
-ordin-educatie-3815-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92833
-ordin-educatie-3924-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92834
-ordin-educatie-3925-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92835
+ordin-educatie-3815-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92833
+ordin-educatie-3924-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92834
+ordin-educatie-3925-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92835
 ordin-educatie-3939-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92879
-ordin-educatie-3943-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93326
+ordin-educatie-3943-2008,pending-change,,,,Ordinul nr. 4381/2008,2008-06-09,no,https://legislatie.just.ro/Public/DetaliiDocument/93326
 ordin-educatie-3955-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94000
-ordin-educatie-3984-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93325
-ordin-educatie-3987-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93298
-ordin-educatie-3989-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93299
+ordin-educatie-3984-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93325
+ordin-educatie-3987-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93298
+ordin-educatie-3989-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93299
 ordin-educatie-4276-2008,pending-change,,,,Ordinul nr. 5082/2008,2008-08-20,no,https://legislatie.just.ro/Public/DetaliiDocument/93683
 ordin-educatie-4277-2008,pending-change,,,,Ordinul nr. 5351/2009,2009-09-28,no,https://legislatie.just.ro/Public/DetaliiDocument/93708
 ordin-educatie-4298-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93726
 ordin-educatie-4316-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95489
 ordin-educatie-4339-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95478
-ordin-educatie-4381-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94589
-ordin-educatie-4382-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94571
+ordin-educatie-4381-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94589
+ordin-educatie-4382-2008,pending-change,,,,Ordinul nr. 4651/2008,2008-07-02,no,https://legislatie.just.ro/Public/DetaliiDocument/94571
 ordin-educatie-4644-2008,pending-change,,,,Ordinul nr. 4936/2008,2008-07-30,no,https://legislatie.just.ro/Public/DetaliiDocument/96080
-ordin-educatie-4651-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96500
+ordin-educatie-4651-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96500
 ordin-educatie-4653-2008,pending-change,,,,Ordinul nr. 5076/2014,2014-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/95838
-ordin-educatie-4853-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96553
-ordin-educatie-4854-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96554
-ordin-educatie-4855-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96555
+ordin-educatie-4853-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96553
+ordin-educatie-4854-2008,pending-change,,,,Ordinul nr. 5919/2009,2009-11-12,no,https://legislatie.just.ro/Public/DetaliiDocument/96554
+ordin-educatie-4855-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96555
 ordin-educatie-4872-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96152
 ordin-educatie-4898-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96473
 ordin-educatie-4931-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97847
@@ -700,26 +704,26 @@ ordin-educatie-5258-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-educatie-5259-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100902
 ordin-educatie-5289-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97412
 ordin-educatie-5390-2008,pending-change,,,,Ordinul nr. 4394/2009,2009-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/98608
-ordin-educatie-5414-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97982
-ordin-educatie-5415-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97983
-ordin-educatie-5416-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97984
-ordin-educatie-5417-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97985
-ordin-educatie-5418-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97987
-ordin-educatie-5422-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98066
-ordin-educatie-5423-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98067
-ordin-educatie-5424-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98068
-ordin-educatie-5425-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98069
-ordin-educatie-5426-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98070
-ordin-educatie-5427-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98071
+ordin-educatie-5414-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97982
+ordin-educatie-5415-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97983
+ordin-educatie-5416-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97984
+ordin-educatie-5417-2008,pending-change,,,,Ordinul nr. 3548/2009,2009-03-30,no,https://legislatie.just.ro/Public/DetaliiDocument/97985
+ordin-educatie-5418-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97987
+ordin-educatie-5422-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98066
+ordin-educatie-5423-2008,pending-change,,,,Ordinul nr. 3838/2009,2009-05-04,no,https://legislatie.just.ro/Public/DetaliiDocument/98067
+ordin-educatie-5424-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98068
+ordin-educatie-5425-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98069
+ordin-educatie-5426-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98070
+ordin-educatie-5427-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98071
 ordin-educatie-5484-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98271
 ordin-educatie-5538-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98758
-ordin-educatie-5540-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98072
-ordin-educatie-5543-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98074
-ordin-educatie-5573-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97920
+ordin-educatie-5540-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98072
+ordin-educatie-5543-2008,pending-change,,,,Ordinul nr. 3548/2009,2009-03-30,no,https://legislatie.just.ro/Public/DetaliiDocument/98074
+ordin-educatie-5573-2008,pending-change,,,,Ordinul nr. 4043/2009,2009-05-06,no,https://legislatie.just.ro/Public/DetaliiDocument/97920
 ordin-educatie-5689-2008,pending-change,,,,Ordinul nr. 5556/2011,2011-10-07,no,https://legislatie.just.ro/Public/DetaliiDocument/99269
 ordin-educatie-5702-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98538
 ordin-educatie-5730-2008,pending-change,,,,Ordinul nr. 6054/2009,2009-12-04,no,https://legislatie.just.ro/Public/DetaliiDocument/99224
-ordin-educatie-5741-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99353
+ordin-educatie-5741-2008,pending-change,,,,Ordinul nr. 4043/2009,2009-05-06,no,https://legislatie.just.ro/Public/DetaliiDocument/99353
 ordin-educatie-5742-2008,pending-change,,,,oug-40-2009,2009-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/99030
 ordin-educatie-5743-2008,pending-change,,,,Decizia nr. 863/2011,2011-06-23,no,https://legislatie.just.ro/Public/DetaliiDocument/99047
 ordin-educatie-5869-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99176
@@ -731,18 +735,18 @@ ordin-educatie-5907-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-educatie-5908-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100004
 ordin-educatie-5909-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99764
 ordin-educatie-5913-2008,pending-change,,,,Ordinul nr. 5559/2013,2013-11-22,no,https://legislatie.just.ro/Public/DetaliiDocument/101358
-ordin-educatie-5929-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99755
-ordin-educatie-5930-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99756
-ordin-educatie-5931-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99759
-ordin-educatie-5932-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99760
-ordin-educatie-5933-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99761
-ordin-educatie-5934-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99638
-ordin-educatie-5935-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99639
-ordin-educatie-5936-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99640
-ordin-educatie-5937-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99642
-ordin-educatie-5938-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99643
-ordin-educatie-5941-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99644
-ordin-educatie-5942-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99762
+ordin-educatie-5929-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99755
+ordin-educatie-5930-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99756
+ordin-educatie-5931-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99759
+ordin-educatie-5932-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99760
+ordin-educatie-5933-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99761
+ordin-educatie-5934-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99638
+ordin-educatie-5935-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99639
+ordin-educatie-5936-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99640
+ordin-educatie-5937-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99642
+ordin-educatie-5938-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99643
+ordin-educatie-5941-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99644
+ordin-educatie-5942-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99762
 ordin-educatie-6020-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100459
 ordin-educatie-6058-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/102292
 ordin-educatie-6076-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100136
@@ -755,7 +759,7 @@ ordin-externe-2013-2008,pending-change,,,,Ordinul nr. 1743/2010,2010-09-29,no,ht
 ordin-externe-310-2008,pending-change,,,,Ordinul nr. 2013/2008,2008-11-06,no,https://legislatie.just.ro/Public/DetaliiDocument/89890
 ordin-externe-875-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93189
 ordin-externe-880-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93614
-ordin-finante-1035-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91129
+ordin-finante-1035-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91129
 ordin-finante-1059-2008,pending-change,,,,Ordinul nr. 315/2026,2026-03-13,no,https://legislatie.just.ro/Public/DetaliiDocument/91722
 ordin-finante-1087-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91503
 ordin-finante-11-2008,pending-change,,,,Ordinul nr. 557/2009,2009-03-20,no,https://legislatie.just.ro/Public/DetaliiDocument/100916
@@ -774,7 +778,7 @@ ordin-finante-1293-2008,pending-change,,,,Ordinul nr. 1189/2009,2009-06-12,no,ht
 ordin-finante-1311-2008,pending-change,,,,Ordinul nr. 164/2017,2017-01-25,no,https://legislatie.just.ro/Public/DetaliiDocument/92014
 ordin-finante-1312-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92237
 ordin-finante-1318-2008,pending-change,,,,Ordinul nr. 183/2010,2010-02-02,no,https://legislatie.just.ro/Public/DetaliiDocument/92371
-ordin-finante-1322-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92137
+ordin-finante-1322-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92137
 ordin-finante-1372-2008,pending-change,,,,Ordinul nr. 4144/2015,2015-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/92711
 ordin-finante-152-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89138
 ordin-finante-1533-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93492
@@ -783,7 +787,7 @@ ordin-finante-1661-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https:
 ordin-finante-1669-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93831
 ordin-finante-169-2008,pending-change,,,,REGULAMENT din 9 octombrie 2008 de organizare şi funcţionare a Comisiei de soluţ,2008-10-09,no,https://legislatie.just.ro/Public/DetaliiDocument/89734
 ordin-finante-1706-2008,pending-change,,,,Ordinul nr. 2562/2016,2016-07-07,no,https://legislatie.just.ro/Public/DetaliiDocument/95658
-ordin-finante-1710-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93653
+ordin-finante-1710-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93653
 ordin-finante-177-2008,pending-change,,,,Ordinul nr. 2724/2016,2016-07-18,no,https://legislatie.just.ro/Public/DetaliiDocument/89263
 ordin-finante-1816-2008,pending-change,,,,Ordinul nr. 1349/2013,2013-08-14,no,https://legislatie.just.ro/Public/DetaliiDocument/95896
 ordin-finante-184-2008,pending-change,,,,Ordinul nr. 2920/2009,2009-10-16,no,https://legislatie.just.ro/Public/DetaliiDocument/89339
@@ -793,13 +797,13 @@ ordin-finante-1862-2008,pending-change,,,,Ordinul nr. 2502/2013,2013-12-30,no,ht
 ordin-finante-1958-2008,pending-change,,,,Ordinul nr. 2123/2009,2009-06-22,no,https://legislatie.just.ro/Public/DetaliiDocument/95199
 ordin-finante-1984-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94879
 ordin-finante-2005-2008,pending-change,,,,ANEXE din 21 aprilie 2026 pentru modificarea anexei nr. 1 la Ordinul ministrului,2026-04-21,no,https://legislatie.just.ro/Public/DetaliiDocument/95698
-ordin-finante-2006-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95255
+ordin-finante-2006-2008,pending-change,,,,Ordinul nr. 228/2014,2014-02-13,no,https://legislatie.just.ro/Public/DetaliiDocument/95255
 ordin-finante-2007-2008,pending-change,,,,Ordinul nr. 6295/2024,2024-10-09,no,https://legislatie.just.ro/Public/DetaliiDocument/95431
-ordin-finante-2009-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95196
+ordin-finante-2009-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95196
 ordin-finante-2025-2008,pending-change,,,,HG nr. 11/2009,2009-09-07,no,https://legislatie.just.ro/Public/DetaliiDocument/95411
 ordin-finante-2036-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95256
-ordin-finante-2065-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96283
-ordin-finante-2083-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95661
+ordin-finante-2065-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96283
+ordin-finante-2083-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95661
 ordin-finante-210-2008,pending-change,,,,Ordinul nr. 1947/2011,2011-05-02,no,https://legislatie.just.ro/Public/DetaliiDocument/89490
 ordin-finante-2139-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95898
 ordin-finante-2142-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96115
@@ -821,55 +825,55 @@ ordin-finante-2285-2008,pending-change,,,,Ordinul nr. 1000/2011,2011-05-17,no,ht
 ordin-finante-2286-2008,pending-change,,,,Ordinul nr. 292/2016,2016-02-19,no,https://legislatie.just.ro/Public/DetaliiDocument/96466
 ordin-finante-2287-2008,pending-change,,,,Ordinul nr. 758/2014,2014-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/96467
 ordin-finante-2288-2008,pending-change,,,,Ordinul nr. 222/2012,2012-02-06,no,https://legislatie.just.ro/Public/DetaliiDocument/96468
-ordin-finante-2307-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96349
+ordin-finante-2307-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96349
 ordin-finante-2396-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96715
 ordin-finante-244-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89234
 ordin-finante-2448-2008,pending-change,,,,Ordinul nr. 2170/2010,2010-08-20,no,https://legislatie.just.ro/Public/DetaliiDocument/96846
 ordin-finante-2467-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97164
 ordin-finante-2509-2008,pending-change,,,,Ordinul nr. 2245/2016,2016-09-16,no,https://legislatie.just.ro/Public/DetaliiDocument/96933
-ordin-finante-2544-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97103
+ordin-finante-2544-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97103
 ordin-finante-2563-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97129
 ordin-finante-2692-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97534
-ordin-finante-2818-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97704
+ordin-finante-2818-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97704
 ordin-finante-2827-2008,pending-change,,,,Ordinul nr. 391/2010,2010-03-04,no,https://legislatie.just.ro/Public/DetaliiDocument/100875
 ordin-finante-2846-2008,pending-change,,,,Ordinul nr. 2168/2009,2009-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/98592
 ordin-finante-2847-2008,pending-change,,,,Ordinul nr. 2168/2009,2009-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/97972
 ordin-finante-2848-2008,pending-change,,,,Ordinul nr. 2400/2009,2009-07-29,no,https://legislatie.just.ro/Public/DetaliiDocument/98025
 ordin-finante-2969-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98624
-ordin-finante-2973-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98426
+ordin-finante-2973-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98426
 ordin-finante-2980-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97979
-ordin-finante-303-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89306
+ordin-finante-303-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89306
 ordin-finante-3080-2008,pending-change,,,,Ordinul nr. 2233/2020,2020-08-03,no,https://legislatie.just.ro/Public/DetaliiDocument/98463
 ordin-finante-3154-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98735
-ordin-finante-3204-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99566
+ordin-finante-3204-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99566
 ordin-finante-3209-2008,pending-change,,,,Ordinul nr. 4145/2015,2015-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/99283
-ordin-finante-3254-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98933
-ordin-finante-3264-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99162
+ordin-finante-3254-2008,pending-change,,,,Ordinul nr. 3344/2008,2008-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/98933
+ordin-finante-3264-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99162
 ordin-finante-3274-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99108
 ordin-finante-3282-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99183
 ordin-finante-3285-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99127
-ordin-finante-3344-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99349
+ordin-finante-3344-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99349
 ordin-finante-3384-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99502
 ordin-finante-3388-2008,pending-change,,,,Ordinul nr. 1190/2009,2009-06-12,no,https://legislatie.just.ro/Public/DetaliiDocument/99998
-ordin-finante-3408-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99979
+ordin-finante-3408-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99979
 ordin-finante-3421-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99637
 ordin-finante-3424-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99614
 ordin-finante-3454-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100089
 ordin-finante-3471-2008,pending-change,,,,hg-309-2022,2022-03-02,no,https://legislatie.just.ro/Public/DetaliiDocument/100220
 ordin-finante-3483-2008,pending-change,,,,HG nr. 6/2015,2015-05-14,no,https://legislatie.just.ro/Public/DetaliiDocument/101233
 ordin-finante-3505-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99802
-ordin-finante-3507-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99757
+ordin-finante-3507-2008,pending-change,,,,Ordinul nr. 3639/2008,2008-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/99757
 ordin-finante-3512-2008,pending-change,,,,Ordinul nr. 2634/2015,2015-11-05,no,https://legislatie.just.ro/Public/DetaliiDocument/100763
 ordin-finante-3525-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100036
-ordin-finante-3597-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101089
+ordin-finante-3597-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101089
 ordin-finante-3604-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100712
-ordin-finante-3639-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100431
+ordin-finante-3639-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100431
 ordin-finante-3647-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100760
 ordin-finante-365-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89947
 ordin-finante-3659-2008,pending-change,,,,Ordinul nr. 99/2012,2012-01-26,no,https://legislatie.just.ro/Public/DetaliiDocument/100828
 ordin-finante-3660-2008,pending-change,,,,Ordinul nr. 614/2009,2009-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/100601
 ordin-finante-3661-2008,pending-change,,,,Ordinul nr. 221/2016,2016-02-15,no,https://legislatie.just.ro/Public/DetaliiDocument/100846
-ordin-finante-3663-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/215143
+ordin-finante-3663-2008,pending-change,,,,Ordinul nr. 2215/2019,2019-05-22,no,https://legislatie.just.ro/Public/DetaliiDocument/215143
 ordin-finante-3689-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100661
 ordin-finante-3699-2008,pending-change,,,,Ordinul nr. 999/2013,2013-04-30,no,https://legislatie.just.ro/Public/DetaliiDocument/101474
 ordin-finante-3700-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100662
@@ -889,27 +893,27 @@ ordin-finante-514-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https:/
 ordin-finante-527-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89942
 ordin-finante-553-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90204
 ordin-finante-588-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90264
-ordin-finante-590-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90013
+ordin-finante-590-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90013
 ordin-finante-63-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89911
 ordin-finante-632-2008,pending-change,,,,Ordinul nr. 2687/2010,2010-11-30,no,https://legislatie.just.ro/Public/DetaliiDocument/90362
-ordin-finante-690-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90535
+ordin-finante-690-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90535
 ordin-finante-724-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91250
-ordin-finante-744-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90890
+ordin-finante-744-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90890
 ordin-finante-80-2008,pending-change,,,,Ordinul nr. 2561/2011,2011-09-21,no,https://legislatie.just.ro/Public/DetaliiDocument/89410
 ordin-finante-858-2008,pending-change,,,,Ordinul nr. 266/2026,2026-03-02,no,https://legislatie.just.ro/Public/DetaliiDocument/90829
 ordin-finante-898-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94113
 ordin-finante-915-2008,pending-change,,,,Ordinul nr. 1059/2009,2009-05-20,no,https://legislatie.just.ro/Public/DetaliiDocument/93681
 ordin-finante-917-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90828
-ordin-finante-918-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91437
-ordin-finante-931-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90876
+ordin-finante-918-2008,pending-change,,,,Ordinul nr. 3454/2008,2008-11-21,no,https://legislatie.just.ro/Public/DetaliiDocument/91437
+ordin-finante-931-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90876
 ordin-finante-938-2008,pending-change,,,,Ordinul nr. 3713/2008,2008-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/91015
 ordin-finante-939-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90984
-ordin-finante-956-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91400
-ordin-finante-957-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91499
-ordin-finante-970-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91425
-ordin-finante-971-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91510
-ordin-finante-972-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91605
-ordin-finante-982-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97903
+ordin-finante-956-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91400
+ordin-finante-957-2008,pending-change,,,,Ordinul nr. 1330/2015,2015-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/91499
+ordin-finante-970-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91425
+ordin-finante-971-2008,pending-change,,,,Ordinul nr. 960/2008,2008-11-03,no,https://legislatie.just.ro/Public/DetaliiDocument/91510
+ordin-finante-972-2008,pending-change,,,,Ordinul nr. 1077/2008,2008-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/91605
+ordin-finante-982-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97903
 ordin-geodezi-14-2008,pending-change,,,,Ordinul nr. 16/2008,2008-06-11,no,https://legislatie.just.ro/Public/DetaliiDocument/91122
 ordin-geodezi-16-2008,pending-change,,,,Decizia nr. 511/2017,2017-07-04,no,https://legislatie.just.ro/Public/DetaliiDocument/94483
 ordin-iiccr-1-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96328
@@ -924,7 +928,7 @@ ordin-imm-1345-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://le
 ordin-imm-1346-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97977
 ordin-imm-1347-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98042
 ordin-imm-1448-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99636
-ordin-imm-348-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93410
+ordin-imm-348-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93410
 ordin-imm-351-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90804
 ordin-imm-636-2008,pending-change,,,,Ordinul nr. 1296/2010,2010-04-15,no,https://legislatie.just.ro/Public/DetaliiDocument/93055
 ordin-imm-721-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93646
@@ -936,6 +940,7 @@ ordin-imm-790-2008,pending-change,,,,Ordinul nr. 1347/2008,2008-10-07,no,https:/
 ordin-imm-793-2008,pending-change,,,,Ordinul nr. 1347/2008,2008-10-07,no,https://legislatie.just.ro/Public/DetaliiDocument/95347
 ordin-imm-928-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96019
 ordin-ins-281-2008,pending-change,,,,Ordinul nr. 528/2009,2009-07-30,no,https://legislatie.just.ro/Public/DetaliiDocument/91540
+ordin-ins-683-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100087
 ordin-ins-684-2008,pending-change,,,,Ordinul nr. 671/2009,2009-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/100259
 ordin-interne-335-2008,pending-change,,,,Ordinul nr. 204/2011,2011-09-21,no,https://legislatie.just.ro/Public/DetaliiDocument/100443
 ordin-interne-390-2008,pending-change,,,,Ordinul nr. 65/2009,2009-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/89143
@@ -944,10 +949,11 @@ ordin-interne-395-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https:/
 ordin-interne-397-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89359
 ordin-interne-398-2008,pending-change,,,,Ordinul nr. 425/2014,2014-04-17,no,https://legislatie.just.ro/Public/DetaliiDocument/90101
 ordin-interne-399-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89523
-ordin-interne-400-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89530
+ordin-interne-400-2008,pending-change,,,,Ordinul nr. 15/2009,2009-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/89530
 ordin-interne-403-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89941
+ordin-interne-404-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89967
 ordin-interne-409-2008,pending-change,,,,Ordinul nr. 239/2010,2010-10-27,no,https://legislatie.just.ro/Public/DetaliiDocument/90222
-ordin-interne-417-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91035
+ordin-interne-417-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91035
 ordin-interne-432-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91483
 ordin-interne-433-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91263
 ordin-interne-439-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91264
@@ -957,8 +963,8 @@ ordin-interne-447-2008,pending-change,,,,Ordinul nr. 122/2009,2009-06-23,no,http
 ordin-interne-453-2008,pending-change,,,,Ordinul nr. 634/2009,2009-04-03,no,https://legislatie.just.ro/Public/DetaliiDocument/92854
 ordin-interne-460-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92055
 ordin-interne-462-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92165
-ordin-interne-465-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92470
-ordin-interne-470-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92705
+ordin-interne-465-2008,pending-change,,,,Ordinul nr. 81/2009,2009-05-06,no,https://legislatie.just.ro/Public/DetaliiDocument/92470
+ordin-interne-470-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92705
 ordin-interne-471-2008,pending-change,,,,Ordinul nr. 124/2012,2012-06-05,no,https://legislatie.just.ro/Public/DetaliiDocument/92709
 ordin-interne-483-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93315
 ordin-interne-484-2008,pending-change,,,,Ordinul nr. 283/2009,2009-11-18,no,https://legislatie.just.ro/Public/DetaliiDocument/93329
@@ -970,30 +976,31 @@ ordin-interne-500-2008,pending-change,,,,Ordinul nr. 136/2012,2012-06-14,no,http
 ordin-interne-503-2008,pending-change,,,,Ordinul nr. 202/2023,2023-12-28,no,https://legislatie.just.ro/Public/DetaliiDocument/95709
 ordin-interne-504-2008,pending-change,,,,Ordinul nr. 572/2008,2008-08-05,no,https://legislatie.just.ro/Public/DetaliiDocument/93938
 ordin-interne-506-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93966
-ordin-interne-511-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95367
+ordin-interne-511-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95367
 ordin-interne-516-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94673
 ordin-interne-519-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95516
 ordin-interne-521-2008,pending-change,,,,Ordinul nr. 113/2022,2022-08-23,no,https://legislatie.just.ro/Public/DetaliiDocument/95392
 ordin-interne-524-2008,pending-change,,,,Ordinul nr. 124/2011,2011-06-16,no,https://legislatie.just.ro/Public/DetaliiDocument/95368
+ordin-interne-529-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96153
 ordin-interne-532-2008,pending-change,,,,legea-121-2019,2019-07-03,no,https://legislatie.just.ro/Public/DetaliiDocument/95640
-ordin-interne-533-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95517
+ordin-interne-533-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95517
 ordin-interne-534-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95910
 ordin-interne-535-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95550
 ordin-interne-538-2008,pending-change,,,,Ordinul nr. 243/2011,2011-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/96878
 ordin-interne-540-2008,pending-change,,,,Ordinul nr. 23/2011,2011-02-03,no,https://legislatie.just.ro/Public/DetaliiDocument/95885
 ordin-interne-547-2008,pending-change,,,,Ordinul nr. 114/2009,2009-06-15,no,https://legislatie.just.ro/Public/DetaliiDocument/96723
-ordin-interne-553-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96020
-ordin-interne-554-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96021
-ordin-interne-556-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96111
+ordin-interne-553-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96020
+ordin-interne-554-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96021
+ordin-interne-556-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96111
 ordin-interne-561-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97353
 ordin-interne-562-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96469
 ordin-interne-563-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96510
 ordin-interne-564-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96389
 ordin-interne-565-2008,pending-change,,,,Ordinul nr. 113/2009,2009-06-15,no,https://legislatie.just.ro/Public/DetaliiDocument/96440
 ordin-interne-572-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96388
-ordin-interne-573-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96577
-ordin-interne-574-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96578
-ordin-interne-575-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96579
+ordin-interne-573-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96577
+ordin-interne-574-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96578
+ordin-interne-575-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96579
 ordin-interne-577-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96790
 ordin-interne-581-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97123
 ordin-interne-592-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96915
@@ -1026,7 +1033,7 @@ ordin-interne-672-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https:/
 ordin-interne-673-2008,pending-change,,,,Ordinul nr. 280/2010,2010-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/100390
 ordin-interne-678-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100581
 ordin-interne-681-2008,pending-change,,,,Ordinul nr. 300/2009,2009-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/100933
-ordin-interne-685-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100516
+ordin-interne-685-2008,pending-change,,,,Ordinul nr. 48/2023,2023-01-16,no,https://legislatie.just.ro/Public/DetaliiDocument/100516
 ordin-interne-688-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100905
 ordin-interne-689-2008,pending-change,,,,Ordinul nr. 211/2024,2024-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/100797
 ordin-interne-695-2008,pending-change,,,,Ordinul nr. 116/2015,2015-09-18,no,https://legislatie.just.ro/Public/DetaliiDocument/101459
@@ -1037,9 +1044,9 @@ ordin-isc-1488-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://le
 ordin-isc-36-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89023
 ordin-isc-67-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89732
 ordin-iscir-280-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96238
-ordin-justitie-1010-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91387
-ordin-justitie-1011-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91547
-ordin-justitie-1112-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91644
+ordin-justitie-1010-c-2008,pending-change,,,,Rectificarea nr. 1010/2008,2008-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/91387
+ordin-justitie-1011-c-2008,pending-change,,,,Rectificarea nr. 1011/2008,2008-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/91547
+ordin-justitie-1112-c-2008,pending-change,,,,Rectificarea nr. 1112/2008,2008-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/91644
 ordin-justitie-1129-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91702
 ordin-justitie-1213-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91988
 ordin-justitie-1240-c-2008,pending-change,,,,Ordinul nr. 1355/2009,2009-05-04,no,https://legislatie.just.ro/Public/DetaliiDocument/92568
@@ -1048,88 +1055,88 @@ ordin-justitie-1313-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,htt
 ordin-justitie-1319-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93379
 ordin-justitie-1320-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93331
 ordin-justitie-1353-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93645
-ordin-justitie-1355-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93705
+ordin-justitie-1355-c-2008,pending-change,,,,Rectificarea nr. 1355/2008,2008-05-20,no,https://legislatie.just.ro/Public/DetaliiDocument/93705
 ordin-justitie-1357-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93376
 ordin-justitie-1376-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93626
-ordin-justitie-1398-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93657
+ordin-justitie-1398-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93657
 ordin-justitie-1399-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93583
 ordin-justitie-1443-c-2008,pending-change,,,,Ordinul nr. 482/2020,2020-02-11,no,https://legislatie.just.ro/Public/DetaliiDocument/93575
-ordin-justitie-1489-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93678
+ordin-justitie-1489-c-2008,pending-change,,,,Rectificarea nr. 1489/2008,2008-05-28,no,https://legislatie.just.ro/Public/DetaliiDocument/93678
 ordin-justitie-1494-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93706
-ordin-justitie-1587-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93964
-ordin-justitie-1588-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94008
-ordin-justitie-1589-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94009
-ordin-justitie-171-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89340
-ordin-justitie-1731-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94685
-ordin-justitie-1752-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94885
+ordin-justitie-1587-c-2008,pending-change,,,,Rectificarea nr. 1587/2008,2008-06-06,no,https://legislatie.just.ro/Public/DetaliiDocument/93964
+ordin-justitie-1588-c-2008,pending-change,,,,Rectificarea nr. 1588/2008,2008-06-06,no,https://legislatie.just.ro/Public/DetaliiDocument/94008
+ordin-justitie-1589-c-2008,pending-change,,,,Rectificarea nr. 1589/2008,2008-06-06,no,https://legislatie.just.ro/Public/DetaliiDocument/94009
+ordin-justitie-171-c-2008,pending-change,,,,Rectificarea nr. 171/2008,2008-01-31,no,https://legislatie.just.ro/Public/DetaliiDocument/89340
+ordin-justitie-1731-c-2008,pending-change,,,,Rectificarea nr. 1731/2008,2008-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/94685
+ordin-justitie-1752-c-2008,pending-change,,,,Rectificarea nr. 1752/2008,2008-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/94885
 ordin-justitie-177-c-2008,pending-change,,,,Ordinul nr. 2724/2016,2016-07-18,no,https://legislatie.just.ro/Public/DetaliiDocument/89622
 ordin-justitie-1813-c-2008,pending-change,,,,Ordinul nr. 25/2022,2022-01-07,no,https://legislatie.just.ro/Public/DetaliiDocument/95319
 ordin-justitie-1859-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97274
-ordin-justitie-1860-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95637
+ordin-justitie-1860-c-2008,pending-change,,,,Rectificarea nr. 1860/2008,2008-07-07,no,https://legislatie.just.ro/Public/DetaliiDocument/95637
 ordin-justitie-1861-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95614
 ordin-justitie-1862-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95791
-ordin-justitie-1891-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95645
+ordin-justitie-1891-c-2008,pending-change,,,,Rectificarea nr. 1891/2008,2008-07-08,no,https://legislatie.just.ro/Public/DetaliiDocument/95645
 ordin-justitie-1927-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95977
 ordin-justitie-1929-c-2008,pending-change,,,,Ordinul nr. 2034/2011,2011-10-10,no,https://legislatie.just.ro/Public/DetaliiDocument/97380
-ordin-justitie-1961-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96056
-ordin-justitie-1962-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96074
+ordin-justitie-1961-c-2008,pending-change,,,,Rectificarea nr. 1961/2008,2008-07-17,no,https://legislatie.just.ro/Public/DetaliiDocument/96056
+ordin-justitie-1962-2008,pending-change,,,,Rectificarea nr. 1962/2008,2008-07-17,no,https://legislatie.just.ro/Public/DetaliiDocument/96074
 ordin-justitie-2003-c-2008,pending-change,,,,Ordinul nr. 3465/2014,2014-09-30,no,https://legislatie.just.ro/Public/DetaliiDocument/96513
-ordin-justitie-2037-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96287
-ordin-justitie-2038-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96286
-ordin-justitie-2099-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96621
+ordin-justitie-2037-c-2008,pending-change,,,,Rectificarea nr. 2037/2008,2008-07-29,no,https://legislatie.just.ro/Public/DetaliiDocument/96287
+ordin-justitie-2038-c-2008,pending-change,,,,Rectificarea nr. 2038/2008,2008-07-29,no,https://legislatie.just.ro/Public/DetaliiDocument/96286
+ordin-justitie-2099-c-2008,pending-change,,,,Rectificarea nr. 2099/2008,2008-08-08,no,https://legislatie.just.ro/Public/DetaliiDocument/96621
 ordin-justitie-2114-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96693
 ordin-justitie-2197-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97042
 ordin-justitie-2321-c-2008,pending-change,,,,Ordinul nr. 1558/2009,2009-06-01,no,https://legislatie.just.ro/Public/DetaliiDocument/98556
 ordin-justitie-2330-c-2008,pending-change,,,,Ordinul nr. 3718/2021,2021-07-02,no,https://legislatie.just.ro/Public/DetaliiDocument/97863
 ordin-justitie-2355-c-2008,pending-change,,,,hg-603-2016,2016-08-24,no,https://legislatie.just.ro/Public/DetaliiDocument/97632
-ordin-justitie-2356-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97449
-ordin-justitie-2449-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97911
-ordin-justitie-2450-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97734
-ordin-justitie-2451-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97766
-ordin-justitie-2452-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97817
-ordin-justitie-2453-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97885
-ordin-justitie-2455-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97844
-ordin-justitie-2457-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97679
-ordin-justitie-2491-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97949
+ordin-justitie-2356-c-2008,pending-change,,,,Rectificarea nr. 2356/2008,2008-09-12,no,https://legislatie.just.ro/Public/DetaliiDocument/97449
+ordin-justitie-2449-c-2008,pending-change,,,,Rectificarea nr. 2449/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97911
+ordin-justitie-2450-c-2008,pending-change,,,,Rectificarea nr. 2450/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97734
+ordin-justitie-2451-c-2008,pending-change,,,,Rectificarea nr. 2451/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97766
+ordin-justitie-2452-c-2008,pending-change,,,,Rectificarea nr. 2452/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97817
+ordin-justitie-2453-c-2008,pending-change,,,,Rectificarea nr. 2453/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97885
+ordin-justitie-2455-2008,pending-change,,,,Rectificarea nr. 2455/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97844
+ordin-justitie-2457-c-2008,pending-change,,,,Rectificarea nr. 2457/2008,2008-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97679
+ordin-justitie-2491-c-2008,pending-change,,,,Rectificarea nr. 2491/2008,2008-09-26,no,https://legislatie.just.ro/Public/DetaliiDocument/97949
 ordin-justitie-2520-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97798
 ordin-justitie-2530-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98948
-ordin-justitie-2572-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98168
-ordin-justitie-2573-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98244
+ordin-justitie-2572-c-2008,pending-change,,,,Rectificarea nr. 2572/2008,2008-10-07,no,https://legislatie.just.ro/Public/DetaliiDocument/98168
+ordin-justitie-2573-c-2008,pending-change,,,,Rectificarea nr. 2573/2008,2008-10-07,no,https://legislatie.just.ro/Public/DetaliiDocument/98244
 ordin-justitie-2589-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98169
 ordin-justitie-2594-c-2008,pending-change,,,,Ordinul nr. 6974/2020,2020-11-26,no,https://legislatie.just.ro/Public/DetaliiDocument/98120
-ordin-justitie-2607-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98512
+ordin-justitie-2607-c-2008,pending-change,,,,Rectificarea nr. 2607/2008,2008-10-13,no,https://legislatie.just.ro/Public/DetaliiDocument/98512
 ordin-justitie-2608-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98144
 ordin-justitie-2714-c-2008,pending-change,,,,hg-157-2016,2016-03-10,no,https://legislatie.just.ro/Public/DetaliiDocument/98579
 ordin-justitie-2724-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98812
 ordin-justitie-2730-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98577
 ordin-justitie-2731-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98578
-ordin-justitie-2748-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98581
+ordin-justitie-2748-c-2008,pending-change,,,,Rectificarea nr. 2748/2008,2008-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/98581
 ordin-justitie-2749-c-2008,pending-change,,,,Ordinul nr. 6/2014,2014-01-16,no,https://legislatie.just.ro/Public/DetaliiDocument/98564
-ordin-justitie-2757-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98667
-ordin-justitie-2815-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99048
-ordin-justitie-2862-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99100
-ordin-justitie-2967-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99686
+ordin-justitie-2757-c-2008,pending-change,,,,Rectificarea nr. 2757/2008,2008-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/98667
+ordin-justitie-2815-c-2008,pending-change,,,,Rectificarea nr. 2815/2008,2008-11-05,no,https://legislatie.just.ro/Public/DetaliiDocument/99048
+ordin-justitie-2862-c-2008,pending-change,,,,Rectificarea nr. 2862/2008,2008-11-17,no,https://legislatie.just.ro/Public/DetaliiDocument/99100
+ordin-justitie-2967-c-2008,pending-change,,,,Rectificarea nr. 2967/2008,2008-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/99686
 ordin-justitie-2968-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99669
 ordin-justitie-2989-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99584
-ordin-justitie-3038-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100113
-ordin-justitie-3039-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100143
+ordin-justitie-3038-c-2008,pending-change,,,,Rectificarea nr. 3038/2008,2008-12-02,no,https://legislatie.just.ro/Public/DetaliiDocument/100113
+ordin-justitie-3039-c-2008,pending-change,,,,Rectificarea nr. 3039/2008,2008-12-02,no,https://legislatie.just.ro/Public/DetaliiDocument/100143
 ordin-justitie-3062-c-2008,pending-change,,,,hg-83-2010,2010-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/100261
 ordin-justitie-3099-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100976
-ordin-justitie-3168-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100715
-ordin-justitie-3241-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101400
-ordin-justitie-3242-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101232
-ordin-justitie-3243-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101356
+ordin-justitie-3168-c-2008,pending-change,,,,Rectificarea nr. 3168/2008,2008-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/100715
+ordin-justitie-3241-c-2008,pending-change,,,,Rectificarea nr. 3241/2008,2008-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/101400
+ordin-justitie-3242-c-2008,pending-change,,,,Rectificarea nr. 3242/2008,2008-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/101232
+ordin-justitie-3243-c-2008,pending-change,,,,Rectificarea nr. 3243/2008,2008-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/101356
 ordin-justitie-3244-c-2008,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100990
 ordin-justitie-455-c-2008,pending-change,,,,Rectificarea nr. 455/2008,2008-02-19,no,https://legislatie.just.ro/Public/DetaliiDocument/89858
-ordin-justitie-456-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89983
+ordin-justitie-456-c-2008,pending-change,,,,Rectificarea nr. 456/2008,2008-02-19,no,https://legislatie.just.ro/Public/DetaliiDocument/89983
 ordin-justitie-662-c-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90595
 ordin-justitie-73-c-2008,pending-change,,,,Rectificarea nr. 73/2008,2008-01-18,no,https://legislatie.just.ro/Public/DetaliiDocument/89043
-ordin-justitie-746-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91396
-ordin-justitie-769-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90518
-ordin-justitie-788-c-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90599
+ordin-justitie-746-c-2008,pending-change,,,,Rectificarea nr. 746/2008,2008-03-13,no,https://legislatie.just.ro/Public/DetaliiDocument/91396
+ordin-justitie-769-c-2008,pending-change,,,,Rectificarea nr. 769/2008,2008-03-17,no,https://legislatie.just.ro/Public/DetaliiDocument/90518
+ordin-justitie-788-c-2008,pending-change,,,,Rectificarea nr. 788/2008,2008-03-17,no,https://legislatie.just.ro/Public/DetaliiDocument/90599
 ordin-justitie-915-c-2008,pending-change,,,,Ordinul nr. 920/2011,2011-04-27,no,https://legislatie.just.ro/Public/DetaliiDocument/96472
 ordin-mediu-1092-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97408
-ordin-mediu-115-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91183
+ordin-mediu-115-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91183
 ordin-mediu-1170-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98248
 ordin-mediu-1215-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98883
 ordin-mediu-1216-2008,pending-change,,,,REGULAMENT din 22 decembrie 2010 privind organizarea şi atestarea corpului de ex,2010-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/98513
@@ -1137,6 +1144,9 @@ ordin-mediu-1264-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://
 ordin-mediu-1265-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98794
 ordin-mediu-1266-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98795
 ordin-mediu-1267-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98797
+ordin-mediu-1268-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98815
+ordin-mediu-1269-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98818
+ordin-mediu-1270-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98817
 ordin-mediu-1271-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98816
 ordin-mediu-1338-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98693
 ordin-mediu-1339-2008,pending-change,,,,Ordinul nr. 90/2009,2009-02-10,no,https://legislatie.just.ro/Public/DetaliiDocument/98756
@@ -1156,10 +1166,10 @@ ordin-mediu-333-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-mediu-410-2008,pending-change,,,,GHID PRACTIC din 23 martie 2023 privind Protocolul de la Nagoya EMITENT Minister,2023-03-23,no,https://legislatie.just.ro/Public/DetaliiDocument/92011
 ordin-mediu-539-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92844
 ordin-mediu-636-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93725
-ordin-mediu-75-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90041
+ordin-mediu-75-2008,pending-change,,,,Ordinul nr. 525/2015,2015-05-05,no,https://legislatie.just.ro/Public/DetaliiDocument/90041
 ordin-mediu-831-2008,pending-change,,,,GHID GENERAL din 20 februarie 2020 aplicabil etapelor procedurii de evaluare a i,2020-02-20,no,https://legislatie.just.ro/Public/DetaliiDocument/97008
 ordin-mediu-864-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96035
-ordin-mediu-876-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97224
+ordin-mediu-876-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97224
 ordin-mediu-923-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97440
 ordin-mediu-942-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96712
 ordin-mediu-973-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98733
@@ -1184,7 +1194,8 @@ ordin-munca-193-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-munca-209-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91119
 ordin-munca-238-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91656
 ordin-munca-25-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89062
-ordin-munca-258-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95365
+ordin-munca-258-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95365
+ordin-munca-259-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100199
 ordin-munca-26-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89535
 ordin-munca-271-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94757
 ordin-munca-3-2008,pending-change,,,,Ordinul nr. 2170/2010,2010-08-20,no,https://legislatie.just.ro/Public/DetaliiDocument/89274
@@ -1194,10 +1205,11 @@ ordin-munca-397-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-munca-409-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100336
 ordin-munca-446-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96547
 ordin-munca-448-2008,pending-change,,,,Ordinul nr. 713/2013,2013-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/96060
-ordin-munca-449-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96025
+ordin-munca-449-2008,pending-change,,,,Ordinul nr. 1233/2010,2010-08-31,no,https://legislatie.just.ro/Public/DetaliiDocument/96025
 ordin-munca-463-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96033
 ordin-munca-464-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96034
 ordin-munca-499-2008,pending-change,,,,Ordinul nr. 1390/2009,2009-06-22,no,https://legislatie.just.ro/Public/DetaliiDocument/100406
+ordin-munca-507-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97824
 ordin-munca-511-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100422
 ordin-munca-547-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97226
 ordin-munca-550-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97382
@@ -1205,17 +1217,17 @@ ordin-munca-558-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-munca-590-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97571
 ordin-munca-600-2008,pending-change,,,,Ordinul nr. 44/2014,2014-01-13,no,https://legislatie.just.ro/Public/DetaliiDocument/100745
 ordin-munca-602-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100423
-ordin-munca-61-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89829
+ordin-munca-61-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89829
 ordin-munca-64-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89338
 ordin-munca-668-2008,pending-change,,,,Ordinul nr. 2706/2012,2012-10-22,no,https://legislatie.just.ro/Public/DetaliiDocument/99081
 ordin-munca-67-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89498
 ordin-munca-708-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99488
 ordin-munca-77-2008,pending-change,,,,Ordinul nr. 1533/2017,2017-08-03,no,https://legislatie.just.ro/Public/DetaliiDocument/89512
-ordin-munca-82-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96526
+ordin-munca-82-2008,pending-change,,,,Ordinul nr. 1256/2010,2010-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/96526
 ordin-munca-92-2008,pending-change,,,,Ordinul nr. 128/2008,2008-02-26,no,https://legislatie.just.ro/Public/DetaliiDocument/89570
 ordin-munca-94-2008,pending-change,,,,Ordinul nr. 983/2008,2008-11-06,no,https://legislatie.just.ro/Public/DetaliiDocument/89943
 ordin-munca-983-2008,pending-change,,,,Ordinul nr. 594/2013,2013-04-02,no,https://legislatie.just.ro/Public/DetaliiDocument/99591
-ordin-munca-99-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90694
+ordin-munca-99-2008,pending-change,,,,Ordinul nr. 600/2008,2008-09-23,no,https://legislatie.just.ro/Public/DetaliiDocument/90694
 ordin-munca-997-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99585
 ordin-onpcsb-13-2008,pending-change,,,,Ordinul nr. 270/2012,2012-10-30,no,https://legislatie.just.ro/Public/DetaliiDocument/90073
 ordin-orniss-171-2008,pending-change,,,,Rectificarea nr. 171/2008,2008-01-31,no,https://legislatie.just.ro/Public/DetaliiDocument/94669
@@ -1240,8 +1252,8 @@ ordin-sanatate-1094-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-sanatate-1130-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94557
 ordin-sanatate-1172-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94918
 ordin-sanatate-1217-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95167
-ordin-sanatate-1225-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95369
-ordin-sanatate-1254-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95589
+ordin-sanatate-1225-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95369
+ordin-sanatate-1254-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95589
 ordin-sanatate-1255-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95590
 ordin-sanatate-1256-2008,pending-change,,,,hg-259-2022,2022-02-23,no,https://legislatie.just.ro/Public/DetaliiDocument/95625
 ordin-sanatate-1278-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95591
@@ -1272,7 +1284,7 @@ ordin-sanatate-1509-2008,pending-change,,,,Ordinul nr. 719/2026,2026-07-01,no,ht
 ordin-sanatate-1523-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97297
 ordin-sanatate-1524-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97217
 ordin-sanatate-1556-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97616
-ordin-sanatate-1557-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97442
+ordin-sanatate-1557-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97442
 ordin-sanatate-1563-2008,pending-change,,,,Ordinul nr. 541/2025,2025-02-17,no,https://legislatie.just.ro/Public/DetaliiDocument/97359
 ordin-sanatate-1574-2008,pending-change,,,,Ordinul nr. 1758/2008,2008-10-20,no,https://legislatie.just.ro/Public/DetaliiDocument/97565
 ordin-sanatate-1575-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97495
@@ -1281,14 +1293,14 @@ ordin-sanatate-1587-2008,pending-change,,,,Rectificarea nr. 1587/2008,2008-06-06
 ordin-sanatate-1603-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97699
 ordin-sanatate-1629-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97701
 ordin-sanatate-163-2008,pending-change,,,,Ordinul nr. 391/2015,2015-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/90153
-ordin-sanatate-1638-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99595
+ordin-sanatate-1638-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99595
 ordin-sanatate-165-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89854
 ordin-sanatate-1656-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97702
 ordin-sanatate-1657-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97732
 ordin-sanatate-1667-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98559
 ordin-sanatate-1679-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98699
 ordin-sanatate-168-2008,pending-change,,,,Ordinul nr. 425/2014,2014-04-17,no,https://legislatie.just.ro/Public/DetaliiDocument/91135
-ordin-sanatate-169-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89885
+ordin-sanatate-169-2008,pending-change,,,,Ordinul nr. 326/2009,2009-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/89885
 ordin-sanatate-17-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88859
 ordin-sanatate-1732-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98216
 ordin-sanatate-1733-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98371
@@ -1349,7 +1361,7 @@ ordin-sanatate-694-2008,pending-change,,,,Ordinul nr. 715/2009,2009-06-09,no,htt
 ordin-sanatate-742-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91522
 ordin-sanatate-751-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91484
 ordin-sanatate-752-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91561
-ordin-sanatate-76-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89134
+ordin-sanatate-76-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89134
 ordin-sanatate-832-2008,pending-change,,,,Ordinul nr. 680/2012,2012-06-29,no,https://legislatie.just.ro/Public/DetaliiDocument/92704
 ordin-sanatate-87-2008,pending-change,,,,Ordinul nr. 2749/2011,2011-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/89962
 ordin-sanatate-9-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88858
@@ -1357,10 +1369,10 @@ ordin-sanatate-918-2008,pending-change,,,,Ordinul nr. 171/2009,2009-02-17,no,htt
 ordin-sanatate-991-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93169
 ordin-sport-233-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93921
 ordin-sport-269-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94917
-ordin-sri-1154-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91086
+ordin-sri-1154-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91086
 ordin-sts-71-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100900
 ordin-transporturi-1002-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96580
-ordin-transporturi-1006-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96717
+ordin-transporturi-1006-2008,pending-change,,,,Ordinul nr. 1249/2008,2008-10-07,no,https://legislatie.just.ro/Public/DetaliiDocument/96717
 ordin-transporturi-1007-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97113
 ordin-transporturi-101-2008,pending-change,,,,Ordinul nr. 232/2020,2020-01-21,no,https://legislatie.just.ro/Public/DetaliiDocument/89393
 ordin-transporturi-1010-2008,pending-change,,,,Rectificarea nr. 1010/2008,2008-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/96588
@@ -1368,56 +1380,56 @@ ordin-transporturi-103-2008,pending-change,,,,Ordinul nr. 1063/2024,2024-05-16,n
 ordin-transporturi-1053-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97484
 ordin-transporturi-1074-2008,pending-change,,,,Ordinul nr. 663/2019,2019-03-25,no,https://legislatie.just.ro/Public/DetaliiDocument/97327
 ordin-transporturi-11-2008,pending-change,,,,Ordinul nr. 891/2024,2024-04-02,no,https://legislatie.just.ro/Public/DetaliiDocument/88897
-ordin-transporturi-1129-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97454
-ordin-transporturi-1137-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97448
+ordin-transporturi-1129-2008,pending-change,,,,Ordinul nr. 1355/2008,2008-10-31,no,https://legislatie.just.ro/Public/DetaliiDocument/97454
+ordin-transporturi-1137-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97448
 ordin-transporturi-1148-2008,pending-change,,,,Ordinul nr. 640/2015,2015-05-11,no,https://legislatie.just.ro/Public/DetaliiDocument/97939
 ordin-transporturi-1188-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97657
 ordin-transporturi-1223-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97797
 ordin-transporturi-1245-2008,pending-change,,,,Ordinul nr. 1236/2015,2015-11-17,no,https://legislatie.just.ro/Public/DetaliiDocument/98273
-ordin-transporturi-1249-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/98238
+ordin-transporturi-1249-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98238
 ordin-transporturi-1250-2008,pending-change,,,,Ordinul nr. 1514/2014,2014-11-04,no,https://legislatie.just.ro/Public/DetaliiDocument/98272
 ordin-transporturi-1268-2008,pending-change,,,,Ordinul nr. 44/2015,2015-01-15,no,https://legislatie.just.ro/Public/DetaliiDocument/98636
 ordin-transporturi-1280-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98365
-ordin-transporturi-131-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89605
+ordin-transporturi-131-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89605
 ordin-transporturi-1312-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98946
 ordin-transporturi-1313-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98688
 ordin-transporturi-1352-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99080
-ordin-transporturi-1355-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99038
-ordin-transporturi-138-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89629
-ordin-transporturi-139-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89631
-ordin-transporturi-140-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89632
+ordin-transporturi-1355-2008,pending-change,,,,Ordinul nr. 1560/2008,2008-12-19,no,https://legislatie.just.ro/Public/DetaliiDocument/99038
+ordin-transporturi-138-2008,pending-change,,,,Ordinul nr. 1006/2008,2008-08-12,no,https://legislatie.just.ro/Public/DetaliiDocument/89629
+ordin-transporturi-139-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89631
+ordin-transporturi-140-2008,pending-change,,,,Ordinul nr. 964/2008,2008-07-30,no,https://legislatie.just.ro/Public/DetaliiDocument/89632
 ordin-transporturi-1413-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100102
 ordin-transporturi-1447-2008,pending-change,,,,Ordinul nr. 1472/2018,2018-09-24,no,https://legislatie.just.ro/Public/DetaliiDocument/100580
 ordin-transporturi-1463-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100096
 ordin-transporturi-1465-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100134
 ordin-transporturi-1480-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100263
 ordin-transporturi-1484-2008,pending-change,,,,Ordinul nr. 2100/2023,2023-12-07,no,https://legislatie.just.ro/Public/DetaliiDocument/100681
-ordin-transporturi-1485-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100177
+ordin-transporturi-1485-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100177
 ordin-transporturi-1494-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100348
 ordin-transporturi-1523-2008,pending-change,,,,Ordinul nr. 1031/2014,2014-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/101024
 ordin-transporturi-1525-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101058
 ordin-transporturi-1534-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101059
 ordin-transporturi-1541-2008,pending-change,,,,Ordinul nr. 488/2015,2015-03-24,no,https://legislatie.just.ro/Public/DetaliiDocument/101038
-ordin-transporturi-1542-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100765
+ordin-transporturi-1542-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100765
 ordin-transporturi-1545-2008,pending-change,,,,Ordinul nr. 648/2015,2015-05-14,no,https://legislatie.just.ro/Public/DetaliiDocument/100974
 ordin-transporturi-1548-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101429
 ordin-transporturi-1553-2008,pending-change,,,,Ordinul nr. 1562/2014,2014-11-19,no,https://legislatie.just.ro/Public/DetaliiDocument/100725
 ordin-transporturi-1558-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101009
-ordin-transporturi-1560-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101090
+ordin-transporturi-1560-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101090
 ordin-transporturi-1566-2008,pending-change,,,,Rectificarea nr. 1566/2008,2008-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/100854
-ordin-transporturi-179-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89702
-ordin-transporturi-180-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89712
+ordin-transporturi-179-2008,pending-change,,,,Ordinul nr. 473/2008,2008-04-15,no,https://legislatie.just.ro/Public/DetaliiDocument/89702
+ordin-transporturi-180-2008,pending-change,,,,Ordinul nr. 1137/2008,2008-09-10,no,https://legislatie.just.ro/Public/DetaliiDocument/89712
 ordin-transporturi-181-2008,pending-change,,,,SENTINŢA nr. 127 din 9 octombrie 2023 referitoare la acțiunea în contencios admi,2023-10-09,no,https://legislatie.just.ro/Public/DetaliiDocument/89888
 ordin-transporturi-235-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90047
 ordin-transporturi-244-2008,pending-change,,,,Ordinul nr. 769/2010,2010-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/90260
-ordin-transporturi-245-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90089
+ordin-transporturi-245-2008,pending-change,,,,Ordinul nr. 568/2010,2010-07-19,no,https://legislatie.just.ro/Public/DetaliiDocument/90089
 ordin-transporturi-25-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88963
-ordin-transporturi-252-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90859
+ordin-transporturi-252-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90859
 ordin-transporturi-261-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90100
 ordin-transporturi-28-2008,pending-change,,,,Ordinul nr. 525/2015,2015-05-05,no,https://legislatie.just.ro/Public/DetaliiDocument/89175
-ordin-transporturi-281-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90505
+ordin-transporturi-281-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90505
 ordin-transporturi-3-2008,pending-change,,,,Ordinul nr. 3892/2024,2024-11-25,no,https://legislatie.just.ro/Public/DetaliiDocument/88781
-ordin-transporturi-306-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90685
+ordin-transporturi-306-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90685
 ordin-transporturi-32-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89042
 ordin-transporturi-330-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90507
 ordin-transporturi-341-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90403
@@ -1432,9 +1444,9 @@ ordin-transporturi-375-2008,current,2026-11-03,2026-12-03,amendment-search,,,,ht
 ordin-transporturi-377-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90701
 ordin-transporturi-381-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90750
 ordin-transporturi-394-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91014
-ordin-transporturi-436-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91381
+ordin-transporturi-436-2008,pending-change,,,,Ordinul nr. 891/2008,2008-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/91381
 ordin-transporturi-472-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91533
-ordin-transporturi-473-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92476
+ordin-transporturi-473-2008,pending-change,,,,Ordinul nr. 689/2008,2008-05-22,no,https://legislatie.just.ro/Public/DetaliiDocument/92476
 ordin-transporturi-474-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92566
 ordin-transporturi-490-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96506
 ordin-transporturi-519-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92235
@@ -1444,32 +1456,33 @@ ordin-transporturi-577-2008,pending-change,,,,Ordinul nr. 3820/2024,2024-11-08,n
 ordin-transporturi-603-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92853
 ordin-transporturi-605-2008,pending-change,,,,Ordinul nr. 1723/2014,2014-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/93584
 ordin-transporturi-61-2008,pending-change,,,,Ordinul nr. 2633/2008,2008-09-08,no,https://legislatie.just.ro/Public/DetaliiDocument/89715
-ordin-transporturi-62-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101341
+ordin-transporturi-62-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101341
 ordin-transporturi-64-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89063
 ordin-transporturi-648-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93073
 ordin-transporturi-66-2008,pending-change,,,,Ordinul nr. 2242/2025,2025-12-16,no,https://legislatie.just.ro/Public/DetaliiDocument/89142
 ordin-transporturi-669-2008,pending-change,,,,Ordinul nr. 768/2015,2015-06-23,no,https://legislatie.just.ro/Public/DetaliiDocument/94588
 ordin-transporturi-67-2008,pending-change,,,,Ordinul nr. 1635/2020,2020-08-12,no,https://legislatie.just.ro/Public/DetaliiDocument/93768
 ordin-transporturi-673-2008,pending-change,,,,Ordinul nr. 767/2015,2015-06-23,no,https://legislatie.just.ro/Public/DetaliiDocument/94753
-ordin-transporturi-689-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93516
+ordin-transporturi-689-2008,pending-change,,,,Ordinul nr. 928/2008,2008-07-25,no,https://legislatie.just.ro/Public/DetaliiDocument/93516
 ordin-transporturi-695-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99292
-ordin-transporturi-729-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93868
+ordin-transporturi-729-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93868
 ordin-transporturi-730-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93869
 ordin-transporturi-740-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94313
 ordin-transporturi-794-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95958
 ordin-transporturi-798-2008,pending-change,,,,Ordinul nr. 161/2016,2016-03-07,no,https://legislatie.just.ro/Public/DetaliiDocument/94895
+ordin-transporturi-811-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95033
 ordin-transporturi-813-2008,pending-change,,,,Ordinul nr. 245/2022,2022-03-08,no,https://legislatie.just.ro/Public/DetaliiDocument/95034
-ordin-transporturi-831-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95518
+ordin-transporturi-831-2008,pending-change,,,,Ordinul nr. 982/2008,2008-08-06,no,https://legislatie.just.ro/Public/DetaliiDocument/95518
 ordin-transporturi-861-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95780
 ordin-transporturi-870-2008,pending-change,,,,Ordinul nr. 326/2012,2012-04-21,no,https://legislatie.just.ro/Public/DetaliiDocument/96528
 ordin-transporturi-871-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95632
 ordin-transporturi-878-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95960
 ordin-transporturi-88-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89230
-ordin-transporturi-891-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95973
-ordin-transporturi-928-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96386
+ordin-transporturi-891-2008,pending-change,,,,Ordinul nr. 1485/2008,2008-11-28,no,https://legislatie.just.ro/Public/DetaliiDocument/95973
+ordin-transporturi-928-2008,pending-change,,,,Ordinul nr. 1129/2008,2008-09-09,no,https://legislatie.just.ro/Public/DetaliiDocument/96386
 ordin-transporturi-955-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96441
-ordin-transporturi-964-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96393
-ordin-transporturi-982-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96492
+ordin-transporturi-964-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96393
+ordin-transporturi-982-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96492
 ordin-vama-349-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89624
 ordin-vama-356-2008,pending-change,,,,Rectificarea nr. 356/2008,2008-02-11,no,https://legislatie.just.ro/Public/DetaliiDocument/89718
 ordin-vama-5121-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93817

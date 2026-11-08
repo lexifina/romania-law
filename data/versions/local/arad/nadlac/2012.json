@@ -3,6 +3,156 @@
  "shard": "local/arad/nadlac/2012",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2012",
+   "path": "local/arad/nadlac/2012/1",
+   "short": "HCL Nădlac nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2012 privind aprobarea ordinei de zi a şedinţei extra ordinare a Consili u lu i local Nădlac din data de 11.01.2012",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_1_-_2012.pdf",
+     "sha256": "78c6e8dbd89c6d019bb0fec3e7f2bb45b433fb366525f4fdf9b9bca092ef18f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2012",
+   "path": "local/arad/nadlac/2012/10",
+   "short": "HCL Nădlac nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2012 privind aprobarea comasării loturilor imobilelor situat e în oraşul Nădlac, parcelele eviden țiate în CF nr.3 0 1741 Nădlac și CF nr.301742 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_10_-_2012.pdf",
+     "sha256": "bc64f4c2767d2a974a191abe8dab75a8f434e9138a67b24188c41c13c3a82acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2012",
+   "path": "local/arad/nadlac/2012/11",
+   "short": "HCL Nădlac nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2012 privind rectificarea suprafe ței parcelei nr. ca d.302192 , evidenţiată în CF n r .302192 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_11_-_2012.pdf",
+     "sha256": "e4d114eaadf7fc7bcd2d4e5883a9b17475206f85b6eb54b6a6af24bf3b10fc0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2012",
+   "path": "local/arad/nadlac/2012/12",
+   "short": "HCL Nădlac nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2012 privind emite rea acordul ui re feritor la acceptarea ofertei, condiţiile exproprierii şi solicitarea consemnării despăgubirilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_12_-_2012.pdf",
+     "sha256": "e679266044a64573a4afc4cbf2d47bcac9c9128d92692db8ea5a1ce52d025456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2012",
+   "path": "local/arad/nadlac/2012/14",
+   "short": "HCL Nădlac nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2012 privind atribuirea unei suprafeţe din parcela nr. top. 13691/ 5 7 , evidenţiată în CF nr.3 0 347 5 Nădlac – n r. CF vechi 2201 Nădlac , în folosinţă gratuită pe durata existenţei locuinţei proprie tate personală, d – lui Miere Danie",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_14_-_2012.pdf",
+     "sha256": "6a1a9c12df8c19eb23170435bf19b0c332ac7968f351889807c9af07b4792ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2012",
+   "path": "local/arad/nadlac/2012/15",
+   "short": "HCL Nădlac nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_15_-_2012.pdf",
+     "sha256": "794b32744e923fd70db1e0d66d30e9968a0fc58039ff77b4e6faacbb096a60e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2012",
+   "path": "local/arad/nadlac/2012/18",
+   "short": "HCL Nădlac nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2012 privind aprobarea ordinei de zi a şedinţei ordinare a Consili u lu i local Nădlac din data de 28.02 .2012",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Februarie/hot_18_-_2012.pdf",
+     "sha256": "e1f2a9f949b0adc182a7be2cd5631adb2b93011e6b00048a6975e2f8e47300ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2012",
+   "path": "local/arad/nadlac/2012/19",
+   "short": "HCL Nădlac nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2012 privind aprobare a procesului verbal al şedinţei ordinare a Consiliulu i l oc al Nădlac din data de 26 .01.2012",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Februarie/hot_19_-_2012.pdf",
+     "sha256": "697ae49b250bc06b3c91b3dc3fa95a3ca7930a1bb50186813b7fdc1ab7f3523c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2012",
+   "path": "local/arad/nadlac/2012/2",
+   "short": "HCL Nădlac nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2012 privind aprobare a procesului verbal al şedinţei ordinare a Con siliulu i loc al Nădlac din data de 28.12 . 2011",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Ianuarie/hot_2_-_2012.pdf",
+     "sha256": "a62149d811d8bc1eae56df9df9e4e63ba5a769b2d4755d1d5bd4f0ca6c9c5391"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2012",
+   "path": "local/arad/nadlac/2012/21",
+   "short": "HCL Nădlac nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2012 privind acordarea normei de hrană personalului Poli ției Locale a orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Februarie/hot_21_-_2012.pdf",
+     "sha256": "8343f858e4ee7abe50c9cbda6706638276324e6182b5752f7a868c5d1f3fbae7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-39-2012",
    "path": "local/arad/nadlac/2012/39",
    "short": "HCL Nădlac nr. 39/2012",

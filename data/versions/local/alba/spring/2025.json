@@ -3,6 +3,516 @@
  "shard": "local/alba/spring/2025",
  "acts": [
   {
+   "slug": "hcl-alba--spring-104-2025",
+   "path": "local/alba/spring/2025/104",
+   "short": "HCL Șpring nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 104/2025 privind modificarea inventarului domeniului public al Comunei Șpring prin introducerea în inventar a mijlocului fix „Extindere rețea de apă potabilă cu branșamente în localitatea Vingard” și predarea rețelei către operatorul SC APA CTTA SA",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR.-104.pdf",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR.-104.pdf",
+     "sha256": "484d50dbe74e0d4871f8d6ac12ba1b824f18bc349a8fdb42d14b907179b1d15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-105-2025",
+   "path": "local/alba/spring/2025/105",
+   "short": "HCL Șpring nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 105/2025 privind însușirea Contractului de sponsorizare nr. 161/16.09.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR.-105.pdf",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR.-105.pdf",
+     "sha256": "44bdf0a0ecc266c8ce29abd0f92ebf42850615f7913f9aceee9c75164e56d173"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-107-2025",
+   "path": "local/alba/spring/2025/107",
+   "short": "HCL Șpring nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 107/2025 privind aprobarea utilizării din excedentului la 31.12.2024 a Bugetului Local a sumei de 45,8 mii lei pentru finanțarea cheltuielilor secțiunii de dezvoltare a bugetului local pentru anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR-107.-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR-107.-.pdf",
+     "sha256": "8d9bab981dce5dd275457c597fa1a6af6c8644f53ea4bfcb2de7e37e9e0d5a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-108-2025",
+   "path": "local/alba/spring/2025/108",
+   "short": "HCL Șpring nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 108/2025 privind însușirea Contractului de sponsorizare nr. 161/16.09.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-nr.-108.pdf",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-nr.-108.pdf",
+     "sha256": "86596c8d2e9841f91a30c10be2b0477064dafd04e0e6f393fc906ec5373b3cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-109-2025",
+   "path": "local/alba/spring/2025/109",
+   "short": "HCL Șpring nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 109/2025 privind aprobarea sumei de 1250 lei pentru evenimentul „Ziua Internațională a persoanelor vârstnice” &#8211; Premierea cuplurilor care împlinesc 50 de ani de căsnicie",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR.-109.pdf",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR.-109.pdf",
+     "sha256": "7b74c8a17a2495249f96de53a18bce735c4f29a9afd6a2fd1f9c53e5da37c181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-111-2025",
+   "path": "local/alba/spring/2025/111",
+   "short": "HCL Șpring nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 111/2025 privind aprobarea ordinii de zi Consiliul Local al Comunei Șpring, județul Alba Întrunit în ședința extraordinară din data de 26.09.2025 În baza art. 134, alin. 3 lit. b, art. 135, alin. 1, 2 și 3 și art. 196, alin. 1, lit. a din OUG 57/2019 privind Codul Administrativ cu modificările și completările ulterioare, adoptă prezenta HOTĂRÂRE Art. 1",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/10/HCL-nr.-111-aprobare-ordine-zi-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/10/HCL-nr.-111-aprobare-ordine-zi-.pdf",
+     "sha256": "bd935928cae789372f98be53065d27868b47497dd64ef090fa9302ad03bdd9d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-112-2025",
+   "path": "local/alba/spring/2025/112",
+   "short": "HCL Șpring nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 112/2025 privind acordarea unui mandat special primarului comunei Șpring în cadrul Asociației de Dezvoltare Intercomunitară „Apa Alba”",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/10/HCL-NR.-112-1.pdf",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/10/HCL-NR.-112-1.pdf",
+     "sha256": "0477fe0bbf7ab7b12f37454fff59cf9c07fa4ab713e0943cf71119294f49921f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-114-2025",
+   "path": "local/alba/spring/2025/114",
+   "short": "HCL Șpring nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 114/2025 privind aprobarea ordinii de zi",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-114-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-114-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "f5a556077e779986fad532ca7276a9d966fbb82e46b3460bbb592a2be82737c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-115-2025",
+   "path": "local/alba/spring/2025/115",
+   "short": "HCL Șpring nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 115/2025 privind însușirea de către Consiliul Local al Comunei Șpring a Actului adițional nr. 3/01.10.2025 la Contractul de comodat (contract de împrumut de folosință)",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-115-privind-insusirea-de-catre-Consiliul-local-a-Actului-aditional-nr.-3-01.10.2025-la-Contractul-de-comodat-contract-de-imprumut-de-folosinta.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-115-privind-insusirea-de-catre-Consiliul-local-a-Actului-aditional-nr.-3-01.10.2025-la-Contractul-de-comodat-contract-de-imprumut-de-folosinta.pdf",
+     "sha256": "f647ee0526293e16a4ed78293f56b2fee5f97c4975605f85ff32675e53f04d64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-116-2025",
+   "path": "local/alba/spring/2025/116",
+   "short": "HCL Șpring nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 116/2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HCL-116.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HCL-116.pdf",
+     "sha256": "77a589134cafbaf1dc93cf5bc5b76f31e10606f200934bd704fd24e1a0dd554a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-117-2025",
+   "path": "local/alba/spring/2025/117",
+   "short": "HCL Șpring nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 117/2025 privind modificarea HCL privind acordul de amplasare a instalației de alimentare cu energie electrică stație Orange pe domeniul public al Comunei Șpring și execuția lucrărilor implica",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-117-privind-modificarea-HCL-privind-acordul-de-amplasare-a-instalatiei-de-alimentare-cu-energie-electrica-statie-Orange-pe-domeniul-public-al-Comunei-Spring-si-executia-lucrarilor-implica.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-117-privind-modificarea-HCL-privind-acordul-de-amplasare-a-instalatiei-de-alimentare-cu-energie-electrica-statie-Orange-pe-domeniul-public-al-Comunei-Spring-si-executia-lucrarilor-implica.pdf",
+     "sha256": "2ff568d96cb8451aa96226f9e4fcba78fcea705bd83d8330b8e8551c29af9c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-118-2025",
+   "path": "local/alba/spring/2025/118",
+   "short": "HCL Șpring nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 118/2025 Privind scoaterea temporară din circuitul agricol a suprafeței de 1391 mp din suprafața totală de 1.450.898 mp aferentă imobilelor înscrise în CF nr. 80131 Șpring și CF nr. 75478 Șpring",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-118-Privind-scoaterea-temporara-din-circuitul-agricol-a-suprafetei-de-1391-mp-din-suprafata-totala-de-1.450.898-mp-aferenta-imobilelor-inscrise-in-CF-nr.-80131-Spring-si-CF-nr.-75478-Spring.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-118-Privind-scoaterea-temporara-din-circuitul-agricol-a-suprafetei-de-1391-mp-din-suprafata-totala-de-1.450.898-mp-aferenta-imobilelor-inscrise-in-CF-nr.-80131-Spring-si-CF-nr.-75478-Spring.pdf",
+     "sha256": "172f8554ecd5614751983650bfff253f7eafa6ec3e8619aa43b83083df94053e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-119-2025",
+   "path": "local/alba/spring/2025/119",
+   "short": "HCL Șpring nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 119/2025 Privind revocarea HCL nr. 7617.07.2025 de revocare a HCL nr. 9129.05.2023 privind trecerea în proprietatea UAT Comuna Șpring și în administrarea Consiliului Local al Comunei Șpring, ca efect al",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-119-Privind-revocarea-HCL-nr.-7617.07.2025-de-revocare-a-HCL-nr.-9129.05.2023-privind-trecerea-in-proprietatea-UAT-Comuna-Spring-si-in-administrarea-Consiliului-Local-al-Comunei-Spring-ca-efect-al.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-119-Privind-revocarea-HCL-nr.-7617.07.2025-de-revocare-a-HCL-nr.-9129.05.2023-privind-trecerea-in-proprietatea-UAT-Comuna-Spring-si-in-administrarea-Consiliului-Local-al-Comunei-Spring-ca-efect-al.pdf",
+     "sha256": "c74e3adc39f9f938fc09e4d0e22002930e4734a47b9de8f0738ec423dd443451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-122-2025",
+   "path": "local/alba/spring/2025/122",
+   "short": "HCL Șpring nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 122/2025 privind aprobarea Devizului General actualizat pentru obiectivul de investiții „Racordare la rețeaua electrică a locului de consum situat în comuna Șpring , sat Drașov, str. Principală, nr. 98",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-122-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-%E2%80%9ERacordare-la-reteaua-electrica-a-locului-de-consum-situat-in-comuna-Spring-sat-Drasov-str.-Principala-nr.-98.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-122-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-%E2%80%9ERacordare-la-reteaua-electrica-a-locului-de-consum-situat-in-comuna-Spring-sat-Drasov-str.-Principala-nr.-98.pdf",
+     "sha256": "063947556f07069130b52c333fecd917d89d7b8158f121793a271e7aed92cd18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-124-2025",
+   "path": "local/alba/spring/2025/124",
+   "short": "HCL Șpring nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 124/2025 privind aprobarea Devizului General actualizat pentru obiectivul de investiții „Extindere rețea electrică – Alimentare cu energie electrică Sala de sport Școlară, str. Principală, nr. 98, loc",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-124-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-%E2%80%9EExtindere-retea-electrica-%E2%80%93-Alimentare-cu-energie-electrica-Sala-de-sport-Scolara-str.-Principala-nr.-98-loc.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-124-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-%E2%80%9EExtindere-retea-electrica-%E2%80%93-Alimentare-cu-energie-electrica-Sala-de-sport-Scolara-str.-Principala-nr.-98-loc.pdf",
+     "sha256": "39d9eb769edea0f39632c8387f6985c9dbdb523b7a040df242685cc3c461c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-125-2025",
+   "path": "local/alba/spring/2025/125",
+   "short": "HCL Șpring nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 125/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-125-privind-rectificarea-bugetului-local-pe-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-125-privind-rectificarea-bugetului-local-pe-anul-2025.pdf",
+     "sha256": "2855dc152a57faf91498dc56bc4a0bc99d198d03ea88793c3a4dc7d31c42fa89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-126-2025",
+   "path": "local/alba/spring/2025/126",
+   "short": "HCL Șpring nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 126/2025 privind aprobarea DG actualizat pentru Dispensar Uman Spring",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-126-privind-aprobarea-DG-actualizat-pentru-Dispensar-Uman-Spring.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-126-privind-aprobarea-DG-actualizat-pentru-Dispensar-Uman-Spring.pdf",
+     "sha256": "044779a0ffaf739d3b693230898edec3fd77096dc698644e24e1c9862e1a2740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-127-2025",
+   "path": "local/alba/spring/2025/127",
+   "short": "HCL Șpring nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 127/2025 privind aprobarea Devizului General actualizat pentru obiectivul de investiții Creșterea eficienței energetice a clădirii sediului Consiliului Local și Primăriei Comunei Șpring",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-127-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-Cresterea-eficientei-energetice-a-cladirii-sediului-Consiliului-Local-si-Primariei-Comunei-Spring.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-127-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-Cresterea-eficientei-energetice-a-cladirii-sediului-Consiliului-Local-si-Primariei-Comunei-Spring.pdf",
+     "sha256": "c45a5e57aa39da4dfe352027ae1cd58f8b10160e00a775173d34ae15525efae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-128-2025",
+   "path": "local/alba/spring/2025/128",
+   "short": "HCL Șpring nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 128/2025 privind aprobarea Devizului General actualizat pentru obiectivul de investiții Creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirea Școala Drașov, jud. Alba",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-128-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-Cresterea-eficientei-energetice-si-gestionarea-inteligenta-a-energiei-in-cladirea-Scoala-Drasov-jud.-Alba.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-128-privind-aprobarea-Devizului-General-actualizat-pentru-obiectivul-de-investitii-Cresterea-eficientei-energetice-si-gestionarea-inteligenta-a-energiei-in-cladirea-Scoala-Drasov-jud.-Alba.pdf",
+     "sha256": "2786b7051fc7d0c57bf3421e7ea0aaf7a5f1e369cbd515a1810983d5b3a315b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-129-2025",
+   "path": "local/alba/spring/2025/129",
+   "short": "HCL Șpring nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 129/2025 privind aprobarea ordinii de zi a ședinței extraordinare din data de 03.11.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-129-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-din-data-de-03.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-129-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-din-data-de-03.11.2025.pdf",
+     "sha256": "2ab6d40deb366567cf59cc27be6186eb8ca1ef3bb91f7ec6b13aafc6dae31ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-130-2025",
+   "path": "local/alba/spring/2025/130",
+   "short": "HCL Șpring nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 130/2025 privind modificarea art. 2 din H.C.L nr. 6504.06.2025 privind aprobarea înființării",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-130-privind-modificarea-art.-2-din-H.C.L-nr.-6504.06.2025-privind-aprobarea-infiintarii.pdf",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-130-privind-modificarea-art.-2-din-H.C.L-nr.-6504.06.2025-privind-aprobarea-infiintarii.pdf",
+     "sha256": "609d5fa33107075b17965d3cf3ecf7fb45d888cf18f4922f3648eff189b861f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-133-2025",
+   "path": "local/alba/spring/2025/133",
+   "short": "HCL Șpring nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 133/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-133-privind-rectificarea-bugetului-local-pe-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-133-privind-rectificarea-bugetului-local-pe-anul-2025.pdf",
+     "sha256": "15474d93f1032732ade6e51d807bd06ebfed35900ea02243f99b6a77eb3de09c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-134-2025",
+   "path": "local/alba/spring/2025/134",
+   "short": "HCL Șpring nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 134/2025 privind aprobarea execuției bugetului local pe cele două secțiuni la sfârșitul trimestrului III 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-134-privind-aprobarea-executiei-bugetului-local-pe-cele-doua-sectiuni-la-sfarsitul-trimestrului-III-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-134-privind-aprobarea-executiei-bugetului-local-pe-cele-doua-sectiuni-la-sfarsitul-trimestrului-III-2025.pdf",
+     "sha256": "c3b289ccca2348460315c87928f6b61ee5c3ba38c88a30c667328204799bc512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-135-2025",
+   "path": "local/alba/spring/2025/135",
+   "short": "HCL Șpring nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 135/2025 privind acordarea unui mandat special pentru ajustarea tarifelor distincte pentru serviciile prestate de asocierea RER VEST SARETIM ECOLOGIC SERVICE SA",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-135-privind-acordarea-unui-mandat-special-pentru-ajustarea-tarifelor-distincte-pentru-serviciile-prestate-de-asocierea-RER-VEST-SARETIM-ECOLOGIC-SERVICE-SA.pdf",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/11/HCL-135-privind-acordarea-unui-mandat-special-pentru-ajustarea-tarifelor-distincte-pentru-serviciile-prestate-de-asocierea-RER-VEST-SARETIM-ECOLOGIC-SERVICE-SA.pdf",
+     "sha256": "b7159be0108c9664e2594c4d1374d7b82258bb93b2cf77f1bc6a1dd84750baf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-136-2025",
+   "path": "local/alba/spring/2025/136",
+   "short": "HCL Șpring nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 136/2025 privind aprobarea ordinii de zi",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-136-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-136-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "4741817903efb085dc1076a52a35eb5de3a3d7e2cd9683af9aae03b8af801133"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-137-2025",
+   "path": "local/alba/spring/2025/137",
+   "short": "HCL Șpring nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 137/2025 privind acordarea dreptului de uz si servitute pentru acces auto, pietonal si subteran cu titlu gratiuit N C TURISM SRL",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-137-din-19-11-2025-privind-acordarea-dreptului-de-uz-si-servitute-pentru-acces-auto-pietonal-si-subteran-cu-titlu-gratiuit-N-C-TURISM-SRL.pdf",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-137-din-19-11-2025-privind-acordarea-dreptului-de-uz-si-servitute-pentru-acces-auto-pietonal-si-subteran-cu-titlu-gratiuit-N-C-TURISM-SRL.pdf",
+     "sha256": "cb8f1b3998a4a06672668b50e154737ace85e2783c4d7df804c09da9de9397d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-138-2025",
+   "path": "local/alba/spring/2025/138",
+   "short": "HCL Șpring nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 138/2025 privind aprobarea ordinii de zi",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-138-din-24.11.2025-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-138-din-24.11.2025-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "bce857b0f3590b112f04c34be55baa25d9e4708f96fb717522f9d0f8f7e43b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-139-2025",
+   "path": "local/alba/spring/2025/139",
+   "short": "HCL Șpring nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 139/2025 privind aprobarea Registrului Local al Spațiilor Verzi pentru intravilanul",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-139-privind-aprobarea-Registrului-Local-al-Spatiilor-Verzi-pentru-intravilanul.pdf",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-139-privind-aprobarea-Registrului-Local-al-Spatiilor-Verzi-pentru-intravilanul.pdf",
+     "sha256": "8336eaedf4bb1debf204d8a0f1c8dd35b7c41a6a89d2c8e7e3b1810588338dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-140-2025",
+   "path": "local/alba/spring/2025/140",
+   "short": "HCL Șpring nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 140/2025 privind aprobarea achiziționării de servicii juridice pentru anul 2026",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-140-privind-aprobarea-achizitionarii-de-servicii-juridice-pentru-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-140-privind-aprobarea-achizitionarii-de-servicii-juridice-pentru-anul-2026.pdf",
+     "sha256": "2278607337d7214531155fa5ebf979bd21d53ddef8939643fac80ffa82bf3588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-141-2025",
+   "path": "local/alba/spring/2025/141",
+   "short": "HCL Șpring nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 141/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-141-24-11-2025-privind-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-141-24-11-2025-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "02a36a78d10ed74762185a2fc26b09d5696bae9a039072766ff9f57f0d3db0cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-142-2025",
+   "path": "local/alba/spring/2025/142",
+   "short": "HCL Șpring nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 142/2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HCL-142-RECTIFICARE-BUGET.pdf",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HCL-142-RECTIFICARE-BUGET.pdf",
+     "sha256": "127a5efbebfcd72af810851b898033763e76fdd0ccabd92e42323fcb30a4a289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-143-2025",
+   "path": "local/alba/spring/2025/143",
+   "short": "HCL Șpring nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 143/2025 privind aprobarea ordinii de zi",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-143-din-28.-11-2025-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-143-din-28.-11-2025-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "d31ee17998d615ff4fd0ad1cac47ae76bf0abb0102f67ad801d6a22c2b13dc0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-144-2025",
+   "path": "local/alba/spring/2025/144",
+   "short": "HCL Șpring nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 144/2025 privind scoaterea din circuitul agricol a suprafeței de 5622 mp aferent imobilului înscris în CF 74084 Șpring",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-144-din-28-11-2025-privind-scoaterea-din-circuitul-agricol-a-suprafetei-de-5622-mp-aferent-imobilului-inscris-in-CF-74084-Spring.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-144-din-28-11-2025-privind-scoaterea-din-circuitul-agricol-a-suprafetei-de-5622-mp-aferent-imobilului-inscris-in-CF-74084-Spring.pdf",
+     "sha256": "e0e59b6fbe0236a185eef44de9b2b40e96035f9cfdbf65352958212477c7ac2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-145-2025",
+   "path": "local/alba/spring/2025/145",
+   "short": "HCL Șpring nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 145/2025 privind aprobarea ordinii de zi",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-145-din-08-12-2025-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-145-din-08-12-2025-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "5df50545b210993a77f556ef9de17bdfdeb3dabd220a207a4803f37090c9d250"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--spring-147-2025",
    "path": "local/alba/spring/2025/147",
    "short": "HCL Șpring nr. 147/2025",
@@ -14,6 +524,156 @@
      "units": 1,
      "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOEB441.pdf",
      "sha256": "ebf83fa208cbe2c40b795c5cb81b533868ec1b438d5bafcff4b6e7859b0b98e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-148-2025",
+   "path": "local/alba/spring/2025/148",
+   "short": "HCL Șpring nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 148/2025 privind însușirea Contractelor de sponsorizare pentru sprijinirea activităților desfășurate în cadrul evenimentului „Moș Crăciun ne aduce daruri!”",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-148-din-08-12-2025-privind-insusirea-Contractelor-de-sponsorizare-pentru-sprijinirea-activitatilor-desfasurate-in-cadrul-evenimentului-%E2%80%9EMos-Craciun-ne-aduce-daruri.pdf",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-148-din-08-12-2025-privind-insusirea-Contractelor-de-sponsorizare-pentru-sprijinirea-activitatilor-desfasurate-in-cadrul-evenimentului-%E2%80%9EMos-Craciun-ne-aduce-daruri.pdf",
+     "sha256": "5e050257449562786d6c12852d1d22a0c85ab48cfa10dac67aaaed9279cdd4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-149-2025",
+   "path": "local/alba/spring/2025/149",
+   "short": "HCL Șpring nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 149/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/hcl-149.pdf",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/hcl-149.pdf",
+     "sha256": "30eba1c2a9498a40f0ac31de5895effc782d36b5003b624c0c9039b7656256fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-150-2025",
+   "path": "local/alba/spring/2025/150",
+   "short": "HCL Șpring nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 150/2025 privind aprobarea ordinii de zi",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-150-din-17-12-2025-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-150-din-17-12-2025-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "b1f88ba11ee1fc6c01c19c9caff088973ad060f50e468cb837b3572eab1b2845"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-151-2025",
+   "path": "local/alba/spring/2025/151",
+   "short": "HCL Șpring nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 151/2025 privind aprobarea rețelei școlare a unităților de învățământ de pe raza UAT Comuna Șpring, județul Alba, pentru anul școlar 2026-2027",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-151-din-17-12-2025-privind-aprobarea-retelei-scolare-a-unitatilor-de-invatamant-de-pe-raza-UAT-Comuna-Spring-judetul-Alba-pentru-anul-scolar-2026-2027.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-151-din-17-12-2025-privind-aprobarea-retelei-scolare-a-unitatilor-de-invatamant-de-pe-raza-UAT-Comuna-Spring-judetul-Alba-pentru-anul-scolar-2026-2027.pdf",
+     "sha256": "d6cba7c1e0dbbacba074a9c40f6ab6ae9db70b88549d49df47653c6791f85893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-152-2025",
+   "path": "local/alba/spring/2025/152",
+   "short": "HCL Șpring nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 152/2025 Privind constituirea grupului de lucru în vederea identificării așezărilor informale de pe raza UAT Comuna Șpring, județul Alba",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-152-din-17-12-2025-Privind-constituirea-grupului-de-lucru-in-vederea-identificarii-asezarilor-informale-de-pe-raza-UAT-Comuna-Spring-judetul-Alba.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-152-din-17-12-2025-Privind-constituirea-grupului-de-lucru-in-vederea-identificarii-asezarilor-informale-de-pe-raza-UAT-Comuna-Spring-judetul-Alba.pdf",
+     "sha256": "b0437b55e71a5b48de1976607b0ea0056013205e2db2c2ff00afcb6e2ea94ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-153-2025",
+   "path": "local/alba/spring/2025/153",
+   "short": "HCL Șpring nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 153/2025 Privind modificarea și actualizarea HCL nr. 12015.11.2024 privind aprobarea participării Comunei Șpring în cadrul Programului privind creșterea eficienței energetice",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-153-din-17-12-2025-Privind-modificarea-si-actualizarea-HCL-nr.-12015.11.2024-privind-aprobarea-participarii-Comunei-Spring-in-cadrul-Programului-privind-cresterea-eficientei-energetice.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-153-din-17-12-2025-Privind-modificarea-si-actualizarea-HCL-nr.-12015.11.2024-privind-aprobarea-participarii-Comunei-Spring-in-cadrul-Programului-privind-cresterea-eficientei-energetice.pdf",
+     "sha256": "a562b205451d05f173560b2263b4487547ca80b30290f7900f8c7766263bf75a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-154-2025",
+   "path": "local/alba/spring/2025/154",
+   "short": "HCL Șpring nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 154/2025 privind modificarea si actualizarea HCL nr. 14520.12.2024 privind aprobarea participarii Comunei Șpring",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-154-din-17-12-2025-privind-modificarea-si-actualizarea-HCL-nr.-14520.12.2024-privind-aprobarea-participarii-Comunei-Spring.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-154-din-17-12-2025-privind-modificarea-si-actualizarea-HCL-nr.-14520.12.2024-privind-aprobarea-participarii-Comunei-Spring.pdf",
+     "sha256": "5d51ff798c71d55ac8610099599955895b21e158b798a7c00576fd11c4040e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-155-2025",
+   "path": "local/alba/spring/2025/155",
+   "short": "HCL Șpring nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 155/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/hcl-155.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/hcl-155.pdf",
+     "sha256": "765220cf68f70fa219b1963b23ea9005f2e6d33fc228152936d91399b5a03470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-156-2025",
+   "path": "local/alba/spring/2025/156",
+   "short": "HCL Șpring nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 156/2025 privind însușirea Raportului de evaluare a terenului intravilan înscris în CF 87899 Șpring, aflat în domeniul public al UAT Comuna Șpring, județul Alba",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-156-din-17-12-2025-privind-insusirea-Raportului-de-evaluare-a-terenului-intravilan-inscris-in-CF-87899-Spring-aflat-in-domeniul-public-al-UAT-Comuna-Spring-judetul-Alba.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-156-din-17-12-2025-privind-insusirea-Raportului-de-evaluare-a-terenului-intravilan-inscris-in-CF-87899-Spring-aflat-in-domeniul-public-al-UAT-Comuna-Spring-judetul-Alba.pdf",
+     "sha256": "e82d47fb6cb6e78b1a08adacec6e469f924b4d1e24a42451fe5a8ba5c6f4aae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-157-2025",
+   "path": "local/alba/spring/2025/157",
+   "short": "HCL Șpring nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 157/2025 privind aprobarea ordinii de zi a ședinței extraordinare din data de 29.12.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-157-din-29-12-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-din-data-de-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-157-din-29-12-2025-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-din-data-de-29.12.2025.pdf",
+     "sha256": "6c7ab28586972d9a2450be875fe60ec75db559bd167dd8779e036a3fb2969ea3"
     }
    ]
   },
@@ -59,6 +719,201 @@
      "units": 1,
      "source_url": "https://comunaspring.ro/wp-content/uploads/2025/08/HCL_70_aprobarea_ordinei_de_zi1.pdf",
      "sha256": "ea67ff99e72377293ac7fe81abaa1e20bf24d00ae988ebb90618b39dd45f6621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-81-2025",
+   "path": "local/alba/spring/2025/81",
+   "short": "HCL Șpring nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 81/2025 privind alegerea președintelui de ședință Consiliul Local al Comunei Șpring, județul Alba Întrunit în ședința ordinară din data de 20.08.2025 Luând în dezbatere: − Proiectul de hotărâre nr. 82/14.08.2025 privind alegerea președintelui de ședință. - Referatul de aprobare nr. 195/14/14.08.2025, întocmit de primarul comunei Șpring; - Raportul de specialitate nr. 196/14/14.08.2025 întocmit de persoana",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-nr.-81-presedinte-sedinta-.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-nr.-81-presedinte-sedinta-.pdf",
+     "sha256": "8ae74abd4a87421827d8c9b3d2f1a80e942b9c8c5707b56081b9d0e6098d28b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-82-2025",
+   "path": "local/alba/spring/2025/82",
+   "short": "HCL Șpring nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 82/2025 privind modificarea și a Statului de Funcții pentru aparatul de specialitate al primarului comunei Șpring",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hot-82-.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hot-82-.pdf",
+     "sha256": "14e43d12b787e394c389653df4615a361c25ce437ff46105cb35d79ec131761a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-85-2025",
+   "path": "local/alba/spring/2025/85",
+   "short": "HCL Șpring nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 85/2025 privind aprobarea documentației tehnice de dezmembrare a imobilului teren înscris în CF 75477 Șpring în trei loturi și instituirea unui drept de servitute de trecere",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-85-.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-85-.pdf",
+     "sha256": "1bdb69a2412c14aafbebdf1db2a7a1816ff6fcbb164dd4cb5dc1800ad5f3e6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-86-2025",
+   "path": "local/alba/spring/2025/86",
+   "short": "HCL Șpring nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 86/2025 privind aprobarea documentației tehnice de dezmembrare a imobilului teren înscris în CF 75477 Șpring în trei loturi și instituirea unui drept de servitute de trecere",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-86.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-86.pdf",
+     "sha256": "8535bebd72a300a127b83ed7f01cb9d2fa089536f455e6c57ce48feb18f6ee4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-88-2025",
+   "path": "local/alba/spring/2025/88",
+   "short": "HCL Șpring nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 88/2025 privind aprobarea utilizării din excedentului la 31.12.2024 a Bugetului Local a sumei de 9.200 lei pentru finanțarea cheltuielilor secțiunii de dezvoltare a bugetului local pentru anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR-88.-.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-NR-88.-.pdf",
+     "sha256": "155b6bfb36ab1c03d53c254f3489d086d00347c489c42dc4c0b481999d0e8e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-89-2025",
+   "path": "local/alba/spring/2025/89",
+   "short": "HCL Șpring nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 89/2025 privind suplimentarea sumei alocate pentru Festivalul Internațional XXVI de Muzică și Dans „PARALIA PARADISE”, Paralia, Grecia",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hot89.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hot89.pdf",
+     "sha256": "d5c63c9366a08e0a0235a9084a23c3a60c89f88f1bb56f1a03a4f62a7b67a10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-90-2025",
+   "path": "local/alba/spring/2025/90",
+   "short": "HCL Șpring nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 90/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hotarare.90-docx.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hotarare.90-docx.pdf",
+     "sha256": "f37c226ba77d66253f86fb5d5d1892c12e927cd83c555d08b0eaa27f682352d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-92-2025",
+   "path": "local/alba/spring/2025/92",
+   "short": "HCL Șpring nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 92/2025 privind excluderea traseului – cod traseu nr.29 Vingard – Ghirbom – Alba Iulia din Programul de transport din cadrul Asociației Intercomunitare de Dezvoltare Alba Iulia – Transport Local",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-nr.-92-excludere-comuna-Spring-din-programul-de-transport-Copy.pdf",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-nr.-92-excludere-comuna-Spring-din-programul-de-transport-Copy.pdf",
+     "sha256": "87e13c004f2804d372b11d0058dbf3587757af9544ab5ca3e45ce8016f40310a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-94-2025",
+   "path": "local/alba/spring/2025/94",
+   "short": "HCL Șpring nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 94/2025 privind însușirea Contractului de sponsorizare nr. 298/29.08.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-94-ROPHARMA.pdf",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-94-ROPHARMA.pdf",
+     "sha256": "6c39fdca5fc35d27be6d5b6f9245b3b17fc535e20ff09f008ce8729223da68b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-95-2025",
+   "path": "local/alba/spring/2025/95",
+   "short": "HCL Șpring nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 95/2025 privind însușirea Contractului de sponsorizare nr. 5983/03.09.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-95-ONLINE-BUSINESS.pdf",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-95-ONLINE-BUSINESS.pdf",
+     "sha256": "5417ddfaf2a9eee75ac1cdaaefd43d93789ae4137a702d978884f09d9df7e350"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-96-2025",
+   "path": "local/alba/spring/2025/96",
+   "short": "HCL Șpring nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 96/2025 privind însușirea Contractului de sponsorizare nr. 437/28.08.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-96-DINAMIC.pdf",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-96-DINAMIC.pdf",
+     "sha256": "f143d7818d478c67b975f7ba82440bd510e0e0445e90ae8dc6b40191b9c154ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-98-2025",
+   "path": "local/alba/spring/2025/98",
+   "short": "HCL Șpring nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 98/2025 privind însușirea Contractului de sponsorizare nr. 51/29.08.2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-98-envipco.pdf",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/hcl-98-envipco.pdf",
+     "sha256": "598fdc00deaa997a96a69446e0ef0c224a99334dd4e88c365c341bea7af7e867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-99-2025",
+   "path": "local/alba/spring/2025/99",
+   "short": "HCL Șpring nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 99/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-99rectificare-BUGET-Copy.pdf",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2025/09/HCL-99rectificare-BUGET-Copy.pdf",
+     "sha256": "3a22848c6a4484422dd307b049d7f3158a73883d2a1b533573c5f3b65490ab8e"
     }
    ]
   }

@@ -3,6 +3,1671 @@
  "shard": "local/arad/ineu/2021",
  "acts": [
   {
+   "slug": "hcl-arad--ineu-1-2021",
+   "path": "local/arad/ineu/2021/1",
+   "short": "HCL Ineu nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 1/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.1-din-data-de-28.0.2021.pdf",
+     "sha256": "a57a747ba098cb89ade5641d91b06b86dc1ba1f1e222ce9e732459796fd6585f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-10-2021",
+   "path": "local/arad/ineu/2021/10",
+   "short": "HCL Ineu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 10/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.10-din-data-de-28.01.2021.pdf",
+     "sha256": "ae37755557be68514974ae8ed76e2351f6f4aff5a2358aa935ea99a1483ed039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-100-2021",
+   "path": "local/arad/ineu/2021/100",
+   "short": "HCL Ineu nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 100/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.100-din-data-de-29.07.2021.pdf",
+     "sha256": "38fe190aa842d3b17b82ec0813527a068a0cd1fba8434c562c3383361c12aaac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-101-2021",
+   "path": "local/arad/ineu/2021/101",
+   "short": "HCL Ineu nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 101/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.101-din-data-de-29.07.2021.pdf",
+     "sha256": "a0f541f6c17313d24df2d2fa9d73eb7f4a23e110c643b5400b764da66d555918"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-102-2021",
+   "path": "local/arad/ineu/2021/102",
+   "short": "HCL Ineu nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 102/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.102-din-data-de-29.07.2021.pdf",
+     "sha256": "2ac3ba36fd1bb7de38e2a261643c3c5aa058abec17000cb8545a7de5e8e17c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-103-2021",
+   "path": "local/arad/ineu/2021/103",
+   "short": "HCL Ineu nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 103/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.103-din-data-de-29.07.2021.pdf",
+     "sha256": "7518b87f33f33bed4664ec74dd9c3cbdbe41397600850cbe86aefa89afedaf8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-104-2021",
+   "path": "local/arad/ineu/2021/104",
+   "short": "HCL Ineu nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 104/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.104-din-data-de-29.07.2021.pdf",
+     "sha256": "9754dace9d4c6f6d83a22a5787349eb98618721293207169a13457874763b74f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-105-2021",
+   "path": "local/arad/ineu/2021/105",
+   "short": "HCL Ineu nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 105/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.105-din-data-de-29.07.2021.pdf",
+     "sha256": "81b03c2ee445e71f6603ade8fd7432893831d1a05da2e176b823517801ca7a53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-106-2021",
+   "path": "local/arad/ineu/2021/106",
+   "short": "HCL Ineu nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 106/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararrea-nr.106-din-data-de-29.07.2021.pdf",
+     "sha256": "19e794101ea1d81e56eceae215cdc3ba0a3f182eee8135292b299072f118d73b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-107-2021",
+   "path": "local/arad/ineu/2021/107",
+   "short": "HCL Ineu nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 107/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-din-29-07-2021-nr-100-107-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.107-din-data-de-29.07.2021.pdf",
+     "sha256": "91ade8f078b4afde047023c3f8fd0b7eca940a74fe6193664ab2dbccbcd9e1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-108-2021",
+   "path": "local/arad/ineu/2021/108",
+   "short": "HCL Ineu nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 108/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.108-din-data-de-11.08.2021.pdf",
+     "sha256": "64cf00d185f08623f5407aee0a2dc55ce237f52e068c675ab403e3fb2342008a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-109-2021",
+   "path": "local/arad/ineu/2021/109",
+   "short": "HCL Ineu nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 109/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.109-din-data-de-11.08.2021.pdf",
+     "sha256": "f61e1774aaebb42951c6ffbbd6a459c666dd066eef22e973717cff22837732ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-11-2021",
+   "path": "local/arad/ineu/2021/11",
+   "short": "HCL Ineu nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 11/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.11-din-data-de-28.01.2021.pdf",
+     "sha256": "68886e822356392da80b97852a7df7857a4eb2109db6a6e5d19764c2ee9e25a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-110-2021",
+   "path": "local/arad/ineu/2021/110",
+   "short": "HCL Ineu nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 110/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.110-din-data-de-11.08.2021.pdf",
+     "sha256": "749b9a8ab979e8853cab1d712e1a1c45a1e6cded4a037ca1e990d75aef114512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-111-2021",
+   "path": "local/arad/ineu/2021/111",
+   "short": "HCL Ineu nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 111/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.111-din-data-de-11.08.2021.pdf",
+     "sha256": "b6b843d4084f54fdf5db0139a91637076d44105b5cc0271925c67c1dde1373d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-112-2021",
+   "path": "local/arad/ineu/2021/112",
+   "short": "HCL Ineu nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 112/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.112-din-data-de-11.08.2021.pdf",
+     "sha256": "9dd32209e2df7e2fd7783ff2a5b7dc0dc109adf132e540b80109fb0561d50400"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-113-2021",
+   "path": "local/arad/ineu/2021/113",
+   "short": "HCL Ineu nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 113/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.113-din-data-de-11.08.2021.pdf",
+     "sha256": "53333b31647e8164d89d405424a0bc6510a3dfb2f9084cb7c0f3f1e87fb05f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-114-2021",
+   "path": "local/arad/ineu/2021/114",
+   "short": "HCL Ineu nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 114/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.114-din-data-de-11.08.2021.pdf",
+     "sha256": "7259edc4d307208b4c2456729417ed76744555d0bfa2df58556d7d0ffbe40925"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-115-2021",
+   "path": "local/arad/ineu/2021/115",
+   "short": "HCL Ineu nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 115/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.115-din-data-de-11.08.2021.pdf",
+     "sha256": "d5a37a580fec683cdecb433eec99cee3051b20cb3dcfccbbe1dd6782fe7e2ffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-116-2021",
+   "path": "local/arad/ineu/2021/116",
+   "short": "HCL Ineu nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 116/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-108-116-din-data-de-11-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.116-din-data-de-11.08.2021.pdf",
+     "sha256": "7c3fdf4e6f986fff97ebe95fa70292818b1998b36340749627b61e67d6a507ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-117-2021",
+   "path": "local/arad/ineu/2021/117",
+   "short": "HCL Ineu nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 117/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.117-din-data-de-25.08.2021.pdf",
+     "sha256": "248b2b82a01eef775a704d8f6c24ad73feb99fd39b8d79ff0ed443ff87164a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-118-2021",
+   "path": "local/arad/ineu/2021/118",
+   "short": "HCL Ineu nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 118/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.118-din-data-de-25.08.2021.pdf",
+     "sha256": "8a8d967c2a79759da4694df5d3ff87b6568fb6d808ce80a3a9935d557be1b3df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-119-2021",
+   "path": "local/arad/ineu/2021/119",
+   "short": "HCL Ineu nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 119/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.119-din-data-de-25.08.2021.pdf",
+     "sha256": "c33d763416639da6b45dc46400ec74b86b7a677e881c4f737ddbc317f91805aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-12-2021",
+   "path": "local/arad/ineu/2021/12",
+   "short": "HCL Ineu nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 12/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/HOTARAREA-NR.12-DIN-DATA-DE-28.01.2021.pdf",
+     "sha256": "027728d27f7bda3ca9562b7f630c74486ac07867123c3b78b3884749ab22bd02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-120-2021",
+   "path": "local/arad/ineu/2021/120",
+   "short": "HCL Ineu nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 120/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.120-din-data-de-25.08.2021.pdf",
+     "sha256": "e52597da23a89c7d08443c7493e6dae8af6a89dbdfb6ac76d9df2dd26c45280e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-121-2021",
+   "path": "local/arad/ineu/2021/121",
+   "short": "HCL Ineu nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 121/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.121-din-data-de-25.08.2021.pdf",
+     "sha256": "6e6931530c8070417d0d709e4811670c443486728ed3372a97e9d3cd13ae8185"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-122-2021",
+   "path": "local/arad/ineu/2021/122",
+   "short": "HCL Ineu nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 122/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.122-din-data-de-25.08.2021.pdf",
+     "sha256": "395f986073293b856590133b6507508aafc2654c60b578eb27624940bac56260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-123-2021",
+   "path": "local/arad/ineu/2021/123",
+   "short": "HCL Ineu nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 123/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.123-din-data-de-25.08.2021.pdf",
+     "sha256": "f98765de23eec3f21ea9886f0334986312280d39d7c776abf9f77484b91eca62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-124-2021",
+   "path": "local/arad/ineu/2021/124",
+   "short": "HCL Ineu nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 124/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.124-din-data-de-25.08.2021.pdf",
+     "sha256": "0aa6852ec6218ff728fcbab4c8bd6319f593ba6ef393c592c3c69d4815a464de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-125-2021",
+   "path": "local/arad/ineu/2021/125",
+   "short": "HCL Ineu nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 125/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.125-din-data-de-25.08.2021.pdf",
+     "sha256": "c180fde2ee82c4451aeeec1408c25d9fd46e2a8ca8960614510ac830e9bb14fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-126-2021",
+   "path": "local/arad/ineu/2021/126",
+   "short": "HCL Ineu nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 126/2021",
+   "url": "https://primariaineu.ro/hotararea-nr-126-din-data-de-25-08-2021-privind-acordarea-pentru-anul-scolar-2021-2022-a-pachetului-cu-rechizite-scolare-primul-ghiozdan/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/hotararea-nr.126-din-data-de-25.08.2021-privind-acordarea-pt.anul-scolar-2021-2022-a-pachetului-cu-rechizite-scolare-Primul-ghiozdan.pdf",
+     "sha256": "fe22e34aaf4882528d7cf5f3dd361804161dfc17b0af069d22583a8603ac0be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-127-2021",
+   "path": "local/arad/ineu/2021/127",
+   "short": "HCL Ineu nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 127/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-117-127-din-data-de-25-08-2021/",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/08/Hotararea-nr.127-din-data-de-25.08.2021.pdf",
+     "sha256": "bef4d3ed38c08fb82530be8d0bd5bbc9484d8aeac70302ee5b7215b12c748932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-128-2021",
+   "path": "local/arad/ineu/2021/128",
+   "short": "HCL Ineu nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 128/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.128-din-data-de-23.09.2021.pdf",
+     "sha256": "8a285822b143b611f823278903c271aef590a751d23360080fa1fc9a5f2bbe11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-129-2021",
+   "path": "local/arad/ineu/2021/129",
+   "short": "HCL Ineu nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 129/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.129-din-data-de-23.09.2021.pdf",
+     "sha256": "0c1537236ad15753c00e56754d24a26fa8403957b7e99d203382b0d99541dc1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-13-2021",
+   "path": "local/arad/ineu/2021/13",
+   "short": "HCL Ineu nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 13/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/HOTARAREA-NR.13-DIN-DATA-DE-28.01.2021.pdf",
+     "sha256": "6d2a06492f44fd0e5deda054f2cc671e70c0c54bd7fc5ab1c4c2de863bcb189a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-130-2021",
+   "path": "local/arad/ineu/2021/130",
+   "short": "HCL Ineu nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 130/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.130-din-data-de-23.09.2021.pdf",
+     "sha256": "532a9a05e04137f88419656ee01b8208cb9d3cc05e47e2311f0e3c47ee3c8471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-131-2021",
+   "path": "local/arad/ineu/2021/131",
+   "short": "HCL Ineu nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 131/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.131-din-data-de-23.09.2021.pdf",
+     "sha256": "f615f8be709d69c73d1f22a99d0e0a0ebcd4cb5c83430c797855f395218de92e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-132-2021",
+   "path": "local/arad/ineu/2021/132",
+   "short": "HCL Ineu nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 132/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.132-din-data-de-23.09.2021.pdf",
+     "sha256": "322667764d596ea3399438f1fffb7f8a80e5f6f4758121ba6edc9885801efe0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-133-2021",
+   "path": "local/arad/ineu/2021/133",
+   "short": "HCL Ineu nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 133/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.133-din-data-de-23.09.2021.pdf",
+     "sha256": "2bcbe4a771cf4706e380b1c3647efa43f56450fd8bdcbdf3d95486860272cc84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-134-2021",
+   "path": "local/arad/ineu/2021/134",
+   "short": "HCL Ineu nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 134/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.134-din-data-de-23.09.2021.pdf",
+     "sha256": "9220e7fb6a69f1c1e14aa1d6d7c29ca7123df93e642d8c5bd0690aea719f6824"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-135-2021",
+   "path": "local/arad/ineu/2021/135",
+   "short": "HCL Ineu nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 135/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.135-din-data-de-23.09.2021.pdf",
+     "sha256": "d148864303aee2f92c051529b30dd78436a8013d59bea14a8ca6c6f9b09021f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-136-2021",
+   "path": "local/arad/ineu/2021/136",
+   "short": "HCL Ineu nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 136/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.136-din-data-de-23.09.2021.pdf",
+     "sha256": "40d6591cd344dd12979f3ab54342a3843f40d62a1fc9234cebff590e2b3b96b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-137-2021",
+   "path": "local/arad/ineu/2021/137",
+   "short": "HCL Ineu nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 137/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.137-din-data-de-23.09.2021.pdf",
+     "sha256": "3e8fac1015c840108e8125c442b6e6aa133d73f8de317c5448955c81f5be3b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-138-2021",
+   "path": "local/arad/ineu/2021/138",
+   "short": "HCL Ineu nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 138/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.138-din-data-de-23.09.2021.pdf",
+     "sha256": "66f10a0f4b98b691cdc9469be8e34f0643f174fff17353fd5508e45191b3b1e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-139-2021",
+   "path": "local/arad/ineu/2021/139",
+   "short": "HCL Ineu nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 139/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.139-din-data-de-23.09.2021.pdf",
+     "sha256": "790e9668fd1141721497650e525d80cdec6e65d29975bd6c0b6baa2170552a93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-14-2021",
+   "path": "local/arad/ineu/2021/14",
+   "short": "HCL Ineu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 14/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.14-din-data-de-28.01.2021.pdf",
+     "sha256": "5ce8765ea516b48d4251d5708d38bc03d67c447935c0fdaf193c809e2dc938ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-140-2021",
+   "path": "local/arad/ineu/2021/140",
+   "short": "HCL Ineu nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 140/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.140-din-data-de-23.09.2021.pdf",
+     "sha256": "3cfc268d19fe29b19f73bdd786687f8d7da2c840634ab3a42e50a925dfc7124e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-141-2021",
+   "path": "local/arad/ineu/2021/141",
+   "short": "HCL Ineu nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 141/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.141-din-data-de-23.09.2021.pdf",
+     "sha256": "57635c421453e4723a2c5b7fe9c87f72f04d5668b818445d87bdb2525884b846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-142-2021",
+   "path": "local/arad/ineu/2021/142",
+   "short": "HCL Ineu nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 142/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.142-din-data-de-23.09.2021.pdf",
+     "sha256": "07f260497e8ab0cc7aaced7926676b0e2ff20f176f73e4a12cc3269755be7bb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-143-2021",
+   "path": "local/arad/ineu/2021/143",
+   "short": "HCL Ineu nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 143/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.143-din-data-de-23.09.2021.pdf",
+     "sha256": "f4510a5ed93e8335a8d032fd44b69972a99fa87819a691649e0f8714796c596e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-144-2021",
+   "path": "local/arad/ineu/2021/144",
+   "short": "HCL Ineu nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 144/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-128-144-23-09-2021/",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/09/hotararea-nr.144-din-data-de-23.09.2021.pdf",
+     "sha256": "17d1c2f9767498ee88e61b30b5b23a59171106dc1529a1180c4a63482e36f38b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-145-2021",
+   "path": "local/arad/ineu/2021/145",
+   "short": "HCL Ineu nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 145/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-145-150-din-data-de-07-10-2021-din-sedinta-extraordinara/",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.145-din-data-de-07.10.2021.pdf",
+     "sha256": "3b604174127faf95f4824f7d07258ca091085c1d1f186bdf240c50f4e9c5fdef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-146-2021",
+   "path": "local/arad/ineu/2021/146",
+   "short": "HCL Ineu nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 146/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-145-150-din-data-de-07-10-2021-din-sedinta-extraordinara/",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.146-din-data-de-07.10.2021.pdf",
+     "sha256": "19c9cd4f2c41147109147e6d42f18b460c13213ce6a3dce1c845304afc57a8a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-147-2021",
+   "path": "local/arad/ineu/2021/147",
+   "short": "HCL Ineu nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 147/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-145-150-din-data-de-07-10-2021-din-sedinta-extraordinara/",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.147-din-data-de-07.10.2021.pdf",
+     "sha256": "413085e62f435a380fa0962d7254bfab40a63d3c5a7fd64d385441030915cbc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-148-2021",
+   "path": "local/arad/ineu/2021/148",
+   "short": "HCL Ineu nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 148/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-145-150-din-data-de-07-10-2021-din-sedinta-extraordinara/",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.148-din-data-de-07.10.2021.pdf",
+     "sha256": "fede55de1c90767fb7e8d26de13b1a760c11fb81e4dd97fd06cef60dd2980eaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-149-2021",
+   "path": "local/arad/ineu/2021/149",
+   "short": "HCL Ineu nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 149/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-145-150-din-data-de-07-10-2021-din-sedinta-extraordinara/",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.149-din-data-de-07.10.2021.pdf",
+     "sha256": "740eb9494951c4ad004504ce12dc507f7e4f77be3abc53a9538459743c32346e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-15-2021",
+   "path": "local/arad/ineu/2021/15",
+   "short": "HCL Ineu nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 15/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.15-din-data-de-28.01.2021.pdf",
+     "sha256": "8df815fd5f433c7b9293b943d5c38c3795bd3300b969d923d197e371cceca3c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-150-2021",
+   "path": "local/arad/ineu/2021/150",
+   "short": "HCL Ineu nr. 150/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 150/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-145-150-din-data-de-07-10-2021-din-sedinta-extraordinara/",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.150-din-data-de-07.10.2021.pdf",
+     "sha256": "6d3483ab6a4968cd398ccdd4e767230c0f53dace51b6bc9b1ca83580f7849742"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-151-2021",
+   "path": "local/arad/ineu/2021/151",
+   "short": "HCL Ineu nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 151/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.151-din-data-de-20.10.2021.pdf",
+     "sha256": "0cb0d2187a575834c01294b9596347018d9738a8299e9e64ffc5ffb39d30bfde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-152-2021",
+   "path": "local/arad/ineu/2021/152",
+   "short": "HCL Ineu nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 152/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.152-din-data-de-20.10.2021.pdf",
+     "sha256": "9419f37471e881d723275b7edc9d9fbd6942b3e28735c3d89c509f402a287ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-153-2021",
+   "path": "local/arad/ineu/2021/153",
+   "short": "HCL Ineu nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 153/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.153-din-data-de-20.10.2021.pdf",
+     "sha256": "26220d82716108702d3b1936fab860894941fd306a10fb3847bcbe123f6e0ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-154-2021",
+   "path": "local/arad/ineu/2021/154",
+   "short": "HCL Ineu nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 154/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.154-din-data-de-20.10.2021.pdf",
+     "sha256": "b1e2f9f9b78256a6ffb7d5f74b944642558c61b61634c0000082e1b5b6c9cc80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-155-2021",
+   "path": "local/arad/ineu/2021/155",
+   "short": "HCL Ineu nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 155/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.155-din-data-20.10.2021.pdf",
+     "sha256": "8f77b1fe4904567931e614479283a1e62d433cd66c2006f11f6c6be1ee50d268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-156-2021",
+   "path": "local/arad/ineu/2021/156",
+   "short": "HCL Ineu nr. 156/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 156/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.156-din-data-de-20.10.2021.pdf",
+     "sha256": "7ce3d663ae9b1185d13aa35b9e9a42cc04ff5dbc327f7d2f00f0cb57069b4721"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-157-2021",
+   "path": "local/arad/ineu/2021/157",
+   "short": "HCL Ineu nr. 157/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 157/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.157-din-data-de-20.10.2021.pdf",
+     "sha256": "4d528d2ba5ecdc3f584cc295dd2b00c7a6d72a8c4a06601b79268e2f14551a11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-158-2021",
+   "path": "local/arad/ineu/2021/158",
+   "short": "HCL Ineu nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 158/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.158-din-data-de-20.10.2021.pdf",
+     "sha256": "0eff6285105782e4931179fed5cff683075497d3c8aeecb1ad38778d88b4030b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-159-2021",
+   "path": "local/arad/ineu/2021/159",
+   "short": "HCL Ineu nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 159/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.159-din-data-de-20.10.2021.pdf",
+     "sha256": "f1deb4ad639fce8de94cd6cf558db532a44d1796235b53d8b6a31d2d19fa389b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-16-2021",
+   "path": "local/arad/ineu/2021/16",
+   "short": "HCL Ineu nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 16/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.16-din-data-de-28.01.2021.pdf",
+     "sha256": "73862d22939f6e2c86f7a73be9ee80e6689c5b8cc2564c90405e7411a04bfdb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-160-2021",
+   "path": "local/arad/ineu/2021/160",
+   "short": "HCL Ineu nr. 160/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 160/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.160-din-data-de-20.10.2021.pdf",
+     "sha256": "f64cfe74ad0cb4f029f7c150a2a227e8db9334fb8653e7a9f51b6d1d24eb11d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-161-2021",
+   "path": "local/arad/ineu/2021/161",
+   "short": "HCL Ineu nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 161/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.161-din-data-de-20.10.2021.pdf",
+     "sha256": "9e0a7c77a8488148bae1baf5feea5ed10c410056e94514c017456af5964977ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-162-2021",
+   "path": "local/arad/ineu/2021/162",
+   "short": "HCL Ineu nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 162/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.162-din-data-de-20.10.2021.pdf",
+     "sha256": "a4e129c81d26337e061a7b3ba6ede52b50d58db4624184f90f64e64d44e8d103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-163-2021",
+   "path": "local/arad/ineu/2021/163",
+   "short": "HCL Ineu nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 163/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.163-din-data-de-20.10.2021.pdf",
+     "sha256": "b8090cbd940ae35bcb33a89e41b53a8eb5f51da47bbdc874c98e9eaae3ac954d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-164-2021",
+   "path": "local/arad/ineu/2021/164",
+   "short": "HCL Ineu nr. 164/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 164/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.164-din-data-de-20.10.2021.pdf",
+     "sha256": "56a9c0929b374368d3080f0166cf42f308f1b6d7adb926e9912f5f2b9bf28efe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-165-2021",
+   "path": "local/arad/ineu/2021/165",
+   "short": "HCL Ineu nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 165/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.165-din-data-de-20.10.2021.pdf",
+     "sha256": "27e5c700941811eb141073d88eee112339b3cf8f3910561cd114dc6b9eee008a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-166-2021",
+   "path": "local/arad/ineu/2021/166",
+   "short": "HCL Ineu nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 166/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.166-din-data-de-20.10.2021.pdf",
+     "sha256": "75497a2effa8a1bd58603fbbf257cf130a20ff30da1ddcd82b1b62a3cd2878aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-167-2021",
+   "path": "local/arad/ineu/2021/167",
+   "short": "HCL Ineu nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 167/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.167-din-data-de-20.10.2021.pdf",
+     "sha256": "d6ddf7261f3ecccea400ba3aaa14ee54ffa29dec7306545d59eb124664efa07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-168-2021",
+   "path": "local/arad/ineu/2021/168",
+   "short": "HCL Ineu nr. 168/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 168/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.168-din-data-de-20.10.2021.pdf",
+     "sha256": "4c6ebb80c84ab6e7d87de43b17b8c8e00988c1301938f0106c695d35c5364b75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-169-2021",
+   "path": "local/arad/ineu/2021/169",
+   "short": "HCL Ineu nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 169/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.169-din-data-de-20.10.2021.pdf",
+     "sha256": "feccc951422985fb0d3e4055899f9857ca462ee330a92b55b3dbe1634e1bf688"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-17-2021",
+   "path": "local/arad/ineu/2021/17",
+   "short": "HCL Ineu nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 17/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.17-din-data-de-28.01.2021.pdf",
+     "sha256": "be90e28c6dea95ccfb78d252808f8129c65fcd8208e25c2d1991bf69c5a1b32a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-170-2021",
+   "path": "local/arad/ineu/2021/170",
+   "short": "HCL Ineu nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 170/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-151-170-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/10/hotararea-nr.170-din-data-de-20.10.2021.pdf",
+     "sha256": "04e3ad00aab3b400c90469f117d90b4d7958651b2a65e9be6d26555668865898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-171-2021",
+   "path": "local/arad/ineu/2021/171",
+   "short": "HCL Ineu nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 171/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.171-din-data-de-28.10.2021.pdf",
+     "sha256": "c945c15fa85423b50ed975bb837cf5ddbbdb02b74d3b80a1eda51afb4860d120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-172-2021",
+   "path": "local/arad/ineu/2021/172",
+   "short": "HCL Ineu nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 172/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.172-din-data-de-28.10.2021.pdf",
+     "sha256": "c9c46cc725a00a28005ebc5a244faf730132e7faa73e24fed33edc214440aafb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-173-2021",
+   "path": "local/arad/ineu/2021/173",
+   "short": "HCL Ineu nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 173/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.173-din-data-de-28.10.2021.pdf",
+     "sha256": "f8da60f721149907e77cbc920ae88f193996a16b02a355e7ef338d7a618ede4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-174-2021",
+   "path": "local/arad/ineu/2021/174",
+   "short": "HCL Ineu nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 174/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.174-din-data-de-28.10.2021.pdf",
+     "sha256": "d45dfe75533371605ba6a0761475444ec75e92b855036a2cfe184f87b09e3de0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-175-2021",
+   "path": "local/arad/ineu/2021/175",
+   "short": "HCL Ineu nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 175/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.175-din-data-de-28.10.2021.pdf",
+     "sha256": "4f5ca715eea5a5e06a28252cc2f8e07e8d660bedacae9c54030e3d4d82b422a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-176-2021",
+   "path": "local/arad/ineu/2021/176",
+   "short": "HCL Ineu nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 176/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.176-din-data-de-28.10.2021.pdf",
+     "sha256": "24735774a80cd7beed0e2a27805c086c0318055c66635d8783e57c6a9592a643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-177-2021",
+   "path": "local/arad/ineu/2021/177",
+   "short": "HCL Ineu nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 177/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-171-177-28-10-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.177-din-data-de-28.10.2021.pdf",
+     "sha256": "da27c1f2981a81ca4e38f1a73745870dec55386f0f663758d81b4bb0b55afb5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-178-2021",
+   "path": "local/arad/ineu/2021/178",
+   "short": "HCL Ineu nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 178/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.178-din-data-de-09.11.2021.pdf",
+     "sha256": "e7089a12836e423e386dbe62c8abcfe2b604d4aae7e79177876c3c2200f10459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-179-2021",
+   "path": "local/arad/ineu/2021/179",
+   "short": "HCL Ineu nr. 179/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 179/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.179-din-data-de-09.11.2021.pdf",
+     "sha256": "e89846af6a5c0e5ff9ed6d18d4494e405db0027dd2d152321ed88caaf87ab6cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-18-2021",
+   "path": "local/arad/ineu/2021/18",
+   "short": "HCL Ineu nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 18/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.18-din-data-de-28.01.2021.pdf",
+     "sha256": "16c144c8d8bfb909cb9baaf6b1b8cb08f800ea4e5f94fc5f7b71e45fa0b47af3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-180-2021",
+   "path": "local/arad/ineu/2021/180",
+   "short": "HCL Ineu nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 180/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.180-din-data-de-09.11.2021.pdf",
+     "sha256": "22b2ee75a8be3634097abb1e3ff66621ad17e93d655ddac48f70d5e22d7ec619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-181-2021",
+   "path": "local/arad/ineu/2021/181",
+   "short": "HCL Ineu nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 181/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.181-din-data-de-09.11.2021-taxe-si-impozite-2022.pdf",
+     "sha256": "a9e57aaa4e6b6af986e10c97c146f6a233d8adae0ee6d1d25cd8e1924e5491d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-182-2021",
+   "path": "local/arad/ineu/2021/182",
+   "short": "HCL Ineu nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 182/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.182-din-data-de-09.11.2021.pdf",
+     "sha256": "632f8aca4fa8cc3bae346acb85630c369d1a653158eae1eb16bd368fb08a5d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-183-2021",
+   "path": "local/arad/ineu/2021/183",
+   "short": "HCL Ineu nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 183/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.183-din-data-de-09.11.2021.pdf",
+     "sha256": "1f372ffa3fcaa19b9f3fafc7d273c33d05de09a02a48b56a85c8f262da2e54fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-184-2021",
+   "path": "local/arad/ineu/2021/184",
+   "short": "HCL Ineu nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 184/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.184-din-data-de-09.11.2021.pdf",
+     "sha256": "937a2859628c9f012b7334a6663fe66dc3b16724ff3b1641d824f52672178e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-185-2021",
+   "path": "local/arad/ineu/2021/185",
+   "short": "HCL Ineu nr. 185/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 185/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.185-din-data-de-09.11.2021.pdf",
+     "sha256": "4f02737bd13b3c2cbdaa05086213378dd3a12055550d553f5b11c70fb8ef8489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-186-2021",
+   "path": "local/arad/ineu/2021/186",
+   "short": "HCL Ineu nr. 186/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 186/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-de-la-nr-178-186-09-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.186-din-data-de-09.11.2021.pdf",
+     "sha256": "a83ef8f1e85f11a0793a699fc7da75d1b411237d94cc58f1617be23ea403ed74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-187-2021",
+   "path": "local/arad/ineu/2021/187",
+   "short": "HCL Ineu nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 187/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.187-din-data-de-17.11.2021.pdf",
+     "sha256": "5c64cdf727dec109f3929e6589ba65df17ad84998df1e68787106a71509e9e8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-188-2021",
+   "path": "local/arad/ineu/2021/188",
+   "short": "HCL Ineu nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 188/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.188-din-data-de-17.11.2021.pdf",
+     "sha256": "bfba6d272eea9292bd9ff6f40e385ab5e0ec339bb925f6909a768807791a0103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-189-2021",
+   "path": "local/arad/ineu/2021/189",
+   "short": "HCL Ineu nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 189/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.189-din-data-de-17.11.2021.pdf",
+     "sha256": "54832495619b760ca8e457703344868e091ae649c7c4a97ca2f583fc4d9ef862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-19-2021",
+   "path": "local/arad/ineu/2021/19",
+   "short": "HCL Ineu nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 19/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.19-din-data-de-28.01.2021.pdf",
+     "sha256": "176eb3cf8937db8282f852b32f37c7ee18adcaef865a49387dee98c540decd5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-190-2021",
+   "path": "local/arad/ineu/2021/190",
+   "short": "HCL Ineu nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 190/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.190-din-data-de-17.11.2021.pdf",
+     "sha256": "28177d2ccd861f6b830f0c1c6785f2f52b3b4a5cecfe9796dfd8d7796ab9c7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-191-2021",
+   "path": "local/arad/ineu/2021/191",
+   "short": "HCL Ineu nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 191/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.191-din-data-de-17.11.2021.pdf",
+     "sha256": "c1f17b8601d5e8f6c7fba8e8f6357f0bd3560cc6f96c5bd6eef11e553e2d239c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-192-2021",
+   "path": "local/arad/ineu/2021/192",
+   "short": "HCL Ineu nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 192/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.192-din-data-de-17.11.2021.pdf",
+     "sha256": "aed4218418c90ca8b13d1830d227be5f30c7e92fb1c6ffa7651bc22dc28b60a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-193-2021",
+   "path": "local/arad/ineu/2021/193",
+   "short": "HCL Ineu nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 193/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.193-din-data-de-17.11.2021.pdf",
+     "sha256": "913e41552426193bb7372657773b69d3ca1bd154a60ac9de79ef60898778d102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-194-2021",
+   "path": "local/arad/ineu/2021/194",
+   "short": "HCL Ineu nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 194/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.194-din-data-de-17.11.2021.pdf",
+     "sha256": "edcf72c19120cc3edbb4c04e875aa77fd78d43b07916acc067bd104fa544e3ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-195-2021",
+   "path": "local/arad/ineu/2021/195",
+   "short": "HCL Ineu nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 195/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.195-din-data-de-17.11.2021.pdf",
+     "sha256": "b6fc32cd596fefbb0529ac6f8920e4a42c43695f4a1a2f25768fbe5a4b3b628a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-196-2021",
+   "path": "local/arad/ineu/2021/196",
+   "short": "HCL Ineu nr. 196/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 196/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-196-din-data-de-17.11.2021.pdf",
+     "sha256": "d31f376563a675f9a70886edb2a65c88f0e9cacb735a290d9edd4bfdc1fccb3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-197-2021",
+   "path": "local/arad/ineu/2021/197",
+   "short": "HCL Ineu nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 197/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.197-din-data-de-17.11.2021.pdf",
+     "sha256": "1d0ad93a8967e80377882c3ea42849a0c20520f7fdd473e085bad943379a2e05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-198-2021",
+   "path": "local/arad/ineu/2021/198",
+   "short": "HCL Ineu nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 198/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.198-din-data-de-17.11.2021.pdf",
+     "sha256": "0a41b091c7a644074c35431ab203ad4502d053f22c2144dc081a55d0812bd968"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-199-2021",
+   "path": "local/arad/ineu/2021/199",
+   "short": "HCL Ineu nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 199/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.199-din-data-de-17.11.2021.pdf",
+     "sha256": "bb4ab9e40ab7832c9a296383456848e868dbb79deca87fdda3c9a42e8aa1a514"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-2-2021",
    "path": "local/arad/ineu/2021/2",
    "short": "HCL Ineu nr. 2/2021",
@@ -14,6 +1679,1926 @@
      "units": 1,
      "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/Hotararea-nr.2-din-data-de-26.03.2021-a-C.L.S.U.-INEU.pdf",
      "sha256": "e610351bfe9d4347c2973abfe8c0d5cbd2d02010911d871bf6c2e1e654ec84d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-20-2021",
+   "path": "local/arad/ineu/2021/20",
+   "short": "HCL Ineu nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 20/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.20-din-data-de-28.01.2021.pdf",
+     "sha256": "9d1cde843896680c8ac139ba8d71d8de034707641d1ed25596e878c58bbb8540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-200-2021",
+   "path": "local/arad/ineu/2021/200",
+   "short": "HCL Ineu nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 200/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.200-din-data-de-17.11.2021.pdf",
+     "sha256": "0b4d2e46a5ef04a10e9db0a914473924515c16f5987e8400cf7e69f6010a92ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-201-2021",
+   "path": "local/arad/ineu/2021/201",
+   "short": "HCL Ineu nr. 201/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 201/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.201-din-data-de-17.11.2021.pdf",
+     "sha256": "0d876fa95e6b5f557ff57c4c8e2fd3f11aeeabccab6cf0df8831c9d9daf73216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-202-2021",
+   "path": "local/arad/ineu/2021/202",
+   "short": "HCL Ineu nr. 202/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 202/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-17-11-2021-de-la-nr-187-202/",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/11/hotararea-nr.202-din-data-de-17.11.2021.pdf",
+     "sha256": "860dbad7487bb9149a92c1f64cd5c443501f30d7862df573fa6641615f4f2e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-203-2021",
+   "path": "local/arad/ineu/2021/203",
+   "short": "HCL Ineu nr. 203/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 203/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-26-11-2021-nr-203-204/",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.203-din-data-de-26.11.2021.pdf",
+     "sha256": "5da0ddf4f510c50758ca423dd0d20ea9a32602c301e06429cec8eed836f41c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-204-2021",
+   "path": "local/arad/ineu/2021/204",
+   "short": "HCL Ineu nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 204/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-din-data-de-26-11-2021-nr-203-204/",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.204-din-data-de-26.11.2021.pdf",
+     "sha256": "f92c87a011adc53d986a154fa42429909a71fcef4e53431792cb2595a5e99281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-205-2021",
+   "path": "local/arad/ineu/2021/205",
+   "short": "HCL Ineu nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 205/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.205-din-data-de-10.12.2021.pdf",
+     "sha256": "04ea8de4774d0d6250375f02d9f948174367e639f38b6df34455aaa8010b5c04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-207-2021",
+   "path": "local/arad/ineu/2021/207",
+   "short": "HCL Ineu nr. 207/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 207/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.207-din-data-de-10.12.2021.pdf",
+     "sha256": "628764e152d20a1b179085e3a138d1d2f749f52190b2a8727fafda8baa58df62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-208-2021",
+   "path": "local/arad/ineu/2021/208",
+   "short": "HCL Ineu nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 208/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.208-din-data-de-10.12.2021.pdf",
+     "sha256": "fb56c9a3183e2de05bd5d8463b0658ff0b5b44b4dff045796cfa8a44ec234df9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-209-2021",
+   "path": "local/arad/ineu/2021/209",
+   "short": "HCL Ineu nr. 209/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 209/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.209-din-data-de-10.12.2021.pdf",
+     "sha256": "00d6bde6d1b348aee20ec2b0e3ac416e8877793e2f82ff6ea56241047377b114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-21-2021",
+   "path": "local/arad/ineu/2021/21",
+   "short": "HCL Ineu nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 21/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.21-din-data-de-28.01.2021.pdf",
+     "sha256": "98da33de68d0cbc11a8b1c8c4f2b98e41fe352cb4dd0d6df14ee25ebf0676a33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-210-2021",
+   "path": "local/arad/ineu/2021/210",
+   "short": "HCL Ineu nr. 210/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 210/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.210-din-data-de-10.12.2021.pdf",
+     "sha256": "51c1f9e00f66ae5ede6df64dc3de2b9d5f5d419a59bee95363b3166caebd624c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-211-2021",
+   "path": "local/arad/ineu/2021/211",
+   "short": "HCL Ineu nr. 211/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 211/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.211-din-data-de-10.12.2021.pdf",
+     "sha256": "c313fcd74e43deb3d65c3faee3553d44a7526e2f6533a2e2edb78eb0395bbe35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-212-2021",
+   "path": "local/arad/ineu/2021/212",
+   "short": "HCL Ineu nr. 212/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 212/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.212-din-data-de-10.12.2021.pdf",
+     "sha256": "c437183903f531c504f93597f0eec0c739270c20b599dec21975689344023034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-213-2021",
+   "path": "local/arad/ineu/2021/213",
+   "short": "HCL Ineu nr. 213/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 213/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.213-din-data-de-10.12.2021.pdf",
+     "sha256": "2941418d7900f6d0761ee422a240a435f0c0b77c220774f137734c23c8eb9f31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-214-2021",
+   "path": "local/arad/ineu/2021/214",
+   "short": "HCL Ineu nr. 214/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 214/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-205-214-10-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.214-din-data-de-10.12.2021.pdf",
+     "sha256": "ea8b288e33eb94f0e5e05e33724f9051f152e0861198817bce740f6a3a481cc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-215-2021",
+   "path": "local/arad/ineu/2021/215",
+   "short": "HCL Ineu nr. 215/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 215/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-215-216-14-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.215-din-data-de-14.12.2021.pdf",
+     "sha256": "0b7fac1f6076bb741213c6a301ad8eeab39a1f673b42ba304676fb1aab3e497c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-216-2021",
+   "path": "local/arad/ineu/2021/216",
+   "short": "HCL Ineu nr. 216/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 216/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-215-216-14-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.216-din-data-de-14.12.2021.pdf",
+     "sha256": "cb0f0142adbe607c736f878a44af292d86d20046115b3cbeef3603ccb9e449b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-217-2021",
+   "path": "local/arad/ineu/2021/217",
+   "short": "HCL Ineu nr. 217/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 217/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-217-219-17-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.217-din-data-de-17.12.2021.pdf",
+     "sha256": "0a4c76502eaaed13ffe184a3ef1955c1de3353a132fd69c93da185b81ac18235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-218-2021",
+   "path": "local/arad/ineu/2021/218",
+   "short": "HCL Ineu nr. 218/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 218/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-217-219-17-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.218-din-data-de-17.12.2021.pdf",
+     "sha256": "7923928e002989dd5bbc829a4ee65632619ad7e629bdbddd681115f2b2f4bc76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-219-2021",
+   "path": "local/arad/ineu/2021/219",
+   "short": "HCL Ineu nr. 219/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 219/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-217-219-17-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.219-din-data-de-17.12.2021.pdf",
+     "sha256": "b2520cc3e312a15d1f02443e4598d6f94c389bd696152807289682d83ea97b91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-22-2021",
+   "path": "local/arad/ineu/2021/22",
+   "short": "HCL Ineu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 22/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.22-din-data-de-25.02.2021.pdf",
+     "sha256": "1035d454e0e7247b07d5d1786c02e4e9b89ed5ed62f05529414564d296853b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-220-2021",
+   "path": "local/arad/ineu/2021/220",
+   "short": "HCL Ineu nr. 220/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 220/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.220-din-data-de-21.12.2021.pdf",
+     "sha256": "206fb952fa220467349a9028b6e6fe76fae8281e586adffcf59d0624cad79b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-221-2021",
+   "path": "local/arad/ineu/2021/221",
+   "short": "HCL Ineu nr. 221/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 221/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.221-din-data-de-21.12.2021.pdf",
+     "sha256": "4929160e22ad825ad836543c276377fdb425ba157936c3059e267e741ed89915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-222-2021",
+   "path": "local/arad/ineu/2021/222",
+   "short": "HCL Ineu nr. 222/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 222/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.222-din-data-de-21.12.2021.pdf",
+     "sha256": "345f153187c84f4b14c91bcdeaf772c20c0cdec51d0deeb09ebe6356abd9cdca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-223-2021",
+   "path": "local/arad/ineu/2021/223",
+   "short": "HCL Ineu nr. 223/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 223/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.223-din-data-de-21.12.2021.pdf",
+     "sha256": "1d22efcbf9675356f93def871547ac22687b3570fe1df0a1a1158a1437a66262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-224-2021",
+   "path": "local/arad/ineu/2021/224",
+   "short": "HCL Ineu nr. 224/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 224/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.224-din-data-de-21.12.2021.pdf",
+     "sha256": "6918acf4db1f0909cf2882ed9035ba8e90daa897ca28c6c3e878664b33b88daf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-225-2021",
+   "path": "local/arad/ineu/2021/225",
+   "short": "HCL Ineu nr. 225/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 225/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.225-din-data-de-21.12.2021.pdf",
+     "sha256": "5f99c92252831f5bc808706ad948429c6521f26e7486b72e42e39205e48ebfcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-226-2021",
+   "path": "local/arad/ineu/2021/226",
+   "short": "HCL Ineu nr. 226/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 226/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.226-din-data-de-21.12.2021.pdf",
+     "sha256": "42e9fef510f1bd0a3161e91ea1918fdb87395f4931da518a5cfd30f86dff2f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-227-2021",
+   "path": "local/arad/ineu/2021/227",
+   "short": "HCL Ineu nr. 227/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 227/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.227-din-data-de-21.12.2021.pdf",
+     "sha256": "3422d9f59ab62570eea71ea49ab8be9672d8c18b8459d909280f71ac102f1844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-228-2021",
+   "path": "local/arad/ineu/2021/228",
+   "short": "HCL Ineu nr. 228/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 228/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.228-din-data-de-21.12.2021.pdf",
+     "sha256": "1bb8babd68e36a88ad9377a63ed6b5c25f4cb92956cf0dbc2df0cff6de2cb779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-229-2021",
+   "path": "local/arad/ineu/2021/229",
+   "short": "HCL Ineu nr. 229/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 229/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.229-din-data-de-21.12.2021.pdf",
+     "sha256": "e3440f5c015684263c813a44aee76e51b5b9ce198c95fa375025dbd5260b9d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-23-2021",
+   "path": "local/arad/ineu/2021/23",
+   "short": "HCL Ineu nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 23/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.23-din-data-de-25.02.2021.pdf",
+     "sha256": "b6fb59b213067d52ff407ab5d0ceee47afe0cf0fea1b7a34cd5068333d53bdf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-230-2021",
+   "path": "local/arad/ineu/2021/230",
+   "short": "HCL Ineu nr. 230/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 230/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.230-din-data-de-21.12.2021.pdf",
+     "sha256": "94e897f881262069675a18d1229d17f641cfc3ad6241a0ecaabcff39fd2d8f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-231-2021",
+   "path": "local/arad/ineu/2021/231",
+   "short": "HCL Ineu nr. 231/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 231/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.231-din-data-de-21.12.2021.pdf",
+     "sha256": "f18fe027e1265a4d123543884fa32b4ad37832ffa1cfb89e94af2aa5df6f349c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-232-2021",
+   "path": "local/arad/ineu/2021/232",
+   "short": "HCL Ineu nr. 232/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 232/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.232-din-data-de-21.12.2021.pdf",
+     "sha256": "e55be9e55c70421531a02be2b893467a9c77cd6269d603ad014ecef3f2c24d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-233-2021",
+   "path": "local/arad/ineu/2021/233",
+   "short": "HCL Ineu nr. 233/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 233/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.233-din-data-de-21.12.2021.pdf",
+     "sha256": "56428a6091d8b504f911ff61e229b09e7b3db2a1885bc279d8d9aa8cee2d6a30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-234-2021",
+   "path": "local/arad/ineu/2021/234",
+   "short": "HCL Ineu nr. 234/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 234/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.234-din-data-de-21.12.2021.pdf",
+     "sha256": "e48fd0ff0127d1ec29512c9aba81ed1f30a37184d5f9a4973400c4ab8372689f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-235-2021",
+   "path": "local/arad/ineu/2021/235",
+   "short": "HCL Ineu nr. 235/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 235/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.235-din-data-de-21.12.2021.pdf",
+     "sha256": "71b40b7c3867021562a9e79831ef77cd94bf98c37209ce0ac5696e905efb47df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-236-2021",
+   "path": "local/arad/ineu/2021/236",
+   "short": "HCL Ineu nr. 236/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 236/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.236-din-data-de-21.12.2021.pdf",
+     "sha256": "acc03a85a4967f9c890b85f1982c23297c091f253e49d7513d15ce0a159c0264"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-237-2021",
+   "path": "local/arad/ineu/2021/237",
+   "short": "HCL Ineu nr. 237/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 237/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-ordinara-nr-220-237-21-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/12/hotararea-nr.237-din-data-de-21.12.2021.pdf",
+     "sha256": "725b2ff64eedb873ec9d7ada1bcb21bd2c66733c99548ee4113fd0808700bfb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-238-2021",
+   "path": "local/arad/ineu/2021/238",
+   "short": "HCL Ineu nr. 238/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 238/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-238-241-27-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2022/01/hotararea-nr.238-din-data-de-27.12.2021.pdf",
+     "sha256": "364a1cb9aafdba53cb4b8298e0d713996d1d2e6d37b50b1afa14800ae74b2d8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-239-2021",
+   "path": "local/arad/ineu/2021/239",
+   "short": "HCL Ineu nr. 239/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 239/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-238-241-27-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2022/01/hotararea-nr.239-din-data-de-27.12.2021.pdf",
+     "sha256": "85dd5c846b56783961bbd40f160dbb7550d30667928ce3a55b9203741dc74676"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-24-2021",
+   "path": "local/arad/ineu/2021/24",
+   "short": "HCL Ineu nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 24/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.24-din-data-de-25.02.2021.pdf",
+     "sha256": "87cb8c0ddde589c22bfabc9b4ad4ac35a2c9b75568b14d48b02bfc4825d8d79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-240-2021",
+   "path": "local/arad/ineu/2021/240",
+   "short": "HCL Ineu nr. 240/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 240/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-238-241-27-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2022/01/hotararea-nr.240-din-data-de-27.12.2021.pdf",
+     "sha256": "1bcd4b5dca31c5d242c8b327ff2d93cfcb7a7d59208d8b9de82ae366f9e6531e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-241-2021",
+   "path": "local/arad/ineu/2021/241",
+   "short": "HCL Ineu nr. 241/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 241/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-nr-238-241-27-12-2021/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2022/01/hotararea-nr.-241-din-data-de-27.12.2021.pdf",
+     "sha256": "b4476aaf44159e982b87b9ebfa02f6333a6d5b5f7565b2f43658f10dd7ea2cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-25-2021",
+   "path": "local/arad/ineu/2021/25",
+   "short": "HCL Ineu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 25/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.25-din-data-de-25.02.2021.pdf",
+     "sha256": "8b1c38a296f4b04511e9af28bd960a5d3afb6588bfc3a59cd0631e20c237e01b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-26-2021",
+   "path": "local/arad/ineu/2021/26",
+   "short": "HCL Ineu nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 26/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.26-din-data-de-25.02.2021.pdf",
+     "sha256": "32d4de73e66ced4db9879ea650bf86134795342a1a45823dc8667fb01d634f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-27-2021",
+   "path": "local/arad/ineu/2021/27",
+   "short": "HCL Ineu nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 27/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.27-din-data-de-25.02.2021.pdf",
+     "sha256": "54c5e8dbbbff9568d20e55eb80d19b1e8fa0146c30817fcbdff66f40f4e8c280"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-28-2021",
+   "path": "local/arad/ineu/2021/28",
+   "short": "HCL Ineu nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 28/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.28-din-data-de-25.02.2021.pdf",
+     "sha256": "6380a769fc2b521942576f6cfb680e86ac9e4e6698724bbc055888a4fe986512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-29-2021",
+   "path": "local/arad/ineu/2021/29",
+   "short": "HCL Ineu nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 29/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.29-din-data-de-25.02.2021.pdf",
+     "sha256": "f7f77f1b984d9e63c5432ce34831dc5306b212012a07a828edecfd1412998f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-3-2021",
+   "path": "local/arad/ineu/2021/3",
+   "short": "HCL Ineu nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 3/2021 privind stabilirea unor masuri pentru restrangerea sau eliminarea riscului de infectare cu SARS-CoV-2 la nivelul orasului Ineu,jud.Arad",
+   "url": "https://primariaineu.ro/hotararea-nr-3-din-data-de-07-04-2021-privind-stabilirea-unor-masuri-pentru-restrangerea-sau-eliminarea-riscului-de-infectare-cu-sars-cov-2-la-nivelul-orasului-ineujud-arad/",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/Hotararea-nr.3-din-data-de-07.04.2021-privind-stabilirea-unor-masuri-pentru-restrangerea-sau-eliminarea-riscului-de-infectare-cu-SARS-CoV-2-la-nivelul-orasului-Ineujud.Arad_.pdf",
+     "sha256": "74ddbc1d522752934f86fa78b117f3af371e242404df6a7d1e20943070885450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-30-2021",
+   "path": "local/arad/ineu/2021/30",
+   "short": "HCL Ineu nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 30/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.30-din-data-de-25.02.2021.pdf",
+     "sha256": "b0639acab80f2284f7187ef491c716fa3edb248bf9e63e15163e9f8a22c54e92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-31-2021",
+   "path": "local/arad/ineu/2021/31",
+   "short": "HCL Ineu nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 31/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.31-din-data-de-25.02.2021.pdf",
+     "sha256": "c5f79a0f4388f0b5905d31bae144d61f59d14c2d91867719a468330926332863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-32-2021",
+   "path": "local/arad/ineu/2021/32",
+   "short": "HCL Ineu nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 32/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.32-din-data-de-25.02.2021.pdf",
+     "sha256": "5f342b8220ad52f59b26aec673183de02ed85c7b83b6ce480f52182505aac557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-33-2021",
+   "path": "local/arad/ineu/2021/33",
+   "short": "HCL Ineu nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 33/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-22-33-din-25-02-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/hotararea-nr.33-din-data-de-25.02.2021.pdf",
+     "sha256": "e3ee6fa6ff4bd847c84d50181dceb814208a4ff67b4cccc53228d75ca631b4d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-34-2021",
+   "path": "local/arad/ineu/2021/34",
+   "short": "HCL Ineu nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 34/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.34-din-data-de-31.03.2021.pdf",
+     "sha256": "323b90f35d4a23ce7935bece3776ec10e3ebca833485f5c974d775b1ebb75c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-35-2021",
+   "path": "local/arad/ineu/2021/35",
+   "short": "HCL Ineu nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 35/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.35-din-data-de-31.03.2021.pdf",
+     "sha256": "2c8a227111bae477be3b04bab9338138083329d8c64846ef55e7c64af9b7ad5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-36-2021",
+   "path": "local/arad/ineu/2021/36",
+   "short": "HCL Ineu nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 36/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.36-din-data-de-31.03.2021.pdf",
+     "sha256": "91b89a0d05d71099f548f7220ec7098578ef0e85e57c8565933d03df9e27a583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-37-2021",
+   "path": "local/arad/ineu/2021/37",
+   "short": "HCL Ineu nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 37/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.37-din-data-de-31.03.2021.pdf",
+     "sha256": "911bd319aa694818c2b09e4ebba4ffb355f7e0a138cb3fdad748356bace6eff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-38-2021",
+   "path": "local/arad/ineu/2021/38",
+   "short": "HCL Ineu nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 38/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.38-din-data-de-31.03.2021.pdf",
+     "sha256": "53775ff858cefaa966295b890fde54852544da0da335ec84f60e2bc61c493058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-39-2021",
+   "path": "local/arad/ineu/2021/39",
+   "short": "HCL Ineu nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 39/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.39-din-data-de-31.03.2021.pdf",
+     "sha256": "91f2f68095f0e66698061005c2d80ac92806a67929a1c350c2ddb8ff80c920bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-4-2021",
+   "path": "local/arad/ineu/2021/4",
+   "short": "HCL Ineu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 4/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.4-din-data-de-28.01.2021.pdf",
+     "sha256": "10da51cb966c58b39e3f9fe49e24051e5c00e4c30ca5d4046e585a8c3b3d073f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-40-2021",
+   "path": "local/arad/ineu/2021/40",
+   "short": "HCL Ineu nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 40/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.40-din-data-de-31.03.2021.pdf",
+     "sha256": "a7d2f5c6bbe92e08980008f14cb23fc3d348751fb7fedbcb6a17d524d39f3f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-41-2021",
+   "path": "local/arad/ineu/2021/41",
+   "short": "HCL Ineu nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 41/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.41-din-data-de-31.03.2021.pdf",
+     "sha256": "7d2ce44a133e6ca4a1e520b9ba9faf46e8c34b3f652369d91192c65406f8b299"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-42-2021",
+   "path": "local/arad/ineu/2021/42",
+   "short": "HCL Ineu nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 42/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.42-din-data-de-31.03.2021.pdf",
+     "sha256": "63efe4ae26b143900ab6b746ecee54e7ea3282d3e5cbe25e8cf2c6621bd3bdac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-43-2021",
+   "path": "local/arad/ineu/2021/43",
+   "short": "HCL Ineu nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 43/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.43-din-data-de-31.03.2021.pdf",
+     "sha256": "9cf04f6bca2a5d6ee13c45503ea6b3509fa132f86e907f5ddc7d4e6d59507588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-44-2021",
+   "path": "local/arad/ineu/2021/44",
+   "short": "HCL Ineu nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 44/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.44-din-data-de-31.03.2021.pdf",
+     "sha256": "0ba820a1ea20b8a7b6823ed181b2bff171d71dec66b2c3ef648a14c435eb5e0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-45-2021",
+   "path": "local/arad/ineu/2021/45",
+   "short": "HCL Ineu nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 45/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.45-din-data-de-31.03.2021.pdf",
+     "sha256": "0425faca11af17bffeb10dfc1c3233e6d3564e7500c1fc8cbd84331d3f5cdd68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-46-2021",
+   "path": "local/arad/ineu/2021/46",
+   "short": "HCL Ineu nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 46/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.46-din-data-de-31.03.2021.pdf",
+     "sha256": "d8d8c1e2a917d396b912ad16dd71a9f4daba1ec54b5c86ca4d3f54446a897fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-47-2021",
+   "path": "local/arad/ineu/2021/47",
+   "short": "HCL Ineu nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 47/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.47-din-data-de-31.03.2021.pdf",
+     "sha256": "74610e92be96a3789dcd96988fff2132b05b320703c13390f8bac5796cb64273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-48-2021",
+   "path": "local/arad/ineu/2021/48",
+   "short": "HCL Ineu nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 48/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.48-din-data-de-31.03.2021I.pdf",
+     "sha256": "b60d26f4f0d2dcc70b457f6ff2d0f9ef12f56caa3c6f7f48dcbe6b2e155e0377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-49-2021",
+   "path": "local/arad/ineu/2021/49",
+   "short": "HCL Ineu nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 49/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-de-la-nr-34-4931-03-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.49-din-data-de-31.03.2021.pdf",
+     "sha256": "74544be9d04e7d2696d4e5e9ea3b5385d5e7ca452eb83a4a2ee378de967cd3df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-5-2021",
+   "path": "local/arad/ineu/2021/5",
+   "short": "HCL Ineu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 5/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.5-din-data-de-28.01.2021.pdf",
+     "sha256": "8dd30f2708a0671dff67ba046e6b9213fadf223d7cd5634630e33f75f3b58082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-50-2021",
+   "path": "local/arad/ineu/2021/50",
+   "short": "HCL Ineu nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 50/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.50-din-data-de-16.04.2021.pdf",
+     "sha256": "76df03d90c7dee36d769b046a083361a021a2d121d7d27071acd5d50ad287f25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-51-2021",
+   "path": "local/arad/ineu/2021/51",
+   "short": "HCL Ineu nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 51/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.51-din-data-de-16.04.2021.pdf",
+     "sha256": "908bb569a3a076218b7589f9b247d5d0e338ddad592f3800eb4eab71ffb2a3b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-52-2021",
+   "path": "local/arad/ineu/2021/52",
+   "short": "HCL Ineu nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 52/2021 privind aprobarea bugetului general inițial de venituri și cheltuielial Orașului Ineu pe anul 2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.52-din-data-de-16.04.2021.pdf",
+     "sha256": "5bbd6c88de38f4a62272420a559200376a14017bfef299580de707c0a5b5fcf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-53-2021",
+   "path": "local/arad/ineu/2021/53",
+   "short": "HCL Ineu nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 53/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.53-din-data-de-16.04.2021.pdf",
+     "sha256": "313b3bea76ce40a677b9d05327a52898a455e6835f94b6f2d2c1a93c25e720a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-54-2021",
+   "path": "local/arad/ineu/2021/54",
+   "short": "HCL Ineu nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 54/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.54-din-data-de-16.04.2021.pdf",
+     "sha256": "42208a621615ce271a819cc0fb2b3ca8796473e481f4f0f67336f9f2c2dabc3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-55-2021",
+   "path": "local/arad/ineu/2021/55",
+   "short": "HCL Ineu nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 55/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.55-din-data-de-16.04.2021.pdf",
+     "sha256": "1b9afc320b6fcf56d6d4e07eeca4ceae6c5a0014868602a81003f3326c461bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-56-2021",
+   "path": "local/arad/ineu/2021/56",
+   "short": "HCL Ineu nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 56/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.56-din-data-de-16.04.2021.pdf",
+     "sha256": "b842ac6168f80a1b0c8b6383532f68d619d6cb2b83e5d9cce5588bb303f88628"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-57-2021",
+   "path": "local/arad/ineu/2021/57",
+   "short": "HCL Ineu nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 57/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-50-572021-hcl-52-aprobare-buget/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/04/hotararea-nr.57-din-data-de-16.04.2021.pdf",
+     "sha256": "78aa56a7091474df77739d3214fc21755c91e74ed7b681670d0c0c2a6cb18590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-58-2021",
+   "path": "local/arad/ineu/2021/58",
+   "short": "HCL Ineu nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 58/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.58-din-data-de-28.04.2021.pdf",
+     "sha256": "45b2e0221f52b466755bcd8afd2d902fdaadd1a4519171ca06b6f4e35a7d76a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-59-2021",
+   "path": "local/arad/ineu/2021/59",
+   "short": "HCL Ineu nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 59/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.59-din-data-de-28.04.2021.pdf",
+     "sha256": "27e20b0cbe8e7da940b4daf7bed633682639059875f67868af1032c49d366c43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-6-2021",
+   "path": "local/arad/ineu/2021/6",
+   "short": "HCL Ineu nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 6/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.6-din-data-de-28.01.2021.pdf",
+     "sha256": "307d706513a007e8712b921b9e2f7d80f244e22d8c133546b256b31186350988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-60-2021",
+   "path": "local/arad/ineu/2021/60",
+   "short": "HCL Ineu nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 60/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.60-din-data-de-28.04.2021.pdf",
+     "sha256": "8d0deee5d5fb0e44e214a620025ab287cdab0376c288f288d45c354ac4a46c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-61-2021",
+   "path": "local/arad/ineu/2021/61",
+   "short": "HCL Ineu nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 61/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.61-din-data-de-28.04.2021.pdf",
+     "sha256": "a4ffd824fd2f44cff1e1b39cc0893727e0289b42dda10c3e1b652535816b451b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-62-2021",
+   "path": "local/arad/ineu/2021/62",
+   "short": "HCL Ineu nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 62/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.62-din-data-de-28.04.2021.pdf",
+     "sha256": "9848d679815ada92f13825a514f5a5cce5acd1090a456fb043ca12f4fd4d81b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-63-2021",
+   "path": "local/arad/ineu/2021/63",
+   "short": "HCL Ineu nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 63/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.63-din-data-de-28.04.2021.pdf",
+     "sha256": "d09e6702ea64719efb3197dae5d024c315f9ebb23e7f40e153daa5a53086b4cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-64-2021",
+   "path": "local/arad/ineu/2021/64",
+   "short": "HCL Ineu nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 64/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.64-din-data-de-28.04.2021.pdf",
+     "sha256": "8f79d0f13559413ceedc55865eb6edbf34ef897df0823a95020d31c777baa9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-65-2021",
+   "path": "local/arad/ineu/2021/65",
+   "short": "HCL Ineu nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 65/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.65-din-data-de-28.04.2021.pdf",
+     "sha256": "4dad1290403decdd243b0080a372fc7c95feb92c0899cec4bd133a8fd474eacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-66-2021",
+   "path": "local/arad/ineu/2021/66",
+   "short": "HCL Ineu nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 66/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.66-din-data-de-28.04.2021.pdf",
+     "sha256": "391a1c81e9c85122f50e7b234a58c02eb339cbba64ede4d79209f2690f87bf18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-67-2021",
+   "path": "local/arad/ineu/2021/67",
+   "short": "HCL Ineu nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 67/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.67-din-data-de-28.04.2021.pdf",
+     "sha256": "0f72f4c69cc21470b189b6cd8b4665863b83e9ff38e51d841281229a1ed1fbd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-68-2021",
+   "path": "local/arad/ineu/2021/68",
+   "short": "HCL Ineu nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 68/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.68-din-data-de-28.04.2021.pdf",
+     "sha256": "a292e0a03fb311c8da94404900c63f84d2696a6b9493625cd25972e025f8f622"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-69-2021",
+   "path": "local/arad/ineu/2021/69",
+   "short": "HCL Ineu nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 69/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.69-din-data-de-28.04.2021.pdf",
+     "sha256": "e976f868a89e369019b1331db619ca637826a3aa99f2e540d25483845cb3d864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-7-2021",
+   "path": "local/arad/ineu/2021/7",
+   "short": "HCL Ineu nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 7/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.7-din-data-de-28.01.2021.pdf",
+     "sha256": "a78116405a8cb14b382fff1bacd24b38087b0390bf5bbbd5144b3d4446991557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-70-2021",
+   "path": "local/arad/ineu/2021/70",
+   "short": "HCL Ineu nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 70/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.70-din-data-de-28.04.2021.pdf",
+     "sha256": "2591cab68d99994d484b7b7a13ffdb4720afa44c000d161eb8d8ee0aec8e630b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-71-2021",
+   "path": "local/arad/ineu/2021/71",
+   "short": "HCL Ineu nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 71/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.71-din-data-de-28.04.2021.pdf",
+     "sha256": "e50fd4aeb6a5d55271354ef7c8c9696990d2c48a6df3515988d96c5012f2087f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-72-2021",
+   "path": "local/arad/ineu/2021/72",
+   "short": "HCL Ineu nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 72/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-58-722021-in-sedinta-extraordinara-din-data-de-28-04-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.72-din-data-de-28.04.2021.pdf",
+     "sha256": "c1cb1d282eac8b1af15d5d1e78bb63399c1dcb77509f083c235d32c670e7a3a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-73-2021",
+   "path": "local/arad/ineu/2021/73",
+   "short": "HCL Ineu nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 73/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.73-din-data-de-26.05.2021.pdf",
+     "sha256": "189588490b05008a5f85f221ec0db18fadca40482c1c8553b66d4fc0b5899dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-74-2021",
+   "path": "local/arad/ineu/2021/74",
+   "short": "HCL Ineu nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 74/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.74-din-data-de-26.05.2021.pdf",
+     "sha256": "3bf38553c6db95eebb48c8bca3a8464e4bd744a9aa0416dd59dae1b97f56de5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-75-2021",
+   "path": "local/arad/ineu/2021/75",
+   "short": "HCL Ineu nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 75/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.75-din-data-de-26.05.2021.pdf",
+     "sha256": "1cea0c44c782c1362b58b98f2179054018a1cee05cda29864a76ccc89ad522a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-76-2021",
+   "path": "local/arad/ineu/2021/76",
+   "short": "HCL Ineu nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 76/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.76-din-data-de-26.05.2021.pdf",
+     "sha256": "dc03fa6ac04cdb66206691edeefd8b3373f08ee1c40216e56306b356def1fc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-77-2021",
+   "path": "local/arad/ineu/2021/77",
+   "short": "HCL Ineu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 77/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.77-din-data-de-26.05.2021.pdf",
+     "sha256": "baf5f945d7c12fd69f1796c89d45d04d103ed9af80edfa54085348b5b03fecaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-78-2021",
+   "path": "local/arad/ineu/2021/78",
+   "short": "HCL Ineu nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 78/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.78-din-data-de-26.05.2021.pdf",
+     "sha256": "6198ad06aead11c7c0b21d3f09ece875c72c3adc9741048471d08cf05369a91b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-79-2021",
+   "path": "local/arad/ineu/2021/79",
+   "short": "HCL Ineu nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 79/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.79-din-data-de-26.05.2021.pdf",
+     "sha256": "2a140a554d69b90a94e82acb84bcc6d5350bd4f71567ee350dc584b7bc21cebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-8-2021",
+   "path": "local/arad/ineu/2021/8",
+   "short": "HCL Ineu nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 8/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.8-din-data-de-28.01.2021.pdf",
+     "sha256": "b831900f493a51ec4ef4f591e2acfb3ccccefb0c7e191535849b26d82115e398"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-80-2021",
+   "path": "local/arad/ineu/2021/80",
+   "short": "HCL Ineu nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 80/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.80-din-data-de-26.05.2021.pdf",
+     "sha256": "b98269c9445ae158036c88b5ee6805c63633f77ec10a7b643b1cfa6625e5ec22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-81-2021",
+   "path": "local/arad/ineu/2021/81",
+   "short": "HCL Ineu nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 81/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.81-din-data-de-26.05.2021.pdf",
+     "sha256": "d860fc04b05d4b74932e2ca52dfb80f8bb6bb5fa3edaf6ceb161deeaec576f0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-82-2021",
+   "path": "local/arad/ineu/2021/82",
+   "short": "HCL Ineu nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 82/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.82-din-data-de-26.05.2021.pdf",
+     "sha256": "ba72ff5fa77b4f2cc4b811b04e00717d8c7a6b53469b114c7c8ae0e2404a4209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-83-2021",
+   "path": "local/arad/ineu/2021/83",
+   "short": "HCL Ineu nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 83/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.83-din-data-de-26.05.2021.pdf",
+     "sha256": "d1d5e9cd776f4625a5766844e00a842d8944779f224f33e9844e3d8e5f28f07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-84-2021",
+   "path": "local/arad/ineu/2021/84",
+   "short": "HCL Ineu nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 84/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-de-la-nr-73-84-din-data-de-26-05-2021-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/05/hotararea-nr.84-din-data-de-26.05.2021.pdf",
+     "sha256": "939f4f46395c6e569ec6789f8d4cdfa530994b6f6de88b0bb9aa7afbf504c42e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-85-2021",
+   "path": "local/arad/ineu/2021/85",
+   "short": "HCL Ineu nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 85/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.85-din-data-de-17.06.2021.pdf",
+     "sha256": "ba0facd75519c46338a287f293ff08fdeef8f89b57ad539537f7174c89a84046"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-86-2021",
+   "path": "local/arad/ineu/2021/86",
+   "short": "HCL Ineu nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 86/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.86-din-data-de-17.06.2021.pdf",
+     "sha256": "3d54ce434ee079e33f4c19c48c9aecf94ea94f174a4374e142bfc192705f0010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-87-2021",
+   "path": "local/arad/ineu/2021/87",
+   "short": "HCL Ineu nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 87/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.87-din-data-de-17.06.2021.pdf",
+     "sha256": "a569ebf5e97967e56ee48238055cbcbef54595ad4f6b5940df936040963b93ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-88-2021",
+   "path": "local/arad/ineu/2021/88",
+   "short": "HCL Ineu nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 88/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.88-din-data-de-17.06.2021.pdf",
+     "sha256": "7cc1b8c5170ecf12f51b547c2f99a53fb41c378e0efb540d48daa231afe3e273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-89-2021",
+   "path": "local/arad/ineu/2021/89",
+   "short": "HCL Ineu nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 89/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.89-din-data-de-17.06.2021.pdf",
+     "sha256": "b2fcd990bc7803f08cfada04603a0a635431803692415a14040871ba26b235f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-9-2021",
+   "path": "local/arad/ineu/2021/9",
+   "short": "HCL Ineu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 9/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-21-din-data-de-28-01-2021-in-sedinta-ordinara/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/02/hotararea-nr.9-din-data-de-28.01.2021.pdf",
+     "sha256": "442973faa3565275b70d82e40b21c278fd452cbe9b808d6ad90a80675b597c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-90-2021",
+   "path": "local/arad/ineu/2021/90",
+   "short": "HCL Ineu nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 90/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.90-din-data-de-17.06.2021.pdf",
+     "sha256": "de44a29a20c5d0a54f72ee6ff1279a47d48090d5bf1e31653222c2bbcc92689f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-91-2021",
+   "path": "local/arad/ineu/2021/91",
+   "short": "HCL Ineu nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 91/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.91-din-data-de-17.06.2021.pdf",
+     "sha256": "911baadad7117f3901992e2529f3b40c07776109469aede35af9f1cd7ee12bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-92-2021",
+   "path": "local/arad/ineu/2021/92",
+   "short": "HCL Ineu nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 92/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.92-din-data-de-17.06.2021.pdf",
+     "sha256": "97b47d268795b6d9034e663b6cd7f1467458651d45bcd16cd98dc9fe3f889037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-93-2021",
+   "path": "local/arad/ineu/2021/93",
+   "short": "HCL Ineu nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 93/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.93-din-data-de-17.06.2021.pdf",
+     "sha256": "fd500342fb37bc62b79ee3c099a7e068d5a4c9547f43cb59266e4cdb1f7160f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-94-2021",
+   "path": "local/arad/ineu/2021/94",
+   "short": "HCL Ineu nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 94/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.94-din-data-de-17.06.2021.pdf",
+     "sha256": "a3aa45ea52fd49e998e2465441ed6efc9844df4bb658265290fa04e23e87526d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-95-2021",
+   "path": "local/arad/ineu/2021/95",
+   "short": "HCL Ineu nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 95/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-sedinta-ordinara-17-06-2021-nr-85-95/",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/06/hotararea-nr.95-din-data-de-17.06.2021.pdf",
+     "sha256": "55ff028d5ffcbe936038a554e3d58065b41f442d5ce3573613639692defca610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-96-2021",
+   "path": "local/arad/ineu/2021/96",
+   "short": "HCL Ineu nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 96/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-96-9928-06-2021/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/07/hotararea-nr.96-din-data-de-28.06.2021.pdf",
+     "sha256": "c1286022b234492d088eaff4d9f9426f97b6eb77f624cdb3d49edaaa54732e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-97-2021",
+   "path": "local/arad/ineu/2021/97",
+   "short": "HCL Ineu nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 97/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-96-9928-06-2021/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/07/hotararea-nr.97-din-data-de-28.06.2021.pdf",
+     "sha256": "4d907448034648c5427f31f91109abc3a949332aed698c76d666a66ebbdf24f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-98-2021",
+   "path": "local/arad/ineu/2021/98",
+   "short": "HCL Ineu nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 98/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-96-9928-06-2021/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/07/hotararea-nr.98-din-data-de-28.06.2021.pdf",
+     "sha256": "c5d0fdc2f34be8c983f5991a57c8bd1958136bffebe856c0e1f5b713ed7355f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-99-2021",
+   "path": "local/arad/ineu/2021/99",
+   "short": "HCL Ineu nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 99/2021",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-in-sedinta-extraordinara-de-la-nr-96-9928-06-2021/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/07/hotararea-nr.99-din-data-de-28.06.2021.pdf",
+     "sha256": "ba381eedc6fb84d62a1090aac3fea1462f3c9a1f958dc7d9b43d2826d1ae3ef1"
     }
    ]
   }

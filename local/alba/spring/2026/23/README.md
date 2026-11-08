@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Șpring nr. 23/2026 privind aprobarea utilizării din excedentul anilor precedenți a Bugetului local a sumei de 4.500 lei pentru acoperirea temporară a golurilor de casă
+
+HCL Șpring nr. 23/2026 · 1 versions, from 2026-03-10 (latest in force: 2026-03-10) · <https://comunaspring.ro/wp-content/uploads/2026/04/HOTARAREA-NR.-23-din-10.03.2026-privind-aprobarea-utilizarii-din-excedentul-anilor-precedenti-a-Bugetului-local-a-sumei-de-4.500-lei-pentru-acoperirea-temporara-a-golurilor-de-casa-.pdf>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-alba--spring-23-2026` (tags `hcl-alba--spring-23-2026/<day>`; `python tools/on.py <day> hcl-alba--spring-23-2026`).
+
+## Decisions made by hand
+
+- HCL Șpring nr. 23/2026: listed from Consiliul Local al Comunei Șpring (comunaspring.ro); an individual decision: metadata only.
+- HCL Șpring nr. 23/2026: dated from 10 March 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Șpring nr. 23/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

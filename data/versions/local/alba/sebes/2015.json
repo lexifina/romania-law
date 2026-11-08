@@ -3,6 +3,456 @@
  "shard": "local/alba/sebes/2015",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-11-2015",
+   "path": "local/alba/sebes/2015/11",
+   "short": "HCL Sebeș nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 11/2015 Privind aprobarea Proiectului tehnic și a detaliilor de execuție pentru obiectivul de investiții “ Modernizare strada Ion Creangă, Municipiul Sebeș”- proiect nr. 81/2014 Consiliul local al Municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind aprobarea Proiectului tehnic și a detaliilor de execuție pen",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.11.pdf",
+     "sha256": "8faf27ac2d35e241f67bc44704f1b59ad9765f9010cfcaef280f20b3fd671821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-12-2015",
+   "path": "local/alba/sebes/2015/12",
+   "short": "HCL Sebeș nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 12/2015 privind aprobarea documentației tehnice de parcelare a imobilului teren extravilan, situat in Municipiul Sebes, Lancram, inscris in CF 80598 Sebes, nr. cad. 80598 Consiliul Local al municipiului Sebeș, jud.Alba; Întrunit în ședința publică oridnară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind aprobarea documentației tehnice de parcelare a imobilului teren ext",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.12.pdf",
+     "sha256": "9257469af4a6434def23d907953d6d4d62d9f35a853dd6ceee193ce6209c961e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-13-2015",
+   "path": "local/alba/sebes/2015/13",
+   "short": "HCL Sebeș nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 13/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.13.pdf",
+     "sha256": "5fbc3a68ce04bc654e41846d67de9ac25b66f31923ed36aa097fc5e656ee65c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-14-2015",
+   "path": "local/alba/sebes/2015/14",
+   "short": "HCL Sebeș nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 14/2015 privind aprobarea cuantumului compensațiilor în bani care se vor acorda voluntarilor din Serviciul Voluntar pentru Situații de Urgență al Municipiului Sebeș, pentu timpul efectiv de lucru Consiliul Local al municipiului Sebeș județul Alba ; Întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00 ; Luând în dezbatere proiectul de hotărâre Serviciul Voluntar pentru Situații de Urgență",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.14.pdf",
+     "sha256": "5c45b6825e43bc840ccd29492591393bf873fbf6c82ef0053bb2932302718ea3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-15-2015",
+   "path": "local/alba/sebes/2015/15",
+   "short": "HCL Sebeș nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 15/2015 Privind modificarea HCL, nr.77/2013 privind stabilirea componentei comisiilor pe domenii de activitate ale Consiliului Local al Municipiului Sebeș Consiliul Local al Municipiului Sebes, Județul Alba; Întrunit in ședința publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind modificarea HCL nr.77/2013 privind stabilirea componentei comisiilor pe domenii",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.15.pdf",
+     "sha256": "7b2b390eec63a06a5b6f298bf34c874704adde3270f8c73452200151a0684e34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-16-2015",
+   "path": "local/alba/sebes/2015/16",
+   "short": "HCL Sebeș nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 16/2015 privind modificarea HCL143/2014 privind incheierea unui contract de comodat intre S.P.A.P și Asociația „Clubul Sportiv Șureanu 1945 Sebeș „, Consiliul Local al Municipiului Sebes Județul Alba; Intrunit in ședința publică ordinară din data de 30.01.2015.ora 10,00; Luând în dezbatere proiectul de hotarare privind modificarea HCL143/2014 privind incheierea unui contract de comodat intre S.P.A._P și A",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.16.pdf",
+     "sha256": "8b91081a2d5448b413beb9221147edae523206f0e16d0abb20dc538db9f9517f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-177-2015",
+   "path": "local/alba/sebes/2015/177",
+   "short": "HCL Sebeș nr. 177/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 177/2015 Privind aducerea la cunoștință publică a documentațiilor tehnico economice aferente tuturor investițiilor de Pe raza administrativ teritorială a Municipiului Sebeș Consiliul Local al municipiului Sebeș, județul Alba Întrunit în ședința publică extraordinară din data de 10.08.2015, ora 16,00; Luând în dezbatere proiectul de hotărâre privind aducerea la cunoștință publică a documentațiilor tehnico e",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2018/12/HCL-177-.pdf",
+     "sha256": "5c2f9822f19848b14b4d8d9ee77edc2cd76ffd4679142f1331bd987a6e0e5b5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-18-2015",
+   "path": "local/alba/sebes/2015/18",
+   "short": "HCL Sebeș nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 18/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.18.pdf",
+     "sha256": "d22382d4bee4b479b808dc14098625b5edfd47c3014bfd68641c69cbd3e96c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-19-2015",
+   "path": "local/alba/sebes/2015/19",
+   "short": "HCL Sebeș nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 19/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.19.pdf",
+     "sha256": "979241786f45fc1538ffaefc2827e20e041d3b8e74dca0cf0d4d7a0a8b24d366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-20-2015",
+   "path": "local/alba/sebes/2015/20",
+   "short": "HCL Sebeș nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 20/2015 Privind aprobarea calendarului de activități cultural - educative ce se vor desfășura în cursul anului 2015 Consiliul Local al Municipiului Sebeș, jud",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.20.pdf",
+     "sha256": "5708a7f79de3956c0d5c8b0ddff1ef14ecc66b07e2738998b54d78ca65a4b097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-21-2015",
+   "path": "local/alba/sebes/2015/21",
+   "short": "HCL Sebeș nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 21/2015 pentru aprobarea Planului de lucrări și acțiuni de interes local pentru repartizarea orelor de muncă prevăzute a se efectua obligatoriu de către beneficiarii de ajutor social Consiliul Local al municipiului Sebeș, județul Alba: Întrunit în ședință publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezabtere proiectul de hotărâre privind aprobarea Planului de lucrări și acțiuni de interes",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.21.pdf",
+     "sha256": "5e91b994c47553fb36b1b5709fbfd48d87033eb8539d6a802d4c7e9f953d9f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-22-2015",
+   "path": "local/alba/sebes/2015/22",
+   "short": "HCL Sebeș nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 22/2015 Privind aprobarea numărului de asistenți personali prevăzut în Statul de Funcții al Serviciului Public de Asistență Socială Consiliul Local al municipiului Sebeș, județul Alba Întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind aprobarea numărului de asistenți personali prevăzut în Statul de Funcții al Serviciului Public de Asist",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.22.pdf",
+     "sha256": "8e181104f418959858d8627d94cca06a22493331edeb6051864f9dfa093a326f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-23-2015",
+   "path": "local/alba/sebes/2015/23",
+   "short": "HCL Sebeș nr. 23/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 23/2015 privind completarea HCL nr. 242/2014 privind aprobarea documentației tehnice de alipire a imobilelor inscrise in CF 70515 Sebes, CF 70516 Sebes și CF 70517 Sebes și a documentației tehnice de alipire a imobilelor inscrise in CF 70519 Sebes, CF 70520 Sebes și CF 70521 Sebes, imobile situate in Sebes, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.23.pdf",
+     "sha256": "87e1b8f63d837a2f6309a951e7db05364e3bbd6a5c2698016ba791a9fa2da36e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-24-2015",
+   "path": "local/alba/sebes/2015/24",
+   "short": "HCL Sebeș nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 24/2015 privind aprobarea închirierii prin licitație publică deschisă a unui teren în suprafață de 1,00mp aparținând domeniului public, situat în Sebeș str.Piața Libertății F.N , pentru amplasarea unui automat de băuturi nealcoolice Consiliul Local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind apro",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.24.pdf",
+     "sha256": "9db0ce0383b7961bf1f7b5472ba8733dd9d4cd6cb865592395897d86c43e220a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-25-2015",
+   "path": "local/alba/sebes/2015/25",
+   "short": "HCL Sebeș nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 25/2015 privind aprobarea costului mediu lunar de întreținere, pentru anul 2015 și a cuantumului contribuției de întreținere pentru persoanele asistate în cadrul Căminului pentru Persoane Vârstnice Sebes Consiliul Local al Municipiului Sebes, întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind aprobarea costului mediu lunar de întreținer",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.25.pdf",
+     "sha256": "d302c8cd8822a71a0364667314ca5ecc62d3ff9f17fe12315f4251c3f45a7d54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-26-2015",
+   "path": "local/alba/sebes/2015/26",
+   "short": "HCL Sebeș nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 26/2015 pentru aprobarea Programului activitatilor socio-culturale in anul 2015 al Centrului de zi pentru persoane varstnice din din cadrul Serviciului Public de Asistenta Sociala Sebes Consiliul Local al Municipiului Sebes, județul Alba; Intrunit in ședința publica ordinara din data de 30.01.2015, ora 10.00; Luând în dezbatere proiectul de hotărâre pentru aprobarea Programului activitatilor socio-cultura",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.26.pdf",
+     "sha256": "e82c373993c555a2e9c6f6acaf2cf009d6d6675c5b3b8f610c27a1e9e827f27c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-27-2015",
+   "path": "local/alba/sebes/2015/27",
+   "short": "HCL Sebeș nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 27/2015 Privind aprobarea situațiilor deosebite in care se pot acorda ajutoare de urgență Consiliul local al municipiului Sebeș, județul Alba; Întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00 Luând în dezbatere proiectul de hotărâre privind aprobarea situațiilor deosebite în care se pot acorda ajutoare de urgență; Văzând expunerea de motive la proiectul de hotărâre privind aprobarea",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.27.pdf",
+     "sha256": "26bdf53a4910ec6a541e208da8c76f772919da3f186d1743bb889e552630ee51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-28-2015",
+   "path": "local/alba/sebes/2015/28",
+   "short": "HCL Sebeș nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 28/2015 pentru aprobarea nivelului subvenției ce urmează a fi acordată Asociației Diakoniewerk Internațional, pe anul 2015, precum și aprobarea Convenției provizorii pentru acordarea de servicii de asistență socială Consiliul Local al municipiului Sebeș, județul Alba; Întrunit în ședință publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre pentru aprobarea nivelului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.28.pdf",
+     "sha256": "42a4f81a51ea5e0ace21ed5cb71e42a9aa0993195de7d1b36ee4197d1aab4ca5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-29-2015",
+   "path": "local/alba/sebes/2015/29",
+   "short": "HCL Sebeș nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 29/2015 Privind aprobarea DOCUMENTAȚIEI DE AVIZARE A LUCRARILOR DE INTERVENȚIE pentru obiectivul de investiții “ Pista alergare din jurul terenului oficial de fotbal nr. 1 din cadrul Bazei sportive Arini” Consiliul Local al Municipiului Sebes jud. Alba; Întrunit in ședința publica ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre Privind aprobarea DOCUMENTAȚIEI DE AVIZAR",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.29.pdf",
+     "sha256": "de2ec5cee88dc92a95d9bc98bf127ec254c720771a952424bb0252f0bdecb4ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-296-2015",
+   "path": "local/alba/sebes/2015/296",
+   "short": "HCL Sebeș nr. 296/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 296/2015 Privind transmiterea fără plată a microbuzului școlar marca FIAT DUCATO 2.3 MINIBUZ, din patrimoniul Liceului cu Program Sportiv Sebeș în patrimoniul Școlii Gimnaziale Germane Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.296.pdf",
+     "sha256": "68b9a63b339ef47a5f6721bea625c8f373623c2427036956f44d3a73c3f299d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-297-2015",
+   "path": "local/alba/sebes/2015/297",
+   "short": "HCL Sebeș nr. 297/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 297/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.297.pdf",
+     "sha256": "07e0b96ea97c469d2d683233b90ef7d83de4dd2804693eab23f1ae6e3087bde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-298-2015",
+   "path": "local/alba/sebes/2015/298",
+   "short": "HCL Sebeș nr. 298/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 298/2015 Privind demararea procedurilor de realizare a două cabine din PVC cu geam termopan, necesare amplasării a două cuptoare de mici în Piața Dacia Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.298.pdf",
+     "sha256": "da11765ef9d2504ea1ceb2bfe03bebbf0641fda4641cc69484b8db8100740956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-299-2015",
+   "path": "local/alba/sebes/2015/299",
+   "short": "HCL Sebeș nr. 299/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 299/2015 Privind completarea HCL nr.177/2015 privind aducerea la cunoștință publică a documentațiilor tehnico economice aferente tuturor investițiilor de pe raza administrativ teritorială a Municipiului Sebeș Consiliul Local al Municipiului Sebeș; Întrunit în ședința publică , ordinară, din data de 17.12.2015, ora 14,00; Luând în dezbatere proiectul d ehotărâre privind completarea HCL nr.177/2015 privind a",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.299.pdf",
+     "sha256": "37d294772a4a1225d84ac05e55e37dc59eed6f731f131048045fcbed37964e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-3-2015",
+   "path": "local/alba/sebes/2015/3",
+   "short": "HCL Sebeș nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 3/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.3.pdf",
+     "sha256": "ae658c10c9ce4bacdcb643a91849245390b7b17124c73dd277031c887f40682b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-30-2015",
+   "path": "local/alba/sebes/2015/30",
+   "short": "HCL Sebeș nr. 30/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 30/2015 cu privire la acordul Consiliului Local al Municipiului Sebeș pentru lucrarea „Extindere rețea apa-Lancram(Gradini) județul Alba” Consiliul Local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre cu privire la acordul Consiliului Local al Municipiului Sebeș pentru lucrarea „Extindere rețea apa-Lancram(",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.30.pdf",
+     "sha256": "5ca3f3fbf28c1624698e2114a9681d44bf8170198028e05ffea73ac930c45da4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-300-2015",
+   "path": "local/alba/sebes/2015/300",
+   "short": "HCL Sebeș nr. 300/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 300/2015 privind vânzarea spațiului comercial, situat în Sebeș, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.300.pdf",
+     "sha256": "63d0fa0d330bb402625da35136b0980499ef739fdb37c0082efa68123f1f3a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-301-2015",
+   "path": "local/alba/sebes/2015/301",
+   "short": "HCL Sebeș nr. 301/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 301/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.301.pdf",
+     "sha256": "664ee62bb8f56f766f1e1d71dae6dc556602bc79f7afb7546944e0d7bb6a2b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-302-2015",
+   "path": "local/alba/sebes/2015/302",
+   "short": "HCL Sebeș nr. 302/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 302/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.302.pdf",
+     "sha256": "e7a66aeeb8e0433fcbfaad12dfe3b5c800917967a84f74d2e60d0657289c05b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-303-2015",
+   "path": "local/alba/sebes/2015/303",
+   "short": "HCL Sebeș nr. 303/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 303/2015 privind infiinfarea Centrului de Zi pentru Copii cu Dizabilitati și a Centrului de Zi pentru Persoanele Adulte cu Dizabilitati Sebes Consiliul Local al municipiului Sebeș, județul Alba; Întrunit în ședința publică, ordinară, din data de 17.12.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind infiintarea Centrului de Zi pentru Copii cu Dizabilitati și a Centrului de Zi pentru Persoa",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.303.pdf",
+     "sha256": "6018a2e4d5981e5928c41346805aa9837c2de79b6fe27af8ade1556519aacd26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-304-2015",
+   "path": "local/alba/sebes/2015/304",
+   "short": "HCL Sebeș nr. 304/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 304/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.304.pdf",
+     "sha256": "526edfd3d9405c95dfd551eee34c31e739aedfaa8381b6da4cd66d0b1abd2c22"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-307-2015",
    "path": "local/alba/sebes/2015/307",
    "short": "HCL Sebeș nr. 307/2015",
@@ -14,6 +464,36 @@
      "units": 4,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.307.pdf",
      "sha256": "c7a4c5642e3c99d6b66f63fbcb2e33e0b17035dedb3fd48ca151cd8e52820f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-308-2015",
+   "path": "local/alba/sebes/2015/308",
+   "short": "HCL Sebeș nr. 308/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 308/2015 privind aprobarea angajarii unui avocat care sa apere și să reprezinte interesele Municipiului Sebes in Dosar nr. 5780/107/2013 și dosarele asociate, având ca obiect procedura insolvenței, în contradictoriu cu pârâta S.C",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.308.pdf",
+     "sha256": "1f9a8b3a0004a2dcadf456ec15c55d66ae54ecaaa1803580ce1cf9b809d98733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-309-2015",
+   "path": "local/alba/sebes/2015/309",
+   "short": "HCL Sebeș nr. 309/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 309/2015 privind modificarea organigramei și statului de funcții ale Serviciului Voluntar pentru Situații de Urgență Sebeș din subordinea Consiliului Local Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2012/03/HCL.309.pdf",
+     "sha256": "f37e02b61e849c7adc7b9d91f23388bb1c4c07cf1fb13a0f0e35ac866b65280d"
     }
    ]
   },
@@ -48,6 +528,111 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-35-2015",
+   "path": "local/alba/sebes/2015/35",
+   "short": "HCL Sebeș nr. 35/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 35/2015 privind aprobarea Proiectului tehnic și a detaliilor de execuție pentru obiectivul de investiții: „Extindere rețea canalizare pe străzile: Pripocului, Ruzga și Industria Mică, Municipiul Sebeș” — proiect nr.3/2014 Consiliul Local al Municipiului Sebeș, jud. Alba; Întrunit în ședința publică extraordinară din data de 26.02.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind aprobarea",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.35.pdf",
+     "sha256": "eb51bd3a4c9620e1f61c0fe687c321cadddecb00cc020d071a5114e6ce3452be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-36-2015",
+   "path": "local/alba/sebes/2015/36",
+   "short": "HCL Sebeș nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 36/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.36.pdf",
+     "sha256": "891be8f489784208f4c97ed5eefe3a01b1091a595e9e04ea45f8e879fccd3e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-37-2015",
+   "path": "local/alba/sebes/2015/37",
+   "short": "HCL Sebeș nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 37/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.37.pdf",
+     "sha256": "be627f701aaf9985718fbcd16bb8f73e4b9e7b702cb6afa4ed4ea2ea376d0473"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-38-2015",
+   "path": "local/alba/sebes/2015/38",
+   "short": "HCL Sebeș nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 38/2015 privind delegarea gestiunii serviciului de transport public local de persoane prin curse regulate în municipiul Sebeș și aprobarea documentației de atribuire a contractului de delegare a gestiunii serviciului Consiliul Local al Municipiului Sebeș, Întrunit în ședință publică extraordinara din data de 26.02.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind delegarea gestiunii servic",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.38.pdf",
+     "sha256": "fb6c5b3b0cda250eab705a109577e956e88fffb2436a5ea7db99cc4276d2926d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-39-2015",
+   "path": "local/alba/sebes/2015/39",
+   "short": "HCL Sebeș nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 39/2015 privind aprobarea prelungirii contractului de închiriere pentru chiriașul din blocul ANL 12A, ap.12- cartier Valea Frumoasei Consiliul local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică extraordinară din data de 26.02.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind aprobarea prelungiri contractului de închiriere pentru chiriașul din blocul ANL 12A, ap.12- cartier",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.39.pdf",
+     "sha256": "6f6ba0c17b71f23519a1fbb5f04f08eafc7109f9ad5b88ab10068afee2a55f22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-40-2015",
+   "path": "local/alba/sebes/2015/40",
+   "short": "HCL Sebeș nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 40/2015 Privind aprobarea Proiectului tehnic și a detaliilor de execuție pentru obiectivul de investiții “ Modernizare străzi Sebeș: Abatorului și Spicului, Municipiul Sebeș”- proiect nr. 80/2014 Consiliul local al Municipiului Sebeș, jud.Alba; Întrunit în ședința publică extraordinară din data de 26.02.2015,ora 14,00; Luând în dezbatere proiectul de hotărâre privind aprobarea Proiectului tehnic și a deta",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.40.pdf",
+     "sha256": "3650e40a59db2ba6cf581c1e1453924c514c4d8b8623f05a9d0b00da3298797c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-41-2015",
+   "path": "local/alba/sebes/2015/41",
+   "short": "HCL Sebeș nr. 41/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 41/2015 privind darea în folosință gratuită pe o perioada de 30 de ani a imobilului teren, înscris în CF 80065 Sebes, nr cad. 80065, în suprafața de 937 mp, situat în Sebeș, cartier M",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.41.pdf",
+     "sha256": "753e83936c29604e7be3a38fb72b8522c308e8febcccaa82a7cef43a0f0e5f98"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-42-2015",
    "path": "local/alba/sebes/2015/42",
    "short": "HCL Sebeș nr. 42/2015",
@@ -59,6 +644,126 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.42.pdf",
      "sha256": "b95f39cc2955ad75428e091345541f2fdf05d7b25184391e0246fca07e067a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-44-2015",
+   "path": "local/alba/sebes/2015/44",
+   "short": "HCL Sebeș nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 44/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.44.pdf",
+     "sha256": "f1dc19289259d32ea9f4689a36b69b1395b3e3ed960b18b8c131e9069913fc82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-45-2015",
+   "path": "local/alba/sebes/2015/45",
+   "short": "HCL Sebeș nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 45/2015 privind aprobarea actualizarii Studiului de oportunitate privind modernizarea sistemului de iluminat public stradal din municipiul Sebeș și satele aparținătoare (Petrești, Lancrăm, Răhău) Consiliul Local al Municipiului Sebes „jud.Alba; Intrunit in ședința publica extraordinară din data de 26.02.2015,ora 14,00; Luând în dezbatere proiectul de hotărâre privind aprobarea actualizarii Studiului de op",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.45.pdf",
+     "sha256": "0db26203ef3678e800855ea1f525259807945eb56c4428641471d9c440a5021d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-47-2015",
+   "path": "local/alba/sebes/2015/47",
+   "short": "HCL Sebeș nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 47/2015 privind aprobarea încetării Contractului de concesiune nr. 19696/08.10.2002 prin renunțare din partea concesionarului Consiliul Local al Municipiului Sebes „jud.Alba; Intrunit in ședința publica extraordinară din data de 26.02.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind aprobarea încetării Contractului de concesiune nr. 19696/08.10.2002 prin renunțare din partea concesionarul",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.47.pdf",
+     "sha256": "b750ba0dd5c79a344dc5eab9e66c34e0323c33acea6ebd82d2ac18e842ba0fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-48-2015",
+   "path": "local/alba/sebes/2015/48",
+   "short": "HCL Sebeș nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 48/2015 Privind modificarea hotărârii nr. 291/2014 privind propunerea de atribuire teren aferent construcțiilor proprietate personală Consiliul local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică extrordinara din 26.02.2015, ora,ora 14,00; Luând în dezbatere proiectul de hotărâre privind modificarea hotărârii nr. 291/2014 privind propunerea de atribuire teren aferent construcțiilor proprie",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.48.pdf",
+     "sha256": "6f8e46737de40bd249e0460e20b834d64a8e0f17a0ba847c6b5b177dbc9d33d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-49-2015",
+   "path": "local/alba/sebes/2015/49",
+   "short": "HCL Sebeș nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 49/2015 Pentru stabilirea sediului Unitatea de Implementare a Proiectullui „Dezvoltarea economiei sociale prin infiintarea de inteprinderi sociale — Sansa Evoluție Stabilitate” Consiliul Local al Municipiului SEBES. Jud.Alba; Intrunit in ședința publică extraordinară din data de 26.02.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre pentru stabilirea sediului Unitatea de Implementare a Proiectulu",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.49.pdf",
+     "sha256": "8a990e39ed8e98ca639b39011fa6e31f744c2c40675f871e16773aeeb1cb2fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-51-2015",
+   "path": "local/alba/sebes/2015/51",
+   "short": "HCL Sebeș nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 51/2015 Privind retragerea unor cladiri din administrarea unor instituții de invatamant și darea acestora in administrare Consiliul Local al Municipiului Sebeș, jud.Alba; Întrunit în ședința publică, de îndată,din data de 27.02.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind retragerea unor cladiri din administrarea unor instituții de invatamant și darea acestora in administrare; Văzând:",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.51.pdf",
+     "sha256": "90f2aad4adc023c992307d09e460220a7c101693b7aceaa39db873d105800430"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-53-2015",
+   "path": "local/alba/sebes/2015/53",
+   "short": "HCL Sebeș nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 53/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.53.pdf",
+     "sha256": "793c9bb2903983f3937a674fe8c50a8d7223857d4c0cf6a62a44058966e09262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-54-2015",
+   "path": "local/alba/sebes/2015/54",
+   "short": "HCL Sebeș nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 54/2015 privind aprobarea trecerii in domeniul privat al Municipiului Sebes și aprobarea vânzarii imobilelor terenuri înscrise în CF nr. 72460 Sebeș, suprafața de 27 mp și în CF nr. 72450 Sebeș, in suprafața de 13 mp, situate în Sebeș, cartier M. Kogălniceanu, în extinderea bl 182, în suprafață totala de 40 mp Consiliul Local al Municipiului Sebeș, județ Alba; Întrunit în ședința publică ordinară din data",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.54.pdf",
+     "sha256": "f7aed8c6d35408369ee17d473e8583085b6bc37aaefd2579170a2bf5e37d8634"
     }
    ]
   },
@@ -78,6 +783,66 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-56-2015",
+   "path": "local/alba/sebes/2015/56",
+   "short": "HCL Sebeș nr. 56/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 56/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.56.pdf",
+     "sha256": "c01ed61961c368e5c74a020ccc3ce29006ac3e02e2d089cf90d0fc81e2481f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-57-2015",
+   "path": "local/alba/sebes/2015/57",
+   "short": "HCL Sebeș nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 57/2015 Privind majorarea valorii de inventar a imobilului „Școala Silviu Cărpinișianu” Sebeș, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.57.pdf",
+     "sha256": "8b2a56eb18ff0b5d5f29c547c0df5d93012e1e8e79212eac80f8df7b6e77130d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-58-2015",
+   "path": "local/alba/sebes/2015/58",
+   "short": "HCL Sebeș nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 58/2015 Privind modificarea HCL nr.161/2014 referitoare darea în administrare către SPAP a mijlocului fix Atelier producție Răhău, nr.,invy.1102, și schimbarea destinației din “atelier producție” în “casă de locuit” Consiliul Local al municipiului Sebeș, jud Alba; Întrunit în ședința publică ordinară din data de 24.03.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind modificarea HCL nr.161",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.58.pdf",
+     "sha256": "665570e63bc33bbcce7736c7e17e43cc023342eb62d47cf7c7dd9ba5099cc8b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-6-2015",
+   "path": "local/alba/sebes/2015/6",
+   "short": "HCL Sebeș nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 6/2015 privind darea în administrarea SPAP, în perioada februarie martie a fiecărui an, a spațiului situat administrativ în Sebeș, Bulevardul Lucian Blaga, din dreptul Bisericii Evanghelice și până în dreptul Școlii Gimnaziale Nr.2 Sebeș Consiliul local al municipiului Sebeș, jud. Alba; Întrunit în ședința publica ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privin",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.6.pdf",
+     "sha256": "9efd587fe115e57979dc96de9c67465c3920f463c29431a62ce459ef72992c13"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-60-2015",
    "path": "local/alba/sebes/2015/60",
    "short": "HCL Sebeș nr. 60/2015",
@@ -93,6 +858,81 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-61-2015",
+   "path": "local/alba/sebes/2015/61",
+   "short": "HCL Sebeș nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 61/2015 Privind aprobarea închirierii, prin licitație publică deschisă, a patru loturi de teren în suprafață de 4,00mp fiecare, situate administrativ în Sebes, cu destinația amplasare panou publicitar de tip backlight de dimensiuni de 4m x3m Consiliul Local al municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 24.03.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre priv",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.61.pdf",
+     "sha256": "695eac1e51e97e26a644738bbb182f42dbc91947db47ba7991482249619d1884"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-62-2015",
+   "path": "local/alba/sebes/2015/62",
+   "short": "HCL Sebeș nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 62/2015 privind propunerea de atribuire teren aferent construcțiilor proprietate personală Consiliul local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinara din data de 24.03.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind propunerea de atribuire teren aferent construcțiilor proprietate personală ; Văzând referatul Serviciului Patrimoniu, Transport și Registrul Agric",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.62.pdf",
+     "sha256": "570bf39e0ca50e88b8dc71300ea21b898bd5d891f045d88dbb3d3d8782fa89c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-63-2015",
+   "path": "local/alba/sebes/2015/63",
+   "short": "HCL Sebeș nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 63/2015 Privind darea în administrare pe perioadă determinată a imobilului, Clădire garaje 5 boxe primărie” cu nr.inv.11003 către Serviciul Public de Administrare a Patrimoniului, Consiliul Local al Municipiului Scbeș, jud.Alba; Întrunit în ședința publică ordinară din data de 24.03.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind darea în administrare pe perioadă determinată a imobilului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.63.pdf",
+     "sha256": "20b04b7a20a355f8c1748daada8e12f57e625c936b600d4a8b98f18c5fcaabdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-64-2015",
+   "path": "local/alba/sebes/2015/64",
+   "short": "HCL Sebeș nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 64/2015 Privind contractarea unui studiu în vederea stabilirii circulației emisiilor poluatoare în Municipiul Sebeș Consiliul Local al Municipiului Sebeș ; Întrunit în ședința publică , ordinară, din data de 24.03 -2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind contractarea unui studiu în vederea stabilirii circulației emisiilor poluatoare în Municipiul Sebeș; Având în vedere prevederil",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.64.pdf",
+     "sha256": "1ef26ca4090ce7de864ee6a981caa51cf96248eb115e984c46dd4e033b94cde6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-65-2015",
+   "path": "local/alba/sebes/2015/65",
+   "short": "HCL Sebeș nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 65/2015 privind transmiterea dreptului de folosință gratuită în favoarea d-lui Orasan Raul asupra terenului situat în Lancrăm, înscris în CF nr. 80497 Sebes — nr. CF vechi 2638 Lancram, nr. top 3273/67 Consiliul Local al municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 24.03.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind transmiterea dreptului de folosință",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.65.pdf",
+     "sha256": "9a29eeb6edc1139d08e461616a990ff872fefe937cde9261b2b94ce292cb65cc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-66-2015",
    "path": "local/alba/sebes/2015/66",
    "short": "HCL Sebeș nr. 66/2015",
@@ -104,6 +944,336 @@
      "units": 5,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.66.pdf",
      "sha256": "b385f00dab5a0b4ef6b43f8adc0f2b53828ebb2aa0c6dfc7905193d3417f408e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-67-2015",
+   "path": "local/alba/sebes/2015/67",
+   "short": "HCL Sebeș nr. 67/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 67/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.67.pdf",
+     "sha256": "8ec8aafbfceda1f2f33f3bad0b5a4fc563d4e85b090dda80b31f04d81ef13a91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-7-2015",
+   "path": "local/alba/sebes/2015/7",
+   "short": "HCL Sebeș nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 7/2015 Privind aprobarea DOCUMENTAȚIEI DE AVIZARE A LUCRARILOR DE INTERVENȚIE pentru obiectivul de investiții “ SCHIMBARE DE DESTINAȚIE DIN CENTRALA TERMICA ÎN SPATIU CU DESTINAȚIE CULTURALA - CASA ARTELOR SEBES” Consiliul Local al Municipiului Sebes „jud.Alba; Intrunit in ședința publica ordinară din data de 30.01.2015, ora 10,00; Luând în dezbatere proiectul de hotărâre privind aprobarea DOCUMENTAȚIEI",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.7.pdf",
+     "sha256": "e81cd09a143560a1efd71595a0082974b247b45baaa7fea5f4a401f3a4e4bf7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-70-2015",
+   "path": "local/alba/sebes/2015/70",
+   "short": "HCL Sebeș nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 70/2015 Privind modificarea HCL nr.51/2015 privind retragerea unor clădiri din administrarea unor instituții de învățământ și darea acestora în administrare Consiliul Local al municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 23.03.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind modificarea HCL nr.51/2015 privind retragerea unor clădiri din administrarea unor",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.70.pdf",
+     "sha256": "10ddb75bc978fd7a98f741f200d0159c5121a5c59ea58bc845f86f30fea1fa43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-71-2015",
+   "path": "local/alba/sebes/2015/71",
+   "short": "HCL Sebeș nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 71/2015 Privind aprobarea atribuirii unei cantități de material lemnos pentru Școala Gimnazială Nr.2 Sebeș , respectiv Școala Gimnazială Răhău",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.71.pdf",
+     "sha256": "9f7d7bb3dbebd8fb3bc48873715ef30966c61d2bb1b925db6fe500b7e5a08fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-72-2015",
+   "path": "local/alba/sebes/2015/72",
+   "short": "HCL Sebeș nr. 72/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 72/2015 privind completarea HCL.nr.20/2015 privind aprobarea calendarului de activități cultural- educative ce se vor desfășura în cursul anului 2015 Consiliul Local al Municipiului Sebeș , jud",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.72.pdf",
+     "sha256": "89370ca280d3c53c207c33412c6cc02f7c8d36843521c3f83f6073a62c56138d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-73-2015",
+   "path": "local/alba/sebes/2015/73",
+   "short": "HCL Sebeș nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 73/2015 Privind modificarea și completarea HCL.nr.121/2014, privind apartamentarea imobilului situat administrativ în Sebeș, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.73.pdf",
+     "sha256": "de1bb352d9db4865031285cb51532c40931eb0fae54a0e2f64c79b099f0133b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-74-2015",
+   "path": "local/alba/sebes/2015/74",
+   "short": "HCL Sebeș nr. 74/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 74/2015 Privind modificarea caracteristicilor imobilului “Teren Șirini 124.750mp” înregistrat în domeniul privat al Municipiului Sebeș cu nr.inv. 81170.01 Consiliul Local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinară din data de 23.04.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind modificarea caracteristicilor imobilului “Teren Șirini 124.750mp” înregistrat în d",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.74.pdf",
+     "sha256": "7a3706af8d829cc685e95abc0cdd7bf2f4a60f879520e5c215cbb12c60fe475f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-75-2015",
+   "path": "local/alba/sebes/2015/75",
+   "short": "HCL Sebeș nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 75/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.75.pdf",
+     "sha256": "08b260f1104952c1c52dddcd995211a27ca7b4b9e9404a4070c290dbd00da91e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-76-2015",
+   "path": "local/alba/sebes/2015/76",
+   "short": "HCL Sebeș nr. 76/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 76/2015 privind propunerea de atribuire teren aferent construcțiilor proprietate personală Consiliul local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinara din data de 23.04.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind propunerea de atribuire teren aferent construcțiilor proprietate personală; Văzând referatul Serviciului Patrimoniu, Transport și Registrul Agrico",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.76.pdf",
+     "sha256": "5b2d7636b109f596e75bfaf0a31d8879c80b8a10baa307e7167fc9c1cfbf61b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-77-2015",
+   "path": "local/alba/sebes/2015/77",
+   "short": "HCL Sebeș nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 77/2015 privind aprobarea atribuirii de licențe de traseu pentru efectuarea serviciului de transport public local de persoane prin curse regulate Consiliul Local al Municipiului Sebeș, jud",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.77.pdf",
+     "sha256": "50cd8f559fe6044ae3d362f38ea6827949f6900c776f29329b0ebce374775e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-78-2015",
+   "path": "local/alba/sebes/2015/78",
+   "short": "HCL Sebeș nr. 78/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 78/2015 privind introducerea în inventarul domeniului public al municipiului Sebeș a mijlocului fix “Drum de exploatare De 1850”- situat în zona Calea Strâmbă Consiliul Local al municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 23.04.2015, ora 14,00; Luând în dezabtere proiectul de hotărâre privind introducerea în inventarul domeniului public al municipiului Sebeș a mijlocului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.78.pdf",
+     "sha256": "b2202759732316f3ea2b8dabb548f5859ecb979f587229147418682d3ed4f086"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-79-2015",
+   "path": "local/alba/sebes/2015/79",
+   "short": "HCL Sebeș nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 79/2015 privind aprobarea prelungirii contractului de închiriere pentru chiriașul din blocul ANL 53D, ap.2- cartier Lucian Blaga Consiliul local al municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 23.04.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind aprobarea prelungirii contractului de închiriere pentru chiriașul din blocul ANL 53D, ap.2- cartier Lucian Bl",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.79.pdf",
+     "sha256": "e7cd27b12cfbfe9e228294a43ebc8842a38a1ed97f38f3f01335db868bb83925"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-8-2015",
+   "path": "local/alba/sebes/2015/8",
+   "short": "HCL Sebeș nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 8/2015 Privind aprobarea DOCUMENTAȚIEI DE AVIZARE A LUCRARILOR DE INTERVENȚIE pentru obiectivul de investiții “ SCHIMBARE DE DESTINAȚIE DIN CENTRALA TERMICA IN CREȘA ȘI GRADINITA A IMOBILELOR SITUATE IN SEBES, CARTIER VALEA FRUMOASEI: CENTRALA TERMICA CU NR. DE INVENTAR 10852 ȘI DEPOZIT DE CARBUNE CU NR. DE INVENTAR 10851” Consiliul Local al Municipiului Sebes „jud.Alba; Intrunit in ședința publica ordin",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.8.pdf",
+     "sha256": "027506a938dd2688b1b5e89491425b6db0e6c9a13a3acc5569d01d32f7d51257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-80-2015",
+   "path": "local/alba/sebes/2015/80",
+   "short": "HCL Sebeș nr. 80/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 80/2015 Privind însușirea rapoartelor de evaluare: Teren intravilan Valea Sebeșului înscris în CF 79548 Sebeș și Teren intravilan Valea Frumoasei înscris în CF 80331 Sebeș și CF 80215 Sebeș, ce au făcut obiectul Contractului de servicii nr. 66/38164/23.10.2014 Consiliul Local al Municipiului Sebeș, jud.Alba; Întrunit în ședința publică ordinară din data de 23.04.2015, ora 14,00; Luând în dezbatere proiect",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.80.pdf",
+     "sha256": "19c610b0bacd0e8cd6e9ddfa24d3380131fafadea567afc0eade54b0f5d3577d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-82-2015",
+   "path": "local/alba/sebes/2015/82",
+   "short": "HCL Sebeș nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 82/2015 privind retransmiterea din domeniul public al statului și din administrarea Ministerului Transporturilor, in domeniul public al Municipiului Sebes și in administrarea Consiliului Local al Municipiului Sebes, a sectorului de drum, precum și declasarea sectorului de drum național DN 7J (km 0+000 — km 0+750) din categoria functionala a drumurilor de interes național și incadrarea in categoria drumuri",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.82.pdf",
+     "sha256": "d4946ff6a034de7a1eca2910d50c341c00195e8f4310e7c56dbe28b514617f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-84-2015",
+   "path": "local/alba/sebes/2015/84",
+   "short": "HCL Sebeș nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 84/2015 Privind deplasarea, în perioada 30.04.2015 - 03.05.2015, la KOMAROM — Ungaria a unei delegații care să reprezinte Municipiul Sebeș la manifestarea “Zilele Komaromului” Consiliul Local al Municipiului Sebeș, jud. Alba; Intrunit in ședința publică ordinară din data de 23.04.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind deplasarea, în perioada 30.04.2015 - 03.05.2015, la KOMAROM —",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.84.pdf",
+     "sha256": "4521e838ca14251c3b33570842aee9050de6d3beb222cceb1219b7c110cefee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-85-2015",
+   "path": "local/alba/sebes/2015/85",
+   "short": "HCL Sebeș nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 85/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.85.pdf",
+     "sha256": "e659644887b943699a14fb6748fad1a669f29bb80848d2793e52defc4cd1caa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-86-2015",
+   "path": "local/alba/sebes/2015/86",
+   "short": "HCL Sebeș nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 86/2015 Privind aprobarea de către Consiliul Local al Municipiului Sebeș a nivelului cotizației Municipiului Sebeș pentru anul 2015, în sumă de 500.000 lei , în cadrul Asociației „HANDBAL CLUB ALBA — SEBEȘ „ Consiliul local al Municipiului Sebes, Județul Alba ; Intrunit in ședința publică ordinara din data de 23.04.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind însușirea de către Consil",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.86.pdf",
+     "sha256": "9366779f71c76aa31ae3e4e42001663cc1798ca17027f318fddc4a09f4f2cd63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-88-2015",
+   "path": "local/alba/sebes/2015/88",
+   "short": "HCL Sebeș nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 88/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2018/12/hcl-88-1.pdf",
+     "sha256": "704c7013b56252623c2ca6e63093ac6401d5ddd6ca7b38b686b59654fe551c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-9-2015",
+   "path": "local/alba/sebes/2015/9",
+   "short": "HCL Sebeș nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 9/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.9.pdf",
+     "sha256": "3c287746b20582414929542aecce8144b3d5418915fb05ea265b979d83d93c81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-90-2015",
+   "path": "local/alba/sebes/2015/90",
+   "short": "HCL Sebeș nr. 90/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 90/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.90.pdf",
+     "sha256": "843622ae14d52260a4ad977d74b0abb22e69ebd7415e0d01e116e986ef9a4351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-91-2015",
+   "path": "local/alba/sebes/2015/91",
+   "short": "HCL Sebeș nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2015 Privind acordarea cu titlul gratuit a cantității de 20 mc. lemn de foc , Parohiei Ortodoxe Petrești 1 Consiliul Local al municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinară din data de 23.04.2015, ora 14,00; Luând în dezbatere proiectul de hotărâre privind acordarea cu titlul gratuit a cantității de 20 mc, lemn de foc , Parohiei Ortodoxe Petrești l; Văzând: - Expunerea de motive pr",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2015/hcl/HCL.91.pdf",
+     "sha256": "e987658b6cb4f608cfd0d3fb2408ea5902f278ef028e31af6d50a94178e47369"
     }
    ]
   }

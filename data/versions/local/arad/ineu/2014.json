@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2014",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-142-2014",
+   "path": "local/arad/ineu/2014/142",
+   "short": "HCL Ineu nr. 142/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 142/2014 pentru a descărca Hotărârea 142 din 19.12.2014",
+   "url": "https://primariaineu.ro/hotararea-172-impozite-si-taxe-2014-2/",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2015/02/hotararea-142.compressed.pdf",
+     "sha256": "639ff0b665a7fc775bcdaae4bf3f47191f59220d8901016cd8b9fa77526fe75c"
+    }
+   ]
+  }
+ ]
+}

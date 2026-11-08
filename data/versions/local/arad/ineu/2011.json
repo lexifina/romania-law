@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2011",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-100-2011",
+   "path": "local/arad/ineu/2011/100",
+   "short": "HCL Ineu nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 100/2011 privind rectificarea Filei plan de investiţii pe anul 2011",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h100-29_07_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h100-29_07_2011.pdf",
+     "sha256": "430fc9dc427017a483717c659609a544d2840c5b6964a661fd11e346c238afa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-95-2011",
+   "path": "local/arad/ineu/2011/95",
+   "short": "HCL Ineu nr. 95/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 95/2011 privind rectificarea Filei plan de investiţii pe anul 2011",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/HCL-95-30_06_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/HCL-95-30_06_2011.pdf",
+     "sha256": "be0b65d3f02ca1a1f20fa35dd1bc91f12e9f14fbdffc1ed71e24d2b13dd932be"
+    }
+   ]
+  }
+ ]
+}

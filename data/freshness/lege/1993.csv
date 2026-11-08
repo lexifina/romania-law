@@ -1,11 +1,11 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 legea-1-1993,pending-change,2026-11-04,2026-11-11,amendment-search,,1996-08-01,no,https://legislatie.just.ro/Public/DetaliiDocument/2966
 legea-10-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3025
-legea-11-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3027
+legea-11-1993,current,2026-11-08,2026-11-15,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3027
 legea-13-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3036
 legea-14-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3039
-legea-15-1993,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/3043
-legea-16-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3047
+legea-15-1993,pending-change,2026-11-06,2026-11-13,amendment-search,Decizia nr. 308/2002,2002-11-12,no,https://legislatie.just.ro/Public/DetaliiDocument/3043
+legea-16-1993,current,2026-11-08,2026-11-15,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3047
 legea-17-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3053
 legea-18-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3056
 legea-19-1993,pending-change,2026-11-04,2026-11-11,amendment-search,hg-523-2003,2003-05-19,no,https://legislatie.just.ro/Public/DetaliiDocument/3060
@@ -13,12 +13,12 @@ legea-2-1993,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts
 legea-20-1993,pending-change,2026-11-04,2026-11-11,amendment-search,,2009-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/3063
 legea-23-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3074
 legea-24-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3081
-legea-25-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3085
+legea-25-1993,current,2026-11-08,2026-11-15,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3085
 legea-26-1993,pending-change,2026-11-06,2026-11-13,amendment-search,legea-371-2004,2005-01-01,no,https://legislatie.just.ro/Public/DetaliiDocument/3092
-legea-27-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3098
+legea-27-1993,current,2026-11-08,2026-11-15,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3098
 legea-28-1993,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/3103
 legea-29-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3105
-legea-30-1993,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/3109
+legea-30-1993,pending-change,2026-11-08,2026-11-15,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/3109
 legea-31-1993,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3112
 legea-33-1993,pending-change,2026-11-06,2026-11-13,amendment-search,legea-40-1991,1993-07-14,no,https://legislatie.just.ro/Public/DetaliiDocument/3121
 legea-34-1993,current,2026-11-03,,edition-index,legea-19-2000,2001-04-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/3125

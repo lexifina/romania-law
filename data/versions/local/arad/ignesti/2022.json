@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--ignesti-54-2022",
+   "path": "local/arad/ignesti/2022/54",
+   "short": "HCL Ignești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 54/2022 privind aprobarea planului de actiune privind serviciile sociale",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/07/Hotararea-nr.54-din-26.07.2022-privind-aprobarea-planului-de-actiune-privind-serviciile-sociale.pdf",
+     "sha256": "09cb321955c1343e1d56a2e916c8ee12fc978461185051c605c64d07266144fa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-55-2022",
    "path": "local/arad/ignesti/2022/55",
    "short": "HCL Ignești nr. 55/2022",

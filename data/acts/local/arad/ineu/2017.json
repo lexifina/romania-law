@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/ineu/2017",
+"acts": [
+{
+"slug": "hcl-arad--ineu-196-2017",
+"path": "local/arad/ineu/2017/196",
+"kind": "local",
+"year": "2017",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 196/2017",
+"short": "HCL Ineu nr. 196/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-21",
+"latest": "2017-12-21",
+"portal": "https://primariaineu.ro/wp-content/uploads/2018/01/HOT.NR_.196-din-21.12.2017.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

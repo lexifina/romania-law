@@ -3,6 +3,921 @@
  "shard": "local/arad/nadlac/2016",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2016",
+   "path": "local/arad/nadlac/2016/1",
+   "short": "HCL Nădlac nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului Local al Oraşului Nădlac din 18.01.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h1.pdf",
+     "sha256": "5dc13f941b8b045ee6fcac0fcba48ead71a4cc37b0b27d6b366638f8f24f3130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2016",
+   "path": "local/arad/nadlac/2016/10",
+   "short": "HCL Nădlac nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2016 privind actualizarea planului de analiză şi acoperire a riscurilor oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h10.pdf",
+     "sha256": "e1480f24ec405d0f269824a260b815e035d3fdc6e056566183466b40026f0a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2016",
+   "path": "local/arad/nadlac/2016/100",
+   "short": "HCL Nădlac nr. 100/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2016 privind aprobarea vânzării prin licitaţie publică a parcelei nr. cad. 307550, evidenţiată în CF nr. 307550 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h100.pdf",
+     "sha256": "177716c2e52d9e6d89d151234f6cfda142641e0b4920d94a5cfcfc361c1d8ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2016",
+   "path": "local/arad/nadlac/2016/101",
+   "short": "HCL Nădlac nr. 101/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2016 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h101.pdf",
+     "sha256": "5f033b543b53cbba64b59c0da7c25fa74179792f11c74c011c3517ed38b71b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2016",
+   "path": "local/arad/nadlac/2016/102",
+   "short": "HCL Nădlac nr. 102/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2016 privind aprobarea repartizării finanțărilor nerambursabile alocate din fondurile bugetului local al Orașului Nădlac pentru activităţi nonprofit de interes local în anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h102.pdf",
+     "sha256": "8a407be0237b8a61839b426e16ebb7c3906d747eea81ddd126968a9415340867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2016",
+   "path": "local/arad/nadlac/2016/103",
+   "short": "HCL Nădlac nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2016 privind aprobarea Registrului Local al spațiilor verzi al orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h103.pdf",
+     "sha256": "78433b71f5e116ddc5b70b2b8d6f7458d67e3e9279daee320a06fdffaa744ec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2016",
+   "path": "local/arad/nadlac/2016/104",
+   "short": "HCL Nădlac nr. 104/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 15.09.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h104.pdf",
+     "sha256": "101e448e5f629a2c2c87c7a3f3efff5997604d0638336fbcd92f619929f77892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2016",
+   "path": "local/arad/nadlac/2016/105",
+   "short": "HCL Nădlac nr. 105/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2016 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 23.08.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h105.pdf",
+     "sha256": "1c6f7ec0227b08260fe69708da275b422b9b431da2f827f927904d3ebf5609b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-107-2016",
+   "path": "local/arad/nadlac/2016/107",
+   "short": "HCL Nădlac nr. 107/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2016 privind rectificarea bugetului de venituri și cheltuieli al Consiliului local al orașului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h107.pdf",
+     "sha256": "3b117dd519c16797df6689eea530ec4dc5760c9ac86d38189b6eafd55e20e3b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-108-2016",
+   "path": "local/arad/nadlac/2016/108",
+   "short": "HCL Nădlac nr. 108/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 108/2016 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h108.pdf",
+     "sha256": "3b46ef2b6e868f45a7eb2e13e022c07da0fab7002eee6a8f818b1a0c4bb118c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2016",
+   "path": "local/arad/nadlac/2016/109",
+   "short": "HCL Nădlac nr. 109/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 27.09.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h109.pdf",
+     "sha256": "37bd8b14280e5ca648a345c0e2936a837fcb2207861f45a8d439fa4e6328d1c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2016",
+   "path": "local/arad/nadlac/2016/11",
+   "short": "HCL Nădlac nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h11.pdf",
+     "sha256": "fd6ad863d20ec0c0dd6556150a278ba3d3cd0de2724f3e5bbbbbbd19407af612"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-110-2016",
+   "path": "local/arad/nadlac/2016/110",
+   "short": "HCL Nădlac nr. 110/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2016 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 15.09.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h110.pdf",
+     "sha256": "0689e68296170c3c0e2fd6c93cfae6b21a8951e1db5d5906b662874b31e145fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-111-2016",
+   "path": "local/arad/nadlac/2016/111",
+   "short": "HCL Nădlac nr. 111/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2016 privind aprobarea vânzării prin licitație publică a parcelei cu nr. cad.304582, evidențiată în CF nr.304582 Nădlac și a parcelei nr. cad.304583, evidențiată în CF nr.304583 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h111.pdf",
+     "sha256": "d8c1fbd43b460e36209edff90cdc65fbe8889c498c73fca7499616fac485ab53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2016",
+   "path": "local/arad/nadlac/2016/112",
+   "short": "HCL Nădlac nr. 112/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2016 privind aprobarea introducerii în circuitul funciar a unor drumuri de exploatare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h112.pdf",
+     "sha256": "0d712ecf1f41378dd37269ecd5af51179abf24d57448fe4a9541ff9a044fe844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2016",
+   "path": "local/arad/nadlac/2016/113",
+   "short": "HCL Nădlac nr. 113/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2016 privind aprobarea trecerii în proprietatea privată a Orașului Nădlac și introducerii în circuitul funciar a parcelei nr. top.11960",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h113.pdf",
+     "sha256": "0b971130ece8e51c4c0544f1e211cd507b5ba5713676a9974ecaea24e3439105"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2016",
+   "path": "local/arad/nadlac/2016/114",
+   "short": "HCL Nădlac nr. 114/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2016 privind introducerea în circuit funciar a unor imobile, respectiv str. Victoriei- 3784 mp și baltă- 2802 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h114.pdf",
+     "sha256": "798867b9a7a6b8d18ec75ecc883efe4415ca793ea193aea45e06b6cf7df174c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2016",
+   "path": "local/arad/nadlac/2016/115",
+   "short": "HCL Nădlac nr. 115/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2016 privind aprobarea documentației cadastrale pentru apartamentare bloc de locuințe, situat în orașul Nădlac, str. G. Coșbuc, nr.54, parcela nr. cad.305290-C1, evidențiată în CF nr.305290 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h115.pdf",
+     "sha256": "ab5bf821a04da079356572a0ecf66c8c8b76a9a8fd259b4552e47434c66954b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2016",
+   "path": "local/arad/nadlac/2016/116",
+   "short": "HCL Nădlac nr. 116/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2016 privind aprobarea listei de prioritate pentru acordarea locuințelor pentru tineri, destinate închirierii și a listei de repartizare a locuințelor pentru tineri, destinate închirierii, în orașul Nădlac, construite prin Agenția Națională pentru Locuințe",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h116.pdf",
+     "sha256": "689d6fb542f14a46db2408d296a6be91bf0512c2413183eae126d0c08edfaf6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2016",
+   "path": "local/arad/nadlac/2016/117",
+   "short": "HCL Nădlac nr. 117/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2016 privind delegarea gestiunii serviciului public de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale și al deșeurilor similare, provenite din activități comerciale din industrie și instituții, inclusiv fracții colectate separat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h117.pdf",
+     "sha256": "d1a96aefbb0e3c3a0429cdb05cf6cb6b5f0d190a229ff55a4077bd05316c65f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2016",
+   "path": "local/arad/nadlac/2016/118",
+   "short": "HCL Nădlac nr. 118/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h118.pdf",
+     "sha256": "0549e1855187e4f76161d5be5f6f1f37ff6550f8a23c5e6c06dbd5505e2249a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2016",
+   "path": "local/arad/nadlac/2016/119",
+   "short": "HCL Nădlac nr. 119/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2016 privind aprobarea introducerii în circuitul funciar a unor drumuri de exploatare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h119.pdf",
+     "sha256": "1de456663db015a3b21b91e074547ae8b33055b3e0d56b888c39fb45886738f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2016",
+   "path": "local/arad/nadlac/2016/12",
+   "short": "HCL Nădlac nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2016 privind aprobarea procesului verbal al comisiei de negociere a nivelului chiriilor pentru localurile şcolare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h12.pdf",
+     "sha256": "b8db3f84a42dd61eb7cc23bfe019a1dd4b372b11f757e84a91d891f6bda39d8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2016",
+   "path": "local/arad/nadlac/2016/120",
+   "short": "HCL Nădlac nr. 120/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2016 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h120.pdf",
+     "sha256": "c80a270adef247caa05eb50734eeb7d45b4ef22a84f05758674a4c20e5864a75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-121-2016",
+   "path": "local/arad/nadlac/2016/121",
+   "short": "HCL Nădlac nr. 121/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 121/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 11.10.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h121.pdf",
+     "sha256": "d897c2921a8cd4150d0041ba9d1036b0c8656e1d9e3a31930ed32824f6df4453"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2016",
+   "path": "local/arad/nadlac/2016/122",
+   "short": "HCL Nădlac nr. 122/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2016 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 27.09.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h122.pdf",
+     "sha256": "84357e0cfbc46fa0d91a7ee5fe9c29533660dfc94975dddf65e37de5813687ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2016",
+   "path": "local/arad/nadlac/2016/123",
+   "short": "HCL Nădlac nr. 123/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2016 privind acordarea titlului de cetățean de onoare al orașului Nădlac d-lui Andrej Kiska, Preşedintele Republicii Slovace",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h123.pdf",
+     "sha256": "c07aa360bed4e6350ccbac8b709bac1d4d610860dae0dfaeacfbb61909db3a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-124-2016",
+   "path": "local/arad/nadlac/2016/124",
+   "short": "HCL Nădlac nr. 124/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 25.10.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h124.pdf",
+     "sha256": "2c320ffe355607bb4a5a0eefe1ac786872231b3e2b48206a2e806a5acc67cd4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-125-2016",
+   "path": "local/arad/nadlac/2016/125",
+   "short": "HCL Nădlac nr. 125/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 125/2016 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 11.10.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h125.pdf",
+     "sha256": "7fc106a9111ac0e6d83e6447cc973ba042ddc401599b6e47ca0f6bf73a2c6584"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-126-2016",
+   "path": "local/arad/nadlac/2016/126",
+   "short": "HCL Nădlac nr. 126/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 126/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 28.10.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h126.pdf",
+     "sha256": "a3d0ae9026a24c6d8196419599527e2c0e6c838e2cc831291ce6f71b09de690a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2016",
+   "path": "local/arad/nadlac/2016/127",
+   "short": "HCL Nădlac nr. 127/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2016 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 25.10.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h127.pdf",
+     "sha256": "60d9debe1ef846368fca4beb7ddd666238ed20bb57b95559ef3003263e360ab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-128-2016",
+   "path": "local/arad/nadlac/2016/128",
+   "short": "HCL Nădlac nr. 128/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 128/2016 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h128.pdf",
+     "sha256": "22c666e7759e6fe2b1f26943b575db062e6db315255144a0da5b27fc05b81ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-129-2016",
+   "path": "local/arad/nadlac/2016/129",
+   "short": "HCL Nădlac nr. 129/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2016 privind aprobarea execuției bugetului local aferent trimestrului II al anului 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h129.pdf",
+     "sha256": "ec95bbf5ab2b410fbedee7d7ad4e8f5f5cb21eef25cbb66107354d18cd9b70bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-13-2016",
+   "path": "local/arad/nadlac/2016/13",
+   "short": "HCL Nădlac nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 21.02.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h13.pdf",
+     "sha256": "30f3adca59ea13de2795477fdd80eb34584dbf9e2aac3ef837f0b87b78d644b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-131-2016",
+   "path": "local/arad/nadlac/2016/131",
+   "short": "HCL Nădlac nr. 131/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2016 privind aprobarea repartizării unei finanțări nerambursabile alocată din fondurile bugetului local al Orașului Nădlac pentru activități nonprofit de interes local în anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h131.pdf",
+     "sha256": "5d695617a2e4e9f2fdf878573c841e096ec85db9bca95881b055b930165c24ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2016",
+   "path": "local/arad/nadlac/2016/132",
+   "short": "HCL Nădlac nr. 132/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2016 privind rectificarea suprafeței parcelei nr.cad.205, Ps570/1, evidențiată în CF nr.307987 Nădlac ( Nr. CF vechi 9978 Nădlac )",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h132.pdf",
+     "sha256": "a76a8bbbce131e238fe393b9132ab7c983597ea7b114fe3f65d200a86d206cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-133-2016",
+   "path": "local/arad/nadlac/2016/133",
+   "short": "HCL Nădlac nr. 133/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2016 privind rectificarea suprafeței parcelei nr.top.3001/1, 3001/2, 3001/3, evidențiată în CF nr.303645 Nădlac ( Nr. CF vechi 10582 Nădlac)",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h133.pdf",
+     "sha256": "34e2cd91bd702e756163e83ccd982afd566df61aaa79a9a199d780706eafb13a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2016",
+   "path": "local/arad/nadlac/2016/134",
+   "short": "HCL Nădlac nr. 134/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2016 privind aprobarea vânzării terenului în suprafaţă de 921 mp, parcela cu nr. cad. 306410, evidenţiată în CF nr. 306410 Nădlac, teren situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h134.pdf",
+     "sha256": "8704c2a91fd70af1efc8f271095249ae96e039a8d74fa13050bb9008b60d89f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2016",
+   "path": "local/arad/nadlac/2016/135",
+   "short": "HCL Nădlac nr. 135/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2016 privind aprobarea rezilierii contractului de concesiune nr.7624 din 29.07.2014, încheiat între Orașul Nădlac și S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h135.pdf",
+     "sha256": "084197cf009d8c7954d2a84ae8e4d09e1dbb82d7a5eee8977637d747b06b1fd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-136-2016",
+   "path": "local/arad/nadlac/2016/136",
+   "short": "HCL Nădlac nr. 136/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 136/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h136.pdf",
+     "sha256": "db7779613a6e1eaf666fd1a0722624181b45cfd339115f264a4e339dc5d56a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-137-2016",
+   "path": "local/arad/nadlac/2016/137",
+   "short": "HCL Nădlac nr. 137/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 137/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 28.11.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h137.pdf",
+     "sha256": "d32652e9cc971e59743f3feb23a69ea464d6df93a6afdb6fcf19478630c361ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-138-2016",
+   "path": "local/arad/nadlac/2016/138",
+   "short": "HCL Nădlac nr. 138/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2016 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 28.10.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h138.pdf",
+     "sha256": "7bdb8ce8bc92600114283af3de286a22e5a1492212848711d14c27f2edb47d88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-139-2016",
+   "path": "local/arad/nadlac/2016/139",
+   "short": "HCL Nădlac nr. 139/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 139/2016 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h139.pdf",
+     "sha256": "2f4ee66dbcf27767131bf2d7b4533dbf7cac514294e061d1806bdd965993a1e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2016",
+   "path": "local/arad/nadlac/2016/14",
+   "short": "HCL Nădlac nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 29.01.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h14.pdf",
+     "sha256": "12ae7cfc6cc3e365163160e5a5a46e264623921c5a71e8124e3ca829e16feab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-140-2016",
+   "path": "local/arad/nadlac/2016/140",
+   "short": "HCL Nădlac nr. 140/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 140/2016 privind raprobarea execuției bugetului local aferent trimestrului II al anului 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h140.pdf",
+     "sha256": "cb39b8781dce3b8b84919315709f430ff46fa38c31b0f31fd3ccb342b80f6365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-141-2016",
+   "path": "local/arad/nadlac/2016/141",
+   "short": "HCL Nădlac nr. 141/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 141/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h141.pdf",
+     "sha256": "bd31674f7eb480d3e339c68457e3e4acb39c3b980980aa1f171349c06c05d935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-142-2016",
+   "path": "local/arad/nadlac/2016/142",
+   "short": "HCL Nădlac nr. 142/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 142/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h142.pdf",
+     "sha256": "e09293c9313d0e15b8fd366998d69642aa022d73c0f5109e9562c6f76338a381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2016",
+   "path": "local/arad/nadlac/2016/143",
+   "short": "HCL Nădlac nr. 143/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2016 privind transformarea unui post din cadrul Liceului Teoretic Jozef Gregor Tajovsky Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h143.pdf",
+     "sha256": "898e37613cfce22a5ccf93a19f931a70ea19954d0aef201c2b09f395eb2e577f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-144-2016",
+   "path": "local/arad/nadlac/2016/144",
+   "short": "HCL Nădlac nr. 144/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2016 privind aprobarea introducerii în circuitul funciar a unor drumuri de exploatare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h144.pdf",
+     "sha256": "c9cbd41a228d224678c21a65f73b5e753ba78b2494c4db7794e8e3b81b7d9648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-145-2016",
+   "path": "local/arad/nadlac/2016/145",
+   "short": "HCL Nădlac nr. 145/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 145/2016 privind numirea comisiei de negociere a nivelului chiriilor pentru localurile școlare, precum și stabilirea limitelor competenței acesteia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h145.pdf",
+     "sha256": "1ac37443a823602dbbdc0144182178e455aa0b808bed43e64eaa8b86122b8fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-146-2016",
+   "path": "local/arad/nadlac/2016/146",
+   "short": "HCL Nădlac nr. 146/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 146/2016 privind modificarea organigramei Consiliului local al orașului Nădlac și a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h146.pdf",
+     "sha256": "5df1111f0b6f16baf005682ff3c86d0fded80501a4ea5a8586aaeddbd76e1643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-147-2016",
+   "path": "local/arad/nadlac/2016/147",
+   "short": "HCL Nădlac nr. 147/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 147/2016 privind aprobarea Planului de ocupare a funcțiilor publice pe anul 2017",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h147.pdf",
+     "sha256": "b5b2eaf22c6b160de5faab882b5a74ed2968b1e244d4f4a0ea40db43536c9af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-148-2016",
+   "path": "local/arad/nadlac/2016/148",
+   "short": "HCL Nădlac nr. 148/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 148/2016 privind aprobarea vânzării prin licitație publică a mijlocului de transport (autobuz), număr inventar 2068",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h148.pdf",
+     "sha256": "4ae579c4006c595da40a64bef26ab46291a4889b8e5203574e5cc2d60a2bdeac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-149-2016",
+   "path": "local/arad/nadlac/2016/149",
+   "short": "HCL Nădlac nr. 149/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 149/2016 privind aprobarea cesionării drepturilor şi obligaţiilor asumate conform contractului de concesiune FN din 01.06.2006 încheiat cu S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h149.pdf",
+     "sha256": "dcb3eca4e0b706cece8198e66491f2441171eccf85d487c1cfb26c69e82d04e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2016",
+   "path": "local/arad/nadlac/2016/15",
+   "short": "HCL Nădlac nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2016 privind rectificarea bugetului de venituri şi cheltuieli a Consiliului Local al Oraşului Nădlac din anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h15.pdf",
+     "sha256": "94f0debee49ad677511aa491dda5dd873646c857ad7d80a5ec76dfd82831daef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2016",
+   "path": "local/arad/nadlac/2016/150",
+   "short": "HCL Nădlac nr. 150/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2016 privind aprobarea ordinei de zi a ședinței extraordinare a Consiliului Local Nădlac din data de 21.12.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h150.pdf",
+     "sha256": "f0d06bb4712eb5d2196fa1b15c3c7c3cf7e1d13fb4fafa96a5c9a1a6efd7152a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2016",
+   "path": "local/arad/nadlac/2016/151",
+   "short": "HCL Nădlac nr. 151/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2016 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Nădlac din data de 28.11.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h151.pdf",
+     "sha256": "7887e1dd535175b7fbe8106880cf9f15d326b1fd9a30366f6a879ff6995edf59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-152-2016",
+   "path": "local/arad/nadlac/2016/152",
+   "short": "HCL Nădlac nr. 152/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2016 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local al orașului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h152.pdf",
+     "sha256": "e32b334d63cd05eacc91630073e6a3d05d463312687e7352d2de82167aa84eca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-153-2016",
+   "path": "local/arad/nadlac/2016/153",
+   "short": "HCL Nădlac nr. 153/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 153/2016 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h153.pdf",
+     "sha256": "f854fe761c3059a03474a9c52c88606829747c0a6d756de5648d132c5bdcb301"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-154-2016",
+   "path": "local/arad/nadlac/2016/154",
+   "short": "HCL Nădlac nr. 154/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 154/2016 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului Local Nădlac din data de 29.12.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h154.pdf",
+     "sha256": "0ca1d85fbd82b58459c10dfac35c3b0f4543867ae4a3a4470f9df6f07749d535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-155-2016",
+   "path": "local/arad/nadlac/2016/155",
+   "short": "HCL Nădlac nr. 155/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2016 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Nădlac din data de 21.12.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h155.pdf",
+     "sha256": "b205415685a09c43f78697dc13b23392d0eafe9a597a8856b60425889e70ea7c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-156-2016",
    "path": "local/arad/nadlac/2016/156",
    "short": "HCL Nădlac nr. 156/2016",
@@ -33,6 +948,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-158-2016",
+   "path": "local/arad/nadlac/2016/158",
+   "short": "HCL Nădlac nr. 158/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 158/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h158.pdf",
+     "sha256": "2bfeeb955de00203ee6889c8d1f16353fb63b5316c4429ed7d33ce2e0bad001d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-159-2016",
+   "path": "local/arad/nadlac/2016/159",
+   "short": "HCL Nădlac nr. 159/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 159/2016 privind rectificarea suprafeței situate în cvartalul cuprins între străzile: Lacului, Primăverii, dr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h159.pdf",
+     "sha256": "dd3537e57cb4715286916b26ca7e78b329aa202d50aebf7109bc2f32dd39dabd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2016",
+   "path": "local/arad/nadlac/2016/16",
+   "short": "HCL Nădlac nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2016 privind aprobarea execuţiei bugetului local aferente trimestrului III al anului 2015",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h16.pdf",
+     "sha256": "474e0319cfaac292282f242bb2ba159ae62abedd156c73839976b3de0b3c0790"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-160-2016",
    "path": "local/arad/nadlac/2016/160",
    "short": "HCL Nădlac nr. 160/2016",
@@ -44,6 +1004,36 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h160.pdf",
      "sha256": "9ba0ceb53463a54cdecae446941c8a2970fadf88a50cdac34fa637e26096640f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2016",
+   "path": "local/arad/nadlac/2016/161",
+   "short": "HCL Nădlac nr. 161/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2016 privind modificarea art. 2 al Hotărârii Consiliului Local Nădlac nr. 50/31.03.2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h161.pdf",
+     "sha256": "9705658755b192811b3cd5829358a8663e13ffb605c24cf3a257853b4889613b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-162-2016",
+   "path": "local/arad/nadlac/2016/162",
+   "short": "HCL Nădlac nr. 162/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2016 privind aprobarea documentației pentru investiția „Modernizare și reabilitare rețea de străzi din orașul Nădlac, faza D.A.L.I.”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h162.pdf",
+     "sha256": "5f3e8e85a1958c1bb925cb6eaf9cea4e03e5de632d1b0a935f2e1e9f18dc4cde"
     }
    ]
   },
@@ -63,6 +1053,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-18-2016",
+   "path": "local/arad/nadlac/2016/18",
+   "short": "HCL Nădlac nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2016 pentru aplicarea prevederilor Ordonanţei de Urgenţă a Guvernului nr. 44/14.10.2015 privind acordarea unor facilităţi fiscale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h18.pdf",
+     "sha256": "4d0518fafc857376669bc15a12aea0580fa50b038155feaccf523362757c5e7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2016",
+   "path": "local/arad/nadlac/2016/19",
+   "short": "HCL Nădlac nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2016 privind acordarea unui mandat reprezentantului Consiliului Local Nădlac în Adunarea Generală a S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h19.pdf",
+     "sha256": "1cea0b64d9ac74494e48822be478e0797065a0f62e352d4a231269f64b4e6668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2016",
+   "path": "local/arad/nadlac/2016/2",
+   "short": "HCL Nădlac nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2016 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului Local al Oraşului Nădlac din 17.12.2015",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h2.pdf",
+     "sha256": "3eaed3335d8b6381b8668f3235e57fb449cc73f7ef09244e72a20c8446e8c34a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-20-2016",
    "path": "local/arad/nadlac/2016/20",
    "short": "HCL Nădlac nr. 20/2016",
@@ -74,6 +1109,651 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h20.pdf",
      "sha256": "76e2ba1e24c9364647a240637379858b8baee87a41effac0392326238453c9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2016",
+   "path": "local/arad/nadlac/2016/21",
+   "short": "HCL Nădlac nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2016 privind aprobarea actului adiţional nr. 3 la contractul de cesiune nr. 9016 din 20.09.2012 şi a actului adiţional nr. 2 la contractul de cesiune nr. 9017 din 20.09.2012",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h21.pdf",
+     "sha256": "0077fd7bfea3ab1b07d9566a1bfd8dd5f66741077510f1b39683ff64b3ff27b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2016",
+   "path": "local/arad/nadlac/2016/22",
+   "short": "HCL Nădlac nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2016 privind aprobarea Planului de acţiuni sau de lucrări de interes local, care vor fi prestate de beneficiarii Legii nr. 416/2001 privind venitul minim garantat pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h22.pdf",
+     "sha256": "3fe2bb5f043ecba6e95023ee43a13ce3c9b2e51aa3fc3288fd637d199d0eb0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2016",
+   "path": "local/arad/nadlac/2016/23",
+   "short": "HCL Nădlac nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2016 privind modalitatea de identificare a beneficiarilor stimulentului educaţional sub formă de tichete sociale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h23.pdf",
+     "sha256": "26a622296823c9fad5be43688c832cdaaca9b8212a3988193884752960ecc48e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2016",
+   "path": "local/arad/nadlac/2016/24",
+   "short": "HCL Nădlac nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2016 privind aprobarea organigramei şi a statului de funcţii pe nul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h24.pdf",
+     "sha256": "256556f9c1083cb4914a23343d969532dce2134b4a21e589ca879597faf40687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2016",
+   "path": "local/arad/nadlac/2016/25",
+   "short": "HCL Nădlac nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2016 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h25.pdf",
+     "sha256": "a1a6d4003fd4a5064a0c9a0431eb9223b6bc54daf7c7638af72f86d352244ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2016",
+   "path": "local/arad/nadlac/2016/26",
+   "short": "HCL Nădlac nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 22.03.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h26.pdf",
+     "sha256": "7b982f457fdbdd0e7b682258e66dcff2949335a0ad5e1ceac06c141eb4f1b7dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2016",
+   "path": "local/arad/nadlac/2016/27",
+   "short": "HCL Nădlac nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 29.02.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h27.pdf",
+     "sha256": "da7a71fb056a4763276161fe9dbd40947707666959484f882655787998a706da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2016",
+   "path": "local/arad/nadlac/2016/28",
+   "short": "HCL Nădlac nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2016 privind aprobarea indemnizaţiilor personalului voluntar din cadrul Serviciului Voluntar pentru Situaţii de Urgenţă Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h28.pdf",
+     "sha256": "d76b523eabecf4dd83df79798fdd3c3e8a299396034a5391e5134d818b1fe932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2016",
+   "path": "local/arad/nadlac/2016/29",
+   "short": "HCL Nădlac nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2016 privind aprobarea măsurilor pentru remedierea deficienţelor şi pentru realizarea capacităţii de apărare împotriva incendiilor la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h29.pdf",
+     "sha256": "14012f62cac36fd43b08a760b76c1337827e74cb2f2131bc514fb3e0e7bb46dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2016",
+   "path": "local/arad/nadlac/2016/3",
+   "short": "HCL Nădlac nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2016 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului Local al Oraşului Nădlac din 18.12.2015",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h3.pdf",
+     "sha256": "c7f41dbc39a89281cd53367781588b1695b7893a9fdbf5cb5c43f9419e34fa5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2016",
+   "path": "local/arad/nadlac/2016/30",
+   "short": "HCL Nădlac nr. 30/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h30.pdf",
+     "sha256": "796d2a7eda7e12e4d64e7af1266790374bef32c5c02ecac4a66f766e7e4c29c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2016",
+   "path": "local/arad/nadlac/2016/31",
+   "short": "HCL Nădlac nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2016 privind aprobarea strategiei de dezvoltare a orașului Nădlac pentru perioada 2014-2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h31.pdf",
+     "sha256": "1f88978fb92d9726ee66675ef7de10b6d282c979a903caaf622b916e0e8e92ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2016",
+   "path": "local/arad/nadlac/2016/32",
+   "short": "HCL Nădlac nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2016 privind modificarea organigramei Serviciului Centrului de Zi de îngrijire a copiilor Nădlac și a statului de funcții",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h32.pdf",
+     "sha256": "cb90f3cfc8c470e002067029dcd3a1f31f7180fd9f56b006a2c32098d9ae0dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2016",
+   "path": "local/arad/nadlac/2016/33",
+   "short": "HCL Nădlac nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2016 privind alocarea unei sume din bugetul local pe anul 2016 Clubului sportiv de drept public ,, VICTORIA ” NĂDLAC",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h33.pdf",
+     "sha256": "5bb8b2d9d76c3fec6653da1b77c60436d5de0728ba649e6825fc4886818399fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2016",
+   "path": "local/arad/nadlac/2016/34",
+   "short": "HCL Nădlac nr. 34/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2016 privind participarea Orașului Nădlac, în colaborare cu Liga Județeană a Pensionarilor Arad- Clubul pensionarilor Nădlac, în vederea acoperirii cheltuielilor de întreținere și funcționare a spațiului situat în orașul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h34.pdf",
+     "sha256": "954b62c4b2b3d595bf3a7a0fa57cd4883009fdd025306722b4e266434f5e39e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2016",
+   "path": "local/arad/nadlac/2016/35",
+   "short": "HCL Nădlac nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2016 privind participarea Orașului Nădlac, în colaborare cu Asociația Diakonia Evanghelică Nădlac și Liceul Teoretic Jozef Gregor Tajovsky Nădlac, în vederea acoperirii cheltuielilor cu salariile personalului nedidactic",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h35.pdf",
+     "sha256": "fbf18df882818a9bdb68a5b3eb1c01b0cf66057a4cd0d1d47300004f03b7aa2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2016",
+   "path": "local/arad/nadlac/2016/36",
+   "short": "HCL Nădlac nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2016 privind participarea Orașului Nădlac, în colaborare cu Asociația Diakonia Evanghelică Nădlac în vederea conservării și promovării culturii tradiționale slovace",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h36.pdf",
+     "sha256": "bc7f9abf9f38d911a015a34fba5e01aa209f4d8430f99519e26b72a9905afcc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2016",
+   "path": "local/arad/nadlac/2016/38",
+   "short": "HCL Nădlac nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2016 privind modificarea şi completarea Hotărârii Consiliului Local nr. 112/23.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h38.pdf",
+     "sha256": "48cc51cf1c16783e62467dfdc817b9bb8853f38da048fbc8626c84039b57d779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2016",
+   "path": "local/arad/nadlac/2016/39",
+   "short": "HCL Nădlac nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h39.pdf",
+     "sha256": "3ba3cbd7a47a01568ac0e944e3131400b71be52c5a64cf12bd8b37f6cee35d0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-4-2016",
+   "path": "local/arad/nadlac/2016/4",
+   "short": "HCL Nădlac nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 21.12.2015",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h4.pdf",
+     "sha256": "b54a74adf11d10e0b7debb6d21d3f82da39937a158d955e621611e14b2826967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2016",
+   "path": "local/arad/nadlac/2016/40",
+   "short": "HCL Nădlac nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2016 privind aprobarea trecerii în proprietatea privată a Orașului Nădlac și introducerii în circuitul funciar a unor parcele",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h40.pdf",
+     "sha256": "7594193e8aa91431afbcec8441335f93d91f4fb69e242d3b99dce7da60049fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2016",
+   "path": "local/arad/nadlac/2016/41",
+   "short": "HCL Nădlac nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 22.04.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h41.pdf",
+     "sha256": "ed075972f4b73b9f9332e7f9e24bb070cab0b925b384a3b4b4feed948e76c349"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2016",
+   "path": "local/arad/nadlac/2016/42",
+   "short": "HCL Nădlac nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 22.03.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h42.pdf",
+     "sha256": "0f5eea0b3b90ecd542ca6902d1026ea5b0d4e566f60dae106e9f8eb3e2f5617c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2016",
+   "path": "local/arad/nadlac/2016/43",
+   "short": "HCL Nădlac nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h43.pdf",
+     "sha256": "4f0a6c44bb93e938f812cba61630ccd45effce575ed645dd652d989d97c894bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2016",
+   "path": "local/arad/nadlac/2016/44",
+   "short": "HCL Nădlac nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2016 privind modificarea componenţei comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h44.pdf",
+     "sha256": "bdde5f2551abf4ce43408f5cacb0da0a401f155cf10a91932b425e54ba519b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2016",
+   "path": "local/arad/nadlac/2016/45",
+   "short": "HCL Nădlac nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h45.pdf",
+     "sha256": "6c64a29c6b9d721ccb2a9d11da23f275622860a911d42f41d61914ed76493db3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-46-2016",
+   "path": "local/arad/nadlac/2016/46",
+   "short": "HCL Nădlac nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2016 privind reorganizarea unei comisii de specialitate a Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h46.pdf",
+     "sha256": "479d846439e83a2f98feb49216a90388015302d4897d67d51d9a3e1ac6dce165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-47-2016",
+   "path": "local/arad/nadlac/2016/47",
+   "short": "HCL Nădlac nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2016 privind aprobarea Planului de acţiune pentru implementarea strategiei judeţene a serviciilor sociale la nivel local pentru anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h47.pdf",
+     "sha256": "09804031b00efd8b8e563c67d5093e70773496d211cdb07215816061601218b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2016",
+   "path": "local/arad/nadlac/2016/48",
+   "short": "HCL Nădlac nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2016 privind acordarea titlului de cetățean de onoare al orașului Nădlac Mgr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h48.pdf",
+     "sha256": "d2b186c4508eaed17564069da907de042636afc4c7b9b6f14dd4d66be5fe3c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2016",
+   "path": "local/arad/nadlac/2016/49",
+   "short": "HCL Nădlac nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2016 privind acordarea titlului de cetățean de onoare al orașului Nădlac artistei Mirabela Dauer",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h49.pdf",
+     "sha256": "f153faca25a44f85c586b27d988538655b04a20a61816f5bde5a944196ebf2fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2016",
+   "path": "local/arad/nadlac/2016/5",
+   "short": "HCL Nădlac nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2016 privind aprobarea indicatorilor tehnico-economici actualizaţi reprezentând noua valoare a investiţiei pentru investiţia „Reabilitarea reţelei de străzi din oraşul Nădlac” compusă din valoarea serviciilor/lucrărilor executate decontate sau nedecontate până la 31.12.20.1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h5.pdf",
+     "sha256": "9aade73f71a4ace0495ddf5fa4557a4125799287f8b2b009d0d0f5110d36fd82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2016",
+   "path": "local/arad/nadlac/2016/50",
+   "short": "HCL Nădlac nr. 50/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2016 privind modificarea organigramei Clubului sportiv « Victoria » Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h50.pdf",
+     "sha256": "ec9b15c2f6a701bd76f3e2d6ff6e2279a6ace84cd0620ba4aeb07f42c1f4a500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2016",
+   "path": "local/arad/nadlac/2016/51",
+   "short": "HCL Nădlac nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h51.pdf",
+     "sha256": "4709f0a3f679bf177226d50d21ee253695612002ce55fdb30718642472ab8139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2016",
+   "path": "local/arad/nadlac/2016/52",
+   "short": "HCL Nădlac nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h52.pdf",
+     "sha256": "607ef4eedaa23917c78a8f1e6c4f9975a090e6f37be4cdd4e5209cd51455203a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2016",
+   "path": "local/arad/nadlac/2016/53",
+   "short": "HCL Nădlac nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h53.pdf",
+     "sha256": "83c6c9dc3066282168ae399795883944e917aebf7726e96b9a5483224539bb8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2016",
+   "path": "local/arad/nadlac/2016/54",
+   "short": "HCL Nădlac nr. 54/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 16.05.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h54.pdf",
+     "sha256": "920ce83505ebd73fbbe60a916b8244732465ec8ccb4a1385e9122fb98246cd21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2016",
+   "path": "local/arad/nadlac/2016/55",
+   "short": "HCL Nădlac nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 22.04.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h55.pdf",
+     "sha256": "c2c5b9e53acc860608ed9fc387a48e41091540f67f1855a32af028c0019fd0e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2016",
+   "path": "local/arad/nadlac/2016/56",
+   "short": "HCL Nădlac nr. 56/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 26.05.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h56.pdf",
+     "sha256": "f617445eaa7e85ac324038c74a76f0fd862f8c9306710b84e5cc7f694f7b4794"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2016",
+   "path": "local/arad/nadlac/2016/57",
+   "short": "HCL Nădlac nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2016 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 16.05.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h57.pdf",
+     "sha256": "08a38750abf6273a7bd0aec616fc387d811b2fb577bf9995dd57bf4787f7a231"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2016",
+   "path": "local/arad/nadlac/2016/58",
+   "short": "HCL Nădlac nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2016 privind încheierea și aprobarea exercițiului bugetar pe anul 2015",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h58.pdf",
+     "sha256": "2a9e71c9a9bdf893cf9c9d3ca16265377935658f9e61d96db9329a6f138ebf71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2016",
+   "path": "local/arad/nadlac/2016/59",
+   "short": "HCL Nădlac nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2016 privind aprobarea execuției bugetului local aferente trimestrului I al anului 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h59.pdf",
+     "sha256": "bdabd176c46d5f4e867babb55533c899b6fd6916ac3f68a845033ce0852986a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2016",
+   "path": "local/arad/nadlac/2016/6",
+   "short": "HCL Nădlac nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 29.01.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h6.pdf",
+     "sha256": "695aa962b3ae4f77a22f3027d10546777144796f64a3eb8272f58c2c2f87ec67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2016",
+   "path": "local/arad/nadlac/2016/60",
+   "short": "HCL Nădlac nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2016 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h60.pdf",
+     "sha256": "2a658b30385b639f476389e0f742b62c483882d1f512a403567187f0a146a4fc"
     }
    ]
   },
@@ -93,6 +1773,306 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-62-2016",
+   "path": "local/arad/nadlac/2016/62",
+   "short": "HCL Nădlac nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2016 privind aprobarea preluării de la Agenția Națională pentru Locuințe a obiectivului de investiții situat în orașul Nădlac, str. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h62.pdf",
+     "sha256": "382e3a2faf6a34168a3918869ff79c6435ece086997c16d7e1bb44a47efc5d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2016",
+   "path": "local/arad/nadlac/2016/63",
+   "short": "HCL Nădlac nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2016 privind aprobarea transmiterii în folosință gratuită către Ministerul Educației Naționale și Cercetării Științifice, reprezentat de Inspectoratul Școlar Județean Arad, a parcelelor nr. top. 3001/1, 3001/2, 3001/3, evidențiate în CF nr. 303645 Nădlac ( CF vechi 10582 N",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h63.pdf",
+     "sha256": "01e57f15a71f0a0acaf79e9cf40829e78fe4817688ecb230217a30cfc3abfad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2016",
+   "path": "local/arad/nadlac/2016/64",
+   "short": "HCL Nădlac nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2016 privind constituirea orașului Nădlac ca parte civilă în dosarul penal nr.1327/P/2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h64.pdf",
+     "sha256": "8d84eca51ccabb26a67285b3526f4fb775d52bc9aa0627f6e61e476ecf5ea7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-65-2016",
+   "path": "local/arad/nadlac/2016/65",
+   "short": "HCL Nădlac nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 65/2016 privind rectificarea suprafeței parcelei nr.top.13122/2/1/1, evidențiată în CF nr.304731 Nădlac ( Nr. CF vechi 9401 Nădlac )",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h65.pdf",
+     "sha256": "030cbb4fdac9ba9272b961a61e398ff151856d5e21ccb045d8ffdd5b620f1644"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-66-2016",
+   "path": "local/arad/nadlac/2016/66",
+   "short": "HCL Nădlac nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h66.pdf",
+     "sha256": "5bc4a9d59c6757f6e58aa39e3558dca7b0ac5107f4b5b57b67714e1b7a85132d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-67-2016",
+   "path": "local/arad/nadlac/2016/67",
+   "short": "HCL Nădlac nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2016 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h67.pdf",
+     "sha256": "e5197b1cb8f9d2b702f9261c72c38de34567c0c2898bc02121f6995d64bd459f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-68-2016",
+   "path": "local/arad/nadlac/2016/68",
+   "short": "HCL Nădlac nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 68/2016 privind aprobarea cotei de consum lunar de carburanți pentru autoturismele din dotarea Orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h68.pdf",
+     "sha256": "2b7c516f2eb19651854e31e8520cb7676359e44a52600a6ad807dde1c687f708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2016",
+   "path": "local/arad/nadlac/2016/7",
+   "short": "HCL Nădlac nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Nădlac din 18.01.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h7.pdf",
+     "sha256": "c4faeb5eb5e7ebe9d59447b1a3dcd9f32cc5aee917a2a94e1e27e15c6f7debc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2016",
+   "path": "local/arad/nadlac/2016/70",
+   "short": "HCL Nădlac nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 17.06.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h70.pdf",
+     "sha256": "1398aac836dc53d8be637f84bc1020cce956d0fab18b21752fd60aa0c4b87f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2016",
+   "path": "local/arad/nadlac/2016/71",
+   "short": "HCL Nădlac nr. 71/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 26.05.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h71.pdf",
+     "sha256": "736ae9209f0cbf7e0b3e9429a0f59aa186ace30f3bdc8bc76a13245f38b402ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2016",
+   "path": "local/arad/nadlac/2016/74",
+   "short": "HCL Nădlac nr. 74/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 30.06.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h74.pdf",
+     "sha256": "98896406c4ab0f41c0af84ea38f369d81984f68b6788395a0ea53574fd5a7e2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2016",
+   "path": "local/arad/nadlac/2016/75",
+   "short": "HCL Nădlac nr. 75/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2016 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 17.06.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h75.pdf",
+     "sha256": "ea71de904ca3c4f5146a3fb54aa4a56f898efcc0c3ac2397ceaf987e2a747c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2016",
+   "path": "local/arad/nadlac/2016/76",
+   "short": "HCL Nădlac nr. 76/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2016 privind aprobarea procesului verbal al şedinţei de constituire a Consiliului local Nădlac din data de 25.06.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h76.pdf",
+     "sha256": "df4b42ac8a121f21835711eaaa2174b4e82cc8ba60243fb5e4c6fe17d809d1e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-77-2016",
+   "path": "local/arad/nadlac/2016/77",
+   "short": "HCL Nădlac nr. 77/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 77/2016 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h77.pdf",
+     "sha256": "82ecb8eba36b963b28926f9d48f990aff9aed5437e4903b01abd0e053878108e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2016",
+   "path": "local/arad/nadlac/2016/78",
+   "short": "HCL Nădlac nr. 78/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2016 privind mandatarea primarului orașului Nădlac în vederea numirii unei comisii, precum și în vederea semnării contractului de închiriere care se va încheia cu Biserica ortodoxă Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h78.pdf",
+     "sha256": "f72288f45828ce2a3107b7e160a705903f9bc02d076ecee7b18593a61483709f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-79-2016",
+   "path": "local/arad/nadlac/2016/79",
+   "short": "HCL Nădlac nr. 79/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 79/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 22.07.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h79.pdf",
+     "sha256": "d4ae89c2b6be1d6ea89f59b2a7ab203264100e86435a0689aa668c5a6b929865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2016",
+   "path": "local/arad/nadlac/2016/8",
+   "short": "HCL Nădlac nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2016 privind aprobarea bugetului de venituri şi cheltuieli al Consiliul Local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h8.pdf",
+     "sha256": "d1114c5abb386ca3c0ca0e07997cc3748201fa5a22adcfe6823e53b982377186"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2016",
+   "path": "local/arad/nadlac/2016/80",
+   "short": "HCL Nădlac nr. 80/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2016 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 30.06.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h80.pdf",
+     "sha256": "7b6747c68ce7ed9d1916fc1ece00451ed03a3967c7a8117be83c3234b7ad546c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-81-2016",
+   "path": "local/arad/nadlac/2016/81",
+   "short": "HCL Nădlac nr. 81/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2016 privind numirea reprezentanților Consiliului Local Nădlac în cadrul consiliului de administrație, precum și în comisia de evaluare și asigurare a calității educației al Liceului Teoretic Jozef Gregor Tajovsky",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h81.pdf",
+     "sha256": "786fc52ddbf2cca43216dac162c8551270341233d7a0f9afb078b59cb09b57e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-82-2016",
+   "path": "local/arad/nadlac/2016/82",
+   "short": "HCL Nădlac nr. 82/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2016 privind mandatarea primarului orașului Nădlac în vederea participării, votării, semnării documentelor adoptate de către Asociația Grupul de Acțiune Locală „LUNCA MUREȘULUI DE JOS˝",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h82.pdf",
+     "sha256": "54c55597256e26c623ffe51df58b7755fefbc79aab020a9c920736f03cf76081"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-83-2016",
    "path": "local/arad/nadlac/2016/83",
    "short": "HCL Nădlac nr. 83/2016",
@@ -108,6 +2088,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-84-2016",
+   "path": "local/arad/nadlac/2016/84",
+   "short": "HCL Nădlac nr. 84/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2016 privind aprobarea Actului Constitutiv, a Statutului și a actelor adiționale la acestea al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h84.pdf",
+     "sha256": "f6f76343cb182e0405698a84f4a6b6d39ec903aeb7e959a96f81df0572d8deca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2016",
+   "path": "local/arad/nadlac/2016/85",
+   "short": "HCL Nădlac nr. 85/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2016 privind aprobarea comasării loturilor imobilelor situate în oraşul Nădlac, parcelele evidențiate în CF nr.304730 Nădlac, CF nr.302417 Nădlac, CF nr.304735 Nădlac, CF nr.304705 Nădlac, CF nr.304734 Nădlac, CF nr.304731 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h85.pdf",
+     "sha256": "a7bd1de2d4c67d31ce932b7ba6fd9c623cb378fd2ac31796e0a374bd039ee2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-86-2016",
+   "path": "local/arad/nadlac/2016/86",
+   "short": "HCL Nădlac nr. 86/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2016 privind modificarea Actului Constitutiv și a Statutului Asociației de dezvoltare intercomunitară Apă Canalizare Județul Arad, la care orașul Nădlac este membru asociat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h86.pdf",
+     "sha256": "7184276b5b80785fefd0489d3f8a7c478c6864c5042ef44e9315e72af874437a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-87-2016",
    "path": "local/arad/nadlac/2016/87",
    "short": "HCL Nădlac nr. 87/2016",
@@ -119,6 +2144,201 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h87.pdf",
      "sha256": "6b7350f50caebd0f09c4a8f9f20e54899b621b64d8a95690ab663831eeb6114b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2016",
+   "path": "local/arad/nadlac/2016/88",
+   "short": "HCL Nădlac nr. 88/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h88.pdf",
+     "sha256": "6cb30a804ecb0ebd7c918c3a602f260ebe1178a39f7155e2568f5baa745baf23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2016",
+   "path": "local/arad/nadlac/2016/89",
+   "short": "HCL Nădlac nr. 89/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2016 privind aprobarea vânzării terenului în suprafaţă de 905 mp, parcela cu nr. cad. 302205, evidenţiată în CF nr. 302205 Nădlac, teren situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h89.pdf",
+     "sha256": "28dbd6c78c6ebdfa3863083361bc9fcb8963dcef7323caaf330619f3c5c14f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2016",
+   "path": "local/arad/nadlac/2016/9",
+   "short": "HCL Nădlac nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h9.pdf",
+     "sha256": "d669f29f4bd2479f8b8c448629ebc914703e911fab472e2faa33dd0f5b7b9691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2016",
+   "path": "local/arad/nadlac/2016/90",
+   "short": "HCL Nădlac nr. 90/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2016 privind aprobarea realizării investiției ˝REABILITAREA REȚELEI DE DRUMURI – PROGRAM LOCAL˝ în 2 etape",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h90.pdf",
+     "sha256": "e1fd98efb1d96e273ae69479e638a331ee78608c9de8869baf1adeeed1b5e651"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2016",
+   "path": "local/arad/nadlac/2016/91",
+   "short": "HCL Nădlac nr. 91/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2016 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h91.pdf",
+     "sha256": "d6c71ded0f76b49eb8470d2823f153f0da6ebd37f7e30c1dae0910e8741dba03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-92-2016",
+   "path": "local/arad/nadlac/2016/92",
+   "short": "HCL Nădlac nr. 92/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2016 privind numirea reprezentanților Consiliului Local în Comisia de selecție și evaluare a solicitărilor de finanțării nerambursabile alocate din fondurile bugetului local al Orașului Nădlac pentru activităţi nonprofit de interes local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h92.pdf",
+     "sha256": "ea1b2098b97d73a38a5ebbd575809d05c485f813b06a830c6f5f57681371cafe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2016",
+   "path": "local/arad/nadlac/2016/93",
+   "short": "HCL Nădlac nr. 93/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2016 privind aprobarea dării în folosință gratuită a terenului evidențiat în CF nr. 302201 Nădlac, parcela nr. cad.302201, în suprafață de 991 mp, către Comunitatea Cultului Penticostal – Biserica lui Dumnezeu Apostolică Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h93.pdf",
+     "sha256": "706e137a6e1eb9a426fa2761e1435b70549b6dea4b32920207dca2d94e60a741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2016",
+   "path": "local/arad/nadlac/2016/94",
+   "short": "HCL Nădlac nr. 94/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2016 privind alegerea președintelui de ședință",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h94.pdf",
+     "sha256": "7f82772bbccd222b52bacac03348ef9c537afe1e3b2ce28fb149da26d1e9c2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2016",
+   "path": "local/arad/nadlac/2016/95",
+   "short": "HCL Nădlac nr. 95/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2016 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 05.08.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h95.pdf",
+     "sha256": "a3cba7d1a1413127b20bd630e08b1714dbd1882a718d16eaa23bdc36ca52b937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2016",
+   "path": "local/arad/nadlac/2016/96",
+   "short": "HCL Nădlac nr. 96/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2016 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al orașului Nădlac din data de 22.07.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h96.pdf",
+     "sha256": "7c558828ab47d73a951fdb6afc477015c578ad1e1023f2785ab0a1b82fbbca0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2016",
+   "path": "local/arad/nadlac/2016/97",
+   "short": "HCL Nădlac nr. 97/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2016 privind finanțarea prestării serviciului de salubrizare a orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h97.pdf",
+     "sha256": "ce22da010c3566087590a9de1632dd3af66f74e4d16a970e64a5f28a4c7bc99f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2016",
+   "path": "local/arad/nadlac/2016/98",
+   "short": "HCL Nădlac nr. 98/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2016 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 23.08.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h98.pdf",
+     "sha256": "c06054bb040e537098912cbc454b2a9648e49bef100ce909228b069b75616083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2016",
+   "path": "local/arad/nadlac/2016/99",
+   "short": "HCL Nădlac nr. 99/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2016 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al orașului Nădlac din data de 05.08.2016",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h99.pdf",
+     "sha256": "df0bc733c50114f155cb8d39b6622b03ce1ec4bc3b651af4667e19da99f92d58"
     }
    ]
   }

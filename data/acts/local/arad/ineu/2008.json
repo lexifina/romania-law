@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/arad/ineu/2008",
+"acts": [
+{
+"slug": "hcl-arad--ineu-5-2008",
+"path": "local/arad/ineu/2008/5",
+"kind": "local",
+"year": "2008",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 5/2008 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 5/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-01-31",
+"latest": "2008-01-31",
+"portal": "https://primariaineu.ro/hotararea-531-01-2008/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-31-2008",
+"path": "local/arad/ineu/2008/31",
+"kind": "local",
+"year": "2008",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 31/2008 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 31/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-03-18",
+"latest": "2008-03-18",
+"portal": "https://primariaineu.ro/hotararea-3118-03-2008/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-58-2008",
+"path": "local/arad/ineu/2008/58",
+"kind": "local",
+"year": "2008",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 58/2008 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 58/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-07-31",
+"latest": "2008-07-31",
+"portal": "https://primariaineu.ro/hotararea-5831-07-2008-privind-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2009/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-105-2008",
+"path": "local/arad/ineu/2008/105",
+"kind": "local",
+"year": "2008",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 105/2008 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 105/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-10-30",
+"latest": "2008-10-30",
+"portal": "https://primariaineu.ro/hotararea-10530-10-2008-privind-rectificarea-bugetului-local-consolidat-de-venituri-si-cheltuieli-pe-anul-2008/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-121-2008",
+"path": "local/arad/ineu/2008/121",
+"kind": "local",
+"year": "2008",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 121/2008 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 121/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-11-27",
+"latest": "2008-11-27",
+"portal": "https://primariaineu.ro/hotararea-12127-11-2010-privind-rectificarea-bugetului-local-consolidat-de-venituri-si-cheltuieli-pe-anul-2008/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-143-2008",
+"path": "local/arad/ineu/2008/143",
+"kind": "local",
+"year": "2008",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 143/2008 pentru a vedea hotărârea!",
+"short": "HCL Ineu nr. 143/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-12-30",
+"latest": "2008-12-30",
+"portal": "https://primariaineu.ro/hotararea-14330-10-2010-privind-rectificarea-bugetului-local-consolidat-de-venituri-si-cheltuieli-pe-anul-2008/",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Sebeș nr. 68/2017 Privind aprobarea bugetului de venituri și cheltuieli și a anexelor, pe anul 2017, la Ocolul Silvic Sebeș RA Consiliul Local al Municipiului Sebes, județul Alba, Intrunit in ședința publica, de indata din data de 12.04.2017, ora 16,00 ; Luand in dezbatere proiectul de hotarare privind aprobarea bugetului de venituri și cheltuieli și a anexelor, pe anul 2017, la Ocolul Silvic Sebes RA; Vazand expun
+
+HCL Sebeș nr. 68/2017 · 1 versions, from 2017-04-12 (latest in force: 2017-04-12) · <https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-alba--sebes-68-2017` (tags `hcl-alba--sebes-68-2017/<day>`; `python tools/on.py <day> hcl-alba--sebes-68-2017`).
+
+## Decisions made by hand
+
+- HCL Sebeș nr. 68/2017: listed from Consiliul Local al Municipiului Sebeș (www.primariasebes.ro); an individual decision: metadata only.
+- HCL Sebeș nr. 68/2017: dated from 12 April 2017, the day it was adopted (the register gives no later day of publication).
+- HCL Sebeș nr. 68/2017: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

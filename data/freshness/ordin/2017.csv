@@ -1,12 +1,12 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-ordin-aaas-23668-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194624
-ordin-aaas-27458-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195043
+ordin-aaas-23668-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194624
+ordin-aaas-27458-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195043
 ordin-achizitii-121-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189557
 ordin-achizitii-141-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190443
 ordin-achizitii-55-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187511
 ordin-agricultura-1-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185623
 ordin-agricultura-104-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188483
-ordin-agricultura-105-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188649
+ordin-agricultura-105-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188649
 ordin-agricultura-106-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188682
 ordin-agricultura-107-2017,pending-change,,,,Ordinul nr. 419/2025,2025-12-24,no,https://legislatie.just.ro/Public/DetaliiDocument/188683
 ordin-agricultura-12-2017,pending-change,,,,Ordinul nr. 387/2025,2025-11-19,no,https://legislatie.just.ro/Public/DetaliiDocument/186882
@@ -67,7 +67,7 @@ ordin-agricultura-271-2017,current,2026-11-03,2026-12-03,amendment-search,,,,htt
 ordin-agricultura-273-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192348
 ordin-agricultura-274-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193202
 ordin-agricultura-275-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193204
-ordin-agricultura-285-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196637
+ordin-agricultura-285-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196637
 ordin-agricultura-294-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192576
 ordin-agricultura-296-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192754
 ordin-agricultura-297-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193253
@@ -83,7 +83,7 @@ ordin-agricultura-324-2017,current,2026-11-03,2026-12-03,amendment-search,,,,htt
 ordin-agricultura-325-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194148
 ordin-agricultura-327-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193810
 ordin-agricultura-332-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194178
-ordin-agricultura-334-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195684
+ordin-agricultura-334-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195684
 ordin-agricultura-34-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187044
 ordin-agricultura-340-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194199
 ordin-agricultura-341-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194200
@@ -93,8 +93,8 @@ ordin-agricultura-377-2017,current,2026-11-03,2026-12-03,amendment-search,,,,htt
 ordin-agricultura-386-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195429
 ordin-agricultura-387-2017,pending-change,,,,Ordinul nr. 343/2023,2023-08-18,no,https://legislatie.just.ro/Public/DetaliiDocument/195441
 ordin-agricultura-396-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195634
-ordin-agricultura-406-2017,pending-change,,,,ANEXE din 29 septembrie 2025 la Ordinul ministrului agriculturii şi dezvoltării ,2025-09-29,no,https://legislatie.just.ro/Public/DetaliiDocument/196245
-ordin-agricultura-43-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186906
+ordin-agricultura-406-2017,pending-change,,,,hg-66-2026,2026-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/196245
+ordin-agricultura-43-2017,pending-change,,,,Ordinul nr. 284/2021,2021-10-14,no,https://legislatie.just.ro/Public/DetaliiDocument/186906
 ordin-agricultura-44-2017,pending-change,,,,NORMĂ SANITAR-VETERINARĂ din 6 iunie 2019 privind procedura de înregistrare/auto,2019-06-06,no,https://legislatie.just.ro/Public/DetaliiDocument/186952
 ordin-agricultura-45-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186929
 ordin-agricultura-5-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185661
@@ -124,7 +124,7 @@ ordin-anaf-1232-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://l
 ordin-anaf-1381-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189155
 ordin-anaf-1382-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189156
 ordin-anaf-1517-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189547
-ordin-anaf-1540-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196427
+ordin-anaf-1540-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196427
 ordin-anaf-1546-2017,pending-change,,,,Ordinul nr. 1699/2021,2021-10-25,no,https://legislatie.just.ro/Public/DetaliiDocument/189576
 ordin-anaf-1669-2017,pending-change,,,,Ordinul nr. 3877/2022,2022-04-29,no,https://legislatie.just.ro/Public/DetaliiDocument/190336
 ordin-anaf-1718-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190342
@@ -169,12 +169,13 @@ ordin-anaf-3780-2017,pending-change,,,,Ordinul nr. 507/2026,2026-04-20,no,https:
 ordin-anaf-3781-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196273
 ordin-anaf-4140-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196295
 ordin-anaf-4142-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196375
-ordin-anaf-4156-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196648
+ordin-anaf-4156-2017,pending-change,,,,Ordinul nr. 2047/2023,2023-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/196648
 ordin-anaf-4160-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196417
 ordin-anaf-511-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186451
-ordin-anaf-562-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190264
+ordin-anaf-562-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190264
 ordin-anaf-581-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186412
 ordin-anaf-590-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186321
+ordin-anaf-591-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186358
 ordin-anaf-592-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186338
 ordin-anaf-605-2017,pending-change,,,,Ordinul nr. 2856/2017,2017-10-02,no,https://legislatie.just.ro/Public/DetaliiDocument/186354
 ordin-anaf-648-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186472
@@ -191,273 +192,273 @@ ordin-anaf-877-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://le
 ordin-anaf-94-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185632
 ordin-anaf-967-2017,pending-change,,,,Ordinul nr. 1961/2023,2023-11-29,no,https://legislatie.just.ro/Public/DetaliiDocument/187739
 ordin-ancom-1098-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196638
-ordin-ancpi-1028-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192302
-ordin-ancpi-1029-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192303
-ordin-ancpi-1033-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192163
-ordin-ancpi-1089-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192164
-ordin-ancpi-1090-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192324
+ordin-ancpi-1028-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192302
+ordin-ancpi-1029-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192303
+ordin-ancpi-1033-2017,pending-change,,,,Rectificarea nr. 1033/2017,2017-07-26,no,https://legislatie.just.ro/Public/DetaliiDocument/192163
+ordin-ancpi-1089-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192164
+ordin-ancpi-1090-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192324
 ordin-ancpi-1109-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192451
-ordin-ancpi-1134-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192540
-ordin-ancpi-1135-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192556
-ordin-ancpi-1139-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193104
-ordin-ancpi-1140-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193105
-ordin-ancpi-1151-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192902
-ordin-ancpi-1152-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193139
-ordin-ancpi-1163-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193140
-ordin-ancpi-1164-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192701
+ordin-ancpi-1134-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192540
+ordin-ancpi-1135-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192556
+ordin-ancpi-1139-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193104
+ordin-ancpi-1140-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193105
+ordin-ancpi-1151-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192902
+ordin-ancpi-1152-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193139
+ordin-ancpi-1163-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193140
+ordin-ancpi-1164-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192701
 ordin-ancpi-1165-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192702
 ordin-ancpi-1171-2017,pending-change,,,,"ANEXĂ din 21 august 2017 privind modificarea Regulamentului de avizare, recepţie",2017-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/193196
-ordin-ancpi-1177-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193115
-ordin-ancpi-1178-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193116
-ordin-ancpi-1179-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193117
-ordin-ancpi-1180-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193118
-ordin-ancpi-1181-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193305
-ordin-ancpi-1182-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193306
-ordin-ancpi-1186-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192903
-ordin-ancpi-1187-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192904
-ordin-ancpi-1216-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193350
-ordin-ancpi-1230-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193375
+ordin-ancpi-1177-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193115
+ordin-ancpi-1178-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193116
+ordin-ancpi-1179-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193117
+ordin-ancpi-1180-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193118
+ordin-ancpi-1181-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193305
+ordin-ancpi-1182-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193306
+ordin-ancpi-1186-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192903
+ordin-ancpi-1187-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192904
+ordin-ancpi-1216-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193350
+ordin-ancpi-1230-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193375
 ordin-ancpi-1240-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193875
-ordin-ancpi-1248-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193387
-ordin-ancpi-1249-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193651
-ordin-ancpi-1250-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193388
-ordin-ancpi-1251-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193416
-ordin-ancpi-1253-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193385
-ordin-ancpi-1254-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193389
-ordin-ancpi-1256-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193417
-ordin-ancpi-1261-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193771
-ordin-ancpi-1262-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193830
-ordin-ancpi-1275-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193909
-ordin-ancpi-1293-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193931
-ordin-ancpi-1295-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194194
-ordin-ancpi-1306-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194129
-ordin-ancpi-1307-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194130
-ordin-ancpi-1308-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193918
-ordin-ancpi-1309-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193919
-ordin-ancpi-1314-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194134
-ordin-ancpi-1315-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194135
-ordin-ancpi-1316-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194180
-ordin-ancpi-1327-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194256
-ordin-ancpi-1328-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194230
-ordin-ancpi-1329-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194275
-ordin-ancpi-1330-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194231
-ordin-ancpi-1331-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194245
+ordin-ancpi-1248-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193387
+ordin-ancpi-1249-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193651
+ordin-ancpi-1250-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193388
+ordin-ancpi-1251-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193416
+ordin-ancpi-1253-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193385
+ordin-ancpi-1254-2017,pending-change,,,,Ordinul nr. 1744/2019,2019-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/193389
+ordin-ancpi-1256-2017,pending-change,,,,Ordinul nr. 1744/2019,2019-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/193417
+ordin-ancpi-1261-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193771
+ordin-ancpi-1262-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193830
+ordin-ancpi-1275-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193909
+ordin-ancpi-1293-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193931
+ordin-ancpi-1295-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194194
+ordin-ancpi-1306-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194129
+ordin-ancpi-1307-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194130
+ordin-ancpi-1308-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193918
+ordin-ancpi-1309-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193919
+ordin-ancpi-1314-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194134
+ordin-ancpi-1315-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194135
+ordin-ancpi-1316-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194180
+ordin-ancpi-1327-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194256
+ordin-ancpi-1328-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194230
+ordin-ancpi-1329-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194275
+ordin-ancpi-1330-2017,pending-change,,,,Ordinul nr. 1036/2018,2018-09-14,no,https://legislatie.just.ro/Public/DetaliiDocument/194231
+ordin-ancpi-1331-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194245
 ordin-ancpi-1333-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194429
-ordin-ancpi-1339-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194486
-ordin-ancpi-1356-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194533
-ordin-ancpi-1357-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194536
-ordin-ancpi-1365-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194754
-ordin-ancpi-1366-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194615
-ordin-ancpi-1369-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194727
-ordin-ancpi-1370-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194609
-ordin-ancpi-1371-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194616
-ordin-ancpi-1372-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194640
-ordin-ancpi-1373-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194681
-ordin-ancpi-1379-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194661
-ordin-ancpi-1380-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194733
+ordin-ancpi-1339-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194486
+ordin-ancpi-1356-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194533
+ordin-ancpi-1357-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194536
+ordin-ancpi-1365-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194754
+ordin-ancpi-1366-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194615
+ordin-ancpi-1369-2017,pending-change,,,,Ordinul nr. 1159/2018,2018-10-30,no,https://legislatie.just.ro/Public/DetaliiDocument/194727
+ordin-ancpi-1370-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194609
+ordin-ancpi-1371-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194616
+ordin-ancpi-1372-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194640
+ordin-ancpi-1373-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194681
+ordin-ancpi-1379-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194661
+ordin-ancpi-1380-2017,pending-change,,,,Ordinul nr. 1744/2019,2019-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/194733
 ordin-ancpi-1389-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194728
-ordin-ancpi-1401-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195073
-ordin-ancpi-1402-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195097
-ordin-ancpi-1403-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195098
-ordin-ancpi-1404-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195112
-ordin-ancpi-1405-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194969
-ordin-ancpi-1406-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194914
-ordin-ancpi-1408-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195099
-ordin-ancpi-1409-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195100
-ordin-ancpi-1410-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195101
-ordin-ancpi-1411-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195102
-ordin-ancpi-1412-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195240
-ordin-ancpi-1413-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195113
-ordin-ancpi-1420-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195092
-ordin-ancpi-1421-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194905
-ordin-ancpi-1425-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195023
-ordin-ancpi-1426-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194791
+ordin-ancpi-1401-2017,pending-change,,,,Ordinul nr. 406/2018,2018-06-13,no,https://legislatie.just.ro/Public/DetaliiDocument/195073
+ordin-ancpi-1402-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195097
+ordin-ancpi-1403-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195098
+ordin-ancpi-1404-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195112
+ordin-ancpi-1405-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194969
+ordin-ancpi-1406-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194914
+ordin-ancpi-1408-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195099
+ordin-ancpi-1409-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195100
+ordin-ancpi-1410-2017,pending-change,,,,Ordinul nr. 1020/2019,2019-03-25,no,https://legislatie.just.ro/Public/DetaliiDocument/195101
+ordin-ancpi-1411-2017,pending-change,,,,Ordinul nr. 5/2019,2019-01-07,no,https://legislatie.just.ro/Public/DetaliiDocument/195102
+ordin-ancpi-1412-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195240
+ordin-ancpi-1413-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195113
+ordin-ancpi-1420-2017,pending-change,,,,Ordinul nr. 1020/2019,2019-03-25,no,https://legislatie.just.ro/Public/DetaliiDocument/195092
+ordin-ancpi-1421-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194905
+ordin-ancpi-1425-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195023
+ordin-ancpi-1426-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194791
 ordin-ancpi-1427-2017,pending-change,,,,Ordinul nr. 1/2020,2020-01-07,no,https://legislatie.just.ro/Public/DetaliiDocument/194970
 ordin-ancpi-1430-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195114
-ordin-ancpi-1437-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195025
-ordin-ancpi-1438-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195415
-ordin-ancpi-1440-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195414
-ordin-ancpi-1441-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195042
-ordin-ancpi-1442-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195455
-ordin-ancpi-1443-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195732
-ordin-ancpi-1445-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195238
-ordin-ancpi-1446-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195115
-ordin-ancpi-1447-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195125
-ordin-ancpi-1450-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195104
-ordin-ancpi-1451-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195116
-ordin-ancpi-1452-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195065
-ordin-ancpi-1456-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195471
-ordin-ancpi-1457-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195490
-ordin-ancpi-1458-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195491
-ordin-ancpi-1459-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195492
-ordin-ancpi-1460-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195493
-ordin-ancpi-1461-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195546
-ordin-ancpi-1463-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195573
-ordin-ancpi-1464-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195574
-ordin-ancpi-1465-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195575
-ordin-ancpi-1466-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195736
-ordin-ancpi-1467-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195576
-ordin-ancpi-1468-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195577
-ordin-ancpi-1469-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195540
-ordin-ancpi-147-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186380
-ordin-ancpi-1470-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195541
-ordin-ancpi-1471-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195578
-ordin-ancpi-1480-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195521
-ordin-ancpi-1481-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195522
-ordin-ancpi-1482-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195523
-ordin-ancpi-1487-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195126
-ordin-ancpi-149-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186059
-ordin-ancpi-1497-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196001
+ordin-ancpi-1437-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195025
+ordin-ancpi-1438-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195415
+ordin-ancpi-1440-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195414
+ordin-ancpi-1441-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195042
+ordin-ancpi-1442-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195455
+ordin-ancpi-1443-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195732
+ordin-ancpi-1445-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195238
+ordin-ancpi-1446-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195115
+ordin-ancpi-1447-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195125
+ordin-ancpi-1450-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195104
+ordin-ancpi-1451-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195116
+ordin-ancpi-1452-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195065
+ordin-ancpi-1456-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195471
+ordin-ancpi-1457-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195490
+ordin-ancpi-1458-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195491
+ordin-ancpi-1459-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195492
+ordin-ancpi-1460-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195493
+ordin-ancpi-1461-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195546
+ordin-ancpi-1463-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195573
+ordin-ancpi-1464-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195574
+ordin-ancpi-1465-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195575
+ordin-ancpi-1466-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195736
+ordin-ancpi-1467-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195576
+ordin-ancpi-1468-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195577
+ordin-ancpi-1469-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195540
+ordin-ancpi-147-2017,pending-change,,,,Ordinul nr. 397/2018,2018-06-05,no,https://legislatie.just.ro/Public/DetaliiDocument/186380
+ordin-ancpi-1470-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195541
+ordin-ancpi-1471-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195578
+ordin-ancpi-1480-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195521
+ordin-ancpi-1481-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195522
+ordin-ancpi-1482-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195523
+ordin-ancpi-1487-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195126
+ordin-ancpi-149-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186059
+ordin-ancpi-1497-2017,pending-change,,,,Rectificarea nr. 1497/2017,2017-11-23,no,https://legislatie.just.ro/Public/DetaliiDocument/196001
 ordin-ancpi-15-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186062
-ordin-ancpi-1500-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196003
-ordin-ancpi-1501-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196609
-ordin-ancpi-1502-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196610
-ordin-ancpi-1503-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196611
-ordin-ancpi-1504-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196612
-ordin-ancpi-1505-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196613
-ordin-ancpi-1506-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196403
-ordin-ancpi-1507-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196614
-ordin-ancpi-1508-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196313
-ordin-ancpi-1509-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196312
-ordin-ancpi-1510-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197127
+ordin-ancpi-1500-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196003
+ordin-ancpi-1501-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196609
+ordin-ancpi-1502-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196610
+ordin-ancpi-1503-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196611
+ordin-ancpi-1504-2017,pending-change,,,,Ordinul nr. 1662/2018,2018-12-06,no,https://legislatie.just.ro/Public/DetaliiDocument/196612
+ordin-ancpi-1505-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196613
+ordin-ancpi-1506-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196403
+ordin-ancpi-1507-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196614
+ordin-ancpi-1508-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196313
+ordin-ancpi-1509-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196312
+ordin-ancpi-1510-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197127
 ordin-ancpi-1517-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195093
-ordin-ancpi-1519-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195653
-ordin-ancpi-1520-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195774
-ordin-ancpi-1521-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195730
+ordin-ancpi-1519-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195653
+ordin-ancpi-1520-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195774
+ordin-ancpi-1521-2017,pending-change,,,,Ordinul nr. 1619/2019,2019-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/195730
 ordin-ancpi-1523-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196204
-ordin-ancpi-1535-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195806
-ordin-ancpi-1537-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196035
-ordin-ancpi-1538-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196380
-ordin-ancpi-1539-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196426
-ordin-ancpi-1541-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196299
+ordin-ancpi-1535-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195806
+ordin-ancpi-1537-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196035
+ordin-ancpi-1538-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196380
+ordin-ancpi-1539-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196426
+ordin-ancpi-1541-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196299
 ordin-ancpi-1542-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196412
-ordin-ancpi-1543-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196615
-ordin-ancpi-1559-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196339
-ordin-ancpi-1560-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196407
-ordin-ancpi-1561-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196773
-ordin-ancpi-1562-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196408
-ordin-ancpi-1563-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196409
-ordin-ancpi-1564-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196428
-ordin-ancpi-1565-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196395
-ordin-ancpi-1568-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196381
-ordin-ancpi-1569-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196400
-ordin-ancpi-1574-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196413
-ordin-ancpi-1581-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196414
-ordin-ancpi-1582-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196755
-ordin-ancpi-1583-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196756
-ordin-ancpi-1584-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196415
-ordin-ancpi-1585-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196603
-ordin-ancpi-1590-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196604
-ordin-ancpi-1592-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196766
-ordin-ancpi-1593-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196662
-ordin-ancpi-1594-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197102
-ordin-ancpi-1595-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196885
-ordin-ancpi-1596-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196820
-ordin-ancpi-1642-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196881
-ordin-ancpi-1643-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196882
-ordin-ancpi-1644-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196416
-ordin-ancpi-1645-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197155
-ordin-ancpi-1646-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196905
-ordin-ancpi-1647-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197133
-ordin-ancpi-1650-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197927
-ordin-ancpi-1651-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196767
-ordin-ancpi-1653-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197159
-ordin-ancpi-1659-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196821
-ordin-ancpi-1660-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196822
-ordin-ancpi-1661-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196727
-ordin-ancpi-1663-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196860
-ordin-ancpi-1665-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197166
-ordin-ancpi-1666-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197137
-ordin-ancpi-1667-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196852
-ordin-ancpi-247-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186848
-ordin-ancpi-257-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187151
-ordin-ancpi-258-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187036
-ordin-ancpi-262-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187149
+ordin-ancpi-1543-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196615
+ordin-ancpi-1559-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196339
+ordin-ancpi-1560-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196407
+ordin-ancpi-1561-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196773
+ordin-ancpi-1562-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196408
+ordin-ancpi-1563-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196409
+ordin-ancpi-1564-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196428
+ordin-ancpi-1565-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196395
+ordin-ancpi-1568-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196381
+ordin-ancpi-1569-2017,pending-change,,,,Ordinul nr. 933/2018,2018-08-22,no,https://legislatie.just.ro/Public/DetaliiDocument/196400
+ordin-ancpi-1574-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196413
+ordin-ancpi-1581-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196414
+ordin-ancpi-1582-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196755
+ordin-ancpi-1583-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196756
+ordin-ancpi-1584-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196415
+ordin-ancpi-1585-2017,pending-change,,,,Ordinul nr. 1120/2019,2019-04-10,no,https://legislatie.just.ro/Public/DetaliiDocument/196603
+ordin-ancpi-1590-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196604
+ordin-ancpi-1592-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196766
+ordin-ancpi-1593-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196662
+ordin-ancpi-1594-2017,pending-change,,,,Ordinul nr. 1671/2018,2018-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/197102
+ordin-ancpi-1595-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196885
+ordin-ancpi-1596-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196820
+ordin-ancpi-1642-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196881
+ordin-ancpi-1643-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196882
+ordin-ancpi-1644-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196416
+ordin-ancpi-1645-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197155
+ordin-ancpi-1646-2017,pending-change,,,,Ordinul nr. 820/2019,2019-03-06,no,https://legislatie.just.ro/Public/DetaliiDocument/196905
+ordin-ancpi-1647-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197133
+ordin-ancpi-1650-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197927
+ordin-ancpi-1651-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196767
+ordin-ancpi-1653-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197159
+ordin-ancpi-1659-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196821
+ordin-ancpi-1660-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196822
+ordin-ancpi-1661-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196727
+ordin-ancpi-1663-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196860
+ordin-ancpi-1665-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197166
+ordin-ancpi-1666-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197137
+ordin-ancpi-1667-2017,pending-change,,,,Ordinul nr. 1623/2019,2019-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/196852
+ordin-ancpi-247-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186848
+ordin-ancpi-257-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187151
+ordin-ancpi-258-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187036
+ordin-ancpi-262-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187149
 ordin-ancpi-263-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186959
-ordin-ancpi-268-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186984
-ordin-ancpi-280-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187549
-ordin-ancpi-281-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187541
-ordin-ancpi-282-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187638
-ordin-ancpi-283-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187550
-ordin-ancpi-344-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188002
+ordin-ancpi-268-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186984
+ordin-ancpi-280-2017,pending-change,,,,Ordinul nr. 1089/2017,2017-07-31,no,https://legislatie.just.ro/Public/DetaliiDocument/187549
+ordin-ancpi-281-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187541
+ordin-ancpi-282-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187638
+ordin-ancpi-283-2017,pending-change,,,,Ordinul nr. 1667/2018,2018-12-06,no,https://legislatie.just.ro/Public/DetaliiDocument/187550
+ordin-ancpi-344-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188002
 ordin-ancpi-345-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187977
-ordin-ancpi-351-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188462
-ordin-ancpi-352-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188383
+ordin-ancpi-351-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188462
+ordin-ancpi-352-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188383
 ordin-ancpi-353-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187711
-ordin-ancpi-365-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188642
-ordin-ancpi-366-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188384
-ordin-ancpi-367-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188489
-ordin-ancpi-368-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188490
-ordin-ancpi-426-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189130
-ordin-ancpi-440-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189289
+ordin-ancpi-365-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188642
+ordin-ancpi-366-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188384
+ordin-ancpi-367-2017,pending-change,,,,Ordinul nr. 660/2017,2017-06-30,no,https://legislatie.just.ro/Public/DetaliiDocument/188489
+ordin-ancpi-368-2017,pending-change,,,,Ordinul nr. 660/2017,2017-06-30,no,https://legislatie.just.ro/Public/DetaliiDocument/188490
+ordin-ancpi-426-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189130
+ordin-ancpi-440-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189289
 ordin-ancpi-448-2017,pending-change,,,,Ordinul nr. 1333/2017,2017-10-10,no,https://legislatie.just.ro/Public/DetaliiDocument/189317
-ordin-ancpi-457-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189267
-ordin-ancpi-458-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189268
-ordin-ancpi-459-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189269
-ordin-ancpi-474-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189446
-ordin-ancpi-506-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189510
+ordin-ancpi-457-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189267
+ordin-ancpi-458-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189268
+ordin-ancpi-459-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189269
+ordin-ancpi-474-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189446
+ordin-ancpi-506-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189510
 ordin-ancpi-511-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189588
-ordin-ancpi-513-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189511
-ordin-ancpi-518-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190301
-ordin-ancpi-519-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190210
-ordin-ancpi-520-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190355
-ordin-ancpi-524-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190242
-ordin-ancpi-531-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190173
-ordin-ancpi-532-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190170
-ordin-ancpi-533-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190171
-ordin-ancpi-534-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190243
+ordin-ancpi-513-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189511
+ordin-ancpi-518-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190301
+ordin-ancpi-519-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190210
+ordin-ancpi-520-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190355
+ordin-ancpi-524-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190242
+ordin-ancpi-531-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190173
+ordin-ancpi-532-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190170
+ordin-ancpi-533-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190171
+ordin-ancpi-534-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190243
 ordin-ancpi-536-2017,pending-change,,,,ANEXĂ din 24 mai 2017 la Ordinul directorului general al Agenţiei Naţionale de C,2017-05-24,no,https://legislatie.just.ro/Public/DetaliiDocument/189672
-ordin-ancpi-539-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190390
-ordin-ancpi-541-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190384
-ordin-ancpi-542-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190385
-ordin-ancpi-550-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190174
-ordin-ancpi-57-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186056
-ordin-ancpi-575-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190320
-ordin-ancpi-576-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190321
-ordin-ancpi-577-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190346
-ordin-ancpi-578-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190347
-ordin-ancpi-581-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190386
+ordin-ancpi-539-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190390
+ordin-ancpi-541-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190384
+ordin-ancpi-542-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190385
+ordin-ancpi-550-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190174
+ordin-ancpi-57-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186056
+ordin-ancpi-575-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190320
+ordin-ancpi-576-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190321
+ordin-ancpi-577-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190346
+ordin-ancpi-578-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190347
+ordin-ancpi-581-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190386
 ordin-ancpi-583-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190322
-ordin-ancpi-591-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190834
-ordin-ancpi-592-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190812
-ordin-ancpi-594-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191136
+ordin-ancpi-591-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190834
+ordin-ancpi-592-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190812
+ordin-ancpi-594-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191136
 ordin-ancpi-595-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191137
-ordin-ancpi-601-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190703
-ordin-ancpi-602-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190883
-ordin-ancpi-603-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190875
+ordin-ancpi-601-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190703
+ordin-ancpi-602-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190883
+ordin-ancpi-603-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190875
 ordin-ancpi-604-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190704
-ordin-ancpi-605-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190867
-ordin-ancpi-606-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190737
-ordin-ancpi-635-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191328
-ordin-ancpi-636-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190888
-ordin-ancpi-645-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191437
-ordin-ancpi-65-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186057
-ordin-ancpi-658-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191320
-ordin-ancpi-66-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186058
-ordin-ancpi-660-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191201
+ordin-ancpi-605-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190867
+ordin-ancpi-606-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190737
+ordin-ancpi-635-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191328
+ordin-ancpi-636-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190888
+ordin-ancpi-645-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191437
+ordin-ancpi-65-2017,pending-change,,,,Ordinul nr. 944/2017,2017-07-12,no,https://legislatie.just.ro/Public/DetaliiDocument/186057
+ordin-ancpi-658-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191320
+ordin-ancpi-66-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186058
+ordin-ancpi-660-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191201
 ordin-ancpi-84-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186375
-ordin-ancpi-919-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191321
-ordin-ancpi-920-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191408
-ordin-ancpi-921-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191322
-ordin-ancpi-922-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191285
-ordin-ancpi-943-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191704
+ordin-ancpi-919-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191321
+ordin-ancpi-920-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191408
+ordin-ancpi-921-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191322
+ordin-ancpi-922-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191285
+ordin-ancpi-943-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191704
 ordin-ancpi-944-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191705
-ordin-ancpi-945-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191706
-ordin-ancpi-946-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191460
-ordin-ancpi-947-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191920
+ordin-ancpi-945-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191706
+ordin-ancpi-946-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191460
+ordin-ancpi-947-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191920
 ordin-ancpi-949-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191922
-ordin-ancpi-951-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191924
-ordin-ancpi-957-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191955
-ordin-ancpi-959-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191991
+ordin-ancpi-951-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191924
+ordin-ancpi-957-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191955
+ordin-ancpi-959-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191991
 ordin-ancpi-964-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191976
-ordin-ancpi-965-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191977
-ordin-ancpi-966-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191946
-ordin-ancpi-967-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191947
-ordin-ancpi-968-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191948
-ordin-ancpi-969-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191949
-ordin-ancpi-972-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191936
-ordin-ancpi-973-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191937
-ordin-ancpi-978-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192103
+ordin-ancpi-965-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191977
+ordin-ancpi-966-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191946
+ordin-ancpi-967-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191947
+ordin-ancpi-968-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191948
+ordin-ancpi-969-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191949
+ordin-ancpi-972-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191936
+ordin-ancpi-973-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191937
+ordin-ancpi-978-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192103
 ordin-anmcs-106-2017,pending-change,,,,Ordinul nr. 127/2017,2017-06-14,no,https://legislatie.just.ro/Public/DetaliiDocument/189357
 ordin-anmcs-127-2017,pending-change,,,,Ordinul nr. 66/2025,2025-04-01,no,https://legislatie.just.ro/Public/DetaliiDocument/190306
 ordin-anmcs-148-2017,pending-change,,,,Ordinul nr. 32/2020,2020-02-04,no,https://legislatie.just.ro/Public/DetaliiDocument/191446
@@ -597,33 +598,33 @@ ordin-anre-99-2017,pending-change,,,,Ordinul nr. 183/2018,2018-11-01,no,https://
 ordin-anrm-102-2017,pending-change,,,,Decizia nr. 32/2018,2018-12-19,no,https://legislatie.just.ro/Public/DetaliiDocument/189256
 ordin-anrm-109-2017,pending-change,,,,Decizia nr. 304/2019,2019-05-07,no,https://legislatie.just.ro/Public/DetaliiDocument/189546
 ordin-anrm-111-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190111
-ordin-anrm-131-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190414
+ordin-anrm-131-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190414
 ordin-anrm-267-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191640
 ordin-anrm-281-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192150
-ordin-anrm-282-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192010
-ordin-anrm-283-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192011
-ordin-anrm-284-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192012
-ordin-anrm-285-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192013
-ordin-anrm-286-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192014
-ordin-anrm-287-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192015
-ordin-anrm-288-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192016
-ordin-anrm-289-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192017
-ordin-anrm-290-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192018
-ordin-anrm-291-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192019
-ordin-anrm-292-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192036
-ordin-anrm-293-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192037
-ordin-anrm-294-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192038
-ordin-anrm-295-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192039
-ordin-anrm-296-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192040
-ordin-anrm-297-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192041
-ordin-anrm-298-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192042
-ordin-anrm-299-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192043
-ordin-anrm-300-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192044
+ordin-anrm-282-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192010
+ordin-anrm-283-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192011
+ordin-anrm-284-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192012
+ordin-anrm-285-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192013
+ordin-anrm-286-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192014
+ordin-anrm-287-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192015
+ordin-anrm-288-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192016
+ordin-anrm-289-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192017
+ordin-anrm-290-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192018
+ordin-anrm-291-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192019
+ordin-anrm-292-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192036
+ordin-anrm-293-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192037
+ordin-anrm-294-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192038
+ordin-anrm-295-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192039
+ordin-anrm-296-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192040
+ordin-anrm-297-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192041
+ordin-anrm-298-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192042
+ordin-anrm-299-2017,pending-change,,,,Ordinul nr. 92/2022,2022-02-11,no,https://legislatie.just.ro/Public/DetaliiDocument/192043
+ordin-anrm-300-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192044
 ordin-anrm-388-2017,pending-change,,,,Decizia nr. 5/2019,2019-01-21,no,https://legislatie.just.ro/Public/DetaliiDocument/195048
 ordin-anrm-389-2017,pending-change,,,,Ordinul nr. 208/2018,2018-11-07,no,https://legislatie.just.ro/Public/DetaliiDocument/195239
 ordin-anrm-394-2017,pending-change,,,,Ordinul nr. 209/2018,2018-11-07,no,https://legislatie.just.ro/Public/DetaliiDocument/195022
 ordin-anrm-4-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185793
-ordin-anrm-79-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187704
+ordin-anrm-79-2017,pending-change,,,,Ordinul nr. 274/2020,2020-09-17,no,https://legislatie.just.ro/Public/DetaliiDocument/187704
 ordin-anrsc-140-2017,pending-change,,,,legea-328-2018,2018-12-21,no,https://legislatie.just.ro/Public/DetaliiDocument/189957
 ordin-anrsc-22-2017,pending-change,,,,Ordinul nr. 759/2025,2025-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/186456
 ordin-anrsc-407-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195061
@@ -653,12 +654,15 @@ ordin-aparare-116-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https:/
 ordin-aparare-120-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193816
 ordin-aparare-123-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193917
 ordin-aparare-124-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193910
+ordin-aparare-125-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193895
 ordin-aparare-131-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194574
-ordin-aparare-137-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195056
+ordin-aparare-134-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194632
+ordin-aparare-137-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195056
 ordin-aparare-143-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195021
 ordin-aparare-159-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195694
 ordin-aparare-30-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188582
 ordin-aparare-35-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188606
+ordin-aparare-38-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189135
 ordin-aparare-51-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190068
 ordin-aparare-60-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190374
 ordin-aparare-63-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190315
@@ -707,7 +711,7 @@ ordin-cnas-27-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://leg
 ordin-cnas-271-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188094
 ordin-cnas-273-2017,pending-change,,,,Ordinul nr. 90/2023,2023-02-10,no,https://legislatie.just.ro/Public/DetaliiDocument/189277
 ordin-cnas-28-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186797
-ordin-cnas-296-2017,pending-change,,,,Ordinul nr. 782/2017,2017-07-10,no,https://legislatie.just.ro/Public/DetaliiDocument/188643
+ordin-cnas-296-2017,pending-change,,,,Ordinul nr. 881/2018,2018-04-23,no,https://legislatie.just.ro/Public/DetaliiDocument/188643
 ordin-cnas-299-2017,pending-change,,,,Ordinul nr. 234/2022,2022-04-21,no,https://legislatie.just.ro/Public/DetaliiDocument/188733
 ordin-cnas-308-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188618
 ordin-cnas-310-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188651
@@ -741,20 +745,20 @@ ordin-cncan-176-2017,pending-change,,,,Ordinul nr. 155/2018,2018-07-02,no,https:
 ordin-cncan-221-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194453
 ordin-cnpp-953-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191674
 ordin-comunicatii-1168-2017,pending-change,,,,Ordinul nr. 21813/2022,2022-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/196810
-ordin-comunicatii-200-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190058
+ordin-comunicatii-200-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190058
 ordin-comunicatii-211-2017,pending-change,,,,Ordinul nr. 4655/2020,2020-06-30,no,https://legislatie.just.ro/Public/DetaliiDocument/188510
 ordin-comunicatii-212-2017,pending-change,,,,Ordinul nr. 101/2021,2021-06-07,no,https://legislatie.just.ro/Public/DetaliiDocument/188512
 ordin-comunicatii-213-2017,pending-change,,,,Ordinul nr. 3463/2020,2020-03-09,no,https://legislatie.just.ro/Public/DetaliiDocument/188514
 ordin-comunicatii-214-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188516
-ordin-comunicatii-259-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190204
+ordin-comunicatii-259-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190204
 ordin-comunicatii-409-2017,pending-change,,,,Ordinul nr. 1168/2017,2017-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/190290
-ordin-comunicatii-433-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190069
-ordin-comunicatii-444-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191280
+ordin-comunicatii-433-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190069
+ordin-comunicatii-444-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191280
 ordin-comunicatii-449-2017,pending-change,,,,Ordinul nr. 102/2026,2026-01-29,no,https://legislatie.just.ro/Public/DetaliiDocument/190241
-ordin-comunicatii-450-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192574
-ordin-comunicatii-452-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192575
+ordin-comunicatii-450-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192574
+ordin-comunicatii-452-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192575
 ordin-comunicatii-514-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190829
-ordin-comunicatii-620-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194414
+ordin-comunicatii-620-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194414
 ordin-concurenta-1047-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193773
 ordin-concurenta-126-2017,pending-change,,,,Ordinul nr. 654/2020,2020-06-09,no,https://legislatie.just.ro/Public/DetaliiDocument/188083
 ordin-concurenta-1267-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195831
@@ -764,97 +768,98 @@ ordin-concurenta-377-2017,pending-change,,,,Ordinul nr. 1078/2020,2020-11-19,no,
 ordin-concurenta-431-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192814
 ordin-culte-118-2017,pending-change,,,,Ordinul nr. 60/2026,2026-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/193182
 ordin-culte-16-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188661
-ordin-culte-24-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189923
+ordin-culte-24-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189923
 ordin-culte-32-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191436
 ordin-culte-75-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192895
-ordin-cultura-2051-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187978
-ordin-cultura-2052-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190078
-ordin-cultura-2102-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187514
-ordin-cultura-2176-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192466
-ordin-cultura-2182-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188450
-ordin-cultura-2309-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190402
-ordin-cultura-2310-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/258710
-ordin-cultura-2313-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191117
-ordin-cultura-2336-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194709
-ordin-cultura-2433-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193876
+ordin-cultura-2051-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187978
+ordin-cultura-2052-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190078
+ordin-cultura-2102-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187514
+ordin-cultura-2176-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192466
+ordin-cultura-2182-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188450
+ordin-cultura-2309-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190402
+ordin-cultura-2310-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/258710
+ordin-cultura-2313-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191117
+ordin-cultura-2336-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194709
+ordin-cultura-2433-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193876
 ordin-cultura-2469-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191978
-ordin-cultura-2476-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191998
-ordin-cultura-2477-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191999
+ordin-cultura-2476-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191998
+ordin-cultura-2477-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191999
 ordin-cultura-2526-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192550
-ordin-cultura-2532-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192467
-ordin-cultura-2566-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198195
-ordin-cultura-2567-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198196
-ordin-cultura-2569-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198499
-ordin-cultura-2570-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198500
-ordin-cultura-2574-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198198
-ordin-cultura-2575-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198199
-ordin-cultura-2592-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198200
+ordin-cultura-2532-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192467
+ordin-cultura-2566-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198195
+ordin-cultura-2567-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198196
+ordin-cultura-2569-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198499
+ordin-cultura-2570-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198500
+ordin-cultura-2574-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198198
+ordin-cultura-2575-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198199
+ordin-cultura-2592-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198200
 ordin-cultura-2616-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193862
-ordin-cultura-2655-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194113
-ordin-cultura-2656-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198201
+ordin-cultura-2655-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194113
+ordin-cultura-2656-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198201
 ordin-cultura-2693-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194662
-ordin-cultura-2694-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194452
-ordin-cultura-2702-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/306320
-ordin-cultura-2703-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198220
-ordin-cultura-2795-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/204359
-ordin-cultura-2810-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/204360
-ordin-cultura-2814-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196205
-ordin-cultura-2864-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/204702
-ordin-cultura-2865-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/204703
-ordin-cultura-2866-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/205144
+ordin-cultura-2694-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194452
+ordin-cultura-2702-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/306320
+ordin-cultura-2703-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198220
+ordin-cultura-2795-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/204359
+ordin-cultura-2810-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/204360
+ordin-cultura-2814-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196205
+ordin-cultura-2864-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/204702
+ordin-cultura-2865-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/204703
+ordin-cultura-2866-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/205144
 ordin-cultura-2870-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196825
 ordin-cultura-2883-2017,pending-change,,,,Ordinul nr. 2826/2020,2020-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/197482
 ordin-curteadeconturi-983-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192310
 ordin-dezvoltare-209-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186423
 ordin-dezvoltare-2400-2017,pending-change,,,,Ordinul nr. 104/2025,2025-01-22,no,https://legislatie.just.ro/Public/DetaliiDocument/187901
 ordin-dezvoltare-2422-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187683
-ordin-dezvoltare-2463-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188688
+ordin-dezvoltare-2463-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188688
 ordin-dezvoltare-2578-2017,pending-change,,,,Ordinul nr. 4316/2020,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/188093
-ordin-dezvoltare-2583-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188003
+ordin-dezvoltare-2583-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188003
 ordin-dezvoltare-2586-2017,pending-change,,,,Ordinul nr. 798/2019,2019-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/188602
 ordin-dezvoltare-2587-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188604
 ordin-dezvoltare-2632-2017,pending-change,,,,Ordinul nr. 5744/2017,2017-08-24,no,https://legislatie.just.ro/Public/DetaliiDocument/192700
 ordin-dezvoltare-2641-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188101
-ordin-dezvoltare-2683-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188484
+ordin-dezvoltare-2683-2017,pending-change,,,,Ordinul nr. 5541/2018,2018-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/188484
 ordin-dezvoltare-2822-2017,pending-change,,,,Ordinul nr. 7195/2017,2017-12-19,no,https://legislatie.just.ro/Public/DetaliiDocument/189161
 ordin-dezvoltare-2939-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189654
 ordin-dezvoltare-2940-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189271
 ordin-dezvoltare-3067-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189539
+ordin-dezvoltare-3080-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189947
 ordin-dezvoltare-3423-2017,pending-change,,,,Ordinul nr. 7110/2017,2017-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/190421
-ordin-dezvoltare-3638-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191719
-ordin-dezvoltare-3639-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192062
-ordin-dezvoltare-3640-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191928
-ordin-dezvoltare-3641-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191929
-ordin-dezvoltare-3642-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191930
-ordin-dezvoltare-3643-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191959
-ordin-dezvoltare-3644-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191672
-ordin-dezvoltare-3645-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191751
-ordin-dezvoltare-3646-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191752
-ordin-dezvoltare-3648-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191960
-ordin-dezvoltare-3649-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192171
+ordin-dezvoltare-3638-2017,pending-change,,,,Ordinul nr. 915/2021,2021-07-01,no,https://legislatie.just.ro/Public/DetaliiDocument/191719
+ordin-dezvoltare-3639-2017,pending-change,,,,Ordinul nr. 1014/2021,2021-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/192062
+ordin-dezvoltare-3640-2017,pending-change,,,,Ordinul nr. 1010/2021,2021-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/191928
+ordin-dezvoltare-3641-2017,pending-change,,,,Ordinul nr. 942/2021,2021-07-05,no,https://legislatie.just.ro/Public/DetaliiDocument/191929
+ordin-dezvoltare-3642-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191930
+ordin-dezvoltare-3643-2017,pending-change,,,,Ordinul nr. 943/2021,2021-07-05,no,https://legislatie.just.ro/Public/DetaliiDocument/191959
+ordin-dezvoltare-3644-2017,pending-change,,,,Ordinul nr. 1011/2021,2021-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/191672
+ordin-dezvoltare-3645-2017,pending-change,,,,Ordinul nr. 1234/2021,2021-09-02,no,https://legislatie.just.ro/Public/DetaliiDocument/191751
+ordin-dezvoltare-3646-2017,pending-change,,,,Ordinul nr. 5851/2018,2018-10-04,no,https://legislatie.just.ro/Public/DetaliiDocument/191752
+ordin-dezvoltare-3648-2017,pending-change,,,,Ordinul nr. 945/2021,2021-07-05,no,https://legislatie.just.ro/Public/DetaliiDocument/191960
+ordin-dezvoltare-3649-2017,pending-change,,,,Ordinul nr. 1013/2021,2021-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/192171
 ordin-dezvoltare-3710-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193309
 ordin-dezvoltare-3776-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191971
-ordin-dezvoltare-3825-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192383
+ordin-dezvoltare-3825-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192383
 ordin-dezvoltare-5591-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192440
-ordin-dezvoltare-5675-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193122
+ordin-dezvoltare-5675-2017,pending-change,,,,Ordinul nr. 1233/2021,2021-09-02,no,https://legislatie.just.ro/Public/DetaliiDocument/193122
 ordin-dezvoltare-5687-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192821
 ordin-dezvoltare-5744-2017,pending-change,,,,Ordinul nr. 126/2018,2018-01-17,no,https://legislatie.just.ro/Public/DetaliiDocument/192762
 ordin-dezvoltare-5795-2017,pending-change,,,,Ordinul nr. 1546/2020,2020-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/193259
-ordin-dezvoltare-5918-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193339
-ordin-dezvoltare-5933-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193849
+ordin-dezvoltare-5918-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193339
+ordin-dezvoltare-5933-2017,pending-change,,,,Ordinul nr. 83/2019,2019-01-23,no,https://legislatie.just.ro/Public/DetaliiDocument/193849
 ordin-dezvoltare-5976-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193820
 ordin-dezvoltare-6394-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194217
 ordin-dezvoltare-6398-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194145
 ordin-dezvoltare-6509-2017,pending-change,,,,Ordinul nr. 4214/2020,2020-12-03,no,https://legislatie.just.ro/Public/DetaliiDocument/194448
 ordin-dezvoltare-6510-2017,pending-change,,,,Ordinul nr. 4213/2020,2020-12-03,no,https://legislatie.just.ro/Public/DetaliiDocument/194484
 ordin-dezvoltare-6609-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194504
-ordin-dezvoltare-6711-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195654
+ordin-dezvoltare-6711-2017,pending-change,,,,Ordinul nr. 1347/2021,2021-09-24,no,https://legislatie.just.ro/Public/DetaliiDocument/195654
 ordin-dezvoltare-6712-2017,pending-change,,,,Ordinul nr. 708/2023,2023-03-24,no,https://legislatie.just.ro/Public/DetaliiDocument/195037
 ordin-dezvoltare-6783-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195006
 ordin-dezvoltare-6795-2017,pending-change,,,,Ordinul nr. 6071/2023,2023-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/194910
 ordin-dezvoltare-6962-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195443
 ordin-dezvoltare-6965-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195473
-ordin-dezvoltare-7021-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195610
+ordin-dezvoltare-7021-2017,pending-change,,,,Ordinul nr. 4316/2020,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/195610
 ordin-dezvoltare-7029-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196680
 ordin-dezvoltare-7067-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195666
 ordin-dezvoltare-7110-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195748
@@ -865,56 +870,56 @@ ordin-dezvoltare-7209-2017,current,2026-11-03,2026-12-03,amendment-search,,,,htt
 ordin-dezvoltare-7211-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196221
 ordin-dezvoltare-7299-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196261
 ordin-dezvoltare-7331-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196440
-ordin-economie-1037-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194474
-ordin-economie-1038-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194201
-ordin-economie-104-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190114
+ordin-economie-1037-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194474
+ordin-economie-1038-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194201
+ordin-economie-104-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190114
 ordin-economie-1066-2017,pending-change,,,,Ordinul nr. 1594/2017,2017-11-17,no,https://legislatie.just.ro/Public/DetaliiDocument/192398
-ordin-economie-110-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190237
-ordin-economie-1125-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194477
+ordin-economie-110-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190237
+ordin-economie-1125-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194477
 ordin-economie-1129-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194197
 ordin-economie-1199-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193347
-ordin-economie-120-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190923
-ordin-economie-1228-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194657
+ordin-economie-120-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190923
+ordin-economie-1228-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194657
 ordin-economie-1238-2017,pending-change,,,,SCHEMĂ DE AJUTOR DE MINIMIS din 13 iunie 2025 destinată întreprinderilor din tur,2025-06-13,no,https://legislatie.just.ro/Public/DetaliiDocument/193786
 ordin-economie-1259-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193885
 ordin-economie-1295-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193898
 ordin-economie-1322-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196054
-ordin-economie-140-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192578
+ordin-economie-140-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192578
 ordin-economie-1535-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195424
 ordin-economie-1593-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195008
 ordin-economie-1594-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195009
-ordin-economie-160-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193119
+ordin-economie-160-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193119
 ordin-economie-17-2017,pending-change,,,,HG nr. 10/2021,2021-03-23,no,https://legislatie.just.ro/Public/DetaliiDocument/186476
 ordin-economie-390-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189266
 ordin-economie-440-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190152
-ordin-economie-500-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190331
+ordin-economie-500-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190331
 ordin-economie-502-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188646
 ordin-economie-528-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190089
-ordin-economie-531-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190602
-ordin-economie-532-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190605
-ordin-economie-56-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189121
+ordin-economie-531-2017,pending-change,,,,Rectificarea nr. 930/2017,2017-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/190602
+ordin-economie-532-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190605
+ordin-economie-56-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189121
 ordin-economie-665-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189996
 ordin-economie-666-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189997
 ordin-economie-668-2017,pending-change,,,,Ordinul nr. 889/2017,2017-07-31,no,https://legislatie.just.ro/Public/DetaliiDocument/189937
 ordin-economie-689-2017,pending-change,,,,Ordinul nr. 870/2017,2017-07-24,no,https://legislatie.just.ro/Public/DetaliiDocument/190276
 ordin-economie-692-2017,pending-change,,,,Ordinul nr. 1240/2018,2018-09-21,no,https://legislatie.just.ro/Public/DetaliiDocument/190034
-ordin-economie-732-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192756
-ordin-economie-733-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192759
-ordin-economie-734-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192815
-ordin-economie-735-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192380
-ordin-economie-743-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191690
-ordin-economie-744-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191691
-ordin-economie-745-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191692
-ordin-economie-756-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192818
-ordin-economie-780-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192835
-ordin-economie-781-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192838
-ordin-economie-782-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192426
-ordin-economie-783-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192841
-ordin-economie-784-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193141
-ordin-economie-786-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192844
-ordin-economie-787-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192722
-ordin-economie-795-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192725
-ordin-economie-813-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192728
+ordin-economie-732-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192756
+ordin-economie-733-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192759
+ordin-economie-734-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192815
+ordin-economie-735-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192380
+ordin-economie-743-2017,pending-change,,,,hg-568-2024,2024-05-23,no,https://legislatie.just.ro/Public/DetaliiDocument/191690
+ordin-economie-744-2017,pending-change,,,,Ordinul nr. 680/2021,2021-04-15,no,https://legislatie.just.ro/Public/DetaliiDocument/191691
+ordin-economie-745-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191692
+ordin-economie-756-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192818
+ordin-economie-780-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192835
+ordin-economie-781-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192838
+ordin-economie-782-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192426
+ordin-economie-783-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192841
+ordin-economie-784-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193141
+ordin-economie-786-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192844
+ordin-economie-787-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192722
+ordin-economie-795-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192725
+ordin-economie-813-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192728
 ordin-economie-870-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191904
 ordin-economie-889-2017,pending-change,,,,Ordinul nr. 940/2020,2020-04-30,no,https://legislatie.just.ro/Public/DetaliiDocument/192343
 ordin-economie-894-2017,pending-change,,,,Ordinul nr. 1593/2017,2017-11-17,no,https://legislatie.just.ro/Public/DetaliiDocument/192073
@@ -939,17 +944,17 @@ ordin-educatie-3392-2017,pending-change,,,,Ordinul nr. 6463/2023,2023-10-02,no,h
 ordin-educatie-3393-2017,pending-change,,,,Ordinul nr. 5111/2026,2026-08-27,no,https://legislatie.just.ro/Public/DetaliiDocument/187067
 ordin-educatie-3411-2017,pending-change,,,,Ordinul nr. 4764/2017,2017-08-24,no,https://legislatie.just.ro/Public/DetaliiDocument/187116
 ordin-educatie-3443-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187598
-ordin-educatie-3449-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187658
+ordin-educatie-3449-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187658
 ordin-educatie-3471-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187805
 ordin-educatie-3473-2017,pending-change,,,,Ordinul nr. 5736/2020,2020-10-13,no,https://legislatie.just.ro/Public/DetaliiDocument/187981
 ordin-educatie-3475-2017,pending-change,,,,Ordinul nr. 5360/2022,2022-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/187712
-ordin-educatie-3492-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188080
-ordin-educatie-3495-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188081
-ordin-educatie-3496-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188082
-ordin-educatie-3502-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187946
-ordin-educatie-3503-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187947
-ordin-educatie-3504-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187948
-ordin-educatie-3505-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187949
+ordin-educatie-3492-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188080
+ordin-educatie-3495-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188081
+ordin-educatie-3496-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188082
+ordin-educatie-3502-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187946
+ordin-educatie-3503-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187947
+ordin-educatie-3504-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187948
+ordin-educatie-3505-2017,pending-change,,,,Rectificarea nr. 3505/2017,2017-03-20,no,https://legislatie.just.ro/Public/DetaliiDocument/187949
 ordin-educatie-3535-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187941
 ordin-educatie-3554-2017,pending-change,,,,Ordinul nr. 5732/2022,2022-09-29,no,https://legislatie.just.ro/Public/DetaliiDocument/187979
 ordin-educatie-3556-2017,pending-change,,,,Ordinul nr. 4567/2020,2020-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/187943
@@ -966,72 +971,72 @@ ordin-educatie-3850-2017,pending-change,,,,Ordinul nr. 4139/2022,2022-06-29,no,h
 ordin-educatie-3851-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189225
 ordin-educatie-3858-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189331
 ordin-educatie-3873-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191163
-ordin-educatie-3885-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189610
+ordin-educatie-3885-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189610
 ordin-educatie-3897-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189457
 ordin-educatie-3900-2017,pending-change,,,,Ordinul nr. 49/2024,2024-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/191961
 ordin-educatie-3904-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189604
 ordin-educatie-3914-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190738
 ordin-educatie-3915-2017,pending-change,,,,Ordinul nr. 4874/2022,2022-08-30,no,https://legislatie.just.ro/Public/DetaliiDocument/191507
-ordin-educatie-3930-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190154
-ordin-educatie-3932-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190211
+ordin-educatie-3930-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190154
+ordin-educatie-3932-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190211
 ordin-educatie-3933-2017,pending-change,,,,Ordinul nr. 4217/2019,2019-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/189589
-ordin-educatie-3946-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190093
+ordin-educatie-3946-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190093
 ordin-educatie-3969-2017,pending-change,,,,Ordinul nr. 3738/2019,2019-03-22,no,https://legislatie.just.ro/Public/DetaliiDocument/190005
-ordin-educatie-3991-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190025
-ordin-educatie-4031-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190348
-ordin-educatie-4060-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190295
+ordin-educatie-3991-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190025
+ordin-educatie-4031-2017,pending-change,,,,Ordinul nr. 5853/2017,2017-12-27,no,https://legislatie.just.ro/Public/DetaliiDocument/190348
+ordin-educatie-4060-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190295
 ordin-educatie-4068-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190281
 ordin-educatie-4093-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191118
 ordin-educatie-4104-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190852
 ordin-educatie-4218-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191656
-ordin-educatie-4235-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191980
+ordin-educatie-4235-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191980
 ordin-educatie-4330-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190824
 ordin-educatie-4366-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191415
-ordin-educatie-4526-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192564
-ordin-educatie-4541-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192887
-ordin-educatie-4543-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192884
-ordin-educatie-4554-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192703
-ordin-educatie-4555-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192704
-ordin-educatie-4556-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192705
-ordin-educatie-4557-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192706
-ordin-educatie-4558-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192707
-ordin-educatie-4559-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192708
-ordin-educatie-4560-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192709
-ordin-educatie-4561-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192710
-ordin-educatie-4562-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192711
-ordin-educatie-4595-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192712
-ordin-educatie-4604-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192750
-ordin-educatie-4613-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192716
-ordin-educatie-4614-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192717
-ordin-educatie-4615-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192751
-ordin-educatie-4616-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192752
-ordin-educatie-4617-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192753
-ordin-educatie-4618-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192787
-ordin-educatie-4619-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192788
-ordin-educatie-4620-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192789
-ordin-educatie-4628-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192813
-ordin-educatie-4630-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192827
-ordin-educatie-4642-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193110
-ordin-educatie-4650-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192828
-ordin-educatie-4651-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192592
-ordin-educatie-4652-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192593
-ordin-educatie-4658-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192829
-ordin-educatie-4666-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192879
-ordin-educatie-4669-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192718
-ordin-educatie-4670-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192719
-ordin-educatie-4671-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192720
-ordin-educatie-4672-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192721
-ordin-educatie-4674-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192868
-ordin-educatie-4675-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192869
-ordin-educatie-4676-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192870
-ordin-educatie-4677-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192894
-ordin-educatie-4678-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192896
-ordin-educatie-4679-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192897
-ordin-educatie-4683-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193107
-ordin-educatie-4684-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193108
-ordin-educatie-4685-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193109
-ordin-educatie-4687-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192890
-ordin-educatie-4688-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192898
+ordin-educatie-4526-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192564
+ordin-educatie-4541-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192887
+ordin-educatie-4543-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192884
+ordin-educatie-4554-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192703
+ordin-educatie-4555-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192704
+ordin-educatie-4556-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192705
+ordin-educatie-4557-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192706
+ordin-educatie-4558-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192707
+ordin-educatie-4559-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192708
+ordin-educatie-4560-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192709
+ordin-educatie-4561-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192710
+ordin-educatie-4562-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192711
+ordin-educatie-4595-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192712
+ordin-educatie-4604-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192750
+ordin-educatie-4613-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192716
+ordin-educatie-4614-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192717
+ordin-educatie-4615-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192751
+ordin-educatie-4616-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192752
+ordin-educatie-4617-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192753
+ordin-educatie-4618-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192787
+ordin-educatie-4619-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192788
+ordin-educatie-4620-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192789
+ordin-educatie-4628-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192813
+ordin-educatie-4630-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192827
+ordin-educatie-4642-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193110
+ordin-educatie-4650-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192828
+ordin-educatie-4651-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192592
+ordin-educatie-4652-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192593
+ordin-educatie-4658-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192829
+ordin-educatie-4666-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192879
+ordin-educatie-4669-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192718
+ordin-educatie-4670-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192719
+ordin-educatie-4671-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192720
+ordin-educatie-4672-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192721
+ordin-educatie-4674-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192868
+ordin-educatie-4675-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192869
+ordin-educatie-4676-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192870
+ordin-educatie-4677-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192894
+ordin-educatie-4678-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192896
+ordin-educatie-4679-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192897
+ordin-educatie-4683-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193107
+ordin-educatie-4684-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193108
+ordin-educatie-4685-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193109
+ordin-educatie-4687-2017,pending-change,,,,Rectificarea nr. 4687/2017,2017-08-18,no,https://legislatie.just.ro/Public/DetaliiDocument/192890
+ordin-educatie-4688-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192898
 ordin-educatie-4764-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193811
 ordin-educatie-4772-2017,pending-change,,,,Ordinul nr. 4224/2022,2022-07-06,no,https://legislatie.just.ro/Public/DetaliiDocument/193181
 ordin-educatie-4783-2017,pending-change,,,,Ordinul nr. 3230/2026,2026-02-19,no,https://legislatie.just.ro/Public/DetaliiDocument/193265
@@ -1044,35 +1049,36 @@ ordin-educatie-4798-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-educatie-4802-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193273
 ordin-educatie-4814-2017,pending-change,,,,METODOLOGIE-CADRU din 2 octombrie 2018 de organizare şi desfăşurare a examenului,2018-10-02,no,https://legislatie.just.ro/Public/DetaliiDocument/193216
 ordin-educatie-4815-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193274
-ordin-educatie-4925-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193848
-ordin-educatie-4926-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193844
+ordin-educatie-4925-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193848
+ordin-educatie-4926-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193844
 ordin-educatie-5061-2017,pending-change,,,,Ordinul nr. 7442/2024,2024-11-19,no,https://legislatie.just.ro/Public/DetaliiDocument/193652
 ordin-educatie-5063-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193732
 ordin-educatie-5076-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193899
 ordin-educatie-5376-2017,pending-change,,,,Ordinul nr. 3940/2023,2023-04-07,no,https://legislatie.just.ro/Public/DetaliiDocument/194263
-ordin-educatie-5398-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195053
+ordin-educatie-5398-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195053
 ordin-educatie-5472-2017,pending-change,,,,Ordinul nr. 3529/2018,2018-04-04,no,https://legislatie.just.ro/Public/DetaliiDocument/194915
 ordin-educatie-5473-2017,pending-change,,,,Ordinul nr. 4172/2024,2024-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/195603
 ordin-educatie-5485-2017,pending-change,,,,Ordinul nr. 3017/2018,2018-01-08,no,https://legislatie.just.ro/Public/DetaliiDocument/195005
 ordin-educatie-5509-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196340
 ordin-educatie-5524-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195733
-ordin-educatie-5552-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195562
+ordin-educatie-5552-2017,pending-change,,,,Ordinul nr. 5585/2021,2021-11-12,no,https://legislatie.just.ro/Public/DetaliiDocument/195562
 ordin-educatie-5638-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196410
 ordin-educatie-5643-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196247
-ordin-educatie-5644-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196289
+ordin-educatie-5644-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196289
 ordin-educatie-5645-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196389
 ordin-educatie-5658-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196397
 ordin-educatie-5671-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197206
+ordin-educatie-5675-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196839
 ordin-educatie-5676-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196807
 ordin-educatie-5677-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198059
 ordin-educatie-5686-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197506
-ordin-educatie-5853-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197541
+ordin-educatie-5853-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197541
 ordin-educatie-5863-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196752
 ordin-educatie-5864-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197160
-ordin-exporturi-512-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189558
-ordin-exporturi-549-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190352
+ordin-exporturi-512-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189558
+ordin-exporturi-549-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190352
 ordin-externe-1087-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191299
-ordin-externe-1088-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194412
+ordin-externe-1088-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194412
 ordin-externe-1100-2017,pending-change,,,,Ordinul nr. 191/2026,2026-06-03,no,https://legislatie.just.ro/Public/DetaliiDocument/191126
 ordin-externe-1124-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192713
 ordin-externe-1690-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193781
@@ -1094,14 +1100,14 @@ ordin-finante-1178-2017,pending-change,,,,Rectificarea nr. 1178/2017,2017-07-31,
 ordin-finante-152-2017,pending-change,,,,Ordinul nr. 437/2017,2017-03-10,no,https://legislatie.just.ro/Public/DetaliiDocument/185827
 ordin-finante-164-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186433
 ordin-finante-1673-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192563
-ordin-finante-174-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186414
+ordin-finante-174-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186414
 ordin-finante-191-2017,pending-change,,,,NORME METODOLOGICE din 18 ianuarie 2019 privind întocmirea şi depunerea situaţii,2019-01-18,no,https://legislatie.just.ro/Public/DetaliiDocument/186407
 ordin-finante-2035-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192786
 ordin-finante-2326-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192865
 ordin-finante-2331-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193243
 ordin-finante-2332-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192891
-ordin-finante-2339-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192793
-ordin-finante-2350-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193308
+ordin-finante-2339-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192793
+ordin-finante-2350-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193308
 ordin-finante-2359-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193172
 ordin-finante-2379-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193130
 ordin-finante-240-2017,pending-change,,,,Rectificarea nr. 6/2019,2019-08-27,no,https://legislatie.just.ro/Public/DetaliiDocument/186734
@@ -1111,71 +1117,71 @@ ordin-finante-2482-2017,pending-change,,,,Ordinul nr. 352/2026,2026-03-24,no,htt
 ordin-finante-2540-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193766
 ordin-finante-2541-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193767
 ordin-finante-2590-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193798
-ordin-finante-2591-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193749
+ordin-finante-2591-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193749
 ordin-finante-2644-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193949
-ordin-finante-2736-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193858
+ordin-finante-2736-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193858
 ordin-finante-2744-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193929
 ordin-finante-2752-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193868
 ordin-finante-2768-2017,pending-change,,,,Ordinul nr. 2623/2019,2019-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/193964
 ordin-finante-2780-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194710
 ordin-finante-2800-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194238
 ordin-finante-2827-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194551
-ordin-finante-2899-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194495
+ordin-finante-2899-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194495
 ordin-finante-2998-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194988
 ordin-finante-3097-2017,pending-change,,,,Ordinul nr. 142/2024,2024-01-22,no,https://legislatie.just.ro/Public/DetaliiDocument/195462
 ordin-finante-3103-2017,pending-change,,,,Ordinul nr. 2036/2025,2025-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/195630
-ordin-finante-3121-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195117
+ordin-finante-3121-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195117
 ordin-finante-3139-2017,pending-change,,,,Ordinul nr. 676/2024,2024-04-08,no,https://legislatie.just.ro/Public/DetaliiDocument/195537
 ordin-finante-3145-2017,pending-change,,,,Ordinul nr. 3818/2019,2019-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/195802
 ordin-finante-3189-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195737
 ordin-finante-3190-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195775
-ordin-finante-320-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186851
+ordin-finante-320-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186851
 ordin-finante-322-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186839
 ordin-finante-3223-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195787
-ordin-finante-3224-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195820
-ordin-finante-3225-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195821
+ordin-finante-3224-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195820
+ordin-finante-3225-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195821
 ordin-finante-3243-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196022
 ordin-finante-3244-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196043
 ordin-finante-3247-2017,pending-change,,,,Ordinul nr. 706/2023,2023-06-14,no,https://legislatie.just.ro/Public/DetaliiDocument/196672
 ordin-finante-3254-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196396
 ordin-finante-3259-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196624
 ordin-finante-3315-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196184
-ordin-finante-3321-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196279
+ordin-finante-3321-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196279
 ordin-finante-3323-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196705
 ordin-finante-3338-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196688
 ordin-finante-3344-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196625
 ordin-finante-3345-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197125
 ordin-finante-344-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189412
 ordin-finante-350-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186940
-ordin-finante-356-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186944
-ordin-finante-357-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186949
+ordin-finante-356-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186944
+ordin-finante-357-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186949
 ordin-finante-383-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187099
 ordin-finante-384-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187103
 ordin-finante-398-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187088
 ordin-finante-437-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187538
 ordin-finante-543-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188045
 ordin-finante-572-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188062
-ordin-finante-575-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188077
-ordin-finante-639-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188663
+ordin-finante-575-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188077
+ordin-finante-639-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188663
 ordin-finante-640-2017,pending-change,,,,Ordinul nr. 699/2024,2024-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/189125
 ordin-finante-670-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189189
 ordin-finante-691-2017,pending-change,,,,Ordinul nr. 1665/2020,2020-02-26,no,https://legislatie.just.ro/Public/DetaliiDocument/189456
-ordin-finante-707-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189493
-ordin-finante-730-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189427
+ordin-finante-707-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189493
+ordin-finante-730-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189427
 ordin-finante-768-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189915
 ordin-finante-769-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189650
-ordin-finante-81-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/185743
-ordin-finante-813-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189651
-ordin-finante-814-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189652
+ordin-finante-81-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185743
+ordin-finante-813-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189651
+ordin-finante-814-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189652
 ordin-finante-840-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190400
 ordin-finante-873-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190113
 ordin-finante-894-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190282
 ordin-finante-895-2017,pending-change,,,,Ordinul nr. 899/2025,2025-06-05,no,https://legislatie.just.ro/Public/DetaliiDocument/190267
 ordin-finante-90-2017,pending-change,,,,Ordinul nr. 2609/2020,2020-08-20,no,https://legislatie.just.ro/Public/DetaliiDocument/186005
-ordin-finante-902-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190440
+ordin-finante-902-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190440
 ordin-finante-925-2017,pending-change,,,,Ordinul nr. 1960/2025,2025-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/190825
 ordin-finante-928-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190754
-ordin-finante-939-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190621
+ordin-finante-939-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190621
 ordin-finante-983-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191155
 ordin-finante-995-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191237
 ordin-guvern-1431-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195127
@@ -1272,11 +1278,11 @@ ordin-justitie-3936-c-2017,pending-change,,,,Decizia nr. 664/2018,2018-11-01,no,
 ordin-justitie-3961-c-2017,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196326
 ordin-justitie-539-c-2017,current,2026-11-04,2026-12-04,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187730
 ordin-luptatori-201-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192505
-ordin-mediu-1010-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192530
+ordin-mediu-1010-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192530
 ordin-mediu-1078-2017,pending-change,,,,"PLANUL DE MANAGEMENT din 1 aprilie 2019 al Parcului Naţional Munţii Rodnei, al R",2019-04-01,no,https://legislatie.just.ro/Public/DetaliiDocument/191992
 ordin-mediu-1093-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194677
 ordin-mediu-1094-2017,pending-change,,,,Ordinul nr. 767/2018,2018-07-23,no,https://legislatie.just.ro/Public/DetaliiDocument/192475
-ordin-mediu-1107-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193789
+ordin-mediu-1107-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193789
 ordin-mediu-1114-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192582
 ordin-mediu-1116-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192338
 ordin-mediu-1117-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192339
@@ -1286,7 +1292,7 @@ ordin-mediu-1144-2017,pending-change,,,,Ordinul nr. 394/2018,2018-04-27,no,https
 ordin-mediu-1146-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193178
 ordin-mediu-1149-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193138
 ordin-mediu-1169-2017,pending-change,,,,Ordinul nr. 724/2019,2019-07-19,no,https://legislatie.just.ro/Public/DetaliiDocument/192825
-ordin-mediu-1250-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193430
+ordin-mediu-1250-2017,pending-change,,,,Ordinul nr. 168/2018,2018-02-23,no,https://legislatie.just.ro/Public/DetaliiDocument/193430
 ordin-mediu-1291-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194436
 ordin-mediu-1293-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194111
 ordin-mediu-1331-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194564
@@ -1299,7 +1305,7 @@ ordin-mediu-1397-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://
 ordin-mediu-1430-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197603
 ordin-mediu-1433-2017,pending-change,,,,PLAN din 27 martie 2025 de management al sitului Natura 2000 ROSCI0023 Cascada M,2025-03-27,no,https://legislatie.just.ro/Public/DetaliiDocument/195645
 ordin-mediu-1447-2017,pending-change,,,,PLAN DE MANAGEMENT din 25 ianuarie 2021 al sitului Natura 2000 ROSCI0317 Cordăre,2021-01-25,no,https://legislatie.just.ro/Public/DetaliiDocument/195778
-ordin-mediu-147-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188424
+ordin-mediu-147-2017,pending-change,,,,Ordinul nr. 397/2018,2018-06-05,no,https://legislatie.just.ro/Public/DetaliiDocument/188424
 ordin-mediu-1488-2017,pending-change,,,,hg-398-2026,2026-05-21,no,https://legislatie.just.ro/Public/DetaliiDocument/196281
 ordin-mediu-1503-2017,pending-change,,,,Decizia nr. 174/2020,2020-05-26,no,https://legislatie.just.ro/Public/DetaliiDocument/196227
 ordin-mediu-1529-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196337
@@ -1343,12 +1349,12 @@ ordin-munca-2042-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://
 ordin-munca-393-2017,pending-change,,,,Ordinul nr. 4490/2024,2024-05-23,no,https://legislatie.just.ro/Public/DetaliiDocument/190877
 ordin-munca-406-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189257
 ordin-munca-463-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188576
-ordin-munca-551-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189133
+ordin-munca-551-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189133
 ordin-munca-596-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190091
 ordin-munca-623-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188742
 ordin-munca-625-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188743
 ordin-munca-626-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188744
-ordin-munca-899-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190439
+ordin-munca-899-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190439
 ordin-munca-963-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191984
 ordin-onjn-347-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194212
 ordin-orniss-111-2017,pending-change,,,,Ordinul nr. 131/2018,2018-05-09,no,https://legislatie.just.ro/Public/DetaliiDocument/195682
@@ -1371,7 +1377,7 @@ ordin-sanatate-1142-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-sanatate-1148-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193878
 ordin-sanatate-1149-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193847
 ordin-sanatate-1154-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193780
-ordin-sanatate-1160-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193746
+ordin-sanatate-1160-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193746
 ordin-sanatate-1161-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193747
 ordin-sanatate-1162-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193748
 ordin-sanatate-1163-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193881
@@ -1386,7 +1392,7 @@ ordin-sanatate-1257-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-sanatate-1259-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195049
 ordin-sanatate-1261-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194480
 ordin-sanatate-1291-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194639
-ordin-sanatate-1297-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194604
+ordin-sanatate-1297-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194604
 ordin-sanatate-1303-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194715
 ordin-sanatate-1342-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194764
 ordin-sanatate-1346-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196242
@@ -1394,7 +1400,7 @@ ordin-sanatate-1369-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https
 ordin-sanatate-1370-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195461
 ordin-sanatate-1384-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195409
 ordin-sanatate-1388-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196608
-ordin-sanatate-1389-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195520
+ordin-sanatate-1389-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195520
 ordin-sanatate-1390-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195723
 ordin-sanatate-1398-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195734
 ordin-sanatate-1399-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195735
@@ -1421,12 +1427,12 @@ ordin-sanatate-193-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https:
 ordin-sanatate-196-2017,pending-change,,,,NORME TEHNICE din 30 martie 2022 de realizare a programelor naţionale de sănătat,2022-03-30,no,https://legislatie.just.ro/Public/DetaliiDocument/186957
 ordin-sanatate-201-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187715
 ordin-sanatate-207-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187034
-ordin-sanatate-244-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187543
-ordin-sanatate-251-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187193
+ordin-sanatate-244-2017,pending-change,,,,Rectificarea nr. 244/2017,2017-03-07,no,https://legislatie.just.ro/Public/DetaliiDocument/187543
+ordin-sanatate-251-2017,pending-change,,,,Ordinul nr. 1468/2018,2018-11-21,no,https://legislatie.just.ro/Public/DetaliiDocument/187193
 ordin-sanatate-269-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187512
 ordin-sanatate-272-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187513
 ordin-sanatate-300-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187656
-ordin-sanatate-322-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187682
+ordin-sanatate-322-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187682
 ordin-sanatate-325-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187917
 ordin-sanatate-346-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187709
 ordin-sanatate-350-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189045
@@ -1435,25 +1441,25 @@ ordin-sanatate-362-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https:
 ordin-sanatate-365-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187822
 ordin-sanatate-368-2017,pending-change,,,,Ordinul nr. 106/2026,2026-10-27,no,https://legislatie.just.ro/Public/DetaliiDocument/187803
 ordin-sanatate-369-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187814
-ordin-sanatate-370-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187841
+ordin-sanatate-370-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187841
 ordin-sanatate-372-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187903
 ordin-sanatate-377-2017,pending-change,,,,Ordinul nr. 964/2022,2022-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/187865
 ordin-sanatate-395-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187985
 ordin-sanatate-4-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185564
-ordin-sanatate-401-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188051
+ordin-sanatate-401-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188051
 ordin-sanatate-417-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188100
-ordin-sanatate-421-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188120
+ordin-sanatate-421-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188120
 ordin-sanatate-43-2017,pending-change,,,,Ordinul nr. 102/2017,2017-02-08,no,https://legislatie.just.ro/Public/DetaliiDocument/186427
-ordin-sanatate-445-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188340
+ordin-sanatate-445-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188340
 ordin-sanatate-446-2017,pending-change,,,,REGULAMENT din 29 mai 2023 de organizare şi funcţionare a unităţilor de dializă ,2023-05-29,no,https://legislatie.just.ro/Public/DetaliiDocument/188615
-ordin-sanatate-454-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188645
+ordin-sanatate-454-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188645
 ordin-sanatate-476-2017,pending-change,,,,Ordinul nr. 2320/2024,2024-04-18,no,https://legislatie.just.ro/Public/DetaliiDocument/189360
 ordin-sanatate-487-2017,pending-change,,,,Rectificarea nr. 487/2017,2017-04-28,no,https://legislatie.just.ro/Public/DetaliiDocument/189029
 ordin-sanatate-489-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188662
 ordin-sanatate-491-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189154
 ordin-sanatate-51-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188054
 ordin-sanatate-516-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189033
-ordin-sanatate-520-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189137
+ordin-sanatate-520-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189137
 ordin-sanatate-531-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189159
 ordin-sanatate-544-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189437
 ordin-sanatate-553-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189407
@@ -1469,7 +1475,7 @@ ordin-sanatate-629-2017,pending-change,,,,oug-41-2019,2019-06-12,no,https://legi
 ordin-sanatate-633-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189989
 ordin-sanatate-634-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190227
 ordin-sanatate-648-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190356
-ordin-sanatate-656-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190176
+ordin-sanatate-656-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190176
 ordin-sanatate-657-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190163
 ordin-sanatate-658-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190132
 ordin-sanatate-659-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190302
@@ -1482,21 +1488,21 @@ ordin-sanatate-727-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https:
 ordin-sanatate-728-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190764
 ordin-sanatate-737-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190884
 ordin-sanatate-739-2017,pending-change,,,,Ordinul nr. 1362/2020,2020-07-31,no,https://legislatie.just.ro/Public/DetaliiDocument/191108
-ordin-sanatate-783-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192108
+ordin-sanatate-783-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192108
 ordin-sanatate-790-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191283
 ordin-sanatate-793-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191499
 ordin-sanatate-796-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191634
-ordin-sanatate-797-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191500
-ordin-sanatate-845-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191671
+ordin-sanatate-797-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191500
+ordin-sanatate-845-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191671
 ordin-sanatate-846-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191707
 ordin-sanatate-855-2017,pending-change,,,,Ordinul nr. 940/2018,2018-07-25,no,https://legislatie.just.ro/Public/DetaliiDocument/192507
 ordin-sanatate-860-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191917
-ordin-sanatate-861-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191779
+ordin-sanatate-861-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191779
 ordin-sanatate-870-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193851
 ordin-sanatate-871-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194258
 ordin-sanatate-876-2017,pending-change,,,,Ordinul nr. 1567/2019,2019-10-18,no,https://legislatie.just.ro/Public/DetaliiDocument/191767
 ordin-sanatate-886-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192064
-ordin-sanatate-893-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192136
+ordin-sanatate-893-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192136
 ordin-sanatate-905-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192447
 ordin-sanatate-906-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192133
 ordin-sanatate-911-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192921
@@ -1509,7 +1515,7 @@ ordin-sanatate-942-2017,pending-change,,,,Ordinul nr. 1076/2019,2019-07-09,no,ht
 ordin-sanatate-947-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192539
 ordin-sanatate-954-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192581
 ordin-sanatate-963-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192908
-ordin-sanatate-966-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192864
+ordin-sanatate-966-2017,pending-change,,,,Rectificarea nr. 966/2017,2017-08-30,no,https://legislatie.just.ro/Public/DetaliiDocument/192864
 ordin-sanatate-989-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192916
 ordin-sie-269-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195110
 ordin-sie-270-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195111
@@ -1534,7 +1540,7 @@ ordin-transporturi-1184-2017,current,2026-11-03,2026-12-03,amendment-search,,,,h
 ordin-transporturi-1203-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192399
 ordin-transporturi-1236-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192444
 ordin-transporturi-1237-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192561
-ordin-transporturi-1276-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193952
+ordin-transporturi-1276-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193952
 ordin-transporturi-1292-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193335
 ordin-transporturi-1293-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193154
 ordin-transporturi-1294-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193247
@@ -1542,48 +1548,48 @@ ordin-transporturi-1295-2017,current,2026-11-03,2026-12-03,amendment-search,,,,h
 ordin-transporturi-1296-2017,pending-change,,,,Ordinul nr. 612/2026,2026-06-17,no,https://legislatie.just.ro/Public/DetaliiDocument/193250
 ordin-transporturi-1297-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193162
 ordin-transporturi-1314-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193256
-ordin-transporturi-1335-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193106
+ordin-transporturi-1335-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193106
 ordin-transporturi-1352-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193337
 ordin-transporturi-1450-2017,pending-change,,,,Ordinul nr. 1026/2021,2021-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/193836
 ordin-transporturi-1471-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193879
 ordin-transporturi-1472-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193880
 ordin-transporturi-1493-2017,pending-change,,,,Ordinul nr. 2325/2023,2023-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/194225
-ordin-transporturi-1496-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194112
-ordin-transporturi-1526-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194273
-ordin-transporturi-1527-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194430
-ordin-transporturi-1528-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194274
+ordin-transporturi-1496-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194112
+ordin-transporturi-1526-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194273
+ordin-transporturi-1527-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194430
+ordin-transporturi-1528-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194274
 ordin-transporturi-1532-2017,pending-change,,,,Ordinul nr. 632/2026,2026-06-22,no,https://legislatie.just.ro/Public/DetaliiDocument/194227
-ordin-transporturi-1537-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194641
+ordin-transporturi-1537-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194641
 ordin-transporturi-1575-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194762
 ordin-transporturi-1580-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194623
 ordin-transporturi-1591-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194633
 ordin-transporturi-1600-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195524
-ordin-transporturi-1622-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194777
-ordin-transporturi-1623-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194778
+ordin-transporturi-1622-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194777
+ordin-transporturi-1623-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194778
 ordin-transporturi-1678-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195699
 ordin-transporturi-1679-2017,pending-change,,,,Ordinul nr. 2262/2022,2022-11-08,no,https://legislatie.just.ro/Public/DetaliiDocument/195700
 ordin-transporturi-1772-2017,pending-change,,,,Ordinul nr. 1026/2021,2021-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/195566
-ordin-transporturi-1777-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195695
+ordin-transporturi-1777-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195695
 ordin-transporturi-1797-2017,pending-change,,,,ACTUL ADIŢIONAL nr. 2 din 14 decembrie 2017 pentru anul 2017 la Contractul de ac,2017-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/196198
-ordin-transporturi-1800-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195747
+ordin-transporturi-1800-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195747
 ordin-transporturi-1814-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196300
-ordin-transporturi-1816-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196228
+ordin-transporturi-1816-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196228
 ordin-transporturi-1835-2017,pending-change,,,,Ordinul nr. 1170/2018,2018-07-10,no,https://legislatie.just.ro/Public/DetaliiDocument/197128
 ordin-transporturi-1836-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196858
-ordin-transporturi-1849-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196401
-ordin-transporturi-1854-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196314
+ordin-transporturi-1849-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196401
+ordin-transporturi-1854-2017,pending-change,,,,Ordinul nr. 1836/2018,2018-12-07,no,https://legislatie.just.ro/Public/DetaliiDocument/196314
 ordin-transporturi-22-2017,pending-change,,,,Rectificarea nr. 22/2017,2017-02-07,no,https://legislatie.just.ro/Public/DetaliiDocument/185641
 ordin-transporturi-266-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187057
 ordin-transporturi-282-2017,pending-change,,,,Ordinul nr. 1120/2024,2024-05-31,no,https://legislatie.just.ro/Public/DetaliiDocument/187517
 ordin-transporturi-33-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186366
 ordin-transporturi-342-2017,pending-change,,,,Ordinul nr. 2284/2025,2025-12-29,no,https://legislatie.just.ro/Public/DetaliiDocument/188015
-ordin-transporturi-355-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187857
-ordin-transporturi-356-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187858
-ordin-transporturi-357-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187859
-ordin-transporturi-370-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187913
-ordin-transporturi-371-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187914
-ordin-transporturi-376-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188049
-ordin-transporturi-377-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188050
+ordin-transporturi-355-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187857
+ordin-transporturi-356-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187858
+ordin-transporturi-357-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187859
+ordin-transporturi-370-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187913
+ordin-transporturi-371-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187914
+ordin-transporturi-376-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188049
+ordin-transporturi-377-2017,pending-change,,,,Ordinul nr. 1335/2017,2017-09-05,no,https://legislatie.just.ro/Public/DetaliiDocument/188050
 ordin-transporturi-403-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188491
 ordin-transporturi-407-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188467
 ordin-transporturi-408-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188468
@@ -1593,12 +1599,12 @@ ordin-transporturi-478-2017,current,2026-11-03,2026-12-03,amendment-search,,,,ht
 ordin-transporturi-483-2017,pending-change,,,,Ordinul nr. 516/2017,2017-05-10,no,https://legislatie.just.ro/Public/DetaliiDocument/189077
 ordin-transporturi-484-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189081
 ordin-transporturi-494-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189385
-ordin-transporturi-512-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190696
+ordin-transporturi-512-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190696
 ordin-transporturi-516-2017,pending-change,,,,ACT ADIȚIONAL nr. 3 din 15 decembrie 2017 la Contractul de servicii publice pent,2017-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/189198
-ordin-transporturi-524-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190609
+ordin-transporturi-524-2017,pending-change,,,,Ordinul nr. 2139/2020,2020-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/190609
 ordin-transporturi-600-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190062
 ordin-transporturi-601-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190205
-ordin-transporturi-604-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192349
+ordin-transporturi-604-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192349
 ordin-transporturi-606-2017,pending-change,,,,Ordinul nr. 2263/2022,2022-11-08,no,https://legislatie.just.ro/Public/DetaliiDocument/190217
 ordin-transporturi-608-2017,pending-change,,,,Ordinul nr. 1165/2021,2021-09-03,no,https://legislatie.just.ro/Public/DetaliiDocument/190807
 ordin-transporturi-683-2017,pending-change,,,,Ordinul nr. 1471/2023,2023-08-07,no,https://legislatie.just.ro/Public/DetaliiDocument/190785
@@ -1606,13 +1612,13 @@ ordin-transporturi-708-2017,current,2026-11-03,2026-12-03,amendment-search,,,,ht
 ordin-transporturi-716-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191414
 ordin-transporturi-722-2017,pending-change,,,,Ordinul nr. 2139/2020,2020-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/191224
 ordin-transporturi-731-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190921
-ordin-transporturi-745-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192352
+ordin-transporturi-745-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192352
 ordin-transporturi-770-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/191575
 ordin-transporturi-84-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/186411
 ordin-transporturi-88-2017,pending-change,,,,Ordinul nr. 4059/2024,2024-12-20,no,https://legislatie.just.ro/Public/DetaliiDocument/186847
 ordin-transporturi-897-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192157
 ordin-turism-1088-2017,pending-change,,,,Ordinul nr. 2656/2020,2020-08-10,no,https://legislatie.just.ro/Public/DetaliiDocument/194933
 ordin-turism-264-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/188362
-ordin-turism-3632-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194166
-ordin-turism-3770-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194169
-ordin-turism-3771-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194172
+ordin-turism-3632-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194166
+ordin-turism-3770-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194169
+ordin-turism-3771-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194172

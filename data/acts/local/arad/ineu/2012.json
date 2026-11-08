@@ -3,6 +3,116 @@
 "shard": "local/arad/ineu/2012",
 "acts": [
 {
+"slug": "hcl-arad--ineu-67-2012",
+"path": "local/arad/ineu/2012/67",
+"kind": "local",
+"year": "2012",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 67/2012 privind aprobarea ordinei de zi a sedintei ordinare a Consiliului local al orasului Ineu din 29.06.2012",
+"short": "HCL Ineu nr. 67/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h67-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-68-2012",
+"path": "local/arad/ineu/2012/68",
+"kind": "local",
+"year": "2012",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 68/2012 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local al orașului Ineu din data de 22.05.2012",
+"short": "HCL Ineu nr. 68/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h68-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-69-2012",
+"path": "local/arad/ineu/2012/69",
+"kind": "local",
+"year": "2012",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 69/2012 Privind aprobarea procesului verbal al ședinței de constituire a Consiliului local Ineu, din data de 20.06.2012",
+"short": "HCL Ineu nr. 69/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h69-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-70-2012",
+"path": "local/arad/ineu/2012/70",
+"kind": "local",
+"year": "2012",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 70/2012 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului local Ineu",
+"short": "HCL Ineu nr. 70/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h70-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-72-2012",
+"path": "local/arad/ineu/2012/72",
+"kind": "local",
+"year": "2012",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 72/2012 Privind modul de valorificare pe destinatii a volumului de masa lemnoasa preconizat a se recolta in anul 2012 din suprafata de fond forestier detinuta de Orasul Ineu",
+"short": "HCL Ineu nr. 72/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h72-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--ineu-73-2012",
 "path": "local/arad/ineu/2012/73",
 "kind": "local",
@@ -23,6 +133,95 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--ineu-74-2012",
+"path": "local/arad/ineu/2012/74",
+"kind": "local",
+"year": "2012",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 74/2012 privind aprobarea Bugetului General de venituri si cheltuieli al Orasului Ineu pe anul 2012",
+"short": "HCL Ineu nr. 74/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h74-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-75-2012",
+"path": "local/arad/ineu/2012/75",
+"kind": "local",
+"year": "2012",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 75/2012 privind actualizarea Nomenclaturii stradale a Orasului Ineu",
+"short": "HCL Ineu nr. 75/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h75-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--ineu-76-2012",
+"path": "local/arad/ineu/2012/76",
+"kind": "local",
+"year": "2012",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 76/2012",
+"short": "HCL Ineu nr. 76/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-29",
+"latest": "2012-06-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/h76-29.06.12.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--ineu-171-2012",
+"path": "local/arad/ineu/2012/171",
+"kind": "local",
+"year": "2012",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ineu nr. 171/2012 Privind aprobarea Calendarului Cultural pe anul 2013 al Casei de Cultura Oras Ineu",
+"short": "HCL Ineu nr. 171/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-11-29",
+"latest": "2012-11-29",
+"portal": "https://primariaineu.ro/wp-content/uploads/2013/08/HOTARAREA-171-Din-29_11_2012-Privind-aprobarea-Calendarului-Cultural-pe-anul-2013-al-Casei-de-Cultura-Oras-Ineu.pdf",
+"council": "arad/ineu",
+"council_name": "Consiliul Local al Orașului Ineu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

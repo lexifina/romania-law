@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/ignesti/2021",
+"acts": [
+{
+"slug": "hcl-arad--ignesti-13-2021",
+"path": "local/arad/ignesti/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ignești nr. 13/2021 privind ADISIGD ARAD Hotararea nr.89 din 17.12.2021 privind demarare procedura de introducere bun in domeniu public Hotararea nr.88 din 17.12.2021 privind alegere preseinte sedinta Hotararea nr.87 din 17.12.2021 privind propunere retea scolara Hotararea nr.86 din 17.12.2021 privind stabilire impozite si taxe locale 2022 Hotararea nr.85 din 17.12.2021 privind rectificare buget local Hotararea nr.84",
+"short": "HCL Ignești nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://primariaignesti.ro/monitorul-oficial-local/statut-uat/",
+"council": "arad/ignesti",
+"council_name": "Consiliul Local al Comunei Ignești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

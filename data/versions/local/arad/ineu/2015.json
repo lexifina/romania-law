@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2015",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-122-2015",
+   "path": "local/arad/ineu/2015/122",
+   "short": "HCL Ineu nr. 122/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 122/2015 pentru a descărca Hotărârea 122 din 6.11.2015",
+   "url": "https://primariaineu.ro/hotararea-22-impozite-si-taxe-2016/",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 1,
+     "source_url": "http://primariaineu.ro/wp-content/uploads/2015/12/hot_122_16112015.pdf",
+     "sha256": "2768e4f4a954723e329118c7d12cbee89ca3aa43aae86dbb11b6ba612dc3b7e9"
+    }
+   ]
+  }
+ ]
+}

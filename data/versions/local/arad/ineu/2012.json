@@ -3,6 +3,96 @@
  "shard": "local/arad/ineu/2012",
  "acts": [
   {
+   "slug": "hcl-arad--ineu-171-2012",
+   "path": "local/arad/ineu/2012/171",
+   "short": "HCL Ineu nr. 171/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 171/2012 Privind aprobarea Calendarului Cultural pe anul 2013 al Casei de Cultura Oras Ineu",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/HOTARAREA-171-Din-29_11_2012-Privind-aprobarea-Calendarului-Cultural-pe-anul-2013-al-Casei-de-Cultura-Oras-Ineu.pdf",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/HOTARAREA-171-Din-29_11_2012-Privind-aprobarea-Calendarului-Cultural-pe-anul-2013-al-Casei-de-Cultura-Oras-Ineu.pdf",
+     "sha256": "6ae97a80ca4430ef6763c12ab86f4c32ebc8d27db1cd4a5309634a67261e0ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-67-2012",
+   "path": "local/arad/ineu/2012/67",
+   "short": "HCL Ineu nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 67/2012 privind aprobarea ordinei de zi a sedintei ordinare a Consiliului local al orasului Ineu din 29.06.2012",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h67-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h67-29.06.12.pdf",
+     "sha256": "75b84421f56503e263954e677a5ebc1266153608deb76c5b58ea30fda2f27251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-68-2012",
+   "path": "local/arad/ineu/2012/68",
+   "short": "HCL Ineu nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 68/2012 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local al orașului Ineu din data de 22.05.2012",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h68-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h68-29.06.12.pdf",
+     "sha256": "475148b0aed5fadddb93a280296b9f4e2cbec5f29c0b4b4589c62ef98c173936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-69-2012",
+   "path": "local/arad/ineu/2012/69",
+   "short": "HCL Ineu nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 69/2012 Privind aprobarea procesului verbal al ședinței de constituire a Consiliului local Ineu, din data de 20.06.2012",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h69-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h69-29.06.12.pdf",
+     "sha256": "8c8c259512356d7147391c60a6f13c30e80ccd91d20b4974f9ba3a8cfa7b0bde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-70-2012",
+   "path": "local/arad/ineu/2012/70",
+   "short": "HCL Ineu nr. 70/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 70/2012 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului local Ineu",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h70-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h70-29.06.12.pdf",
+     "sha256": "49800ac648008a3b3111ab1c0988afd076323919c5ad020f2442e695cb1da598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-72-2012",
+   "path": "local/arad/ineu/2012/72",
+   "short": "HCL Ineu nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 72/2012 Privind modul de valorificare pe destinatii a volumului de masa lemnoasa preconizat a se recolta in anul 2012 din suprafata de fond forestier detinuta de Orasul Ineu",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h72-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h72-29.06.12.pdf",
+     "sha256": "2123fa3aeaedf47c61cdd06bc91c4750ff3b2832b3bcb92f03dc5a1f5662629b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-73-2012",
    "path": "local/arad/ineu/2012/73",
    "short": "HCL Ineu nr. 73/2012",
@@ -14,6 +104,51 @@
      "units": 1,
      "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h73-29.06.12.pdf",
      "sha256": "80c0b1084354daf664f5d10ea78cb0f3c917c8bb5be26ac0d4b630e848213ce5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-74-2012",
+   "path": "local/arad/ineu/2012/74",
+   "short": "HCL Ineu nr. 74/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 74/2012 privind aprobarea Bugetului General de venituri si cheltuieli al Orasului Ineu pe anul 2012",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h74-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h74-29.06.12.pdf",
+     "sha256": "77fd19337b8dc5f33b2cf669e47b17956ccad664f8dd7ef6d3b8513f4f9fb56d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-75-2012",
+   "path": "local/arad/ineu/2012/75",
+   "short": "HCL Ineu nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 75/2012 privind actualizarea Nomenclaturii stradale a Orasului Ineu",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h75-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h75-29.06.12.pdf",
+     "sha256": "dbd82f515939e96fb7b52062c9eef4d54448769344102967b781d8e37531ae85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-76-2012",
+   "path": "local/arad/ineu/2012/76",
+   "short": "HCL Ineu nr. 76/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 76/2012",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h76-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h76-29.06.12.pdf",
+     "sha256": "66bc7c74e63782d506fee3f01cb7ee6bdb99d91f23e82e3023c370283a3348ba"
     }
    ]
   }

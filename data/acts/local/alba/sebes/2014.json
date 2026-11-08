@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/sebes/2014",
+"acts": [
+{
+"slug": "hcl-alba--sebes-2823-2014",
+"path": "local/alba/sebes/2014/2823",
+"kind": "local",
+"year": "2014",
+"number": "2823",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 2823/2014",
+"short": "HCL Sebeș nr. 2823/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-10",
+"latest": "2014-09-10",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
