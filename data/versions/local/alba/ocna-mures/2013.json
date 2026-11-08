@@ -3,6 +3,36 @@
  "shard": "local/alba/ocna-mures/2013",
  "acts": [
   {
+   "slug": "hcl-alba--ocna-mures-1-2013",
+   "path": "local/alba/ocna-mures/2013/1",
+   "short": "HCL Ocna Mureș nr. 1/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 1/2013 privind participarea financiară a orașului Ocna Mureș … dimensiune fișier: 155 KB | 22.01.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-001.pdf",
+     "sha256": "539068d61c36c64913f314df4f88507bc6712aebb747426f4a0640eb702fa9f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-10-2013",
+   "path": "local/alba/ocna-mures/2013/10",
+   "short": "HCL Ocna Mureș nr. 10/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 10/2013 privind revocarea Hotărârii 67/28.04.2010 … dimensiune fișier: 163 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-010.pdf",
+     "sha256": "93097c2fe8bd88b4b219fc81635f3863629cae8d3391ee8e1566c3cf19ca7b5d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-100-2013",
    "path": "local/alba/ocna-mures/2013/100",
    "short": "HCL Ocna Mureș nr. 100/2013",
@@ -14,6 +44,456 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-100.pdf",
      "sha256": "0b0ea8a9305fdd7a51415b7c19c796ac32fd48b5ea23daf9d4a42c2098adfddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-101-2013",
+   "path": "local/alba/ocna-mures/2013/101",
+   "short": "HCL Ocna Mureș nr. 101/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 101/2013 privind reglementarea situaţiei bunurilor utilizate în derularea contractelor de concesiune … dimensiune fișier: 242KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-101.pdf",
+     "sha256": "50aaddb71769f2e9dcd2be6ae56d595fd2d0411cb6979a2dcae885096f547492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-102-2013",
+   "path": "local/alba/ocna-mures/2013/102",
+   "short": "HCL Ocna Mureș nr. 102/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 102/2013 pentru îndreptarea erorilor materiale din cuprinsul … dimensiune fișier: 206KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-102.pdf",
+     "sha256": "26365d58db6ff339aa00b78f936cc167ebfc07a0c720752a67ed534b5da9f0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-104-2013",
+   "path": "local/alba/ocna-mures/2013/104",
+   "short": "HCL Ocna Mureș nr. 104/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 104/2013 privind aprobarea documentaţiei pentru vânzarea prin licitaţie publică cu strigare a centralei termice din cartierul SODA… dimensiune fișier: 155KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-104.pdf",
+     "sha256": "a716b6a72ebd212e73f22fc715aedfcfe0fd3a664506554c166dc18818c02f0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-105-2013",
+   "path": "local/alba/ocna-mures/2013/105",
+   "short": "HCL Ocna Mureș nr. 105/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 105/2013 privind aprobarea documentaţiei – Proiect nr.2/2013 “Modernizare Casa de Cultură Ocna Mureş… dimensiune fișier: 167KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-105.pdf",
+     "sha256": "d2f5e7f49329dbd0ac15c690b367cd84f994ef3591d1fb4664393b55eccc2bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-107-2013",
+   "path": "local/alba/ocna-mures/2013/107",
+   "short": "HCL Ocna Mureș nr. 107/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 107/2013 privind amânarea încheierii contractelor de concesionare a spaţiilor cu destinaţia de cabinete medicale… dimensiune fișier: 162KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-107.pdf",
+     "sha256": "71993bd462413280d2dba96a9eb575f0719ba5fd29d93bc852ecbc683859efda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-108-2013",
+   "path": "local/alba/ocna-mures/2013/108",
+   "short": "HCL Ocna Mureș nr. 108/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 108/2013 privind aprobarea parcelării imobilului proprietate privată a oraşului Ocna Mureş, înscris în CF. 71563 Ocna Mureş… dimensiune fișier: 165KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-108.pdf",
+     "sha256": "1cfe48a45a0d8e0d4cc34384259e91e9ca07e566ca6108cb959f931f791cdd11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-109-2013",
+   "path": "local/alba/ocna-mures/2013/109",
+   "short": "HCL Ocna Mureș nr. 109/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 109/2013 privind propunerile Primăriei oraşului Ocna Mureş, judeţul Alba, care vor fi înaintate Prefectului judeţului Alba… dimensiune fișier: 158KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-109.pdf",
+     "sha256": "828464e4c7334a85d997f1654f47294f37861944f84ef296925d93b2730cae0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-11-2013",
+   "path": "local/alba/ocna-mures/2013/11",
+   "short": "HCL Ocna Mureș nr. 11/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 11/2013 privind încetarea contractului de închiriere … dimensiune fișier: 157 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-011.pdf",
+     "sha256": "c6f7e1a2cd4a75a41a30491ff0c3fd609271d2adadb5d2e3b3668d593bb10556"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-110-2013",
+   "path": "local/alba/ocna-mures/2013/110",
+   "short": "HCL Ocna Mureș nr. 110/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 110/2013 privind aprobarea achiziţiei întocmire „Studiu de prefezabilitate pentru construire Bază de tratament în oraşul Ocna Mureş”- cod CPV 79314000-8-studiu prefezabilitate… dimensiune fișier: 160KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-110.pdf",
+     "sha256": "9f6c5f707c1cbb4d7c9bf8d5c4bd337d43d7e56d5561683a4c5c22dd8b556440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-111-2013",
+   "path": "local/alba/ocna-mures/2013/111",
+   "short": "HCL Ocna Mureș nr. 111/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 111/2013 privind aprobarea achiziţiei „Dirigenţie de şantier –Modernizare piaţa oraşului Ocna Mureş”-COD CPV 71520000-9… dimensiune fișier: 161KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-111.pdf",
+     "sha256": "2914fc1a36fa54e9096217ef3267b94277cbb10e423c52c99d1b6e1cb51a8d97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-112-2013",
+   "path": "local/alba/ocna-mures/2013/112",
+   "short": "HCL Ocna Mureș nr. 112/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 112/2013 privind retragerea dreptului de folosinţă gratuită (comodat) de la Asociaţia ASMEEA pentru imobilele… dimensiune fișier: 161KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-112.pdf",
+     "sha256": "305ba8d0980e58f9ffd7d394f0c6273c023b81a45e1c8b567425be7f5b0770d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-113-2013",
+   "path": "local/alba/ocna-mures/2013/113",
+   "short": "HCL Ocna Mureș nr. 113/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 113/2013 privind aprobarea achiziţiei „Lucrări de reparare şi amenajare clădire Policlinică”-cod CPV 45453000-7… dimensiune fișier: 162KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-113.pdf",
+     "sha256": "a60aae91d74cd5895fe213e52ccb3537939b3a3b1de3ee2656e898c056d6daea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-114-2013",
+   "path": "local/alba/ocna-mures/2013/114",
+   "short": "HCL Ocna Mureș nr. 114/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 114/2013 privind repartizarea unor sume de bani de la cap. 67.02.06.59.11 „Susţinerea cultelor”… dimensiune fișier: 174KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-114.pdf",
+     "sha256": "51de9ce614df65e0d53722f60d727197f17f4b6f16918ca17bb2313705decb4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-115-2013",
+   "path": "local/alba/ocna-mures/2013/115",
+   "short": "HCL Ocna Mureș nr. 115/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 115/2013 privind modificarea şi completarea documentaţiei – Proiect nr.122/2013 „Modernizare piaţa agro-alimentară oraş Ocna Mureș”… dimensiune fișier: 161KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-115.pdf",
+     "sha256": "7cb745cac38b1e7d94ca86227efe4ca79598be71bcfeeb7c26011e31f12e36ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-117-2013",
+   "path": "local/alba/ocna-mures/2013/117",
+   "short": "HCL Ocna Mureș nr. 117/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 117/2013 privind aprobarea înaintării unei Scrisori de intenţie către Asocierea ASCOM INTERNAŢIONAL BUCUREŞTI – ALOREF ALBA IULIA… dimensiune fișier: 157KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-117.pdf",
+     "sha256": "1fb011fc24d0010ece36ce276ea7bdb6c9188d3afc2ca58159c18a53aff148c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-118-2013",
+   "path": "local/alba/ocna-mures/2013/118",
+   "short": "HCL Ocna Mureș nr. 118/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 118/2013 privind închirierea prin licitaţie publică a unor spaţii proprietate privată a oraşului Ocna Mureş… dimensiune fișier: 159KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-118.pdf",
+     "sha256": "af049c6534c9a2678cc66ba124690f6a955ab6473a508f467789a7b17d8b3fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-119-2013",
+   "path": "local/alba/ocna-mures/2013/119",
+   "short": "HCL Ocna Mureș nr. 119/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 119/2013 privind aprobarea documentaţiei de licitaţie (inclusiv caietul de sarcini) pentru concesionarea prin licitaţie publică… dimensiune fișier: 154KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-119.pdf",
+     "sha256": "2bd49b7e3d5c1f6a35a7b0e29c32defd5cebd741e5fce962c8193dd52e9e5846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-12-2013",
+   "path": "local/alba/ocna-mures/2013/12",
+   "short": "HCL Ocna Mureș nr. 12/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 12/2013 privind aprobarea înscrierii în domeniul privat al orașului … dimensiune fișier: 170 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-012.pdf",
+     "sha256": "837c7f03b805d6387fc1006fdded3acdbfa72b2c0ebfb1697a6fcf1bfa15adcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-120-2013",
+   "path": "local/alba/ocna-mures/2013/120",
+   "short": "HCL Ocna Mureș nr. 120/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 120/2013 privind aprobarea participării la „Programul de stimulare a înnoirii parcului auto naţional – programul RABLA 2013”… dimensiune fișier: 154KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-120.pdf",
+     "sha256": "1930e337082bff161ef896bcb648a988aff4d7bec5e9aaf56a0dbbe6ee759737"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-121-2013",
+   "path": "local/alba/ocna-mures/2013/121",
+   "short": "HCL Ocna Mureș nr. 121/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 121/2013 privind aprobarea parcelarii imobilului proprietate privată a oraşului Ocna Mureş, situat în Ocna Mureş… dimensiune fișier: 161KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-121.pdf",
+     "sha256": "33de2b523dabcbe57525fe6deb6e06f9423c93bebb9b61603f21d23a8803a684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-122-2013",
+   "path": "local/alba/ocna-mures/2013/122",
+   "short": "HCL Ocna Mureș nr. 122/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 122/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-122.pdf",
+     "sha256": "51b9586999c6ec74929b166816fb571b5825b8e7f3eedd8ba58f035a23055f49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-123-2013",
+   "path": "local/alba/ocna-mures/2013/123",
+   "short": "HCL Ocna Mureș nr. 123/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 123/2013 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 49 ani, a unui teren proprietate privată a oraşului Ocna Mureş… dimensiune fișier: 160KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-123.pdf",
+     "sha256": "35d57140908fd93e2867b276c5de4c3b86e7d81dc15a814d5e21eca0745c0477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-124-2013",
+   "path": "local/alba/ocna-mures/2013/124",
+   "short": "HCL Ocna Mureș nr. 124/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 124/2013 privind aprobarea înscrierii, în domeniul privat al oraşului Ocna Mureş a unei suprafețe de teren în suprafață de 956 mp… dimensiune fișier: 157KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-124.pdf",
+     "sha256": "ac75e75f475e6711ee95c5b9aa2a6fa98d996ec19b244c64e777220c3e641001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-125-2013",
+   "path": "local/alba/ocna-mures/2013/125",
+   "short": "HCL Ocna Mureș nr. 125/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 125/2013 privind aprobarea parcelării imobilului teren situat în Ocna Mureş… dimensiune fișier: 163KB | 31.07.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-125.pdf",
+     "sha256": "af0984b248a300dccd7f13d02206c6ed3a4ca977a213bca3a28a805d670c7cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-126-2013",
+   "path": "local/alba/ocna-mures/2013/126",
+   "short": "HCL Ocna Mureș nr. 126/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 126/2013 privind aprobarea inscrierii in domeniul privat al oraşului Ocna Mureş a imobilului inscris în CF 72247 Ocna Mureş… dimensiune fișier: 163KB | 19.08.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-126.pdf",
+     "sha256": "9ceac32f9284b4e7d89f1ad49fc3c5d69e21a16824c77a2a5744a491f19e8806"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-127-2013",
+   "path": "local/alba/ocna-mures/2013/127",
+   "short": "HCL Ocna Mureș nr. 127/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 127/2013 privind aprobarea desfăşurării sărbătorii locale „Zilele oraşului Ocna Mureş” în perioada 18-19 august 2013… dimensiune fișier: 184KB | 19.08.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-127.pdf",
+     "sha256": "910d67563b94d4cba1115432ccfda0f9839b3cbcd8329dfa2a750a4324ae655d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-13-2013",
+   "path": "local/alba/ocna-mures/2013/13",
+   "short": "HCL Ocna Mureș nr. 13/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 13/2013 privind modificarea contractului de concesiune … dimensiune fișier: 155 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-013.pdf",
+     "sha256": "7a66cf0b2a413d77905cc4a4604a7e511ac1cd7b84344e3cf7bbccb9fbbb38cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-14-2013",
+   "path": "local/alba/ocna-mures/2013/14",
+   "short": "HCL Ocna Mureș nr. 14/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 14/2013 privind aprobarea planului de lucrări de interes local … dimensiune fișier: 159 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-014.pdf",
+     "sha256": "a14fb3f44728ad6909f039d0e2bbf71ebca4ad8f0ef31b06671862b2a0bf77ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-143-2013",
+   "path": "local/alba/ocna-mures/2013/143",
+   "short": "HCL Ocna Mureș nr. 143/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 143/2013 privind aprobarea contului anual de execuţie realizat de toate unităţile din subordinea Oraşului Ocna Mureş… dimensiune fișier: 157KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-143.pdf",
+     "sha256": "5bb85b28e17d6b05761067c0e43364fdf8cc4f7e62f33aff9ac69b5e5fa0da35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-144-2013",
+   "path": "local/alba/ocna-mures/2013/144",
+   "short": "HCL Ocna Mureș nr. 144/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 144/2013 privind încetarea Contractului de închiriere nr.3418/25.04.2002 încheiat între… dimensiune fișier: 155KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-144.pdf",
+     "sha256": "b1ed102eb4bd5c6e4a603d7095dffea87110dc40de96981b5b7929a7713da382"
     }
    ]
   },
@@ -33,6 +513,621 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-146-2013",
+   "path": "local/alba/ocna-mures/2013/146",
+   "short": "HCL Ocna Mureș nr. 146/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 146/2013 privind rectificarea bugetului local şi a Listei de investiţii ale oraşului Ocna Mureş… dimensiune fișier: 155KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-146.pdf",
+     "sha256": "f05c3166de06d5ffe38849f6413f956078be5a066b9c2933b00cfdb12a51958b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-147-2013",
+   "path": "local/alba/ocna-mures/2013/147",
+   "short": "HCL Ocna Mureș nr. 147/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 147/2013 privind aprobarea contului trimestrial de execuţie al Oraşului Ocna Mureş pentru trimestrul II al anului 2013… dimensiune fișier: 153KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-147.pdf",
+     "sha256": "8341dbc97f7a1905230084d5b25587f29f96cc00e96d8a16f97a34019b8efa1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-148-2013",
+   "path": "local/alba/ocna-mures/2013/148",
+   "short": "HCL Ocna Mureș nr. 148/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 148/2013 privind aprobarea prelungirii termenului de execuţie a lucrării,, Lucrări de modernitzare a str. T Vladimirescu, V",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-148.pdf",
+     "sha256": "3c035e99d01c02c210eabe338fcf5daa6ef329424d7eed2e7d02172686ab5b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-149-2013",
+   "path": "local/alba/ocna-mures/2013/149",
+   "short": "HCL Ocna Mureș nr. 149/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 149/2013 privind aprobarea achiziţiei publice în vederea încheierii unui contract de prestari servicii… dimensiune fișier: 160KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-149.pdf",
+     "sha256": "a8afcd93f0602d0bcccd40a97e6b8ce032379602ee00f06605aadcc1cfc05699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-150-2013",
+   "path": "local/alba/ocna-mures/2013/150",
+   "short": "HCL Ocna Mureș nr. 150/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 150/2013 privind aprobarea prelungirii termenului de execuţie a lucrării ,,Lucrări de modernitzare Cartier Soda”… dimensiune fișier: 62KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-150.pdf",
+     "sha256": "051f12d43590f5d075ccfe3bc441e1202f8249bce0c02d71ec79ebe1dfebb893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-151-2013",
+   "path": "local/alba/ocna-mures/2013/151",
+   "short": "HCL Ocna Mureș nr. 151/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 151/2013 privind încheierea unui act adiţional la Contractul de prestări de servicii juridice… dimensiune fișier: 165KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-151.pdf",
+     "sha256": "94bee8454130acbc9fb250d3a67d21445ca6c4c59f39a462bd0d41ef7ed8f1dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-152-2013",
+   "path": "local/alba/ocna-mures/2013/152",
+   "short": "HCL Ocna Mureș nr. 152/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 152/2013 privind rectificarea bugetului local al oraşului Ocna Mureş pe anul 2013. dimensiune fișier: 165KB | 24.09.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-152.pdf",
+     "sha256": "a70641c7cdb809e319d434ef5f1b5dead9907d78949e36f2675bb34ee6bf6240"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-154-2013",
+   "path": "local/alba/ocna-mures/2013/154",
+   "short": "HCL Ocna Mureș nr. 154/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 154/2013 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de concesiune nr. 2592/08.09.1992 dimensiune fișier: 149KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-154.pdf",
+     "sha256": "0e4afbec3ffb7eef2c792dce5917645afdf666fafcac1c5b0be6c6afe5624832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-155-2013",
+   "path": "local/alba/ocna-mures/2013/155",
+   "short": "HCL Ocna Mureș nr. 155/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 155/2013 privind aprobarea Listei de priorităţi în vederea repartizării locuinţelor sociale din blocul 6 ABC; aprobarea cuantumului chirie lunare pentru locuinţele sociale din blocul 6 ABC dimensiune fișier: 156KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-155.pdf",
+     "sha256": "0361be6af72707139f1027769f85d9b1303334f46fd5bd347049bad40d9ec4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-157-2013",
+   "path": "local/alba/ocna-mures/2013/157",
+   "short": "HCL Ocna Mureș nr. 157/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 157/2013 privind aprobarea documentaţiei – Proiect nr.2/2013 “PROIECTARE RECONSTRUCŢIE CANAL DE GARDĂ”",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-157.pdf",
+     "sha256": "d4be1f5d37dbcb866c51eb0d70c87303dd0976f397e5ae4ead97f1bb8fab04cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-158-2013",
+   "path": "local/alba/ocna-mures/2013/158",
+   "short": "HCL Ocna Mureș nr. 158/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 158/2013 privind aprobarea achiziţiei publice AMENAJARE CENTRU PERMANENŢĂ-COD CPV 45232141-2 … dimensiune fișier: 165KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-158.pdf",
+     "sha256": "38fecde92738d828f1cb56999ec2b755b01c956c943a79abf13d2be3ea78d9f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-159-2013",
+   "path": "local/alba/ocna-mures/2013/159",
+   "short": "HCL Ocna Mureș nr. 159/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 159/2013 privind aprobarea achiziţiei publice ACHIZIŢIE TRACTOR RUTIER-COD CPV 34138000-3… dimensiune fișier: 160KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-159.pdf",
+     "sha256": "18c268c195abab3f19e7aa202c8516d71447b1c0fc893a1a687efb0228871e1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-16-2013",
+   "path": "local/alba/ocna-mures/2013/16",
+   "short": "HCL Ocna Mureș nr. 16/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-016.pdf",
+     "sha256": "e5d006ea7d877a4db31909a5038177a14830e8b3930b0d5f8b6338f20149d6ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-161-2013",
+   "path": "local/alba/ocna-mures/2013/161",
+   "short": "HCL Ocna Mureș nr. 161/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 161/2013 privind scoaterea din funcţiune, casarea, demolarea obiectivului “Staţie de epurare” a oraşului Ocna Mureş; valorificarea, prin vânzare la licitaţie publică cu strigare, a deşeurilor feroase rezultate în urma demolării Staţiei de epurare Ocna Mureş dimensiune fișier: 176KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-161.pdf",
+     "sha256": "e2b15e85e7ec76a010a4ac0053309c3c310fab2a3b11b3b638a89035bd4327d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-162-2013",
+   "path": "local/alba/ocna-mures/2013/162",
+   "short": "HCL Ocna Mureș nr. 162/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 162/2013 privind suplimentarea cheltuielilor ocazionate de sarbatoarea locală Zilele oraşului Ocna Mureş dimensiune fișier: 181KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-162.pdf",
+     "sha256": "b92d2851c90bae3167b664071976522b47f2b9a238802f8a567dd1377ad24439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-163-2013",
+   "path": "local/alba/ocna-mures/2013/163",
+   "short": "HCL Ocna Mureș nr. 163/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 163/2013 privind rezilierea Contractului de lucrări nr 11659 din 08.10.2012 încheiat cu SC BEMA PROD SERV S.R.L… dimensiune fișier: 160KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-163.pdf",
+     "sha256": "89eb149811529c72de1c40aa56858f7643fa87de674ac9a10b44284e8b2dee61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-164-2013",
+   "path": "local/alba/ocna-mures/2013/164",
+   "short": "HCL Ocna Mureș nr. 164/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 164/2013 privind aprobarea achiziţiei pentru executarea de prestări de servicii de tăieri de arbori din specia „plop”,aprobarea vânzării, prin licitaţie publică, a cantităţii de 200 m.c. de material lemnos rezultat în urma tăierii dimensiune fișier: 163KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-164.pdf",
+     "sha256": "1b3a61e3c275b5a8137a6c7f8b08833c82921fa7f5320373cd3a27896104804d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-165-2013",
+   "path": "local/alba/ocna-mures/2013/165",
+   "short": "HCL Ocna Mureș nr. 165/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 165/2013 privind aprobarea dării în arendă, prin licitaţie publică cu strigare, a unor terenuri proprietate privată a oraşului Ocna Mureş dimensiune fișier: 155KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-165.pdf",
+     "sha256": "073ec7588107ca83d81a206f732997de02244c2322cf7e8788073190f4688283"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-166-2013",
+   "path": "local/alba/ocna-mures/2013/166",
+   "short": "HCL Ocna Mureș nr. 166/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 166/2013 privind valorificarea bunurilor rezultate din demolarea unor construcţii proprietate privată a oraşului Ocna Mureş dimensiune fișier: 159KB | 10.10.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-166.pdf",
+     "sha256": "f690d8d2d62356e8d0bcefa66fcb9049104457514a9000aaf0af6cec8a4f61d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-167-2013",
+   "path": "local/alba/ocna-mures/2013/167",
+   "short": "HCL Ocna Mureș nr. 167/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 167/2013 Privind încetarea, începând cu data de 1 noiembrie 2013, a Contractului de închiriere nr. 13252/15.10.2010… dimensiune fișier: 158KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-167.pdf",
+     "sha256": "5bda2d70cb58959f76d32aa021c5cdfad0822f2aabe6e729f85f55ec334a1108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-168-2013",
+   "path": "local/alba/ocna-mures/2013/168",
+   "short": "HCL Ocna Mureș nr. 168/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 168/2013 Privind încetarea, începând cu data de 1 noiembrie 2013, a Contractului de concesiune nr. 4308/09.05.2005… dimensiune fișier: 161KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-168.pdf",
+     "sha256": "4a543774c2f1c1652992939d257cd050f8c39c2784a938fe4831f0894e9932b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-169-2013",
+   "path": "local/alba/ocna-mures/2013/169",
+   "short": "HCL Ocna Mureș nr. 169/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 169/2013 Privind încetarea, începând cu data de 1 noiembrie 2013, a Contractului de concesiune nr. 18036/30.12.2009… dimensiune fișier: 160KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-169.pdf",
+     "sha256": "aaa2fca65817fecb3b607d357ca12297d4a4913b189c3fd7d5f6a66de11ecfc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-170-2013",
+   "path": "local/alba/ocna-mures/2013/170",
+   "short": "HCL Ocna Mureș nr. 170/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 170/2013 Privind încetarea, începând cu data de 1 noiembrie 2013, a Contractului de concesiune nr. 3472/02.05.2005… dimensiune fișier: 161KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-170.pdf",
+     "sha256": "dd69bafee728115ae971c1e7c15d6238f273aa44db9d1ede159612894f5c932e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-171-2013",
+   "path": "local/alba/ocna-mures/2013/171",
+   "short": "HCL Ocna Mureș nr. 171/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 171/2013 privind aprobarea contractării în vederea executării lucrărilor suplimentare necesare pentru finalizarea investiţiei „Modernizare str. V. Alecsandri, Dr. I. Raţiu şi T. Vladimirescu” dimensiune fișier: 162KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-171.pdf",
+     "sha256": "71edc55cd21bc1a7dd3f306643d182c7e8c3fda3795847cfb4e3bb80149a5192"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-173-2013",
+   "path": "local/alba/ocna-mures/2013/173",
+   "short": "HCL Ocna Mureș nr. 173/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 173/2013 Privind încetarea, începând cu data de 11 decembrie 2013, a Contractului de concesiune nr. 12615/29.10.2004… dimensiune fișier: 154KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-173.pdf",
+     "sha256": "6b835c3abeecbac85bb20d5348d50dffc05e77a746993ab99659a619544ef75b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-174-2013",
+   "path": "local/alba/ocna-mures/2013/174",
+   "short": "HCL Ocna Mureș nr. 174/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 174/2013 Privind suspendarea, începând cu data de 1 noiembrie 2013, a Contractului de concesiune nr. 12616/29.10.2004… dimensiune fișier: 154KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-174.pdf",
+     "sha256": "44703529148115aa5a0d88c73c15351995d062a05eb6cb4b7a78f750de7a7a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-178-2013",
+   "path": "local/alba/ocna-mures/2013/178",
+   "short": "HCL Ocna Mureș nr. 178/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 178/2013 privind aprobarea achiziţiei „Dirigenţie de şantier Reconstrucţie canale de gardă COD CPV 7150000-9… dimensiune fișier: 162KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-178.pdf",
+     "sha256": "76e3e32a55c3e51fe4f2adaf330bf73f09c22d4b1be23e254d63fca6d3ccc244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-181-2013",
+   "path": "local/alba/ocna-mures/2013/181",
+   "short": "HCL Ocna Mureș nr. 181/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 181/2013 privind aprobarea comisiei pentru analizarea contestaţiilor la repartizarea locuinţelor sociale… dimensiune fișier: 151KB | 12.11.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-181.pdf",
+     "sha256": "f9ca14fbcc8d46b123e7583030b9589c3d10e14f85b056e00267ae88f26f6a5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-183-2013",
+   "path": "local/alba/ocna-mures/2013/183",
+   "short": "HCL Ocna Mureș nr. 183/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 183/2013 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de închiriere nr. 11301/16.09.2010 dimensiune fișier: 147KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-183.pdf",
+     "sha256": "89db1eab087f4f13e779cacfd84ed2ff5dc70998398da1407307161f1c4337f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-186-2013",
+   "path": "local/alba/ocna-mures/2013/186",
+   "short": "HCL Ocna Mureș nr. 186/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 186/2013 privind aprobarea încheierii unui act adiţional la Convenţia de Parteneriat încheiată în baza HCLOM nr 161/31.10.2011 aşa cum a fost modificată prin HCLOM nr 184 din 19.12.2012 dimensiune fișier: 214KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-186.pdf",
+     "sha256": "5595b21fa42619e9b957ef018df9eb55d8149db0c0922b3e59475ba277a6bf31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-187-2013",
+   "path": "local/alba/ocna-mures/2013/187",
+   "short": "HCL Ocna Mureș nr. 187/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 187/2013 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de concesiune nr. 7898/01.09.2006 dimensiune fișier: 148KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-187.pdf",
+     "sha256": "86ce10fb884531d3c04d23113645c212b63b8512b4a0285d97e9634f5d942f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-188-2013",
+   "path": "local/alba/ocna-mures/2013/188",
+   "short": "HCL Ocna Mureș nr. 188/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 188/2013 Privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la contractul de concesiune nr. 2697/08.09.1992 aşa cum a fost modificat prin actul adiţional nr. 1 din 21.12.2011 dimensiune fișier: 157KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-188.pdf",
+     "sha256": "c9afd5e29fe887b4cc3e1f25e24b87e286de47ccbc38a0e83073d2fbf9b434cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-189-2013",
+   "path": "local/alba/ocna-mures/2013/189",
+   "short": "HCL Ocna Mureș nr. 189/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 189/2013 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la contractul de concesiune nr. 2314/24.06.1993 dimensiune fișier: 153KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-189.pdf",
+     "sha256": "4e024e9d7eebb7fe9fb566a696900d9572c42f50e8d88057b56c301729728400"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-191-2013",
+   "path": "local/alba/ocna-mures/2013/191",
+   "short": "HCL Ocna Mureș nr. 191/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 191/2013 privind majorarea valorii spaţiului proprietate privată a Oraşului Ocna Mureş transmis în folosinţa gratuită a Serviciului de Ambulanta Judetean Alba pentru funcţionarea Substaţiei de ambulanţă Ocna Mureş… dimensiune fișier: 164KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-191.pdf",
+     "sha256": "3791d955c8991ffa80be1cc8254a1644ca9cc50ffc76a0c535f55ddeb552cec3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-192-2013",
+   "path": "local/alba/ocna-mures/2013/192",
+   "short": "HCL Ocna Mureș nr. 192/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 192/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-192.pdf",
+     "sha256": "5c2f82fff094ff35c784d674a7cff831f974ab35a048df08e70ab8e0f04a1a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-193-2013",
+   "path": "local/alba/ocna-mures/2013/193",
+   "short": "HCL Ocna Mureș nr. 193/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 193/2013 privind aprobarea schimbării categoriei unui drum din oraşul Ocna Mureş; atribuirea denumirii de “PARCULUI” străzii nou formate şi a managementului traficului pentru această stradă dimensiune fișier: 165KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-193.pdf",
+     "sha256": "0e1909fa9488594b356ff2c2bed159c84f0ecb5975cca1ecd468a777d868001c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-194-2013",
+   "path": "local/alba/ocna-mures/2013/194",
+   "short": "HCL Ocna Mureș nr. 194/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 194/2013 privind modificarea articolului nr 2 alineatul 2 al Hotărârii Consiliului Local al oraului Ocna Mureş nr 99 din data de 30.05.2013 dimensiune fișier: 233KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-194.pdf",
+     "sha256": "9824b5aff862f8763a0231bc61543e2440e6cebd7570fdbaac8527bbf4442e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-195-2013",
+   "path": "local/alba/ocna-mures/2013/195",
+   "short": "HCL Ocna Mureș nr. 195/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 195/2013 privind aprobarea cotizaţiei pentru anul 2013 la Asociaţia de Dezvoltare Intercomunitară „ALBA DE JOS” dimensiune fișier: 159KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-195.pdf",
+     "sha256": "ac8c43f58ea9311b64298bb1c2e4debf6261a66983cdef4f518030e9f1939241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-196-2013",
+   "path": "local/alba/ocna-mures/2013/196",
+   "short": "HCL Ocna Mureș nr. 196/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 196/2013 privind aprobarea prelungirii termenului Contractului de concesiune nr.9026/28.11.2000 pentru terenul în suprafaţă de 21 m.p. situat în Ocna Mureş strada Nicolae Iorga, nr.33,… dimensiune fișier: 162KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-196.pdf",
+     "sha256": "18e11910ee8213c7d972016cf1a0fc148e979ae896b271e6039a20498ad6c5fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-197-2013",
+   "path": "local/alba/ocna-mures/2013/197",
+   "short": "HCL Ocna Mureș nr. 197/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 197/2013 privind aprobarea prelungirii termenului Contractului de concesiune nr.5824/16.12.2002 pentru terenul în suprafaţă de 6,6 m.p. situat în Ocna Mureş strada 9 Mai, nr.3, loc nr.3,… dimensiune fișier: 162KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-197.pdf",
+     "sha256": "df45a9f7282a334e4ad75b6e05e03d5f5317276bfed70bbf4d5e429322029e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-199-2013",
+   "path": "local/alba/ocna-mures/2013/199",
+   "short": "HCL Ocna Mureș nr. 199/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 199/2013 privind aprobarea prelungirii termenului Contractului de concesiune nr.4434/21.04.2003 pentru terenul în suprafaţă de 6,6 m.p. situat în Ocna Mureş strada 9 Mai, nr.3, loc nr.4,… dimensiune fișier: 160KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-199.pdf",
+     "sha256": "133a78d79c612f006e817734c1dc919ea5555d2a27e34a7c7459db944d8ee132"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-20-2013",
    "path": "local/alba/ocna-mures/2013/20",
    "short": "HCL Ocna Mureș nr. 20/2013",
@@ -44,6 +1139,126 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-020.pdf",
      "sha256": "dd462f550a803695de42edfeef86637eda42f8fc3afb0a8b5d432019b603a927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-200-2013",
+   "path": "local/alba/ocna-mures/2013/200",
+   "short": "HCL Ocna Mureș nr. 200/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 200/2013 privind aprobarea prelungirii termenului Contractului de concesiune nr.6160/10.06.2003 pentru terenul în suprafaţă de 5,4 m.p. situat în Ocna Mureş strada 9 Mai, nr.3, loc nr.7,… dimensiune fișier: 160KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-200.pdf",
+     "sha256": "b232f67f0e6de62dd8a018d31a1f8ce75deacbf90013261a1a5dddd495a30590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-202-2013",
+   "path": "local/alba/ocna-mures/2013/202",
+   "short": "HCL Ocna Mureș nr. 202/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 202/2013 privind încetarea Contractului de concesiune nr.12616/29.10.2004 pentru spaţiul cu destinaţia de cabinet medical în suprafaţă de 16,27 m.p. situat în Ocna Mureş strada Axente Sever, nr.43/a – Clădire Policlinică,… dimensiune fișier: 217KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-202.pdf",
+     "sha256": "8f9f837b5b2385931191cb5d61dff5121976fd2c26e964df23530e650027e193"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-203-2013",
+   "path": "local/alba/ocna-mures/2013/203",
+   "short": "HCL Ocna Mureș nr. 203/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 203/2013 privind aprobarea prelungirii termenului Contractului de închiriere nr.1150/16.02.1998 pentru spaţiul în suprafaţă de 92 m.p. situat în Ocna Mureş strada 1 Mai, f.n.,… dimensiune fișier: 162KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-203.pdf",
+     "sha256": "efad30089bca8652f2e61958657ec44166e45c790d40c903a92bf0a1857e0b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2013",
+   "path": "local/alba/ocna-mures/2013/21",
+   "short": "HCL Ocna Mureș nr. 21/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2013 privind acordarea de scutire de la plata chiriei … dimensiune fișier: 156 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-021.pdf",
+     "sha256": "e59e8b86e9091109234d5eef42a9cf3bfccc24639309b95951c2c9498c0de79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-213-2013",
+   "path": "local/alba/ocna-mures/2013/213",
+   "short": "HCL Ocna Mureș nr. 213/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 213/2013 pentru urbanism, tehnic, investiții, disciplina in constructii, spatiu locativ, Acordul Consiliului de Administrație al Liceului Tehnologic exprimat prin adresa înregistrată la Primăria orașului Ocna Mureș cu nr. 19072/21.11.2013 și avizele comisiilor de specialitate ale consiliului local coroborate cu prevederile cuprinse la art.136 din Constituția României, art.858-862 și art. 867-870 din Codul",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-213.pdf",
+     "sha256": "cdfb63c9d72384d6fda15c69f4ea27ebaaa516015d08fc9217ffba74e6511998"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-214-2013",
+   "path": "local/alba/ocna-mures/2013/214",
+   "short": "HCL Ocna Mureș nr. 214/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 214/2013 pentru transformarea acesteia în “bloc de locuințe sociale” CONSILIUL LOCAL AL ORAȘULUI OCNA MUREȘ, întrunit în ședință ordinară la data de 28.11.2013, ca urmare a emiterii dispoziției de convocare nr.1894/21.11.2013, de către primarul orașului Ocna Mureș",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-214.pdf",
+     "sha256": "2d1c1b67f48526d3ee2ab6ad8f89d8908fb3105f57230db07b2a817fc47c2baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-216-2013",
+   "path": "local/alba/ocna-mures/2013/216",
+   "short": "HCL Ocna Mureș nr. 216/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 216/2013 privind aprobarea cesiunii dreptului de concesiune asupra terenului care face obiectul Contractului de concesiune nr.6824/22.11.2000 dimensiune fișier: 154KB | 18.12.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-216.pdf",
+     "sha256": "95ba875bfdb16d27b9e7c6af1d15604cea956f994fc4b2c670a01624a41c6d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-22-2013",
+   "path": "local/alba/ocna-mures/2013/22",
+   "short": "HCL Ocna Mureș nr. 22/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 22/2013 privind aprobarea planului de organizare a rețelei școlare … dimensiune fișier: 154 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-022.pdf",
+     "sha256": "1da00de96ca55800cd2eb94cf5835938c845105e62aafbc6c21ae144672b05db"
     }
    ]
   },
@@ -63,6 +1278,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-221-2013",
+   "path": "local/alba/ocna-mures/2013/221",
+   "short": "HCL Ocna Mureș nr. 221/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 221/2013 pentru destinaţia de “şcoală primară în regim privat” dimensiune fișier: 273KB | 07.01.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-221.pdf",
+     "sha256": "fdb54fc199a46777531f3a55aacc43bc98d2c3c914ed68e1875a9d6712058701"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-222-2013",
+   "path": "local/alba/ocna-mures/2013/222",
+   "short": "HCL Ocna Mureș nr. 222/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 222/2013 privind aprobarea documentaţiei – Proiect nr.12/2013 “Modernizare străzi: M. Eminescu, N. Iorga, Brazilor şi 1 Mai… dimensiune fișier: 161KB | 07.01.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-222.pdf",
+     "sha256": "2a22ec8dcb75bdcc31480097202a518e6e4a6813f819fe9879e700bb9ad7b412"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-224-2013",
    "path": "local/alba/ocna-mures/2013/224",
    "short": "HCL Ocna Mureș nr. 224/2013",
@@ -74,6 +1319,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-224.pdf",
      "sha256": "530e8993959979caf4bc4ddea77a5abfa22e33f9d4079ee36b2350bc27dc71bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-225-2013",
+   "path": "local/alba/ocna-mures/2013/225",
+   "short": "HCL Ocna Mureș nr. 225/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 225/2013 Privind aprobarea „Planului de lucrări de interes local” care vor fi executate în anul 2014 la nivelul oraşului Ocna Mureş de către beneficiarii Legii nr 416/2001 dimensiune fișier: 204KB | 07.01.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-225.pdf",
+     "sha256": "43d3e97ffeb2cda8340a140d791b3cd5584d8f7dfe2f0ab5d43f9ca962614f9b"
     }
    ]
   },
@@ -108,6 +1368,186 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-23-2013",
+   "path": "local/alba/ocna-mures/2013/23",
+   "short": "HCL Ocna Mureș nr. 23/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 23/2013 privind aprobarea înregistrării în domeniul public … dimensiune fișier: 161 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-023.pdf",
+     "sha256": "bdf28d5fc3b8ba2590c7596591ea70a8a3e476aaf355fe0d073e093fae5bd9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-24-2013",
+   "path": "local/alba/ocna-mures/2013/24",
+   "short": "HCL Ocna Mureș nr. 24/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 24/2013 privind aprobarea parcelării imobilului … dimensiune fișier: 162 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-024.pdf",
+     "sha256": "e349f83efecbd028f01fb53f556fdc29ec1ef8f703c2c34af15d45184abc4bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-25-2013",
+   "path": "local/alba/ocna-mures/2013/25",
+   "short": "HCL Ocna Mureș nr. 25/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 25/2013 privind aprobarea documentației tehnice … dimensiune fișier: 150 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-025.pdf",
+     "sha256": "c4d4c9d56af7c92e91fa130443e0897ccc523cdfe3449c63c027707e8fcf59bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-26-2013",
+   "path": "local/alba/ocna-mures/2013/26",
+   "short": "HCL Ocna Mureș nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 26/2013 privind aprobarea înscrierii … dimensiune fișier: 156 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-026.pdf",
+     "sha256": "6ede344d39ade30081f8d9b11488ad77773fd4a1fbb8d3ab19256cc007b2e8eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-27-2013",
+   "path": "local/alba/ocna-mures/2013/27",
+   "short": "HCL Ocna Mureș nr. 27/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 27/2013 privind preluarea de către Consiliul Local … dimensiune fișier: 162 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-027.pdf",
+     "sha256": "0af394bb813a1b05087d10eb7335ba1efe2e3c868d49b5717a6e375040a121c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-28-2013",
+   "path": "local/alba/ocna-mures/2013/28",
+   "short": "HCL Ocna Mureș nr. 28/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 28/2013 privind încetarea contractului de concesiune … dimensiune fișier: 156 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-028.pdf",
+     "sha256": "bf245c34c5c987a6f30e58e7a06558e3e2021f1157eb68ab3b2821a01fa00416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-29-2013",
+   "path": "local/alba/ocna-mures/2013/29",
+   "short": "HCL Ocna Mureș nr. 29/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2013 privind clarificarea situației juridice … dimensiune fișier: 208 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-029.pdf",
+     "sha256": "533cb704d8981959d31e4b1abffc8a0c9228d85d256b7013eca3dbe2033035be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-3-2013",
+   "path": "local/alba/ocna-mures/2013/3",
+   "short": "HCL Ocna Mureș nr. 3/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 3/2013 privind aprobarea înaintării unei scrisori de intenție … dimensiune fișier: 182 KB | 22.01.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-003.pdf",
+     "sha256": "3ad69f6f7e55e6a90b42e038ef60448cb78107c6520fd1c14e908f0523e8c744"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-30-2013",
+   "path": "local/alba/ocna-mures/2013/30",
+   "short": "HCL Ocna Mureș nr. 30/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 30/2013 privind propunerile Primăriei orașului Ocna Mureș … dimensiune fișier: 156 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-030.pdf",
+     "sha256": "4ee3c1d456af0ffa61d0db49ac75163972b8af8012cf57a5fd882613c5968f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-31-2013",
+   "path": "local/alba/ocna-mures/2013/31",
+   "short": "HCL Ocna Mureș nr. 31/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 31/2013 privind mandatarea primarului orașului Ocna Mureș … dimensiune fișier: 155 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-031.pdf",
+     "sha256": "1f622763272e5850fd30fb358245b99654df748680377803ac0b55042a311baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-32-2013",
+   "path": "local/alba/ocna-mures/2013/32",
+   "short": "HCL Ocna Mureș nr. 32/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 32/2013 privind demolarea construcției … dimensiune fișier: 154 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-032.pdf",
+     "sha256": "0ad4c48245c749b8d111014f5f9aead063489d9798dddeac9c5bb7d9b488b5e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-33-2013",
+   "path": "local/alba/ocna-mures/2013/33",
+   "short": "HCL Ocna Mureș nr. 33/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 33/2013 privind aprobarea documentației tehnice … dimensiune fișier: 149 KB | 07.03.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-033.pdf",
+     "sha256": "7eb3f8f6a9e83f27d49a951e24ca3cb6f53df100835fee89bc229b510d6b934e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-34-2013",
    "path": "local/alba/ocna-mures/2013/34",
    "short": "HCL Ocna Mureș nr. 34/2013",
@@ -138,6 +1578,96 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-36-2013",
+   "path": "local/alba/ocna-mures/2013/36",
+   "short": "HCL Ocna Mureș nr. 36/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 36/2013 privind aprobarea parcelării imobilului … dimensiune fișier: 161 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-036.pdf",
+     "sha256": "09152150740fd7746459ab31de227b36cabb4aa89cd590033e1723725a6f541c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-37-2013",
+   "path": "local/alba/ocna-mures/2013/37",
+   "short": "HCL Ocna Mureș nr. 37/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 37/2013 privind aprobarea parcelării imobilului … dimensiune fișier: 160 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-037.pdf",
+     "sha256": "17b1de72ee827815f5bc40a3f0f541114c0a6ab0330ee27e8d0d83dd8d5dd7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-38-2013",
+   "path": "local/alba/ocna-mures/2013/38",
+   "short": "HCL Ocna Mureș nr. 38/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 38/2013 privind unificarea, intr-o singură parcelă, a imobilelor proprietate privată, înscrise în CF 72072, CF 71100, CF 71099 Ocna Mureş, în suprafaţă de 3279 mp, situate administrativ în intravilanul localităţii Ocna Mureş, str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2013-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-038.pdf",
+     "sha256": "dd7fd8fcaab37c88a34e2764a147db4145ca0a543cb94b15e7fa673704cca471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-39-2013",
+   "path": "local/alba/ocna-mures/2013/39",
+   "short": "HCL Ocna Mureș nr. 39/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 39/2013 privind aprobarea achiziției publice „Lucrări de modernizare cartier Uioara de Sus …” dimensiune fișier: 164 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-039.pdf",
+     "sha256": "0b0ccaaa16a8396b42b5efa828e94cb30cbc231062e4cf9e36fc98307e463af1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-4-2013",
+   "path": "local/alba/ocna-mures/2013/4",
+   "short": "HCL Ocna Mureș nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 4/2013 privind aprobarea noilor valori impozabile … dimensiune fișier: 245 KB | 22.01.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-004.pdf",
+     "sha256": "d34974ce1d0b0fa14b5fce843695e4a6084753357b5326416c4971a4e6c68ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-40-2013",
+   "path": "local/alba/ocna-mures/2013/40",
+   "short": "HCL Ocna Mureș nr. 40/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 40/2013 privind aprobarea documentației tehnico economice pentru proiectul „Reabilitare rețea alimentare cu apă …” dimensiune fișier: 161 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-040.pdf",
+     "sha256": "17c43baeda7dc8fbf60839e589d0d4d1f81bf4bab0d262c0c33b5837fceb7e2b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-41-2013",
    "path": "local/alba/ocna-mures/2013/41",
    "short": "HCL Ocna Mureș nr. 41/2013",
@@ -149,6 +1679,396 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-041.pdf",
      "sha256": "0e184f9a194420dfdec4924981205b3927749c683afb6d1a95b3a366765c761a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-42-2013",
+   "path": "local/alba/ocna-mures/2013/42",
+   "short": "HCL Ocna Mureș nr. 42/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 42/2013 privind aprobarea înscrierii în domeniul privat … dimensiune fișier: 161 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-042.pdf",
+     "sha256": "2c476a72ad1a0c1750fbdcb1d1f40c0cd3652e2833ecd7aa7b9fbe6ae4e74077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-43-2013",
+   "path": "local/alba/ocna-mures/2013/43",
+   "short": "HCL Ocna Mureș nr. 43/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 43/2013 privind aprobarea vânzării, prin licitație publică … dimensiune fișier: 160 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-043.pdf",
+     "sha256": "a4bdf069d1038435718e751f0806e9b7e76b0bab3addcb55e24504e57f10d5c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-44-2013",
+   "path": "local/alba/ocna-mures/2013/44",
+   "short": "HCL Ocna Mureș nr. 44/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 44/2013 privind aprobarea prelungirii termenului de valabilitate … dimensiune fișier: 159 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-044.pdf",
+     "sha256": "cbab1ba599528cd9ec706ce02192264814a11650d734275375ae53cad7195e2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-45-2013",
+   "path": "local/alba/ocna-mures/2013/45",
+   "short": "HCL Ocna Mureș nr. 45/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 45/2013 privind aprobarea prelungirii termenului de valabilitate … dimensiune fișier: 157 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-045.pdf",
+     "sha256": "1abd8476107546df6e180559ea65dadf9c90f9905db6bd3e1945d89d68ea6421"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-46-2013",
+   "path": "local/alba/ocna-mures/2013/46",
+   "short": "HCL Ocna Mureș nr. 46/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 46/2013 privind aprobarea vânzării prin licitație publică … dimensiune fișier: 158 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-046.pdf",
+     "sha256": "d38db585e08389a6085d950dd3a99202ca2a09894171d1271ca220321630fc34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-47-2013",
+   "path": "local/alba/ocna-mures/2013/47",
+   "short": "HCL Ocna Mureș nr. 47/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 47/2013 privind aprobarea de înlesniri la plata creanțelor … dimensiune fișier: 163 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-047.pdf",
+     "sha256": "7c4f13e0fc528cdeb1c655ec46a58df958b4d874cd6c76d5a42e1a22694b21fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-48-2013",
+   "path": "local/alba/ocna-mures/2013/48",
+   "short": "HCL Ocna Mureș nr. 48/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 48/2013 privind aprobarea de înlesniri la plata … dimensiune fișier: 164 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-048.pdf",
+     "sha256": "36dfa712afafdce3a02f69fa90695c0a3796f303f426bfd9b1090446f27ae27e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-49-2013",
+   "path": "local/alba/ocna-mures/2013/49",
+   "short": "HCL Ocna Mureș nr. 49/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 49/2013 privind aprobarea Regulamentului de organizare și funcționare … dimensiune fișier: 157 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-049.pdf",
+     "sha256": "38a073c2c3d96981886cd12490f9eb4e976b2bb9d21550c8847719f456b1b2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-5-2013",
+   "path": "local/alba/ocna-mures/2013/5",
+   "short": "HCL Ocna Mureș nr. 5/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 5/2013 privind aprobarea proiectului planului de organizare a rețelei școlare … dimensiune fișier: 168 KB | 22.01.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-005.pdf",
+     "sha256": "48393f50403cf66af7885c5bbe5869bd5422cb66f2f89c20f3df90ca5eb7ebfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-50-2013",
+   "path": "local/alba/ocna-mures/2013/50",
+   "short": "HCL Ocna Mureș nr. 50/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 50/2013 privind aprobarea concesionării prin licitație publică … dimensiune fișier: 164 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-050.pdf",
+     "sha256": "893c63021c458be1dc34aa52772f2c6f169c93b5034a4c30a7c0e50d5a65b162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-51-2013",
+   "path": "local/alba/ocna-mures/2013/51",
+   "short": "HCL Ocna Mureș nr. 51/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 51/2013 privind aprobarea vânzării prin licitație publică … dimensiune fișier: 162 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-051.pdf",
+     "sha256": "0cf3d0395f2c33025e700e5f838bd0290f9636afa30c7f848bdd9efb683a723c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-52-2013",
+   "path": "local/alba/ocna-mures/2013/52",
+   "short": "HCL Ocna Mureș nr. 52/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 52/2013 privind aprobarea concesionării prin licitație publică … dimensiune fișier: 164 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-052.pdf",
+     "sha256": "f22c8cf5a58593835013405564a0fc74f5f5f562df9dbe480f0fe53b65660f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-53-2013",
+   "path": "local/alba/ocna-mures/2013/53",
+   "short": "HCL Ocna Mureș nr. 53/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 53/2013 privind aprobarea închirierii prin licitație publică … dimensiune fișier: 165 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-053.pdf",
+     "sha256": "0100c73b5dc49e7a46664fe8f736be7e68a7ddf742705e2947dbe0ca8dfa9258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-54-2013",
+   "path": "local/alba/ocna-mures/2013/54",
+   "short": "HCL Ocna Mureș nr. 54/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 54/2013 privind repartizarea excedentului anului 2012 … dimensiune fișier: 150 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-054.pdf",
+     "sha256": "6657bc6666b29c23a88f85e1beab5f47e9808f6284cf06e4f7f98b1aa1948ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-55-2013",
+   "path": "local/alba/ocna-mures/2013/55",
+   "short": "HCL Ocna Mureș nr. 55/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 55/2013 privind aprobarea bugetului local pe anul 2013 … dimensiune fișier: 155 KB | 07.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-055.pdf",
+     "sha256": "abbac23933b980520beb10e52df59c133400573fb9338a79646612f817c4c294"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-56-2013",
+   "path": "local/alba/ocna-mures/2013/56",
+   "short": "HCL Ocna Mureș nr. 56/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 56/2013 privind propunerea de desființare a unității … dimensiune fișier: 220 KB | 15.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-056.pdf",
+     "sha256": "9ed29fc0ee61b01d15091fd26737d8bcf5cc459887de4911488ec2aabb4bc68f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-58-2013",
+   "path": "local/alba/ocna-mures/2013/58",
+   "short": "HCL Ocna Mureș nr. 58/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 58/2013 privind schimbarea locației Centrului de Permanență … dimensiune fișier: 166 KB | 15.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-058.pdf",
+     "sha256": "ac9717792b85c9e60b13e95ca2705b9cd9f5b0ffbc408050c239fe5f8592aa0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-59-2013",
+   "path": "local/alba/ocna-mures/2013/59",
+   "short": "HCL Ocna Mureș nr. 59/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 59/2013 privind aprobarea achiziției publice … dimensiune fișier: 224 KB | 15.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-059.pdf",
+     "sha256": "b69c6e4a9aadcf103d68bec2ef9764f86226deccecf7b5f5cc6da7781e68c019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-61-2013",
+   "path": "local/alba/ocna-mures/2013/61",
+   "short": "HCL Ocna Mureș nr. 61/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 61/2013 privind disponibilizarea, casarea și valorificarea … dimensiune fișier: 178 KB | 15.04.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-061.pdf",
+     "sha256": "6cc5068c89feacd49c1414e75d46252f0d20b55b4286f11682ef492fa7d921a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-62-2013",
+   "path": "local/alba/ocna-mures/2013/62",
+   "short": "HCL Ocna Mureș nr. 62/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 62/2013 privind aprobarea parcelării unui imobil … dimensiune fișier: 164 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-062.pdf",
+     "sha256": "b42efe9dfdc1dbe7ee690ad441e471c163f381e00bdd030fcbe9a64cfc362708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-63-2013",
+   "path": "local/alba/ocna-mures/2013/63",
+   "short": "HCL Ocna Mureș nr. 63/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 63/2013 privind prelungirea termenului de închiriere a unor apartamente … dimensiune fișier: 149 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-063.pdf",
+     "sha256": "00f68f6f017d8fd311bcd66ffa930bb50cc20fd9ce8668e4fbcbea669d8bb076"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-67-2013",
+   "path": "local/alba/ocna-mures/2013/67",
+   "short": "HCL Ocna Mureș nr. 67/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 67/2013 privind aprobarea înscrierii în domeniul privat al orașului Ocna Mureș … dimensiune fișier: 161 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-067.pdf",
+     "sha256": "b1e77949bf5172e5cd10df9cc1eaff198b334058a68209eed1ed2b70c6ba5d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-68-2013",
+   "path": "local/alba/ocna-mures/2013/68",
+   "short": "HCL Ocna Mureș nr. 68/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 68/2013 privind aprobarea contului de execuție … dimensiune fișier: 146 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-068.pdf",
+     "sha256": "419100e40e8ef27955287b3f1ce11e87500b41490372d5be90bbed9e6de68e2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-69-2013",
+   "path": "local/alba/ocna-mures/2013/69",
+   "short": "HCL Ocna Mureș nr. 69/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 69/2013 privind aprobarea prelungirii străzii Ciocârliei … dimensiune fișier: 156 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-069.pdf",
+     "sha256": "eb4de034c7a4ce710f5abbe1a0e43ac505b767b9bcf1c0baf146944f14c3dc2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-7-2013",
+   "path": "local/alba/ocna-mures/2013/7",
+   "short": "HCL Ocna Mureș nr. 7/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 7/2013 privind aprobarea noilor valori impozabile … dimensiune fișier: 247 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-007.pdf",
+     "sha256": "91ba36e45a83e9e7b3f623dca68054fe4b8e18ec53697bd107b88d44ea4ecce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-70-2013",
+   "path": "local/alba/ocna-mures/2013/70",
+   "short": "HCL Ocna Mureș nr. 70/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 70/2013 privind stabilirea în lei … dimensiune fișier: 159 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-070.pdf",
+     "sha256": "b3e97131385559694af5a00b6a47c62a220354d8cb135bc86a523b7ebb9b02a9"
     }
    ]
   },
@@ -179,6 +2099,396 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-072.pdf",
      "sha256": "09fcdf5d29cdabc02fb2da44a7807f1e26163b0f757f8f0574ed0981ef4f90df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-74-2013",
+   "path": "local/alba/ocna-mures/2013/74",
+   "short": "HCL Ocna Mureș nr. 74/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 74/2013 privind disponibilizarea, scoaterea din funcțiune … dimensiune fișier: 178 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-074.pdf",
+     "sha256": "1c100d8e475c3e598322d3a4dc71a92bf1639eecf4365542e36200508c2b2d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-75-2013",
+   "path": "local/alba/ocna-mures/2013/75",
+   "short": "HCL Ocna Mureș nr. 75/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 75/2013 privind aprobarea noii organigrame … dimensiune fișier: 154 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-075.pdf",
+     "sha256": "1a0a549cf981d68c889cda9bc90996b434679c4f7c51a944e3514a4d6b1acc80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-76-2013",
+   "path": "local/alba/ocna-mures/2013/76",
+   "short": "HCL Ocna Mureș nr. 76/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 76/2013 privind exprimarea acordului pentru încheierea unui contract de cesiune … dimensiune fișier: 149 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-076.pdf",
+     "sha256": "5e6795aa849641b07181ba2a77dd1b28d891ccb05f9be1bff36dc4e05025dbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-77-2013",
+   "path": "local/alba/ocna-mures/2013/77",
+   "short": "HCL Ocna Mureș nr. 77/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 77/2013 privind revocarea HCLOM 47/2013 … dimensiune fișier: 267 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-077.pdf",
+     "sha256": "4cbd05609a0cd86c4565969258e04ea2aa97a37e1077f285937dadc53b64a458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-78-2013",
+   "path": "local/alba/ocna-mures/2013/78",
+   "short": "HCL Ocna Mureș nr. 78/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 78/2013 privind revocarea HCLOM 41/2013 … dimensiune fișier: 263 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-078.pdf",
+     "sha256": "9ae0d8713788335f92facade0a5502bf1fdcb153516d4647b2dc9f8a712363bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-79-2013",
+   "path": "local/alba/ocna-mures/2013/79",
+   "short": "HCL Ocna Mureș nr. 79/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 79/2013 privind revocarea HCLOM 32/2013 … dimensiune fișier: 259 KB | 15.05.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-079.pdf",
+     "sha256": "35b0aca70dec8909497f135955a5672e859313a621a38382282b7799647e0614"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-8-2013",
+   "path": "local/alba/ocna-mures/2013/8",
+   "short": "HCL Ocna Mureș nr. 8/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 8/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-008.pdf",
+     "sha256": "1466ddce1b294d6bce4a9c366ac7b6b6de5e9a7bea5c9834e3e5dd3d7ace982c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-80-2013",
+   "path": "local/alba/ocna-mures/2013/80",
+   "short": "HCL Ocna Mureș nr. 80/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 80/2013 privind revocarea HCLOM 56/2013 … dimensiune fișier: 278KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-080.pdf",
+     "sha256": "d3784d08d4990dfef468f6757976f1309afff02e513c94b4b91673a14b11a2a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-81-2013",
+   "path": "local/alba/ocna-mures/2013/81",
+   "short": "HCL Ocna Mureș nr. 81/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 81/2013 privind propunerea de desființare … dimensiune fișier: 218KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-081.pdf",
+     "sha256": "731905d96caf438683545c50b866a57d7720739b4d24a4584007288a87dcd22b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-82-2013",
+   "path": "local/alba/ocna-mures/2013/82",
+   "short": "HCL Ocna Mureș nr. 82/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 82/2013 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 49 ani a unui teren situat în Ocna Mures, str. Al. Independenţei, nr. 7A, jud. Alba, înscris in Cf 71359 Ocna Mureş, cu nr cad 71359-curţi, construcţii în suprafaţă de 196,00 mp, teren care face parte din domeniul privat al oraşului Ocna Mureş, preţul de pornire al licitaţiei să fie de 400,00 lei/an. | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-082.pdf",
+     "sha256": "09e6490797d284d972a16ba84cf2bac6ce71849dd6a3bf77f6cd21c5fe118a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-83-2013",
+   "path": "local/alba/ocna-mures/2013/83",
+   "short": "HCL Ocna Mureș nr. 83/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 83/2013 privind aprobarea achiziției … dimensiune fișier: 185KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-083.pdf",
+     "sha256": "7628b5bd50d76a179b57fc4d4639d1ec82f006d2e70e08e51de6dec9f5d4e3d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-84-2013",
+   "path": "local/alba/ocna-mures/2013/84",
+   "short": "HCL Ocna Mureș nr. 84/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 84/2013 privind aprobarea achiziției publice … dimensiune fișier: 164KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-084.pdf",
+     "sha256": "72472f6fe635dc83edc8111cdff59989f2f76f216a6a3ec853514883271950c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-85-2013",
+   "path": "local/alba/ocna-mures/2013/85",
+   "short": "HCL Ocna Mureș nr. 85/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 85/2013 privind prelungirea termenului de închiriere … dimensiune fișier: 150KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-085.pdf",
+     "sha256": "650fee46178c41dda54169d7f5f3583cf54abb20a275e3347bd53565ecae11ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-86-2013",
+   "path": "local/alba/ocna-mures/2013/86",
+   "short": "HCL Ocna Mureș nr. 86/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 86/2013 privind acordarea scutirii de la plata chiriei … dimensiune fișier: 156KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-086.pdf",
+     "sha256": "4311cb5f43a9bb41fdd8fec371e0f001067efc8dd975bfcda9fad78d76991593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-87-2013",
+   "path": "local/alba/ocna-mures/2013/87",
+   "short": "HCL Ocna Mureș nr. 87/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 87/2013 privind acordarea scutirii de la plata chiriei … dimensiune fișier: 156KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-087.pdf",
+     "sha256": "2275528530853ca67abb5c8c07adce2efaf6b68d19f1d98f993d89af39d77180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-88-2013",
+   "path": "local/alba/ocna-mures/2013/88",
+   "short": "HCL Ocna Mureș nr. 88/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 88/2013 privind aprobarea efectuării unui schimb de terenuri … dimensiune fișier: 163KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-088.pdf",
+     "sha256": "2f73c8b99f0b8704bcdc2a17cda22580db45c009fe09ee979a550f76fd37ea15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-89-2013",
+   "path": "local/alba/ocna-mures/2013/89",
+   "short": "HCL Ocna Mureș nr. 89/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 89/2013 privind aprobarea formei contractului … dimensiune fișier: 170KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-089.pdf",
+     "sha256": "e849cfa49144fc859100d1fae94c14ebe4b697b4a85ee1609f7c90329faf2a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-9-2013",
+   "path": "local/alba/ocna-mures/2013/9",
+   "short": "HCL Ocna Mureș nr. 9/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 9/2013 privind încetarea contractului de concesiune … dimensiune fișier: 165 KB | 13.02.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-009.pdf",
+     "sha256": "cedbe3a08efef8e74e3942349dbcde8aaea0230747670003b47f61cecaf76db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-90-2013",
+   "path": "local/alba/ocna-mures/2013/90",
+   "short": "HCL Ocna Mureș nr. 90/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 90/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-090.pdf",
+     "sha256": "790356b53ea355b487964fd36e56bb51a6b3594528014333e1779817f4caaa30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-91-2013",
+   "path": "local/alba/ocna-mures/2013/91",
+   "short": "HCL Ocna Mureș nr. 91/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 91/2013 privind aprobarea concesioării prin licitaţie publică, … dimensiune fișier: 166KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-091.pdf",
+     "sha256": "5d18928b6b0b8124b68c18c6878b415beee354397bd4939962655a1d259b1805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-92-2013",
+   "path": "local/alba/ocna-mures/2013/92",
+   "short": "HCL Ocna Mureș nr. 92/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 92/2013 privind aprobarea noilor valori impozabile, … dimensiune fișier: 181KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-092.pdf",
+     "sha256": "38e516b2ddf2a19d4861c02a67410fa767fabd1387dab22ccf80c77e82572ccc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-93-2013",
+   "path": "local/alba/ocna-mures/2013/93",
+   "short": "HCL Ocna Mureș nr. 93/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 93/2013 privind aprobarea proiectului ACORDULUI DE COOPERARE … dimensiune fișier: 178KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-093.pdf",
+     "sha256": "23fc69517041fffcbf228dc05e31cb6b2d1613991bf4d429f6bc9caa9e74fb40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-94-2013",
+   "path": "local/alba/ocna-mures/2013/94",
+   "short": "HCL Ocna Mureș nr. 94/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 94/2013 privind aprobarea îndreptarii erorii materiale din Hotărârea Consiliul Local al … dimensiune fișier: 159KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-094.pdf",
+     "sha256": "b3b6ac72b5583b1fb018670b93667a8696a67a0d9846972812a0c710852bb7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-95-2013",
+   "path": "local/alba/ocna-mures/2013/95",
+   "short": "HCL Ocna Mureș nr. 95/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 95/2013 privind aprobarea achiziţiei „Achiziţie autoscpecială PSI“ … dimensiune fișier: 184KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-095.pdf",
+     "sha256": "3bf75d22ff75ae8f4d8c3c250cebaedf7cea0e69deac08b2e8a41eeb5dbb1ea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-96-2013",
+   "path": "local/alba/ocna-mures/2013/96",
+   "short": "HCL Ocna Mureș nr. 96/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 96/2013 privind aprobarea înscrierii în domeniul privat al oraşului … dimensiune fișier: 145KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-096.pdf",
+     "sha256": "cf6a61fc6b83cb6aa87a75f85b78a4b4b1b3d058d118a3e12310bf18ccc216b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-99-2013",
+   "path": "local/alba/ocna-mures/2013/99",
+   "short": "HCL Ocna Mureș nr. 99/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 99/2013 privind aprobarea cuantumului şi numărului burselor care se acordă elevilor … dimensiune fișier: 241KB | 19.06.2013",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2013/hcl-099.pdf",
+     "sha256": "78700739e56f4ab53c114067b89d03187e785d6828b96391c5b5898aa612c1a9"
     }
    ]
   }

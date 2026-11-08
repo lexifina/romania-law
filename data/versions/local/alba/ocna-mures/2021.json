@@ -1,0 +1,1686 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2021",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-1-2021",
+   "path": "local/alba/ocna-mures/2021/1",
+   "short": "HCL Ocna Mureș nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 1/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-1-din-07.01.2021.pdf",
+     "sha256": "54ecb5ebc266467180e5fed879c08767050d877c72901e1f101ca4b5cab67553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-10-2021",
+   "path": "local/alba/ocna-mures/2021/10",
+   "short": "HCL Ocna Mureș nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 10/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-10-din-28.01.2021.pdf",
+     "sha256": "53d17550d1c8826f120c04df8b3f5bcad1404870541f3f00d75cd8d71a4857d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-100-2021",
+   "path": "local/alba/ocna-mures/2021/100",
+   "short": "HCL Ocna Mureș nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 100/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-100-din-29.07.2021.pdf",
+     "sha256": "9118545b7ec27374e97e45c028f97c634f71b4bd05f752f235db34bc08ec099a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-102-2021",
+   "path": "local/alba/ocna-mures/2021/102",
+   "short": "HCL Ocna Mureș nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 102/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-102-din-29.07.2021.pdf",
+     "sha256": "469e790312c22da4598ba4b6e492f48ded4101e87389eafe0ad19d3ea3cf4703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-103-2021",
+   "path": "local/alba/ocna-mures/2021/103",
+   "short": "HCL Ocna Mureș nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 103/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-103-din29.07.2021.pdf",
+     "sha256": "47b1ef00e3c08b9f133176f6c625c7154995a732cc4937420852a16f6e8fa550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-106-2021",
+   "path": "local/alba/ocna-mures/2021/106",
+   "short": "HCL Ocna Mureș nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 106/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-106-din-29.07.2021.pdf",
+     "sha256": "ff6e24c87a019cddaf23f89316e2f03019d21e6d62d89e6c6a08c86961226e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-107-2021",
+   "path": "local/alba/ocna-mures/2021/107",
+   "short": "HCL Ocna Mureș nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 107/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-107-din-29.07.2021.pdf",
+     "sha256": "36144f72f8ae913b282900fb5d9dc8cf51e847e15c0c3ad0b572d13ea5f5040a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-108-2021",
+   "path": "local/alba/ocna-mures/2021/108",
+   "short": "HCL Ocna Mureș nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 108/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-108-din-29.07.2021.pdf",
+     "sha256": "e3c2eaa01bd08ba1a588344e8e6b13da4d69cc7e375007e16f355fb6c1045bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-109-2021",
+   "path": "local/alba/ocna-mures/2021/109",
+   "short": "HCL Ocna Mureș nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 109/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-109-din-29.07.2021.pdf",
+     "sha256": "d4ccca4b37b19ff687f9861c993efb4061d3ee1ba3525524bcf5944d78b3fc97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-11-2021",
+   "path": "local/alba/ocna-mures/2021/11",
+   "short": "HCL Ocna Mureș nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 11/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-11-din-28.01.2021.pdf",
+     "sha256": "0b6460f51ea24b51c759dad2bba471a329088e4d08bdb3c375ac71d85b0985b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-110-2021",
+   "path": "local/alba/ocna-mures/2021/110",
+   "short": "HCL Ocna Mureș nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 110/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-110-din-29.07.2021.pdf",
+     "sha256": "a7eeed731e9ec29a4d4cf025a3fcc1f745703d1dfa88714231c92ef74d10fdb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-111-2021",
+   "path": "local/alba/ocna-mures/2021/111",
+   "short": "HCL Ocna Mureș nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 111/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-111-din-29.07.2021.pdf",
+     "sha256": "e6a4e1a260aa829086b722e4b2fa50506c02c54afef6aa77ecfe0d0edb2a2494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-112-2021",
+   "path": "local/alba/ocna-mures/2021/112",
+   "short": "HCL Ocna Mureș nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 112/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-112-din-29.07.2021.pdf",
+     "sha256": "b9fff7341fb759030dfc2b40883f268b9dadd49e741df6dc6ec9fc4a62f0b691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-113-2021",
+   "path": "local/alba/ocna-mures/2021/113",
+   "short": "HCL Ocna Mureș nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 113/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-113-din-29.07.2021.pdf",
+     "sha256": "fc2915599b754adaad147b259a64b03a5a6422c4658325aebb88006c211be844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-114-2021",
+   "path": "local/alba/ocna-mures/2021/114",
+   "short": "HCL Ocna Mureș nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 114/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-114-din-29.07.2021.pdf",
+     "sha256": "09d13973a6b3d93c5130e1243490aef1118280145fbe9ce7349ff34510b6f678"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-115-2021",
+   "path": "local/alba/ocna-mures/2021/115",
+   "short": "HCL Ocna Mureș nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 115/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-115-din-29.07.2021.pdf",
+     "sha256": "d8662ac8aadf2dee243472ffe69940573e40956a74f69da1b028a0ed018f822f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-116-2021",
+   "path": "local/alba/ocna-mures/2021/116",
+   "short": "HCL Ocna Mureș nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 116/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-116-din-29.07.2021.pdf",
+     "sha256": "9abc2bfc7ef52c5424bb32e92592efc3b03c0fcbd5ec25f0f15cf3c31f885477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-117-2021",
+   "path": "local/alba/ocna-mures/2021/117",
+   "short": "HCL Ocna Mureș nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 117/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-117-din-29.07.2021.pdf",
+     "sha256": "015de410c1febf100d32d226595472ff311ef5270f0096e0cbae93fe1a2c88b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-12-2021",
+   "path": "local/alba/ocna-mures/2021/12",
+   "short": "HCL Ocna Mureș nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 12/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-12-din-28.01.2021.pdf",
+     "sha256": "0c6ea9237a07fd0b3c0280e46b382cc5465650eeac5db00c605cd84474c71f63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-129-2021",
+   "path": "local/alba/ocna-mures/2021/129",
+   "short": "HCL Ocna Mureș nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 129/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-129-din-22.09.2021.pdf",
+     "sha256": "00ecc9ade54872e5d76d248336a9183b80e8f13a327d944c78b3b581831aba03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-13-2021",
+   "path": "local/alba/ocna-mures/2021/13",
+   "short": "HCL Ocna Mureș nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 13/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-13-din-28.01.2021.pdf",
+     "sha256": "6159fb423efa392fc36243069be1b862260a3b1f3d589504d9689fdd3a8461ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-131-2021",
+   "path": "local/alba/ocna-mures/2021/131",
+   "short": "HCL Ocna Mureș nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 131/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-131-din-22.09.2021.pdf",
+     "sha256": "6b0b26b8ac777231f41f4b300f606d638da158ef9026c81b1726810aad4c6b00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-132-2021",
+   "path": "local/alba/ocna-mures/2021/132",
+   "short": "HCL Ocna Mureș nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 132/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-132-din-22.09.2021.pdf",
+     "sha256": "6f2bf90985d25b376b6d45040649c4130ccd909cf339dc4f6e71e71d459e7e2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-133-2021",
+   "path": "local/alba/ocna-mures/2021/133",
+   "short": "HCL Ocna Mureș nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 133/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-133-din-22.09.2021.pdf",
+     "sha256": "d892b5f583e3063f2d21ecb8ff3ad95c84a372328546aa21ec1ad11dbfb0a7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-134-2021",
+   "path": "local/alba/ocna-mures/2021/134",
+   "short": "HCL Ocna Mureș nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 134/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-134-din-22.09.2021.pdf",
+     "sha256": "6c794b14a8d2ccbc7b0daa2f9ca24d76b58fabd6e3b70cacb69651bf43dba69d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-135-2021",
+   "path": "local/alba/ocna-mures/2021/135",
+   "short": "HCL Ocna Mureș nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 135/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-135-din-22.09.2021.pdf",
+     "sha256": "3c959235eb17b3f0689e43a08f78fd0db50d88819836c311b6eeca35398a1bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-136-2021",
+   "path": "local/alba/ocna-mures/2021/136",
+   "short": "HCL Ocna Mureș nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 136/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/09/Hot-136-din-22.09.2021.pdf",
+     "sha256": "6b720ab4b8d76fb5e4f738bc04670dace6fdeda96089d1aef2acaf861009b68e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-14-2021",
+   "path": "local/alba/ocna-mures/2021/14",
+   "short": "HCL Ocna Mureș nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 14/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-14-din-28.01.2021.pdf",
+     "sha256": "0cc90f52d683b65768c4aaed1193b6218490dc0bcd626065b22e4c2a0faa0c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-15-2021",
+   "path": "local/alba/ocna-mures/2021/15",
+   "short": "HCL Ocna Mureș nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 15/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-15-din-28.01.2021.pdf",
+     "sha256": "b22b0b41eaac7b4862b43f9f67e88aa2627ea7f43645001b2bd9ddbe60eeff0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-16-2021",
+   "path": "local/alba/ocna-mures/2021/16",
+   "short": "HCL Ocna Mureș nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-16-din-28.01.2021.pdf",
+     "sha256": "634c13a81ec2d9905dca7b7f24e94af340accabf2be9c69254cb24193cb296bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-17-2021",
+   "path": "local/alba/ocna-mures/2021/17",
+   "short": "HCL Ocna Mureș nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 17/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-17-din-28.01.2021.pdf",
+     "sha256": "c62b2c7930d037d299410f2412faad1f6afc2ff77003cde0d446778ea257e782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-18-2021",
+   "path": "local/alba/ocna-mures/2021/18",
+   "short": "HCL Ocna Mureș nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 18/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-18-din-28.01.2021.pdf",
+     "sha256": "575060a387d4a7549fbd31dfefbbc043baf8430207e400c2397ba7ba67b3f526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-19-2021",
+   "path": "local/alba/ocna-mures/2021/19",
+   "short": "HCL Ocna Mureș nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.19-din-25.02.2021.pdf",
+     "sha256": "6d0a15c38d3fb57fafd0c25e8b08c065aee76a77a6d62bdb2fe6d5d7f2ca3055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-2-2021",
+   "path": "local/alba/ocna-mures/2021/2",
+   "short": "HCL Ocna Mureș nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 2/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-2-din-07.01.2021.pdf",
+     "sha256": "9703f92a7d738f8aa09a5600ac9df84044917e7564c4965740cf823f94325452"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-20-2021",
+   "path": "local/alba/ocna-mures/2021/20",
+   "short": "HCL Ocna Mureș nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.20-din-25.02.2021.pdf",
+     "sha256": "8527bd4392c79e7ca36722fb4d04662190661bf840e4ebb152d306057af793f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2021",
+   "path": "local/alba/ocna-mures/2021/21",
+   "short": "HCL Ocna Mureș nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.21-din-25.02.2021.pdf",
+     "sha256": "994484e4d54130567898b1c747131cfbd77939a4fe50748da601c6939e564f36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-22-2021",
+   "path": "local/alba/ocna-mures/2021/22",
+   "short": "HCL Ocna Mureș nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 22/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.22-din-25.02.2021.pdf",
+     "sha256": "ffe9ff0a465c6272f47bcdf17c648a8c1bf38ffd757d42bfd993dd96679a86de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-23-2021",
+   "path": "local/alba/ocna-mures/2021/23",
+   "short": "HCL Ocna Mureș nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 23/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.23-din-25.02.2021.pdf",
+     "sha256": "fb3566f646fc09b877d123c226dee91c1d3ce9280f365d7d1d4df846aab92d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-24-2021",
+   "path": "local/alba/ocna-mures/2021/24",
+   "short": "HCL Ocna Mureș nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 24/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.24-din-25.02.2021.pdf",
+     "sha256": "567c8923aec0a9644eff1da16e2fb75ff13eab778726a7270938cac684b60e88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-25-2021",
+   "path": "local/alba/ocna-mures/2021/25",
+   "short": "HCL Ocna Mureș nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 25/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.25-din-25.02.2021.pdf",
+     "sha256": "3fcd44d36a3b5f3dbeab82a3f1e679918bcf075c5ee07b683366a12bc0e5987c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-26-2021",
+   "path": "local/alba/ocna-mures/2021/26",
+   "short": "HCL Ocna Mureș nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 26/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.26-din-25.02.2021.pdf",
+     "sha256": "b676390edb92fc6e2b3efd0c2ded4917b2cc9dba4ea0bca89afb2b05626149fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-27-2021",
+   "path": "local/alba/ocna-mures/2021/27",
+   "short": "HCL Ocna Mureș nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 27/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.27-din-25.02.2021.pdf",
+     "sha256": "168daef0f44ad779925a0bbe99560d5051dd1a1823e285322b11ac200fe75d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-28-2021",
+   "path": "local/alba/ocna-mures/2021/28",
+   "short": "HCL Ocna Mureș nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 28/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/03/Hot%C4%83r%C3%A2rea-nr.28-din-25.02.2021.pdf",
+     "sha256": "5ca9ef5cb1fb38c428560be1658d44b681a624a0aa2fcf75cd116488065af393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-29-2021",
+   "path": "local/alba/ocna-mures/2021/29",
+   "short": "HCL Ocna Mureș nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot.-nr.29-din-25.03.2021.pdf",
+     "sha256": "39fe220ebe9a91999a0e3f4cdfb2e6f2b83cad8e4be2aa938a477ed0a8f47c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-3-2021",
+   "path": "local/alba/ocna-mures/2021/3",
+   "short": "HCL Ocna Mureș nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 3/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-3-din-07.01.2021.pdf",
+     "sha256": "278e40dee3c4078515b74c11b6089cc86ba008fecdce5e448503905bec9719ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-30-2021",
+   "path": "local/alba/ocna-mures/2021/30",
+   "short": "HCL Ocna Mureș nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 30/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.30-din-25.03.2021.pdf",
+     "sha256": "347c5d918d286db1b76ea0b1be994febf7653258195228e8810b14d7e102265c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-31-2021",
+   "path": "local/alba/ocna-mures/2021/31",
+   "short": "HCL Ocna Mureș nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 31/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.31-din-25.03.2021.pdf",
+     "sha256": "8538405e54960c7ccda9d62130dad52b5b73dafe4d314266512075331eaeb601"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-32-2021",
+   "path": "local/alba/ocna-mures/2021/32",
+   "short": "HCL Ocna Mureș nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 32/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot.-nr.32-din-25.03.2021.pdf",
+     "sha256": "fd1639121bc5de6f49d7fe6d4796768f2542886e412730310c2f1562bac5cc3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-33-2021",
+   "path": "local/alba/ocna-mures/2021/33",
+   "short": "HCL Ocna Mureș nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 33/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.33-din-25.03.2021.pdf",
+     "sha256": "fb2eae2c5fdbc795822b7110234969a731ee03d8c311631fe8c1d3c3c1922222"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-34-2021",
+   "path": "local/alba/ocna-mures/2021/34",
+   "short": "HCL Ocna Mureș nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 34/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.34-din-25.03.2021.pdf",
+     "sha256": "0230c440908b4645cf93b9af8ba3675f8f88f73be8b3a2838aa2a626455b6106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-35-2021",
+   "path": "local/alba/ocna-mures/2021/35",
+   "short": "HCL Ocna Mureș nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 35/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.35-din-25.03.2021.pdf",
+     "sha256": "7a574f2c8e0a14b6fe8dd0003cf9bc210f3bb7e62cd6f9f4a625c3c297586c02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-36-2021",
+   "path": "local/alba/ocna-mures/2021/36",
+   "short": "HCL Ocna Mureș nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 36/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.36-din-25.03.2021.pdf",
+     "sha256": "bfb34b0a52c81edc752ec194c1254337ebc7e7e193d077fd6185858a2f1b85ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-37-2021",
+   "path": "local/alba/ocna-mures/2021/37",
+   "short": "HCL Ocna Mureș nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 37/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.37-din-25.03.2021.pdf",
+     "sha256": "fec62d31f120281c0bfa72c4fae90ff6ff38dd283f627753fd3ad4260b7fdd31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-38-2021",
+   "path": "local/alba/ocna-mures/2021/38",
+   "short": "HCL Ocna Mureș nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 38/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.38-din-25.03.2021.pdf",
+     "sha256": "aebd465c238c85795ad5999a6abcd7ad0084973d9310ec5f69291fa07dbc320a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-39-2021",
+   "path": "local/alba/ocna-mures/2021/39",
+   "short": "HCL Ocna Mureș nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 39/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.39-din-25.03.2021.pdf",
+     "sha256": "b05bb3867dfb5b5cf0e81e7b67f16b7d7bc25b6f0185d3147452ed671c238dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-4-2021",
+   "path": "local/alba/ocna-mures/2021/4",
+   "short": "HCL Ocna Mureș nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 4/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-4-din-07.01.2021.pdf",
+     "sha256": "19276de2fcdb6a4f07fb643617f70025f0097895a99ab5fa9e5dcc604cbaaf9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-40-2021",
+   "path": "local/alba/ocna-mures/2021/40",
+   "short": "HCL Ocna Mureș nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 40/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.40-din-25.03.2021.pdf",
+     "sha256": "a34f176f3c008bdd35891e8cfb8380e145941a486de78c68648560aa8af9c06c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-41-2021",
+   "path": "local/alba/ocna-mures/2021/41",
+   "short": "HCL Ocna Mureș nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 41/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.41-din-25.03.2021.pdf",
+     "sha256": "bb8bd76e050e2bdacfe026bb89ab67fc31f8258b719259e039333599b15a5332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-42-2021",
+   "path": "local/alba/ocna-mures/2021/42",
+   "short": "HCL Ocna Mureș nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 42/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.42-din-25.03.2021.pdf",
+     "sha256": "976d51e36e54f7694ea0764eba871e1cb6118303ab7f5bd12a966cd8d35c95c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-43-2021",
+   "path": "local/alba/ocna-mures/2021/43",
+   "short": "HCL Ocna Mureș nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 43/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.43-din-25.03.2021.pdf",
+     "sha256": "aa14b44ed17cc86f71b09b62160c758376962097cd3fcada30ae9bfb9582af68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-44-2021",
+   "path": "local/alba/ocna-mures/2021/44",
+   "short": "HCL Ocna Mureș nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 44/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.44-din-25.03.2021.pdf",
+     "sha256": "b334fedfd1a5e7b5d0b3d72d7c92e8a649f0a7a59e272651ce6fc3c32a7cb434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-45-2021",
+   "path": "local/alba/ocna-mures/2021/45",
+   "short": "HCL Ocna Mureș nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 45/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.45-din-25.03.2021.pdf",
+     "sha256": "0efa11c4d06bd56cd62f80370aa88415451d15fd4ea957f27962b478ab6e83c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-46-2021",
+   "path": "local/alba/ocna-mures/2021/46",
+   "short": "HCL Ocna Mureș nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 46/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.46-din-25.03.2021.pdf",
+     "sha256": "5879c0a9567ad682b20ec0646ff5ece4cc0bc1cf1bf4fe85e71140e4c5a7d602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-47-2021",
+   "path": "local/alba/ocna-mures/2021/47",
+   "short": "HCL Ocna Mureș nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 47/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.47-din-25.03.2021.pdf",
+     "sha256": "f83bd385e25e65e7a7d9700bbf7e5a15d30a4c1558e07bbba14891ba62520fde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-48-2021",
+   "path": "local/alba/ocna-mures/2021/48",
+   "short": "HCL Ocna Mureș nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 48/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.48-din20.04.2021.pdf",
+     "sha256": "cf1122933f767dcd0736ac5775801f2d7cf296a3573bbd5e3dac2d22f1ff631d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-49-2021",
+   "path": "local/alba/ocna-mures/2021/49",
+   "short": "HCL Ocna Mureș nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 49/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.49-din-20.04.2021.pdf",
+     "sha256": "9dcb780fa1b1e1499a6571003f8d8415e726d8ec41348507988ee2085bd46a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-5-2021",
+   "path": "local/alba/ocna-mures/2021/5",
+   "short": "HCL Ocna Mureș nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 5/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-5-din-07.01.2021.pdf",
+     "sha256": "be1e0491e63e6930013e78b429e1becc5bf247986ad4a7a977c635e5e62633b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-50-2021",
+   "path": "local/alba/ocna-mures/2021/50",
+   "short": "HCL Ocna Mureș nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 50/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.50-din-20.04.2021.pdf",
+     "sha256": "a9af51cab565a4ac44b8daf062277804ad384abf4b79be7d077b9b2f8cce25c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-51-2021",
+   "path": "local/alba/ocna-mures/2021/51",
+   "short": "HCL Ocna Mureș nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 51/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.51-din-20.04.2021.pdf",
+     "sha256": "f58c2186776504e15d30dad30ce7220adc7fd7c1d26058b39f2674adf2973141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-52-2021",
+   "path": "local/alba/ocna-mures/2021/52",
+   "short": "HCL Ocna Mureș nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 52/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.52-din-20.04.2021.pdf",
+     "sha256": "dca380d824184b5349f3b1b90fed90d5a2bcd54ee5bdf6efac9e7945d10a800a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-53-2021",
+   "path": "local/alba/ocna-mures/2021/53",
+   "short": "HCL Ocna Mureș nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 53/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.53-din-20.04.2021.pdf",
+     "sha256": "44ae804acd9ea8611c076b5e7b9550eaf33d592dfe908fcbae5826369247eaab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-54-2021",
+   "path": "local/alba/ocna-mures/2021/54",
+   "short": "HCL Ocna Mureș nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 54/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-54-din-28.04.2021.pdf",
+     "sha256": "cd3a1aa5daed654c8f22d26a9e85cc91ebf077cbe5304c72771d9fc529ba9843"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-56-2021",
+   "path": "local/alba/ocna-mures/2021/56",
+   "short": "HCL Ocna Mureș nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 56/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-56-din-28.04.2021.pdf",
+     "sha256": "17b5425a9e22204d18396eaee7a1ab71c503c59a3ababe6b5655518986be2ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-57-2021",
+   "path": "local/alba/ocna-mures/2021/57",
+   "short": "HCL Ocna Mureș nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 57/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-57-din-28.04.2021.pdf",
+     "sha256": "b76d373ed7f50ddf5060fbffc0b113e5a3e803dfeb7cdac54e69392dd79b4907"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-6-2021",
+   "path": "local/alba/ocna-mures/2021/6",
+   "short": "HCL Ocna Mureș nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 6/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-6-din-07.01.2021.pdf",
+     "sha256": "e255fe81be0b06f438a8e60b70c1e1d1f37d7ac2bb9d298d5831c915687f500f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-60-2021",
+   "path": "local/alba/ocna-mures/2021/60",
+   "short": "HCL Ocna Mureș nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 60/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-60-din-28.04.2021.pdf",
+     "sha256": "cc92f9c144b12b4325cf4a998445f8861bd8056e2d89d35885a887e9398a189e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-61-2021",
+   "path": "local/alba/ocna-mures/2021/61",
+   "short": "HCL Ocna Mureș nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 61/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-61-din-28.04.2021.pdf",
+     "sha256": "2b0450858279715fe19c290eadb405cfc8e8241f5f986edafd753518eb0e7df2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-62-2021",
+   "path": "local/alba/ocna-mures/2021/62",
+   "short": "HCL Ocna Mureș nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 62/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-62-din-28.04.2021.pdf",
+     "sha256": "2f815af0d1ed308a1e85fd251689e3454dff6b4c21111bed5caa82dc390a3d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-63-2021",
+   "path": "local/alba/ocna-mures/2021/63",
+   "short": "HCL Ocna Mureș nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 63/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-63-din-28.04.2021.pdf",
+     "sha256": "222946c2c2203239bde25c3f95bf76a6ee3c43df0887c9f686d60c0c9e35dde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-64-2021",
+   "path": "local/alba/ocna-mures/2021/64",
+   "short": "HCL Ocna Mureș nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 64/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.64-din-05.05.2021.pdf",
+     "sha256": "5d285f9307db9379e59ab9777aadd48bbfde28b340ebe0220e5c2c3ac706971e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-65-2021",
+   "path": "local/alba/ocna-mures/2021/65",
+   "short": "HCL Ocna Mureș nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 65/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/05/Hot-nr.65-din-05.05.2021.pdf",
+     "sha256": "bb650ea15381f69a967c8689512c5842f11f9e3a40355b208a37cf6ad5eaf02c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-66-2021",
+   "path": "local/alba/ocna-mures/2021/66",
+   "short": "HCL Ocna Mureș nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 66/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-66-din-27.05.2021.pdf",
+     "sha256": "9d3afa2d5e49bb1315fba3efb506f3113b834325b4747d08c24bdd5ecfc1ed3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-68-2021",
+   "path": "local/alba/ocna-mures/2021/68",
+   "short": "HCL Ocna Mureș nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 68/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-68-din-27.05.2021.pdf",
+     "sha256": "140bef6bc7bbfbcf3f685c93cf5428f00752d4ac52f6f0f70fb48d94c34623ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-69-2021",
+   "path": "local/alba/ocna-mures/2021/69",
+   "short": "HCL Ocna Mureș nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 69/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-69-din-27.05.2021.pdf",
+     "sha256": "eb65848b30603c42831983e801e6199635e820c499c02c87e2fc8a6aadba934b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-7-2021",
+   "path": "local/alba/ocna-mures/2021/7",
+   "short": "HCL Ocna Mureș nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 7/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-7-din-07.01.2021.pdf",
+     "sha256": "f6aef202b16dbdc7a800f336847d68e0ec4ccb5cae252455d597f2d0a9432e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-70-2021",
+   "path": "local/alba/ocna-mures/2021/70",
+   "short": "HCL Ocna Mureș nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 70/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-70-din-27.05.2021.pdf",
+     "sha256": "2405341bfe8ad984507d0216611725d5df2d2ae033b35c85d959bd002b6c1638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-71-2021",
+   "path": "local/alba/ocna-mures/2021/71",
+   "short": "HCL Ocna Mureș nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 71/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-71-din-27.05.2021.pdf",
+     "sha256": "e8140b9e57597cdaf400f135bb68d6b1a8a8bfcae92029abb8f9bf52878344e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-72-2021",
+   "path": "local/alba/ocna-mures/2021/72",
+   "short": "HCL Ocna Mureș nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 72/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-72-din-27.05.2021.pdf",
+     "sha256": "6938fbbe383ea9c2ba6546fbd7eb723f914851bc386e082d082366e6005305af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-73-2021",
+   "path": "local/alba/ocna-mures/2021/73",
+   "short": "HCL Ocna Mureș nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 73/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-73-din27.05.2021.pdf",
+     "sha256": "4e44d04146aafa5af6bf2b707d4061c18cbb41aa07f9ebbce9ef1daed7ada70b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-74-2021",
+   "path": "local/alba/ocna-mures/2021/74",
+   "short": "HCL Ocna Mureș nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 74/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-74-din-27.05.2021.pdf",
+     "sha256": "c3023f6465845d96e74925d18af5655979eff9eeef721a69bc5e5bf64770cf90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-75-2021",
+   "path": "local/alba/ocna-mures/2021/75",
+   "short": "HCL Ocna Mureș nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 75/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-75-din-27.05.2021.pdf",
+     "sha256": "1f13091f6b8ba30d5d85025994eb160f48a6ba67de75768bec0835baa8ecd7a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-76-2021",
+   "path": "local/alba/ocna-mures/2021/76",
+   "short": "HCL Ocna Mureș nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 76/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-76-din-27.05.2021.pdf",
+     "sha256": "9930e97147366bca5a88fe414790071504ee2c7beaafd0032c0d6bdcb352cad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-77-2021",
+   "path": "local/alba/ocna-mures/2021/77",
+   "short": "HCL Ocna Mureș nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 77/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-77-din-27.05.2021.pdf",
+     "sha256": "76fc1ac2cf4918e1d2cc83886bdda02c74a24e4a59e8e363d6539b33b94d2573"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-78-2021",
+   "path": "local/alba/ocna-mures/2021/78",
+   "short": "HCL Ocna Mureș nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 78/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/06/Hot-78-din-27.05.2021.pdf",
+     "sha256": "8780ef6e92b3a79b332818fc81830236c6217760059fb2403411d21ce460f3dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-79-2021",
+   "path": "local/alba/ocna-mures/2021/79",
+   "short": "HCL Ocna Mureș nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 79/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-79-din-24.06.2021.pdf",
+     "sha256": "637cf7282f1785e33712fa3743d76a724755fe016857d482d629404a04a0c1f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-8-2021",
+   "path": "local/alba/ocna-mures/2021/8",
+   "short": "HCL Ocna Mureș nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 8/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr.-8-din-07.01.2021.pdf",
+     "sha256": "37617ae7966fcdc8c0c43a60af05980196ce2493632ecde1c0520fa0fbc0ce07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-82-2021",
+   "path": "local/alba/ocna-mures/2021/82",
+   "short": "HCL Ocna Mureș nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 82/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-82-din-24.06.2021.pdf",
+     "sha256": "4509d9e3a08e54eaf549fc172541518986147be4c5e195ce30c621d614f93f05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-83-2021",
+   "path": "local/alba/ocna-mures/2021/83",
+   "short": "HCL Ocna Mureș nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 83/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-83-din-24.06.2021.pdf",
+     "sha256": "c77ac6653b7979bd1a56c075d930ebf94d7ce5a890e59db2e9bb59fd0a89f065"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-84-2021",
+   "path": "local/alba/ocna-mures/2021/84",
+   "short": "HCL Ocna Mureș nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 84/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-84-din-24.06.2021.pdf",
+     "sha256": "5e38a312f8b93f3ce86e4c837d56e4c92ace4c6b322504aeafe3d76fbd71c3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-85-2021",
+   "path": "local/alba/ocna-mures/2021/85",
+   "short": "HCL Ocna Mureș nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 85/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-85-din-24.06.2021.pdf",
+     "sha256": "c5e798f1e9c900d614741268930f23f7e337124a19f4cf39b3bf96234a452ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-86-2021",
+   "path": "local/alba/ocna-mures/2021/86",
+   "short": "HCL Ocna Mureș nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 86/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-86-din-24.06.2021.pdf",
+     "sha256": "e73cc152469a199a4d6a47caabda17e1cc99ca5e5dd069667d025729bad73a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-87-2021",
+   "path": "local/alba/ocna-mures/2021/87",
+   "short": "HCL Ocna Mureș nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 87/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-87-din-24.06.2021.pdf",
+     "sha256": "4c9069e81513e7390e149754f8ebbd30050f106448c5e8fecebc36bf63cb7d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-88-2021",
+   "path": "local/alba/ocna-mures/2021/88",
+   "short": "HCL Ocna Mureș nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 88/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-88-din-24.06.2021.pdf",
+     "sha256": "7c8cb7b46f33f17581f96ff473a6fefffc000cd698f09667d8f0dfd6271c6d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-89-2021",
+   "path": "local/alba/ocna-mures/2021/89",
+   "short": "HCL Ocna Mureș nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 89/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-89-din-24.06.2021.pdf",
+     "sha256": "4649681128f433bcc4dc41dc5771a737ccfdde9891af3df687e3c376b9f234d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-9-2021",
+   "path": "local/alba/ocna-mures/2021/9",
+   "short": "HCL Ocna Mureș nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 9/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/02/Hot%C4%83r%C3%A2rea-nr.-9-din-28.01.2021.pdf",
+     "sha256": "5f599e746d6d81ec46d7c57217cb62d8adcafcef54fd430ae6f623c2752af41f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-90-2021",
+   "path": "local/alba/ocna-mures/2021/90",
+   "short": "HCL Ocna Mureș nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 90/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-90-din-24.06.2021.pdf",
+     "sha256": "68bf2eef014b28f6db666f072dfcdee03a7a50b37cfd7db9a77c472f34d6a8ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-91-2021",
+   "path": "local/alba/ocna-mures/2021/91",
+   "short": "HCL Ocna Mureș nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 91/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-91-din-24.06.2021.pdf",
+     "sha256": "4aa7c39b1732a66fa91c70aaf095e3360af719545e756a6a9b683ad244509aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-92-2021",
+   "path": "local/alba/ocna-mures/2021/92",
+   "short": "HCL Ocna Mureș nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 92/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-92-din-24.06.2021.pdf",
+     "sha256": "7c4bee80e98ff754ea3b8687d78f28685dda45438caa0c8c64098dbc41e8fd26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-93-2021",
+   "path": "local/alba/ocna-mures/2021/93",
+   "short": "HCL Ocna Mureș nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 93/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/07/Hot-93-din-24.06.2021.pdf",
+     "sha256": "27cee3ed51c6ea885e633a4a4a5b9b34eb365afbe16478c2c21342d68731d1ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-96-2021",
+   "path": "local/alba/ocna-mures/2021/96",
+   "short": "HCL Ocna Mureș nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 96/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-96-din-29.07.2021.pdf",
+     "sha256": "b5e8cc6d7e2be02987ffc5d8c6f69fa76d5ac8e020decea57e30786f905a268f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-98-2021",
+   "path": "local/alba/ocna-mures/2021/98",
+   "short": "HCL Ocna Mureș nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 98/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-98-din-29.07.2021.pdf",
+     "sha256": "d668c53311ebeee35b26f34fd61cd5b323a40d39bf0f3a33b3308ccd9d75534b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-99-2021",
+   "path": "local/alba/ocna-mures/2021/99",
+   "short": "HCL Ocna Mureș nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 99/2021",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/08/Hot-99-din-29.07.2021.pdf",
+     "sha256": "bf65eaa36fda095feaba3b3d60a5f6300a378409ec6c2e563c38ef8014b506b5"
+    }
+   ]
+  }
+ ]
+}

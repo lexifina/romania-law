@@ -3,6 +3,21 @@
  "shard": "local/alba/sebes/2017",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-1-2017",
+   "path": "local/alba/sebes/2017/1",
+   "short": "HCL Sebeș nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 1/2017 privind acoperirea definitiva a deficitului secțiunii de dezvoltare sursa A, pe anul 2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2017/01/18/hotarari/HCL-1.pdf",
+     "sha256": "ee03343861aa9d310efb5209d4312217fcd3ed97a5b7c0c97cb38ca4497a5b4c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-144-2017",
    "path": "local/alba/sebes/2017/144",
    "short": "HCL Sebeș nr. 144/2017",

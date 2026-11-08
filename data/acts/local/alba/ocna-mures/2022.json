@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2022",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-15-2022",
+"path": "local/alba/ocna-mures/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 15/2022",
+"short": "HCL Ocna Mureș nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-16-2022",
+"path": "local/alba/ocna-mures/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2022",
+"short": "HCL Ocna Mureș nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-17-2022",
+"path": "local/alba/ocna-mures/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 17/2022",
+"short": "HCL Ocna Mureș nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-18-2022",
+"path": "local/alba/ocna-mures/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 18/2022",
+"short": "HCL Ocna Mureș nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-19-2022",
+"path": "local/alba/ocna-mures/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2022",
+"short": "HCL Ocna Mureș nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-20-2022",
+"path": "local/alba/ocna-mures/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2022",
+"short": "HCL Ocna Mureș nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-21-2022",
+"path": "local/alba/ocna-mures/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2022",
+"short": "HCL Ocna Mureș nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,126 @@
  "shard": "local/alba/ocna-mures/2024",
  "acts": [
   {
+   "slug": "hcl-alba--ocna-mures-144-2024",
+   "path": "local/alba/ocna-mures/2024/144",
+   "short": "HCL Ocna Mureș nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 144/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-144-din-31.07.2024.pdf",
+     "sha256": "4d9ef8b118cbc3ab8d41f3e3a5f3cc020c50ea91601fe7b791917f28f0c15585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-145-2024",
+   "path": "local/alba/ocna-mures/2024/145",
+   "short": "HCL Ocna Mureș nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 145/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-145-din-31.07.2024.pdf",
+     "sha256": "fdf57003950435426e4dcb0fc4b6bb7c52253d64c5d0278279b89d98836a1b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-148-2024",
+   "path": "local/alba/ocna-mures/2024/148",
+   "short": "HCL Ocna Mureș nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 148/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-148-din-31.07.2024.pdf",
+     "sha256": "b849dda3e6f1b1a5db4271bb894de4bd2e9934375b6f2692a083290625d77b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-149-2024",
+   "path": "local/alba/ocna-mures/2024/149",
+   "short": "HCL Ocna Mureș nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 149/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-149-din-31.07.2024.pdf",
+     "sha256": "e3b1b131510d903abf98e51f5b222b648dc6304e74f0ad2444b348f8457ac0aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-151-2024",
+   "path": "local/alba/ocna-mures/2024/151",
+   "short": "HCL Ocna Mureș nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 151/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-151-din-31.07.2024.pdf",
+     "sha256": "aeb1f6aaeab9d5b89ce8b23f751c5f923b7fb41915481b1a4bc8d794762291cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-155-2024",
+   "path": "local/alba/ocna-mures/2024/155",
+   "short": "HCL Ocna Mureș nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 155/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-155-din-31.07.2024.pdf",
+     "sha256": "857c1ac924d5a754634e8b3bef5bb2ff0623620f765c1dea5df167fd5616d1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-156-2024",
+   "path": "local/alba/ocna-mures/2024/156",
+   "short": "HCL Ocna Mureș nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 156/2024 privind însușirea documentelor necesare - Scrisoare de așteptări, Componenta inițială, Componenta integrală, Regulamentul de organizare și funcționare a Comisiei de selecție și nominalizare- în procedura de selecție și nominalizare a candidaților pentru un post de administrator la societatea BAZA DE TRATAMENT ȘI AGREMENT BĂILE SĂRATE OCNA MUREȘ S.A , pentru mandatul 2024-2028 CONSILIUL LOCAL AL OR",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-156-din-31.07.2024.pdf",
+     "sha256": "3ade72561774643f542e555a84dd88a1676d13a008f0f0d7cc4dceaac5b0ca2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-157-2024",
+   "path": "local/alba/ocna-mures/2024/157",
+   "short": "HCL Ocna Mureș nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 157/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2024/08/HCL-157-din-31.07.2024.pdf",
+     "sha256": "df391f5d0f539162615ba5a52f1f832d07f9255208855c36abb4d83abd246693"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-253-2024",
    "path": "local/alba/ocna-mures/2024/253",
    "short": "HCL Ocna Mureș nr. 253/2024",

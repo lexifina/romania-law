@@ -3,6 +3,21 @@
  "shard": "local/alba/ocna-mures/2020",
  "acts": [
   {
+   "slug": "hcl-alba--ocna-mures-109-2020",
+   "path": "local/alba/ocna-mures/2020/109",
+   "short": "HCL Ocna Mureș nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 109/2020 privind propullerea de respingere a plAngerii prealabile fblmulate de Oprea Maria-Daciana inrpotriva IlotarArii nr.79113.05.2020 prittind dernitereo direc/orului Unilalii A4edico-Socittle Ocnu A4tn'e; ,yi a.sigurat'ea conlinuiliilii contlucerii oceslei uniliili CONSILIUL LOCAL AI- ORASULUI OCNA MURES, intrunit in qedin![ ordinard la data de 25.06.2020, ca urmare a emiterii dispoziliei de convocare",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/07/HCL-109.pdf",
+     "sha256": "0294bb77be62dbcc395d9ed3c97c1657d9b277083e8f55ab6bfccdeb9c2e56f5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-149-2020",
    "path": "local/alba/ocna-mures/2020/149",
    "short": "HCL Ocna Mureș nr. 149/2020",
@@ -18,6 +33,801 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-150-2020",
+   "path": "local/alba/ocna-mures/2020/150",
+   "short": "HCL Ocna Mureș nr. 150/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 150/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-150-din-24.09.2020.pdf",
+     "sha256": "b20e8335d9c7da7221340fb8c358cb67485dbcb55e45c37e5fc7f17e8998706d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-151-2020",
+   "path": "local/alba/ocna-mures/2020/151",
+   "short": "HCL Ocna Mureș nr. 151/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 151/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-151-din-24.09.2020.pdf",
+     "sha256": "2ce030a85df2425dc46639c26f2b8480a77e572930ca86b7c03e3a5c0f3ed36c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-153-2020",
+   "path": "local/alba/ocna-mures/2020/153",
+   "short": "HCL Ocna Mureș nr. 153/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 153/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-153-din-24.09.2020.pdf",
+     "sha256": "9d645907b6865e6f95f28faafb2d12593f4a4e28f8b57352dd95b0115dfbc138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-154-2020",
+   "path": "local/alba/ocna-mures/2020/154",
+   "short": "HCL Ocna Mureș nr. 154/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 154/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-154-din-24.09.2020.pdf",
+     "sha256": "7e13325773b2b93c603e17e9830dbe0d3cb1962ec413263f700f80a29a1ad8f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-155-2020",
+   "path": "local/alba/ocna-mures/2020/155",
+   "short": "HCL Ocna Mureș nr. 155/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 155/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-155-din-24.09.2020.pdf",
+     "sha256": "743c2061a287f20db5e54e1a00238f59dd76a9a0f81f91cbefde5f4aa30d2eaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-156-2020",
+   "path": "local/alba/ocna-mures/2020/156",
+   "short": "HCL Ocna Mureș nr. 156/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 156/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-156-din-24.09.2020.pdf",
+     "sha256": "057f0087b776ba7c453dba2cfe8140fc9e6344fd1282bfb3356b771b4ade77b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-157-2020",
+   "path": "local/alba/ocna-mures/2020/157",
+   "short": "HCL Ocna Mureș nr. 157/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 157/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-157-din-24.09.2020.pdf",
+     "sha256": "8f88e3b75200e4a00d903530bf756f5a6b37617bcaebf6ed8c74fdfd2cf38e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-158-2020",
+   "path": "local/alba/ocna-mures/2020/158",
+   "short": "HCL Ocna Mureș nr. 158/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 158/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-158-din-24.09.2020.pdf",
+     "sha256": "b755c50f88e5de9784f4629e3dbe5f0fdd9e291a41965533622291448de6987d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-159-2020",
+   "path": "local/alba/ocna-mures/2020/159",
+   "short": "HCL Ocna Mureș nr. 159/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 159/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-159-din-24.09.2020.pdf",
+     "sha256": "d747499233c5f2030c26ee9baade3e44c4a47c30e4239760c31e44251fdf0da3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-160-2020",
+   "path": "local/alba/ocna-mures/2020/160",
+   "short": "HCL Ocna Mureș nr. 160/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 160/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-160-din-24.09.2020.pdf",
+     "sha256": "90b06858861f78d18689e32aea21e9d9ad401c74e536f0e13ca6f7df7d6d8a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-161-2020",
+   "path": "local/alba/ocna-mures/2020/161",
+   "short": "HCL Ocna Mureș nr. 161/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 161/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-161-din-24.09.2020.pdf",
+     "sha256": "17a3702b1f65979af8c8173cd874a452775ddf0d08733aaf00edbeae721d9a60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-162-2020",
+   "path": "local/alba/ocna-mures/2020/162",
+   "short": "HCL Ocna Mureș nr. 162/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 162/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-162-din-24.09.2020.pdf",
+     "sha256": "6a4c12108c94535fd766aa15d26146703d13f845bb545e04f5c419fea813db2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-163-2020",
+   "path": "local/alba/ocna-mures/2020/163",
+   "short": "HCL Ocna Mureș nr. 163/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 163/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-163-din-24.09.2020.pdf",
+     "sha256": "49cfea89fbdfcb8b1553f7beb446640014be71a794e5f791ec2c36eeca28961f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-164-2020",
+   "path": "local/alba/ocna-mures/2020/164",
+   "short": "HCL Ocna Mureș nr. 164/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 164/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-164-din-24.09.2020.pdf",
+     "sha256": "e562a34078eaa87fa10467befb566a76982ced2cf06d26015392a5adc84570e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-165-2020",
+   "path": "local/alba/ocna-mures/2020/165",
+   "short": "HCL Ocna Mureș nr. 165/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 165/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-165-din-24.09.2020.pdf",
+     "sha256": "0d01cbdc3851ad6ef212dd415ba17328c977ea75fd62475a42e4176b86f3195f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-166-2020",
+   "path": "local/alba/ocna-mures/2020/166",
+   "short": "HCL Ocna Mureș nr. 166/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 166/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-166-din-24.09.2020.pdf",
+     "sha256": "746dec560fbf5713b8899f870939e45dd71786ded31c635cd23cc4bae631ebd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-167-2020",
+   "path": "local/alba/ocna-mures/2020/167",
+   "short": "HCL Ocna Mureș nr. 167/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 167/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-167-din-24.09.2020.pdf",
+     "sha256": "1410f4c24a897abd6cf8d31b712262b81cda370be192f0c0a7878e98e259d6e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-168-2020",
+   "path": "local/alba/ocna-mures/2020/168",
+   "short": "HCL Ocna Mureș nr. 168/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 168/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-168-din-24.09.2020.pdf",
+     "sha256": "fab438b4eeb8e86af073f456d1b2937e81062f37acfffa56ec67eed73e4688c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-169-2020",
+   "path": "local/alba/ocna-mures/2020/169",
+   "short": "HCL Ocna Mureș nr. 169/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 169/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-169-din-24.09.2020.pdf",
+     "sha256": "f1eab03e2ca628f761b9cd2c3a1b47cdfb9b647818269bbd39c39848b182e3dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-170-2020",
+   "path": "local/alba/ocna-mures/2020/170",
+   "short": "HCL Ocna Mureș nr. 170/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 170/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-170-din-24.09.2020.pdf",
+     "sha256": "1b8efa7beda57a49bef35e66c92d628dc08a46a4496dedd4ae1f906cb6d970ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-171-2020",
+   "path": "local/alba/ocna-mures/2020/171",
+   "short": "HCL Ocna Mureș nr. 171/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 171/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-171-din-24.09.2020.pdf",
+     "sha256": "1b79a055d3022ff0f6c49aab95e60881e2dc9e0d1d8874525ce0293187ac1210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-172-2020",
+   "path": "local/alba/ocna-mures/2020/172",
+   "short": "HCL Ocna Mureș nr. 172/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 172/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-172-din-24.09.2020.pdf",
+     "sha256": "31d14032030f01a675c1d45f3cddc5d468a0cd98693ccbf5194db9b4553f57ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-173-2020",
+   "path": "local/alba/ocna-mures/2020/173",
+   "short": "HCL Ocna Mureș nr. 173/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 173/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/10/Hot%C4%83r%C3%A2rea-nr.-173-din-24.09.2020.pdf",
+     "sha256": "d896302ff40902542c17fa928969212b409af776fea7dec6e7ca935ea46c629a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-174-2020",
+   "path": "local/alba/ocna-mures/2020/174",
+   "short": "HCL Ocna Mureș nr. 174/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 174/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr-174-din-28.10.2020-1.pdf",
+     "sha256": "23ca61bddbbf9f3a8166c103effbab104929a8b21459f8f0022a26a8cb4c58ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-175-2020",
+   "path": "local/alba/ocna-mures/2020/175",
+   "short": "HCL Ocna Mureș nr. 175/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 175/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr-175-din-28.10.2020-1.pdf",
+     "sha256": "b134df6102918099fbc5a29c4893833a536b17adabb08e0e8e54b32e592fdcb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-176-2020",
+   "path": "local/alba/ocna-mures/2020/176",
+   "short": "HCL Ocna Mureș nr. 176/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 176/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr-176-din-28.10.2020-1.pdf",
+     "sha256": "f0af40687eaf9d906f407a51dd87135665dca5651d09f48cac109a7c25a61f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-177-2020",
+   "path": "local/alba/ocna-mures/2020/177",
+   "short": "HCL Ocna Mureș nr. 177/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 177/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr-177-din-28.10.2020-1.pdf",
+     "sha256": "9bddf1f4b20e9203f5fbf12b022fc61fd8587e2b62958c988ad49925458631ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-178-2020",
+   "path": "local/alba/ocna-mures/2020/178",
+   "short": "HCL Ocna Mureș nr. 178/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 178/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr-178-din-28.10.2020-1.pdf",
+     "sha256": "9dddb82dbc3519623f9ebb9a16a66bbd0a7ca67fd43ef26b7f5f4bdfcf7a4fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-179-2020",
+   "path": "local/alba/ocna-mures/2020/179",
+   "short": "HCL Ocna Mureș nr. 179/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 179/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr-179-din-28.10.2020.pdf",
+     "sha256": "1493f65e681066f259dd02ae6e9c63b3e3260cae98d39259df71bd9c3a9c7ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-19-2020",
+   "path": "local/alba/ocna-mures/2020/19",
+   "short": "HCL Ocna Mureș nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/03/HCL-19-din-18.02.2020.pdf",
+     "sha256": "8f359c228f12bc4114ad68f2d1d8022832e683cbcf16b7f79722f8f5790f0291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-20-2020",
+   "path": "local/alba/ocna-mures/2020/20",
+   "short": "HCL Ocna Mureș nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/03/HCL-20-din-18.02.2020.pdf",
+     "sha256": "dbde9f5ec000a97f172138a0cea6a7a40167691f95aa0b84854423dd9ddc3d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-205-2020",
+   "path": "local/alba/ocna-mures/2020/205",
+   "short": "HCL Ocna Mureș nr. 205/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 205/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-205-din-22.12.2020.pdf",
+     "sha256": "7a2b09510a44799d283cebd1d6f92152f5c28bcdc4bdee032b536e1f655a02c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-206-2020",
+   "path": "local/alba/ocna-mures/2020/206",
+   "short": "HCL Ocna Mureș nr. 206/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 206/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-206-din-22.12.2020.pdf",
+     "sha256": "8dd2d8190aced10b76b7d8ad05c9d0aaa705f2edbbdc52fd1fbb1493b9f0aed6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-207-2020",
+   "path": "local/alba/ocna-mures/2020/207",
+   "short": "HCL Ocna Mureș nr. 207/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 207/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-207-din-22.12.2020.pdf",
+     "sha256": "c3ef9ee074dcec84728e72806e3d1e658a06b6af6cd23cf1d5d2bbc8ee3e8426"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-208-2020",
+   "path": "local/alba/ocna-mures/2020/208",
+   "short": "HCL Ocna Mureș nr. 208/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 208/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-208-din-22.12.2020.pdf",
+     "sha256": "0059352c51c3215e919564c0acc5bfc94c29f6104a42aa80effb86b2dc17a9cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-209-2020",
+   "path": "local/alba/ocna-mures/2020/209",
+   "short": "HCL Ocna Mureș nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 209/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-209-din-22.12.2020.pdf",
+     "sha256": "419b01cf76e94374dd0c3e472c40c31093e74e9af5429deabb0cbf4739f1d557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2020",
+   "path": "local/alba/ocna-mures/2020/21",
+   "short": "HCL Ocna Mureș nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/03/HCL-21-din-18.02.2020.pdf",
+     "sha256": "ac871cb17c0dc66fa403b38dd4334e87024fe47ae6df3bfa03a2753e24b8afd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-210-2020",
+   "path": "local/alba/ocna-mures/2020/210",
+   "short": "HCL Ocna Mureș nr. 210/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 210/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-210-din-22.12.2020.pdf",
+     "sha256": "2e89ebceb9b6db127c8b93e7f0975b5af976f95acb18b7487c436c71994fa444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-211-2020",
+   "path": "local/alba/ocna-mures/2020/211",
+   "short": "HCL Ocna Mureș nr. 211/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 211/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-211-din-22.12.2020.pdf",
+     "sha256": "1cc139c069465682f5231a75eb935f80a31ae8c3e9a20f7ad897b4f8026418b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-212-2020",
+   "path": "local/alba/ocna-mures/2020/212",
+   "short": "HCL Ocna Mureș nr. 212/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 212/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-212-din-22.12.2020.pdf",
+     "sha256": "81ccb7da7acb7df112df8e63eaa723f750ee35eae48b6592b782fa91d3d0b2f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-213-2020",
+   "path": "local/alba/ocna-mures/2020/213",
+   "short": "HCL Ocna Mureș nr. 213/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 213/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-213-din-22.12.2020.pdf",
+     "sha256": "f0c1cd4a343c1f9130c75667f00d3a68738a9a5ba4fe3d3ad8d774f2cda66abf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-214-2020",
+   "path": "local/alba/ocna-mures/2020/214",
+   "short": "HCL Ocna Mureș nr. 214/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 214/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-214-din-22.12.2020.pdf",
+     "sha256": "0dff71e1388f63c0252c4c074f97bc4247c75087a29e3a4e25195f28c443ad3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-215-2020",
+   "path": "local/alba/ocna-mures/2020/215",
+   "short": "HCL Ocna Mureș nr. 215/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 215/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-215-din-22.12.2020.pdf",
+     "sha256": "32f566e5fc2b0009b3fca4e9fa20f66905f96e47265306051887a07f67ba26cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-216-2020",
+   "path": "local/alba/ocna-mures/2020/216",
+   "short": "HCL Ocna Mureș nr. 216/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 216/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-216-din-22.12.2020.pdf",
+     "sha256": "875aea1cf0dfb024b7ae89888e2c68b1b2bb256232386fb9c6534b8150f8b17e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-217-2020",
+   "path": "local/alba/ocna-mures/2020/217",
+   "short": "HCL Ocna Mureș nr. 217/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 217/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-217-din-22.12.2020.pdf",
+     "sha256": "0fe4b619c70eb1f4fe66778d2ed41c731c60b0043c033f01aedd72108b26d4d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-218-2020",
+   "path": "local/alba/ocna-mures/2020/218",
+   "short": "HCL Ocna Mureș nr. 218/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 218/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-218-din-22.12.2020.pdf",
+     "sha256": "aa0211c145982293aa2ef8160817801feed10b7ede7796e74066b946adada261"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-219-2020",
+   "path": "local/alba/ocna-mures/2020/219",
+   "short": "HCL Ocna Mureș nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 219/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-219-din-22.12.2020.pdf",
+     "sha256": "a87531c43eb56033fce566bcff123e07b89b651f52f554025fcadfc56c704e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-220-2020",
+   "path": "local/alba/ocna-mures/2020/220",
+   "short": "HCL Ocna Mureș nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 220/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-220-din-22.12.2020.pdf",
+     "sha256": "166e88338340acdfc1d4a4e859bd490013877870dee28725821be3843045f475"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-221-2020",
+   "path": "local/alba/ocna-mures/2020/221",
+   "short": "HCL Ocna Mureș nr. 221/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 221/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2021/01/Hotararea-nr-221-din-22.12.2020.pdf",
+     "sha256": "3642ca848db4f208c06b80c45bb173ad933a568a6dc90db6a3db57a6dc100ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-23-2020",
+   "path": "local/alba/ocna-mures/2020/23",
+   "short": "HCL Ocna Mureș nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 23/2020 privind aprobarea modificdrii componenlei Comisiei tehnice de amenajare a teritoriului qi urbanisrn a oragului Ocna Mureq, precum qi a modificdrii cornponen{ei Secretariatului Tehnic al Comisiei tehnice de amenajare a teritoriului qi urbanism a oraqului Ocna MureE CONSILIUL LOCAL AL ORASULUI OCNA MURE$, intrunit in gedinld extraordinard publica la data de 18.02.2020 ca urmare a emiterii dispozifie",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/03/HCL-23-din-18.02.2020.pdf",
+     "sha256": "bf9e73d91b36f3d0e249047d08cd2036ac08c3be7d75f8fae48934a889104d72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-47-2020",
+   "path": "local/alba/ocna-mures/2020/47",
+   "short": "HCL Ocna Mureș nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 47/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.-47-din-17.03.2020.pdf",
+     "sha256": "9c3fa452f33759aa847b9e4b9aca8db0e4fbb65d6a98607a7f8a4eb637acae7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-49-2020",
+   "path": "local/alba/ocna-mures/2020/49",
+   "short": "HCL Ocna Mureș nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 49/2020 privind alocarea sumei necesare plalii contravalorii cheltuielilor cu naveta cadrelor didactice qi a personalului didactic auxiliar pentru luna februarie 2020 CONSILIUL LOCAL AL ORASULUI OCNA MURE$, intrunit in qedinld ordinard desfbquratd in regim \"la distanfd\" la data de 26.03 .2020, ca urmare a emiterii dispozifiei de convocare nr. I 3 8 drn20.03.2020, de cdtre primarul oraqului Ocna Mureq, Sil",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/04/HCL-49.pdf",
+     "sha256": "8ec5dd0c8abada8970cb42d3b9b7652aa5bdf1924df04d4d4e7bc964e2a09051"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-56-2020",
+   "path": "local/alba/ocna-mures/2020/56",
+   "short": "HCL Ocna Mureș nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 56/2020 privind aprobarea Documentaliei tehnico-economice faza Studirr d,e fezabilitate pentru proiectul cu titlul \"Calitate pentrtt Mure; sdniitate - Sistem smart de eficienld energeticit pentru Biza cle iratament ,si agrement Ocna (Quality for health - Smart microgridfor Ocna Mure; Health and Trecrtment Center) \" SILI LAL LUI intrunit in qedin!5 ordinard desfEguratd in regim \"la distanfd\" la data de 26",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/04/HCL-56.pdf",
+     "sha256": "4d29965dafff07781606d6d852702aab48ca126afe409b9a4b2d2a5a3e212e98"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-57-2020",
    "path": "local/alba/ocna-mures/2020/57",
    "short": "HCL Ocna Mureș nr. 57/2020",
@@ -29,6 +839,21 @@
      "units": 1,
      "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/04/HCL-57.pdf",
      "sha256": "48292dab538689d6462480f3561241ca9b784d261aadf6bf8b4bd2f08e66daf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-99-2020",
+   "path": "local/alba/ocna-mures/2020/99",
+   "short": "HCL Ocna Mureș nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 99/2020",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2020/07/HCL-99.pdf",
+     "sha256": "a1149e5f0a56c17ab7465889e032a26d28c5b2ba4e3180ed4145bd60e2e149f9"
     }
    ]
   }

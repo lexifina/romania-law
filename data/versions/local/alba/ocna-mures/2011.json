@@ -3,6 +3,66 @@
  "shard": "local/alba/ocna-mures/2011",
  "acts": [
   {
+   "slug": "hcl-alba--ocna-mures-1-2011",
+   "path": "local/alba/ocna-mures/2011/1",
+   "short": "HCL Ocna Mureș nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 1/2011 privind revocarea HCLOM nr.145/30.12.2010; aprobarea noilor taxe și impozite locale ce se vor aplica în anul fiscal 2011 la nivelul orașului Ocna Mureș”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-001.pdf",
+     "sha256": "cd68c01bc378526d2f6f9679e5ab2a624f67c74c7b8e6a02d46e459665713f12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-10-2011",
+   "path": "local/alba/ocna-mures/2011/10",
+   "short": "HCL Ocna Mureș nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 10/2011 privind aprobarea unui Plan de management al traficului pentru o parte a orasului Ocna Mures, conform ANEXEI – parte integranta a prezentei hotarari”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-010.pdf",
+     "sha256": "1dc1ee8d23615d43ce4d718001c48ee4852e2ad70eabd47fcfe584a15d27da9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-100-2011",
+   "path": "local/alba/ocna-mures/2011/100",
+   "short": "HCL Ocna Mureș nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 100/2011 privind aprobarea procedurii de acordare a reducerilor/scutirilor de la plata impozitului pe clădiri sau terenuri, pentru anul 2012 de care vor beneficia persoanele fizice îndreptățite, inițiat de către primarul orașului Ocna Mureș; Văzând referatul nr.6589/20.05.2011 al serviciului venituri ale bugetului local, taxe și impozite locale din cadrul aparatului de specialitate al primarului orașului O",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-100.pdf",
+     "sha256": "49747cd64e5877d2aa0e176570e88bdc154a5461b8d3ddd71497a66dbca404e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-101-2011",
+   "path": "local/alba/ocna-mures/2011/101",
+   "short": "HCL Ocna Mureș nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 101/2011 privind aprobarea achiziției publice pentru atribuirea contractului de prestări de servicii “SERVICII DE EVALUARE A DOMENIULUI PRIVAT AL ORASULUI OCNA MURES- cod CPV-79419000-4”, aprobarea Documentației de atribuire pentru atribuirea contractului în cauză, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș. Vazand",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-101.pdf",
+     "sha256": "c5dc176830cc34b6b9add0fa17686910aa7256fa945b09702cfa4fa6eda16910"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-102-2011",
    "path": "local/alba/ocna-mures/2011/102",
    "short": "HCL Ocna Mureș nr. 102/2011",
@@ -14,6 +74,306 @@
      "units": 1,
      "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-102.pdf",
      "sha256": "2484fa2b140f848fdc3183dc2dd267c9c2aca0ceabf3326fb22b84cfc8401e2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-103-2011",
+   "path": "local/alba/ocna-mures/2011/103",
+   "short": "HCL Ocna Mureș nr. 103/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 103/2011 privind aprobarea plății burselor pentru elevii din unitățile de învățământ preuniversitar de stat din orașul Ocna Mureș, din bugetul orașului Ocna Mureș pe semestrul II al anului 2011,proiect inițiat de către primarul orașului Ocna Mureș. Vazand: referatul si raportul nr.7884/22.06.2011,inaintate de catre Serviciului buget- contabilitate, resurse umane, informatizare; Având în vedere dispozițiile",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-103.pdf",
+     "sha256": "31c1f9b65c91794afe942a1860aab6d033e9b6a6efc809c00b40cd0fb776d0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-104-2011",
+   "path": "local/alba/ocna-mures/2011/104",
+   "short": "HCL Ocna Mureș nr. 104/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 104/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-104.pdf",
+     "sha256": "8c6fa218f0b5e63f3abd28fe2ea771ff4f27d6a10cd4a78a7b835f96fa0e1c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-105-2011",
+   "path": "local/alba/ocna-mures/2011/105",
+   "short": "HCL Ocna Mureș nr. 105/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 105/2011 privind aprobarea contului de executie al orașului Ocna Mureș, pentru trimestrul I din anul 2011, conform anexelor 1si 2-parte integranta a prezentei hotarari, proiect inițiat și înaintat spre aprobare de către primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-105.pdf",
+     "sha256": "1c39b153bdf298239d8327c60c31f2c0dd2defb49dd0e433dbf5fa48fafce859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-106-2011",
+   "path": "local/alba/ocna-mures/2011/106",
+   "short": "HCL Ocna Mureș nr. 106/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 106/2011 privind modificarea și completarea art.3 al Hotărârii nr.125/04.11.2010 a Consiliului local al orașului Ocna Mureș privind “stabilirea noilor prețuri de concesionare, ce vor fi achitate, începând cu luna octombrie 2010, de către concesionarii spațiilor cu destinația de cabinete medicale și spații adiacente acestora, situate în incinta Policlinicii orășenești Ocna Mureș, din strada Axente Sever, nr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-106.pdf",
+     "sha256": "afeb063556882a4598d568a0ce5fe9739620c2bd567c91b8699ce109924e7a3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-107-2011",
+   "path": "local/alba/ocna-mures/2011/107",
+   "short": "HCL Ocna Mureș nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 107/2011 privind completarea Hotararii nr 77 din 31.05.2011 cu un nou articol, articolul nr 3, proiect initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-107.pdf",
+     "sha256": "6f6f3a9855258b9f76d7f98052b6ff9aec887ecdbddae0162b2b4ded44cd651b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-108-2011",
+   "path": "local/alba/ocna-mures/2011/108",
+   "short": "HCL Ocna Mureș nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 108/2011 privind aprobarea acordarii unor sume de bani, cu titlu de sprijin financiar, unităților de cult de pe raza administrativ-teritoriala a orasului Ocna Mures, proiect inițiat de către dl.primar al orașului Ocna Mureș, Văzând referatul si raportul nr.8075/28.06.2011 ale serviciului buget-contabilitate, resurse umane, informatizare; Având în vedere - dispozitiile cuprinse în Legea nr.215/23.04.2001 pr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-108.pdf",
+     "sha256": "451eee26115abe85a0dadc37e52376af5d88576722c5c129cb6b93799900a755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-109-2011",
+   "path": "local/alba/ocna-mures/2011/109",
+   "short": "HCL Ocna Mureș nr. 109/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 109/2011 privind completarea H.C.L.O.M nr 117/13.08.2007, initiat de catre consilier local jur",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-109.pdf",
+     "sha256": "7821105aef6e57a2bf60a71862b34a6037ca67b699d3b4d354b24bf0768abb45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-11-2011",
+   "path": "local/alba/ocna-mures/2011/11",
+   "short": "HCL Ocna Mureș nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 11/2011 privind modificarea Hotararii nr 132 din 25.11.2010 a Consiliului local al orasului Ocna Mures, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-011.pdf",
+     "sha256": "b81b0fd04e509ead5ea58235a8fe7b99b2f45e79153cd2c43e455137a4562281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-110-2011",
+   "path": "local/alba/ocna-mures/2011/110",
+   "short": "HCL Ocna Mureș nr. 110/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 110/2011 pentru revocarea Hotărârii nr.76 a Consiliului local al orașului Ocna Mureș privind “aprobarea acordului de preluare a unitatii sanitare Spitalul orasenesc Ocna Mures de catre S.C Hospital Clinic Dr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-110.pdf",
+     "sha256": "6d0dd1942739dba633adcef11cd134e2e0aa4a06c404508dd86c7d7f2d31a81a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-111-2011",
+   "path": "local/alba/ocna-mures/2011/111",
+   "short": "HCL Ocna Mureș nr. 111/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 111/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-111.pdf",
+     "sha256": "cad25adb0dcb219e55689d17fdd297989e299ec0e2036b0891bdf28ff69abfb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-112-2011",
+   "path": "local/alba/ocna-mures/2011/112",
+   "short": "HCL Ocna Mureș nr. 112/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 112/2011 pentru revocarea Hotararii nr.90/31.05.2011 a Consiliului local al orasului Ocna Mures privind “trecerea din domeniul public al Statului Roman in domeniul privat al orasului Ocna Mures a terenului inscris in CF 70190 Ocna Mures, cu nr top 963/1 si 964/1 in suprafata de 19500 mp situat administrativ in Ocna Mures, str. Fabricii-zona industriala”, proiect inițiat și înaintat spre aprobare de către p",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-07-08",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-112.pdf",
+     "sha256": "2dad85b4e4c345266b41d05030f66a974e645f4fce52bedcb293d4707ba5b52f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-120-2011",
+   "path": "local/alba/ocna-mures/2011/120",
+   "short": "HCL Ocna Mureș nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 120/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-120.pdf",
+     "sha256": "3c71f9b538bc1f8a66bb7894d701bf0615e5f3111ebf216ce718beedad2319e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-121-2011",
+   "path": "local/alba/ocna-mures/2011/121",
+   "short": "HCL Ocna Mureș nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 121/2011 privind aprobarea vânzării, prin licitație publică cu strigare, a terenului proprietate privată a orașului Ocna Mureș, situat administrativ în orașul Ocna Mureș, strada Dîmbului, nr.39, județul Alba, înscris în C.f. nr.71044 Ocna Mureș cu nr. top. 71044 în suprafață de 200 m.p., prețul de pornire al licitației fiind de 4.300 lei, la care se va adăuga TVA-ul aferent, proiect inițiat și înaintat spr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-121.pdf",
+     "sha256": "88971a3ff8eb48d5572a435c5abe58df3463fdaecb6745eef4eede2fba10578a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-122-2011",
+   "path": "local/alba/ocna-mures/2011/122",
+   "short": "HCL Ocna Mureș nr. 122/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 122/2011 privind propunerea de desfiintare a unitatii sanitare Spitalul orasenesc Ocna Mures cu sediul in Ocna Mures, str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-122.pdf",
+     "sha256": "74f7d7118ec02d8d21741cfda81667fa409a9b097026f8e2806d52b4b39cc307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-123-2011",
+   "path": "local/alba/ocna-mures/2011/123",
+   "short": "HCL Ocna Mureș nr. 123/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 123/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-123.pdf",
+     "sha256": "fb1b74d1ccd50921a6f02ddd3199d5990f19fd8e17dfac6fd538cca37e160262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-124-2011",
+   "path": "local/alba/ocna-mures/2011/124",
+   "short": "HCL Ocna Mureș nr. 124/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 124/2011 pentru revocarea Hotărârii nr.117/08.07.2011 a Consiliului local al orașului Ocna Mureș “privind înscrierea în domeniul privat al orașului Ocna Mureș a terenului proprietate de stat situat inscris in CF 70190 Ocna Mures, cu nr top 963/1 si 964/1 in suprafata de 19500 mp situat administrativ in Ocna Mures, str. Fabricii-zona industriala, în vederea clarificării situației juridice a acestuia”, proie",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-124.pdf",
+     "sha256": "322d391a8ac129b6c7a9220048989e99a2485a8c28f7741a378ef984622c06eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-125-2011",
+   "path": "local/alba/ocna-mures/2011/125",
+   "short": "HCL Ocna Mureș nr. 125/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 125/2011 privind rectificarea bugetului orașului Ocna Mureș, județul Alba, pentru anul 2011 si modificarea listei de investitii, conform anexelor 1-a) și 1-b) care fac parte integrantă din prezenta, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-125.pdf",
+     "sha256": "680f3d9795fb154058b6b5b5f2ec03373dd766ecf953470dae2acd8ebbc1cd0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-126-2011",
+   "path": "local/alba/ocna-mures/2011/126",
+   "short": "HCL Ocna Mureș nr. 126/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 126/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-126.pdf",
+     "sha256": "ae3db401b8ad7a81545e5f0941eb771938e391a81e14fc88815688087df9bf93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-128-2011",
+   "path": "local/alba/ocna-mures/2011/128",
+   "short": "HCL Ocna Mureș nr. 128/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 128/2011 privind retragerea dreptului de administrare de la Spitalul orasenesc Ocna Mures asupra Dispensarului Razboieni, atribuirea in folosinta gratuita, pe o durata de 10 ani a spatiului in suprafata de 77,40 mp format din: una camera de 18 mp, una baie de 8 mp, una bucatarie de 16,60 mp, una camera de 6,10 mp, Parohiei Ortodoxe Razboieni in vederea deschiderii unui Asezamnat Social cu trei servicii: Ce",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-128.pdf",
+     "sha256": "ca441e3ee9d369fc260f43567683aa94a2d39a75a81db2a7106c64d0ce968567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-129-2011",
+   "path": "local/alba/ocna-mures/2011/129",
+   "short": "HCL Ocna Mureș nr. 129/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 129/2011 privind aprobarea achizitiei « Executia lucrarii modernizare piata orasului Ocna Mures – COD CPV 45440000-3 prin procedura achizitie directa criteriul de atribuire fiind pretul cel mai scazut ;aprobarea Documentatiei de atribuire a achizitiei « Executia lucrarii modernizare piata orasului Ocna Mures – COD CPV 45440000-3 – lucrari de vopsitorie si CPV – 45223210 – 1 – lucrari de structuri metalice",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-129.pdf",
+     "sha256": "1c47c9da29b31127a520541d3b867aeec7e0411fa0a7e3ea3915033e61264e1f"
     }
    ]
   },
@@ -33,6 +393,441 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-130-2011",
+   "path": "local/alba/ocna-mures/2011/130",
+   "short": "HCL Ocna Mureș nr. 130/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 130/2011 privind :aprobarea achizitiei « LUCRARI DE MODERNIZARE STRADA GRADINII, M. KOGALNICEANU SI LACULUI DIN ORASUL OCNA MURES – COD CPV 4523312-6 prin procedura licitatie deschisa, criteriul de atribuire fiind <<pretul cel mai scazut>>; aprobarea Documentatiei de atribuire a achizitiei « – LUCRARI DE MODERNIZARE STRADA GRADINII, M. KOGALNICEANU SI LACULUI DIN ORASUL OCNA MURES – COD CPV 4523312-6 : luc",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-130.pdf",
+     "sha256": "e8825472b116612bc61456c9102b6f99fccef0c1004dd827b8f6edfd6bf91cda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-131-2011",
+   "path": "local/alba/ocna-mures/2011/131",
+   "short": "HCL Ocna Mureș nr. 131/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 131/2011 privind aprobarea Regulamentului pentru acordarea titlului de ,,cetatean de onoare” al orasului Ocna Mures si aprobarea conferirii titlului de ,,Cetatean de onoare” domnului profesr pensionar MogaVirgil, fost director al Casei de Cultura din Ocna Mures intre aniii 1982-2011, conform Regulamentului anterior mentionat.”, initiat de catre consilierul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-131.pdf",
+     "sha256": "487581a5962994f70fbdac84a28e3b91a5726831cc67a4ffa56f7ab49c10fbd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-133-2011",
+   "path": "local/alba/ocna-mures/2011/133",
+   "short": "HCL Ocna Mureș nr. 133/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 133/2011 privind :aprobarea achizitiei « reparatii Camin cultural uioara de Sus cod CPV 45453000-7 »- prin procedura achizitie directa criteriul de atribuire fiind pretul cel mai scazut ; aprobarea Documentatiei de atribuire a achizitiei «reparatii Camin cultural Uioara de Sus cod CPV 45453000-7 » ;aprobarea comisiei de evaluare a ofertelor Vazand : referatul nr.10100/23.08.2011 intocmit de Compartimentul",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-133.pdf",
+     "sha256": "77d604fab07f9c9269bf343b751a2bdea3364ff2e75cad0eb78da7c006f96ba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-135-2011",
+   "path": "local/alba/ocna-mures/2011/135",
+   "short": "HCL Ocna Mureș nr. 135/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 135/2011 privind aprobarea casării mijloacelor fixe și a obiectelor de inventar ale Primăriei orașului Ocna Mureș,cuprinse în anexa care face parte integrantă din prezenta hotărâre », initiat si inaintat spre aprobare de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-135.pdf",
+     "sha256": "59196d92f7382e09537dbc9c0ea1207ad53b99331fddce5b388c138a1412be0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-136-2011",
+   "path": "local/alba/ocna-mures/2011/136",
+   "short": "HCL Ocna Mureș nr. 136/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 136/2011 privind aprobarea achizitiei « LUCRARI DE REPARATII CURENTE STRAZI ASFALTATE DIN ORASUL OCNA MURES– COD CPV 45233251-3 prin procedura cerere de oferte criteriul de atribuire fiind <<pretul cel mai mic>>;aprobarea Documentatiei de atribuire a achizitiei « – LUCRARI DE REPARATII CURENTE STRAZI ASFALTATE DIN ORASUL OCNA MURES – COD CPV 45233251-3 ; aprobarea comisiei de evaluare a ofertelor Vazand :",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-136.pdf",
+     "sha256": "c57ede76f1e8393ea2fd48e718371e8485b9cbcb54d4e33ab7be427900779fd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-138-2011",
+   "path": "local/alba/ocna-mures/2011/138",
+   "short": "HCL Ocna Mureș nr. 138/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 138/2011 privind clarificarea situației juridice a terenului proprietate de stat, în suprafață de 19500 mp, situat administrativ în zona industrială a orașului Ocna Mureș, strada Fabricii, f.n., jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-138.pdf",
+     "sha256": "b46971355e0512b1181edf24d938c737c95d7718574a86c03966a1b9b5a58255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-139-2011",
+   "path": "local/alba/ocna-mures/2011/139",
+   "short": "HCL Ocna Mureș nr. 139/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 139/2011 pentru revocarea Hotărârii nr.110/30.06.2011 a Consiliului local al orașului Ocna Mureș privind revocarea Hotărârii nr.76/31.05.2011; aprobarea promovării, în numele și pe seama Consiliului local al orașului Ocna Mureș, a unei acțiuni în contencios administrativ prin care se va solicita instanței de judecată să constate nulitatea Hotărârii nr. 76/31.05.2011 a Consiliului local al orașului Ocna Mur",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-139.pdf",
+     "sha256": "4fe1295b42a722f622537d494e60f14f7d4af2d82e29ac81421da23dc17541d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-14-2011",
+   "path": "local/alba/ocna-mures/2011/14",
+   "short": "HCL Ocna Mureș nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 14/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-014.pdf",
+     "sha256": "25ea8781e8e4eb65a08e78936eb9cec7724dc3e98688d7826171464fc73a6b42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-140-2011",
+   "path": "local/alba/ocna-mures/2011/140",
+   "short": "HCL Ocna Mureș nr. 140/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 140/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-140.pdf",
+     "sha256": "2996360981dde75927887d68e5e7c4c0577058ce16535dfffba5650b77d29c18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-141-2011",
+   "path": "local/alba/ocna-mures/2011/141",
+   "short": "HCL Ocna Mureș nr. 141/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 141/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-141.pdf",
+     "sha256": "69c46368864114fc84dfa28e8dc6576c535f3f93ce3701e0fef470bdc7bc799a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-142-2011",
+   "path": "local/alba/ocna-mures/2011/142",
+   "short": "HCL Ocna Mureș nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 142/2011 privind concesionarea, prin licitație publică cu strigare, pe o perioadă de 49 de ani, a terenului proprietate privată a orașului Ocna Mureș, în suprafață totală de 19.500 mp, situat administrativ în zona industrială a orașului Ocna Mureș, strada Fabricii, f.n., jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-142.pdf",
+     "sha256": "23549f7d2d3de679cc82ba648fabd069e5236c890d94db64b1fe6cc54a76de39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-143-2011",
+   "path": "local/alba/ocna-mures/2011/143",
+   "short": "HCL Ocna Mureș nr. 143/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 143/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-143.pdf",
+     "sha256": "99cfe1de1cf999c03e2dcfaf6be1b05e3e3b4f424f316f316fd1abeb7ad47bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-144-2011",
+   "path": "local/alba/ocna-mures/2011/144",
+   "short": "HCL Ocna Mureș nr. 144/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 144/2011 privind aprobarea organizării, de către Consiliul local al orașului Ocna Mureș, în data de 23.10.2011, a Festivalului interjudetean de folclor ,,Mures pe marginea ta”, Editia a XXIV-a și utilizarea din bugetul local a sumei de 20.000 lei, suma ce se poate asigura din cap 67.02.50, art. 20.30.30, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-144.pdf",
+     "sha256": "7413c44076e350d94c870a2809e3ffcb5a0a58b435e07a6cf5c9c6d56e3ab3f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-146-2011",
+   "path": "local/alba/ocna-mures/2011/146",
+   "short": "HCL Ocna Mureș nr. 146/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 146/2011 privind insusirea de catre Consiliul local al orasului Ocna Mures a Contractului de Finatare nr 102832 sin 22.11.2010 incheiat intre Ministerul Mediului si Padurilor si S.C APA CTTA S.A Alba, in vederea obtinerii de finantare nerambursabila pentru implementarea Proiectului ,,,Extinderea si reabilitarea infrastructurii de apa si apa uzata in judetul Alba” si cofinantarea de catre autoritatile publi",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-146.pdf",
+     "sha256": "a3aedd5588758e0de8967e99935d05423afd7d074a39d896c310eaf359fb2a7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-148-2011",
+   "path": "local/alba/ocna-mures/2011/148",
+   "short": "HCL Ocna Mureș nr. 148/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 148/2011 privind aprobarea concesionării, prin licitație publică cu strigare, pe o perioadă de 5 ani, a unor spații cu destinația de cabinete medicale, situate în incinta Policlinicii din orașul Ocna Mureș, conform anexei – parte integrantă a prezentei hotărâri, proiect initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-148.pdf",
+     "sha256": "d7703cf46660c22129678a3a6fd5afa38de6a5916f5c7a917ce796f13be9d7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-15-2011",
+   "path": "local/alba/ocna-mures/2011/15",
+   "short": "HCL Ocna Mureș nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 15/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-015.pdf",
+     "sha256": "70110ffec056090c616a612224633912d408125e751f36eaa7bf8000d9393d2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-150-2011",
+   "path": "local/alba/ocna-mures/2011/150",
+   "short": "HCL Ocna Mureș nr. 150/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 150/2011 privind aprobarea atribuirii de denumiri Casei de cultură a orașului Ocna Mureș și respectiv Sălii de expoziții din cadrul Casei de cultură a orașului Ocna Mureș, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-150.pdf",
+     "sha256": "72b06c34e8d20dcc2add53ad3e1c466485cb679d797ef12b1ba81f0499734a3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-152-2011",
+   "path": "local/alba/ocna-mures/2011/152",
+   "short": "HCL Ocna Mureș nr. 152/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 152/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-152.pdf",
+     "sha256": "c002e114c29202588bd56f68972440492734a3314be3e52611a9a3ce6e3a3ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-153-2011",
+   "path": "local/alba/ocna-mures/2011/153",
+   "short": "HCL Ocna Mureș nr. 153/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 153/2011 privind aprobarea acordarii sumei de 5000 lei, cu titlu de sprijin financiar, unitatii de cult religios Parohia ortodoxa nr. 3 Ocna Mures de pe raza administrativ-teritoriala a orasului Ocna Mures” inițiat de către dl.primar al orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-153.pdf",
+     "sha256": "98a028f197b22d7ef85e17cdff2588263c214e16b9a0f7dd4cc8b87213f344d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-154-2011",
+   "path": "local/alba/ocna-mures/2011/154",
+   "short": "HCL Ocna Mureș nr. 154/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 154/2011 privind modificarea si completarea articolului nr 2 al Hotararii de Consiliu Local al orasului Ocna Mures nr 147/29.09.2011” inițiat de către dl.primar al orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-154.pdf",
+     "sha256": "d90fe83b2edc1f6be6c4a9f3dad78d0bc9f6a598577ea21b01e372645768714b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-157-2011",
+   "path": "local/alba/ocna-mures/2011/157",
+   "short": "HCL Ocna Mureș nr. 157/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 157/2011 privind rectificarea bugetului orașului Ocna Mureș, județul Alba, pentru anul 2011 ”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-157.pdf",
+     "sha256": "61cde9c815d0c89192818ef289bc5a52f6deb6d527c7b60e7b6676ca992d2100"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-158-2011",
+   "path": "local/alba/ocna-mures/2011/158",
+   "short": "HCL Ocna Mureș nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 158/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-158.pdf",
+     "sha256": "cb989990ac1b6df8087ec1e2974301abf9d0d7273db28b25ae9287f03070da7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-159-2011",
+   "path": "local/alba/ocna-mures/2011/159",
+   "short": "HCL Ocna Mureș nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 159/2011 privind aprobarea trecerii domeniul public al orasului Ocna Mures a obiectivului ,,Extinderea retelei de apa in orasul Ocna Mures, pe str. O.Goga si str. Noua” in valoare de 30701,32 lei si scoaterea din domeniul public al orasului Ocna Mures a obiectivului ,,Alimentare cu apa Noslac” in valoare de 25457,12 lei”, initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-159.pdf",
+     "sha256": "268a535abff452970448521d2cfa3b5682e9bf185408307cf9cf8d4a5cb87051"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-16-2011",
+   "path": "local/alba/ocna-mures/2011/16",
+   "short": "HCL Ocna Mureș nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-016.pdf",
+     "sha256": "36c1f015c452d3df49e63a200b1c57c6b943a2484f4f434d1ed9ad2b5377ed8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-160-2011",
+   "path": "local/alba/ocna-mures/2011/160",
+   "short": "HCL Ocna Mureș nr. 160/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 160/2011 privind aprobarea acordarii unei sume de bani, in suma de 17500 lei cu titlu de sprijin financiar,unor unitati de cult religios de pe raza administrativ-teritoriala a orasului Ocna Mures dupa cum urmeaza: 5.000 lei la Parohia Ortodoxa Ocna Mures II pentru executarea lucrarilor de reparatii curente (Pr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-160.pdf",
+     "sha256": "bdfccf9ef1d72dda6bd92f8849bf496e74c1f2fe22a79bb757561dd4063d134e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-161-2011",
+   "path": "local/alba/ocna-mures/2011/161",
+   "short": "HCL Ocna Mureș nr. 161/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 161/2011 privind aprobarea încheierii unei convenții de parteneriat între Consiliul local al orașului Ocna Mureș, pe de o parte și Asociația Filantropia Ortodoxă Alba Iulia, pe de altă parte, pentru asigurarea funcționării Așezământului social „Sfântul Serafim de Sarov”, cu sediul în Ocna Mureș, satul aparținător Războieni Cetate, conform anexei – parte integrantă a prezentei hotărâri, proiect initiat de c",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-161.pdf",
+     "sha256": "145fec4bbfba4f57016f0c0b972ec372e7f6c842a531f0a351cb6db576248e45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-162-2011",
+   "path": "local/alba/ocna-mures/2011/162",
+   "short": "HCL Ocna Mureș nr. 162/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 162/2011 pentru suspendarea punerii în aplicare a prevederilor cuprinse la art.1 din Hotărârea nr.148/29.09.2011 privind ”aprobarea concesionării, prin licitație publică cu strigare, pe o perioadă de 5 ani, a unor spații cu destinația de cabinete medicale, situate în incinta Policlinicii din orașul Ocna Mureș, conform anexei – parte integrantă a prezentei hotărâri”, până la soliționarea definitivă și irevo",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-162.pdf",
+     "sha256": "05e2d7db058c5b1324e74612a3b9617036e58e3ed65ae97f017c3a9eef0eac28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-163-2011",
+   "path": "local/alba/ocna-mures/2011/163",
+   "short": "HCL Ocna Mureș nr. 163/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 163/2011 privind rectificarea bugetului orasului Ocna Mures, judetul Alba, pentru anul 2011 “, initiat si inaintat spre aprobare de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-163.pdf",
+     "sha256": "75264f82342effeff3b08d94b51c959d2ffc6c1413a960fedaa6e0183779afca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-164-2011",
+   "path": "local/alba/ocna-mures/2011/164",
+   "short": "HCL Ocna Mureș nr. 164/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 164/2011 privind încetarea contractului de concesiune nr.16627/03.11.2010 privind terenul proprietate privată a orașului Ocna Mureș concesionat de Zihai Francisc, prin renunțarea concesionarului, proiect initiat de catre primarul orasului Ocna Mures; Văzând referatul și raportul nr 14992/22.11.2011 ale compartimentului pentru urbanism, tehnic, investiții, disciplina în constructii si spatiu locativ; Având",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-164.pdf",
+     "sha256": "1c7d195c41095d4d19a757f8cb21763a4fd97ac1930df2746194a54cebcfc936"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-165-2011",
    "path": "local/alba/ocna-mures/2011/165",
    "short": "HCL Ocna Mureș nr. 165/2011",
@@ -44,6 +839,186 @@
      "units": 1,
      "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-165.pdf",
      "sha256": "fb89d26b59e685f050d667ed1c36a447f427ee5e6f2d21da5b2e22128f861632"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-166-2011",
+   "path": "local/alba/ocna-mures/2011/166",
+   "short": "HCL Ocna Mureș nr. 166/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 166/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-166.pdf",
+     "sha256": "66eb84328e6890b7cfd81e78fec7b4d79c565cf3b99eafeb8585002c49ce42f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-167-2011",
+   "path": "local/alba/ocna-mures/2011/167",
+   "short": "HCL Ocna Mureș nr. 167/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 167/2011 privind aprobarea contului trimestrial de executie al bugetului orașului Ocna Mureș, existent la data de 30.09.2011, conform anexelor 1si 2-parte integranta a prezentei hotarari, proiect inițiat și înaintat spre aprobare de către primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-167.pdf",
+     "sha256": "5ad5d8a224fc180a448be68f34e0f498865428f37ad6834ba135804243a0b892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-168-2011",
+   "path": "local/alba/ocna-mures/2011/168",
+   "short": "HCL Ocna Mureș nr. 168/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 168/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-168.pdf",
+     "sha256": "495ff2331bee98adf3a0c56fde9f8a8413a8bb6656533567713260c899b4ec6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-17-2011",
+   "path": "local/alba/ocna-mures/2011/17",
+   "short": "HCL Ocna Mureș nr. 17/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 17/2011 privind revocarea art.22 din Anexa la Hotararea nr.1/12.01.2011 a Consiliului local al orasului Ocna Mures, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-017.pdf",
+     "sha256": "38fcd393f1e96cfcb82657fedd7bc76ec748503369fb01c242a8c303272cdc67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-170-2011",
+   "path": "local/alba/ocna-mures/2011/170",
+   "short": "HCL Ocna Mureș nr. 170/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 170/2011 privind aprobarea casării mijloacelor fixe și a obiectelor de inventar ale Primăriei orașului Ocna Mureș,cuprinse în anexa care face parte integrantă din prezenta hotărâre, proiect initiat si inaintat spre aprobare de catre primarul orasului Ocna Mures ; Vazand referatul nr.16268/28.11.2011 al președintelui Comisiei de casare a mijloacelor fixe și a obiectelor de inventar existente în Primăria ora",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-170.pdf",
+     "sha256": "9afddd2200c31b23fec241935cff8e4899aa6cf434d760c214b6353204361df1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-171-2011",
+   "path": "local/alba/ocna-mures/2011/171",
+   "short": "HCL Ocna Mureș nr. 171/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 171/2011 privind rectificarea bugetului orașului Ocna Mureș, județul Alba, pentru anul 2011 ”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-171.pdf",
+     "sha256": "df0d6fd1f60e962e10abebbbc5d28a85aa082f16b8820279e77899f5f2b52574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-18-2011",
+   "path": "local/alba/ocna-mures/2011/18",
+   "short": "HCL Ocna Mureș nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 18/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-018.pdf",
+     "sha256": "8ee0594bf41e3e55c242e5aa5049c124386f8ad31153ec304775987ad49509c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-19-2011",
+   "path": "local/alba/ocna-mures/2011/19",
+   "short": "HCL Ocna Mureș nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2011 privind aprobarea bugetului local și a planului de investiții ale orașului Ocna Mureș, județul Alba, pentru anul 2011”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-019.pdf",
+     "sha256": "bd350ba03f3d9e625fe5f887e16ad0b82609f712a0c29dd2825a67f4ebd52e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-2-2011",
+   "path": "local/alba/ocna-mures/2011/2",
+   "short": "HCL Ocna Mureș nr. 2/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 2/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-002.pdf",
+     "sha256": "6c9b78061925d1fa294598711323bbb3bb7346083148b724ffa1f213523e3bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-20-2011",
+   "path": "local/alba/ocna-mures/2011/20",
+   "short": "HCL Ocna Mureș nr. 20/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2011 privind aprobarea Planului de lucrări de interes local care vor fi executate în anul 2011, de către beneficiarii de ajutor social în baza Legii nr.416/2001 privind venitul minim garantat, cu modificările și completările ulterioare, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș,prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-020.pdf",
+     "sha256": "40654f52e03ce4a2eb4b695b9f00788e771d2ce5f9d3d40582be9ea2304fa2bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2011",
+   "path": "local/alba/ocna-mures/2011/21",
+   "short": "HCL Ocna Mureș nr. 21/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-021.pdf",
+     "sha256": "c3b869f0303c6fd5cf31364be7e3651b01532e3f39de2257607a26c5f895376d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-22-2011",
+   "path": "local/alba/ocna-mures/2011/22",
+   "short": "HCL Ocna Mureș nr. 22/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 22/2011 privind aprobarea achiziției publice pentru atribuirea contractului de servicii în vederea executării lucrărilor de “PRESTĂRI DE SERVICII CU UTILAJE ȘI MIJLOACE DE TRANSPORT” având codul CPV – 45500000-2 – Închiriere de utilaje și de echipament de construcții și de lucrări publice cu operator, în vederea realizării investiției de scarificări și reparări de străzi pietruite din orașul Ocna Mureș, p",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-022.pdf",
+     "sha256": "8b8be1360f654439b068a2f0565bf43ef583bccb4dfa1e28bb2b29cd048a2fa8"
     }
    ]
   },
@@ -63,6 +1038,651 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-24-2011",
+   "path": "local/alba/ocna-mures/2011/24",
+   "short": "HCL Ocna Mureș nr. 24/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 24/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-024.pdf",
+     "sha256": "3977f67996e38dae845efe592371f8a6d6f876eb6f65fe1a80026561a513a6f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-25-2011",
+   "path": "local/alba/ocna-mures/2011/25",
+   "short": "HCL Ocna Mureș nr. 25/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 25/2011 privind aprobarea REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE A SERVICIULUI POLIȚIA LOCALĂ a orașului Ocna Mureș, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-025.pdf",
+     "sha256": "2d3b362b754e8efdd0b59f4acae5fc7adb3545352c7f0788db0bf01b72fa7091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-26-2011",
+   "path": "local/alba/ocna-mures/2011/26",
+   "short": "HCL Ocna Mureș nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 26/2011 privind aprobarea inventarului domeniului privat al orașului Ocna Mureș, conform ANEXEI care face parte integrantă din prezenta hotarare”, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-026.pdf",
+     "sha256": "6feca1031326c53255c3c2b2f0eefc42b0116c1b7de76eac522553baba29d315"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-27-2011",
+   "path": "local/alba/ocna-mures/2011/27",
+   "short": "HCL Ocna Mureș nr. 27/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 27/2011 privind aprobarea achiziției publice pentru atribuirea contractului în vederea executării lucrării de “REFACERE CANAL GARDĂ PARC-GARA CFR-STR. DIGULUI – STR.UNIRII”, având codul CPV – 45232453-2 – Lucrări de construcții de canale de scurgere, prin procedura “cerere de oferte”, criteriul de atribuire fiind “prețul cel mai scăzut”; aprobarea Documentației de atribuire pentru atribuirea contractului",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-027.pdf",
+     "sha256": "0c2591f246511694ca83d1cf7f2a9446b18c2e2e1d495e1d741ac77061985c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-28-2011",
+   "path": "local/alba/ocna-mures/2011/28",
+   "short": "HCL Ocna Mureș nr. 28/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 28/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-028.pdf",
+     "sha256": "f0dba5d3d745b24d2e9b8c762a9ad2359438baa616dfb4a69c33ea02a8e1da3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-29-2011",
+   "path": "local/alba/ocna-mures/2011/29",
+   "short": "HCL Ocna Mureș nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-029.pdf",
+     "sha256": "ecbd14892338925188736e950c31126a7ea978ebbeb3e739564cad44c8f6bb16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-3-2011",
+   "path": "local/alba/ocna-mures/2011/3",
+   "short": "HCL Ocna Mureș nr. 3/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 3/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-003.pdf",
+     "sha256": "ed6fc30a2c3b5ac45f0143a2f9cfc279c14e8b15ab9e30fd98b15c387a91ca59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-30-2011",
+   "path": "local/alba/ocna-mures/2011/30",
+   "short": "HCL Ocna Mureș nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 30/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-030.pdf",
+     "sha256": "63868198518bfd79a4d0df32dcd49d21f0d92db9e5620fbc6ac54126b3b2a075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-31-2011",
+   "path": "local/alba/ocna-mures/2011/31",
+   "short": "HCL Ocna Mureș nr. 31/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 31/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-031.pdf",
+     "sha256": "0b97e3b23ee555a3c66aedddafb5f3a0c9f3efbc94d554a955fc0e29ebca4caa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-32-2011",
+   "path": "local/alba/ocna-mures/2011/32",
+   "short": "HCL Ocna Mureș nr. 32/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 32/2011 privind aprobarea rectificării bugetului local al orașului Ocna Mureș, județul Alba, pentru anul 2011, conform anexei – parte integrantă a prezentei hotărâri, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-03-08",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-032.pdf",
+     "sha256": "19457b96c7d4d7d99ed58768fa0c1dd4e52e57221ca6988a9495da6e6cd5c7eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-33-2011",
+   "path": "local/alba/ocna-mures/2011/33",
+   "short": "HCL Ocna Mureș nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 33/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-23",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-033.pdf",
+     "sha256": "06850713c973d3ffbd529bfa6f2a4192ea3f31f20fde2dbef88a02df05249244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-35-2011",
+   "path": "local/alba/ocna-mures/2011/35",
+   "short": "HCL Ocna Mureș nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 35/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-035.pdf",
+     "sha256": "a627cf7f11e907b37298c0ec854ff6ac4bce15cbf829de0144670cb4eee99702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-36-2011",
+   "path": "local/alba/ocna-mures/2011/36",
+   "short": "HCL Ocna Mureș nr. 36/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 36/2011 privind aprobarea PROGRAMULUI DE SALUBRIZARE A CURSURILOR DE APA de pe teritoriul administrativ orasului Ocna Mures, pentru anul 2011, conform anexei parte integranta a prezentei hotarari” proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș; Văzând – referatul nr.3865/16.03.2011 întocmit de către compartimentul pentru urbanism, tehnic, investitii, disciplina in construc",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-036.pdf",
+     "sha256": "0d056496b470b16c96c25d682f8d6cb9a4d19f30d26b22d6dc0188ad7703b99f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-37-2011",
+   "path": "local/alba/ocna-mures/2011/37",
+   "short": "HCL Ocna Mureș nr. 37/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 37/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-037.pdf",
+     "sha256": "26f55a736db50018267aa953473b248d800eb9706e1900931d8444ae2f6403f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-38-2011",
+   "path": "local/alba/ocna-mures/2011/38",
+   "short": "HCL Ocna Mureș nr. 38/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 38/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-038.pdf",
+     "sha256": "758cb678024d1d51c0430bb56cdeee251d2f316e655d9afeb272ddcf9e68cf1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-39-2011",
+   "path": "local/alba/ocna-mures/2011/39",
+   "short": "HCL Ocna Mureș nr. 39/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 39/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-039.pdf",
+     "sha256": "daf944ca7fff7f84319aa9e72cef9127bd8929b165495c78aefb4ae823f91a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-41-2011",
+   "path": "local/alba/ocna-mures/2011/41",
+   "short": "HCL Ocna Mureș nr. 41/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 41/2011 privind prelungirea, cu încă 12 luni, a termenului de repartiție a unor apartamente situate în blocul nr.73 ANL, familiilor evacuate ca urmare a dezastrului natural produs în Ocna Mureș în data de 22.12.2010, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-041.pdf",
+     "sha256": "931a2f8fec5dbea4e41e84fc077262bbb91f0d50b791311c4d4c562c95ce692c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-42-2011",
+   "path": "local/alba/ocna-mures/2011/42",
+   "short": "HCL Ocna Mureș nr. 42/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 42/2011 privind aprobarea vânzării, prin licitație publică, a terenurilor proprietate privată a orașului Ocna Mureș, situate administrativ în orașul Ocna Mureș, strada Axente Sever, nr.21, județul Alba, înscrise în C.f. nr.70482 Ocna Mureș cu cu nr. cad.429, nr. top. 2115/1 – teren construibil în suprafață de 51 m.p. și C.f. nr.71392 Ocna Mureș, cu nr. top./cad. 71392 – curți, construcții în suprafață de",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-042.pdf",
+     "sha256": "90a7630ef156e3d81b9eee61cc1befca0bf906b7072b73c741e94369ca7fc3ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-44-2011",
+   "path": "local/alba/ocna-mures/2011/44",
+   "short": "HCL Ocna Mureș nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 44/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-044.pdf",
+     "sha256": "df887d92b398238931305ed456a9e13d551e44f466d67fbe896837ac75e6a106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-45-2011",
+   "path": "local/alba/ocna-mures/2011/45",
+   "short": "HCL Ocna Mureș nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 45/2011 privind aprobarea achiziției publice pentru atribuirea contractului de furnizare de produse “ACHIZIȚIE BULDOEXCAVATOR PE PNEURI”, aprobarea Documentației de atribuire pentru atribuirea contractului în cauză, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș. Vazand: referatul nr.4451/31.03.2011 al compartimentulu",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-045.pdf",
+     "sha256": "cfdcfb9b31322363f7ab73b3b09d5ac3eb2f6f3d9a8f6659168602a93b64e219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-48-2011",
+   "path": "local/alba/ocna-mures/2011/48",
+   "short": "HCL Ocna Mureș nr. 48/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 48/2011 privind darea acordului prealabil in vederea infiintarii Centrului Fix de Permanenta Ocna Mures, pentru asigurarea continuitatii asistentei medicale primare, incepand cu data de 01 aprilie 2011; Vazand: - adresa nr. 1446 din 01.04.2011 a Directiei de Sanatate Publica Alba inregistrata la noi sub nr.4527/01.04.2011; - Hotararea Consiliului local nr. 74 din 08.07.2010 prin care s-a aprobat preluarea",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-048.pdf",
+     "sha256": "a6d8f7df623deec8418f2a5a2e3414d0359bc11ed48d79b9349123fb60b0bb49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-49-2011",
+   "path": "local/alba/ocna-mures/2011/49",
+   "short": "HCL Ocna Mureș nr. 49/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 49/2011 privind aprobarea concesionarii, prin licitatie publica, pe o perioada de 5 de ani, a unor spații cu destinația de cabinete medicale, situate în incinta Policlinicii și a Spitalului orășenesc Ocna Mureș, conform Anexei nr. 1; prețurile de pornire a licitației au fost determinate pe baza raportului de evaluare a terenului în cauză – Anexa nr. 2; schițele privind amplasamentul și numerotarea spațiil",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-07",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-049.pdf",
+     "sha256": "bb00b2dbe8b7b2153e5c993fc0e12dd561d837ec25935fdd5560f7d5588ca92b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-5-2011",
+   "path": "local/alba/ocna-mures/2011/5",
+   "short": "HCL Ocna Mureș nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 5/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-005.pdf",
+     "sha256": "c79a6420d03d506207116de51e7e40b0e1910eba0343bf4ca31e3f73fa430e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-50-2011",
+   "path": "local/alba/ocna-mures/2011/50",
+   "short": "HCL Ocna Mureș nr. 50/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 50/2011 privind rectificarea bugetului orașului Ocna Mureș, județul Alba, pentru anul 2011 si modificarea listei de investitii, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș; Vazand: referatul nr.4870 din 07.04..2011 inaintat de catre Serviciului buget-contabilitate, resurse umane, informatizare din cadrul aparatului",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-07",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-050.pdf",
+     "sha256": "5de87de7c01fb85b230b849fc03afddc033e50e61ec495dcee21868ff924cb67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-51-2011",
+   "path": "local/alba/ocna-mures/2011/51",
+   "short": "HCL Ocna Mureș nr. 51/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 51/2011 privind funcționarea, în continuare, în spațiile existente în clădirea Spitalului orășenesc și a Policlinicii orășenești Ocna Mureș, a cabinetelor medicale de specialitate, până la încheierea contractelor de concesionare a acestor cabinete în baza Hotărârii nr. 49/07.04.2011 a Consiliului local al orașului Ocna Mureș; situația spațiilor cu destinația de cabinete medicale ocupate de medicii special",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-051.pdf",
+     "sha256": "e1663d01f116ade495f4f0e101e7fbabfb116c88cd52fadf6e2dda62d4c840c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-52-2011",
+   "path": "local/alba/ocna-mures/2011/52",
+   "short": "HCL Ocna Mureș nr. 52/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 52/2011 privind aprobarea achiziției publice pentru atribuirea contractului de servicii în vederea executării lucrărilor de “Elaborarea de studii hidrogeotehnice în vederea întocmirii Studiului de fezabilitate pentru Refacerea zonei afectate de surparea de teren din 22.12.2010” având codul CPV – 71351910-5 – servicii de geologie, în exclusivitate pentru terenuri aparținând domeniului public și privat al o",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-052.pdf",
+     "sha256": "141a8550e636089862aa2cdb1699287e3be5b99a3efe6c71df518d6cb3351255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-53-2011",
+   "path": "local/alba/ocna-mures/2011/53",
+   "short": "HCL Ocna Mureș nr. 53/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 53/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-053.pdf",
+     "sha256": "a59bf2ce05739bfcd4aab9a9a606ca776e89da3abb9e76658c2a454eca0b10f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-54-2011",
+   "path": "local/alba/ocna-mures/2011/54",
+   "short": "HCL Ocna Mureș nr. 54/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 54/2011 privind încetarea dreptului de concesiune asupra unui terenuri proprietate privată a orașului Ocna Mureș, prin pieirea bunului concesionat ca urmare a dezastrului natural produs în data de 22.12.2010, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-054.pdf",
+     "sha256": "9f3398c51e7eb703fb5661ae778b0fabc631e16816af8bb0a890fe3896ed2316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-55-2011",
+   "path": "local/alba/ocna-mures/2011/55",
+   "short": "HCL Ocna Mureș nr. 55/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 55/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-055.pdf",
+     "sha256": "927172ca1c6e5373ef11bb2dac51f7ac28e6de68610d810aa5eb224fd678518e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-56-2011",
+   "path": "local/alba/ocna-mures/2011/56",
+   "short": "HCL Ocna Mureș nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 56/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-056.pdf",
+     "sha256": "ac12ba48ce0c337d9ec4445b22dccadd2277f4f1564fc290162eb208207675cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-57-2011",
+   "path": "local/alba/ocna-mures/2011/57",
+   "short": "HCL Ocna Mureș nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 57/2011 privind aprobarea achiziției publice pentru atribuirea contractului de prestări de servicii “Întreținere și reparații iluminat public în orașul Ocna Mureș” având codul CPV – 50232100- 1, prin achiziție directă, criteriul de atribuire aplicat fiind oferta cea mai avantajoasă din punct de vedere economic; aprobarea Documentației de atribuire a contractului în cauză, conform anexei – parte integrantă",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-057.pdf",
+     "sha256": "403180d170990cd50c477d2224f8d6a3d34276199e8ed502927f40030edef6fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-58-2011",
+   "path": "local/alba/ocna-mures/2011/58",
+   "short": "HCL Ocna Mureș nr. 58/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 58/2011 privind aprobarea achiziției publice pentru atribuirea contractului de furnizare de produse “Achiziție produse balastieră (inclusiv transportul) pentru reparații curente străzi pietruite din orașul Ocna Mureș” având codul CPV – 14210000-6 pentru repararea străzilor pietruite din orașul Ocna Mureș, prin achiziție directă, criteriul de atribuire aplicat fiind prețul cel mai scăzut; aprobarea Documen",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-058.pdf",
+     "sha256": "a2eb3334228ffef8dcb74876856cc66991b42391deca8ae53ca1b7802bc7424a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-59-2011",
+   "path": "local/alba/ocna-mures/2011/59",
+   "short": "HCL Ocna Mureș nr. 59/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 59/2011 privind aprobarea achiziției publice pentru atribuirea contractului de executare a lucrărilor de “Lucrări de reparații curente străzi asfaltate și trotuare din orașul Ocna Mureș” având codul CPV – 45233251-3 – Lucrări de reînoire a îmbrăcămintei rutiere, pentru străzile asfaltate și trotuarele din orașul Ocna Mureș, nominalizate în anexa, prin procedura cerere de oferte, criteriul de atribuire apl",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-059.pdf",
+     "sha256": "6f1c509a0a923264bf4a0072bde04c5ce56583e453e237528241b08527a63e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-6-2011",
+   "path": "local/alba/ocna-mures/2011/6",
+   "short": "HCL Ocna Mureș nr. 6/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 6/2011 privind aprobarea, la nivelul orasului Ocna Mures unui PLAN LOCAL DE ACȚIUNE pentru protecția apelor împotriva poluării cu nitrați din surse agricole, conform ANEXEI – parte integranta a prezentei hotarari”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-006.pdf",
+     "sha256": "0d7e66600a282a86ad8ebd4e0addd3a0d0e43fd08cabf37af9adf36e5d5f8c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-60-2011",
+   "path": "local/alba/ocna-mures/2011/60",
+   "short": "HCL Ocna Mureș nr. 60/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 60/2011 privind modificarea și completarea Hotărârilor nr. 22, 27 și 28 adoptate de către Consiliul local al orașului Ocna Mureș în ședința din 28.02.2011, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-060.pdf",
+     "sha256": "ae34deacbd3b1abd54835602fa05d25901cd4d182d4bc439515c2f51c0372e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-61-2011",
+   "path": "local/alba/ocna-mures/2011/61",
+   "short": "HCL Ocna Mureș nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 61/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-061.pdf",
+     "sha256": "63cbdf5d54ad33da31629c9bf71952fdc14b832d25e02e9e9cc66f8f758ab454"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-62-2011",
+   "path": "local/alba/ocna-mures/2011/62",
+   "short": "HCL Ocna Mureș nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 62/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-062.pdf",
+     "sha256": "bdbc52160aa7b8cdfa3d69932778a1a4b678e6bf4a73c91bb2739e98cbb49df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-63-2011",
+   "path": "local/alba/ocna-mures/2011/63",
+   "short": "HCL Ocna Mureș nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 63/2011 privind aprobarea înscrierii, în domeniul privat al orașului Ocna Mureș a terenului proprietate de stat in suprafata de 189 mp, inscris in CF 71409 Ocna Mures, cu nr top 1752/3/1, situat administrativ in Ocna Mures strada 9 Mai, nr 3, județul Alba, în vederea clarificării situației juridice a acestuia, proiect initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-063.pdf",
+     "sha256": "cbf78e057a74aa567a31afb91d38de8647c6967592044dd707cc939ee831f3ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-64-2011",
+   "path": "local/alba/ocna-mures/2011/64",
+   "short": "HCL Ocna Mureș nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 64/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-064.pdf",
+     "sha256": "c9bd32e632c5c3a2539fb605c146feec2983f5ab99515157bc3de5e7f4595e0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-65-2011",
+   "path": "local/alba/ocna-mures/2011/65",
+   "short": "HCL Ocna Mureș nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 65/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-065.pdf",
+     "sha256": "3f213af21fca980cca09d35a6c986c79499f7144a273d7bb23861a2ffd2e249c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-66-2011",
+   "path": "local/alba/ocna-mures/2011/66",
+   "short": "HCL Ocna Mureș nr. 66/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 66/2011 privind aprobarea transmiterii în folosință gratuită a Asociației pensionarilor “Uioreana” din Ocna Mureș, a unor bunuri – construcții și teren – aparținând domeniului privat al orașului Ocna Mureș, proiect initiat de catre primarul orasului Ocna Mures,; Văzând referatul și raportul nr.3730/07.04.2011 ale compartimentului pentru urbanism, tehnic, investiții, disciplina în construcții, spațiu locat",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-066.pdf",
+     "sha256": "e62f007a9edb817130382a206ca1fba2f5c831dcf49cf4ecce82f372c25422a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-67-2011",
+   "path": "local/alba/ocna-mures/2011/67",
+   "short": "HCL Ocna Mureș nr. 67/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 67/2011 privind aprobarea trecerii sectorului de drum cuprins în Programul de „Reabilitare și modernizare-10.000 km. drumuri de interes județean și drumuri de interes local” , din administrarea Orașului Ocna Mureș prin Consiliul local al orașului Ocna Mureș, în administrarea Ministerului Dezvoltării Regionale și Turismului CONSILIUL LOCAL AL ORAȘULUI OCNA MUREȘ, întrunit în ședință ordinara la data de 28",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-067.pdf",
+     "sha256": "959f517a2ddaf5dff7dad74c55820f2df83ca9237bbd94860dc6ba8f2741a2e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-68-2011",
+   "path": "local/alba/ocna-mures/2011/68",
+   "short": "HCL Ocna Mureș nr. 68/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 68/2011 privind aprobarea Caietelor de sarcini în vederea concesionarii unor spații cu destinația de cabinete medicale, în baza Hotărârii nr.49/07.04.2011, conform Anexelor nr.1-15 care fac parte integrantă a prezentei hotărâri, proiect initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-068.pdf",
+     "sha256": "dfbe70bfc93c8dad148f538adb4ca63c14fa239a8ddf0aae99e507224e5b03b9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-7-2011",
    "path": "local/alba/ocna-mures/2011/7",
    "short": "HCL Ocna Mureș nr. 7/2011",
@@ -78,6 +1698,261 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-70-2011",
+   "path": "local/alba/ocna-mures/2011/70",
+   "short": "HCL Ocna Mureș nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 70/2011 privind majorarea, incepand cu data de 01.05.2011, a contributiei personale de intretinere datorata de catre persoanele asistate in Unitatea Medico- Sociala Ocna Mures de la 690 lei/luna la 850 lei/luna, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-070.pdf",
+     "sha256": "f8015fac9336cec699427323f8d56398ae2fc230bf9f3c4aa6cc72bc7b694d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-71-2011",
+   "path": "local/alba/ocna-mures/2011/71",
+   "short": "HCL Ocna Mureș nr. 71/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 71/2011 privind suplimentarea numărului de paturi a Unitatii Medico-Sociale Ocna Mureș; transmiterea, în folosința gratuită a Unității Medico-Sociale Ocna Mureș a unor spații din incinta Spitalului orășenesc Ocna Mureș, în vederea desfășurării, în bune condiții, a activității acestei unități , proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-071.pdf",
+     "sha256": "dce53445e5a5c1c30093282c032776eaf794821d6db6ddfc00f1b816ad41cb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-72-2011",
+   "path": "local/alba/ocna-mures/2011/72",
+   "short": "HCL Ocna Mureș nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 72/2011 privind modificarea Hotărârilor nr. 52 “privind aprobarea achiziției publice pentru atribuirea contractului de servicii în vederea executării lucrărilor de “Elaborarea de studii hidrogeotehnice în vederea întocmirii Studiului de fezabilitate pentru Refacerea zonei afectate de surparea de teren din 22.12.2010” având codul CPV – 71351910-5 – servicii de geologie..” și nr.53 privind aprobarea achiziț",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-072.pdf",
+     "sha256": "4a96c2652153a1fa8df6635dfe0e705e2f0c1b5d8b32ec62172fb9e448a72cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-74-2011",
+   "path": "local/alba/ocna-mures/2011/74",
+   "short": "HCL Ocna Mureș nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 74/2011 privind aprobarea încheierii unui contract de comodat între orașul Ocna Mureș și Centrul de permanență Ocna Mureș, conform anexei-parte integrantă a prezentei hotărâri, proiect inițiat de către primarul orașului Ocna Mureș; Vazand: adresa Centrului de Permanență Ocna Mureș inregistrata la Primăria orașului Ocna Mureș cu nr. 6380/17.05.2011 și referatul și raportul nr.6403/17.05.2011 ale compartime",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-074.pdf",
+     "sha256": "6079773f44872acf8aab1091b7f670f2e252b12eecf88c7005432875ed72dba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-75-2011",
+   "path": "local/alba/ocna-mures/2011/75",
+   "short": "HCL Ocna Mureș nr. 75/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 75/2011 privind modificarea si completarea articolului nr 2 al Hotararii nr 71 a Consiliului local al orasului Ocna Mures din data de 28.04 2011,proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș; Vazand:- referatul si raportul nr.6368/17.05.2011 ale serviciului administratia publica locala, secretariat, juridic, protocol si relatia cu societatea civila; Având în vedere Legea",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-075.pdf",
+     "sha256": "2115833fd992ad7db52dde1f84bbc5caa52582f8db0d7471794fc4a436b6e373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-76-2011",
+   "path": "local/alba/ocna-mures/2011/76",
+   "short": "HCL Ocna Mureș nr. 76/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 76/2011 privind aprobarea acordului de preluare a unitatii sanitare Spitalul orasenesc Ocna Mures de catre S.C Hospital Clinic Dr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-076.pdf",
+     "sha256": "076721709d4b4d3754995852394c5a55d5e845ac6769debe3c2b0ba87cc7ea8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-77-2011",
+   "path": "local/alba/ocna-mures/2011/77",
+   "short": "HCL Ocna Mureș nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 77/2011 privind aprobarea inchirierii, prin licitatie publica, a unui spatiu situat sub biblioteca oraseneasca in suprafata utila de 87 mp inscris in CF 70391-C1-U4 cu nr cadastral/topografic 70391-C1-U4, situat in Ocna Mures, strada N. Iorga, nr 27, pretul minim de pornire al licitatiei fiind 1246 lei/luna, respectiv 14,30 lei/mp/luna, pe o perioada de 5 ani, in vederea desfasurarii de activitati comerci",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-077.pdf",
+     "sha256": "49d6ff6a15cd0f764d606d70c2b6fd935133e53c863db4cd6edc6dc8844c7919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-78-2011",
+   "path": "local/alba/ocna-mures/2011/78",
+   "short": "HCL Ocna Mureș nr. 78/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 78/2011 privind aprobarea organizării, de către Consiliul local al orașului Ocna Mureș, în ziua de 24 iunie 2011, a manifestării cultural-sportive “Cupa Primăriei Ocna Mureș la fotbal” ediția a II-a și alocarea, din bugetul orașului Ocna Mureș pe anul 2011, a sumei de1500 lei pentru desfasurarea evenimentului în cauză, proiect inițiat și înaintat spre aprobare de către dl",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-078.pdf",
+     "sha256": "6d6457ecc3f6bd4b449f6a956a563e7777ff86e1ab052729168e879c2bbe9152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-79-2011",
+   "path": "local/alba/ocna-mures/2011/79",
+   "short": "HCL Ocna Mureș nr. 79/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 79/2011 privind aprobarea concesionarii, prin licitatie publica a unui teren- curti si constructii in suprafata de 10,00 mp, inscris in CF 71435 Ocna Mures, cu nr top 1753/1/2 pe o perioada de 10 ani, situat in Ocna Mures",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-079.pdf",
+     "sha256": "f54c9344fbfedf7955eaa5d619e877d7bf887b7f616c95e24828407d67f984e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-8-2011",
+   "path": "local/alba/ocna-mures/2011/8",
+   "short": "HCL Ocna Mureș nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 8/2011 privind aprobarea prelungirii termenului contractelor de închiriere a unor spații proprietate privată a orașului Ocna Mureș pentru perioada 01.01.2011- 31.12.2011 și încheierea, în acest sens, a actelor adiționale la contractele de închiriere în cauză, conform anexelor 1-11 care fac parte integrantă din prezenta hotărâre, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mu",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-008.pdf",
+     "sha256": "cdf81ad3fc2ffc062156d0deb7c5eb6221cac087a0eb6b8c9a078322635c7db2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-80-2011",
+   "path": "local/alba/ocna-mures/2011/80",
+   "short": "HCL Ocna Mureș nr. 80/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 80/2011 privind aprobarea achiziției publice pentru atribuirea contractului de furnizare de produse “ACHIZIȚIE HÂRTIE – RECHIZITE BIROU (PAPETĂRIE)”, aprobarea Documentației de atribuire pentru atribuirea contractului în cauză, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș. Vazand: referatul nr.6509/19.05.2011 al com",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-080.pdf",
+     "sha256": "48bcb6f699671ec9c708a51129fb4bcdc6487e63d87bce5d10d17de2ff83fd99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-81-2011",
+   "path": "local/alba/ocna-mures/2011/81",
+   "short": "HCL Ocna Mureș nr. 81/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 81/2011 privind aprobarea achiziției publice pentru atribuirea contractului de furnizare de produse “ACHIZIȚIE TONERE ȘI CARTUȘE CERNEALĂ”, aprobarea Documentației de atribuire pentru atribuirea contractului în cauză, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș. Vazand: referatul nr.6580/20.05.2011 al compartimentu",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-081.pdf",
+     "sha256": "be9309cd4791d4d7b3f7029d36b1c6c598ecd99d2a0fc79fc97a81199002b87d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-83-2011",
+   "path": "local/alba/ocna-mures/2011/83",
+   "short": "HCL Ocna Mureș nr. 83/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 83/2011 privind aprobarea desemnării reprezentantului Consiliului local al orașului Ocna Mureș în cauza ce formează obiectul Dosar nr. 606/57/2011 aflat pe rolul Curții de Apel Alba Iulia, proiect inițiat și înaintat spre aprobare de către domnul jr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-083.pdf",
+     "sha256": "2f0da18c4d6d368ebf429663834d4cd581937253a684f09b68025f909dffedd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-85-2011",
+   "path": "local/alba/ocna-mures/2011/85",
+   "short": "HCL Ocna Mureș nr. 85/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 85/2011 privind trecerea din domeniul public al orasului Ocna Mures in domeniul privat la orasului Ocna Mures a apartamentului in suprafata de 50 mp, inscris in CF 70114-C1-U20, nr. topografic 1210/1/12/2/2/2/LXXXI, situat in orasul Ocna Mures, strada Al Independentei, bl.46, ap.81 si vanzarea apartamentului situat in orasul Ocna Mures, strada Al Independentei, bl.46, ap 81 in suprafata de 50 mp, inscris",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-085.pdf",
+     "sha256": "2a72525132d395664ce2ea83ddcf6328e48ecc09f12b6d6bed428ab8c95a0bd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-87-2011",
+   "path": "local/alba/ocna-mures/2011/87",
+   "short": "HCL Ocna Mureș nr. 87/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 87/2011 privind aprobarea studiului de oportunitate privind concesionarea, prin licitatie publica, a unui numar de 11 cabinete medicale., laboratorul de analize medicale si Rx-ul dentar aflate in Policlinica Ocna Mures, “ initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-087.pdf",
+     "sha256": "f887c1db4855635cdd52109f32a0e4b0ae3f8505c84bc60cbbab71d374f74960"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-88-2011",
+   "path": "local/alba/ocna-mures/2011/88",
+   "short": "HCL Ocna Mureș nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 88/2011 privind modificarea anexei nr.1 a Hotararii Consiliului local al oarsului Ocna Mures nr.49 din 07.04.2011 care va avea urmatorul continut: la numarul de ordine nr 10 –spatiul nr 10 cladire Policlinica-cabinet medical sa aiba suprafata de 18,61 mp si pretul de pornire al licitatiei sa fie de 1800 lei/an iar pentru numarul de ordine nr 13-spatiu cladire Policlinica-Radiologie sa aiba suprafata de 40",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-088.pdf",
+     "sha256": "82895ecbf88ec2b39b11d6999c1fc160c09fc10a58885d43647c837de7963ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-89-2011",
+   "path": "local/alba/ocna-mures/2011/89",
+   "short": "HCL Ocna Mureș nr. 89/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 89/2011 privind preluarea in administrarea directa a Consiliului local al orasului Ocna Mures, din administrarea directa a Spitalului orasenesc Ocna Mures, a tuturor bunurilor imobile constructii si terenul aferent acestora in suprafata de 8864 mp, situate in orasul Ocna Mures, strada Axente Sever, nr 43 A, judetul Alba, inscrise in CF nr. 3528- Ocna Mures, avand nr. top. 2092, respectiv SPITALUL SI POLIC",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-089.pdf",
+     "sha256": "e429b3cdebb255a08dea85f45bd53f8b3edb0ed50cd986f660c8b839207cc27f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-9-2011",
    "path": "local/alba/ocna-mures/2011/9",
    "short": "HCL Ocna Mureș nr. 9/2011",
@@ -89,6 +1964,141 @@
      "units": 1,
      "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-009.pdf",
      "sha256": "4471bd803f311406e2357ab6807df12202bd54d53dc4e48885d357fd3d5efc7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-90-2011",
+   "path": "local/alba/ocna-mures/2011/90",
+   "short": "HCL Ocna Mureș nr. 90/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 90/2011 privind aprobarea trecerii din domeniul public al Statului Roman in domeniul privat al orasului Ocna Mures a terenului inscris in CF 70190 Ocna Mures, cu nr top 963/1 si 964/1 in suprafata de 19500 mp situat administrativ in Ocna Mures, str. Fabricii-zona industriala, initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-090.pdf",
+     "sha256": "fd0b616993332f3f0518fb1ff8a5881256ec999a645550bb4450d51fa6fa34e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-91-2011",
+   "path": "local/alba/ocna-mures/2011/91",
+   "short": "HCL Ocna Mureș nr. 91/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 91/2011 privind aprobarea acordarii unei sume de bani, in cuantum de 6000 lei, cu titlu de sprijin financiar, Oficiului Parohial Ortodox Razboieni de pe raza administrativ-teritoriala a orasului Ocna Mures si 5000 lei cu titlu de sprijin financiar Oficiului Parohial Ortodox Uioara de Jos I” inițiat de către dl.primar al orașului Ocna Mureș, VĂZÂND: - referatul si raportul nr.6947/31.05.2011 al serviciului",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-091.pdf",
+     "sha256": "57c6fe4fe10958578d3b5eed7bc5f5af16fa92f313bc18e2ffcdc54577244008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-92-2011",
+   "path": "local/alba/ocna-mures/2011/92",
+   "short": "HCL Ocna Mureș nr. 92/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 92/2011 privind aprobarea trecerii din proprietatea Statului Roman in domeniul public al orasului Ocna Mures a constructiilor Spital cabina portar, statie de oxigen, statie de pompe, garaje si centrala termica si trecerea Policlinicii Ocna Mures din domeniul public al orasului Ocna Mures in domeniul privat al orasului Ocna Mures, constructii inscrise in CF nr 3528 Ocna Mures, cu nr top 2092”., initiat de",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-092.pdf",
+     "sha256": "2e5c6381329856ebaf7ef3ca00d983c60de3e31f2831cf8155c7b1b89e4c5847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-93-2011",
+   "path": "local/alba/ocna-mures/2011/93",
+   "short": "HCL Ocna Mureș nr. 93/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 93/2011 privind majorarea capitalului social al Serviciului public transport persoane Ocna Mures avand cod unic de inregistrare 18527748 inregistrat la Registrul Comertului cu nr Jo1/310/28.03.2006 prin aport in natura cu cele doua microbuze marca IVECO cu nr de inmatriculare AB-o7-DTT numar de identificare ZCFC50A1005601467 respectiv AB-o7-DTU, numar de identificare ZCFC50A1005601937 aflate in proprietat",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-093.pdf",
+     "sha256": "74155b086b3996a91178a6eb72ed4bb6029671da5d459a2bfebea126d5c37852"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-94-2011",
+   "path": "local/alba/ocna-mures/2011/94",
+   "short": "HCL Ocna Mureș nr. 94/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 94/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-094.pdf",
+     "sha256": "8a2f81581ff10dcb3d86e060906a54cc38577c15ed3bc0e60168f854aa9831c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-95-2011",
+   "path": "local/alba/ocna-mures/2011/95",
+   "short": "HCL Ocna Mureș nr. 95/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 95/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-095.pdf",
+     "sha256": "18f39250de3a7781e2ec5d4e444bc126577640a5c537c5a91876eb32dd92fa22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-96-2011",
+   "path": "local/alba/ocna-mures/2011/96",
+   "short": "HCL Ocna Mureș nr. 96/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 96/2011 privind aprobarea inscrierii in domeniul privat al orasului Ocna Mures a terenului proprietate de stat situat in localitatea Ocna Mures, sat Razboieni Cetate, strada Garii, nr 229T, jud. Alba, inscris in CF-71393 Ocna Mures , cu nr top 359/2/21 in suprafata de 700 mp., în vederea clarificării situației juridice a acestuia. a, initiat de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-096.pdf",
+     "sha256": "bbd7215cdaca24c9038c16a9ac8c7d483eb1b7a9eea4b01dead757c26723c13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-97-2011",
+   "path": "local/alba/ocna-mures/2011/97",
+   "short": "HCL Ocna Mureș nr. 97/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 97/2011 privind aprobarea achiziției publice pentru atribuirea contractului de furnizare de produse “ACHIZITIE UNIFORME POLITIA LOCALA”, COD CPV 35811200-4, aprobarea Documentației de atribuire pentru atribuirea contractului în cauză, conform anexei – parte integrantă a prezentei hotărâri, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș. Vazand: referatul nr.7246/07.06.2011",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-097.pdf",
+     "sha256": "7231d3855e15ea3156c2145ce515ac6cc73e78d0a45408d22b93bfaf433220bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-98-2011",
+   "path": "local/alba/ocna-mures/2011/98",
+   "short": "HCL Ocna Mureș nr. 98/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 98/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-098.pdf",
+     "sha256": "36c6e2036f4f37fb3a00db7b2ae8091c859f78ae7dffab333979fe13e69bc68f"
     }
    ]
   },

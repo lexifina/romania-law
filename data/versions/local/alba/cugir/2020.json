@@ -3,6 +3,156 @@
  "shard": "local/alba/cugir/2020",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-180-2020",
+   "path": "local/alba/cugir/2020/180",
+   "short": "HCL Cugir nr. 180/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 180/2020",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P120",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.180_-_Evaluare_obiective_si_criterii_performanta_CA_Ocolul_Sapcea_.doc",
+     "sha256": "76416a5d9d7a1ef8fc9d3949956e5d11e400e9841975a6a258d7b3713937609c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-181-2020",
+   "path": "local/alba/cugir/2020/181",
+   "short": "HCL Cugir nr. 181/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 181/2020 privind aprobarea Raportului anual al autorității tutelare în ce privește întreprinderile publice aflate în subordinea Consiliului Local Cugir pe anul 2019, conform art. 58 din OUG nr. 109/2011 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară”, desfășurată la distanță, din data de 27 august 2020; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Rap",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P120",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.181_-_Aprobare_Raport_anual_al_autoritatii_tutelare_aferent_anului_2019_.doc",
+     "sha256": "20cb9f33691f6d7fdb3f3372679a3ba17fdf7ff7af9b8cff1fb980d14adc2944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-234-2020",
+   "path": "local/alba/cugir/2020/234",
+   "short": "HCL Cugir nr. 234/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 234/2020 privind aprobarea cuantumului cotizației Orașului Cugir, pentru anul 2020, datorate Asociației de Dezvoltare Intercomunitară SALUBRIS ALBA Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică extraordinară cu convocare de îndată, desfășurată la distanță, în data de 24 septembrie 2020; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea cuantumului cotizației Orașul",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P80",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.234_-_Aprobare_cuantum_indemnizatie_A_.D_.I_._SALUBRIS_ALBA_.doc",
+     "sha256": "1da533f0c82b89d434de5f52e2295f11def409fc994a0a9f3428d9ec697daf88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-235-2020",
+   "path": "local/alba/cugir/2020/235",
+   "short": "HCL Cugir nr. 235/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 235/2020",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P80",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P80",
+     "sha256": "dcddf6d7b61b2a2e40f8ad06139240bf3277e8738aae9b0080d7f517ac22ebda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-238-2020",
+   "path": "local/alba/cugir/2020/238",
+   "short": "HCL Cugir nr. 238/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 238/2020 privind darea în folosință gratuită a imobilului – Cimitirul Comunal Vinerea aparținând domeniului public al orașului Cugir, până la aprobarea modalității de gestiune a serviciului de administrare Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică extraordinară cu convocare de îndată, desfășurată la distanță, în data de 24 septembrie 2020; Luând în dezbatere: -Proiectul d",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P60",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.238_-_dare_in_folosinta_gratuita_cimitir_Parohia_Vinerea_II_.doc",
+     "sha256": "c046fd81dc071a1dd87096ec0007d88c00792d54eec45d4817c6a129fc43d3e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-240-2020",
+   "path": "local/alba/cugir/2020/240",
+   "short": "HCL Cugir nr. 240/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 240/2020 Privind însușirea Rapoartelor de evaluare și aprobarea trecerii din domeniul public în domeniul privat pentru Instalație termică - Clădire sediu Primărie și Instalație termică - Clădire sediu Serviciu Evidența persoanelor, în vederea valorificării Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică extraordinară cu convocare de îndată, desfășurată la distanță, în data de 2",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P60",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.240_-_modificare_dom_public_centrale_termice_Sediu_Primarie_si_Ev_.Pers_..doc",
+     "sha256": "56f0fe760dc0b1c966e09ba66615a2e7f9ff956204ccf5a32ab46d7da597ea9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-247-2020",
+   "path": "local/alba/cugir/2020/247",
+   "short": "HCL Cugir nr. 247/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 247/2020 privind transportul elevilor",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P60",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.247_-_Aprobarea_procedurii_de_decontare_a_cheltuielilor_privind_transportul_elevilor_.doc",
+     "sha256": "da6910c448d46dd220e37fe54f770a5f4f30e70c258a24ae2dccec8fd6eb0e78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-277-2020",
+   "path": "local/alba/cugir/2020/277",
+   "short": "HCL Cugir nr. 277/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 277/2020",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P40",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P40",
+     "sha256": "3e00e2595df135662c2878bdce0234884c3ac478695bef746b9fe90f05561bdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-279-2020",
+   "path": "local/alba/cugir/2020/279",
+   "short": "HCL Cugir nr. 279/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 279/2020 privind însușirea Raportului de expertiză tehnică judiciară, depus de reclamanta Moscu Rodica în dosarul civil nr. 3305/176/2019 aflat pe rolul Judecătoriei Alba Iulia Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată la distanță, din data de 10 noiembrie 2020; Luând în dezbatere: -Proiectul de hotărâre privind însușirea Raportului de experti",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P20",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.279_-_insusire_raport_expertiza_Moscu_Rodica_.docx",
+     "sha256": "3066328f6a3cb297d7fcfc63db6bd3e2f8ac1b45922dbc53f0f229ae39721c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-281-2020",
+   "path": "local/alba/cugir/2020/281",
+   "short": "HCL Cugir nr. 281/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 281/2020 privind desemnarea reprezentanților Consiliului Local al Orașului Cugir în Comisiile pentru evaluarea și asigurarea calității din cadrul unităților de învățământ preuniversitar de pe raza administrativ-teritorială a Orașului Cugir, pentru anul școlar 2020-2021 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată la distanță, din data de 10 noiem",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44/P20",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.281_-_desemnare_reprez_.Comisii_asig_.calitatii_invatamant_.doc",
+     "sha256": "28867b61e8018ad9aba2d2ff6f9728bd2a1348e30f2ce089109619c0084ecc74"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-306-2020",
    "path": "local/alba/cugir/2020/306",
    "short": "HCL Cugir nr. 306/2020",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2010",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-12-2010",
+   "path": "local/alba/ocna-mures/2010/12",
+   "short": "HCL Ocna Mureș nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 12/2010 privind repartizarea excedentului rezultat la finele anului 2010, in suma de 941 mii lei”, initiat si inaintat spre aprobare de catre primarul orasului Ocna Mures, prof",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+   "versions": [
+    {
+     "from": "2010-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaocnamures.ro/consiliul-local/hotarari/2011/HCL-012.pdf",
+     "sha256": "53ae7ae637e176c5203c5442d3bccb05b588a57d92f81151a82e2ab71b3c5f87"
+    }
+   ]
+  }
+ ]
+}

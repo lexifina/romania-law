@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-alba--pianu-26-2023",
+"path": "local/alba/pianu/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 26/2023",
+"short": "HCL Pianu nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-16",
+"latest": "2023-03-16",
+"portal": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--pianu-103-2023",
 "path": "local/alba/pianu/2023/103",
 "kind": "local",

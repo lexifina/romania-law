@@ -3,6 +3,138 @@
 "shard": "local/alba/miraslau/2025",
 "acts": [
 {
+"slug": "hcl-alba--miraslau-49-2025",
+"path": "local/alba/miraslau/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 49/2025",
+"short": "HCL Mirăslău nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+"council": "alba/miraslau",
+"council_name": "Consiliul Local al Comunei Mirăslău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--miraslau-50-2025",
+"path": "local/alba/miraslau/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 50/2025",
+"short": "HCL Mirăslău nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+"council": "alba/miraslau",
+"council_name": "Consiliul Local al Comunei Mirăslău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--miraslau-51-2025",
+"path": "local/alba/miraslau/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 51/2025",
+"short": "HCL Mirăslău nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+"council": "alba/miraslau",
+"council_name": "Consiliul Local al Comunei Mirăslău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--miraslau-52-2025",
+"path": "local/alba/miraslau/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 52/2025",
+"short": "HCL Mirăslău nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+"council": "alba/miraslau",
+"council_name": "Consiliul Local al Comunei Mirăslău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--miraslau-53-2025",
+"path": "local/alba/miraslau/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 53/2025",
+"short": "HCL Mirăslău nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+"council": "alba/miraslau",
+"council_name": "Consiliul Local al Comunei Mirăslău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--miraslau-54-2025",
+"path": "local/alba/miraslau/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 54/2025",
+"short": "HCL Mirăslău nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+"council": "alba/miraslau",
+"council_name": "Consiliul Local al Comunei Mirăslău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--miraslau-55-2025",
 "path": "local/alba/miraslau/2025/55",
 "kind": "local",

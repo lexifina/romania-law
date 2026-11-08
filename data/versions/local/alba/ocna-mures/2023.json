@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2023",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-2-2023",
+   "path": "local/alba/ocna-mures/2023/2",
+   "short": "HCL Ocna Mureș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 2/2023 privind aprobarea normativului propriu de cheltuieli pentru consumul lunar de carburanți pentru autoturismele și utilajele aflate în proprietatea orașului Ocna Mureș, pentru anul 2023 CONSILIUL LOCAL AL ORAȘULUI OCNA MUREȘ, întrunit în ședință publică extraordinară cu convocare de îndată, la data de 05.01.2023 ca urmare a emiterii dispoziției de convocare nr. 1/05.01.2023, de către primarul orașul",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2023/02/Hot-2.pdf",
+     "sha256": "f134945e8ca92a0536612e2561ec80be1751d4158bebe36ae356f4073624aa68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-4-2023",
+   "path": "local/alba/ocna-mures/2023/4",
+   "short": "HCL Ocna Mureș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 4/2023 privind aprobarea participării proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din orașul Ocna Mureș”, în cadrul Planului Național de Redresare și Reziliență, Pilonul VI",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2023/02/Hot-4.pdf",
+     "sha256": "85da22f64aa8d53528929b09ac50d1103e173a80c340b7e0dcf5b4f7f690abcb"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2023",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-2-2023",
+"path": "local/alba/ocna-mures/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 2/2023 privind aprobarea normativului propriu de cheltuieli pentru consumul lunar de carburanți pentru autoturismele și utilajele aflate în proprietatea orașului Ocna Mureș, pentru anul 2023 CONSILIUL LOCAL AL ORAȘULUI OCNA MUREȘ, întrunit în ședință publică extraordinară cu convocare de îndată, la data de 05.01.2023 ca urmare a emiterii dispoziției de convocare nr. 1/05.01.2023, de către primarul orașul",
+"short": "HCL Ocna Mureș nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2023/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-4-2023",
+"path": "local/alba/ocna-mures/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 4/2023 privind aprobarea participării proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din orașul Ocna Mureș”, în cadrul Planului Național de Redresare și Reziliență, Pilonul VI",
+"short": "HCL Ocna Mureș nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2023/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

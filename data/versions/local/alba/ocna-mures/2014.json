@@ -3,6 +3,186 @@
  "shard": "local/alba/ocna-mures/2014",
  "acts": [
   {
+   "slug": "hcl-alba--ocna-mures-1-2014",
+   "path": "local/alba/ocna-mures/2014/1",
+   "short": "HCL Ocna Mureș nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 1/2014 privind aprobarea încheierii unui act adiţional la Contractul de Asociere nr 12553 din 01.08.2013 încheiat în baza HCLOM nr 128/31.07.2013 | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-1.pdf",
+     "sha256": "44f48b17b8c80ee8433b539851e415a6126515d777ffb0a0b783dc2fb153e6d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-10-2014",
+   "path": "local/alba/ocna-mures/2014/10",
+   "short": "HCL Ocna Mureș nr. 10/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 10/2014 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 10 ani, a imobilului situat în Ocna Mureş, str. 9 Mai, nr 1A, jud. Alba, pentru amplasarea unui chioşc cu scop comercial, cu structură elastică, demontabil | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-10.pdf",
+     "sha256": "9ba59206f44bb5353b57f74863eaa8d965aba6861d42a238c10175827050dc6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-100-2014",
+   "path": "local/alba/ocna-mures/2014/100",
+   "short": "HCL Ocna Mureș nr. 100/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 100/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-100.pdf",
+     "sha256": "b987ed6dd7d9559462a2d823c49c1e7d290216d4e66b082ee63465ac1af13ffb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-101-2014",
+   "path": "local/alba/ocna-mures/2014/101",
+   "short": "HCL Ocna Mureș nr. 101/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 101/2014 privind aprobarea Planului de organizare a reţelei şcolare de pe raza administrativ-teritorială a Oraşului Ocna Mureş, pentru anul şcolar 2014 – 2015 | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-101.pdf",
+     "sha256": "93e30ceaee1d41f265b7b03328888b226837c9d06f322dbba7d1e38890f0acb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-103-2014",
+   "path": "local/alba/ocna-mures/2014/103",
+   "short": "HCL Ocna Mureș nr. 103/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 103/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-103.pdf",
+     "sha256": "2047a72237f22cc61bc77c5190e9e488d4c4768fd3c21fbb092a7d4bbca9d892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-104-2014",
+   "path": "local/alba/ocna-mures/2014/104",
+   "short": "HCL Ocna Mureș nr. 104/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 104/2014 privind reîncadrarea pe zone a străzilor din oraşul Ocna Mureş, începând cu anul 2015 | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-104.pdf",
+     "sha256": "e3ecf5e890ee5be6658e56ae771ae0493140afe68b473566a00dcf35c304cbf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-105-2014",
+   "path": "local/alba/ocna-mures/2014/105",
+   "short": "HCL Ocna Mureș nr. 105/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 105/2014 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de concesiune nr. 8843/23.10.2002 | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-105.pdf",
+     "sha256": "397e86e6575024343b424255d01f570e6f07b0475a51c69794feee19b232a2f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-106-2014",
+   "path": "local/alba/ocna-mures/2014/106",
+   "short": "HCL Ocna Mureș nr. 106/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 106/2014 pentru repartizarea locuinţelor sociale din blocul 6 ABC şi încheierea contractelor de închiriere cu locatarii | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-106.pdf",
+     "sha256": "efc110331afb46b33d133f3a2bf9911e8218536b12d198b47d39f7b9f96825cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-107-2014",
+   "path": "local/alba/ocna-mures/2014/107",
+   "short": "HCL Ocna Mureș nr. 107/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 107/2014 privind înscrierea în domeniul privat a imobilului-teren, inscris in CF. 72885 Ocna Mureş, cu nr top 868/2, 869-casă şi grădină în suprafaţă de 1178 mp, în cotă de 1/8 părţi | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-107.pdf",
+     "sha256": "8187a984f8f8511761a83d8ed7fb38759278abf2b7e02687f2fd89a3a90cbddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-108-2014",
+   "path": "local/alba/ocna-mures/2014/108",
+   "short": "HCL Ocna Mureș nr. 108/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 108/2014 privind înscrierea în domeniul privat a imobilului-teren, inscris in CF. 72121 Ocna Mureş (provenită din conversia de pe hârtie a CF nr 129 Războieni), cu nr top 359/2/8 în suprafaţă de 700 mp | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-108.pdf",
+     "sha256": "943ebe266b1a654163f77dd71243b9027c0b82364d960a2927cdc499fbdbade5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-109-2014",
+   "path": "local/alba/ocna-mures/2014/109",
+   "short": "HCL Ocna Mureș nr. 109/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 109/2014 Privind rectificarea bugetului local pe anul 2014 conform anexei nr. 1,modificarea listei de investiţii conform anexei nr. 2 şi aprobarea necesarului de burse pentru semestrul II 2014. | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-109.pdf",
+     "sha256": "72e550ffcc4a30a2473f5acd3b5ae1230140fe2a4bd7ec4086ed96c010da8c6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-11-2014",
+   "path": "local/alba/ocna-mures/2014/11",
+   "short": "HCL Ocna Mureș nr. 11/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 11/2014 privind încetarea concesiunii terenului înscris în CF nr 3879 Ocna Mureş, nr.cad/top. 1210/1/12/2/2/1 în suprafaţă de 24 mp, situat în Ocna Mureş, str. Al. Independenţei, loc nr. 2, judeţul Alba, prin renunţarea concesionarului Spinean Dacian-Ioan | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-11.pdf",
+     "sha256": "e526336249c0781959cfcbf78530833f2cd8d2e541f45b17a7a852341d05115e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-110-2014",
    "path": "local/alba/ocna-mures/2014/110",
    "short": "HCL Ocna Mureș nr. 110/2014",
@@ -14,6 +194,261 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-110.pdf",
      "sha256": "f76eae6791d8a50be911d3c58c5f57d738636eba9cb5399a25db2a233835d3ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-12-2014",
+   "path": "local/alba/ocna-mures/2014/12",
+   "short": "HCL Ocna Mureș nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 12/2014 pentru urbanism, tehnic, investiții, disciplina în construcții, spațiu locativ și avizele comisiilor de specialitate ale consiliului local, coroborate cu art. 861 alin.(3), art. 871-873 din Codul civil nou, Legea nr.213/17.11.1998 privind bunurile proprietate publică, actualizată, O.U.G nr 54/28.06.2006 privind regimul contractelor de concesiune de bunuri proprietate publică,cu modificările și com",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-12.pdf",
+     "sha256": "79ed0ed3063c7c4181521812614190f883cd2edb94f69ccbefb6e0b90b739c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-120-2014",
+   "path": "local/alba/ocna-mures/2014/120",
+   "short": "HCL Ocna Mureș nr. 120/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 120/2014 privind modificarea şi completarea ORGANIGRAMEI şi a STATULUI DE FUNCŢII ale personalului de specialitate al Primarului oraşului Ocna Mureş şi ale serviciilor subordonate Consiliului local Ocna Mureş | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-120.pdf",
+     "sha256": "8285d117e103da13ad9378062c6ed38e2f486c89b4107da9f0ac7e76cf05c187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-121-2014",
+   "path": "local/alba/ocna-mures/2014/121",
+   "short": "HCL Ocna Mureș nr. 121/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 121/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-121.pdf",
+     "sha256": "5eec8c05b7cb9db7aa8b5835c24561ad543a5d7472c6f13e701a5a6fd1a84899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-122-2014",
+   "path": "local/alba/ocna-mures/2014/122",
+   "short": "HCL Ocna Mureș nr. 122/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 122/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-122.pdf",
+     "sha256": "1e53234127e48aa2fa86129304486e0d84a813a7caf3987995d8ed520b389235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-123-2014",
+   "path": "local/alba/ocna-mures/2014/123",
+   "short": "HCL Ocna Mureș nr. 123/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 123/2014 privind aprobarea managementului traficului rutier pentru zona străzilor Dr",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-123.pdf",
+     "sha256": "f03d75a8cfd01911dce82474de9316705608fd902e24d035d311fc69d9c4e96f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-124-2014",
+   "path": "local/alba/ocna-mures/2014/124",
+   "short": "HCL Ocna Mureș nr. 124/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 124/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-124.pdf",
+     "sha256": "bfad5ba334168e96eef874e6b39989c82c0e706adfc0c23c0b3e2037f89f76d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-125-2014",
+   "path": "local/alba/ocna-mures/2014/125",
+   "short": "HCL Ocna Mureș nr. 125/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 125/2014 privind aprobarea documentaţiei (Proiect tehnic, Caiete de sarcini, Listele de cantităţi de lucrări) pentru lucrarea de interes public local “Amenajarea parcului oraşului Ocna Mureş” | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-125.pdf",
+     "sha256": "dbe9233a0fabaef16c05fd5cf028df8215dbb4bb90a39d9a6c7dc0b46a6679fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-126-2014",
+   "path": "local/alba/ocna-mures/2014/126",
+   "short": "HCL Ocna Mureș nr. 126/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 126/2014 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 49 de ani, a terenului în suprafaţă de 923 m.p. proprietate privată a oraşului Ocna Mureş, situat în Ocna Mureş , str. Digului, nr 2A, jud. Alba, pentru amenajarea unei parcări private | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-126.pdf",
+     "sha256": "8df3c35ff316361d7d0bcc2c82b15000f971207de1164399bf89f09d2d210b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-127-2014",
+   "path": "local/alba/ocna-mures/2014/127",
+   "short": "HCL Ocna Mureș nr. 127/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 127/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-127.pdf",
+     "sha256": "7a18cbc754061998397a9d47964ff1d479f0dfe5c2d38a5db24ec72c3eff66d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-128-2014",
+   "path": "local/alba/ocna-mures/2014/128",
+   "short": "HCL Ocna Mureș nr. 128/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 128/2014 privind aprobarea unor acte necesare organizării şi funcţionării Unităţii Medico-Sociale aflate în subordinea Consiliul local al oraşului Ocna Mureş | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-128.pdf",
+     "sha256": "9aa8e9acc96a909e5e5675d939c497388d66a5b6e4c0117698c6584a99d037be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-129-2014",
+   "path": "local/alba/ocna-mures/2014/129",
+   "short": "HCL Ocna Mureș nr. 129/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 129/2014 privind aprobarea achiziţiei de „Lucrări de reparare şi amenajare a clădirii Primăriei, cod CPV:45453000-7 lucrări de reparaţii generale şi de renovare” | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-129.pdf",
+     "sha256": "f5511549041dc012788e24de5f0b38438ca17a9dc1ef6885df8eb24e0386fab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-13-2014",
+   "path": "local/alba/ocna-mures/2014/13",
+   "short": "HCL Ocna Mureș nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 13/2014 privind casarea fără valorificare a reţelei de apă potabilă potabilă ce fac parte din domeniul public al oraşului Ocna Mureş, cuprinse in anexa nr 1; înscrierea în domeniul public al oraşului Ocna Mureş a reţelelor de apă potabilă executate din fonduri IID, cuprinse în anexa nr 2. | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-13.pdf",
+     "sha256": "5f46ca657af06a46e8e43ed26e38c4294aa3fe5c0cc95ef3aba1042ecd626e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-130-2014",
+   "path": "local/alba/ocna-mures/2014/130",
+   "short": "HCL Ocna Mureș nr. 130/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 130/2014 privind aprobarea achiziţiei de produse „Programe informatice – aplicaţie informatică pentru registrul agricol, cod CPV:48622000-4 – pachete software pentru baze de date” | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-130.pdf",
+     "sha256": "ccbec55d00e44f8d5b76ddadeb2790d658d1cb86d55d03d4943c9483fd90b5f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-131-2014",
+   "path": "local/alba/ocna-mures/2014/131",
+   "short": "HCL Ocna Mureș nr. 131/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 131/2014 privind aprobarea achiziţiei de „Lucrări de modernizare a Parcului oraşului Ocna Mureş, cod CPV:45112710-5 lucrări de arhitectură peisagistică a spaţiilor verzi” | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-131.pdf",
+     "sha256": "ea1285c011ceecf9d8b50ad2bd59d9f7eb1a614cee51676b797365eca161b2c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-132-2014",
+   "path": "local/alba/ocna-mures/2014/132",
+   "short": "HCL Ocna Mureș nr. 132/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 132/2014 privind aprobarea achiziţiei de servicii „Proiectare lucrări de modernizare Cămin Cultural Războieni, cod CPV:74222100-2 servicii de arhitectură pentru construcţii” | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-132.pdf",
+     "sha256": "b25d0db7d52c7591eeaab12064207ede0821f8f00fe44dcb990ccf4fdc7ecce5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-133-2014",
+   "path": "local/alba/ocna-mures/2014/133",
+   "short": "HCL Ocna Mureș nr. 133/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 133/2014 privind accesul, pe drumurile publice din oraşul Ocna Mureş, a autovehiculelor cu masa totală maximă autorizată mai mare de 7,5 tone, în baza autorizaţiei de acces | 23.07.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-133.pdf",
+     "sha256": "e96083df42aacbe84bdee8f2a28f9688540412d0d6325700b21c78a18e03697c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-134-2014",
+   "path": "local/alba/ocna-mures/2014/134",
+   "short": "HCL Ocna Mureș nr. 134/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 134/2014 privind aprobarea plăţii, din bugetul oraşului Ocna Mureş capitol 67.02.50, art. 20.30.30. a sumei de 1.500 lei necesară acoperirii parţiale a cheltuielilor de transport ocazionate de deplasarea Ansamblului Folcloric „TRADIŢII UIORENE” al Casei de Cultură a Oraşului Ocna Mureş în localitatea Eforie Sud, judeţul Constanţa, pentru participarea, în numele Oraşului Ocna Mureş, la Festivalul de Folclor",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-134.pdf",
+     "sha256": "444f5714f870fb70a44392b864032909c0055b7fddc9f4df6e7be14d458534bc"
     }
    ]
   },
@@ -33,6 +468,666 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-136-2014",
+   "path": "local/alba/ocna-mures/2014/136",
+   "short": "HCL Ocna Mureș nr. 136/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 136/2014 privind aprobarea înscrierii, în domeniul privat al oraşului Ocna Mureş a imobilului apartament proprietate de stat în suprafață de 48,66 mp înscris în CF 70002-C1-U18 Ocna Mureș, (nr. CF vechi: 3453 –Uioara de Sus) cu nr. top 1210/1/8/4/VI, apartament nr. 6, situat administrativ în Ocna Mureș str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-136.pdf",
+     "sha256": "d066acf9c47803010fbf0e316d9326f1da988a2ec247dea67a914e3236c51638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-137-2014",
+   "path": "local/alba/ocna-mures/2014/137",
+   "short": "HCL Ocna Mureș nr. 137/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 137/2014 privind aprobarea încheierii unui acord de parteneriat înregistrat sub nr. 8903 din 03 iulie 2014, încheiat între Liceul tehnologic Ocna Mureş, având sediul în oraşul Ocna Mureş, str Colonia Peste Mureş, nr 9, jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-137.pdf",
+     "sha256": "e574ff520fdd8bde9aa201006b11ffb0400fe25c05ce2df6530e4b88523b335f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-138-2014",
+   "path": "local/alba/ocna-mures/2014/138",
+   "short": "HCL Ocna Mureș nr. 138/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 138/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-138.pdf",
+     "sha256": "69ca3940bd2ca2542aaf9333899e71d02e09fe0c2784e4bed66ad85620a908b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-139-2014",
+   "path": "local/alba/ocna-mures/2014/139",
+   "short": "HCL Ocna Mureș nr. 139/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 139/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-139.pdf",
+     "sha256": "af21b36fb622c8258bb01485134d701d554d40b7dd40c727069bb41479852621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-14-2014",
+   "path": "local/alba/ocna-mures/2014/14",
+   "short": "HCL Ocna Mureș nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 14/2014 privind încetarea concesiunii asupra terenului înscris în CF nr 1059-Uioara de Sus, cu nr cad/top 1210/1/8/2 în suprafaţă de 31 mp, situat în Ocna Mureş, str.Al.Independenţei, nr 6 (în spatele blocului 28), judeţul Alba, prin renunţarea concesionarului | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-14.pdf",
+     "sha256": "229ea588cac502d6502b933b5a282ca74ea1154078b0c546f4866b60e574e415"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-140-2014",
+   "path": "local/alba/ocna-mures/2014/140",
+   "short": "HCL Ocna Mureș nr. 140/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 140/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-140.pdf",
+     "sha256": "87af79ab95a88d60810b1431fe945a0cf84320bf9389bc3bf4b9440bcd91c862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-141-2014",
+   "path": "local/alba/ocna-mures/2014/141",
+   "short": "HCL Ocna Mureș nr. 141/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 141/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-141.pdf",
+     "sha256": "d4c882583f366f76b88ae27b84b26f3bf7197ac86ea2f5942fe34298e44aa3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-142-2014",
+   "path": "local/alba/ocna-mures/2014/142",
+   "short": "HCL Ocna Mureș nr. 142/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 142/2014 privind aprobarea schemei de ajutor de minimis, în vederea acordării de înlesniri la plata obligaţiilor fiscale accesorii (majorări de întârziere) aferente obligaţiilor fiscale principale neachitate la termen, datorate bugetului oraşului Ocna Mureş de către persoane juridice de pe raza UAT Ocna Mures | 18.08.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-142.pdf",
+     "sha256": "9d12da3c92f99c9b9dfcaaccb439dc01757c98279ac4b66d565a883a0dc32e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-143-2014",
+   "path": "local/alba/ocna-mures/2014/143",
+   "short": "HCL Ocna Mureș nr. 143/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 143/2014 privind aprobarea desfăşurării sărbătorii locale „Zilele oraşului Ocna Mureş” în perioada 16-17 august 2014 | 18.08.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-143.pdf",
+     "sha256": "acca891569f9a382dd7167b84a051cad5d2ab16f9257f91c73ffa622d1da194f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-144-2014",
+   "path": "local/alba/ocna-mures/2014/144",
+   "short": "HCL Ocna Mureș nr. 144/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 144/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-144.pdf",
+     "sha256": "de48c1e7220b0a108546b6e346447c879375ab92792353311eb85a501a920953"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-145-2014",
+   "path": "local/alba/ocna-mures/2014/145",
+   "short": "HCL Ocna Mureș nr. 145/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 145/2014 pentru aprobarea încheierii unui act adiţional la Protocolul de colaborare/prestări servicii de ecarisaj nr. 2367/19.02.2014 încheiat cu Asociaţia Centrul de Ecarisaj Turda | 18.08.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-145.pdf",
+     "sha256": "d780c7d2c5d27aa58ddc12be545f95afa3817b49f8b8a4ca93e8175c35b5b544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-146-2014",
+   "path": "local/alba/ocna-mures/2014/146",
+   "short": "HCL Ocna Mureș nr. 146/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 146/2014 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de concesiune nr. 13242/15.10.2010 | 18.08.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-146.pdf",
+     "sha256": "c708f5e9680f427655cfa910ba9e96fd8a3d03f1bac4e46b25d9f00caed0810c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-147-2014",
+   "path": "local/alba/ocna-mures/2014/147",
+   "short": "HCL Ocna Mureș nr. 147/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 147/2014 privind modificarea şi completarea Organigramei şi a Statului de funcţii ale Clubului Sportiv Ocna Mureş, persoană juridică română de drept public | 18.08.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-147.pdf",
+     "sha256": "c206b5f245eed587f2001016d9fba50a243d15a441f093a2d56b768ee10d066a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-148-2014",
+   "path": "local/alba/ocna-mures/2014/148",
+   "short": "HCL Ocna Mureș nr. 148/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 148/2014 privind rectificarea bugetului de venituri si cheltuieli al oraşului Ocna Mureş pe anul 2014 | 18.08.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-148.pdf",
+     "sha256": "7c1c873c95447c51562bca7f3997515a4cbf17a273fef24f114190d9ae2c3cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-149-2014",
+   "path": "local/alba/ocna-mures/2014/149",
+   "short": "HCL Ocna Mureș nr. 149/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 149/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-149.pdf",
+     "sha256": "47f0aee9e305483d83f24a7aa29994d0d58a98a8424899c6d0a985f245d6ca08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-15-2014",
+   "path": "local/alba/ocna-mures/2014/15",
+   "short": "HCL Ocna Mureș nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 15/2014 privind înscrierea, în domeniul privat al oraşului Ocna Mureş a imobilelor prprietate de stat în suprafata de 787 mp (nr CF vechi 628) inscris in CF 72794 Ocna Mures, cu nr top 1238 şi 1239, casă, magazie şi curte, situat administrativ in Ocna Mures str. M. Viteazul, nr. 41, jud. Alba, în care a funcţionat dispensarul veterinar. | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-15.pdf",
+     "sha256": "b5bba629306b5deb042a3b89bcd8578b90654f6b2062787e00844bdf8270d65e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-150-2014",
+   "path": "local/alba/ocna-mures/2014/150",
+   "short": "HCL Ocna Mureș nr. 150/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 150/2014 Privind constituirea dreptului de administrare în favoarea Consiliului Judeţean Alba, asupra imobilului-rampă de gunoi şi a terenului aferent , aflat în proprietate publică a oraşului Ocna Mureş | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-150.pdf",
+     "sha256": "cac1b7270529b166ea65afeef52498e54d343c2fee43aa9604fcc99993153e06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-152-2014",
+   "path": "local/alba/ocna-mures/2014/152",
+   "short": "HCL Ocna Mureș nr. 152/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 152/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-152.pdf",
+     "sha256": "636309e60848157086677ab4622e448a35ea17f19fcb3891629029f0104ba70f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-153-2014",
+   "path": "local/alba/ocna-mures/2014/153",
+   "short": "HCL Ocna Mureș nr. 153/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 153/2014 privind aprobarea achiziţiei publice „Dirigenţie şantier lucrări amenajare parc oraş Ocna Mureş” cod CPV 71520000-9 , prin procedura „achiziţie directă” criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-153.pdf",
+     "sha256": "4e8bcf767250e1e4794b22002e08fd018916b4d9031da4e038c8b9c0f26766d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-154-2014",
+   "path": "local/alba/ocna-mures/2014/154",
+   "short": "HCL Ocna Mureș nr. 154/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 154/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-154.pdf",
+     "sha256": "b0b3aae79ac73f4323c5a08c337820e72cf48a0c170a294bed9b778ba876c2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-155-2014",
+   "path": "local/alba/ocna-mures/2014/155",
+   "short": "HCL Ocna Mureș nr. 155/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 155/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-155.pdf",
+     "sha256": "77ae4d5111faf1e8f5db7bf32b422c7fc9df4cea99be2d4e83d8e058147eb084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-156-2014",
+   "path": "local/alba/ocna-mures/2014/156",
+   "short": "HCL Ocna Mureș nr. 156/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 156/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-156.pdf",
+     "sha256": "69ad418c2e8ce2d63468e90f7601ea13deeb00328bedfcdf71601396f424e4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-157-2014",
+   "path": "local/alba/ocna-mures/2014/157",
+   "short": "HCL Ocna Mureș nr. 157/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 157/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-157.pdf",
+     "sha256": "f8503e962a28ac7bea7a2be5859c03be8bb389ddb80f178d537b5d34243b22da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-158-2014",
+   "path": "local/alba/ocna-mures/2014/158",
+   "short": "HCL Ocna Mureș nr. 158/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 158/2014 privind înscrierea în domeniul privat a imobilului-teren categoria de folosinţă curţi, construcţii, înscris in CF. 73273 Ocna Mureş, cu nr top 359/2/3 în suprafaţă de 700 mp, situat în Ocna Mureş, sat Razboieni-Cetate, str. Gării, nr 229 K | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-158.pdf",
+     "sha256": "50cac7323ef47e9e85946b3c7b5647248ba3c0773a0bb14bf5a00812e39b9b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-159-2014",
+   "path": "local/alba/ocna-mures/2014/159",
+   "short": "HCL Ocna Mureș nr. 159/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 159/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-159.pdf",
+     "sha256": "bc1f979f1ee7981dfb063f52fdc21810e2a61da97c6fa7e2df8dcfeb4b01891b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-16-2014",
+   "path": "local/alba/ocna-mures/2014/16",
+   "short": "HCL Ocna Mureș nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2014 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 10 ani, a cabinetului medical nr 13 din Policlinica oraşului Ocna Mureş în suprafaţă de 17,00 mp | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-16.pdf",
+     "sha256": "291013f3c6b0d1eec5267c407f92fb04eb22acd0b0333a6c6b38860e8c47b14c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-161-2014",
+   "path": "local/alba/ocna-mures/2014/161",
+   "short": "HCL Ocna Mureș nr. 161/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 161/2014 privind aprobarea achiziţiei publice „Lucrări de modernizare a Căminului Cultural Războieni” cod CPV 45453000-7- Lucrări de reparaţii generale şi de renovare, prin procedura „achiziţie directă” criteriul de atribuire fiind „preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-161.pdf",
+     "sha256": "0543fc80a7ea7fde0c7a198354ebffd64feb991f9f82f9f60320d0688e38f370"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-162-2014",
+   "path": "local/alba/ocna-mures/2014/162",
+   "short": "HCL Ocna Mureș nr. 162/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 162/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-162.pdf",
+     "sha256": "0446500519128b67bce279fbe6b54311e4274960002bb64765b7b5052855ceca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-163-2014",
+   "path": "local/alba/ocna-mures/2014/163",
+   "short": "HCL Ocna Mureș nr. 163/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 163/2014 privind suplimentarea cheltuielilor ocazionate de sărbătoarea locală „Zilele oraşului Ocna Mureş” | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-163.pdf",
+     "sha256": "a0cb9a882354d2ffce6f56473a63f182c1fad454736d30c9eda3cd8b6134f69a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-164-2014",
+   "path": "local/alba/ocna-mures/2014/164",
+   "short": "HCL Ocna Mureș nr. 164/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 164/2014 privind aprobarea achiziţiei publice pentru executarea de „Lucrări de compactare teren – cod CPV 45520000-8 Închiriere de echipament de terasament cu operator, transport materiale, cod CPV 60100000-9 Servicii de transport rutier şi achiziţie balast, cod CPV 14212310-6 Balast nespălat de râu” , prin „achiziţie directă” criteriul de atribuire fiind „preţul cel mai scăzut” | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-164.pdf",
+     "sha256": "9e118a7cb1ec094d218f3ff15df7af7085916291d57531d08201cf70db40748a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-165-2014",
+   "path": "local/alba/ocna-mures/2014/165",
+   "short": "HCL Ocna Mureș nr. 165/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 165/2014 privind aprobarea cheltuielilor ocazionate de deplasarea Ansamblului Folcloric ,,Tradiţii Uiorene”la Festivalul vinului ce se va desfăşura in localitatea Koszarmisleny- Ungaria în perioada 5-7 septembrie 2014 | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-165.pdf",
+     "sha256": "4eb5075af2c3e980a9b141a93e7707e765868fe82ebdc32c34a8577ad875034b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-166-2014",
+   "path": "local/alba/ocna-mures/2014/166",
+   "short": "HCL Ocna Mureș nr. 166/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 166/2014 Privind rectificarea bugetului local pe anul 2014 | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-166.pdf",
+     "sha256": "fd63b74707d465df8f284ba47f8434ace20e07747c3e1c0a2b6b174e9a027a97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-167-2014",
+   "path": "local/alba/ocna-mures/2014/167",
+   "short": "HCL Ocna Mureș nr. 167/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 167/2014 Privind modificarea art.5 al Hotărârii Consiliului Local al oraşului Ocna Mureş nr. 52 din 27.02.2014 | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-167.pdf",
+     "sha256": "f6110357fe7719f13b552ed3f044e95d57ae6412801f6d32551e494e02a57560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-168-2014",
+   "path": "local/alba/ocna-mures/2014/168",
+   "short": "HCL Ocna Mureș nr. 168/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 168/2014 privind valorificarea unei cantitati de deseuri de fier provenită din dezafectarea unor instalaţii şi casarea unor bunuri proprietate a oraşului Ocna Mureş | 17.09.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-168.pdf",
+     "sha256": "41a123bf697ff0a77ed6e238c0a3a18cac5ab341b63a24d04ba140437191fabf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-17-2014",
+   "path": "local/alba/ocna-mures/2014/17",
+   "short": "HCL Ocna Mureș nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 17/2014 privind aprobarea pentru anul 2014, a drepturilor personalului Serviciului Voluntar pentru Situaţii de Urgenţă prevăzut in anexa | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-17.pdf",
+     "sha256": "dca081238dfc009cebe156176b17982d5fe3d95055f8cea0dae89acb1d39c34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-171-2014",
+   "path": "local/alba/ocna-mures/2014/171",
+   "short": "HCL Ocna Mureș nr. 171/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 171/2014 pentru modificarea unor repartiţii de locuinţe sociale din blocul 74 – 6 ABC | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-171.pdf",
+     "sha256": "09d742098681ee66a2040d85b03d190f3fbfea6d2f91f3a0731199dca2b79141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-172-2014",
+   "path": "local/alba/ocna-mures/2014/172",
+   "short": "HCL Ocna Mureș nr. 172/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 172/2014 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 49 ani a imobilului -teren situat în Ocna Mures, str. M. Eminescu, nr. 17 A, jud. Alba, înscris în CF 73312 Ocna Mureş, cu nr cad 73312-în suprafaţă de 165 mp, teren care face parte din domeniul privat al oraşului Ocna Mureş, preţul de pornire al licitaţiei să fie de 120 lei/an | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-172.pdf",
+     "sha256": "10da2a462dfc17528127014efa18d30374372558fe496245cad9acc61d014e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-173-2014",
+   "path": "local/alba/ocna-mures/2014/173",
+   "short": "HCL Ocna Mureș nr. 173/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 173/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-173.pdf",
+     "sha256": "6f1cc84e3190e39f0d29a84df8f8bfe893cb9c208ac058c499ed7f90d2d1bfd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-174-2014",
+   "path": "local/alba/ocna-mures/2014/174",
+   "short": "HCL Ocna Mureș nr. 174/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 174/2014 privind aprobarea înscrierii, în domeniul privat al oraşului Ocna Mureş a imobilului teren proprietate de stat în suprafata de 17,00 mp inscris in CF 73580 Ocna Mures, ( nr. CF vechi 1), cu nr top 2161/1/2, situat administrativ in Ocna Mureş, str. N. Iorga, nr. 25A, jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-174.pdf",
+     "sha256": "d2b3388321cf336c2b73ad22fee3956e69a3a1e76581e78a4eba78aad89f3743"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-175-2014",
+   "path": "local/alba/ocna-mures/2014/175",
+   "short": "HCL Ocna Mureș nr. 175/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 175/2014 privind aprobarea achiziţiei publice <>cod CPV 71322500-6 , prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 15.10.2014</achiziţie>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-175.pdf",
+     "sha256": "2f4dc42d9337b4ba7e94b1e016b01e2f15f964cc3a5f0be85779c5877090e212"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-176-2014",
+   "path": "local/alba/ocna-mures/2014/176",
+   "short": "HCL Ocna Mureș nr. 176/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 176/2014 privind aprobarea achiziţiei publice <>cod CPV 30125100-2 cartuşe toner şi 30192113-6 cartuşe de cerneală , prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 15.10.2014</achiziţie>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-176.pdf",
+     "sha256": "9862f09fef4f56725f75d133add7a7a4f31b085f2bc2ce99fca02c11f3f3e99c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-177-2014",
+   "path": "local/alba/ocna-mures/2014/177",
+   "short": "HCL Ocna Mureș nr. 177/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 177/2014 privind aprobarea achiziţiei publice <>cod CPV 30192000-1 accesorii de birou şi 30192700-8 papetărie , prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 15.10.2014</achiziţie>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-177.pdf",
+     "sha256": "720d5439dfcaf89ba414bd8e82a30fff7227748f0cc8e4dc738ca2827795309d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-178-2014",
+   "path": "local/alba/ocna-mures/2014/178",
+   "short": "HCL Ocna Mureș nr. 178/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 178/2014 privind aprobarea casării mijloacelor fixe şi a obiectelor de inventar aparţinând Unităţii Administrativ Teritoriale a oraşului Ocna Mureş | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-178.pdf",
+     "sha256": "f4ae8ea21b8d7dc7a8cc22dc445c5e5898c5976c98813fa0cdc358cc41f160f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-179-2014",
+   "path": "local/alba/ocna-mures/2014/179",
+   "short": "HCL Ocna Mureș nr. 179/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 179/2014 privind aprobarea transmiterii fără plată cu titlu gratuit a autospecialei de pompieri marca APCT către Primăria comunei Noslac | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-179.pdf",
+     "sha256": "7c20611095b7eeb9a70e00034557ff6b959160e51168c946bfa3ed1ca11aef94"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-18-2014",
    "path": "local/alba/ocna-mures/2014/18",
    "short": "HCL Ocna Mureș nr. 18/2014",
@@ -44,6 +1139,471 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-18.pdf",
      "sha256": "8ea8e68f993ffe07360ddf5ddd4a27ce895ca25803aa82fc1c72709e295a17e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-180-2014",
+   "path": "local/alba/ocna-mures/2014/180",
+   "short": "HCL Ocna Mureș nr. 180/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 180/2014 privind aprobarea achiziţiei publice <> , prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 15.10.2014</achiziţie>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-180.pdf",
+     "sha256": "4ef1e57af42453288588a80e769c2243674ba8f7754084daea457faa72dad1af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-181-2014",
+   "path": "local/alba/ocna-mures/2014/181",
+   "short": "HCL Ocna Mureș nr. 181/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 181/2014 privind aprobarea achiziţiei publice <<supraînălţare balustradă=”” pietonală=”” la=”” podul=”” peste=”” râul=”” mureş-=”” cod=”” cpv=”” 45341000-9-montare=”” de=”” balustrade=””>> , prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 15.10.2014</achiziţie></supraînălţare>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-181.pdf",
+     "sha256": "dc810c35df4bef7c04c45996f2382ad66ae05d569417ffa9b15aca940e511cf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-182-2014",
+   "path": "local/alba/ocna-mures/2014/182",
+   "short": "HCL Ocna Mureș nr. 182/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 182/2014 privind modificarea şi completarea a unui număr de 4 hotărâri ale Consiliului local al oraşului Ocna Mureş | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-182.pdf",
+     "sha256": "9815d5da3ae6541b1f1b9b73f5e4731a96ed565a80936e73151fb3cc7ca2dc3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-183-2014",
+   "path": "local/alba/ocna-mures/2014/183",
+   "short": "HCL Ocna Mureș nr. 183/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 183/2014 privind aprobarea documentaţiei Proiect nr.53/2014 – Studiu de prefezabilitate pentru investiţia “TURISM DE SĂNĂTATE ŞI AGREMENT” în Ocna Mureş, jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-183.pdf",
+     "sha256": "83e59bd697c702c45cc2c7f238068e79310304daaf882fd286948700feed9033"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-184-2014",
+   "path": "local/alba/ocna-mures/2014/184",
+   "short": "HCL Ocna Mureș nr. 184/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 184/2014 privind aprobarea achiziţiei publice << Proiectare Centru Multifuncţional de Sănătate cod CPV 71322000-1-Servicii de proiectare tehnică pentru construcţia de lucrări publice, 71321200-6 servicii de proiectare tehnică a sistemelor de încălzire, 71321000-4 servicii de proiectare tehnică a instalaţiilor mecanice şi electrice pentru construcţii | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-184.pdf",
+     "sha256": "cbe74bc149894bccb4af29d9fc103f6078db003f610f840392b0dd7d58dad165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-185-2014",
+   "path": "local/alba/ocna-mures/2014/185",
+   "short": "HCL Ocna Mureș nr. 185/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 185/2014 pentru modificarea unor repartiţii de locuinţe sociale din blocul 7AB-73 ANL | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-185.pdf",
+     "sha256": "92ca7e2d8cd4ddbd154ca8ada0e32b5b9745078e7b1f31f6136d9fd10d14d8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-186-2014",
+   "path": "local/alba/ocna-mures/2014/186",
+   "short": "HCL Ocna Mureș nr. 186/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 186/2014 privind modificarea art. 1 al al hotărârii Consiliului Local al oraşului Ocna Mureş nr 146 din 25.10.2012 | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-186.pdf",
+     "sha256": "7012290dd2f5a9bf2d69906a8b1c8baef95442c0030399fb7915dc969a5c9989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-187-2014",
+   "path": "local/alba/ocna-mures/2014/187",
+   "short": "HCL Ocna Mureș nr. 187/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 187/2014 Privind aprobarea Contului Trimestrial de Execuţie a Bugetului Local al oraşului Ocna Mureş pe trimestrul II | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-187.pdf",
+     "sha256": "c81dd16f0b18c565369c5ce062709f67821ff7fa38b60bfd696b09940eed67ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-188-2014",
+   "path": "local/alba/ocna-mures/2014/188",
+   "short": "HCL Ocna Mureș nr. 188/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 188/2014 privind modificarea şi completarea Schemei de ajutor de minimis aprobată prin HCLOM nr. 142/31.07.2014 a Consiliului local Ocna Mureş conform anexei care face parte integrantă din prezenta. | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-188.pdf",
+     "sha256": "f97eb4c85a658b4ccb082d2febf76a309a024d37aef1ed05d4d1aa882f2a8cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-189-2014",
+   "path": "local/alba/ocna-mures/2014/189",
+   "short": "HCL Ocna Mureș nr. 189/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 189/2014 Privind modificarea şi completarea planului de achiziţii publice pentru anul 2014 | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-189.pdf",
+     "sha256": "ba9822d5ed6b4d74dcf86cba08e664d816e56368b0ee2633f9d38a4279a6ee34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-19-2014",
+   "path": "local/alba/ocna-mures/2014/19",
+   "short": "HCL Ocna Mureș nr. 19/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2014 privind încetarea contractului de concesiune nr 791/01.03.1999, prin expirarea duratei, începând cu data de 01.03.2009 | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-19.pdf",
+     "sha256": "0d59eaa7812b132c87dcdecba0a8c248f42c5edca18a9627edcec8507127224a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-190-2014",
+   "path": "local/alba/ocna-mures/2014/190",
+   "short": "HCL Ocna Mureș nr. 190/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 190/2014 privind achiziţie echipament IT şi echipamente electronice în cadrul proiectului POSDRU/151/6.3/135156- Egalitate şi acces pe piaţa muncii | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-190.pdf",
+     "sha256": "363041c76d10259d0b8de62b251cf844524b4b9966fa89657d99dc5d58a7c6df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-191-2014",
+   "path": "local/alba/ocna-mures/2014/191",
+   "short": "HCL Ocna Mureș nr. 191/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 191/2014 privind achiziţia de mobilier de birou în cadrul proiectului POSDRU/151/6.3/135156-Egalitate şi acces pe piaţa muncii | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-191.pdf",
+     "sha256": "ba49f6150c01d9a463b54545aef43b1d5a4fc0a8e4d8080711d257fd18ca99de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-192-2014",
+   "path": "local/alba/ocna-mures/2014/192",
+   "short": "HCL Ocna Mureș nr. 192/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 192/2014 Privind rectificarea bugetului local pe anul 2014 şi modificare liste de investiţii | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-192.pdf",
+     "sha256": "c80785fca30b3d57eb6cfa59fe72a008e74b7ab38a420327601eba92d57f80d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-193-2014",
+   "path": "local/alba/ocna-mures/2014/193",
+   "short": "HCL Ocna Mureș nr. 193/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 193/2014 privind aprobarea Strategiei de Dezvoltare 2014-2020 a Asociaţiei de Dezvoltare Intercomunitară „ALBA DE JOS” | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-193.pdf",
+     "sha256": "eba490b34f982f273bfb514d4df2b19c8008a5eccf7874391bd04ae06c200ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-194-2014",
+   "path": "local/alba/ocna-mures/2014/194",
+   "short": "HCL Ocna Mureș nr. 194/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 194/2014 privind aprobarea achiziţiei publice <> , prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 15.10.2014</achiziţie>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-194.pdf",
+     "sha256": "e3c9905ac3bda8faa7250814e08b1860eafd1ddc7f6f8025831e5eca1adda3ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-195-2014",
+   "path": "local/alba/ocna-mures/2014/195",
+   "short": "HCL Ocna Mureș nr. 195/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 195/2014 Privind aprobarea Actului Adiţional nr. 1 la Statutul Asociaţiei şi cuantumul cotizaţiei datorate Asociaţiei de Dezvoltare Intercomunitară ,,SALUBRIS ALBA” | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-195.pdf",
+     "sha256": "c7e80c7c3d73d869b26f39d192fdaaa4bc0a7a6a230c1e79136928a1d54f38cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-196-2014",
+   "path": "local/alba/ocna-mures/2014/196",
+   "short": "HCL Ocna Mureș nr. 196/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 196/2014 pentru exprimarea acordului de preluare în domeniul public al oraşului Ocna Mureş a unui imobil aflat în proprietatea Ministerului Finanţelor Publice | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-196.pdf",
+     "sha256": "64e0daf79174b6040786242d41a1f2a08c3b12dbdb4cf6a2d5c6bf671f1a276b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-197-2014",
+   "path": "local/alba/ocna-mures/2014/197",
+   "short": "HCL Ocna Mureș nr. 197/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 197/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-197.pdf",
+     "sha256": "11c3ab7f9409de6dd6a885eab559255b638f4b353f00c53d6735532f63ba0c23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-198-2014",
+   "path": "local/alba/ocna-mures/2014/198",
+   "short": "HCL Ocna Mureș nr. 198/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 198/2014 privind suplimentarea valorii investiţiei „Branşamente la reţeaua de apă în localităţile Cisteiu de Mureş şi Micoşlaca” | 15.10.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-198.pdf",
+     "sha256": "84167c55c05ce957074343d51aa4a0d713db56a494daba5f76c9c1456e29852c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-199-2014",
+   "path": "local/alba/ocna-mures/2014/199",
+   "short": "HCL Ocna Mureș nr. 199/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 199/2014 privind aprobarea preluării cu titlu gratuit, din proprietatea UAT Comuna Noşlac în patrimoniul UAT Oraşul Ocna Mureş, a unui microbuz marca IVECO | 05.11.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-199.pdf",
+     "sha256": "cf2d59102a419c17a933dcbfc733196b3a81e01a985a60378b2a900acef2cce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-20-2014",
+   "path": "local/alba/ocna-mures/2014/20",
+   "short": "HCL Ocna Mureș nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2014 privind aprobarea documentaţiei PROIECT NR.216/2013 – “Plan Urbanistic de Detaliu – pentru construirea unui supermarket pe terenul identificat cu C.F.nr. 72272 Ocna Mureş, nr.cad. 72272, în suprafaţă de 1300 m.p., situateadministrativ în Ocna Mureş, str. Mălinului, nr.20, judeţul Alba . | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-20.pdf",
+     "sha256": "61ec4c02ad42e82c66676bfcb474c27bfb6c5dad87aa0e6e6bb70be1ef0f6b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-200-2014",
+   "path": "local/alba/ocna-mures/2014/200",
+   "short": "HCL Ocna Mureș nr. 200/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 200/2014 privind luarea unor măsuri pentru iniţierea şi gestionarea unui Proiect depus în cadrul Programului RO10 „ Copii şi tineri în situaţii de risc şi iniţiative locale şi regionale pentru reducerea inegalităţilor naţionale şi promovarea incluziunii sociale „ CORAI, schema de granturi mici LOCAL; | 05.11.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-200.pdf",
+     "sha256": "20748a4f9349857399214c10cce4fca47be796c140d5cf1f9967ed86d6eb5257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-201-2014",
+   "path": "local/alba/ocna-mures/2014/201",
+   "short": "HCL Ocna Mureș nr. 201/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 201/2014 privind proiectul ,,Economia socială-şansa persoanelor vulnerabile la egalitate şi incluziune pe piaţa muncii”. | 05.11.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-201.pdf",
+     "sha256": "07790470ea782d97ea4f5861c7bd1e78ee141898d2319eaf3bbb88ad1ec9f1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-202-2014",
+   "path": "local/alba/ocna-mures/2014/202",
+   "short": "HCL Ocna Mureș nr. 202/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 202/2014 Privind rectificarea bugetului local pe anul 2014 | 05.11.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-202.pdf",
+     "sha256": "c4d9e3e0f253376441e0b953bb804b9c21483dd64eda725118232eec82df3d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-203-2014",
+   "path": "local/alba/ocna-mures/2014/203",
+   "short": "HCL Ocna Mureș nr. 203/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 203/2014 Privind aprobarea executării unor reparaţii la reţeaua de alimentare cu apă a localităţii Războieni- Cetate | 05.11.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-203.pdf",
+     "sha256": "e63b900354b3a58ad711ebc5a22f228e75e8747f12d19ee3959f237a893368e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-204-2014",
+   "path": "local/alba/ocna-mures/2014/204",
+   "short": "HCL Ocna Mureș nr. 204/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 204/2014 pentru revocarea HCLOM nr.200/14.10.2014 a Consiliului local Ocna Mures privind luarea unor măsuri pentru iniţierea şi gestionarea unui Proiect depus în cadrul Programului RO10 „ Copii şi tineri în situaţii de risc şi iniţiative locale şi regionale pentru reducerea inegalităţilor naţionale şi promovarea incluziunii sociale „ CORAI, schema de granturi mici LOCAL | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-204.pdf",
+     "sha256": "787f5f4d660b457f63c46516d717bc6e1d8b4da889497e46553a09cc495cf9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-205-2014",
+   "path": "local/alba/ocna-mures/2014/205",
+   "short": "HCL Ocna Mureș nr. 205/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 205/2014 privind iniţierea şi gestionarea unui Proiect depus în cadrul Programului RO10 „ Copii şi tineri în situaţii de risc şi iniţiative locale şi regionale pentru reducerea inegalităţilor naţionale şi promovarea incluziunii sociale „ CORAI, schema de granturi mici LOCAL | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-205.pdf",
+     "sha256": "528a752e4b87f1316e2a6f1336a0377eb0aad7fa2aed9b6011e1728db568b394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-206-2014",
+   "path": "local/alba/ocna-mures/2014/206",
+   "short": "HCL Ocna Mureș nr. 206/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 206/2014 privind aprobarea Studiului de oportunitate pentru delegarea gestiunii serviciului de colectare şi transport deşeuri municipale în judeţul Alba | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-206.pdf",
+     "sha256": "1981adef2cf57a5c09ab23bdfa479525b1a4be2eeda9f5eca04c65ee176935bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-207-2014",
+   "path": "local/alba/ocna-mures/2014/207",
+   "short": "HCL Ocna Mureș nr. 207/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 207/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-207.pdf",
+     "sha256": "8d90c2a8aebd6cbffd61449bf068c3d175e12f25a33f9dbf2a18517c9f519e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-208-2014",
+   "path": "local/alba/ocna-mures/2014/208",
+   "short": "HCL Ocna Mureș nr. 208/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 208/2014 privind modificarea şi completarea anexelor nr 2 a şi 2 c ale HCLOM nr. 50/2013, modificate şi completate prin HCLOM nr. 77/30.04.2014 | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-208.pdf",
+     "sha256": "71bfd13746223561cb261006346e4921c889653b91c3d2d6e6cd75204b33a9e4"
     }
    ]
   },
@@ -63,6 +1623,396 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-21-2014",
+   "path": "local/alba/ocna-mures/2014/21",
+   "short": "HCL Ocna Mureș nr. 21/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2014 privind repartizarea excedentului bugetar la sfârşitul anului 2013 in valoare de 1.392 mii lei | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-21.pdf",
+     "sha256": "4dd9f8fc7c97684d0481aed560ead5ad45c9c089d435bfe029ad258551f3c5bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-210-2014",
+   "path": "local/alba/ocna-mures/2014/210",
+   "short": "HCL Ocna Mureș nr. 210/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 210/2014 Privind rectificarea bugetului local pe anul 2014 şi modificare liste de investiţii conform anexelor nr.1 şi 2. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-210.pdf",
+     "sha256": "cf83fc92cea40328cab2bfbd0025e1578ea25be00e11e7601d071d756d6cea51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-212-2014",
+   "path": "local/alba/ocna-mures/2014/212",
+   "short": "HCL Ocna Mureș nr. 212/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 212/2014 pentru modificarea şi completarea HCLOM NR.131/31.07.2013 privind aprobarea condiţiilor de preluare în domeniul public al Oraşului Ocna Mureş, a Podului de cale ferată peste Râul Mureş | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-212.pdf",
+     "sha256": "db1fddd2996e7a3f4675c56324ec84aa776281502ca97cadb2ff55a862bbb7c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-213-2014",
+   "path": "local/alba/ocna-mures/2014/213",
+   "short": "HCL Ocna Mureș nr. 213/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 213/2014 privind aprobarea numărului de beneficiari, cuantumului şi categoriilor de burse pentru semestrul I, anul şcolar 2014-2015 care se acordă elevilor din învăţământul preuniversitar de stat din orasul Ocna Mureş | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-213.pdf",
+     "sha256": "36423aa894ca5efd4966ed11c09fcf91b88f2b953093d48256797745bf50e747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-214-2014",
+   "path": "local/alba/ocna-mures/2014/214",
+   "short": "HCL Ocna Mureș nr. 214/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 214/2014 Privind modificarea planului de achiziţii publice pentru anul 2014, conform anexei | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-214.pdf",
+     "sha256": "4a695a3bdabdac69d4c6698bae55288a25b24a4c4829c01208f6744fbf0c6cd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-215-2014",
+   "path": "local/alba/ocna-mures/2014/215",
+   "short": "HCL Ocna Mureș nr. 215/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 215/2014 Privind aprobarea Contului Trimestrial de Execuţie a Bugetului Local al oraşului Ocna Mureş pe trimestrul IIl 2014, conform anexelor nr. 1 şi 2. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-215.pdf",
+     "sha256": "add627dd7e3a021d9192927163116515649e45c14aa1931ffbae810989f3cf40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-219-2014",
+   "path": "local/alba/ocna-mures/2014/219",
+   "short": "HCL Ocna Mureș nr. 219/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 219/2014 Privind rectificarea bugetului local pe anul 2014 şi modificare liste de investiţii conform anexelor nr.1 şi 2. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-219.pdf",
+     "sha256": "1d1aaf112f193f8113669e3af93658420fdb683532f64511f9bfa07a54bef65a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-22-2014",
+   "path": "local/alba/ocna-mures/2014/22",
+   "short": "HCL Ocna Mureș nr. 22/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 22/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-22.pdf",
+     "sha256": "8b7e3bda2ef90cc04ece1899288160aae4f03ecabbc6de08c8b34d7920b93fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-220-2014",
+   "path": "local/alba/ocna-mures/2014/220",
+   "short": "HCL Ocna Mureș nr. 220/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 220/2014 privind aprobarea concesionării prin licitaţie publică, pe o perioadă de 10 ani a imobilului – cabinet medical (fostă farmacie) situat în localitatea Războieni, str. Gării, nr. 149, jud. Alba, înscris in CF 71317 Ocna Mureş, cu nr. top 354/2 (provenită din conversia de pe hărtie a CF 47 Războieni) în suprafaţă de 71,40 mp, imobil care face parte din domeniul public al oraşului Ocna Mureş, preţul d",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-220.pdf",
+     "sha256": "8bba026b252c1f47a378c922e9ace0c62ea74cb37b21b3c321573bcc7c88a85c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-221-2014",
+   "path": "local/alba/ocna-mures/2014/221",
+   "short": "HCL Ocna Mureș nr. 221/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 221/2014 privind aprobarea închirierii, prin licitaţie publică, pe o perioadă de 10 ani a imobilului- spaţiu situat în localitatea Ocna Mureş, str. N. Iorga, nr. 25, jud. Alba, înscris in CF 70391 C1-U9 Ocna Mureş, cu nr cad 70391-C1-U9, în suprafaţă de 9,71 mp, imobil care face parte din domeniul privat al oraşului Ocna Mureş, preţul de pornire al licitaţiei să fie de 81 lei/an. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-221.pdf",
+     "sha256": "ea4e748304a75cd963fb8007e625015c329e97e95546df409c109cad9ea1ebad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-222-2014",
+   "path": "local/alba/ocna-mures/2014/222",
+   "short": "HCL Ocna Mureș nr. 222/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 222/2014 privind aprobarea achiziţiei publice „Achiziţie de produse iluminat festiv şi de lucrări de montare-conectare la reţeaua electrică a produselor de iluminat festiv” cod CPV 31527260-6- Sisteme de iluminat; 45311200-2-lucrări de conexiuni electrice, prin procedura „achiziţie directă” criteriul de atribuire fiind „preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-222.pdf",
+     "sha256": "f193d5948a00394a6a831a87cd7db36a02f60ed21574065da1437606e4434d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-224-2014",
+   "path": "local/alba/ocna-mures/2014/224",
+   "short": "HCL Ocna Mureș nr. 224/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 224/2014 privind aprobarea efectuării unor investiţii de către concesionari în spaţiile care fac obiectul contractului de concesiune nr.5358 din 14.04.2014 si contractul de concesiune nr. 5064 din 08.04.2014 | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-224.pdf",
+     "sha256": "8569fba09e64ec05903d88cc04d0755b2053add29a73bf83019a45f31925a5ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-225-2014",
+   "path": "local/alba/ocna-mures/2014/225",
+   "short": "HCL Ocna Mureș nr. 225/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 225/2014 Privind rectificarea bugetului local pe anul 2014 şi modificare liste de investiţii conform anexelor nr.1 şi 2. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-225.pdf",
+     "sha256": "eceac4a9f9474083b803b7e6b6a84af5537b275a2168345ce1c6a8c71c8834aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-226-2014",
+   "path": "local/alba/ocna-mures/2014/226",
+   "short": "HCL Ocna Mureș nr. 226/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 226/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-226.pdf",
+     "sha256": "4579a1bb61e96d5dc8db1e5eefedc539d7b9f74bedba76a96280189e066b73bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-227-2014",
+   "path": "local/alba/ocna-mures/2014/227",
+   "short": "HCL Ocna Mureș nr. 227/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 227/2014 privind aprobarea achiziţiei publice „Servicii de evaluare a domeniului privat al oraşului Ocna Mureş” cod CPV 79419000-4 , prin procedura „achiziţie directă” criteriul de atribuire fiind „preţul cel mai scăzut” şi aprobarea comisiei de evaluare a ofertelor | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-227.pdf",
+     "sha256": "84c7d858926fc8cc8a25d77a2015ac1164abbc4daa839b990596071356cca2d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-229-2014",
+   "path": "local/alba/ocna-mures/2014/229",
+   "short": "HCL Ocna Mureș nr. 229/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 229/2014 privind aprobarea parcelării imobilului „teren cu destinaţia stradă” situat administrativ în Ocna Mureş, str. N. Iorga, nr 31, în suprafaţă de 19380 mp, fără numar de carte funciară, în două loturi, în vederea construirii unei rampe de acces pentru persoane cu dizabilităţi şi cărucioare | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-229.pdf",
+     "sha256": "6096576fca1563d99f67eeb7835d2250ca8e19179d3e1202d156ad220646c3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-230-2014",
+   "path": "local/alba/ocna-mures/2014/230",
+   "short": "HCL Ocna Mureș nr. 230/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 230/2014 privind valorificarea, prin vânzare la licitaţie publică cu strigare, a cantităţii de 3.000 buc. ţiglă rezultate în urma lucrărilor de reparaţii executate la Căminul cultural din satul Războieni Cetate | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-230.pdf",
+     "sha256": "1167b12e8b6612b2fd233c39359851b11fba94cf99c4b0b75995f9e30057a0a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-231-2014",
+   "path": "local/alba/ocna-mures/2014/231",
+   "short": "HCL Ocna Mureș nr. 231/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 231/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-231.pdf",
+     "sha256": "9e86898f3615a7d1d11f8a410c7ccc0437751cad1f829f7e42e2e7190e6acc45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-232-2014",
+   "path": "local/alba/ocna-mures/2014/232",
+   "short": "HCL Ocna Mureș nr. 232/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 232/2014 privind stabilirea cotei care va fi achitată bugetului oraşului Ocna Mureş din sumele obţinute de către unităţile de învăţământ şcolar preuniversitar de stat din Ocna Mureş cu titlu de chirii pentru spaţiile pe care acestea le au în administrare | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-232.pdf",
+     "sha256": "7720a5431d524ba7afc913017174ab22fa5b260c5ee90349478ab00fea90d68c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-233-2014",
+   "path": "local/alba/ocna-mures/2014/233",
+   "short": "HCL Ocna Mureș nr. 233/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 233/2014 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de concesiune nr. 1634/06.02.2014 | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-233.pdf",
+     "sha256": "08b61e623b13635c56e2f28c4c758e91d2e6d509d958654149336326069779c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-234-2014",
+   "path": "local/alba/ocna-mures/2014/234",
+   "short": "HCL Ocna Mureș nr. 234/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 234/2014 privind prelungirea pentru perioada 01.01.2015/31.12.2015 a contractelor de concesiune nr. 6160 /10.06.2003, 5761/15.09.1998, 8948/23.11.2000, 9026/28.11.2000, 4434/21.04.2003, 67/02.04.2001, 68/02.04.2001, 9025/28.11.2000, 5824/16.12.2002. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-234.pdf",
+     "sha256": "44f4cc3534c2de2c56481234bfa0ab1d573d70158c5e1a10f49d5222499c808d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-235-2014",
+   "path": "local/alba/ocna-mures/2014/235",
+   "short": "HCL Ocna Mureș nr. 235/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 235/2014 privind aprobarea prelungirii, pe perioada 01.01.2015 – 28.02.2015 a duratei Convenţiei de Asociere nr.17709/28.12.2012 încheiată în baza HCLOM nr 190/19.12.2012 între Oraşul Ocna Mureş, pe de o parte şi Filiala Filantropia Ortodoxă Ocna Mureş, pe de altă parte | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-235.pdf",
+     "sha256": "a6536ea361d8c47603f73890ecd2dc0e084922afbb9d4f27b01bacdc117e4dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-236-2014",
+   "path": "local/alba/ocna-mures/2014/236",
+   "short": "HCL Ocna Mureș nr. 236/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 236/2014 privind modificarea şi completarea ORGANIGRAMEI şi a STATULUI DE FUNCŢII ale personalului de specialitate al Primarului oraşului Ocna Mureş şi ale serviciilor subordonate Consiliului local Ocna Mureş | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-236.pdf",
+     "sha256": "ad2c6c898de527a0a1ccebb9186fd7d006f27ab4d3c268395c826fb232f7a10d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-238-2014",
+   "path": "local/alba/ocna-mures/2014/238",
+   "short": "HCL Ocna Mureș nr. 238/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 238/2014 privind revocarea HCLOM nr.133/30.06.2014; aprobarea cuantumului tarifelor suplimentare de utilizare a drumurilor şi a condiţiilor de emitere a autorizaţiilor speciale de transport – AST pentru transporturile cu autovehicule ce depăşesc masa şi/sau dimensiunile admise | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-238.pdf",
+     "sha256": "4e3b781180f2c5582b6fd4c368732c02f3698fb93ebc2f6e0d942a2fd57168d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-239-2014",
+   "path": "local/alba/ocna-mures/2014/239",
+   "short": "HCL Ocna Mureș nr. 239/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 239/2014 privind delegarea primarului oraşului Ocna Mures de a semna Contractul de finanţare pentru Proiectul „Economia socială – şansa persoanelor vulnerabile la egalitate şi incluziune pe piaţa muncii” care face obiectul Acordului de parteneriat aprobat prin HCLOM nr. 201/14.10.2014 | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-239.pdf",
+     "sha256": "e3ec558b444616a54d5328c597aaa01f7eff876c6c2d6db369bf5ada3a63070b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-240-2014",
+   "path": "local/alba/ocna-mures/2014/240",
+   "short": "HCL Ocna Mureș nr. 240/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 240/2014 privind aprobarea încheierii unui Acord de parteneriat pentru implementarea Proiectului de interes public local „Informează-te, formează-te pentru un loc de muncă în regiunile NORD-VEST, CENTRU şi VEST, număr 151291, în cadrul cererii de propuneri de proiecte nr.183”, conform Anexei care face parte integrantă din prezenta | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-240.pdf",
+     "sha256": "608b30a7bd4d7bec62b03e90254f16ddc2e617e239cfa8de5c0437c97845cf34"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-241-2014",
    "path": "local/alba/ocna-mures/2014/241",
    "short": "HCL Ocna Mureș nr. 241/2014",
@@ -74,6 +2024,126 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-241.pdf",
      "sha256": "058043f230dce8cdce7a43ee1a67501b1cdafddc74f3efdb0e3a086e8de932be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-243-2014",
+   "path": "local/alba/ocna-mures/2014/243",
+   "short": "HCL Ocna Mureș nr. 243/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 243/2014 privind majorarea numărului de beneficiari ai indemnizaţiei lunare a persoanelor cu handicap la 75 de locuri, începând cu data de 01.01.2015 | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-243.pdf",
+     "sha256": "fc2235c7ad0c721405e23121f71f76c63e1e4a441c5d9d6f0b6b00c745e2a423"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-244-2014",
+   "path": "local/alba/ocna-mures/2014/244",
+   "short": "HCL Ocna Mureș nr. 244/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 244/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-244.pdf",
+     "sha256": "65014caf7c1b062de0a137323d5b2e87efd67e53572a8f8d91fe802c38594071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-245-2014",
+   "path": "local/alba/ocna-mures/2014/245",
+   "short": "HCL Ocna Mureș nr. 245/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 245/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-245.pdf",
+     "sha256": "e5918343ca6f48bc62a698e60b71cc0ca647c76121bc2756f37426bd9c2b73a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-246-2014",
+   "path": "local/alba/ocna-mures/2014/246",
+   "short": "HCL Ocna Mureș nr. 246/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 246/2014 privind prelungirea pentru perioada 01.01.2015/31.12.2015 a contractelor de închiriere nr. 1150/19.02.1998 | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-246.pdf",
+     "sha256": "2e7d57234f67dbf11101bcec2fc36e9ebb4411a8707cc6099854b39ffee46865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-247-2014",
+   "path": "local/alba/ocna-mures/2014/247",
+   "short": "HCL Ocna Mureș nr. 247/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 247/2014 Privind rectificarea bugetului local pe anul 2014 şi modificare liste de investiţii conform anexelor nr.1 şi 2. | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-247.pdf",
+     "sha256": "555513085017278434eaf2d17e94ed25ebb79ca4aed1012d2e25b20b24b0c8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-248-2014",
+   "path": "local/alba/ocna-mures/2014/248",
+   "short": "HCL Ocna Mureș nr. 248/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 248/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-248.pdf",
+     "sha256": "40538ac2326e267eb509e6172ba7cf45f1f7a0a34f20892e9d859b8fc13d41da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-249-2014",
+   "path": "local/alba/ocna-mures/2014/249",
+   "short": "HCL Ocna Mureș nr. 249/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 249/2014 Privind aprobarea prelungirii,pe perioada 01.01.2015-28.02.2015 a duratei Convenţiei de parteneriat încheiată în baza HCLOM nr. 161/31.10.2011 între oraşul Ocna Mureş. pe de o parte şi Asociaţia Filantropia Ortodoxă Alba –Iulia, pe de altă parte pentru asigurarea funcţionării Aşezământului social,,Sfântul Serafim de Sarov | 05.01.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-249.pdf",
+     "sha256": "09a184c6bf2b53da1c36f6b1ff0dd103d083d8f9e008c88bf9410e80d1d81eee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-25-2014",
+   "path": "local/alba/ocna-mures/2014/25",
+   "short": "HCL Ocna Mureș nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 25/2014 privind aprobarea achiziţiei „Servicii de asigurări – cod CPV: 66511000-5- servicii de asigurări de viaţă prin „achiziţie directă” criteriul de atribuire fiind „oferta cea mai avantajoasă din punct de vedere economic” | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-25.pdf",
+     "sha256": "900d80840605bd403b4d0f56b92723cfd772fb74eb0aa314ed442a03fe69464e"
     }
    ]
   },
@@ -93,6 +2163,186 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-29-2014",
+   "path": "local/alba/ocna-mures/2014/29",
+   "short": "HCL Ocna Mureș nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2014 privind rectificarea bugetului local şi a listei de investiţii ale oraşului Ocna Mureş pe anul 2014 | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-029.pdf",
+     "sha256": "9bf94817721de47c4444b757296eccf0a30e73b50236daf843c1bfbf00937286"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-3-2014",
+   "path": "local/alba/ocna-mures/2014/3",
+   "short": "HCL Ocna Mureș nr. 3/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 3/2014 privind modificarea şi completarea ORGANIGRAMEI şi a STATULUI DE FUNCŢII ale personalului de specialitate al Primarului oraşului Ocna Mureş şi ale serviciilor subordonate Consiliului local Ocna Mureş | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-3.pdf",
+     "sha256": "caa6bb87e6d5691d43e6c5897d9e834c889237e88864a3a553156b71ab1ab9b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-30-2014",
+   "path": "local/alba/ocna-mures/2014/30",
+   "short": "HCL Ocna Mureș nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 30/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-030.pdf",
+     "sha256": "45ea598bb06cdccd410fb3475168d405d3af1e540502a1845f5e9a6425d003be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-31-2014",
+   "path": "local/alba/ocna-mures/2014/31",
+   "short": "HCL Ocna Mureș nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 31/2014 privind exprimarea acordului pentru încheierea unui contract de cesiune privitor la Contractul de concesiune nr. 6000/06.05.2011 | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-031.pdf",
+     "sha256": "04ecd7ed61abcc5c454b146f9f27ea3dbd481012eded9c1a4ca726a84bf47597"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-35-2014",
+   "path": "local/alba/ocna-mures/2014/35",
+   "short": "HCL Ocna Mureș nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 35/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-035.pdf",
+     "sha256": "1836c6e52f72ad1419af1f464cf5c0004a4d65c2d4f8b3e2b3bc44ccab7902c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-37-2014",
+   "path": "local/alba/ocna-mures/2014/37",
+   "short": "HCL Ocna Mureș nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 37/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-037.pdf",
+     "sha256": "d5619241dff5086f9a424ea43b8f3e4736f52e978ff7d04cd878050c0e60bc49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-4-2014",
+   "path": "local/alba/ocna-mures/2014/4",
+   "short": "HCL Ocna Mureș nr. 4/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 4/2014 privind aprobarea bugetului Oraşului Ocna Mureş pentru anul 2014 şi a Listei de investiţii, conform anexelor nr. 1-10 care fac parte integrantă din prezenta hotărâre | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-4.pdf",
+     "sha256": "5ba3ba578d47655e8a62850f4fa13a6eba5d9866daa5095e72a404430b77b993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-40-2014",
+   "path": "local/alba/ocna-mures/2014/40",
+   "short": "HCL Ocna Mureș nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 40/2014 pentru repartizarea locuinţelor sociale din blocul 6 ABC şi încheierea contractelor de închiriere cu beneficiarii menţionaţi în anexa | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-040.pdf",
+     "sha256": "b5792ce7725b570f955aedbffb8048391a6d6c8ff1f435d62e945f75aca17890"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-41-2014",
+   "path": "local/alba/ocna-mures/2014/41",
+   "short": "HCL Ocna Mureș nr. 41/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 41/2014 privind însuşirea Procesului verbal al licitaţiei organizate în 20.02.2014 pentru valorificarea activului denumit STADION UNIREA (SODA OCNA MUREŞ); aprobarea încheierii în formă autentică a contractului de vânzare-cumpărare pentru activul în cauză şi plata preţului adjudecat | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-041.pdf",
+     "sha256": "39f5d50664489e0fa261bc34ec625f67f91b2d76c975ca80ede1347d67f8b310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-42-2014",
+   "path": "local/alba/ocna-mures/2014/42",
+   "short": "HCL Ocna Mureș nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 42/2014 privind aprobarea închirierii, prin licitaţie publică, pe o perioadă de 5 ani, a unor suprafeţe de păşuni proprietate privată a oraşului Ocnas Mureş | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-042.pdf",
+     "sha256": "44c57516e0bc0eb556ff9c3e2d5b833086dbbb05c6c1e91560e7f106b5e6d70c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-43-2014",
+   "path": "local/alba/ocna-mures/2014/43",
+   "short": "HCL Ocna Mureș nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 43/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-043.pdf",
+     "sha256": "d3e111439e4b1c646da4610433830f84601be4a33388e9e70f02fdfbefa37b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-44-2014",
+   "path": "local/alba/ocna-mures/2014/44",
+   "short": "HCL Ocna Mureș nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 44/2014 privind revocarea Hotărârii de Consiliu local al oraşului Ocna Mureş nr 29 din 18.02.2014 şi rectificarea bugetului local pe anul 2014 conform anexelor nr. 1, 2,3, 4 şi aprobarea fundamentării bugetului Clubului Sportiv Ocna Mureş, conform anexei nr. 5 | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-044.pdf",
+     "sha256": "2db4eefdc9acc996a84dc65e1f5414c756808d065e58a55eb8623fecc6cde984"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-45-2014",
    "path": "local/alba/ocna-mures/2014/45",
    "short": "HCL Ocna Mureș nr. 45/2014",
@@ -104,6 +2354,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-045.pdf",
      "sha256": "71bcf1a006eef1862b723b41d3b380ac1b03d98c0a534207331a408f31e7320b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-46-2014",
+   "path": "local/alba/ocna-mures/2014/46",
+   "short": "HCL Ocna Mureș nr. 46/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 46/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-046.pdf",
+     "sha256": "f471aa3f6c58e90a52abbf889258f9131996746345932e3aaa39aa38f2e7db31"
     }
    ]
   },
@@ -153,6 +2418,96 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-51-2014",
+   "path": "local/alba/ocna-mures/2014/51",
+   "short": "HCL Ocna Mureș nr. 51/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 51/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-051.pdf",
+     "sha256": "922e7f284a3897e39dd0643496629c8012cc70391f1a566aff025f87828e2231"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-52-2014",
+   "path": "local/alba/ocna-mures/2014/52",
+   "short": "HCL Ocna Mureș nr. 52/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 52/2014 privind luarea unor măsuri pentru iniţierea şi gestionarea unui Proiect depus în cadrul Programului RO10 „ Copii şi tineri în situaţii de risc şi iniţiative locale şi regionale pentru reducerea inegalităţilor naţionale şi promovarea incluziunii sociale „ CORAI, schema de granturi mici LOCAL | 19.03.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-052.pdf",
+     "sha256": "f834097f7d4c52e3c3b964bcbb41638145a6682f7d2bd87588cdcef0bafdbe44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-54-2014",
+   "path": "local/alba/ocna-mures/2014/54",
+   "short": "HCL Ocna Mureș nr. 54/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 54/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-054.pdf",
+     "sha256": "1f3c631d1d8b5794d712a431e4fd3f01ee24685c5c6e53151d2a56dd55398147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-55-2014",
+   "path": "local/alba/ocna-mures/2014/55",
+   "short": "HCL Ocna Mureș nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 55/2014 privind predarea în administrare a Staţiei de pompare şi a rezervorului de la Spitalul orăşenesc Ocna Mureş, cu dotările aferente | 09.05.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-055.pdf",
+     "sha256": "3884da9c55996568adb4d7cb34f3238c928e97d574c40bd5e7e493feccf0442b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-56-2014",
+   "path": "local/alba/ocna-mures/2014/56",
+   "short": "HCL Ocna Mureș nr. 56/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 56/2014 privind aprobarea asocierii dintre UAT Oraşul Ocna Mureş, în calitate de Partener 3 şi Consiliul judeţean Alba – Lider de parteneriat, Asociaţia ASMEA – Partener 1, ENFAP MARCHE – Partener 2 în vederea implementării în comun a Proiectului de interes public local “Egalitate de şanse pe piaţa muncii” | 09.05.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-056.pdf",
+     "sha256": "a567c5e0f55b67e134b964134abf49999a3f8cfc29d402e73f73f6d5526bf1a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-57-2014",
+   "path": "local/alba/ocna-mures/2014/57",
+   "short": "HCL Ocna Mureș nr. 57/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 57/2014 Privind rectificarea bugetului local pe anul 2014 conform anexei nr. 1 şi modificarea listei de investiţii | 09.05.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-057.pdf",
+     "sha256": "ee7c0b4115968b3f827642bbd375a7e090ae6aab3f051e1db1327abd84ab3881"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-59-2014",
    "path": "local/alba/ocna-mures/2014/59",
    "short": "HCL Ocna Mureș nr. 59/2014",
@@ -164,6 +2519,66 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-059.pdf",
      "sha256": "114e7c2dff744a821716752d0f471b8ddcaee33985772d206cd8081d02fe508a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-6-2014",
+   "path": "local/alba/ocna-mures/2014/6",
+   "short": "HCL Ocna Mureș nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 6/2014 privind aprobarea achiziţiei publice „Lucrări de modernizare strada M . Eminescu, N",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-6.pdf",
+     "sha256": "0c4c343674069ff202d3929ada57539cdf56b3becbf9241b0ba3a57ccacabe5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-60-2014",
+   "path": "local/alba/ocna-mures/2014/60",
+   "short": "HCL Ocna Mureș nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 60/2014 privind modificarea anexei nr 2 a HCLOM nr.13 din 30.01.2014 | 09.05.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-060.pdf",
+     "sha256": "267b73175dcbcd0becd9acd6ba36bb94e7f8bf98c8843f51e7612c01012bff9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-61-2014",
+   "path": "local/alba/ocna-mures/2014/61",
+   "short": "HCL Ocna Mureș nr. 61/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 61/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-061.pdf",
+     "sha256": "3a4c076b35093291c5612c3774282204777137b426c7cc2f93592b14a4a90ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-62-2014",
+   "path": "local/alba/ocna-mures/2014/62",
+   "short": "HCL Ocna Mureș nr. 62/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 62/2014 privind încheierea unui contract între DIRECŢIA DE SĂNĂTATE PUBLICĂ ALBA, şi CONSILIUL LOCAL AL ORAŞULUI OCNA MUREŞ | 09.05.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-062.pdf",
+     "sha256": "0d045955712272dc048b9ada5340a8878311a6bfb4954feb0662d887ae42f087"
     }
    ]
   },
@@ -183,6 +2598,171 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-64-2014",
+   "path": "local/alba/ocna-mures/2014/64",
+   "short": "HCL Ocna Mureș nr. 64/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 64/2014 privind aprobarea achiziţiei publice ,,Închiriere utilaje construcţii II” –cod CPV 45500000-2- Închiriere de utilaje şi de echipament de construcţii şi de lucrări publice cu operator prin procedura <<achiziţie directă=””>> criteriul de atribuire fiind ,,preţul cel mai scăzut”, a caietului de sarcini al achiziţiei respective şi aprobarea comisiei de evaluare a ofertelor | 09.05.2014</achiziţie>",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-064.pdf",
+     "sha256": "61f9d2e7efc62ff0e04eeeae703e7da5a563b8d78d3d46b2370ed21ce209294b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-66-2014",
+   "path": "local/alba/ocna-mures/2014/66",
+   "short": "HCL Ocna Mureș nr. 66/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 66/2014 privind aprobarea achiziţiei publice în vederea atribuirii contractului de execuţie pentru ,,Lucrări de reparaţii curente străzi asfaltate şi trotuare din oraşul Ocna Mureş”, cod CPV: 45233251-3; 45233161-5, prin ”achiziţie directă”, criteriul de atribuire fiind ,,preţul cel mai scăzut” | 09.05.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-066.pdf",
+     "sha256": "9ed90a0c6f28e2f9ccb3c871c422379a09bc9418cb85fecbbe6246d223f65474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-67-2014",
+   "path": "local/alba/ocna-mures/2014/67",
+   "short": "HCL Ocna Mureș nr. 67/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 67/2014 privind aprobarea achiziţiei publice în vederea atribuirii contractului pentru „Lucrări de confecţionat şi montaj balustradă pe strada Lungă şi N",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-067.pdf",
+     "sha256": "6d781dc39b22578a9d6000ec309746d06dfee6cbf39784d9891d539b29fa536e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-68-2014",
+   "path": "local/alba/ocna-mures/2014/68",
+   "short": "HCL Ocna Mureș nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 68/2014 privind aprobarea Proiectului nr 4933/2013 cuprinzând “PLanul de amenajare a teritoriului zonal Valea Mureşului-judeţul Alba” întocmit S.C Mancom Centru S.R L Alba Iulia, conform anexei, care face parte integrantă din prezenta | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-068.pdf",
+     "sha256": "58fa6a936d1c0418137ad48a07fd1dc31e14509645524a2001be929f4d334152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-69-2014",
+   "path": "local/alba/ocna-mures/2014/69",
+   "short": "HCL Ocna Mureș nr. 69/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 69/2014 privind administrația publică locală; HOTĂRĂȘTE: Art.1",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-069.pdf",
+     "sha256": "62b45f861bada3d46f40e25654d159391af606618b1f1f24f5fd0e120c81ee02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-7-2014",
+   "path": "local/alba/ocna-mures/2014/7",
+   "short": "HCL Ocna Mureș nr. 7/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 7/2014 privind aprobarea Contului trimestrial de execuţie a bugetului local pe trimestrul IV anul 2013 şi programul anual al achiziţiilor publice realizat în anul 2013 | 19.02.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-7.pdf",
+     "sha256": "9d009947defd744aeb86e207c13ce160dfe7d2321154b682b2f7318ddf8c71d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-70-2014",
+   "path": "local/alba/ocna-mures/2014/70",
+   "short": "HCL Ocna Mureș nr. 70/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 70/2014 Privind aprobarea modificării statului de funcţii al aparatului de specialitate al Primarului oraşului Ocna Mureş | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-070.pdf",
+     "sha256": "633534d282fca1e45ffd3108d26809fea33707c4bd4601cf2e6eba46f0a4588d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-71-2014",
+   "path": "local/alba/ocna-mures/2014/71",
+   "short": "HCL Ocna Mureș nr. 71/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 71/2014 Privind prelungirea contractelor de închiriere, a chiriaşilor din blocul 72 ANL, înscrişi în anexă, pe o perioadă de 1 an, începând cu data expirări contractelor. | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-071.pdf",
+     "sha256": "ee26782c3c028405e9d0860acb34623f8f2918ccf1dd891ce938adfd7b81f94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-72-2014",
+   "path": "local/alba/ocna-mures/2014/72",
+   "short": "HCL Ocna Mureș nr. 72/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 72/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-072.pdf",
+     "sha256": "140e1b1a16cc76e6f6ec5306bd08c443e98c41f08608e28609f7ba2b32245428"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-76-2014",
+   "path": "local/alba/ocna-mures/2014/76",
+   "short": "HCL Ocna Mureș nr. 76/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 76/2014 privind încheierea unei Convenţii pentru modificarea traseului reţeleide distribuţie a gazelor naturale existente lângă blocul 46, între scările 5 şi 6, între oraşul Ocna Mureş şi E.ON DISTRIBUŢIE SA | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-076.pdf",
+     "sha256": "dedb709445cc82b5ced532761be80a3fb44546e035c1e1aa8fabaad5cf0b80f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-77-2014",
+   "path": "local/alba/ocna-mures/2014/77",
+   "short": "HCL Ocna Mureș nr. 77/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 77/2014 privind modificarea şi completarea anexelor nr 2 a şi 2 b a Hotărârii Consiliului Local al oraşului Ocna Mureş nr 50/2013. | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-077.pdf",
+     "sha256": "17a743919b6c7015c3ec430e98dd920cc01fc34c3a127f3f34eb88ed902830ac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-8-2014",
    "path": "local/alba/ocna-mures/2014/8",
    "short": "HCL Ocna Mureș nr. 8/2014",
@@ -194,6 +2774,36 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-8.pdf",
      "sha256": "6b5dafc5f0196ad64b5fcb8037e07c75d01f20df28896a7928b44d24349279db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-81-2014",
+   "path": "local/alba/ocna-mures/2014/81",
+   "short": "HCL Ocna Mureș nr. 81/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 81/2014 privind aprobarea închirierii, prin licitaţie publică, unor suprafeţe de teren proprietate publica a oraşului Ocna Mureş în vederea amenajării şi funcţionării de terase comerciale sezoniere | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-081.pdf",
+     "sha256": "446238bb8ce0613a5633b12a7e97fb0277a086f0fa501040047077c43f57d51f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-83-2014",
+   "path": "local/alba/ocna-mures/2014/83",
+   "short": "HCL Ocna Mureș nr. 83/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 83/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-083.pdf",
+     "sha256": "554273fda90fb438239e0d05be53681930e6b5555479d930a54420f53fc2d6fd"
     }
    ]
   },
@@ -213,6 +2823,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-86-2014",
+   "path": "local/alba/ocna-mures/2014/86",
+   "short": "HCL Ocna Mureș nr. 86/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 86/2014 privind rectificarea bugetului local pe anul 2014 şi modificarea listei de investiţii pe anul 2014, conform anexeelor nr. 1 şi 2 | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-086.pdf",
+     "sha256": "457ad7c6c8fa43b799508b31dbf2bb24cb05f7d038a31dee42e751c8542c4784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-87-2014",
+   "path": "local/alba/ocna-mures/2014/87",
+   "short": "HCL Ocna Mureș nr. 87/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 87/2014 privind aprobarea participării Oraşului Ocna Mureş la Programul de stimulare a înnoirii Parcului auto naţional | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-087.pdf",
+     "sha256": "e69b73cd33df978b274a75ab3bcdab9d5aa4927f021c4a616948e6d24a990f32"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-89-2014",
    "path": "local/alba/ocna-mures/2014/89",
    "short": "HCL Ocna Mureș nr. 89/2014",
@@ -224,6 +2864,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-089.pdf",
      "sha256": "43f37f5ae3043d4021ce7dae90cc06b272494a0d5480edac617824f9d6b124db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-9-2014",
+   "path": "local/alba/ocna-mures/2014/9",
+   "short": "HCL Ocna Mureș nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 9/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-9.pdf",
+     "sha256": "444ae03f653f424db09bcdaccb05ac50c4bd54362d051b95b07d665216bc8256"
     }
    ]
   },
@@ -243,6 +2898,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-91-2014",
+   "path": "local/alba/ocna-mures/2014/91",
+   "short": "HCL Ocna Mureș nr. 91/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 91/2014 privind aprobarea achiziţiei publice pentru executarea de „Lucrări de înlocuire şi ridicare la cotă de capace de vizitare”, cartier SODA, oraş Ocna Mureş | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-091.pdf",
+     "sha256": "c0f940639fabd228fe001f26b44873e8de3c73851c5eefb89ca2fbcbb5058b98"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-92-2014",
    "path": "local/alba/ocna-mures/2014/92",
    "short": "HCL Ocna Mureș nr. 92/2014",
@@ -254,6 +2924,81 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-092.pdf",
      "sha256": "57456cbb080550f675de9dbbb54221d433f55d3484c7d15b45703c4524d7ef85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-93-2014",
+   "path": "local/alba/ocna-mures/2014/93",
+   "short": "HCL Ocna Mureș nr. 93/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 93/2014 Privind încetarea, începând cu data de 08.06.2014 a contractului de concesiune nr 16626/03.11.2010 a concesionarului Grancea Iordan | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-093.pdf",
+     "sha256": "21216fa23a2a64ecdc6ed38198b80ff25d9be7f719f953f53d461e572d874650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-96-2014",
+   "path": "local/alba/ocna-mures/2014/96",
+   "short": "HCL Ocna Mureș nr. 96/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 96/2014 privind administrația publică locală; HOTĂRĂȘTE: Art.1",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-096.pdf",
+     "sha256": "3de278212b84b9320de666cd8005c860416b12aa897c4a65bad21029f5c4c7ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-97-2014",
+   "path": "local/alba/ocna-mures/2014/97",
+   "short": "HCL Ocna Mureș nr. 97/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 97/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-097.pdf",
+     "sha256": "6adefe14478052d1bff9da96d307bc5b9a13e0823a33ffac6e0393a2b65754ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-98-2014",
+   "path": "local/alba/ocna-mures/2014/98",
+   "short": "HCL Ocna Mureș nr. 98/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 98/2014 privind transmiterea în folosinţa gratuită, a sălii de sport şi teren aferent în favoarea unităţii de învăţământ şcolar preuniversitar de stat „Şcoala gimnazială Lucian Blaga” din Ocna Mureş | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-098.pdf",
+     "sha256": "546f14f8093d593f656d2a13576ee57a3a17b442cfe4669e89bf00d2d7d73aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-99-2014",
+   "path": "local/alba/ocna-mures/2014/99",
+   "short": "HCL Ocna Mureș nr. 99/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 99/2014 Privind aprobarea condiţiilor generale şi specifice de ocupare a funcţiilor publice de poliţişti locali | 10.06.2014",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2014/hcl-099.pdf",
+     "sha256": "eafd7e99f11e248f197945c48c98ed9c2a5eab9ed5e2b3c8afcd1bf418bc0699"
     }
    ]
   }

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2022",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-15-2022",
+   "path": "local/alba/ocna-mures/2022/15",
+   "short": "HCL Ocna Mureș nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 15/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-15-din-09.02.2022.pdf",
+     "sha256": "16e9c3d95429c83d6c5d82bb538731e5891926b44b57203b9bdb20e9eaf37870"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-16-2022",
+   "path": "local/alba/ocna-mures/2022/16",
+   "short": "HCL Ocna Mureș nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-16-din-09.02.2022.pdf",
+     "sha256": "5becaf9c3326a86042ebdf9fb6c5c7ca3b99ad6dc61f82f5d2c6876779c025f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-17-2022",
+   "path": "local/alba/ocna-mures/2022/17",
+   "short": "HCL Ocna Mureș nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 17/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-17-din-09.02.2022.pdf",
+     "sha256": "9b4b2ce23132c9b8b831902701a8eaaa4c44aa18c5467924811dc7c0b3e61ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-18-2022",
+   "path": "local/alba/ocna-mures/2022/18",
+   "short": "HCL Ocna Mureș nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 18/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-18-din-09.02.2022.pdf",
+     "sha256": "fb3cc8531fc6ebef2860a78ceaff6d7c35e303183a40ef8018aac670c4d0fe4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-19-2022",
+   "path": "local/alba/ocna-mures/2022/19",
+   "short": "HCL Ocna Mureș nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-19-din-09.02.2022.pdf",
+     "sha256": "3c947aed807f7d228d73ca26db29f8046bffc1d305e4a9da37efceaf93968bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-20-2022",
+   "path": "local/alba/ocna-mures/2022/20",
+   "short": "HCL Ocna Mureș nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-20-din-09.02.2022.pdf",
+     "sha256": "ddea5f780d0250e9c662a552257b65e258ab5946713fffd39532c6a6ae0796c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2022",
+   "path": "local/alba/ocna-mures/2022/21",
+   "short": "HCL Ocna Mureș nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2022",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2022/02/Hot-21-din-09.02.2022.pdf",
+     "sha256": "85070e0b7f2b132ead6a0d49f489dedb2cc291f2926364c583f57385222be60e"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/alba/sebes/2021",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-1-2021",
+   "path": "local/alba/sebes/2021/1",
+   "short": "HCL Sebeș nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 1/2021 privind alegerea președintelui de ședință",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/01/hcl-1.pdf",
+     "sha256": "316d0f3485ea602451c06488395551006a767075b08744918fff2b393f63fe85"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-10-2021",
    "path": "local/alba/sebes/2021/10",
    "short": "HCL Sebeș nr. 10/2021",
@@ -14,6 +29,396 @@
      "units": 1,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-10.pdf",
      "sha256": "2b3ed8b785f3ddead9b47ed0eca9b94ae707270f0efbdca450d6830c8912f979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-102-2021",
+   "path": "local/alba/sebes/2021/102",
+   "short": "HCL Sebeș nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 102/2021 privind însușirea notificării nr. 3649/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8047/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-102.pdf",
+     "sha256": "6e1dc381a424c13ece2f896ddbfe1552ec9cf42a0df5d9a92ec44fdfb22d7c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-103-2021",
+   "path": "local/alba/sebes/2021/103",
+   "short": "HCL Sebeș nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 103/2021 privind însușirea notificării nr. 3654/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8064/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-103.pdf",
+     "sha256": "97b2a71ff9a33269eba3ccb5752e44b6491ada77527be043c0b02e30dab0cde6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-104-2021",
+   "path": "local/alba/sebes/2021/104",
+   "short": "HCL Sebeș nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 104/2021 privind însușirea notificării nr. 3648/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 9368/24.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-104.pdf",
+     "sha256": "459ac2b57a8cc15ada02e553a7d71bea50e6fd8fed490c7446d943eaf4cd7fb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-105-2021",
+   "path": "local/alba/sebes/2021/105",
+   "short": "HCL Sebeș nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 105/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-105.pdf",
+     "sha256": "1202d2b83c0404689b810167bd136b246a44a3b217bad3359075da3013d2d186"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-106-2021",
+   "path": "local/alba/sebes/2021/106",
+   "short": "HCL Sebeș nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 106/2021 privind însușirea notificării nr. 3646/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8026/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-106.pdf",
+     "sha256": "422845520221d2e2945d57ef5ab8a74c6be140e4d71a5791434c3acbc978a14a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-107-2021",
+   "path": "local/alba/sebes/2021/107",
+   "short": "HCL Sebeș nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 107/2021 privind însușirea notificării nr. 3664/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8062/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-107.pdf",
+     "sha256": "c409ded40bc5ead77a18dfd60e93b9b4197aaad52695e58233eedde90f97a928"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-108-2021",
+   "path": "local/alba/sebes/2021/108",
+   "short": "HCL Sebeș nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 108/2021 privind însușirea notificării nr. 3660/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 9367/24.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-108.pdf",
+     "sha256": "f3538065af02e20c4c042211763194d39375575d9fc4977eefef040addc25c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-109-2021",
+   "path": "local/alba/sebes/2021/109",
+   "short": "HCL Sebeș nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 109/2021 privind însușirea notificării nr. 3625/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8049/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-109.pdf",
+     "sha256": "44a7737e257234f8eb7c5af012c8062b24bf0858cf0f82085f146e1caca8b9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-11-2021",
+   "path": "local/alba/sebes/2021/11",
+   "short": "HCL Sebeș nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 11/2021 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de pe raza Municipiului Sebeș pentru anul școlar 2021-2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-11.pdf",
+     "sha256": "33b0f9acebd26e92155fcc1530f5100b55533c4ac8ebf8eea4890453417bc204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-110-2021",
+   "path": "local/alba/sebes/2021/110",
+   "short": "HCL Sebeș nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 110/2021 privind însușirea notificării nr. 3706/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 9370/24.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-110.pdf",
+     "sha256": "5bb5c785eba98c3f57b6d6f56c57bf7816d469390f0d64ad770bba2a9806b49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-111-2021",
+   "path": "local/alba/sebes/2021/111",
+   "short": "HCL Sebeș nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 111/2021 privind însușirea notificării nr. 3709/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8050/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-111.pdf",
+     "sha256": "51d172652ae44899a0f72b66c463d04921b4068e72e33778b903a8eb225888bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-112-2021",
+   "path": "local/alba/sebes/2021/112",
+   "short": "HCL Sebeș nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 112/2021 privind însușirea notificării nr. 3638/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 10203/15.05.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-112.pdf",
+     "sha256": "e8ede03593649c8f1984629cf13951aa9f0f6774614956c9ca93621bc5540e69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-113-2021",
+   "path": "local/alba/sebes/2021/113",
+   "short": "HCL Sebeș nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 113/2021 privind însușirea notificării nr. 3678/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 9369/24.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-113.pdf",
+     "sha256": "2c9de32f4eae5b74b36243b2ad4bec42734d44206befbdad52378c7c3ef20f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-114-2021",
+   "path": "local/alba/sebes/2021/114",
+   "short": "HCL Sebeș nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 114/2021 privind modificarea HCL nr.222/2020 și aprobarea devizului general revizuit al obiectivului de investiții ,,Construire locuințe sociale”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-114-1.pdf",
+     "sha256": "cab2a6a66364fd2fc720ebbf7a9d2beb0dd96bdf4090487eebaf07fd685b122b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-116-2021",
+   "path": "local/alba/sebes/2021/116",
+   "short": "HCL Sebeș nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 116/2021 referitoare la data intrării în vigoare a Regulamentului privind procedura de vânzare a bunurilor imobile (terenuri și construcții) aflate în domeniul privat al Municipiului Sebeș prin reformularea co",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-116.pdf",
+     "sha256": "bab7c06c60f3938b2ef285413980b18bf8ec4b7530c983bf80555d790bcfded5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-117-2021",
+   "path": "local/alba/sebes/2021/117",
+   "short": "HCL Sebeș nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 117/2021 privind acordul de principiu referitor la vânzarea imobilului (casă de locuit-stadiu la roșu), situat în Mun. Sebeș, loc. Lancrăm, str. Râului, nr.2, înscris în CF nr.77461 Sebeș (nr",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-117.pdf",
+     "sha256": "3639f1dad54afcebf492c50d670d3f76007137741a8f09c242e5d4f2cd6358fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-118-2021",
+   "path": "local/alba/sebes/2021/118",
+   "short": "HCL Sebeș nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 118/2021 privind retragerea dreptului de administrare al S.P.A.P asupra unor imobile (terenuri și construcții) aflate în domeniul public al Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-118.pdf",
+     "sha256": "51f841a97858cbd5de293a1078f7771c851650151771e42a641f09639d804118"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-119-2021",
+   "path": "local/alba/sebes/2021/119",
+   "short": "HCL Sebeș nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 119/2021 privind darea în administrarea Serviciului Public de Administrarea Patrimoniului Sebeș a imobilelor ,,Apeduct” și ,,Teren aferent APEDUCT-12.730 mp” , aflate în domeniul privat al Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-119.pdf",
+     "sha256": "7cb06a2a514ea1c8d67ae6bd8f75080c4d96d788275c50732a628741deb2ef25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-12-2021",
+   "path": "local/alba/sebes/2021/12",
+   "short": "HCL Sebeș nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 12/2021 privind aprobarea numărului de asistenți personali prevăzut în Statul de Funcții al Direcției de Asistență Socială Sebeș pe anul 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-12.pdf",
+     "sha256": "27ef1c62029b3efa0d79d8a38a6de3959cefbb6236528ccec40fadb50c6fe5ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-120-2021",
+   "path": "local/alba/sebes/2021/120",
+   "short": "HCL Sebeș nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 120/2021 privind modificarea HCL nr.12/2018, aprobarea Studiului de Fezabilitate actualizat și a devizului general actualizat ale obiectivului de investiții ,,Modernizare străzi: Aurel Vlaicu, 8 Martie, Fântâna de Aur, Sticlarilor, Municipiul Se",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-120-1.pdf",
+     "sha256": "4110624f3f926c86d99617008c221522d45ea1f5e250728e9accefce882d48a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-121-2021",
+   "path": "local/alba/sebes/2021/121",
+   "short": "HCL Sebeș nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 121/2021 privind aprobarea modificării H.C.L 158/2020 și a Devizului General actualizat pentru realizarea obiectivului de investiții: Canalizare menajeră și Stație de Epurare, sat Răhău, Municipiul Sebeș”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-121.pdf",
+     "sha256": "7c3926f22a43b7f971448015f904f71a8683e5e387dafb37aa59617fd526adf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-122-2021",
+   "path": "local/alba/sebes/2021/122",
+   "short": "HCL Sebeș nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 122/2021 privind darea în administrarea Serviciului Public de Administrare a Patrimoniului Sebeș a imobilelor ,,Teren aferent Stație de tratare apa Petrești-1251 mp” nr.inv.10321.1 și ,,Stație de tratare apa Petrești-Cabina portar” nr.inv.10321",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-122.pdf",
+     "sha256": "b7d172572247f965cb3a9efdb3d85231fb4b2d376365ebc5725d55c5777f3a4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-124-2021",
+   "path": "local/alba/sebes/2021/124",
+   "short": "HCL Sebeș nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 124/2021 privind modificarea anexei 6 a hotărârii Consiliului Local al Municipiului Sebeș nr.393/2018 privind stabilirea salariilor de bază pentru Secretar Municipiu, funcționarii publici și personalul contractual din cadrul aparatului de specia",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-124.pdf",
+     "sha256": "39d1b0492094253dbf46ba060ed0c4efc49d9946a0639c5b804bd336d024329b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-125-2021",
+   "path": "local/alba/sebes/2021/125",
+   "short": "HCL Sebeș nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 125/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-125.pdf",
+     "sha256": "14f2a230074fe5d26b8d266bf8b3232120f1b834317109142a05758aef77a3d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-13-2021",
+   "path": "local/alba/sebes/2021/13",
+   "short": "HCL Sebeș nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 13/2021 privind aprobarea cuantumului compensațiilor în bani care se vor acorda voluntarilor din Serviciul Voluntar pentru Situații de urgență al Municipiului Sebeș, pentru timpul efectiv de lucru",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-13.pdf",
+     "sha256": "91b6ce5a84e950cf03e74c6643d0efd4e3fc29b86f9fed5c81508812f948d36d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-132-2021",
+   "path": "local/alba/sebes/2021/132",
+   "short": "HCL Sebeș nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 132/2021 privind aprobarea încheierii unui act adițional la contractul de asociere nr. 46064/30.12.2011 și aprobarea Organigramei Ocolului Silvic Sebeș R.A",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/05/HCL-132.pdf",
+     "sha256": "03da5ced4fd151e4bcd77f3e8d3d7bae234770710e17c2594dd36ad92f807095"
     }
    ]
   },
@@ -33,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-134-2021",
+   "path": "local/alba/sebes/2021/134",
+   "short": "HCL Sebeș nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 134/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/05/HCL-134.pdf",
+     "sha256": "d5d4035ca1e2bdea8d87946684aa00f4f8e74c9de2c426e67de6ed663d4d5370"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-135-2021",
    "path": "local/alba/sebes/2021/135",
    "short": "HCL Sebeș nr. 135/2021",
@@ -44,6 +464,96 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-135.pdf",
      "sha256": "16964042c89fe1056bd303633d7fa5dd493cdbadd6a29f793e33339a50f9b954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-136-2021",
+   "path": "local/alba/sebes/2021/136",
+   "short": "HCL Sebeș nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 136/2021 privind modificarea HCL nr.246/2020 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-136.pdf",
+     "sha256": "ccc711362a83813b3122fe775b095cf5e92c81dca9bfc1805619f853d21061cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-137-2021",
+   "path": "local/alba/sebes/2021/137",
+   "short": "HCL Sebeș nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 137/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-137.pdf",
+     "sha256": "fbbade361ddba1ab6cea8bf21fc64d0528f1ea190b243cefcb8bbee45915b070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-139-2021",
+   "path": "local/alba/sebes/2021/139",
+   "short": "HCL Sebeș nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 139/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: strada Mihai Eminescu-Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-139.pdf",
+     "sha256": "a65b01e6058ce0e045b72cf663302f923c63390f4a9f10ac1930b875199662b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-141-2021",
+   "path": "local/alba/sebes/2021/141",
+   "short": "HCL Sebeș nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 141/2021 privind aprobarea cuantumului compensaților în bani care se vor acorda voluntarilor din Serviciul Voluntar pentru Situații de Urgență al Municipiului Sebeș, pentru timpul efectiv de lucru și încetarea valabilității H.C.L nr.13/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-141.pdf",
+     "sha256": "f6b5afe0a81803f6ab6ee7f4b87dfd573fe453b69ef08d47e3311cdc23a11c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-142-2021",
+   "path": "local/alba/sebes/2021/142",
+   "short": "HCL Sebeș nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 142/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-142.pdf",
+     "sha256": "fcc67360cc246da889919c55b8660841a8166237657820b86846316cfa105eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-145-2021",
+   "path": "local/alba/sebes/2021/145",
+   "short": "HCL Sebeș nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 145/2021 privind modificarea H.C.L nr.46/2021 în sensul înlocuirii documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: strada Dorobanți, domeniul public, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-145.pdf",
+     "sha256": "e088731ef89160b4b95fce1cf80e6516c1133a1d51b073f1b320b9ce79c72619"
     }
    ]
   },
@@ -78,6 +588,51 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-149-2021",
+   "path": "local/alba/sebes/2021/149",
+   "short": "HCL Sebeș nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 149/2021 privind propunerea de atribuire teren aferent construcțiilor proprietate personală",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-149.pdf",
+     "sha256": "e3d21fc3b611193cad4a426bb3198d37225e6d0abeeb480f34f213f7f4a2586e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-15-2021",
+   "path": "local/alba/sebes/2021/15",
+   "short": "HCL Sebeș nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 15/2021 privind aprobarea modificării Anexei nr.1 la HCL nr.266/2020 –Stat de funcții și Anexa nr.2 la HCL nr.266/2020-Organigrama Serviciului Public de Administrare a Patrimoniului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-15.pdf",
+     "sha256": "153fe76bee8d55fdcac364c08fcdee148f0126caf26ae932df98b27a36764459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-152-2021",
+   "path": "local/alba/sebes/2021/152",
+   "short": "HCL Sebeș nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 152/2021 privind majorarea bugetului local pe anul 2021 si majorarea Programului de investiții publice pe obiective de investiții, pe surse de finanțare pe anul 2021 și estimări 2022-2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-152.pdf",
+     "sha256": "0bf4786cc6c650792119b30aa40901a2fba80287e19f058ad9a32a6382062508"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-154-2021",
    "path": "local/alba/sebes/2021/154",
    "short": "HCL Sebeș nr. 154/2021",
@@ -93,6 +648,306 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-155-2021",
+   "path": "local/alba/sebes/2021/155",
+   "short": "HCL Sebeș nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 155/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-155.pdf",
+     "sha256": "4da8014bc4f1161ab660ef3cdc767c75db7d98e949d90940aaa0641c425dd66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-159-2021",
+   "path": "local/alba/sebes/2021/159",
+   "short": "HCL Sebeș nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 159/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-159.pdf",
+     "sha256": "c489f2007169ced22de792cbb687f757a7809efafcfd21d8dda9d6a602884065"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-16-2021",
+   "path": "local/alba/sebes/2021/16",
+   "short": "HCL Sebeș nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 16/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-16.pdf",
+     "sha256": "a339150f9020765bc668585703efcf60e4d43d0a571cbca7a2f29b2b7f4f60d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-162-2021",
+   "path": "local/alba/sebes/2021/162",
+   "short": "HCL Sebeș nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 162/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-162.pdf",
+     "sha256": "a19413c98e363bcacc86138a1045d4ba2241c0e5204a1f8d4f4893c7574bfe3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-165-2021",
+   "path": "local/alba/sebes/2021/165",
+   "short": "HCL Sebeș nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 165/2021 privind retragerea din administrarea Serviciului Public de Administrarea Patrimoniului Sebeș a imobilului “Casa Zapolya” și darea în administrare către Centrul Cultural “Lucian Blaga”, ca urmare a executării unor lucrări de reparații",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-165.pdf",
+     "sha256": "17d2f1d12fdad2a77fd69d8e3df95e435b06925c03659182b1783d0ed9a6f4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-167-2021",
+   "path": "local/alba/sebes/2021/167",
+   "short": "HCL Sebeș nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 167/2021 privind propunerea de atribuire teren aferent construcțiilor proprietate personală",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-167.pdf",
+     "sha256": "e218035be9bd0aecb044d7204ee4aa49608476e43d728930c021b7062cb22493"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-168-2021",
+   "path": "local/alba/sebes/2021/168",
+   "short": "HCL Sebeș nr. 168/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 168/2021 pentru aprobarea desființării staţiei taxi cu 3(trei) locuri de așteptare aflată pe strada Dorin Pavel, nr. 60, Municipiul Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-168.pdf",
+     "sha256": "1b413d70e028b480248c065572e285704327b2a3cb4327a127e8b874cb39b43a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-169-2021",
+   "path": "local/alba/sebes/2021/169",
+   "short": "HCL Sebeș nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 169/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-169.pdf",
+     "sha256": "fdf2b773b6a5d90385d9e8e9f13c3c93a8c0fb61f4f0f52a9f9bcf8f4daf0c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-17-2021",
+   "path": "local/alba/sebes/2021/17",
+   "short": "HCL Sebeș nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 17/2021 privind aprobarea prelungirii Contractului de închiriere –cabinet medical nr.09/11459/25.03.2015 situat în Sebeș, str. M. Kogălniceanu, nr.128",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-17.pdf",
+     "sha256": "095049a27ecb0b8d7fd89698d1fc470513ede0c42b8facf7f624671f4886dabf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-170-2021",
+   "path": "local/alba/sebes/2021/170",
+   "short": "HCL Sebeș nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 170/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-170.pdf",
+     "sha256": "e11633e27d6fdcb71709d092504d9217e90dc7ab40b16b933e88d4258e8c05a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-171-2021",
+   "path": "local/alba/sebes/2021/171",
+   "short": "HCL Sebeș nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 171/2021 privind aprobarea modificării organigramei si statului de funcții pentru aparatul de specialitate al Primarului Municipiului Sebeș, județul Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-171.pdf",
+     "sha256": "5b906c9b794696aaeb7d6c840f9ca40e22d997190d9ba3d2e73add4d7f71d3ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-172-2021",
+   "path": "local/alba/sebes/2021/172",
+   "short": "HCL Sebeș nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 172/2021 privind acordul Consiliului Local privind trecerea a două imobile în domeniul privat al Municipiului Sebeș în vederea demolării și aprobarea construirii unei construcții – magazie aparținând Spitalului Municipal Sebeș „Sfânta Sofia”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-172.pdf",
+     "sha256": "358a39f7cca594fd1eabb1a07d31c67bebc2ee47dd9feec5e8c27e2565cf3661"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-175-2021",
+   "path": "local/alba/sebes/2021/175",
+   "short": "HCL Sebeș nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 175/2021 privind completarea Inventarului domeniului public al Municipiului Sebeș ca urmare a finalizării și efectuării recepției la terminarea lucrărilor pentru obiectivul de investiții: „Reamenajare parcări în Municipiul Sebeș”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-175.pdf",
+     "sha256": "3e90a25e76d835e81c2d7eea0d332ab4fe9ccacc48bdcb9d9ef405c12511fd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-178-2021",
+   "path": "local/alba/sebes/2021/178",
+   "short": "HCL Sebeș nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 178/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: strada Luncile Prigoanei, nr. 17 – Com. Șugag, Loc",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-178.pdf",
+     "sha256": "5b93fb5c3c76d6bd4a7ec683f0007e1a6908ca2ba7a4ee72612282571325561d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-179-2021",
+   "path": "local/alba/sebes/2021/179",
+   "short": "HCL Sebeș nr. 179/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 179/2021 privind aprobarea încheierii unui Protocol de parteneriat cu Universitatea Politehnică Timișoara– Facultatea de Arhitectură și Urbanism",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-179.pdf",
+     "sha256": "5ce6595f89e7d880995fd33f3fcc207d19235a47500d703e10f284e56763422c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-18-2021",
+   "path": "local/alba/sebes/2021/18",
+   "short": "HCL Sebeș nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 18/2021 privind aprobarea calendarului de activități cultural-educative care se vor desfășura în cursul anului 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-18.pdf",
+     "sha256": "de20a75a9faaf4f602243de4c76c61648abfc5226527448bd899c0e6d5b05b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-180-2021",
+   "path": "local/alba/sebes/2021/180",
+   "short": "HCL Sebeș nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 180/2021 privind aprobarea dării în administrarea Serviciului Public de Administrare a Patrimoniului Sebeș a unor imobile clădiri, aflate în domeniul privat al Municipiului Sebeș – menționate în Anexa, pentru reabilitarea acestora",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-180.pdf",
+     "sha256": "b8b68cd3174a73c74472b0299c24b1cc01cc3cc6e4505b4d83837a5bd079bdd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-182-2021",
+   "path": "local/alba/sebes/2021/182",
+   "short": "HCL Sebeș nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 182/2021 privind acordarea din bugetul local al Municipiului Sebeș a sumei de 129,872 lei sub formă de finanțări nerambursabile pentru activități non-profit de interes local pe anul 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-182.pdf",
+     "sha256": "faa5d26c17ce9dbf315256cf131dfc744918e9d01e7528bb917b68fcb11dd952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-183-2021",
+   "path": "local/alba/sebes/2021/183",
+   "short": "HCL Sebeș nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 183/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-183.pdf",
+     "sha256": "6a38fb15c49b6d32ae9f65de0f9f286410b1110137ef26961f83e8139cdae74d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-184-2021",
+   "path": "local/alba/sebes/2021/184",
+   "short": "HCL Sebeș nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 184/2021 privind aprobarea listei de licitație, a tipului de valorificare, tipului de licitație și a prețului de pornire conform listei partizilor pentru licitația principală ,,pe picior” producția anului 2021 pentru masa lemnoasă ce se valorifi",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/07/hcl-184.pdf",
+     "sha256": "dce5bb42f5ceb0d454c2db34faad84b199a59cf50dd240b882b37d2a3d081f8a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-188-2021",
    "path": "local/alba/sebes/2021/188",
    "short": "HCL Sebeș nr. 188/2021",
@@ -104,6 +959,36 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/HCL-188.pdf",
      "sha256": "dd6d7b96ee9af6ebfa3d0d1cb76dfadbfa25b3805b554d897e4fcfc336c800b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-189-2021",
+   "path": "local/alba/sebes/2021/189",
+   "short": "HCL Sebeș nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 189/2021 privind aprobarea prelungirii unor contracte de închiriere locuință situate pe raza UAT a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/HCL-189.pdf",
+     "sha256": "2c24af31c247704eace165bdcb8fec9480c93ca4255e45bc96a87a4f11fc65ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-19-2021",
+   "path": "local/alba/sebes/2021/19",
+   "short": "HCL Sebeș nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 19/2021 privind retragerea din administrarea domeniului public al Serviciului Public de Administrarea Patrimoniului Sebeș, a imobilului ,,Clădire centrală termică zona Parc” cu nr. inventar 10443, urmare a H.C.L nr.281/2020",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-19.pdf",
+     "sha256": "65c051bdfff9690d2da473b863ad2be96c162b4a8d83e04a2c92076e3fb77597"
     }
    ]
   },
@@ -153,6 +1038,81 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-1965-2021",
+   "path": "local/alba/sebes/2021/1965",
+   "short": "HCL Sebeș nr. 1965/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 1965/2021 privind propunerea de atribuire teren aferent construcțiilor proprietate personală Consiliul focal al Municipiului Sebeș, jud. Alba; Întrunit în ședința publică ordinara din data de 29.07.2021, ora 14,00;",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/HCL-196.pdf",
+     "sha256": "336125d7e3af57f5764cc4f3f47f9086808916a399cc481a795b880af41704f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-199-2021",
+   "path": "local/alba/sebes/2021/199",
+   "short": "HCL Sebeș nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 199/2021 privind transmiterea fără plată a unor bunuri materiale aflate în patrimoniul municipiului Sebeș către comunele Ocoliș și Sohodol",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/hcl-199.pdf",
+     "sha256": "eb80d171250df574078d951e9c75eade224185004194c82f034338da9cf2785e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-2-2021",
+   "path": "local/alba/sebes/2021/2",
+   "short": "HCL Sebeș nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 2/2021 privind aprobarea utilizării excedentului din anii precedenți pentru acoperirea golului temporar de casă al secțiunii de funcționare și dezvoltare",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/01/hcl-2.pdf",
+     "sha256": "c5bd679b4b096b6a96a042174ef45c7650628904170b844c52fc67c8116ab009"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-20-2021",
+   "path": "local/alba/sebes/2021/20",
+   "short": "HCL Sebeș nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 20/2021 privind aprobarea prelungirii Contractului de închiriere- spațiu nr.7/14809/22.02.2018",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-20.pdf",
+     "sha256": "53b92a2b9bfffe5398a1461a2dc605a47376a60d32e6074898061af94c269d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-204-2021",
+   "path": "local/alba/sebes/2021/204",
+   "short": "HCL Sebeș nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 204/2021 privind alegerea viceprimarului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/hcl-204.pdf",
+     "sha256": "b68fe0ca53e344bf83c3e8e9f9c9e1fd971a9a136802da5016e02e371aa74ae4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-207-2021",
    "path": "local/alba/sebes/2021/207",
    "short": "HCL Sebeș nr. 207/2021",
@@ -179,6 +1139,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/HCL-209.pdf",
      "sha256": "0a18e3a22e15223c43da0f9bef26221024589bc1b035bb68bbbdbcd53e067223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-21-2021",
+   "path": "local/alba/sebes/2021/21",
+   "short": "HCL Sebeș nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 21/2021 privind majorarea cuantumului alocației zilnice de hrană pentru persoanele vârstnice instituționalizate în cadrul Căminului Pentru Persoane Vârstnice Sebeș de la 16,6 lei/zi/persoană, la 22 lei/zi/persoană",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-21.pdf",
+     "sha256": "465e23f1ce28e0e8cfb194ad9fa8d1c90878d8daecc9de1cfc9102f57db65976"
     }
    ]
   },
@@ -269,6 +1244,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/HCL-219.pdf",
      "sha256": "18de71d1e9fb0f7a9e66df4d94a080c2fafa4dd172adacc5da335aba444328fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-22-2021",
+   "path": "local/alba/sebes/2021/22",
+   "short": "HCL Sebeș nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 22/2021 privind aprobarea prelungirii a două contracte de închiriere locuință situate pe raza UAT a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-22.pdf",
+     "sha256": "257dd0095d33abbad67ca225a49fad4db7232df665e9f4ccf424f295a30e7c5c"
     }
    ]
   },
@@ -393,6 +1383,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-23-2021",
+   "path": "local/alba/sebes/2021/23",
+   "short": "HCL Sebeș nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 23/2021 privind aprobarea Planului de lucrări sau acțiuni de interes local pentru repartizarea orelor de muncă ce vor fi executate de către persoanele majore apte de muncă din familia beneficiară de ajutor social în anul 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-23.pdf",
+     "sha256": "c4a84d0cc36433e4b7c0e6d732d98b6e2e8212834b5e09e0c2258ac7dca50c99"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-230-2021",
    "path": "local/alba/sebes/2021/230",
    "short": "HCL Sebeș nr. 230/2021",
@@ -423,6 +1428,156 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-236-2021",
+   "path": "local/alba/sebes/2021/236",
+   "short": "HCL Sebeș nr. 236/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 236/2021 privind aprobarea modificării Anexei nr.1 ,,Program de circulație”la Contractul de atribuire în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr.65/2015",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-236.pdf",
+     "sha256": "506d2709bceaac3b0549a7f861e20e9d9d1b9dbcbfbdf86fb0c09f2a2a38e62b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-237-2021",
+   "path": "local/alba/sebes/2021/237",
+   "short": "HCL Sebeș nr. 237/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 237/2021 privind aprobarea atribuirii licențelor de traseu pentru efectuarea serviciului de transport public local de persoane prin curse regulate",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-237.pdf",
+     "sha256": "185bac41279004ff602809d7e3882a5b1ee4ea3615366136c00547f36cc7e637"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-238-2021",
+   "path": "local/alba/sebes/2021/238",
+   "short": "HCL Sebeș nr. 238/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 238/2021 privind încuviințarea cererii adresate Consiliului Județean Alba în vederea transmiterii unei suprafețe de 5.153 mp. teren aparținând domeniului public al Județului Alba și aflat în administrarea Consiliului Județean Alba în domeniul public al Municipiului Sebeș și în administrarea Consiliului Local al Municipiului Sebeș Consiliul Local al Municipiului Sebeș, jud. Alba; Întrunit în ședința extraor",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-238.pdf",
+     "sha256": "98d5c04fa0ff0a8e4f38f36c48db088968000235a885dbc6c4dddcb46db48ed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-239-2021",
+   "path": "local/alba/sebes/2021/239",
+   "short": "HCL Sebeș nr. 239/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 239/2021 privind preluarea din administrarea Serviciului Public de Administrarea Patrimoniului Sebeș a imobilelor ”Școala Gimnazială Lancrăm – Corp 1” , ”Școala Gimnazială Lancrăm – Corp 2” și ”Sală sport Lancrăm”, la care s-au efectuat lucrări",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-239.pdf",
+     "sha256": "930cf915c9685d0b82125149badc92b1b40faac0607f7f3bdd215bd478b11365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-24-2021",
+   "path": "local/alba/sebes/2021/24",
+   "short": "HCL Sebeș nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 24/2021 privind modificarea art.1 din H.C.L nr.240/2020 privind stabilirea nivelului contribuției datorate de beneficiarii serviciilor sociale acordate de Centrul de Îngrijire la Domiciliu pentru Persoane Vârstnice din cadrul Direcției de Asiste",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-24.pdf",
+     "sha256": "d29912b3f292c6e443fe07bd32b3df4f7dc9150658a8a5acbbfd5c12af256a36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-240-2021",
+   "path": "local/alba/sebes/2021/240",
+   "short": "HCL Sebeș nr. 240/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 240/2021 privind aprobarea prelungirii unor contracte de închiriere locuință situate pe raza UAT a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-240.pdf",
+     "sha256": "50913377706f73160af065ba1f1041e2034c8dfa83a189bdba3f53bbc93ff258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-241-2021",
+   "path": "local/alba/sebes/2021/241",
+   "short": "HCL Sebeș nr. 241/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 241/2021 privind modificarea și completarea anexei la H.C.L 11/2021 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de pe raza Municipiului Sebeș pentru anul școlar 2021-2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-241.pdf",
+     "sha256": "fcf4cf819bd6057cc85fd0aa5312be210f38b367c5043d5a49c3ed4bf49fb983"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-242-2021",
+   "path": "local/alba/sebes/2021/242",
+   "short": "HCL Sebeș nr. 242/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 242/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-242.pdf",
+     "sha256": "fe154fe7c68aed03c3d0b165f163b3fde8896e87f06e53f1c40ecfc313547f93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-243-2021",
+   "path": "local/alba/sebes/2021/243",
+   "short": "HCL Sebeș nr. 243/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 243/2021 privind alegerea președintelui de ședință, pentru perioada 21 septembrie-12 decembrie 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-243.pdf",
+     "sha256": "bffcab1f68c274b6a033e2ec2e1e0efee2421f9171a110403513bba666d048a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-245-2021",
+   "path": "local/alba/sebes/2021/245",
+   "short": "HCL Sebeș nr. 245/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 245/2021 privind modificarea și completarea anexei la HCL 11/2021 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de pe raza Municipiului Sebeș pentru anul școlar 2021-2022 și încetarea aplicabilității HC",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-245.pdf",
+     "sha256": "728f41f71e5f9733df0efb02cfc879ce784e0ce73f7604939326a28fadd1e567"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-247-2021",
    "path": "local/alba/sebes/2021/247",
    "short": "HCL Sebeș nr. 247/2021",
@@ -438,6 +1593,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-25-2021",
+   "path": "local/alba/sebes/2021/25",
+   "short": "HCL Sebeș nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 25/2021 privind aprobarea prelungirii Contractului de închiriere-cabinet medical nr.24991/30/05.03.2019 situat în Sebeș, str. M. Kogălniceanu, nr.128",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-25.pdf",
+     "sha256": "b5769c31ebe4439cba6ed183ba6e645d21abbb264f6ca4f484c0596d38b43fdb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-250-2021",
    "path": "local/alba/sebes/2021/250",
    "short": "HCL Sebeș nr. 250/2021",
@@ -449,6 +1619,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-250.pdf",
      "sha256": "09f3b99aabc420cd8c5b9ee60b17655defe8425cfb47a2e6689677a6b7d291a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-252-2021",
+   "path": "local/alba/sebes/2021/252",
+   "short": "HCL Sebeș nr. 252/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 252/2021 privind desemnarea reprezentanților Consiliului Local al Municipiului Sebeș în Consiliile de Administrație a Școlilor din învățământul preuniversitar de pe raza administrativ- teritorială a Municipiului Sebeș, pentru anul școlar 2021-20",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-252.pdf",
+     "sha256": "95d03756ae28a1c88d334d6c271205d2251673148f2468e21b47964cfb521dbb"
     }
    ]
   },
@@ -513,6 +1698,66 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-26-2021",
+   "path": "local/alba/sebes/2021/26",
+   "short": "HCL Sebeș nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 26/2021 privind aprobarea cheltuielilor privind organizarea Expoziției columbofile 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-26.pdf",
+     "sha256": "a237ac791579fc647a897dffd0c098aad39c3ac61de05c7955624a98bafc42fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-265-2021",
+   "path": "local/alba/sebes/2021/265",
+   "short": "HCL Sebeș nr. 265/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 265/2021 privind aprobarea modificării HCL nr. 168/2020 și a Devizului general actualizat pentru realizarea obiectivului de investiții:,,Transformare clădiri, centrală termică și depozit de cărbune în Creșă și Grădiniță Valea Frumoasei, Municipiu",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-265.pdf",
+     "sha256": "99b46c9526ff401f779e4c058d2fed256df65b743ba46fd935add4e1ddbc881c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-266-2021",
+   "path": "local/alba/sebes/2021/266",
+   "short": "HCL Sebeș nr. 266/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 266/2021 privind aprobarea modificării H.C.L nr. 121/2021 și a Devizului General actualizat pentru realizarea obiectivului de investiții: ,,Canalizare menajeră și Stație de Epurare, sat Răhău, Municipiul Sebeș”, conform prevederilor Ordonanței nr",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-266.pdf",
+     "sha256": "42ec5b2e1c553f58e9b351bb6c4b58e13c43c9cb9e27f57204d93081a3665805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-268-2021",
+   "path": "local/alba/sebes/2021/268",
+   "short": "HCL Sebeș nr. 268/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 268/2021 privind aprobarea preluării din domeniul public al Județului Alba și din administrarea Consiliului Județean Alba în domeniul public al Municipiului Sebeș și administrarea Consiliului Local al Municipiului Sebeș a suprafeței de 5153 mp. î",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-268.pdf",
+     "sha256": "9631c59eef20a8bb50d7f2e9f6a86b4651588cc6376761fb4fc5eaad2918f314"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-27-2021",
    "path": "local/alba/sebes/2021/27",
    "short": "HCL Sebeș nr. 27/2021",
@@ -524,6 +1769,531 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/HCL-185.pdf",
      "sha256": "3be955699f382105cfd53acf58925097182e67dfea2d5599f4d49fe4d093076b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-272-2021",
+   "path": "local/alba/sebes/2021/272",
+   "short": "HCL Sebeș nr. 272/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 272/2021 privind aprobarea modificării H.C.L nr. 311/2017 și a Devizului General actualizat pentru realizarea obiectivului de investiții,, Reabilitare instalaţii termice, instalaţii climatizare clădire Primăria Municipiului Sebeş”-,conform preved",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-272.pdf",
+     "sha256": "f7b1086721ef740897669acbc6c273f07abb95d9b86d0a62d619b06440275f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-274-2021",
+   "path": "local/alba/sebes/2021/274",
+   "short": "HCL Sebeș nr. 274/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 274/2021 privind modificarea Devizului general, pentru obiectivul de investiţii „Complex sportiv şi recreere, Municipiul Sebeş”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-274.pdf",
+     "sha256": "25b96b406eeb52fafe948b3985b1b397ea08579727b89e71eefb852b901db2b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-275-2021",
+   "path": "local/alba/sebes/2021/275",
+   "short": "HCL Sebeș nr. 275/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 275/2021 privind modificarea valorii finanțării prin Programul Național de Dezvoltare Locală și a valorii cofinanțării de la Bugetul local aprobate prin HCL nr.266/2021 privind aprobarea modificării HCL nr. 121/2021 și a Devizului general actual",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-275.pdf",
+     "sha256": "7b3566531b153b0377a27c78a6b053eb3f90aaff815b98dfad92d3993eab6381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-277-2021",
+   "path": "local/alba/sebes/2021/277",
+   "short": "HCL Sebeș nr. 277/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 277/2021 privind modificarea Devizului general pentru realizarea obiectivului de investiții ,,Modernizare strada Depozitelor, Municipiul Sebeș”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-277.pdf",
+     "sha256": "7fd86c5894a0bafa4fa198d3aaa51af560e96a04cba00a34e546decdfd38f62c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-278-2021",
+   "path": "local/alba/sebes/2021/278",
+   "short": "HCL Sebeș nr. 278/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 278/2021 privind modificarea Devizului general pentru realizarea obiectivului de investiții ,,Modernizare strada Occidentului”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-278.pdf",
+     "sha256": "0ec87678a9404636c0af5aed9b02f88d10ee44292ad9b531eb5397476203e196"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-28-2021",
+   "path": "local/alba/sebes/2021/28",
+   "short": "HCL Sebeș nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 28/2021 privind modificarea hotărârii Consiliului Local al Municipiului Sebeș nr.393/2018 privind stabilirea salariilor de bază pentru Secretar Municipiu, funcționarii publici și personalul contractual din cadrul aparatului de specialitate al pr",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-28.pdf",
+     "sha256": "cd306e1fa9dc48fff588e5f0d94aafd964cbadcfebe7266f5c9e6a98d316296b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-280-2021",
+   "path": "local/alba/sebes/2021/280",
+   "short": "HCL Sebeș nr. 280/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 280/2021 privind modificarea Devizului General pentru realizarea obiectivului de investiții ,,Amenajare imobil str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-280.pdf",
+     "sha256": "8186d43315da7e440a4bc670457af958d11bb2113b358ede3671343f1fdf0db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-281-2021",
+   "path": "local/alba/sebes/2021/281",
+   "short": "HCL Sebeș nr. 281/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 281/2021 privind modificarea Devizului General pentru realizarea obiectivului de investiţii „Modernizare străzi: Oituz, Doinei, Moților, Cloșca – tronson cuprins între strada Horea și trecerea la nivel cu calea ferată 211 Sebeș – Petrești de la",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-281.pdf",
+     "sha256": "52131d7cfba0bd85c36090ed201ef0e9e98c27268a50966b978cea47150d5491"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-284-2021",
+   "path": "local/alba/sebes/2021/284",
+   "short": "HCL Sebeș nr. 284/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 284/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-284.pdf",
+     "sha256": "eddc5641d9e68e772a39fe70b1ef79588a1d5efab4f92a06c9bd2c8425896e12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-286-2021",
+   "path": "local/alba/sebes/2021/286",
+   "short": "HCL Sebeș nr. 286/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 286/2021 privind darea în administrare către Serviciul Public de Administrarea Patrimoniului Sebeș, a patru module container cu funcțiunea de ambulatoriu provizoriu și un modul container cu funcțiunea de grup sanitar, în vederea realizării branș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/hcl-286.pdf",
+     "sha256": "64db392640f62f8797ecca049086610c085c5cb2cdc87e3ce44a2b5b2bb5fa01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-288-2021",
+   "path": "local/alba/sebes/2021/288",
+   "short": "HCL Sebeș nr. 288/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 288/2021 privind modificarea Devizului General actualizat al obiectivului de investiții ,,Modernizare străzi: Aurel Vlaicu, 8 Martie, Fântâna de Aur, Sticlarilor, Municipiului Sebeș”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/HCL-288.pdf",
+     "sha256": "4cc6882211a35371e3b67a9efd266db4d39f80ec88887718f1b669634a25059b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-289-2021",
+   "path": "local/alba/sebes/2021/289",
+   "short": "HCL Sebeș nr. 289/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 289/2021 privind repartizarea sumelor alocate cultelor religioase în bugetul pe anul 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/10/HCL-289-1.pdf",
+     "sha256": "e30cd6d2cc3fe27139c8b463246cb9e99a1d760fcca472cbc67b46a855390825"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-29-2021",
+   "path": "local/alba/sebes/2021/29",
+   "short": "HCL Sebeș nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 29/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat în Strada Depozitelor, aflat în intravilanul UAT Sebeș-domeniul public, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-29.pdf",
+     "sha256": "69ea9101762b9cf37e77a9500cbd4a9df5acbc29a81c655d84064c8bbfe8a885"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-294-2021",
+   "path": "local/alba/sebes/2021/294",
+   "short": "HCL Sebeș nr. 294/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 294/2021 privind darea în administrarea Direcției Generale de Asistență Socială, Medicală și Comunitară Sebeș (DGASMC), pe timp limitat, a spațiului în suprafață totală de 40,48 mp, situat în incinta Dispensarului Medical M",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-294-2.pdf",
+     "sha256": "d9c3fe4c30a1560c5b4813f8986367637bb704aaa11a20f046fa7c4798d1befb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-299-2021",
+   "path": "local/alba/sebes/2021/299",
+   "short": "HCL Sebeș nr. 299/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 299/2021 privind desemnarea reprezentanților Consiliului Local al Municipiului Sebeș în Comisiile de Evaluare și Asigurarea Calității, ce se vor constitui la nivelul instituțiilor din învățământul preuniversitar de pe raza administrativ teritori",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-299.pdf",
+     "sha256": "0f6780dd62735f8e0dc4461c6afedc08658504948706b2c7b599fd7d97f8871e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-3-2021",
+   "path": "local/alba/sebes/2021/3",
+   "short": "HCL Sebeș nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 3/2021 privind alegerea președintelui de ședință",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/01/hcl-3.pdf",
+     "sha256": "6be72d59005fe149c8cb6aaf2f5db619acbd5d0059eb31ef2ffa117f994659b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-30-2021",
+   "path": "local/alba/sebes/2021/30",
+   "short": "HCL Sebeș nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 30/2021 cu privire la revizuirea Devizului general al obiectivului de investiții ,,Reabilitare termică clădire Contagioase; Creșterea eficienței energetice a clădirii CONTAGIOASE din cadrul Spitalului Municipal Sebeș”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-30.pdf",
+     "sha256": "ab55f7fdcd628f24b9da3f2c81a14bb895fd6b301ef65fceacf4b92ca06458e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-300-2021",
+   "path": "local/alba/sebes/2021/300",
+   "short": "HCL Sebeș nr. 300/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 300/2021 privind aprobarea introducerii în domeniul public al Municipiului Sebeș și administrarea Consiliului Local al Municipiului Sebeș a sectoarelor de drumuri naționale DN 1 (km, 362+330-km.370+920), DN 7 (km.328+000-km.331+420) și DN 67 C (",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-300.pdf",
+     "sha256": "0cbf39e7b8266325429b6d8ee8387ab62f5bba7d57a683017339cf0608b434b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-301-2021",
+   "path": "local/alba/sebes/2021/301",
+   "short": "HCL Sebeș nr. 301/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 301/2021 privind aprobarea modificării organigramei și statului de funcții ale aparatului de specialitate al Primarului Municipiului Sebeș, județul Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-301.pdf",
+     "sha256": "8bd78717af0e50d286f0d8b4c45a24e35437afcb4fcec08ca6c0cdac1e713165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-302-2021",
+   "path": "local/alba/sebes/2021/302",
+   "short": "HCL Sebeș nr. 302/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 302/2021 privind aprobarea modificării Anexei nr.1 la HCL nr.76/2021 -,,Stat de funcții” și Anexa nr.2 la HCL nr.76/2021-,,Organigrama”Serviciului Public de Administrarea Patrimoniului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-302.pdf",
+     "sha256": "90592ffc616a3d885bab0de81e0e450b4c853fe1106d9fb45528d575186d282c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-303-2021",
+   "path": "local/alba/sebes/2021/303",
+   "short": "HCL Sebeș nr. 303/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 303/2021 privind aprobarea prelungirii duratei contractelor de închiriere, pentru chiriașii din blocul 12 AB-cartier Valea Frumoasei-locuințe pentru tineri construite prin Programul A.N.L",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-303.pdf",
+     "sha256": "7ed7c896cd6bafb6e2d61942532240595a959e5a6cb37ce0c3776e587aed4a82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-304-2021",
+   "path": "local/alba/sebes/2021/304",
+   "short": "HCL Sebeș nr. 304/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 304/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-304.pdf",
+     "sha256": "c3ea279e76ea6baa9e695cc582440ebf35f6ec1571177c9e8a881c6b77aadf33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-305-2021",
+   "path": "local/alba/sebes/2021/305",
+   "short": "HCL Sebeș nr. 305/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 305/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Strada Ghiocelului- Loc. Lancrăm, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-305.pdf",
+     "sha256": "4791f2eed123046cba3ebe241b8e535ca9e3fc3109fdfed812b337cc64065acc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-306-2021",
+   "path": "local/alba/sebes/2021/306",
+   "short": "HCL Sebeș nr. 306/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 306/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Strada Râului –Loc. Lancrăm, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-306.pdf",
+     "sha256": "a5220506760a601b06c3c528f8d70527929ea1d329221a07474240eeff2f9bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-309-2021",
+   "path": "local/alba/sebes/2021/309",
+   "short": "HCL Sebeș nr. 309/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 309/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-309.pdf",
+     "sha256": "06c669269ac8d9d67a7e4422828e386f02d81ef496b005b2f7005ce10c763563"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-31-2021",
+   "path": "local/alba/sebes/2021/31",
+   "short": "HCL Sebeș nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 31/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat administrativ în intravilanul UAT Sebeș-domeniul public, jud",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-31.pdf",
+     "sha256": "a71f46ae03ac470699b29b9a3da3a0a27941f4740c46845c2a45c27bff93e33a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-310-2021",
+   "path": "local/alba/sebes/2021/310",
+   "short": "HCL Sebeș nr. 310/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 310/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Strada Molidului- Loc. Petrești, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-310.pdf",
+     "sha256": "72124e3ec888455c5c89d5632a5e429cc2c1f218ff48c7ca8824849cdca2982f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-311-2021",
+   "path": "local/alba/sebes/2021/311",
+   "short": "HCL Sebeș nr. 311/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 311/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Teren Balta lui Dolfi”, str. Progresului, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-311.pdf",
+     "sha256": "72638a5caf7f8d8adcbcc1af100ddaa90448d3fba3cde1f767d3912a5b63f28a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-312-2021",
+   "path": "local/alba/sebes/2021/312",
+   "short": "HCL Sebeș nr. 312/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 312/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat administrativ în intravilanul Municipiului Sebeș, str. Vânători, nr.24, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-312.pdf",
+     "sha256": "9016982c2ce32e44ab38bd4221cda77d73cc062101d7727e79c82c9bec93de49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-313-2021",
+   "path": "local/alba/sebes/2021/313",
+   "short": "HCL Sebeș nr. 313/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 313/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului; str. Industriilor, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-313.pdf",
+     "sha256": "601bc500968ff1e5471a37dda5102157a050c92a02d273c5e8e9d136c1bc8336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-314-2021",
+   "path": "local/alba/sebes/2021/314",
+   "short": "HCL Sebeș nr. 314/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 314/2021 privind aprobarea documentației cadastrale de primă înregistrare în sistemul integrat de Cadastru și Carte Funciară a imobilului situat administrativ în intravilanul Com. Sugag, Loc",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-314.pdf",
+     "sha256": "6176cc08dbb465d78951b5a83f8d03a21d070c0112f1bfd2603cded6fb118316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-315-2021",
+   "path": "local/alba/sebes/2021/315",
+   "short": "HCL Sebeș nr. 315/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 315/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-315.pdf",
+     "sha256": "9edd44249183bb3b0d0af26c39fdd3b535d2e8e26e58069183954614b7b7f8c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-316-2021",
+   "path": "local/alba/sebes/2021/316",
+   "short": "HCL Sebeș nr. 316/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 316/2021 privind aprobarea numărului de burse aferent semestrului I al anului școlar 2021-2022 pentru elevii din învățământul preuniversitar de stat",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-316.pdf",
+     "sha256": "81dbfdac980794d61f585f23d771853ae6bab24868c369eae4ad9cb364335a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-318-2021",
+   "path": "local/alba/sebes/2021/318",
+   "short": "HCL Sebeș nr. 318/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 318/2021 privind aprobarea contractării de servicii de avocatură de asistență și reprezentare a Consiliului Local în dos.nr.2971/107/2021, aflat pe rolul Tribunalului Albu, în contradictoriu cu SAPI REAL ESTATE SRL",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-318.pdf",
+     "sha256": "497c2671bd0ea77d1b46d972116f0b9adc1a76637c197ca0f7b6b5c8f0896033"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-32-2021",
+   "path": "local/alba/sebes/2021/32",
+   "short": "HCL Sebeș nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 32/2021 privind îndreptarea erorii din cuprinsul art. 1 al HCL nr. 179/2020 privind darea în administrare către Serviciul Public de Administrare a Patrimoniului Sebeș, a terenului aferent Clădire Dispensar II – Kogălniceanu, aflat în proprietate",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-32.pdf",
+     "sha256": "6426aab086c48293e9b807bf9c575af4e8666a9217c20ab0732d6986d3ecc810"
     }
    ]
   },
@@ -543,6 +2313,171 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-322-2021",
+   "path": "local/alba/sebes/2021/322",
+   "short": "HCL Sebeș nr. 322/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 322/2021 privind desemnarea reprezentantului Consiliului Local al Municipiului Sebeş în Comisia de evaluare a probei de interviu, pentru ocuparea funcției de director/ director adjunct la Instituțiile din învăţământul preuniversitar de stat de pe",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-322.pdf",
+     "sha256": "2f8635cbbffd3e022106efa5ed5357a9cb594adf5fd9a03083658b80cc8107a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-326-2021",
+   "path": "local/alba/sebes/2021/326",
+   "short": "HCL Sebeș nr. 326/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 326/2021 privind aprobarea cererii de finanțare și a Devizului General aferente obiectivului de investiții ,,Modernizare străzi: Oituz, Doinei, Moților, Cloșca-tronson cuprins între strada Horea și trecerea la nivel cu calea ferată 211 Sebeș-Pet",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-326.pdf",
+     "sha256": "a0430d46312418f41341d0aaa5bfb781315b6b34479aca9b6e31e74ff30dfa5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-327-2021",
+   "path": "local/alba/sebes/2021/327",
+   "short": "HCL Sebeș nr. 327/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 327/2021 privind aprobarea Cererii de finanțare și a Devizului General aferente obiectivului de investiții ,,Modernizare strada Depozitelor, Municipiul Sebeș” și depunerea în cadrul Programului Național de Investiții ,,Anghel Saligny”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-327.pdf",
+     "sha256": "3aa96f7ded68fc8faa7d12f01f11cc3c5975b27653274d9957b268c44091cf3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-328-2021",
+   "path": "local/alba/sebes/2021/328",
+   "short": "HCL Sebeș nr. 328/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 328/2021 privind aprobarea recoltării exemplarelor din speciile de faună sălbatică aflate pe raza Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-328.pdf",
+     "sha256": "26c9fa861e6ff019b01bb36cffc545578edee14df627c3cd07dac29254186d34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-329-2021",
+   "path": "local/alba/sebes/2021/329",
+   "short": "HCL Sebeș nr. 329/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 329/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Str. 8 Aprilie, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-329.pdf",
+     "sha256": "507aa56421a2f866ecfa7ce4161665249f8b2766b4bc022f45460d7dfd9d4e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-33-2021",
+   "path": "local/alba/sebes/2021/33",
+   "short": "HCL Sebeș nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 33/2021 privind modificarea și completarea Inventarului domeniului public al Municipiului Sebeș ca urmare a finalizării și efectuării recepției la terminarea lucrărilor pentru obiectivul de investiții: „Sistem de irigații a zonelor verzi de pe s",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-33.pdf",
+     "sha256": "bdeff1143590c9a32ddb9039b8756dc1d43c4b6530dbc2ee4c9dffde44b0f1b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-330-2021",
+   "path": "local/alba/sebes/2021/330",
+   "short": "HCL Sebeș nr. 330/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 330/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Str. Pădurenilor, Municipiul Sebeș, jud. Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-330.pdf",
+     "sha256": "2953911c5578d880b503532945b3a08fda6d332bea0bdc3e7ed4d30d8708d82f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-331-2021",
+   "path": "local/alba/sebes/2021/331",
+   "short": "HCL Sebeș nr. 331/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 331/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-331.pdf",
+     "sha256": "2b8b2d8ab068c2ac6efcbdcd06551a9aa44a971b611a82ac9ffd5862c1196074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-333-2021",
+   "path": "local/alba/sebes/2021/333",
+   "short": "HCL Sebeș nr. 333/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 333/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului: Str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/HCL-333.pdf",
+     "sha256": "e9e6ab1a9401287264994dfa1ceb38d2a5fdab45c51161b5e39c301b4b0a684f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-334-2021",
+   "path": "local/alba/sebes/2021/334",
+   "short": "HCL Sebeș nr. 334/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 334/2021 privind modificarea Devizului General al obiectivului de investiții ,,Reabilitare bază sportivă, strada Tipografilor, Municipiul Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/11/hcl-334.pdf",
+     "sha256": "8aa6012a46eb8b3d08c2cd3fbbaeaad52604ef74f8fd48f12ee1249483772791"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-337-2021",
+   "path": "local/alba/sebes/2021/337",
+   "short": "HCL Sebeș nr. 337/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 337/2021 privind modificarea HCL 316/2021 privind aprobarea numărului de burse aferent semestrului I al anului școlar 2021-2022 pentru elevii din învățământul preuniversitar de stat",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-337.pdf",
+     "sha256": "861fefc0fedb1d441f0282c2ac8076d09d322fe1886e528cf6e00e2f1f4faf85"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-339-2021",
    "path": "local/alba/sebes/2021/339",
    "short": "HCL Sebeș nr. 339/2021",
@@ -558,6 +2493,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-344-2021",
+   "path": "local/alba/sebes/2021/344",
+   "short": "HCL Sebeș nr. 344/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 344/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-344.pdf",
+     "sha256": "8d111ee336ff446b4bf1693e5e9d68d0ae88b644a94bbb340c2ecf1e0884bd55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-345-2021",
+   "path": "local/alba/sebes/2021/345",
+   "short": "HCL Sebeș nr. 345/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 345/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-345.pdf",
+     "sha256": "f4f624f4060f027d1fad3e1b220ce0ebf61454303bd31add37c4395826b2716e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-347-2021",
    "path": "local/alba/sebes/2021/347",
    "short": "HCL Sebeș nr. 347/2021",
@@ -569,6 +2534,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-347.pdf",
      "sha256": "ccef4f728e5b8c168d3378af740aab053bfd8ccc11b1456292a3386ed1f42972"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-35-2021",
+   "path": "local/alba/sebes/2021/35",
+   "short": "HCL Sebeș nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 35/2021 privind modificarea Devizului General revizuit, pentru realizarea obiectivului de investiții ,,Reabilitare Școala Gimnazială Răhău”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-35.pdf",
+     "sha256": "0cbf8b6198c2f8222b0ab97254c95be74e6e62f656aeb1025cc3a28ffab52529"
     }
    ]
   },
@@ -603,6 +2583,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-36-2021",
+   "path": "local/alba/sebes/2021/36",
+   "short": "HCL Sebeș nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 36/2021 privind alegerea președintelui de ședință",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-36.pdf",
+     "sha256": "74246b80db683c53da70cc6722a2387c727a889ae2f2e4e555e346229e2bdfd3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-364-2021",
    "path": "local/alba/sebes/2021/364",
    "short": "HCL Sebeș nr. 364/2021",
@@ -629,6 +2624,81 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-365.pdf",
      "sha256": "7270aad1c593c96cb9cadec45394723ae7d08eb4b019ea3535341b49d66985d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-368-2021",
+   "path": "local/alba/sebes/2021/368",
+   "short": "HCL Sebeș nr. 368/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 368/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-368.pdf",
+     "sha256": "f01d866f5c861e779e414e296b4f0ecbb4ec9f97206eb8efdff5874ab3789cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-37-2021",
+   "path": "local/alba/sebes/2021/37",
+   "short": "HCL Sebeș nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 37/2021 privind aprobarea încetării unui număr de 28 contracte, având ca obiect închirierea unor terenuri cu destinație pășunat-cosit și aprobarea închirierii prin licitație publică a unui număr de 31 l",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-37.pdf",
+     "sha256": "034ab610008c4267a3017ff1f13f16cd8564da65efcd8bce14c34bb0dc10532c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-370-2021",
+   "path": "local/alba/sebes/2021/370",
+   "short": "HCL Sebeș nr. 370/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 370/2021 privind aprobarea devizului general actualizat al obiectivului de investiții ,,Reabilitare corp clădire A inclusiv reamenajări exterioare din strada Lucian Blaga, nr.76",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-370.pdf",
+     "sha256": "95b450e4a2df8229d91c53a8e7c4c5519f41696b210d1836493a258e66ff77d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-373-2021",
+   "path": "local/alba/sebes/2021/373",
+   "short": "HCL Sebeș nr. 373/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 373/2021 privind retragerea din administrarea Serviciului Public de Administrare a Patrimoniului Sebeș a imobilului cu nr.10941 ,,Baza Sportivă PIELARU,, teren în suprafață de 12.177 mp și clădire în suprafață construită de 183 mp., aflat în dom",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-373.pdf",
+     "sha256": "f64a2cea5615c42f72767cb66d8a54f246fa4c851c901919f8e85cefae7d9070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-374-2021",
+   "path": "local/alba/sebes/2021/374",
+   "short": "HCL Sebeș nr. 374/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 374/2021 privind modificarea poziției 3 a anexei 1 la hotărârea Consiliului Local al Municipiului Sebeș nr.358/2021 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-374.pdf",
+     "sha256": "b43718a14703664a6e4a90e0aa82d35fd91801e1b421729459b6a3168e4c3afb"
     }
    ]
   },
@@ -663,6 +2733,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-38-2021",
+   "path": "local/alba/sebes/2021/38",
+   "short": "HCL Sebeș nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 38/2021 privind darea în administrare către Serviciul Public de Administrarea Patrimoniului Sebeș, în vederea executării unor lucrări de reparații a imobilului , locuință situată administrativ în Municipiul Sebeș, str. M. Kogălniceanu, bl.74, ap",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-38.pdf",
+     "sha256": "22eaff0a112f1106d2980e0c71feb790db3f80199deb405c919cc9956c4c910e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-383-2021",
    "path": "local/alba/sebes/2021/383",
    "short": "HCL Sebeș nr. 383/2021",
@@ -674,6 +2759,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-383.pdf",
      "sha256": "a118efcba763076080486dd152b3abfbe22801b771466e6627b65d6f811a9f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-386-2021",
+   "path": "local/alba/sebes/2021/386",
+   "short": "HCL Sebeș nr. 386/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 386/2021 privind modificarea HCL 316/2021 privind aprobarea numărului de burse aferent semestrului I al anului școlar 2021-2022 pentru elevii din învățământul preuniversitar de stat, modificată prin HCL 337/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-386.pdf",
+     "sha256": "347e6f71b4750775edc6fa1ebe4f736a466b7b23f3754071f1c316d38931ad7a"
     }
    ]
   },
@@ -693,6 +2793,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-39-2021",
+   "path": "local/alba/sebes/2021/39",
+   "short": "HCL Sebeș nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 39/2021 privind alegerea președintelui de ședință",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-39.pdf",
+     "sha256": "7042aac94442d5f53413d9908d545864b3958ac53469c54dc513572df60e2c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-392-2021",
+   "path": "local/alba/sebes/2021/392",
+   "short": "HCL Sebeș nr. 392/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 392/2021 privind aprobarea prelungirii duratei contractelor de închiriere, pentru chiriaşii din blocul 12AB – cartier Valea Frumoasei și blocul 53CD – cartier Lucian Blaga– locuinţe pentru tineri construite prin programul A.N.L",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-392.pdf",
+     "sha256": "e830d2204eca33ae45b6f32b3214382709ea9e2974653c44d9867421b3af0132"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-393-2021",
    "path": "local/alba/sebes/2021/393",
    "short": "HCL Sebeș nr. 393/2021",
@@ -704,6 +2834,51 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-393.pdf",
      "sha256": "2ee48eb1f81dfdcab800fef00d2c3baa0588bc7a74cf6474b63a29fcf46a8f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-394-2021",
+   "path": "local/alba/sebes/2021/394",
+   "short": "HCL Sebeș nr. 394/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 394/2021 privind modificarea Anexei nr.1 la H.C.L nr.18/2021 privind aprobarea calendarului de activități cultural-educative ce se vor desfășura în cursul anului 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-394.pdf",
+     "sha256": "2875c5ef38d9fb79541bfe88478b71aafa58a3aab122d8cf405710e628660268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-395-2021",
+   "path": "local/alba/sebes/2021/395",
+   "short": "HCL Sebeș nr. 395/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 395/2021 privind aprobarea nivelului subvenției ce urmează a fi acordată Asociației Diakoniewerk Internațional, pe anul 2022, precum și aprobarea Convenției provizorii pentru acordarea de servicii de asistență socială",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-395.pdf",
+     "sha256": "d36838df93a4bfed61f399d8f50e92958dc01d194686498e61096532b88ca1e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-398-2021",
+   "path": "local/alba/sebes/2021/398",
+   "short": "HCL Sebeș nr. 398/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 398/2021 privind aprobarea calendarului de activități cultural-educative care se vor desfăşura în cursul lunii ianuarie a anului 2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-398.pdf",
+     "sha256": "d2d190dcf25761fb514682e50d997ec79ed62eae59a9c95d96117b49ee14b4b1"
     }
    ]
   },
@@ -738,6 +2913,216 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-405-2021",
+   "path": "local/alba/sebes/2021/405",
+   "short": "HCL Sebeș nr. 405/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 405/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-405.pdf",
+     "sha256": "2724115445457d79fffea575f5f1f8444dc9ff37bd21c499265d9de3af901f1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-407-2021",
+   "path": "local/alba/sebes/2021/407",
+   "short": "HCL Sebeș nr. 407/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 407/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-407.pdf",
+     "sha256": "dfdbeff7651adbbaf00a2dc7a98a6f8591b0b9a6dcc852acc49350d9073019e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-42-2021",
+   "path": "local/alba/sebes/2021/42",
+   "short": "HCL Sebeș nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 42/2021 privind propunerea de atribuire teren aferent construcțiilor proprietate personală",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-42.pdf",
+     "sha256": "b6c7325428cd689d61a233c35483a7390364f050ca688fe093b529a6ba703cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-44-2021",
+   "path": "local/alba/sebes/2021/44",
+   "short": "HCL Sebeș nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 44/2021 privind modificarea HCL 302/2019 în sensul înlocuirii documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat în strada Lungă, aflat în intravilanul UAT Sebeș- domeniul public, j",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-44.pdf",
+     "sha256": "a4418195a39f2e6bb8be5cf0f2e4ac470eb2bf86525f88706f846f5e6ecb3a0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-46-2021",
+   "path": "local/alba/sebes/2021/46",
+   "short": "HCL Sebeș nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 46/2021 privind modificarea HCL 290/2019 în sensul înlocuirii documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat în strada Dorobanți, aflat în intravilanul UAT Sebeș-domeniul public",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-46.pdf",
+     "sha256": "2141a8f7ca851d27d343482ba62f5f67114d35aa3c2904bf1742cf5bb09a5610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-47-2021",
+   "path": "local/alba/sebes/2021/47",
+   "short": "HCL Sebeș nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 47/2021 privind modificarea HCL 288/2019 în sensul înlocuirii documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat în Strada Patria, aflat în intravilanul UAT Sebeș-domeniul public, j",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-47.pdf",
+     "sha256": "fe102bf34699b72e6849cc27c2fb84d36ed64243d7478008d854c56a080750f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-48-2021",
+   "path": "local/alba/sebes/2021/48",
+   "short": "HCL Sebeș nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 48/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Municipiului Sebeș pentru anul 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-48.pdf",
+     "sha256": "e06df0a9263e2d993543a0155599ac76d26cd9326af675fdd4410909c643eb72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-49-2021",
+   "path": "local/alba/sebes/2021/49",
+   "short": "HCL Sebeș nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 49/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-49.pdf",
+     "sha256": "9a3951a971f2c3a04887a401c57351e198798b8e3f263b93195719bdb1cafe4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-5-2021",
+   "path": "local/alba/sebes/2021/5",
+   "short": "HCL Sebeș nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 5/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului ,,CENTRALĂ TERMICĂ,, situat în Cartierul Valea Frumoasei aflat în intravilanul UAT Sebeș-domeniul public, jud. A",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/01/hcl-5.pdf",
+     "sha256": "97d2189fe0979491552504e89277f31ca8e467bd5afd68baf83816dc19bba7d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-50-2021",
+   "path": "local/alba/sebes/2021/50",
+   "short": "HCL Sebeș nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 50/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-50-1.pdf",
+     "sha256": "fdd07851705132dae3124984853bf5efe1c640c9e1ec368ace48c4a76abc6c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-51-2021",
+   "path": "local/alba/sebes/2021/51",
+   "short": "HCL Sebeș nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 51/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-51.pdf",
+     "sha256": "304b1cca296f95c06dabb6a7b52178aa3aa777ce88b3afab6a4d154c79feba39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-52-2021",
+   "path": "local/alba/sebes/2021/52",
+   "short": "HCL Sebeș nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 52/2021 privind aprobarea prelungirii contractului de închiriere locuință nr. 09/5977/18.02.2014 situată administrativ în Municipiul Sebeș, b-dul Lucian Blaga, nr. 68A – titular Ittu (Târziu) Silvia",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-52.pdf",
+     "sha256": "f7271d764581e3472285f2d7d43f3eb139b48d9da4c7b380651aa17da7d7da00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-53-2021",
+   "path": "local/alba/sebes/2021/53",
+   "short": "HCL Sebeș nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 53/2021 privind aprobarea modificării denumirii obiectivului de investiție din ,,Reabilitare Școala Gimnazială Răhău,, în ,,Reabilitare Școală Gimnazială, localitatea Răhău, Municipiul Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-53.pdf",
+     "sha256": "70c575a0e58696acb6f7649e896953f1eccbeec5792337bdb9ec1ff0df7a28e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-54-2021",
+   "path": "local/alba/sebes/2021/54",
+   "short": "HCL Sebeș nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 54/2021 privind aprobarea indicatorilor tehnico economici actualizați ai obiectivului de investiții ,,Reabilitare Școală Gimnazială, localitatea Răhău, Municipiul Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-54.pdf",
+     "sha256": "39e56b7bce8903efa9cdc56a636125969cc959f6a43c9096d8d766ee1ddf74fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-55-2021",
    "path": "local/alba/sebes/2021/55",
    "short": "HCL Sebeș nr. 55/2021",
@@ -749,6 +3134,96 @@
      "units": 4,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-55.pdf",
      "sha256": "b018e91622a74bd56d2961a9eac1564c5530b1c1856624698c6d74dbe7e9ef09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-56-2021",
+   "path": "local/alba/sebes/2021/56",
+   "short": "HCL Sebeș nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 56/2021 privind aprobarea înființării unei linii de gardă în specialitatea ATI în cadrul Spitalului Municipal Sebeș, Judeţul Alba",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-56.pdf",
+     "sha256": "59efdc3be4905931dec47c594dc6101308a6c4a566646869d60553e6bf1cb6b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-57-2021",
+   "path": "local/alba/sebes/2021/57",
+   "short": "HCL Sebeș nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 57/2021 privind aprobarea atribuirii de licențe de traseu pentru efectuarea serviciului de transport public local de persoane prin curse regulate",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-57.pdf",
+     "sha256": "22663cdd448eadc49f643918e1dc5f86ce9083475ae7acdc3ead4197829645a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-58-2021",
+   "path": "local/alba/sebes/2021/58",
+   "short": "HCL Sebeș nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 58/2021 privind retragerea din administrare Serviciului Public de Administrarea Patrimoniului Sebeș, a locuinței situată administrativ în loc. Petrești, Municipiul Sebeș, str. Progresului, nr.2, ap.3, aflată în inventarul domeniului privat al Mu",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-58.pdf",
+     "sha256": "8ad28af5dfe87e530fc9e46c9c721876c176b0fc143a327f7253da01529e5527"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-59-2021",
+   "path": "local/alba/sebes/2021/59",
+   "short": "HCL Sebeș nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 59/2021 privind modificarea Hotărârii nr.135/2017 de împuternicire a Primarului Municipiului Sebeș prin Arhitectul Șef să elibereze acordul de săpătură în vederea executării de lucrări pe terenuri aparținând domeniului public al Municipiului Seb",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-59.pdf",
+     "sha256": "fba08e52489e28f4616f3ab04ab9d11f6a0ec58cadc97fafb9a964c547d29025"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-6-2021",
+   "path": "local/alba/sebes/2021/6",
+   "short": "HCL Sebeș nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 6/2021 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului ,,DEPOZIT CĂRBUNE,, situat în Cartierul Valea Frumoasei aflat în intravilanul UAT Sebeș-domeniul public, jud. Al",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/01/hcl.6.pdf",
+     "sha256": "356c534446c7524917fe040ae236b514c104e2265e9caa70278957169bef380f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-61-2021",
+   "path": "local/alba/sebes/2021/61",
+   "short": "HCL Sebeș nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 61/2021 privind modificarea art.1 din HCL nr.16/2020 privind aprobarea capacității Centrului de Zi pentru Persoane Adulte cu Dizabilități",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-61.pdf",
+     "sha256": "30e46cf934d75139132547bbcb059d06bcc5730d9dbe296a5787461dc5e331d1"
     }
    ]
   },
@@ -783,6 +3258,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-67-2021",
+   "path": "local/alba/sebes/2021/67",
+   "short": "HCL Sebeș nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 67/2021 privind apartamentarea imobilului situat administrativ în Sebeș, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/03/hcl-67.pdf",
+     "sha256": "b759404223f7588b14153c4435cf1cc639c9c5c9d413f831a5059c979dbe961a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-68-2021",
+   "path": "local/alba/sebes/2021/68",
+   "short": "HCL Sebeș nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 68/2021 privind aprobarea prelungirii Contractului de închiriere-spațiu nr.16/10365/29.03.2011",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/03/hcl-68.pdf",
+     "sha256": "bd79fd8926d92ec840e48292223a210d385254edbde210ac22dfff80b887bb4b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-69-2021",
    "path": "local/alba/sebes/2021/69",
    "short": "HCL Sebeș nr. 69/2021",
@@ -794,6 +3299,126 @@
      "units": 1,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-69.pdf",
      "sha256": "fd4c548e228816e06a36e10473288dbb61706fc1b5b9c09dfff0c93e7c785f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-7-2021",
+   "path": "local/alba/sebes/2021/7",
+   "short": "HCL Sebeș nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 7/2021 privind alegerea președintelui de ședință",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-7.pdf",
+     "sha256": "e9d01dab9ab2530fd7f8cf471ad7ef2c96f63fb7372a9aaeb0d18f7b817944ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-70-2021",
+   "path": "local/alba/sebes/2021/70",
+   "short": "HCL Sebeș nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 70/2021 privind aprobarea numărului de burse aferent semestrului II al anului școlar 2020-2021 pentru elevii din învățământul preuniversitar de stat",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-70.pdf",
+     "sha256": "d6a0796db426d54941fdf4a94bcd5b9f61c58fb85906b5859c972ba81a4c9763"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-71-2021",
+   "path": "local/alba/sebes/2021/71",
+   "short": "HCL Sebeș nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 71/2021 privind aprobarea cuantumului burselor care se acordă elevilor din învățământul preuniversitar de stat aferente anului școlar 2020-2021, începând cu semestrul II",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-71.pdf",
+     "sha256": "e2607026910eaf2c8774dde88887b993c4901d76242862d8555d70c134c4852b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-73-2021",
+   "path": "local/alba/sebes/2021/73",
+   "short": "HCL Sebeș nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 73/2021 privind aprobarea Regulamentului de Organizare și Funcționare al serviciului social Centrul de îngrijire la domiciliu pentru persoane vârstnice-compartiment în cadrul Direcției de Asistență Socială Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-73.pdf",
+     "sha256": "95b24b281109a0604de0df4f60ad39e82e7bc901497a9d66e3199d3d34884f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-74-2021",
+   "path": "local/alba/sebes/2021/74",
+   "short": "HCL Sebeș nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 74/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-74-1.pdf",
+     "sha256": "f0a44db9559def125d1f3af6f37c109d085ac54e8a671bdbee54466760507681"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-75-2021",
+   "path": "local/alba/sebes/2021/75",
+   "short": "HCL Sebeș nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 75/2021 privind aprobarea modificării Devizului General pentru obiectivul de investiții ,,Modernizare sistem de iluminat public în cartierul Valea Frumoasei, strada Mihail Kogălniceanu, strada Mircea cel Mare, strada Sava Henția și extindere sis",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-75.pdf",
+     "sha256": "fa626bc533918aaf7c9e452c470ca858a4d5191b9cb598f8f428b2cb925a24db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-76-2021",
+   "path": "local/alba/sebes/2021/76",
+   "short": "HCL Sebeș nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 76/2021 privind aprobarea modificării Anexei nr.1 la HCL nr.15/2021 –Stat de funcții și Anexa nr.2 la HCL nr.15/2021-Organigrama Serviciului Public de Administrarea Patrimoniului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-76.pdf",
+     "sha256": "c2a325ac78d02559819aa11a41b3ee3c93f25fefe1897fde3e9e4f2e56025a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-77-2021",
+   "path": "local/alba/sebes/2021/77",
+   "short": "HCL Sebeș nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 77/2021 privind aprobarea modificării Anexei nr.1,,Lista bunurilor din domeniul public și privat al Municipiului Sebeș, aflate în administrarea Serviciului Public de Administrarea Patrimoniului Sebeș, destinate închirierii”, aprobată prin HCL nr",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-77.pdf",
+     "sha256": "4c1a427d309844a33d168634daa4af1f34335bfec4d372f7185b2d87d8c294a6"
     }
    ]
   },
@@ -813,6 +3438,186 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-79-2021",
+   "path": "local/alba/sebes/2021/79",
+   "short": "HCL Sebeș nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 79/2021 privind reorganizarea Direcției de Asistență Socială Sebeș în Direcția Generală de Asistență Socială, Medicală și Comunitară Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-79.pdf",
+     "sha256": "e9e0eb2d393dfea9b44cb918279e9dbefb82a16909669e6f25158024c7ff6592"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-83-2021",
+   "path": "local/alba/sebes/2021/83",
+   "short": "HCL Sebeș nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 83/2021 privind aprobarea prelungirii Contractului de închiriere – cabinet medical nr. 40/39001/08.04.2019 situat în Sebeș, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-83.pdf",
+     "sha256": "f8383d18e5a2f7ba1a5e11a5e12153a088fb0a38249f0c1f699a3902942330c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-84-2021",
+   "path": "local/alba/sebes/2021/84",
+   "short": "HCL Sebeș nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 84/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-84.pdf",
+     "sha256": "82962234ba5295c2951c827bf106160772b4a98bf8e99caf75931f13c8e5020e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-85-2021",
+   "path": "local/alba/sebes/2021/85",
+   "short": "HCL Sebeș nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 85/2021 privind darea în administrare către Serviciul Public de Administrare a Patrimoniului Sebeş în vederea executării unor lucrări de reparații, a imobilului spațiu situat administrativ în Municipiul Sebeș, str",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-85.pdf",
+     "sha256": "6a55f54db10c89ef19bc44d55e579ad3a07a8be61cfa5239a9e6dad78618181a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-86-2021",
+   "path": "local/alba/sebes/2021/86",
+   "short": "HCL Sebeș nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 86/2021 privind aprobarea rezilierii de drept a Contractului de închiriere nr. 934/24.01.2000, așa cum a fost modificat prin Actul adițional nr. 3/24.01.2006, încheiat cu SC Didimar Automobile SRL Alba și efectuării demersurilor în vederea desființării construcțiilor și eliberarea terenului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-86.pdf",
+     "sha256": "7c12918bd9842f4efb60c6345df8cabffc7b7c1e83b822c68390254a7cbd0e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-87-2021",
+   "path": "local/alba/sebes/2021/87",
+   "short": "HCL Sebeș nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 87/2021 privind însușirea notificării nr. 3697/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8048/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-87.pdf",
+     "sha256": "69c8ecfa04e968634cf771c8ccdfa93dca8e03b536fc38a3c2ec5c677c75622e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-88-2021",
+   "path": "local/alba/sebes/2021/88",
+   "short": "HCL Sebeș nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 88/2021 privind preluarea activității de administrare a Cimitirului Municipal Sebeș acordată I.F",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-88.pdf",
+     "sha256": "b4d8137440dc4e8ea6ab937d57c71c6d8dab66d9966e97face4fa2c8a20b7ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-9-2021",
+   "path": "local/alba/sebes/2021/9",
+   "short": "HCL Sebeș nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 9/2021 privind modificarea Art.1 din cuprinsul HCL nr.324/2020 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a imobilului situat în Strada Depozitelor, aflat în intravilanul UAT",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-9.pdf",
+     "sha256": "639e3ca066d35d6c65c97deeaed4b4df5cf82cfe842f165d0682a608b49f0b46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-90-2021",
+   "path": "local/alba/sebes/2021/90",
+   "short": "HCL Sebeș nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 90/2021 privind retragerea din administrarea Centrului Cultural ,,Lucian Blaga”a imobilului ,,Casa Zapolya” și darea în administrare către Serviciul Public de Administrarea Patrimoniului Sebeș, în vederea executării unor reparații și acordarea u",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-90.pdf",
+     "sha256": "ed40934864f839b0139adea78bcdd72878096e90bf8a17eada84dd9b27115bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-91-2021",
+   "path": "local/alba/sebes/2021/91",
+   "short": "HCL Sebeș nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2021 privind transmiterea imobilului teren în suprafață de 16,377 mp, înscris în CF 92663 Sebeș, aparținând domeniului public și aflat în administrarea Consiliului Local al Municipiului Sebeș, în administrarea Consiliului Județean Alba, în ve",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-91.pdf",
+     "sha256": "225ce25a38732ac2a407da7ea1a5d0c83cd170d9ea59cb2a823557c0ab534906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-93-2021",
+   "path": "local/alba/sebes/2021/93",
+   "short": "HCL Sebeș nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 93/2021 privind modificarea anexei 1 la H.C.L nr.18/2021 privind aprobarea calendarului de activități cultural-educative care se vor desfășura în cursul anului 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-93.pdf",
+     "sha256": "6159d63a59e081f49ed4c43cdecbc16a89069ece83ecdcbee5116ae96360e5f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-95-2021",
+   "path": "local/alba/sebes/2021/95",
+   "short": "HCL Sebeș nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 95/2021 privind alegerea președintelui de ședință pentru ședința ordinară din data de 21.04.2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-95.pdf",
+     "sha256": "cd502140592e25ff8398400cc12c6371f21a84e0845b0c87d2d4797f834e780e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-96-2021",
    "path": "local/alba/sebes/2021/96",
    "short": "HCL Sebeș nr. 96/2021",
@@ -824,6 +3629,51 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-96.pdf",
      "sha256": "42ec42fe49be35123d193bb70d603ece4365d1e6bf0eb743f0770ab063405d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-97-2021",
+   "path": "local/alba/sebes/2021/97",
+   "short": "HCL Sebeș nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 97/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-97.pdf",
+     "sha256": "0aafad4409688de945bd24b916736499975f6638a852342dd2aaefc0fc2c872c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-98-2021",
+   "path": "local/alba/sebes/2021/98",
+   "short": "HCL Sebeș nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 98/2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-98.pdf",
+     "sha256": "06e3ba651e50ad73618a62ddf6f7882bb777c2d4340ca05edfca316f2c03b37f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-99-2021",
+   "path": "local/alba/sebes/2021/99",
+   "short": "HCL Sebeș nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 99/2021 privind însușirea notificării nr. 3673/18.01.2021 referitoare la denunțarea unilaterală de către Municipiul Sebeș a Contractului de închiriere nr. 8038/04.04.2002",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/04/HCL-99.pdf",
+     "sha256": "9b01cdc5886c348ba3540f144235215c5c5cd33dd15c0cb0369df8eae1e0ee77"
     }
    ]
   }

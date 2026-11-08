@@ -3,6 +3,96 @@
  "shard": "local/alba/miraslau/2025",
  "acts": [
   {
+   "slug": "hcl-alba--miraslau-49-2025",
+   "path": "local/alba/miraslau/2025/49",
+   "short": "HCL Mirăslău nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 49/2025",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2025/08/HCL-nr.-49-din-13-august-2025.pdf",
+     "sha256": "6cd1273b71730d894ff2341ae2db0bfe73debbea93d57ab23705796f034c870e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-50-2025",
+   "path": "local/alba/miraslau/2025/50",
+   "short": "HCL Mirăslău nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 50/2025",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2025/08/HCL-nr.-50-din-13-august-2025.pdf",
+     "sha256": "d7295df9f71dfa8e2b060a9e62a087ad7924e928b7a893fae6a1edd5c5c4fbc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-51-2025",
+   "path": "local/alba/miraslau/2025/51",
+   "short": "HCL Mirăslău nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 51/2025",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2025/08/HCL-nr.-51-din-13-august-2025.pdf",
+     "sha256": "3533b240a586aab117c1c299a8b7aedad8828f326a6b1ea88294de1e1f879994"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-52-2025",
+   "path": "local/alba/miraslau/2025/52",
+   "short": "HCL Mirăslău nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 52/2025",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2025/09/HCL-nr.-52-din-4-septembrie-2025.pdf",
+     "sha256": "a5658e24ab5603bc8e969680f92f3c5f772e3273d4967bb4ef55c949ec47dd92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-53-2025",
+   "path": "local/alba/miraslau/2025/53",
+   "short": "HCL Mirăslău nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 53/2025",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2025/09/HCL-nr.-53-din-4-septembrie-2025.pdf",
+     "sha256": "99af851e46111c7c459d9634ccc5d142a6e218c49134d02737cf391af392bc45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-54-2025",
+   "path": "local/alba/miraslau/2025/54",
+   "short": "HCL Mirăslău nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 54/2025",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2025/page/2/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2025/09/HCL-nr.-54-din-26-septembrie-2025.pdf",
+     "sha256": "c709da2daf800de2a41097205b2da5257d45f6b1bb925d0eb7559c1d434215e1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--miraslau-55-2025",
    "path": "local/alba/miraslau/2025/55",
    "short": "HCL Mirăslău nr. 55/2025",

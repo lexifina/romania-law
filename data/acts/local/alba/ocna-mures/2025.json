@@ -745,6 +745,28 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-alba--ocna-mures-295-2025",
+"path": "local/alba/ocna-mures/2025/295",
+"kind": "local",
+"year": "2025",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 295/2025",
+"short": "HCL Ocna Mureș nr. 295/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://www.primariaocnamures.ro/wp-content/uploads/2026/06/HCJ-ALBA-nr.-295-din-data-de-23-octombrie-2025.pdf",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

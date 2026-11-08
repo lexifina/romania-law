@@ -3,6 +3,111 @@
  "shard": "local/alba/cugir/2019",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-129-2019",
+   "path": "local/alba/cugir/2019/129",
+   "short": "HCL Cugir nr. 129/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 129/2019",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P140",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.129,_evaluare_obiective_si_criterii_performanta_CA_Sapcea_.docx",
+     "sha256": "204b031f3b0eff428fd7345fc388546e8da167cfb9cbe4cdae8bbbec960cf81d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-14-2019",
+   "path": "local/alba/cugir/2019/14",
+   "short": "HCL Cugir nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 14/2019 privind Planul de acțiuni care pot fi realizate în anul 2019 de persoanele beneficiare ale venitului minim garantat (VMG) și de persoanele obligate să presteze muncă în folosul comunității Consiliul Local al Orașului Cugir, județul Alba, întrunit în ședință publică ordinară din data de 31 ianuarie 2019; Analizând Raportul de specialitate nr.1040/17.01.2019, întocmit de Biroul Administrarea Domeniu",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P260",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.14_-_Plan_de_actiuni_VMG_2019_.doc",
+     "sha256": "4added10ac0203d714df2691af92b0f4e6c0aa028549e2a84d5537d32e5ff009"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-167-2019",
+   "path": "local/alba/cugir/2019/167",
+   "short": "HCL Cugir nr. 167/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 167/2019 privind aprobarea modificării Anexei la HCL nr. 148/2018 pentru aprobarea documentației tehnico-economică, faza SF, și a indicatorilor tehnico- economici aferenți obiectivului de investiții \"Eficientizarea sistemului de iluminat public în UAT Cugir\" Consiliul Local al orașului Cugir, județul Alba, întrunit în ședință publică extraordinară, din data de 07.08.2019; Luând în dezbatere Proiectul de ho",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P100",
+   "versions": [
+    {
+     "from": "2019-08-07",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.167,_modificare_HCl_nr_._148_din_2018_SF_eficientizare_sistem_iluminat_public_.doc",
+     "sha256": "59d6970db8401b0894135fbe64dcf68bdb71ee1b91a6266cf1c562673841ea82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-19-2019",
+   "path": "local/alba/cugir/2019/19",
+   "short": "HCL Cugir nr. 19/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 19/2019 privind completarea HCL nr. 5/2019 prin care s-a acordat un ajutor de urgență pentru refacerea acoperisului blocului distrus in urma incendiului din data de 02.12.2018 Consiliul Local al Orașului Cugir, județul Alba, întrunit în ședință publică ordinară din data de 31 ianuarie 2019; Analizând Referatul de specialitate nr. 611/28.01.2019 întocmit de Serviciul Public de Asistenta Sociala din subordi",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P240",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.19_-_Completare_HCL_nr_.5,_ajutor_urgenta_pentru_incendiu_.doc",
+     "sha256": "8ca5ddaf1e46951000a815d727096b454b3b6578d01def2e9bf3a13799c84d94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-2-2019",
+   "path": "local/alba/cugir/2019/2",
+   "short": "HCL Cugir nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 2/2019 Pentru aprobarea utilizarii sumei de 4.000.000 lei din excedentul înregistrat la 31.12.2018, pentru acoperirea temporară a golurilor de casă Consiliul local al orașului Cugir, județul Alba, întrunit în ședință publică extraordinară din data de 8 ianuarie 2019; Analizând Raportul de specialitate nr.98/2019 întocmit de Directia Dezvoltare Economica din cadrul aparatului de specialitate al primarului",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P260",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.2_-_Utilizare_excedent_.doc",
+     "sha256": "a2ac646d5519addf1d888b19b92d44135812337f22d651a2737f1921dea5e1fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-20-2019",
+   "path": "local/alba/cugir/2019/20",
+   "short": "HCL Cugir nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 20/2019 privind repartizarea unei locuințe din domeniul privat al Orașului Cugir, dnei",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P240",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.20_-_Repartizarea_unei_locuinte_din_domeniul_privat_al_orasului_Cugir_.doc",
+     "sha256": "6ded3fe9bf65dc5c0ac96ee13c494e547c2f3aacecc888c63d8a22cfb13b929b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-21-2019",
+   "path": "local/alba/cugir/2019/21",
+   "short": "HCL Cugir nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 21/2019 privind alegerea președintelui de ședință pentru a conduce lucrările ședinței ordinare din data de 22 februarie 2019 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ordinară în data de 22 februarie 2019; Văzând dispozițiile HCL nr.85/2016 privind validarea mandatelor consilierilor locali aleși la data de 5 iunie 2016, ale HCL nr.98/2016, HCL nr.99/2016, HCL nr.142/2016",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P240",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr._21_-_Alegere_presedinte_de_sedinta_.doc",
+     "sha256": "e9f4a3a56d009e717050c2fbd66739ce6e2cbdc7ba8f741e70e06c98ab0e24e7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-22-2019",
    "path": "local/alba/cugir/2019/22",
    "short": "HCL Cugir nr. 22/2019",
@@ -14,6 +119,21 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr._22_-_Modificare_tarif_deseuri_.doc",
      "sha256": "cde55d0995946042dd532eac46a90e11f1829a654a222b495d1fcd01d35594fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-39-2019",
+   "path": "local/alba/cugir/2019/39",
+   "short": "HCL Cugir nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 39/2019 privind alegerea președintelui de ședință pentru a conduce ședințele consiliului local care vor fi convocate în lunile martie și aprilie 2019 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică extraordinară în data de 12 martie 2019; Văzând dispozițiile HCL nr.85/2016 privind validarea mandatelor consilierilor locali aleși la data de 5 iunie 2016, ale HCL nr.98/2016, HCL",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P220",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr._39_-_Alegere_presedinte_de_sedinta_lunile_martie-aprilie_.doc",
+     "sha256": "d38279fcb1601321d5b608a207d3bb5515d3b534c6df4cc3e42c90122d556880"
     }
    ]
   },
@@ -33,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-alba--cugir-78-2019",
+   "path": "local/alba/cugir/2019/78",
+   "short": "HCL Cugir nr. 78/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 78/2019 privind înscrierea în cotă definitivă în Cartea Funciară a dreptului de proprietate al orașului Cugir - domeniul public, pentru 19 imobile din orașul Cugir Consiliul Local al Orașului Cugir, județul Alba, întrunit în ședință publică și ordinară în data de 28 martie 2019; Analizând Referat comun de specialitate nr. 5569/22.03.2019, întocmit de Compartimentul Cadastru, Compartimentul Urbanism și Bir",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P180",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.78_Intabulare_cota_definitiva_19_IMOBILE_.doc",
+     "sha256": "30b9688c122ae4438165dfd7c8c586bfa42452988cea45f705831d017ace1530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-9-2019",
+   "path": "local/alba/cugir/2019/9",
+   "short": "HCL Cugir nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 9/2019 privind declararea de interes public local a Campaniei – „Curǎțenia de primǎvarǎ în Orașul Cugir-2019”, în perioada 1 martie 2019 – 13 aprilie 2019 și aprobarea Programului acestei campanii Consiliul Local al Orașului Cugir, județul Alba întrunit în ședință publică ordinară din data de 31 ianuarie 2019; Analizând Raportul de specialitate nr. 1166/21.01.2019 întocmit de Biroul Administrarea Domeniu",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P260",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.9_-_Declararea_de_interes_public_a_Campaniei-Curatenia_de_primavara_in_Orasul_Cugir-_2019_.doc",
+     "sha256": "5c34c8ebdbec8f4b7b547a94d83316e151b4616e8eb7c1b1b1b715073b2a34a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-95-2019",
+   "path": "local/alba/cugir/2019/95",
+   "short": "HCL Cugir nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 95/2019 privind aprobarea listei cu volumele și prețurile de pornire la licitație pentru materialul lemnos care se va scoate la licitație de masă lemnoasă fasonată loco depozit pentru producția anului 2019 și a tipului de licitație pentru lotul 113 Consiliul Local al orașului Cugir, județul Alba, întrunit în ședință publică ordinară la data de 18 aprilie 2019; Analizând Raportul de specialitate nr.7116/12",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P180",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.95_Pret_licitatie_masa_lemnoasa_Lot_113_.doc",
+     "sha256": "5e1c8f17be5ec7f6be3f97548103b07ebc4efad9635470073b06143ba4e411e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-97-2019",
    "path": "local/alba/cugir/2019/97",
    "short": "HCL Cugir nr. 97/2019",
@@ -44,6 +209,21 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/buget/HCL_nr.97_-_Program_anual_de_finantare_nerambursabila_2019__.doc",
      "sha256": "c6caa6f4c85a4299391a20d8fcf4c288f05f31ae68611770b4d7afea53f49837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-98-2019",
+   "path": "local/alba/cugir/2019/98",
+   "short": "HCL Cugir nr. 98/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 98/2019 privind aprobarea Contractului de delegare cu operatorul economic câștigător al licitației privind “DELEGAREA PRIN CONCESIUNE A GESTIUNII UNOR ACTIVITĂȚI COMPONENTE ALE SERVICIULUI DE SALUBRIZARE ÎN JUDEȚUL ALBA, RESPECTIV DE COLECTARE ȘI TRANSPORT A DEȘEURILOR MUNICIPALE ȘI A UNOR FLUXURI SPECIALE DE DEȘEURI” - pentru Lotul 2 Tărtăria, care cuprinde tarifele de salubrizare din oferta financiară a",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C43/P160",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.98_Aprobarea_Contractului_de_delegare_de_gestiune_Salubrizare_.doc",
+     "sha256": "4c97ce7b877fab06071c79b7046c968bf3359cf4d06001959c20cfde23e6a13e"
     }
    ]
   },
