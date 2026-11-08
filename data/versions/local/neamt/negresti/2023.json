@@ -3,6 +3,306 @@
  "shard": "local/neamt/negresti/2023",
  "acts": [
   {
+   "slug": "hcl-neamt--negresti-13-2023",
+   "path": "local/neamt/negresti/2023/13",
+   "short": "HCL Negrești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 13/2023 privind aprobarea proiectului tehnic de executie, devizului general actualizat si a indicatorilor tehnico-economici actualizati, precum si a asigurarii de la bugetul local a cheltuielilor neeligibile pentru realizarea obiectivului de investitii „INFIINTARE SISTEM DE SUPRAVEGHERE VIDEO IN COMUNA NEGRESTI, JUDETUL NEAMT”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/101122",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/101122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-15-2023",
+   "path": "local/neamt/negresti/2023/15",
+   "short": "HCL Negrești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 15/2023 privind modificarea si completarea listei investitiilor comunei Negresti, jud. Neamt, pe anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/101129",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/101129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-16-2023",
+   "path": "local/neamt/negresti/2023/16",
+   "short": "HCL Negrești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 16/2023 privind modificarea si completarea Hotararii de consiliu local nr. 64 din 11.11.2022 privind implementarea Proiectului ,,ÎMBUNATATIREA SERVICIILOR LOCALE DE BAZA PRIN ACHIZIȚIA UNUI TRACTOR IN COMUNA NEGRESTI, JUDETUL NEAMT’’",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/101130",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/101130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-22-2023",
+   "path": "local/neamt/negresti/2023/22",
+   "short": "HCL Negrești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 22/2023 privind aprobarea Protocolului de colaborare pentru implementarea proiectului „HUB DE SERVICII MMSS – SII MMSS”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/101158",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/101158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-29-2023",
+   "path": "local/neamt/negresti/2023/29",
+   "short": "HCL Negrești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 29/2023 privind trecerea suprafetei de 0,66 ha teren intravilan în domeniul privat al comunei Negrești, județul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123250",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-30-2023",
+   "path": "local/neamt/negresti/2023/30",
+   "short": "HCL Negrești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 30/2023 privind modificarea şi actualizarea Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123251",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-31-2023",
+   "path": "local/neamt/negresti/2023/31",
+   "short": "HCL Negrești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 31/2023 privind modificarea și completarea Programului anual al achizitiilor publice pentru anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123252",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-32-2023",
+   "path": "local/neamt/negresti/2023/32",
+   "short": "HCL Negrești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 32/2023 privind rectificarea bugetului local al comunei Negresti, jud. Neamt, pe anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123253",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-33-2023",
+   "path": "local/neamt/negresti/2023/33",
+   "short": "HCL Negrești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 33/2023 privind darea în folosinţă gratuită către DELGAZ-GRID SA a unei suprafeţe de 10,4 m.p. teren ocupat, aparţinând domeniului public al comunei Negresti, Judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123254",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-34-2023",
+   "path": "local/neamt/negresti/2023/34",
+   "short": "HCL Negrești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 34/2023 privind darea în folosinţă gratuită către DELGAZ-GRID SA a unei suprafeţe de 18,36 m.p. teren ocupat, aparţinând domeniului public al comunei Negresti, Judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123293",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-36-2023",
+   "path": "local/neamt/negresti/2023/36",
+   "short": "HCL Negrești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 36/2023 privind modificarea tarifelor serviciului de salubritate în vederea reechilibrarii contractului cu SC Brantner servicii ecologice SRL, prin act adițional",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123295",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-39-2023",
+   "path": "local/neamt/negresti/2023/39",
+   "short": "HCL Negrești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 39/2023 privind înfiinţarea Serviciului de gestionare a câinilor fară stăpân al Comunei Negresti, judeţul Neamț",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123298",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-40-2023",
+   "path": "local/neamt/negresti/2023/40",
+   "short": "HCL Negrești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 40/2023 privind modificarea Programului anual al achizitiilor publice pentru anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123299",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-41-2023",
+   "path": "local/neamt/negresti/2023/41",
+   "short": "HCL Negrești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 41/2023 privind rectificarea bugetului local al comunei Negresti, jud. Neamt, pe anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123300",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-42-2023",
+   "path": "local/neamt/negresti/2023/42",
+   "short": "HCL Negrești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 42/2023 privind modificarea şi completarea Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123301",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-43-2023",
+   "path": "local/neamt/negresti/2023/43",
+   "short": "HCL Negrești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 43/2023 privind abrogarea art. 2 al Hotărârii Consiliului local al comunei Negresti nr. 29 din 23.06.2023 privind trecerea suprafetei de 0,66 ha teren intravilan în domeniul privat al comunei Negrești, Județul Neamț",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123302",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-44-2023",
+   "path": "local/neamt/negresti/2023/44",
+   "short": "HCL Negrești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 44/2023 privind neasumarea responsabilitătilor organizării procedurilor de atribuire a contractelor/acordurilor –cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Negrești",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/123303",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/123303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-47-2023",
+   "path": "local/neamt/negresti/2023/47",
+   "short": "HCL Negrești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 47/2023 privind rectificarea bugetului local al comunei Negrești, jud. Neamț, pe anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/124223",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/124223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-5-2023",
+   "path": "local/neamt/negresti/2023/5",
+   "short": "HCL Negrești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 5/2023 privind aprobarea valorii si platii cotizatiei anuale pentru anul 2023 datorata ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „PROTECȚIA ANIMALELOR NEAMȚ”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/101108",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/101108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-51-2023",
+   "path": "local/neamt/negresti/2023/51",
+   "short": "HCL Negrești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 51/2023 privind modificarea Programului anual al achizițiilor publice pentru anul 2023",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/124227",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/124227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-52-2023",
    "path": "local/neamt/negresti/2023/52",
    "short": "HCL Negrești nr. 52/2023",

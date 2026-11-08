@@ -3,6 +3,111 @@
  "shard": "local/neamt/valea-ursului/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--valea-ursului-17-2026",
+   "path": "local/neamt/valea-ursului/2026/17",
+   "short": "HCL Valea Ursului nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 17/2026 privind aprobarea bugetului local al comunei Valea Ursului județul Neamț pentru anul 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/267188",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/267188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-18-2026",
+   "path": "local/neamt/valea-ursului/2026/18",
+   "short": "HCL Valea Ursului nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 18/2026 privind aprobarea Planului de evacuare a populației, unor bunuri materiale și colectivități de animale în situații de urgență al comunei Valea Ursului, județul Neamț",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/267189",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/267189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-21-2026",
+   "path": "local/neamt/valea-ursului/2026/21",
+   "short": "HCL Valea Ursului nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 21/2026 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligațiilor fiscale principale restante la bugetul local al comunei Valea Ursului, județul Neamț, aflate în sold la data de 31.12.2025",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/275499",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/275499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-22-2026",
+   "path": "local/neamt/valea-ursului/2026/22",
+   "short": "HCL Valea Ursului nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 22/2026 privind aprobarea procedurii de acordare a eșalonării de plată pentru obligațiile fiscale restante datorate bugetului local de către persoanele fizice și juridice",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/275500",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/275500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-23-2026",
+   "path": "local/neamt/valea-ursului/2026/23",
+   "short": "HCL Valea Ursului nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 23/2026 privind rectificarea bugetului de venituri și cheltuieli şi modificarea listei de investiţii în luna mai 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/275501",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/275501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-26-2026",
+   "path": "local/neamt/valea-ursului/2026/26",
+   "short": "HCL Valea Ursului nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 26/2026 privind alocarea unei sume din bugetul local de venituri și cheltuieli al comunei Valea Ursului, județul Neamț pentru organizarea evenimentului \" La Izvoarele Bârladului”, din data de 05.07.2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/277155",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/277155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-27-2026",
+   "path": "local/neamt/valea-ursului/2026/27",
+   "short": "HCL Valea Ursului nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 27/2026 privind rectificarea bugetului de venituri și cheltuieli şi modificarea listei de investiţii în luna iunie 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/277156",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/277156",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--valea-ursului-34-2026",
    "path": "local/neamt/valea-ursului/2026/34",
    "short": "HCL Valea Ursului nr. 34/2026",
@@ -298,6 +403,51 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/296762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-6-2026",
+   "path": "local/neamt/valea-ursului/2026/6",
+   "short": "HCL Valea Ursului nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 6/2026 privind aprobarea Programului Anual al Achizitiilor Publice pentru anul 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/256075",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/256075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-7-2026",
+   "path": "local/neamt/valea-ursului/2026/7",
+   "short": "HCL Valea Ursului nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 7/2026 privind aprobarea planului de acţiune comunitară destinat prevenirii şi combaterii riscului de sărăcie şi excluziune socială la nivelul comunei Valea Ursului, pentru anul 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/256076",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/256076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--valea-ursului-8-2026",
+   "path": "local/neamt/valea-ursului/2026/8",
+   "short": "HCL Valea Ursului nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Ursului nr. 8/2026 privind aprobarea Planului de analiză şi acoperire a riscurilor în comuna Valea Ursului pe anul 2026",
+   "url": "https://emol.ro/valeaursului-nt/registru-hcl/256077",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaursului-nt/registru-hcl/256077",
      "sha256": null
     }
    ]

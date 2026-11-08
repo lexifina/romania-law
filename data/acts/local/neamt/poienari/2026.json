@@ -3,6 +3,94 @@
 "shard": "local/neamt/poienari/2026",
 "acts": [
 {
+"slug": "hcl-neamt--poienari-1-2026",
+"path": "local/neamt/poienari/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 1/2026 privind aprobarea Regulamentului propriu privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri ale autorităţii deliberative",
+"short": "HCL Poienari nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/248615",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--poienari-2-2026",
+"path": "local/neamt/poienari/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 2/2026 privind validarea Dispoziției nr. 8 din 13.01.2026 a primarului comunei Poienari, județul Neamț",
+"short": "HCL Poienari nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/248616",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--poienari-4-2026",
+"path": "local/neamt/poienari/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 4/2026 privind modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 63 din 29.12.2025 privind stabilirea impozitelor și taxelor locale ale comunei Poienari, județul Neamț, pentru anul fiscal 2026",
+"short": "HCL Poienari nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/248618",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--poienari-13-2026",
+"path": "local/neamt/poienari/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienari nr. 13/2026 privind aprobarea Planului Urbanistic General și a Regulamentului local de urbanism al comunei Poienari, județul Neamț",
+"short": "HCL Poienari nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-14",
+"latest": "2026-05-14",
+"portal": "https://emol.ro/poienari-nt/registru-hcl/267227",
+"council": "neamt/poienari",
+"council_name": "Consiliul Local al Comunei Poienari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--poienari-24-2026",
 "path": "local/neamt/poienari/2026/24",
 "kind": "local",

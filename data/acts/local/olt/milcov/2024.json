@@ -3,6 +3,50 @@
 "shard": "local/olt/milcov/2024",
 "acts": [
 {
+"slug": "hcl-olt--milcov-1-2024",
+"path": "local/olt/milcov/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 1/2024 privind aprobarea rețelei școlare din comuna Milcov, județul Olt, pentru anul 2024-2025",
+"short": "HCL Milcov nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/140176",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--milcov-19-2024",
+"path": "local/olt/milcov/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 19/2024 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Milcov, județul Olt pentru anul 2025",
+"short": "HCL Milcov nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/155867",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-olt--milcov-28-2024",
 "path": "local/olt/milcov/2024/28",
 "kind": "local",

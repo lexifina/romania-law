@@ -3,6 +3,28 @@
 "shard": "local/prahova/barcanesti/2025",
 "acts": [
 {
+"slug": "hcl-prahova--barcanesti-20-2025",
+"path": "local/prahova/barcanesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 20/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Bărcănești pentru anul 2025",
+"short": "HCL Bărcănești nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/barcanesti-ph/registru-hcl/195935",
+"council": "prahova/barcanesti",
+"council_name": "Consiliul Local al Comunei Bărcănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--barcanesti-95-2025",
 "path": "local/prahova/barcanesti/2025/95",
 "kind": "local",

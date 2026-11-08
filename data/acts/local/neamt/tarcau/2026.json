@@ -3,6 +3,138 @@
 "shard": "local/neamt/tarcau/2026",
 "acts": [
 {
+"slug": "hcl-neamt--tarcau-19-2026",
+"path": "local/neamt/tarcau/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 19/2026 privind aprobarea reeșalonării pe o perioadă de maxim 36 de luni a sumei de 1.644.178,53 lei (plus comisioanele și dobânzile aferente), provenită din executarea Scrisorii de garanție bancară de restituire avans din grant aferentă contractului de finanțare nr. C0720AM00021612900276/28.09.2017 pentru proiectul “Înființare sistem de alimentare cu apă potabilă și canalizare menajeră cu stație de epurare satele Tarcău și Straja, Comuna Tarcău, Județul Neamț” încheiat cu Agenția pentru Finanțarea Investițiilor Rurale (AFIR)",
+"short": "HCL Tarcău nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/261205",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-20-2026",
+"path": "local/neamt/tarcau/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 20/2026 privind modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+"short": "HCL Tarcău nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/261535",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-22-2026",
+"path": "local/neamt/tarcau/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 22/2026 privind aprobarea schimbării de destinaţie, în vederea demolării, pentru Clădire grădiniță Lunca (înscrisă în CF nr.54902, NC54901-C1-Tarcău), din satul Tarcău, comuna Tarcău, județul Neamț, în suprafață de 92 mp",
+"short": "HCL Tarcău nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/261537",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-23-2026",
+"path": "local/neamt/tarcau/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 23/2026 privind modificarea Regulamentului de aplicare a taxei speciale de salubrizare aprobat prin Anexa nr. 1 la HCL nr. 83 din 22 decembrie 2022 și actualizat prin HCL nr. 9 din 27 martie 2025",
+"short": "HCL Tarcău nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/261538",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-24-2026",
+"path": "local/neamt/tarcau/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 24/2026 privind reorganizarea aparatului de specialitate al primarului, modificarea organigramei şi a statului de funcții",
+"short": "HCL Tarcău nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/264346",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-26-2026",
+"path": "local/neamt/tarcau/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 26/2026 pentru aprobarea necesității și oportunității cât și a indicatorilor tehnico-economici ai proiectului “DOTAREA CU UTILAJ PENTRU COMUNA TARCĂU, JUDEȚUL NEAMȚ”, finanțat prin PLANUL STRATEGIC PAC 2023-2027, Program Finanțat de Uniunea Europeană și Guvernul României prin FEADR",
+"short": "HCL Tarcău nr. 26/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/266084",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-58-2026",
 "path": "local/neamt/tarcau/2026/58",
 "kind": "local",

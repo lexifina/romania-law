@@ -3,6 +3,66 @@
  "shard": "local/neamt/tasca/2024",
  "acts": [
   {
+   "slug": "hcl-neamt--tasca-12-2024",
+   "path": "local/neamt/tasca/2024/12",
+   "short": "HCL Tașca nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 12/2024 privind stabilirea și aprobarea tarifelor aferente Contractului de delegare nr. 29/EDL17-64/30.01.2017, Zona 4 jud. Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/169590",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/169590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-123-2024",
+   "path": "local/neamt/tasca/2024/123",
+   "short": "HCL Tașca nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 123/2024 privind depunerea spre finanțare și aprobarea indicatorilor tehnico-economici a proiectului „PROMOVAREA TRADIȚIILOR CULTURALE ÎN COMUNA TAȘCA, JUDEȚUL NEAMȚ, MICROREGIUNEA GAL CEAHLĂU”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228613",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-124-2024",
+   "path": "local/neamt/tasca/2024/124",
+   "short": "HCL Tașca nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 124/2024 privind schimbarea denumirii obiectivului de investiții „ÎMBRĂCĂMINTE BITUMINOASĂ UȘOARĂ PE STRADA IASOMIEI ȘI STRADA IZVORULUI, SAT NEAGRA, COMUNA TAȘCA, JUDEȚUL NEAMȚ” în MODERNIZARE STRADA IZVORULUI ȘI STRADA IASOMIEI, SAT NEAGRA, COMUNA TAȘCA, JUDEȚUL NEAMȚ” finanțat din bugetul local",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228614",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-126-2024",
+   "path": "local/neamt/tasca/2024/126",
+   "short": "HCL Tașca nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 126/2024",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228615",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228615",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-129-2024",
    "path": "local/neamt/tasca/2024/129",
    "short": "HCL Tașca nr. 129/2024",
@@ -13,6 +73,21 @@
      "from": "2025-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/228618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-13-2024",
+   "path": "local/neamt/tasca/2024/13",
+   "short": "HCL Tașca nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 13/2024 privind ajustarea tarifelor aferente Contractului de delegare nr. 29/EDL17-64/30.01.2017, Zona 4 jud. Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/169591",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/169591",
      "sha256": null
     }
    ]
@@ -298,6 +373,156 @@
      "from": "2025-10-06",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/228673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-33-2024",
+   "path": "local/neamt/tasca/2024/33",
+   "short": "HCL Tașca nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 33/2024 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2024 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228402",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-36-2024",
+   "path": "local/neamt/tasca/2024/36",
+   "short": "HCL Tașca nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 36/2024 privind aprobarea indicatorilor tehnico-economici actualizați pentru realizarea obiectivului de investiții ''Extindere, modernizare și dotare dispensar în comuna Tașca, județul Neamț'', dotare cu sistem de radiologie",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228405",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-37-2024",
+   "path": "local/neamt/tasca/2024/37",
+   "short": "HCL Tașca nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 37/2024 privind asigurarea fondurilor necesare investiției defalcate pe surse de finanțare pentru realizarea obiectivului de investiții ''Extindere, modernizare și dotare dispensar în comuna Tașca, județul Neamț'' dotare cu sistem de radiologie",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228406",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-5-2024",
+   "path": "local/neamt/tasca/2024/5",
+   "short": "HCL Tașca nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 5/2024 privind aprobarea structurii rețelei școlare a unităților de învățământ preuniveristar de stat de la nivelul comunei Tașca, județul Neamț pe anul 2024-2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/169545",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/169545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-55-2024",
+   "path": "local/neamt/tasca/2024/55",
+   "short": "HCL Tașca nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 55/2024 privind modificarea denumirii obiectivului de investiții din ''Modernizare pod peste pârâul Secu, sat Tașca, comuna Tașca, județul Neamț'', în ''Construire pod peste pârâul Secu, sat Tașca, comuna Tașca, județul Neamț'', a Studiului de Fezabilitate, a Indicatorilor tehnico-economici și a Devizului general actualizat pentru obiectivul de investiții ''Construire pod peste pârâul Secu, sat Tașca, comuna Tașca, județul Neamț'' ce urmează a fi finanțat prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228424",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-56-2024",
+   "path": "local/neamt/tasca/2024/56",
+   "short": "HCL Tașca nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 56/2024 privind modificarea denumirii obiectivului de investiții din ''Modernizare pod peste pârâul Neagra comuna Tașca, județul Neamț'' în ''Construire pod peste pârâul Neagra comuna Tașca, județul Neamț'' a Studiului de Fezabilitate, a Indicatorilor tehnico-economici și a Devizului general actualizat pentru obicetivul de investiții ''Construire pod peste pârâul Neagra Neagra comuna Tașca, județul Neamț'' ce urmează a fi finanțat prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228425",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-62-2024",
+   "path": "local/neamt/tasca/2024/62",
+   "short": "HCL Tașca nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 62/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ''Modernizare drumuri de interes local în Comuna Tașca, Județul Neamț'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și asumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228431",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-63-2024",
+   "path": "local/neamt/tasca/2024/63",
+   "short": "HCL Tașca nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 63/2024 privind însușirea proiectului tehnic, aprobarea actualizării indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ''Înființare rețea de apă uzată în comuna Tașca, județul Neamț'' aprobat pentru finanțare prin Programul Național de Dezvoltare Locală precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228432",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-81-2024",
+   "path": "local/neamt/tasca/2024/81",
+   "short": "HCL Tașca nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 81/2024 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „ÎMBRĂCĂMINTE BITUMINOASĂ UȘOARĂ PE STRADA IASOMIEI ȘI STRADA IZVORULUI, SAT NEAGRA, COMUNA TAȘCA, JUDEȚUL NEAMȚ” finanțat din bugetul local",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228487",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-83-2024",
+   "path": "local/neamt/tasca/2024/83",
+   "short": "HCL Tașca nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 83/2024 privind prețul local pentru utilizatorii casnici (populației) și noncasnici din comuna Tașca, precum și aprobarea acoperirii financiare din bugetul local a diferenței dintre prețul local al energiei termice și prețul local pentru populație",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/228499",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/228499",
      "sha256": null
     }
    ]

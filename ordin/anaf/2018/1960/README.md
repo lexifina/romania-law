@@ -17,3 +17,11 @@ Act id: `ordin-anaf-1960-2018` (tags `ordin-anaf-1960-2018/<day>`; `python tools
 - Ordin anaf nr. 1960/2018: the first version is the order as published in Monitorul Oficial nr. 700 of 10 August 2018 (document 203740 of the official portal, archived copy), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1960/2018: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1960/2018: Anexa nr. 1 (MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală Regională a Finanțelor Publice............... Biroul ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Brașov nr. 33r/2019](../../../../instante/ca-brasov/sentinta/2019/33r/)**, Monitorul Oficial nr. 1182 din 14 decembrie 2021 · annulled
+
+  > Anulează Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 1.960/2018 privind modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 1.849/2016 pentru aprobarea Procedurii de înregistrare a operatorilor economici care comercializează în sistem angro sau en détail produse energetice - benzine, motorine, petrol lampant, gaz petrolier lichefiat și biocombustibili, precum și pentru aprobarea modelului și conținutului unor formulare, precum și pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 1.850/2016 pentru aprobarea Procedurii de înregistrare a activității de distribuție și comercializare angro de băuturi alcoolice și/sau tutun prelucrat, precum și pentru aprobarea modelului și conținutului unor formulare, publicat în Monitorul Oficial al României, Partea I, nr. 700 din 10 august 2018.

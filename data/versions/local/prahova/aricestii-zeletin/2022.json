@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/aricestii-zeletin/2022",
+ "acts": [
+  {
+   "slug": "hcl-prahova--aricestii-zeletin-1-2022",
+   "path": "local/prahova/aricestii-zeletin/2022/1",
+   "short": "HCL Ariceștii Zeletin nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 1/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

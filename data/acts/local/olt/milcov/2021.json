@@ -3,6 +3,28 @@
 "shard": "local/olt/milcov/2021",
 "acts": [
 {
+"slug": "hcl-olt--milcov-10-2021",
+"path": "local/olt/milcov/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 10/2021 privind aprobarea Strategiei Anuale de Achiziții Publice a Comunei Milcov pentru anul 2021",
+"short": "HCL Milcov nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/40036",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-olt--milcov-36-2021",
 "path": "local/olt/milcov/2021/36",
 "kind": "local",

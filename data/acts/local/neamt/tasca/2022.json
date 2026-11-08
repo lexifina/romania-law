@@ -3,6 +3,94 @@
 "shard": "local/neamt/tasca/2022",
 "acts": [
 {
+"slug": "hcl-neamt--tasca-16-2022",
+"path": "local/neamt/tasca/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 16/2022 privind aprobarea majorării prețului gigacaloriei, începând cu luna februarie 2022",
+"short": "HCL Tașca nr. 16/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71359",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-26-2022",
+"path": "local/neamt/tasca/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 26/2022 privind aprobarea Planului local de acțiune pentru protecția apelor împotriva poluării cu nitrați din surse agricole",
+"short": "HCL Tașca nr. 26/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71384",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-27-2022",
+"path": "local/neamt/tasca/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 27/2022 privind amplasarea pe domeniul public al comunei Tașca de instalații electrice pentru lucrarea „Extindere rețea energie electrică, strada Poiana, strada 22 Decembrie 1989, localitatea Tașca, comuna Tașca, județul Neamț”",
+"short": "HCL Tașca nr. 27/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71385",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-28-2022",
+"path": "local/neamt/tasca/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 28/2022 privind înființarea și delegarea gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din Comuna Tașca",
+"short": "HCL Tașca nr. 28/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/71386",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--tasca-48-2022",
 "path": "local/neamt/tasca/2022/48",
 "kind": "local",

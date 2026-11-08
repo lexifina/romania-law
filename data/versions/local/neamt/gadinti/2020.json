@@ -661,6 +661,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-7-2020",
+   "path": "local/neamt/gadinti/2020/7",
+   "short": "HCL Gâdinți nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 7/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/418",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-8-2020",
+   "path": "local/neamt/gadinti/2020/8",
+   "short": "HCL Gâdinți nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 8/2020 privind însuşirea variantei finale a proiectului de stemă a comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/419",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/419",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

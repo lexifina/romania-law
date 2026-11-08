@@ -3,6 +3,621 @@
  "shard": "local/neamt/negresti/2022",
  "acts": [
   {
+   "slug": "hcl-neamt--negresti-1-2022",
+   "path": "local/neamt/negresti/2022/1",
+   "short": "HCL Negrești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 1/2022 privind acoperirea definitivă a deficitului sectiunii de dezvoltare la data de 31.12.2021 in sumă de 431.043,17 lei din excedentul bugetului local al anilor precedenti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/54796",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/54796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-10-2022",
+   "path": "local/neamt/negresti/2022/10",
+   "short": "HCL Negrești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 10/2022 privind aprobarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67562",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-11-2022",
+   "path": "local/neamt/negresti/2022/11",
+   "short": "HCL Negrești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 11/2022 privind modificarea şi completarea Actului Constitutiv şi Statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67570",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-12-2022",
+   "path": "local/neamt/negresti/2022/12",
+   "short": "HCL Negrești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 12/2022 privind modificarea si completarea Anexelor nr. 1 si 6 din HCL nr.77/26.11.2021 privind stabilirea nivelurilor impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67571",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-13-2022",
+   "path": "local/neamt/negresti/2022/13",
+   "short": "HCL Negrești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 13/2022 privind modificarea art. 20 din anexa 1 la Hotararea nr. 76 din 26.11.2021 pentru aprobarea Regulamentului privind autorizarea desfăsurării activitătilor comerciale si al serviciilor de piată pe teritoriul comunei Negresti, judetul Neamț",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67572",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-14-2022",
+   "path": "local/neamt/negresti/2022/14",
+   "short": "HCL Negrești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 14/2022 privind aprobarea Planului anual de actiuni si lurari de interes local pentru beneficiarii de ajutor social din comuna Negresti, judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67573",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-18-2022",
+   "path": "local/neamt/negresti/2022/18",
+   "short": "HCL Negrești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 18/2022 privind completarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67577",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-19-2022",
+   "path": "local/neamt/negresti/2022/19",
+   "short": "HCL Negrești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 19/2022 privind aprobarea Devizului General actualizat rest, Devizului General totalizator conform OUG nr. 15/2021 pentru obiectivul de investitii ”Grădiniță cu patru săli de clasă comuna Negrești, județul Neamț”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67578",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-2-2022",
+   "path": "local/neamt/negresti/2022/2",
+   "short": "HCL Negrești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 2/2022 privind aprobarea Programului de aprovizionare a populaţiei cu produse raţionalizate la nivelul comunei Negresti, judetul Neamt pentru perioada 2021 - 2024",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67554",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-20-2022",
+   "path": "local/neamt/negresti/2022/20",
+   "short": "HCL Negrești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 20/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67586",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-21-2022",
+   "path": "local/neamt/negresti/2022/21",
+   "short": "HCL Negrești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 21/2022 privind aprobarea cuantumului burselor aferente anului școlar 2021-2022, pentru elevii din învaţământul preuniversitar de stat",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67587",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-23-2022",
+   "path": "local/neamt/negresti/2022/23",
+   "short": "HCL Negrești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 23/2022 privind declararea obiectivelor de investiții “Infiintare sistem de alimentare cu apa in satul Negresti, comuna Negresti, judetul Neamt” si ”Infiintare retea de canalizare si statie de epurare ape uzate in satul Negresti, comuna Negresti, judetul Neamt” ca bunuri de utilitate publică si interes local ale comunei Negresti,județul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67601",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-24-2022",
+   "path": "local/neamt/negresti/2022/24",
+   "short": "HCL Negrești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 24/2022 privind completarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67602",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-25-2022",
+   "path": "local/neamt/negresti/2022/25",
+   "short": "HCL Negrești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 25/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67603",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-26-2022",
+   "path": "local/neamt/negresti/2022/26",
+   "short": "HCL Negrești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 26/2022 privind aprobarea casarii unor mijloace fixe si a unor obiecte de inventar din patrimoniul comunei Negresti, judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67604",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-30-2022",
+   "path": "local/neamt/negresti/2022/30",
+   "short": "HCL Negrești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 30/2022 privind completarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67608",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-31-2022",
+   "path": "local/neamt/negresti/2022/31",
+   "short": "HCL Negrești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 31/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67609",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-32-2022",
+   "path": "local/neamt/negresti/2022/32",
+   "short": "HCL Negrești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 32/2022 pentru modificarea HCL nr. 8 din 29.01.2021 privind instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabili de pe raza administrativ teritorială a Comunei Negresti, judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67610",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-35-2022",
+   "path": "local/neamt/negresti/2022/35",
+   "short": "HCL Negrești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 35/2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67617",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-36-2022",
+   "path": "local/neamt/negresti/2022/36",
+   "short": "HCL Negrești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 36/2022 privind aprobarea modificarii organigramei si statului de functii ale aparatului de specialitate al primarului comunei Negresti, incepand cu data de 1 mai 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67618",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-37-2022",
+   "path": "local/neamt/negresti/2022/37",
+   "short": "HCL Negrești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 37/2022 privind modificarea tarifului pentru serviciile silvice de administrare a suprafetei de 100,79 ha pădure, la pretul de 210 lei /an/ha (pretul contine TVA), prin act aditional",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67619",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-38-2022",
+   "path": "local/neamt/negresti/2022/38",
+   "short": "HCL Negrești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 38/2022 privind aprobarea participării Comunei Negresti, judetul Neamt în calitate de membru fondator, la înființarea ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „PROTECȚIA ANIMALELOR NEAMȚ”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67620",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-39-2022",
+   "path": "local/neamt/negresti/2022/39",
+   "short": "HCL Negrești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 39/2022 privind modificarea si completarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67621",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-4-2022",
+   "path": "local/neamt/negresti/2022/4",
+   "short": "HCL Negrești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 4/2022 privind aprobarea utilizarii excedentului bugetului local din anul 2021 ca sursa de finantare a cheltuielilor sectiunii de functionare si dezvoltare în anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67556",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-40-2022",
+   "path": "local/neamt/negresti/2022/40",
+   "short": "HCL Negrești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 40/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67622",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-41-2022",
+   "path": "local/neamt/negresti/2022/41",
+   "short": "HCL Negrești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 41/2022 privind includerea in proprietatea privata a comunei Negresti a autoutilitarei RENAULT MASTER ȘASIU",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67623",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-47-2022",
+   "path": "local/neamt/negresti/2022/47",
+   "short": "HCL Negrești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 47/2022 privind actualizarea Planului de analiză şi acoperire a riscurilor teritoriale din comuna NEGREȘTI",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100812",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-48-2022",
+   "path": "local/neamt/negresti/2022/48",
+   "short": "HCL Negrești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 48/2022 privind includerea în domeniul public al comunei Negresti, ca urmare a receptiei, a investitiei ”Grădiniță cu patru săli de clasă, comuna Negresti, judetul Neamt ”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100813",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-49-2022",
+   "path": "local/neamt/negresti/2022/49",
+   "short": "HCL Negrești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 49/2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100814",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-5-2022",
+   "path": "local/neamt/negresti/2022/5",
+   "short": "HCL Negrești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 5/2022 privind acordul pentru scoaterea definitiva si temporară din circuitul agricol a unor suprafete de teren proprietate publică a comunei Negresti, judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67557",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-51-2022",
+   "path": "local/neamt/negresti/2022/51",
+   "short": "HCL Negrești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 51/2022 privind stabilirea Zilei Comunei Negresti, judetul Neamt",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100816",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-53-2022",
+   "path": "local/neamt/negresti/2022/53",
+   "short": "HCL Negrești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 53/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100818",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-54-2022",
+   "path": "local/neamt/negresti/2022/54",
+   "short": "HCL Negrești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 54/2022 privind modificarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100819",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-56-2022",
+   "path": "local/neamt/negresti/2022/56",
+   "short": "HCL Negrești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 56/2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100821",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-57-2022",
+   "path": "local/neamt/negresti/2022/57",
+   "short": "HCL Negrești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 57/2022 privind neasumarea responsabilitătilor organizării procedurilor de atribuire a contractelor / acordurilor –cadru pentru achizitia produselor aferente programului si a contractelor / acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Negresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100822",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-59-2022",
+   "path": "local/neamt/negresti/2022/59",
+   "short": "HCL Negrești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 59/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100824",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-6-2022",
+   "path": "local/neamt/negresti/2022/6",
+   "short": "HCL Negrești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 6/2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67558",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-60-2022",
+   "path": "local/neamt/negresti/2022/60",
+   "short": "HCL Negrești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 60/2022 privind modificarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100848",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-61-2022",
+   "path": "local/neamt/negresti/2022/61",
+   "short": "HCL Negrești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 61/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100849",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-62-2022",
+   "path": "local/neamt/negresti/2022/62",
+   "short": "HCL Negrești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 62/2022 privind retragerea comunei Poiana Teiului din cadrul Asociației de Dezvoltare Intercomunitară Aqua Neamț și modificarea Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100850",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-64-2022",
+   "path": "local/neamt/negresti/2022/64",
+   "short": "HCL Negrești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 64/2022 prvind implementarea proiectului „IMBUNATATIREA SERVICIILOR LOCALE DE BAZA PRIN ACHIZITIA UNEI AUTOUTILITARE IN COMUNA NEGRESTI, JUDETUL NEAMT”",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/100855",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/100855",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-65-2022",
    "path": "local/neamt/negresti/2022/65",
    "short": "HCL Negrești nr. 65/2022",
@@ -228,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-8-2022",
+   "path": "local/neamt/negresti/2022/8",
+   "short": "HCL Negrești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 8/2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67560",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-80-2022",
    "path": "local/neamt/negresti/2022/80",
    "short": "HCL Negrești nr. 80/2022",
@@ -298,6 +928,21 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/100892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-9-2022",
+   "path": "local/neamt/negresti/2022/9",
+   "short": "HCL Negrești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 9/2022 privind aprobarea Programului anual al achizitiilor publice pentru anul 2022",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/67561",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/67561",
      "sha256": null
     }
    ]

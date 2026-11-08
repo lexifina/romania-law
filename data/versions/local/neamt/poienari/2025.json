@@ -3,6 +3,231 @@
  "shard": "local/neamt/poienari/2025",
  "acts": [
   {
+   "slug": "hcl-neamt--poienari-11-2025",
+   "path": "local/neamt/poienari/2025/11",
+   "short": "HCL Poienari nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 11/2025 privind aprobarea Programului de aprovizionare a populației, cu principalele produse agroalimentare, raționalizate, valabil pentru perioada 2025-2028",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233848",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-14-2025",
+   "path": "local/neamt/poienari/2025/14",
+   "short": "HCL Poienari nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 14/2025 privind actualizarea indicatorilor tehnico-economici finali și a Devizului general actualizat pentru obiectivul de investiții „DRUMURI DE INTERES LOCAL, COMUNA POIENARI, JUDEȚUL NEAMȚ”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233653",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-15-2025",
+   "path": "local/neamt/poienari/2025/15",
+   "short": "HCL Poienari nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 15/2025 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență de pe teritoriul administrativ al comunei Poienari, județul Neamț, pe anul 2025",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233655",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-16-2025",
+   "path": "local/neamt/poienari/2025/16",
+   "short": "HCL Poienari nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 16/2025 privind aprobarea situațiilor financiare ale comunei Poienari, județul Neamț, pe anul 2024",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233662",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-18-2025",
+   "path": "local/neamt/poienari/2025/18",
+   "short": "HCL Poienari nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 18/2025 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor de pe raza comunei Poienari, care nu se supun înmatriculării",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233664",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-19-2025",
+   "path": "local/neamt/poienari/2025/19",
+   "short": "HCL Poienari nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 19/2025 privind ocuparea temporară/definitivă a unor suprafețe de teren aparținând domeniului public/privat al comunei Poienari, în vederea realizării obiectivului de investiții „Extindere rețea de alimentare cu apă și de canalizare în comuna Poienari, județul Neamț”",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233670",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-20-2025",
+   "path": "local/neamt/poienari/2025/20",
+   "short": "HCL Poienari nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 20/2025 privind acordarea unui mandat special-ajustare tarife salubrizare Zona 2, județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233671",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-29-2025",
+   "path": "local/neamt/poienari/2025/29",
+   "short": "HCL Poienari nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 29/2025 privind participarea comunei Poienari la Programul „Sprijin pentru investiții în noi suprafețe ocupate de păduri” în cadrul PNRR C2 I.1.A Componenta 2: Păduri și protecția biodiversității",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233730",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-3-2025",
+   "path": "local/neamt/poienari/2025/3",
+   "short": "HCL Poienari nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 3/2025 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor în domeniul protecției civile pe teritoriul comunei Poienari, județul Neamț, pentru anul 2025",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233636",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-31-2025",
+   "path": "local/neamt/poienari/2025/31",
+   "short": "HCL Poienari nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 31/2025 privind aprobarea curățării pășunii de arbuști și mărăcini, cu titlu gratuit, în vederea împăduriri",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233733",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-32-2025",
+   "path": "local/neamt/poienari/2025/32",
+   "short": "HCL Poienari nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 32/2025 privind aprobarea destinației volumului de masă lemnoasă pentru exploatare în anul 2025, din afara fondului forestier, de pe terenurile aparținând domeniului public al Comunei Poienari",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233734",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-34-2025",
+   "path": "local/neamt/poienari/2025/34",
+   "short": "HCL Poienari nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 34/2025 privind aprobarea utilizării unui spațiu în suprafață de 45,40 mp, situat în incinta „Grădiniței cu program normal cu trei săli de grupă”, proprietate publică a Comunei Poienari, în vederea înființării și funcționării Centrului de consiliere și sprijin pentru părinți și copii „Sfântul Apostol Andrei”, cod nomenclator 8899 CZ-F-I",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233738",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-35-2025",
+   "path": "local/neamt/poienari/2025/35",
+   "short": "HCL Poienari nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 35/2025 privind înființarea serviciului social social: Centrul de consiliere și sprijin pentru părinți și copii „Sfântul Apostol Andrei” cod nomenclator servicii sociale 8899CZ-F-I, aprobarea Regulamentului de organizare și funcționare al Centrul de consiliere și sprijin pentru părinți și copii „Sfântul Apostol Andrei” și aprobarea organigramei și a statului de funcții aferente acestui serviciu",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233755",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-38-2025",
+   "path": "local/neamt/poienari/2025/38",
+   "short": "HCL Poienari nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 38/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233758",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-43-2025",
+   "path": "local/neamt/poienari/2025/43",
+   "short": "HCL Poienari nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 43/2025 privind înființarea și delegarea gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din Comuna Poienari, județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233782",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233782",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--poienari-44-2025",
    "path": "local/neamt/poienari/2025/44",
    "short": "HCL Poienari nr. 44/2025",
@@ -238,6 +463,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/poienari-nt/registru-hcl/241529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--poienari-6-2025",
+   "path": "local/neamt/poienari/2025/6",
+   "short": "HCL Poienari nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poienari nr. 6/2025 privind aprobarea exploatării a 10 arbori de plop din afara fondului forestier al comunei Poienari, județul Neamț",
+   "url": "https://emol.ro/poienari-nt/registru-hcl/233639",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/poienari-nt/registru-hcl/233639",
      "sha256": null
     }
    ]

@@ -3,6 +3,321 @@
  "shard": "local/prahova/balta-doamnei/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--balta-doamnei-1-2025",
+   "path": "local/prahova/balta-doamnei/2025/1",
+   "short": "HCL Balta Doamnei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 1/2025 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului Secțiunii de Dezvoltare pentru anul 2024",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/204388",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/204388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-10-2025",
+   "path": "local/prahova/balta-doamnei/2025/10",
+   "short": "HCL Balta Doamnei nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 10/2025 privind actualizarea componentei C9onsiliulu Comunitar Co0nsultativ al comunei Balta Doamnei, județul Prahova și aprobarea Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ al comunei Balta Doamnei, județul Prahova",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232011",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-11-2025",
+   "path": "local/prahova/balta-doamnei/2025/11",
+   "short": "HCL Balta Doamnei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 11/2025",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232012",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-13-2025",
+   "path": "local/prahova/balta-doamnei/2025/13",
+   "short": "HCL Balta Doamnei nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 13/2025 privind aprobarea bugetului local de venituri și cheltuieli al comunei Balta Doamnei pe anul 2025 și estimări pentru anii 2026-2028",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232029",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-14-2025",
+   "path": "local/prahova/balta-doamnei/2025/14",
+   "short": "HCL Balta Doamnei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 14/2025 privind reglementarea ajutoarelor de urgență și ajutoarelor de înmormântare la nivelul comunei Balta Doamnei, județul Prahova",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232030",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-15-2025",
+   "path": "local/prahova/balta-doamnei/2025/15",
+   "short": "HCL Balta Doamnei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 15/2025 privind stabilirea salariului de bază a funcțiilor contractuale din aparatul de specialitate al primarului comunei Balta Doamnei, la nivelul salariului de bază minim brut pe țară garantat în plată",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232031",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-16-2025",
+   "path": "local/prahova/balta-doamnei/2025/16",
+   "short": "HCL Balta Doamnei nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 16/2025",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232032",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-17-2025",
+   "path": "local/prahova/balta-doamnei/2025/17",
+   "short": "HCL Balta Doamnei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 17/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții \"Digitalizarea in beneficiul cetățeanului și întărirea capacității administrativ digitale a comunei Balta Doamnei, județul Prahova\"",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233113",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-18-2025",
+   "path": "local/prahova/balta-doamnei/2025/18",
+   "short": "HCL Balta Doamnei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 18/2025 privind indexarea, la nivelul comunei Balta Doamnei, a impozitelor și taxelor locale pentru anul 2026, cu rata inflației de 5,6%",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233114",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-19-2025",
+   "path": "local/prahova/balta-doamnei/2025/19",
+   "short": "HCL Balta Doamnei nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 19/2025 privind aderarea și însușirea la Acordurile de cooperare în domeniile de activitate ale primăriei comunei Balta Doamnei , pentru soluționarea problemelor curente ale colectivității locale",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233115",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-2-2025",
+   "path": "local/prahova/balta-doamnei/2025/2",
+   "short": "HCL Balta Doamnei nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 2/2025 privind aprobarea utilizării în anul 2025 a excedentului anual al bugetului local rezultat la închiderea exercițiului bugetar aferent anului 2024",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/204389",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/204389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-20-2025",
+   "path": "local/prahova/balta-doamnei/2025/20",
+   "short": "HCL Balta Doamnei nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 20/2025 privind administrarea unor imobile proprietate ale comunei Balta Doamnei, județul Prahova, în toate formele prevăzute de lege și în condițiile legii, în vederea dezvoltării de activități diverse în interesul comunității",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233116",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-21-2025",
+   "path": "local/prahova/balta-doamnei/2025/21",
+   "short": "HCL Balta Doamnei nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 21/2025 privind reorganizarea aparatului de specialitate al primarului comunei Balta Doamnei, județul Prahova, modificarea și completarea organigramei, statului de funcții și a numărului de personal al aparatului de specialitate al Primarului comunei Balta Doamnei, județul Prahova",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233161",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-22-2025",
+   "path": "local/prahova/balta-doamnei/2025/22",
+   "short": "HCL Balta Doamnei nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 22/2025 privind aprobarea rectificării bugetului local al Comunei Balta Doamnei, județul Prahova, și a bugetelor instituțiilor și serviciilor publice finanțate integral sau parțial din bugetul local pe anul 2025",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233162",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-24-2025",
+   "path": "local/prahova/balta-doamnei/2025/24",
+   "short": "HCL Balta Doamnei nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 24/2025 privind aprobarea desființării unei construcții provizorii în vederea realizării proiectului \"ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE - PUNCTE DE REÎNCARCARE VEHICULE ELECTRICE\"",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233164",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-27-2025",
+   "path": "local/prahova/balta-doamnei/2025/27",
+   "short": "HCL Balta Doamnei nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 27/2025 privind aprobarea rectificării bugetului local al Comunei Balta Doamnei, județul Prahova, și a bugetelor instituțiilor și serviciilor publice finanțate integral sau parțial din bugetul local pe anul 2025",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233208",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-28-2025",
+   "path": "local/prahova/balta-doamnei/2025/28",
+   "short": "HCL Balta Doamnei nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 28/2025 privind stabilirea amplasamentului pentru realizarea obiectivului \"ÎNFIINȚARE STAȚII DE REÎNCĂRCARE A VEHICULELOR ELECTRICE în comuna Balta Doamnei\", obiectiv situat în comuna Balta Doamnei, județul Prahova",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233209",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-3-2025",
+   "path": "local/prahova/balta-doamnei/2025/3",
+   "short": "HCL Balta Doamnei nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 3/2025 privind alegerea președintelui de ședință pentru o perioadă de 3 luni ( februarie, martie, aprilie 2025)",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231757",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-30-2025",
+   "path": "local/prahova/balta-doamnei/2025/30",
+   "short": "HCL Balta Doamnei nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 30/2025 privind acordarea unui aviz de principiu și condițiile de utilizare a imobilelor proprietate a comunei Balta Doamnei, județul Prahova, aferente activității de decolmatare și recalibrare albie minoră a râului Ialomița - perimetrul Balta Doamnei",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233211",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-31-2025",
+   "path": "local/prahova/balta-doamnei/2025/31",
+   "short": "HCL Balta Doamnei nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 31/2025 privind rectificarea Hotărârii Consiliului Local nr.15/26.03.2025 privind stabilirea salariului de bază a funcțiilor contractuale din aparatul de specialitate al primarului comunei Balta Doamnei, la nivelul salariului de baza minim brut pe țară garantat în plată de 4050 lei/lună",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233212",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-32-2025",
+   "path": "local/prahova/balta-doamnei/2025/32",
+   "short": "HCL Balta Doamnei nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 32/2025 privind stabilirea amplasamamentului destinat colectării de deșeuri textile în comuna Balta Doamnei, județul Prahova",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233213",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233213",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--balta-doamnei-34-2025",
    "path": "local/prahova/balta-doamnei/2025/34",
    "short": "HCL Balta Doamnei nr. 34/2025",
@@ -88,6 +403,21 @@
      "from": "2025-11-06",
      "units": 1,
      "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/233278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-4-2025",
+   "path": "local/prahova/balta-doamnei/2025/4",
+   "short": "HCL Balta Doamnei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 4/2025 privind aprobarea inventarierii bunurilor materiale și bănești, mijloace fixe și obiecte de inventar aparținând comunei Balta Doamnei, pe anul 2024",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231758",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231758",
      "sha256": null
     }
    ]
@@ -243,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--balta-doamnei-5-2025",
+   "path": "local/prahova/balta-doamnei/2025/5",
+   "short": "HCL Balta Doamnei nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 5/2025 privind aprobarea comisiei de execuție a bugetului local al comunei Balta Doamnei al anului 2024",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231759",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--balta-doamnei-50-2025",
    "path": "local/prahova/balta-doamnei/2025/50",
    "short": "HCL Balta Doamnei nr. 50/2025",
@@ -298,6 +643,66 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/252878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-6-2025",
+   "path": "local/prahova/balta-doamnei/2025/6",
+   "short": "HCL Balta Doamnei nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 6/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025, a listei cuprinzând beneficiarii de ajutor de incluziune precum și persoanele care urmează să efectueze acțiuni și lucrări de interes local, conform Legii nr. 196/2016, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231760",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-7-2025",
+   "path": "local/prahova/balta-doamnei/2025/7",
+   "short": "HCL Balta Doamnei nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 7/2025 privind reorganizarea structurii aparatului de specialitate al primarului comunei Balta Doamnei, județul Prahova, aprobarea organigramei, statului de funcții și a Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231761",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/231761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-8-2025",
+   "path": "local/prahova/balta-doamnei/2025/8",
+   "short": "HCL Balta Doamnei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 8/2025",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232009",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--balta-doamnei-9-2025",
+   "path": "local/prahova/balta-doamnei/2025/9",
+   "short": "HCL Balta Doamnei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 9/2025 privind reorganizarea echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232010",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baltadoamnei-ph/registru-hcl/232010",
      "sha256": null
     }
    ]

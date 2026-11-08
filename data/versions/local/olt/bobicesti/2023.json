@@ -3,6 +3,96 @@
  "shard": "local/olt/bobicesti/2023",
  "acts": [
   {
+   "slug": "hcl-olt--bobicesti-1-2023",
+   "path": "local/olt/bobicesti/2023/1",
+   "short": "HCL Bobicești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 1/2023 aprobarea bugetului local și a estimărilor pentru anii 2024 -2026",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#41746",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#41746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-10-2023",
+   "path": "local/olt/bobicesti/2023/10",
+   "short": "HCL Bobicești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 10/2023 Privind stabilirea salariilor de baza ce se vor acorda incepand cu data de 01.01.2018 pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei BOBICESTI",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42415",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-11-2023",
+   "path": "local/olt/bobicesti/2023/11",
+   "short": "HCL Bobicești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 11/2023 Alegere presedinte sedinta",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43897",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-12-2023",
+   "path": "local/olt/bobicesti/2023/12",
+   "short": "HCL Bobicești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 12/2023 Aprobarea contului de execuție trim IV 2022",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43904",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-13-2023",
+   "path": "local/olt/bobicesti/2023/13",
+   "short": "HCL Bobicești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 13/2023 modificarea HCL nr.52/23.11 2023 privind aprobarea susrei de finanțare pentru Serviciul Public de Gospodărire comunală și preluarea excedentului anilor 2021 - 2022 la bugetul local",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43906",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-14-2023",
+   "path": "local/olt/bobicesti/2023/14",
+   "short": "HCL Bobicești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 14/2023 stabilirea valorii activității Serviciului de Iluminat Public al comunei Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43907",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#43907",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bobicesti-15-2023",
    "path": "local/olt/bobicesti/2023/15",
    "short": "HCL Bobicești nr. 15/2023",
@@ -13,6 +103,891 @@
      "from": "2023-02-28",
      "units": 1,
      "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#44452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-16-2023",
+   "path": "local/olt/bobicesti/2023/16",
+   "short": "HCL Bobicești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 16/2023 modificare organigramei și a ștatului de funcții pentru funcțiile publice și a personalului contracual din cadrul aparatului de specialitate al primarului",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46148",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-17-2023",
+   "path": "local/olt/bobicesti/2023/17",
+   "short": "HCL Bobicești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 17/2023 aprobarea documentației de dezmembrare a imobilului situat în localitatea Bobicești str. cazanelor",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46150",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-18-2023",
+   "path": "local/olt/bobicesti/2023/18",
+   "short": "HCL Bobicești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 18/2023 Acordare drepturi membrii SVSU",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46151",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-19-2023",
+   "path": "local/olt/bobicesti/2023/19",
+   "short": "HCL Bobicești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 19/2023 alocarea sumei de 50000 pentru o excursie cu elevii la Horexzu în săptămâna ”Scoala altfel”",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46152",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#46152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-2-2023",
+   "path": "local/olt/bobicesti/2023/2",
+   "short": "HCL Bobicești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 2/2023 aprobarea utilizării în anul 2023 a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42400",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-20-2023",
+   "path": "local/olt/bobicesti/2023/20",
+   "short": "HCL Bobicești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 20/2023 Execuția bugetară trim I 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48528",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-21-2023",
+   "path": "local/olt/bobicesti/2023/21",
+   "short": "HCL Bobicești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 21/2023 rectificare buget local pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48529",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-22-2023",
+   "path": "local/olt/bobicesti/2023/22",
+   "short": "HCL Bobicești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 22/2023 Participarea și aderarea comunei Bobicești la noul parteneriat LEADER 2023 - 2027 cu denumirea GAL de la Vedea la Olteț",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48539",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-23-2023",
+   "path": "local/olt/bobicesti/2023/23",
+   "short": "HCL Bobicești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 23/2023 Înfiițarea Serviciului de gestionare a câinilor fără stăpân al comunei Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48543",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-24-2023",
+   "path": "local/olt/bobicesti/2023/24",
+   "short": "HCL Bobicești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 24/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-25-2023",
+   "path": "local/olt/bobicesti/2023/25",
+   "short": "HCL Bobicești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 25/2023 amenajarea a două terenuri de sport",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48547",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-26-2023",
+   "path": "local/olt/bobicesti/2023/26",
+   "short": "HCL Bobicești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 26/2023 Stabilire salarii funcționari publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48548",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-27-2023",
+   "path": "local/olt/bobicesti/2023/27",
+   "short": "HCL Bobicești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 27/2023 participarea UAT Bobicești în cadrul Programului privind casarea autovehiculelor uzate",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48561",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#48561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-28-2023",
+   "path": "local/olt/bobicesti/2023/28",
+   "short": "HCL Bobicești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 28/2023 Alegere presedinte sedinta",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50314",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-29-2023",
+   "path": "local/olt/bobicesti/2023/29",
+   "short": "HCL Bobicești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 29/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-3-2023",
+   "path": "local/olt/bobicesti/2023/3",
+   "short": "HCL Bobicești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 3/2023 Proiect de hotarare referitor la aprobarea Strategiei Anuale de Achiziție publică ți a Programului anual al achizițiilor pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42401",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-30-2023",
+   "path": "local/olt/bobicesti/2023/30",
+   "short": "HCL Bobicești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 30/2023 aprobarea Planului de măsuri în situații de secetă și caniculă pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50316",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-31-2023",
+   "path": "local/olt/bobicesti/2023/31",
+   "short": "HCL Bobicești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 31/2023 aprobarea Protocolului de Colaborare cadru încheiat între UAT Bobicești și Serviciul Public de Gestionare a Câinilor fFără Stăpân Balș",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50317",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-32-2023",
+   "path": "local/olt/bobicesti/2023/32",
+   "short": "HCL Bobicești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 32/2023 suspendarea activității Societății Apă Canal Bobicești SRL",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50318",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-33-2023",
+   "path": "local/olt/bobicesti/2023/33",
+   "short": "HCL Bobicești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 33/2023 aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ”MODERNIZAREA INFRASTRUCTURII RUTIERE DE INTERES LOCAL ÎN COMUNA BOBICEȘTI JUDEȚUL OLT”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50319",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-35-2023",
+   "path": "local/olt/bobicesti/2023/35",
+   "short": "HCL Bobicești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 35/2023 probarea unor operațiuni de rambliere și introducerea/redarea în circuitul agricol a trenului în suprafață de mp 6.490 mp teren neproductiv în teren agricol, situat în extravilanul localității Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50940",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-36-2023",
+   "path": "local/olt/bobicesti/2023/36",
+   "short": "HCL Bobicești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 36/2023 Proiect de hotărâre privind aprobarea planului de analiză și acoperire a riscurilor (PAAR) pentru anul 2023, aferent UAT Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#52606",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#52606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-37-2023",
+   "path": "local/olt/bobicesti/2023/37",
+   "short": "HCL Bobicești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 37/2023 rectificare buget local pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55487",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-38-2023",
+   "path": "local/olt/bobicesti/2023/38",
+   "short": "HCL Bobicești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 38/2023 aprobare cont executie bugetară trim II 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55488",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-39-2023",
+   "path": "local/olt/bobicesti/2023/39",
+   "short": "HCL Bobicești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 39/2023 privind procedura pentru înregistrarea, evidenţa şi radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ- teritorială a comunei Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55489",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-4-2023",
+   "path": "local/olt/bobicesti/2023/4",
+   "short": "HCL Bobicești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 4/2023 aprobarea principalelor manifestari cultural-artistice, pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42402",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-40-2023",
+   "path": "local/olt/bobicesti/2023/40",
+   "short": "HCL Bobicești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 40/2023 participarea la proiectul „Prima conectare la sistemele centralizate de canalizare si alimentare cu apa a populatiei cu venituri mici din Comuna Bobicesti, jud. Olt” , depunerea si implementarea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA CI - Managementul apei,investiția 3.Sprijinirea conectării populației cu venituri mici la rețelele de alimentare cu apă și canalizare existente",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55525",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-41-2023",
+   "path": "local/olt/bobicesti/2023/41",
+   "short": "HCL Bobicești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 41/2023 aprobare a Regulamentului de desfășurare a Programul privind casarea autovehiculelor uzate",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55526",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-42-2023",
+   "path": "local/olt/bobicesti/2023/42",
+   "short": "HCL Bobicești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 42/2023 organizarea unui punct de servicii ale bibliotecii comunale în cadrul Școlii Gimnaziale Leotești – structura Bobicești",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55527",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#55527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-43-2023",
+   "path": "local/olt/bobicesti/2023/43",
+   "short": "HCL Bobicești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 43/2023 Alegere presedinte sedinta",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#58127",
+   "versions": [
+    {
+     "from": "2023-08-14",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#58127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-44-2023",
+   "path": "local/olt/bobicesti/2023/44",
+   "short": "HCL Bobicești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 44/2023 aprobare PUG actualizat al comunei Bobicești și a regulamentului local aferent PUG",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#58128",
+   "versions": [
+    {
+     "from": "2023-08-14",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#58128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-45-2023",
+   "path": "local/olt/bobicesti/2023/45",
+   "short": "HCL Bobicești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 45/2023 privind neasumarea responsabilitatii organizarii si derularii la nivel local a procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor și a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea masurilor educative, aferente Programului pentru școli al Romaniei în perioada 2023 - 2029",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#58130",
+   "versions": [
+    {
+     "from": "2023-08-14",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#58130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-46-2023",
+   "path": "local/olt/bobicesti/2023/46",
+   "short": "HCL Bobicești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 46/2023 rectificarea bugetului de venituri și cheltuieli",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60005",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-47-2023",
+   "path": "local/olt/bobicesti/2023/47",
+   "short": "HCL Bobicești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 47/2023 aprobarea Studiului de Fezabilitateşi a cheltuielilor ce vor fi efectuate în cadrul proiectului: „SISTEME INTELIGENTE DE MANAGEMENT LOCAL PENTRU DEZVOLTAREA DE SERVICII ȘI STRUCTURI DE SPRIJIN, SPECIALIZATE PENTRU ADMINISTRATIA PUBLICA BOBICESTI”, în cadrul apelului de proiecte de renovare energetică moderată a clădirilor publice, titlu apel: PNRR, COMPONENTA C10 — Fondul Local",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60007",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-48-2023",
+   "path": "local/olt/bobicesti/2023/48",
+   "short": "HCL Bobicești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 48/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-49-2023",
+   "path": "local/olt/bobicesti/2023/49",
+   "short": "HCL Bobicești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 49/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-5-2023",
+   "path": "local/olt/bobicesti/2023/5",
+   "short": "HCL Bobicești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 5/2023 privind aprobarea studiului de fezabilitate/docmentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici /indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ”MODERNIZAREA INFRASTRUCTURII RUTIERE DE INTERES LOCAL ÎN COMUNA BOBICEȘTI JUDEȚUL OLT”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42407",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-50-2023",
+   "path": "local/olt/bobicesti/2023/50",
+   "short": "HCL Bobicești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 50/2023 aprobarea proiectului „Achiziție microbuze electrice pentru elevii școlilor din județul Olt ” și a cheltuielilor legate de proiect PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ Pilonul VI: Politici pentru noua generație COMPONENTA: C15 - Educație Investiția 10 : Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60011",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-51-2023",
+   "path": "local/olt/bobicesti/2023/51",
+   "short": "HCL Bobicești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 51/2023 aprobare cont execuție bugetară trim. III 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60811",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-52-2023",
+   "path": "local/olt/bobicesti/2023/52",
+   "short": "HCL Bobicești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 52/2023 rectificare buget local pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60812",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-53-2023",
+   "path": "local/olt/bobicesti/2023/53",
+   "short": "HCL Bobicești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 53/2023 stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60897",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-54-2023",
+   "path": "local/olt/bobicesti/2023/54",
+   "short": "HCL Bobicești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 54/2023 aprobarea indicatorilor tehnico-economici finali și a devizului general final pentru obiectivul de investiții ”MODERNIZAREA INFRASTRUCTURII RUTIERE DE INTERES LOCAL ÎN COMUNA BOBICEȘTI, JUDEȚUL OLT” aprobat pentru finanțare ărin Programul naționaș de investiții ”Anghel Saligny",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60898",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-55-2023",
+   "path": "local/olt/bobicesti/2023/55",
+   "short": "HCL Bobicești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 55/2023 aprobare ROF",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60899",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-56-2023",
+   "path": "local/olt/bobicesti/2023/56",
+   "short": "HCL Bobicești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 56/2023 stadiul de înscriere a datelor în Registrul Agricoltrim III și stabilirea masurilor pentru eficientizarea activității",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60900",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-57-2023",
+   "path": "local/olt/bobicesti/2023/57",
+   "short": "HCL Bobicești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 57/2023 aprobarea Planului de măsuri pentru sezonul rece 2023 - 2024",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60903",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-58-2023",
+   "path": "local/olt/bobicesti/2023/58",
+   "short": "HCL Bobicești nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 58/2023 aprobarea Studiului de fezabilitate actualizat,a indicatorilor tehnico-economici actualizat și a devizului general actualizat pentru obiectivul de investiții ”Extindere sistem inteligent de distribuție gaze naturale in comuna Bobicești , județul Olt\" \" aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate din bugetul local pentru realizarea obiectivulu",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60905",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#60905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-59-2023",
+   "path": "local/olt/bobicesti/2023/59",
+   "short": "HCL Bobicești nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 59/2023 aprobarea principalilor indicatori tehnico – economici pentru investitia: ”Modernizarea drumurilor de interes local din Comuna Bobicesti, judetul Olt” finanțat prin PLANUL STRATEGIC – 2023 - 2027 Program finanțat de Uniunea Europeană și Guvernul României prin FONDUL EUROPEAN AGRICOL PENTRU DEZVOLTARE RURALĂ - Măsura: DR-28 - crearea /modernizarea infrastructurii rutiere de bază din spațiul rura",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#61442",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#61442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-6-2023",
+   "path": "local/olt/bobicesti/2023/6",
+   "short": "HCL Bobicești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 6/2023 aprobarea programului cultural al Bibliotecii pe anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42408",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-60-2023",
+   "path": "local/olt/bobicesti/2023/60",
+   "short": "HCL Bobicești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 60/2023 mplementarea proiectului: ”Modernizarea drumurilor de interes local din Comuna Bobicesti, judetul Olt” finanțat prin PLANUL STRATEGIC – 2023 - 2027 Program finanțat de Uniunea Europeană și Guvernul României prin FONDUL EUROPEAN AGRICOL PENTRU DEZVOLTARE RURALĂ - Măsura: DR-28 - Crearea /modernizarea infrastructurii rutiere de bază din spațiul rural",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#61443",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#61443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-61-2023",
+   "path": "local/olt/bobicesti/2023/61",
+   "short": "HCL Bobicești nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 61/2023 Alegere presedinte sedinta ședinta",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63675",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-62-2023",
+   "path": "local/olt/bobicesti/2023/62",
+   "short": "HCL Bobicești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 62/2023 validarea dispoziției primarului 213/08.11.2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63679",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-63-2023",
+   "path": "local/olt/bobicesti/2023/63",
+   "short": "HCL Bobicești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 63/2023 rectificare buget venituri și cheltuieli pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63685",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-64-2023",
+   "path": "local/olt/bobicesti/2023/64",
+   "short": "HCL Bobicești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 64/2023 aprobarea indicatorilor tehnico-economici actualizați, pentru obiectivul de investiții”MODERNIZAREA INFRASTRUCTURII RUTIERE DE INTERES LOCAL ÎNCOMUNA BOBICEȘTI JUDEȚUL OLT”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63691",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#63691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-65-2023",
+   "path": "local/olt/bobicesti/2023/65",
+   "short": "HCL Bobicești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 65/2023 reducerea cu 10% a numărului de posturi din aparatul de specialitate a primarului și actualizarea organigramei și ștatului de funcții",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65942",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-66-2023",
+   "path": "local/olt/bobicesti/2023/66",
+   "short": "HCL Bobicești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 66/2023 validarea dispoziției primarului nr.222 din 07.12.2023 privind rectificarea bugetului de venituri și cheltuieli pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65943",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-67-2023",
+   "path": "local/olt/bobicesti/2023/67",
+   "short": "HCL Bobicești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 67/2023 rectificare buget venituri și cheltuieli pentru anul 2023",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65945",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-68-2023",
+   "path": "local/olt/bobicesti/2023/68",
+   "short": "HCL Bobicești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 68/2023 aprobarea organizării/reorganizării rețelei școlare în comuna Bobicești, județul Olt, pentru anul 2024-2025",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65948",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-69-2023",
+   "path": "local/olt/bobicesti/2023/69",
+   "short": "HCL Bobicești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 69/2023 aprobarea Planului de acțiuni/lucrări de interes local pentru anul 2023 privind beneficiarii venitului minim de incluziune",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65950",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#65950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-7-2023",
+   "path": "local/olt/bobicesti/2023/7",
+   "short": "HCL Bobicești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 7/2023 completarea HCL nr.38/23.09.2021 ref la darea în administrare a serviciului de alimentare cu apă și canalizare",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42410",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42410",
      "sha256": null
     }
    ]
@@ -44,6 +1019,36 @@
      "units": 1,
      "source_url": "https://bobicesti.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24kjWRBB/d183HhAS2xJ/ikeWYeuwxRRkkqZQQi/adABxbHaZMKp.sS/21932",
      "sha256": "c1da62f6fc4ddb5ad8a410a1d07f45229c023a0e4fe296b3ad2983ce7abb0780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-8-2023",
+   "path": "local/olt/bobicesti/2023/8",
+   "short": "HCL Bobicești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 8/2023 APROBAREA REDEVENȚEI DATORATE DE SERVICIUL PUBLIC DE GOSPODĂRIRE COMUNALĂ",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42412",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bobicesti-9-2023",
+   "path": "local/olt/bobicesti/2023/9",
+   "short": "HCL Bobicești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 9/2023 aprobarea pentru anul 2023 a cotei corespunzătoare a pierderilor de apă",
+   "url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42414",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#42414",
+     "sha256": null
     }
    ]
   }

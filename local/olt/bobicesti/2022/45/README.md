@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Bobicești nr. 45/2022 proiect de hotărâre privind aprobarea depunerii proiectului Reailiare Integrată a clădirilor administrative din satul Bobicești comuna Bobicești județul Olt în cadrul apelului Național de redresare si rezilientă (PNNR) componenta C5 - valul renovarii, B1 - Reabilitare integrată
+
+HCL Bobicești nr. 45/2022 · 1 versions, from 2022-10-12 (latest in force: 2022-10-12) · <https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#31737>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-olt--bobicesti-45-2022` (tags `hcl-olt--bobicesti-45-2022/<day>`; `python tools/on.py <day> hcl-olt--bobicesti-45-2022`).
+
+## Decisions made by hand
+
+- HCL Bobicești nr. 45/2022: listed from Consiliul Local al Comunei Bobicești (bobicesti.regista.ro); metadata only for now: no document of it is held.
+- HCL Bobicești nr. 45/2022: dated from 12 October 2022, the day it was adopted (the register gives no later day of publication).
+- HCL Bobicești nr. 45/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

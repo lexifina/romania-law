@@ -3,6 +3,486 @@
  "shard": "local/neamt/tupilati/2025",
  "acts": [
   {
+   "slug": "hcl-neamt--tupilati-1-2025",
+   "path": "local/neamt/tupilati/2025/1",
+   "short": "HCL Tupilați nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 1/2025 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare înregistrat la data de 31 decembrie 2024",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195394",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-10-2025",
+   "path": "local/neamt/tupilati/2025/10",
+   "short": "HCL Tupilați nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 10/2025 privind aprobarea Planului de analiza si acoperirea riscurilor al Comunei Tupilați, județul Neamț pentru anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195405",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-11-2025",
+   "path": "local/neamt/tupilati/2025/11",
+   "short": "HCL Tupilați nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 11/2025 privind aprobarea bugetului local al comunei Tupilați, județul Neamț pentru anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212118",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-12-2025",
+   "path": "local/neamt/tupilati/2025/12",
+   "short": "HCL Tupilați nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 12/2025 privind repartizarea unor sume din bugetul local pe anul 2025, unităţilor de cult religios din comuna Tupilaţi, judetul Neamţ",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212119",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-13-2025",
+   "path": "local/neamt/tupilati/2025/13",
+   "short": "HCL Tupilați nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 13/2025 privind acordarea unui mandat special – ajustare tarife salubrizare Zona 3, jud. Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212120",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-14-2025",
+   "path": "local/neamt/tupilati/2025/14",
+   "short": "HCL Tupilați nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 14/2025 privind acordarea unui mandat special – modificarea contractului de delegare nr. 63/609/01.03.2017",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212121",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-15-2025",
+   "path": "local/neamt/tupilati/2025/15",
+   "short": "HCL Tupilați nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 15/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul comunei Tupilați, județul Neamț pentru anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212122",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-17-2025",
+   "path": "local/neamt/tupilati/2025/17",
+   "short": "HCL Tupilați nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 17/2025 privind aprobarea Programului de aprovizionare cu produse agroalimentare necesare consumului rațional al populaţiei, în caz de mobilizare sau război",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212124",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-18-2025",
+   "path": "local/neamt/tupilati/2025/18",
+   "short": "HCL Tupilați nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 18/2025 privind stabilirea modelului legitimației pentru aleșii locali și a modelului semnului distinctiv al calității acestora",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212131",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-19-2025",
+   "path": "local/neamt/tupilati/2025/19",
+   "short": "HCL Tupilați nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 19/2025 privind acordarea unui mandat special reprezentantului Comunei TUPILAȚI în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”AQUA NEAMȚ”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212132",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-2-2025",
+   "path": "local/neamt/tupilati/2025/2",
+   "short": "HCL Tupilați nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 2/2025 privind aprobarea taxei speciale de salubrizare aferentă anului 2025 pentru utilizatorii casnici si non-casnici din comuna Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195395",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-22-2025",
+   "path": "local/neamt/tupilati/2025/22",
+   "short": "HCL Tupilați nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 22/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212135",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-23-2025",
+   "path": "local/neamt/tupilati/2025/23",
+   "short": "HCL Tupilați nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 23/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212136",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-24-2025",
+   "path": "local/neamt/tupilati/2025/24",
+   "short": "HCL Tupilați nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 24/2025 privind acordarea unui mandat special – modificarea contractului de delegare nr. 63/609/01.03.2017",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212137",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-25-2025",
+   "path": "local/neamt/tupilati/2025/25",
+   "short": "HCL Tupilați nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 25/2025 privind acordarea unui mandat special reprezentantului Comunei Tupilați să voteze în Adunarea Generală a Asociației de Dezvoltare Intercomunitară \"PROTECTIA ANIMALELOR NEAMT\"",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212138",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-26-2025",
+   "path": "local/neamt/tupilati/2025/26",
+   "short": "HCL Tupilați nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 26/2025 privind aprobarea devizului general, a indicatorilor tehnico-economici și a Studiului de Fezabilitate aferente proiectului de investiție: \"ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE ȘI RACORDURI ÎN COMUNA TUPILAȚI CU SATELE TUPILAȚI, ARAMOAIA ȘI TOTOIESTI, JUDEȚUL NEAMȚ\"",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212139",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-27-2025",
+   "path": "local/neamt/tupilati/2025/27",
+   "short": "HCL Tupilați nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 27/2025 privind aprobarea unor măsuri privind desfăşurarea activităţii culturale „Sărbătoarea Sânzienelor 2025” în comuna Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/212140",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/212140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-29-2025",
+   "path": "local/neamt/tupilati/2025/29",
+   "short": "HCL Tupilați nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 29/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225501",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-3-2025",
+   "path": "local/neamt/tupilati/2025/3",
+   "short": "HCL Tupilați nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 3/2025 privind reactualizarea componentei Comitetului Local pentru Situații de Urgență al comunei Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195396",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-30-2025",
+   "path": "local/neamt/tupilati/2025/30",
+   "short": "HCL Tupilați nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 30/2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225502",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-31-2025",
+   "path": "local/neamt/tupilati/2025/31",
+   "short": "HCL Tupilați nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 31/2025 privind aprobarea investiției „Alimentare cu energie electrică Stație de pompare nr. 1”, comuna Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225503",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-32-2025",
+   "path": "local/neamt/tupilati/2025/32",
+   "short": "HCL Tupilați nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 32/2025 privind aprobarea investiției „Alimentare cu energie electrică Stație de pompare nr. 2”, comuna Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225504",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-36-2025",
+   "path": "local/neamt/tupilati/2025/36",
+   "short": "HCL Tupilați nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 36/2025 privind aprobarea Acordul de principiu în legătură cu posibilitatea de a participa la finanțarea obiectivelor sistemului de distribuție în vederea implementării proiectului cu denumirea: \"ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE ȘI RACORDURI ÎN COMUNA TUPILAȚI CU SATELE TUPILAȚI, ARAMOAIA ȘI TOTOIEȘTI, JUDEȚUL NEAMȚ\"",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225508",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-37-2025",
+   "path": "local/neamt/tupilati/2025/37",
+   "short": "HCL Tupilați nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 37/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225509",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-38-2025",
+   "path": "local/neamt/tupilati/2025/38",
+   "short": "HCL Tupilați nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 38/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/225510",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/225510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-39-2025",
+   "path": "local/neamt/tupilati/2025/39",
+   "short": "HCL Tupilați nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 39/2025 privind aprobarea amplasării pe domeniul public al comunei Tupilați, a instalațiilor electrice pentru lucrarea ”Buclare LEA 20 KV derivația Mitești(din LEA 20 KV Pașcani-Vatra) cu LEA 20 KV Tupilați - Hanul Ancuței”, de către SC Delgaz GRID S.A",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/228958",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/228958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-4-2025",
+   "path": "local/neamt/tupilati/2025/4",
+   "short": "HCL Tupilați nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 4/2025 privind aprobarea valorii de investiție și a solicitării scrisorii de garanție din partea fondului de garantare FNGCIMM SA IFN, pentru proiectul de investiții „MODERNIZAREA DRUMURILOR DE INTERES AGRICOL DIN COMUNA TUPILAȚI, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195397",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-40-2025",
+   "path": "local/neamt/tupilati/2025/40",
+   "short": "HCL Tupilați nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 40/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/228959",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/228959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-42-2025",
+   "path": "local/neamt/tupilati/2025/42",
+   "short": "HCL Tupilați nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 42/2025 privind actualizarea traseului microbuzului de transport şcolar pentru elevii Scolii Gimnaziale, comuna Tupilati, judeţul Neamt in anul şcolar 2025/2026",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/246456",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/246456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-43-2025",
+   "path": "local/neamt/tupilati/2025/43",
+   "short": "HCL Tupilați nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 43/2025 privind aprobarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiție „ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE SI RACORDURI IN COMUNA TUPILATI CU SATELE TUPILATI, ARAMOAIA SI TOTOIESTI, JUDEȚUL NEAMT”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/246457",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/246457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-44-2025",
+   "path": "local/neamt/tupilati/2025/44",
+   "short": "HCL Tupilați nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 44/2025 privind modificarea listei bunurilor care aparțin domeniului privat al comunei Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/246458",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/246458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-48-2025",
+   "path": "local/neamt/tupilati/2025/48",
+   "short": "HCL Tupilați nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 48/2025 privind delegarea gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din COMUNA TUPILAȚI",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/246462",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/246462",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-49-2025",
    "path": "local/neamt/tupilati/2025/49",
    "short": "HCL Tupilați nr. 49/2025",
@@ -13,6 +493,21 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/246463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-5-2025",
+   "path": "local/neamt/tupilati/2025/5",
+   "short": "HCL Tupilați nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 5/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195398",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195398",
      "sha256": null
     }
    ]
@@ -168,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tupilati-6-2025",
+   "path": "local/neamt/tupilati/2025/6",
+   "short": "HCL Tupilați nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 6/2025 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al Comunei Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195401",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195401",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-60-2025",
    "path": "local/neamt/tupilati/2025/60",
    "short": "HCL Tupilați nr. 60/2025",
@@ -298,6 +808,51 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/246490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-7-2025",
+   "path": "local/neamt/tupilati/2025/7",
+   "short": "HCL Tupilați nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 7/2025 privind aprobarea indicatorilor tehnico-economici finali si a devizului general actualizat pentru obiectivul de investiții „Modernizare rețea drumuri sătești, comuna Tupilați, județul Neamț”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195402",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-8-2025",
+   "path": "local/neamt/tupilati/2025/8",
+   "short": "HCL Tupilați nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 8/2025 privind acordarea unui mandat special reprezentantului Comunei Tupilați pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Aqua Neamț”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195403",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-9-2025",
+   "path": "local/neamt/tupilati/2025/9",
+   "short": "HCL Tupilați nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 9/2025 privind aprobarea Documentației cadastrale de dezmembrare a imobilului-teren intravilan în suprafață de 1760 m.p. cu nr. cadastral 51596, aparținând domeniului privat al comunei Tupilați",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/195404",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/195404",
      "sha256": null
     }
    ]

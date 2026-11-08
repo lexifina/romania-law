@@ -3,6 +3,651 @@
  "shard": "local/neamt/secuieni/2022",
  "acts": [
   {
+   "slug": "hcl-neamt--secuieni-1-2022",
+   "path": "local/neamt/secuieni/2022/1",
+   "short": "HCL Secuieni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 1/2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49153",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-10-2022",
+   "path": "local/neamt/secuieni/2022/10",
+   "short": "HCL Secuieni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 10/2022 pentru modificarea HCL nr.34 din 29.06.2018 privind înfiinţarea şi organizarea serviciului “CONSILIUL LOCAL SECUIENI - SERVICIUL APĂ CANAL”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Secuieni,judeţul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49162",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-11-2022",
+   "path": "local/neamt/secuieni/2022/11",
+   "short": "HCL Secuieni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 11/2022 privind aprobarea Strategiei anuale de achiziții publice a comunei Secuieni , județul Neamț și a programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49163",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-12-2022",
+   "path": "local/neamt/secuieni/2022/12",
+   "short": "HCL Secuieni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2022 privind actualizarea “Planului de analiză şi acoperire a riscurilor identificate la nivelul comunei Secuieni , jud.Neamţ”pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49164",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-13-2022",
+   "path": "local/neamt/secuieni/2022/13",
+   "short": "HCL Secuieni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 13/2022 privind aprobarea utilizării în anul 2022 al execedentului anual al bugetului local rezultat la încheierea exercițiului bugetar aferent anului 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49165",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-15-2022",
+   "path": "local/neamt/secuieni/2022/15",
+   "short": "HCL Secuieni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 15/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/52821",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/52821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-16-2022",
+   "path": "local/neamt/secuieni/2022/16",
+   "short": "HCL Secuieni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 16/2022 privind aprobarea încheierii protocolului de colaborare privind prestarea serviciului de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/52822",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/52822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-2-2022",
+   "path": "local/neamt/secuieni/2022/2",
+   "short": "HCL Secuieni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 2/2022 privind aprobarea Planului anual de lucrări și acțiuni de interes local ce se vor realiza de către beneficiarii legii nr.416/2001 privind venitul minim garantat pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49154",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-20-2022",
+   "path": "local/neamt/secuieni/2022/20",
+   "short": "HCL Secuieni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2022 privind aprobarea contului de execuţie al bugetului local și a situațiilor financiare, aferente anului 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/52826",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/52826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-25-2022",
+   "path": "local/neamt/secuieni/2022/25",
+   "short": "HCL Secuieni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2022 privind rectificarea bugetului general consolidat pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/55492",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/55492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-26-2022",
+   "path": "local/neamt/secuieni/2022/26",
+   "short": "HCL Secuieni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 26/2022 privind aprobarea rezultatelor inventarierii patrimoniului comunei Secuieni, județul Neamț la data de 31.12.2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/55493",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/55493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-27-2022",
+   "path": "local/neamt/secuieni/2022/27",
+   "short": "HCL Secuieni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 27/2022 privind actualizarea și completarea bunurilor imobile care alcătuiesc domeniul privat al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/55494",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/55494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-28-2022",
+   "path": "local/neamt/secuieni/2022/28",
+   "short": "HCL Secuieni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 28/2022 privind acordarea unui drept pentru ocuparea definitivă a unei suprafețe de 60 mp teren din domeniul public al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/55495",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/55495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-3-2022",
+   "path": "local/neamt/secuieni/2022/3",
+   "short": "HCL Secuieni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 3/2022 privind stabilirea normativelor proprii pentru consumul mediu lunar de carburanți al autovehiculelor din dotarea Primăriei comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49155",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-33-2022",
+   "path": "local/neamt/secuieni/2022/33",
+   "short": "HCL Secuieni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 33/2022 privind aprobarea participării Comunei Secuieni, județul Neamț, în calitate de membru fondator, la înființarea ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „PROTECȚIA ANIMALELOR NEAMȚ”",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/62854",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/62854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-34-2022",
+   "path": "local/neamt/secuieni/2022/34",
+   "short": "HCL Secuieni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 34/2022 privind aprobarea contului de execuţie al bugetului local și a situațiilor financiare aferente trimestrului I , al anului 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/62855",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/62855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-35-2022",
+   "path": "local/neamt/secuieni/2022/35",
+   "short": "HCL Secuieni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 35/2022 privind acordarea unui drept pentru ocuparea temporară a unei suprafețe totale de 4026 mp din domeniul public al comunei Secuieni, județul Neamț în vederea realizării proiectului „Înființare distribuție gaze naturale și racorduri în comuna Icușești cu satele Icușești și Bălușești, județul Neamț”",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/62856",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/62856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-37-2022",
+   "path": "local/neamt/secuieni/2022/37",
+   "short": "HCL Secuieni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 37/2022 privind modificarea componenței Consiliului Comunitar Consultativ al comunei Secuieni , județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/62858",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/62858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-4-2022",
+   "path": "local/neamt/secuieni/2022/4",
+   "short": "HCL Secuieni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 4/2022 privind aprobarea bugetului general consolidat al comunei Secuieni, județul Neamț pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49156",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-40-2022",
+   "path": "local/neamt/secuieni/2022/40",
+   "short": "HCL Secuieni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 40/2022 Nr . 41 din 25.05.2022 privind aprobarea investiției si a indicatorilor tehnico-economici pentru obiectivul „CONSTRUIRE TEREN DE SPORT ÎN SAT BAȘTA, COMUNA SECUIENI, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/62861",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/62861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-41-2022",
+   "path": "local/neamt/secuieni/2022/41",
+   "short": "HCL Secuieni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 41/2022 privind scutirea de la plata impozitelor și taxelor locale a a beneficiarilor drepturilor prevăzute de Decretul-Lege nr.118/1990",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/65627",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/65627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-43-2022",
+   "path": "local/neamt/secuieni/2022/43",
+   "short": "HCL Secuieni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 43/2022 privind constituirea dreptului de proprietate pentru suprafața de 1269 m.p. teren curți construcții pentru Consumcoop Secuieni Societate Cooperativă",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/65629",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/65629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-44-2022",
+   "path": "local/neamt/secuieni/2022/44",
+   "short": "HCL Secuieni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 44/2022 privind aprobarea cuantumului orar al compensației acordate voluntarilor pentru timpul efectiv de lucru prestat la intervenții și la celelalte activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/65630",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/65630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-46-2022",
+   "path": "local/neamt/secuieni/2022/46",
+   "short": "HCL Secuieni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 46/2022 privind actualizarea “Planului de analiză şi acoperire a riscurilor identificate la nivelul comunei Secuieni , jud.Neamţ”pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/67548",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/67548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-47-2022",
+   "path": "local/neamt/secuieni/2022/47",
+   "short": "HCL Secuieni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 47/2022 privind înregistrarea Primăriei Comunei Secuieni în Sistemul Naţional Electronic de Plată online a taxelor şi impozitelor utilizând cardul bancar (SNEP) și modul de suportarea comisionului bancar la tranzacțiile online",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/67549",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/67549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-49-2022",
+   "path": "local/neamt/secuieni/2022/49",
+   "short": "HCL Secuieni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 49/2022 pentru modificarea și completarea Hotărârii Consiliului Local nr 35 din 31.05.2022 privind acordarea unui drept pentru ocuparea temporară a unei suprafețe totale de 4026 mp din domeniul public al comunei Secuieni, județul Neamț în vederea realizării proiectului „Înființare distribuție gaze naturale și racorduri în comuna Icușești cu satele Icușești și Bălușești, județul Neamț”",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/67551",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/67551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-5-2022",
+   "path": "local/neamt/secuieni/2022/5",
+   "short": "HCL Secuieni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 5/2022 privind modificarea și completarea anexei la Hotărârea Consiliului Local nr.6 din 29.01.2019 privind stabilirea salariilor de bază pentru funcția de primar și viceprimar, funcțiile publice locale, precum şi pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49157",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-50-2022",
+   "path": "local/neamt/secuieni/2022/50",
+   "short": "HCL Secuieni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 50/2022 privind rectificarea bugetului general consolidat pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/67552",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/67552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-51-2022",
+   "path": "local/neamt/secuieni/2022/51",
+   "short": "HCL Secuieni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 51/2022 privind aprobarea contului de execuţie al bugetului local și a situațiilor financiare, aferente trimestrului II al anului 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/67553",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/67553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-52-2022",
+   "path": "local/neamt/secuieni/2022/52",
+   "short": "HCL Secuieni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 52/2022 privind aprobarea investiției si a indicatorilor tehnico-economici pentru obiectivul „EXTINDERE REȚEA ELECTRICĂ DE 0,4 Kv ÎN LOC.SECUIENII NOI, COMUNA SECUIENI, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/67935",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/67935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-58-2022",
+   "path": "local/neamt/secuieni/2022/58",
+   "short": "HCL Secuieni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 58/2022 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor- cadru pentru achiziționarea produselor aferente Programului pentru școli al României și al contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul UAT Comuna Secuieni, jud.Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/71478",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/71478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-6-2022",
+   "path": "local/neamt/secuieni/2022/6",
+   "short": "HCL Secuieni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 6/2022 privind aprobarea raportului cu privire la activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2021",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49158",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-61-2022",
+   "path": "local/neamt/secuieni/2022/61",
+   "short": "HCL Secuieni nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 61/2022 privind rectificarea bugetului general consolidat pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/71481",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/71481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-62-2022",
+   "path": "local/neamt/secuieni/2022/62",
+   "short": "HCL Secuieni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 62/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici inițiali și actualizați și a devizului general al obiectivului de investiţii \"EXTINDERE REȚEA ALIMENTARE CU APĂ ȘI REȚEA CANALIZARE ÎN LOCALITĂȚILE SECUIENI ȘI SECUIENII NOI DIN COMUNA SECUIENI, JUDEȚUL NEAMȚ\"",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/71482",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/71482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-65-2022",
+   "path": "local/neamt/secuieni/2022/65",
+   "short": "HCL Secuieni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 65/2022 privind actualizarea și completarea bunurilor imobile care alcătuiesc domeniul privat al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/75285",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/75285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-67-2022",
+   "path": "local/neamt/secuieni/2022/67",
+   "short": "HCL Secuieni nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 67/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici inițiali și actualizați și a devizului general actualizat pentru obiectivul de investiţii \"MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA SECUIENI, JUDEȚUL NEAMȚ\", aprobat pentru finanțare prin Programul național de investiții ,, Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/75287",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/75287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-68-2022",
+   "path": "local/neamt/secuieni/2022/68",
+   "short": "HCL Secuieni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 68/2022 privind rectificarea bugetului general consolidat pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/75288",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/75288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-7-2022",
+   "path": "local/neamt/secuieni/2022/7",
+   "short": "HCL Secuieni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2022 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Secuieni , judeţul Neamț pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49159",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-71-2022",
+   "path": "local/neamt/secuieni/2022/71",
+   "short": "HCL Secuieni nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 71/2022 privind aprobarea depunerii proiectului \"AMENAJARE LOCAȚIE ȘI BRANȘAMENT PENTRU INSTALARE STAȚIE REÎNCĂRCARE VEHICULE ELECTRICE ÎN COMUNA SECUIENI, JUDEȚUL NEAMȚ\"",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/75291",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/75291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-72-2022",
+   "path": "local/neamt/secuieni/2022/72",
+   "short": "HCL Secuieni nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 72/2022 privind acordarea unui mandat special",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/78582",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/78582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-73-2022",
+   "path": "local/neamt/secuieni/2022/73",
+   "short": "HCL Secuieni nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 73/2022 privind aprobarea studiului de fezabilitate, a cererii de finanțare, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Înființare Parc Fotovoltaic în comuna Secuieni , județul Neamț” și participarea la programul “Sprijinirea investițiilor destinate promovării producției de energie din surse regenerabile pentru consumul propriu la nivelul autorităților publice locale” în cadrul Programului Operațional Infrastructură Mare(POIM) 2014-2020",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/78583",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/78583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-74-2022",
+   "path": "local/neamt/secuieni/2022/74",
+   "short": "HCL Secuieni nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 74/2022 privind rectificarea bugetului general consolidat pentru anul 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/78584",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/78584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-75-2022",
+   "path": "local/neamt/secuieni/2022/75",
+   "short": "HCL Secuieni nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 75/2022 privind aprobarea contului de execuţie al bugetului local și a situațiilor financiare, aferente trimestrului III al anului 2022",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/78585",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/78585",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-76-2022",
    "path": "local/neamt/secuieni/2022/76",
    "short": "HCL Secuieni nr. 76/2022",
@@ -208,6 +853,21 @@
      "from": "2022-12-19",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/83692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-9-2022",
+   "path": "local/neamt/secuieni/2022/9",
+   "short": "HCL Secuieni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 9/2022 privind modificarea componenței Consiliului Comunitar Consultativ",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/49161",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/49161",
      "sha256": null
     }
    ]

@@ -3,6 +3,94 @@
 "shard": "local/neamt/tarcau/2023",
 "acts": [
 {
+"slug": "hcl-neamt--tarcau-1-2023",
+"path": "local/neamt/tarcau/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 1/2023 privind unele măsuri de utilizare a excedentului bugetar din anii precedenţi, aferent surselor A şi E",
+"short": "HCL Tarcău nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/85434",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-3-2023",
+"path": "local/neamt/tarcau/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 3/2023 privind aprobarea bugetului local al comunei Tarcău pentru anul 2023",
+"short": "HCL Tarcău nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/89405",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-4-2023",
+"path": "local/neamt/tarcau/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 4/2023 privind prorogarea termenului de aplicare a noii grile paușale, pentru utilizatorii non-casnici, din Regulamentul de aplicare a taxei speciale de salubrizare aplicabil începând cu data de 1 ianuarie 2023, aprobat prin HCL nr. 83/22 decembrie 2022",
+"short": "HCL Tarcău nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/89406",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-7-2023",
+"path": "local/neamt/tarcau/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 7/2023 privind aprobarea Strategiei de dezvoltare a serviciilor sociale la nivelul comunei Tarcău, pentru perioada 2022-2031",
+"short": "HCL Tarcău nr. 7/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/89409",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-57-2023",
 "path": "local/neamt/tarcau/2023/57",
 "kind": "local",

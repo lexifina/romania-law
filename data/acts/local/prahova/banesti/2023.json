@@ -3,6 +3,138 @@
 "shard": "local/prahova/banesti/2023",
 "acts": [
 {
+"slug": "hcl-prahova--banesti-2-2023",
+"path": "local/prahova/banesti/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 2/2023 privind încheierea unui Acord de Parteneriat între Comuna Bănești, Județul Prahova și Municipiul Câmpina, în vederea realizării obiectivului de investiții “Centura de Est a Municipiului Câmpina”",
+"short": "HCL Bănești nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-16",
+"latest": "2023-01-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/85873",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-8-2023",
+"path": "local/prahova/banesti/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 8/2023 privind aprobarea bugetului local şi a listei de investitii pe anul 2023",
+"short": "HCL Bănești nr. 8/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/89135",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-15-2023",
+"path": "local/prahova/banesti/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 15/2023 privind aprobarea Regulamentului de acordare a finanţărilor din bugetul comunei Băneşti, pentru activităţi sportive organizate în baza Legii nr.69/2000 a educației fizice şi sportului",
+"short": "HCL Bănești nr. 15/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/92553",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-32-2023",
+"path": "local/prahova/banesti/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 32/2023 privind indexarea impozitelor şi taxelor locale la nivelul comunei Bănești pentru anul fiscal 2024",
+"short": "HCL Bănești nr. 32/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/102367",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-62-2023",
+"path": "local/prahova/banesti/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 62/2023 pentru aprobarea Regulamentului privind activitățile de identificare, ridicare, transport, depozitare și eliberare sau valorificare a vehiculelor fără stăpân sau abandonate pe domeniul public sau privat al comunei Bănești, județul Prahova",
+"short": "HCL Bănești nr. 62/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-04",
+"latest": "2023-09-04",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/117329",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-68-2023",
+"path": "local/prahova/banesti/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 68/2023 privind aprobarea Regulamentului pentru implementarea și eliberarea formatului unic al modelului card-legitimație de parcare pentru persoanele cu handicap",
+"short": "HCL Bănești nr. 68/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/122531",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--banesti-81-2023",
 "path": "local/prahova/banesti/2023/81",
 "kind": "local",

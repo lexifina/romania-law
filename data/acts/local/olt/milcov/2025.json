@@ -3,6 +3,94 @@
 "shard": "local/olt/milcov/2025",
 "acts": [
 {
+"slug": "hcl-olt--milcov-12-2025",
+"path": "local/olt/milcov/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 12/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Milcov pentru anul 2025",
+"short": "HCL Milcov nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/200154",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--milcov-13-2025",
+"path": "local/olt/milcov/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 13/2025 privind modificarea și completarea Anexei nr. 1 a Hotărârii Consiliului Local Milcov nr. 40 din 20.12.2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Milcov, județul Olt pentru anul 2025",
+"short": "HCL Milcov nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/200155",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--milcov-17-2025",
+"path": "local/olt/milcov/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 17/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026, cu rata inflației de 5.6%",
+"short": "HCL Milcov nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/206891",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--milcov-24-2025",
+"path": "local/olt/milcov/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milcov nr. 24/2025 privind declararea de uz și utilitate publică a suprafeței de 257mp, situată în intravilanul comunei Milcov, satul Milcovu din Deal, județul Olt, identificată prin nr. Cadastral 53849, CF 53849 UAT Milcov, categoria de folosință drum",
+"short": "HCL Milcov nr. 24/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/milcov-ot/registru-hcl/217718",
+"council": "olt/milcov",
+"council_name": "Consiliul Local al Comunei Milcov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-olt--milcov-25-2025",
 "path": "local/olt/milcov/2025/25",
 "kind": "local",

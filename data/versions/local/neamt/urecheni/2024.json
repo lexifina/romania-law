@@ -3,6 +3,21 @@
  "shard": "local/neamt/urecheni/2024",
  "acts": [
   {
+   "slug": "hcl-neamt--urecheni-21-2024",
+   "path": "local/neamt/urecheni/2024/21",
+   "short": "HCL Urecheni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 21/2024 privind aprobarea masurilor necesare pentru interzicerea abandonarii, aruncarii sau gestionarii necontrolate a deseurilor pe raza comunei Urecheni in anul 2024",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/147979",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/147979",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--urecheni-66-2024",
    "path": "local/neamt/urecheni/2024/66",
    "short": "HCL Urecheni nr. 66/2024",

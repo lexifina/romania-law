@@ -3,6 +3,51 @@
  "shard": "local/neamt/timisesti/2023",
  "acts": [
   {
+   "slug": "hcl-neamt--timisesti-100-2023",
+   "path": "local/neamt/timisesti/2023/100",
+   "short": "HCL Timișești nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 100/2023 privind rectificarea prevederilor bugetului local al comunei Timișești, județul Neamț pe anul 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/131504",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/131504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-102-2023",
+   "path": "local/neamt/timisesti/2023/102",
+   "short": "HCL Timișești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 102/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/131506",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/131506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-103-2023",
+   "path": "local/neamt/timisesti/2023/103",
+   "short": "HCL Timișești nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 103/2023 pentru modificarea Hotărârii nr. 70 din 13 octombrie 2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “EXTINDERE REȚEA DE CANALIZARE ÎN SATELE DUMBRAVA ȘI PLĂIEȘU ÎN COMUNA TIMIȘEȘTI, JUDEȚUL NEAMȚ” aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum și a sumei reprezentînd categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/131507",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/131507",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-104-2023",
    "path": "local/neamt/timisesti/2023/104",
    "short": "HCL Timișești nr. 104/2023",
@@ -298,6 +343,501 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/timisesti-nt/registru-hcl/135975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-60-2023",
+   "path": "local/neamt/timisesti/2023/60",
+   "short": "HCL Timișești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 60/2023 privind aprobarea utilizării sumei de 56.000 lei, din fondul de rezervă bugetară la dispoziția Consiliului local al Comunei Timișești",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/115291",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/115291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-61-2023",
+   "path": "local/neamt/timisesti/2023/61",
+   "short": "HCL Timișești nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 61/2023 privind rectificarea prevederilor bugetului local al comunei Timișești, județul Neamț pe anul 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/115292",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/115292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-62-2023",
+   "path": "local/neamt/timisesti/2023/62",
+   "short": "HCL Timișești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 62/2023 privind acordarea unui mandat special",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/115293",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/115293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-63-2023",
+   "path": "local/neamt/timisesti/2023/63",
+   "short": "HCL Timișești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 63/2023 privind aprobarea indicatorilor tehncio economici pentru obiectivul de investiție \" Împrejmuire amplasament la grădinița cu program prelungit din sat Plăieșu, comuna Timișești, județul Neamț\"",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/115294",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/115294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-64-2023",
+   "path": "local/neamt/timisesti/2023/64",
+   "short": "HCL Timișești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 64/2023 privind aprobarea executiei bugetare pe trimestrul II 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/115295",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/115295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-65-2023",
+   "path": "local/neamt/timisesti/2023/65",
+   "short": "HCL Timișești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 65/2023 privind aprobarea efectuarii unor cheltuieli din bugetul local al comunei",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/117932",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/117932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-66-2023",
+   "path": "local/neamt/timisesti/2023/66",
+   "short": "HCL Timișești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 66/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/117933",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/117933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-67-2023",
+   "path": "local/neamt/timisesti/2023/67",
+   "short": "HCL Timișești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 67/2023 privind aprobarea taxelor speciale pentru serviciile aferente platformei de depozitare a gunoiului de grajd, aflată în domeniul public al Comunei Timisesti, judeţul Neamt",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118929",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-71-2023",
+   "path": "local/neamt/timisesti/2023/71",
+   "short": "HCL Timișești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 71/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziționarea produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derulararea măsurilor educative la nivelul comunei Timișești",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118933",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-72-2023",
+   "path": "local/neamt/timisesti/2023/72",
+   "short": "HCL Timișești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 72/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118934",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-73-2023",
+   "path": "local/neamt/timisesti/2023/73",
+   "short": "HCL Timișești nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 73/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA TIMIȘEȘTI, JUDEȚUL NEAMȚ” aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum și a sumei reprezentînd categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118935",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-74-2023",
+   "path": "local/neamt/timisesti/2023/74",
+   "short": "HCL Timișești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 74/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123369",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-76-2023",
+   "path": "local/neamt/timisesti/2023/76",
+   "short": "HCL Timișești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 76/2023 privind modificarea structurii organizatorice a aparatului de specialitate al primarului comunei Timisesti, jud. Neamt",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123371",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-77-2023",
+   "path": "local/neamt/timisesti/2023/77",
+   "short": "HCL Timișești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 77/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021, prin Actul Adițional nr. 4",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123372",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-80-2023",
+   "path": "local/neamt/timisesti/2023/80",
+   "short": "HCL Timișești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 80/2023 privind aprobarea efectuarii unor cheltuieli din bugetul local al comunei",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123375",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-81-2023",
+   "path": "local/neamt/timisesti/2023/81",
+   "short": "HCL Timișești nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 81/2023 privind clasificarea unor drumuri de interes local ca drumuri comunale și ca străzi",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123376",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-82-2023",
+   "path": "local/neamt/timisesti/2023/82",
+   "short": "HCL Timișești nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 82/2023 pentru modificarea și completarea inventarului bunurilor care apartin domeniului privat al comunei Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123377",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-83-2023",
+   "path": "local/neamt/timisesti/2023/83",
+   "short": "HCL Timișești nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 83/2023 privind aprobarea indicatorilor tehnico-economici actualizați pentru proiectul de investiție „REABILITARE SEDIU PRIMARIE IN COMUNA TIMISEȘTI, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123378",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-84-2023",
+   "path": "local/neamt/timisesti/2023/84",
+   "short": "HCL Timișești nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 84/2023 privind rectificarea prevederilor bugetului local al comunei Timișești, județul Neamț pe anul 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/124265",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/124265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-85-2023",
+   "path": "local/neamt/timisesti/2023/85",
+   "short": "HCL Timișești nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 85/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/124266",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/124266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-86-2023",
+   "path": "local/neamt/timisesti/2023/86",
+   "short": "HCL Timișești nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 86/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/124267",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/124267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-87-2023",
+   "path": "local/neamt/timisesti/2023/87",
+   "short": "HCL Timișești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 87/2023 privind prelungirea termenului de valabilitate al Planului Urbanistic General al comunei Timisesti si Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127550",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-88-2023",
+   "path": "local/neamt/timisesti/2023/88",
+   "short": "HCL Timișești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 88/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127551",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-89-2023",
+   "path": "local/neamt/timisesti/2023/89",
+   "short": "HCL Timișești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 89/2023 privind scăderea din evidența analitică a creanțelor fiscale pentru persoanele juridice radiate din registrele în care au fost înregistrate potrivit legii",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127552",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-90-2023",
+   "path": "local/neamt/timisesti/2023/90",
+   "short": "HCL Timișești nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 90/2023 privind aprobarea introducerii în domeniul public al comunei a unor drumuri de exploatare și declararea lor ca bunuri de interes local identificate în teritoriul administrativ al comunei Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127553",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-91-2023",
+   "path": "local/neamt/timisesti/2023/91",
+   "short": "HCL Timișești nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 91/2023 privind modificarea și completarea inventarului bunurilor care aparțin domeniul public al comunei Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127554",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-92-2023",
+   "path": "local/neamt/timisesti/2023/92",
+   "short": "HCL Timișești nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 92/2023 privind aprobarea tipului de suport alimentar acordat elevilor Școlii gimnaziale Comuna Timișești, județul Neamț, pentru nivelul preșcolar, primar și gimnazial, în cadrul Programului pilot – de acordare a unui suport alimentar pentru preșcolarii și elevii din 450 de unități de învățămînt preuniversitar de stat",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127555",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-93-2023",
+   "path": "local/neamt/timisesti/2023/93",
+   "short": "HCL Timișești nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 93/2023 privind aprobarea executiei bugetare pe trimestrul III 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127556",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-94-2023",
+   "path": "local/neamt/timisesti/2023/94",
+   "short": "HCL Timișești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 94/2023 privind rectificarea prevederilor bugetului local al comunei Timișești, județul Neamț pe anul 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127557",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-96-2023",
+   "path": "local/neamt/timisesti/2023/96",
+   "short": "HCL Timișești nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 96/2023 privind aprobarea indicatorilor tehnico-economici pentru extinderea rețelei de distribuție a energiei electrice în vederea alimentării cu energie electrică a obiectivului localitatea Plăieșu, str. Poiana Coverva, comuna Timișești, județul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/128375",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/128375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-97-2023",
+   "path": "local/neamt/timisesti/2023/97",
+   "short": "HCL Timișești nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 97/2023 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici aferenți proiectului de investiții ”Înființare parc fotovoltaic în comuna Timișești, județul Neamț” în vederea participării la Programul – cheie 1: Surse regenerabile de energie și stocarea energiei, Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice elaborat de Ministerul Energiei si finanţat prin Fondul pentru Modernizare în România",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/128376",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/128376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-98-2023",
+   "path": "local/neamt/timisesti/2023/98",
+   "short": "HCL Timișești nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 98/2023 privind aprobarea documentației tehnico-economice faza Proiect tehnic de execuție și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții „Reabilitare integrată a blocurilor de locuințe A B C 4 din comuna Timișești, județul Neamț”",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/128377",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/128377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-99-2023",
+   "path": "local/neamt/timisesti/2023/99",
+   "short": "HCL Timișești nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 99/2023 privind rectificarea prevederilor bugetului local al comunei Timișești, județul Neamț pe anul 2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/128378",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/128378",
      "sha256": null
     }
    ]

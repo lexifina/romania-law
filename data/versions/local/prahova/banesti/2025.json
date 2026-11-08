@@ -3,6 +3,81 @@
  "shard": "local/prahova/banesti/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--banesti-18-2025",
+   "path": "local/prahova/banesti/2025/18",
+   "short": "HCL Bănești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 18/2025 privind aprobarea bugetului local al Comunei Bănești şi a listei de investitii pe anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199192",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-24-2025",
+   "path": "local/prahova/banesti/2025/24",
+   "short": "HCL Bănești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 24/2025 privind aprobarea metodologiei de acordare a ajutoarelor de urgentă/ajutoare comunitare, ajutoare de înmormântare , prestații financiare excepționale, precum si situatiile deosebite pentru care se acordă aceste ajutoare din bugetul local al comunei Bănești, judetul Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199198",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-29-2025",
+   "path": "local/prahova/banesti/2025/29",
+   "short": "HCL Bănești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 29/2025 privind privind indexarea impozitelor şi taxelor locale la nivelul comunei Bănești pentru anul fiscal 2026",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204228",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-4-2025",
+   "path": "local/prahova/banesti/2025/4",
+   "short": "HCL Bănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 4/2025 privind aprobarea Regulamentului privind organizarea și funcționarea activității de voluntariat la nivelul Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/189110",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/189110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-59-2025",
+   "path": "local/prahova/banesti/2025/59",
+   "short": "HCL Bănești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 59/2025 privind aprobarea Studiului de Oportunitate, a Caietului de Sarcini, a Contractului de delegare a gestiunii și a Regulamentului Serviciului de gestionare a Câinior fără stăpân al Comunei Bănești, Județul Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/226642",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/226642",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-68-2025",
    "path": "local/prahova/banesti/2025/68",
    "short": "HCL Bănești nr. 68/2025",

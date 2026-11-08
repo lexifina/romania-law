@@ -3,6 +3,66 @@
  "shard": "local/olt/milcov/2025",
  "acts": [
   {
+   "slug": "hcl-olt--milcov-12-2025",
+   "path": "local/olt/milcov/2025/12",
+   "short": "HCL Milcov nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 12/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Milcov pentru anul 2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/200154",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/200154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-13-2025",
+   "path": "local/olt/milcov/2025/13",
+   "short": "HCL Milcov nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 13/2025 privind modificarea și completarea Anexei nr. 1 a Hotărârii Consiliului Local Milcov nr. 40 din 20.12.2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Milcov, județul Olt pentru anul 2025",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/200155",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/200155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-17-2025",
+   "path": "local/olt/milcov/2025/17",
+   "short": "HCL Milcov nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 17/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026, cu rata inflației de 5.6%",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/206891",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/206891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--milcov-24-2025",
+   "path": "local/olt/milcov/2025/24",
+   "short": "HCL Milcov nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milcov nr. 24/2025 privind declararea de uz și utilitate publică a suprafeței de 257mp, situată în intravilanul comunei Milcov, satul Milcovu din Deal, județul Olt, identificată prin nr. Cadastral 53849, CF 53849 UAT Milcov, categoria de folosință drum",
+   "url": "https://emol.ro/milcov-ot/registru-hcl/217718",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/milcov-ot/registru-hcl/217718",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--milcov-25-2025",
    "path": "local/olt/milcov/2025/25",
    "short": "HCL Milcov nr. 25/2025",

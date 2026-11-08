@@ -3,6 +3,116 @@
 "shard": "local/prahova/banesti/2024",
 "acts": [
 {
+"slug": "hcl-prahova--banesti-3-2024",
+"path": "local/prahova/banesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 3/2024 privind aprobarea ajustării tarifelor pentru colectarea și transportul deșeurilor, pentru utilizatorii casnici și non-casnici, aferente contractului de delegare prin concesiune a gestiunii activității de colectare și transport a deșeurilor municipale în Zona 7- Câmpina, nr.888A din 05.06.2018, modificat prin acte adiționale",
+"short": "HCL Bănești nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-01",
+"latest": "2024-02-01",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/138730",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-11-2024",
+"path": "local/prahova/banesti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 11/2024 privind aprobarea bugetului local al Comunei Bănești şi a listei de investitii pe anul 2024",
+"short": "HCL Bănești nr. 11/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/142221",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-20-2024",
+"path": "local/prahova/banesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 20/2024 privind aprobarea Regulamentului de acordare a finanţărilor din bugetul comunei Băneşti, pentru activităţi sportive organizate în baza Legii nr.69/2000 a educației fizice şi sportului",
+"short": "HCL Bănești nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/149748",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-21-2024",
+"path": "local/prahova/banesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 21/2024 privind aprobarea metodologiei de acordare a ajutoarelor de urgentă/ajutoare comunitare, ajutoare de înmormântare , prestații financiare excepționale, precum si situatiile deosebite pentru care se acordă aceste ajutoare din bugetul local al comunei Bănești, judetul Prahova",
+"short": "HCL Bănești nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/149749",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-28-2024",
+"path": "local/prahova/banesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 28/2024 privind indexarea impozitelor şi taxelor locale în Comuna Bănești pentru anul fiscal 2025",
+"short": "HCL Bănești nr. 28/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/153753",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--banesti-48-2024",
 "path": "local/prahova/banesti/2024/48",
 "kind": "local",

@@ -3,6 +3,36 @@
  "shard": "local/olt/bals/2024",
  "acts": [
   {
+   "slug": "hcl-olt--bals-1-2024",
+   "path": "local/olt/bals/2024/1",
+   "short": "HCL Balș nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 1/2024 acoperirea definitivă din excedentul bugetului local al anilor precedenți a deficitului, în anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68194",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24HkWJQP36L8EMwxzIl7VLOuDfmb485lAh6ZqBMrJmbHU0keN2ww.Aa/4284",
+     "sha256": "c72ca18bf4f0cd62e2ba68f3cd855a89f8e9d20676addef5aa83bcd5b61c184d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-10-2024",
+   "path": "local/olt/bals/2024/10",
+   "short": "HCL Balș nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 10/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d8b99a0ed5fae741b5018645ae813e38e63ef2bc4af4d2defa982ba737bdc7f0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-100-2024",
    "path": "local/olt/bals/2024/100",
    "short": "HCL Balș nr. 100/2024",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-106-2024",
+   "path": "local/olt/bals/2024/106",
+   "short": "HCL Balș nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 106/2024 MODIFICAREA LISTEI DE INVESTITII A BUGETULUI INSTITUTIILOR PUBLICE",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#79077",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Ih89E6vvm0IWtZVwZzQc1.f7h6Gl9pPfyHVbgQW0uH0Ma/K2NNXfe/4284",
+     "sha256": "0393c27ab280a87108e11a3475d736cf4857b943bb4c22bb12d3a6ca55fc8316"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-107-2024",
    "path": "local/olt/bals/2024/107",
    "short": "HCL Balș nr. 107/2024",
@@ -89,6 +134,66 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#79078",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-108-2024",
+   "path": "local/olt/bals/2024/108",
+   "short": "HCL Balș nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 108/2024 aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș, a listei de investiții si virari de credite pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#79093",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24mG7DBs68zqzHda4JBq4pU.iDQYiViZGAycbLekBObWnFUbW5mp3am/4284",
+     "sha256": "22824c8348480c8eafd7393ad9d71946933f97fa1ae0ebd7cbc5345daec03fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-109-2024",
+   "path": "local/olt/bals/2024/109",
+   "short": "HCL Balș nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 109/2024 rectificarea bugetului fondurilor externe nerambursabile pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#79097",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24pnpgHwXmpRg7aWuL5NXclePc9BO1C23nhgQGwdvxI4qckYz.TzJZ2/4284",
+     "sha256": "8a52e054b847935162433d5aff442c84df0e4cd820eb404e5c73016291d2ac38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-111-2024",
+   "path": "local/olt/bals/2024/111",
+   "short": "HCL Balș nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 111/2024 modificarea art.2 la HCL nr. 116/12.07.2023 privind aprobarea contractarii unei finantari rambursabile interne in valoare de 8.000.000 lei pentru asigurarea finantarii proiectelor de investitii de interes local",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#79100",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24t/YZWiRdkemPcavU6wTe9u/biDpk1kYRvd6MEicUPI7fIgNj2nD4G/4284",
+     "sha256": "0f7ff3e2dce01e2214fd479eed05dbfa292129b21168672a2387b4e0a4972436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-112-2024",
+   "path": "local/olt/bals/2024/112",
+   "short": "HCL Balș nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 112/2024 aprobarea contractării unei finanţări rambursabile interne/externe în valoare de pana la 18.939.906,84 lei (din care 3.000.000,00 lei pentru asigurarea finantarii proiectelor de investitii de interes local, iar diferenta in valoare de pana la 15.939.906,84 lei pentru refinantarea datoriei publice locale)",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#79105",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24aSk3Os7InGwQbiwSpLcJQONFjx0rYX8RrvvGLsTYTMTkrQ8FLjV.m/4284",
+     "sha256": "d570d7e09a69ca3552360270212bd85db17a87d629373a409d2a4ff2a30cc4a0"
     }
    ]
   },
@@ -134,6 +239,111 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80199",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-118-2024",
+   "path": "local/olt/bals/2024/118",
+   "short": "HCL Balș nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 118/2024 aprobarea contului de execut ie a bugetului la data de 30.06.2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80383",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24UyHevRsOOlrNeTuEZdSEy.TrFnWYJ3B8ZSM51vRinb42Q9thDzzEm/4284",
+     "sha256": "d7030df14cd51ee7f3e592496019121cfd2ac7e7c0f3012c77cad14aa105ed25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-119-2024",
+   "path": "local/olt/bals/2024/119",
+   "short": "HCL Balș nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 119/2024 aprobarea contului de execu ie a bugetului instituțiilor publice finan țate integral sau par ial din venituri proprii la data de 30.06.2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80385",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24T4fVhuQkn0FeEeEVvz3YKOLmVWiAx/x2Yv.vA7pg1XedJPfLWQyfe/4284",
+     "sha256": "7967ec1de11682f5a54611474b494d0652097cda4aa10f6e2a2befae2f18f2e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-12-2024",
+   "path": "local/olt/bals/2024/12",
+   "short": "HCL Balș nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 12/2024 aprobarea bugetului local de venituri şi cheltuieli al orașului Balș pe anul 2024 și a listei de investiții",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70036",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24EOUUHnkzg14ITsarCwPXY.VWtvtLVN6ZNu9M5Hqqcn/sYuTyPwa2C/4284",
+     "sha256": "b1281c4ea30fb6244748de65488af2260844b667660c8c55e87c99bb86f04583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-120-2024",
+   "path": "local/olt/bals/2024/120",
+   "short": "HCL Balș nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 120/2024 la aprobarea contului de execu ție a bugetului creditelor interne la țdata de 30.06.2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80386",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2412gnD4wwFh7zmzIu//Blle/pBZi99AKtBB4ZDdx0j.o/fcOK87r86/4284",
+     "sha256": "c089725b815a2c76bde8d94888b6bdc761962cc35139e00873f78478ef971aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-121-2024",
+   "path": "local/olt/bals/2024/121",
+   "short": "HCL Balș nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 121/2024 aprobarea contului de execuție a bugetului fondurilor externe nerambursabile la 30.06.2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80390",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24De23MU5AFaOaKogrgRE75.H40syYGYg9MMSz/O6uxnBxoAtB6b.NC/4284",
+     "sha256": "62e44257ab35c1fe5e623930e459e978cb46f1b026905d41b372cde3b9e3ec08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-122-2024",
+   "path": "local/olt/bals/2024/122",
+   "short": "HCL Balș nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 122/2024 aprobarea documenta iei tehnico-economice-faza PT, a indicatorilor tehnico-țeconomici i a devizului general actualizatș pentru obiectivul de investi ii: ț “EFICIEN Ă ȚENERGETICĂ CLĂDIRE CU PATRU BLOCURI ( BLOC 6, BLOC 7, BLOC 8 , BLOC 9, SITUATE ÎN STR.NICOLAE BĂLCESCU SI I. CREANGĂ), ORA UL ȘBAL , JUDE OLT“",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80378",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Bzude27uQgYyyCIp1f.IjOS1c2i6bwcWBdzwzB5enVOqeC3MSiH1./4284",
+     "sha256": "d5eec30cb77d11468fc63bc71d74d9a94bb927801b6cc76fb238f80ea68c7be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-123-2024",
+   "path": "local/olt/bals/2024/123",
+   "short": "HCL Balș nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 123/2024 aprobarea proiectului “EFICIENȚĂ ENERGETICĂ CLĂDIRE CU PATRU BLOCURI ( BLOC 6, BLOC 7, BLOC 8 , BLOC 9, SITUATE ÎN STR.NICOLAE BĂLCESCU ȘI I. CREANGĂ), ORAȘUL BALȘ, JUDEȚ OLT“ și a cheltuielilor legate de proiect",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80210",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24f6vxcQjgnMD.BtEt7ji7VeGYcJ3wG9hy9XwnZEtuWjjABKz4.RJYG/4284",
+     "sha256": "54fc5d696bd3bfd85c0f84dcba9c848290f98d9a4433c73bd192b8781f17caf4"
     }
    ]
   },
@@ -198,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-128-2024",
+   "path": "local/olt/bals/2024/128",
+   "short": "HCL Balș nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 128/2024 aprobarea virărilor de credite între capitole bugetare în cadrul bugetului creditelor interne și modificarea listei de investiții pentru anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#80393",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24eTn9czkyVyvzVHIp.j/.b.gYQ7YW80Oc3bPYTmJmFgvJjtdMW1dqi/4284",
+     "sha256": "bf62b19576133e836bee4d72f5f7d365ca9e7683c645420385d61dd883961171"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-129-2024",
    "path": "local/olt/bals/2024/129",
    "short": "HCL Balș nr. 129/2024",
@@ -209,6 +434,51 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#83201",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-13-2024",
+   "path": "local/olt/bals/2024/13",
+   "short": "HCL Balș nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 13/2024 aprobarea bugetului instituţiilor publice finanţate integral sau parţial din venituri proprii pe anul 2024 i a listei de investi ii",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70018",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24v1I5XHpsHPmz99UN/GaaKeFbhHlm2mM0tVZp/z6a0IWLOyTRnQn5G/4284",
+     "sha256": "e4556d8c769b2a234b339091c194b9d644feea2d3f0b88593c5983b2e1dd469f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-130-2024",
+   "path": "local/olt/bals/2024/130",
+   "short": "HCL Balș nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 130/2024 aprobarea rectificării bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#83220",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%246RemvjgQPaxGj0ujVwC26uQR4LJC1.ayFKwqnSPpqEGGx90Q4nJy2/4284",
+     "sha256": "91d1d68f1a73056c9671ed8507a0c9166314760fbacb23d52038453644046ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-133-2024",
+   "path": "local/olt/bals/2024/133",
+   "short": "HCL Balș nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 133/2024 modificarea art.1 din Hotărârea Consiliului Local al Orașului Balș nr.135/29.08.2023 referitor la aprobarea și susținerea finanțării de la bugetul local al Orașului Balș a sumei de 9.362.801,94 lei, reprezentând diferența dintre valoarea totală contractului ,,Extindere Spital Orășenesc Balș – Compartiment Primiri Urgențe,, ,proiectare și execuție ( 13.862.801,94 lei) și sumele primite de la Ministerul Sănătății (4.500.000 lei)",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#83223",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24HLqhkzaODzpOkFFhIDiXnOWSO3L8dWh910dgDpVNSRFPEkVGXd5xW/4284",
+     "sha256": "658b5bbe200e4d877d9655307191de432939042dcf93c53c508ca2f36322de68"
     }
    ]
   },
@@ -243,6 +513,36 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-14-2024",
+   "path": "local/olt/bals/2024/14",
+   "short": "HCL Balș nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 14/2024 aprobarea bugetului creditelor interne pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70020",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ARBXWfmdZNqoB3RUFeP0Mecy.aLpIwrybx1XHVQtg860VSPg3cmMa/4284",
+     "sha256": "6dfee48cf0ab6247e7b3afa76acc261e57cbb54a422a93098efccc3aceb18b38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-140-2024",
+   "path": "local/olt/bals/2024/140",
+   "short": "HCL Balș nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 140/2024 Aprobarea rectificării bugetului local de venituri și cheltuieli al orașului Balș, a listei de investiții si virari de credite între capitole bugetare pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#83544",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ME8wluSZjn/gz.7AdFjFzOjKp8FYVPrm.isV8hMD0A237sMd8MDS2/4284",
+     "sha256": "bf48795b9e7e59a4688a2506e7529887fc5703b65e60f86ffcfca834db89a71b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-141-2024",
    "path": "local/olt/bals/2024/141",
    "short": "HCL Balș nr. 141/2024",
@@ -254,6 +554,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#83549",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-143-2024",
+   "path": "local/olt/bals/2024/143",
+   "short": "HCL Balș nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 143/2024 Aprobare procedură de valorificare prin casare a rezultatului operațiunilor de inventariere a mijloacelor fixe și a obiectelor de inventar la nivelul Primăriei Orașului Balș și unităților subordonate Consiliului Local Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#83551",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24eG0Cpti2oXxky15LPT15T.Ujg4bgpMJVfRmS0bF0YQJRQ75L.Q/My/4284",
+     "sha256": "133adfbb1cb76f94e98de20a86046b61b9bafd91e6e142c9a3801835341aa613"
     }
    ]
   },
@@ -344,6 +659,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#84441",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-15-2024",
+   "path": "local/olt/bals/2024/15",
+   "short": "HCL Balș nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 15/2024 aprobarea bugetului fondurilor externe nerambursabile pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70021",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24dRKubmmoy9o.WAR6K9SQ8udlQLWcxPnHZpe6XDxF.BNBA/8HEbQ/W/4284",
+     "sha256": "e7fb248d26cb43d572c5380079288d3efd4a3f083e28aa2e5614a8afadf4c8cc"
     }
    ]
   },
@@ -498,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-16-2024",
+   "path": "local/olt/bals/2024/16",
+   "short": "HCL Balș nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 16/2024 aprobarea Regulamentului privind vânzarea imobilelor – clădiri și terenuri,aflate în proprietatea privată a orașului Balș,județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#69994",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24WZpPHNyqGDakuc3Eruay9eZbPbEBxY6nswzCUwsvKrYp6uOHVI7GG/4284",
+     "sha256": "4e4149947fa8e0e5726f445d2dd37f95ea0708e477312f12ea33be60f912f593"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-160-2024",
    "path": "local/olt/bals/2024/160",
    "short": "HCL Balș nr. 160/2024",
@@ -648,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-17-2024",
+   "path": "local/olt/bals/2024/17",
+   "short": "HCL Balș nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 17/2024 aprobarea Statului de functii si a numărului de posturi pe anulț 2024, cu modificările solicitate în raportul de specialitate, a organigramei si a structurii organizatorice pentru Spitalul Orăsenesc Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70027",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24iPVJbHIpHgjgDdBsQhz/VOsYEEISL6OR6kbjJOZ4ZmpOtT4OmiJrC/4284",
+     "sha256": "fb7e14b5a428e22cadf697174e086055be4ac67e1ff4f1b737d3af90e21f9631"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-170-2024",
    "path": "local/olt/bals/2024/170",
    "short": "HCL Balș nr. 170/2024",
@@ -693,6 +1053,111 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-18-2024",
+   "path": "local/olt/bals/2024/18",
+   "short": "HCL Balș nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 18/2024 modificarea statului de functii si a organigramei Cabinetelor medicale scolare în vederea respectării Protocolului de predare-preluare a personalului medical de specialitate din unităt ile de învă ământ conform Ordinului comun nr.3040/114/670/2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70029",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ZztTpEBMuC.f.DLhIHjqU.4L1n6VApTUo3lymOftxzJt1Ujl7gkR6/4284",
+     "sha256": "bdb73fa6eaf75bd11dd00020ccf3c1bc9ad63e32cb6e029df50ca65fa3daa6c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-19-2024",
+   "path": "local/olt/bals/2024/19",
+   "short": "HCL Balș nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 19/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ea5940b6b84c410a822813827daa01bad5feda7c92c56915647cf433f137ddff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-2-2024",
+   "path": "local/olt/bals/2024/2",
+   "short": "HCL Balș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 2/2024 actualizarea documentației tehnico-economice – faza DALI , aprobarea indicatorilor tehnico-economici actualizați în vederea realizării investiției ”Creșterea performanței termice pentru clădirea Primăriei Orașului Balș” și a proiectului tehnic",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68786",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24uu6UN/s2.MTsDuAjLXMbFubVrx4PAjGWNTHAhvmMpNWQc.4AKo3ce/4284",
+     "sha256": "6ed05196712626ae1c1f646b00664389b7a024fd1eeffac27d4e85f02e2bad87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-20-2024",
+   "path": "local/olt/bals/2024/20",
+   "short": "HCL Balș nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 20/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bbccd2c553c5ba3979012d847de1e9d0dae521180c863e3f3283251fe1acd476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-21-2024",
+   "path": "local/olt/bals/2024/21",
+   "short": "HCL Balș nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 21/2024 modificarea bugetului local de venituri și cheltuieli al orașului Balș pe anul 2024 și a listei de investiții",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70676",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%246.oc3YjHVy7t887xinH0xe30qEfWMHgNBWIPTflBNUoC/whuDRXwe/4284",
+     "sha256": "b6750020084f11bf956e2c16319620bfb828137398aff247fcb5bc9ef593436c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-22-2024",
+   "path": "local/olt/bals/2024/22",
+   "short": "HCL Balș nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 22/2024 modificarea Hotărârii Consiliului Local Balș nr.116/12.07.2023 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 8.000.000,00 lei pentru asigurarea finantarii proiectelor de investitii de interes local",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70677",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%247.oBIYz2rdbuO99qY/ghO.PdyvzSHJKlHhaTWuj3wgW4SJ6Cgz9l2/4284",
+     "sha256": "2101406ae81cab4b8610f0c3c3ac2699585143a1960cbde719d99b6ab9143a5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-23-2024",
+   "path": "local/olt/bals/2024/23",
+   "short": "HCL Balș nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 23/2024 actualizarea documentației tehnico-economice – faza SF cu elemente DALI , aprobarea indicatorilor tehnico-economici actualizați în vederea realizării investiției Modernizare Parc Central în orașul Balș,județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70678",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ispX9s2jKJMp3XlSmMFAxuMWoUnYgDkQNbnWcWnoWQqJgXqZ.XIje/4284",
+     "sha256": "05d0e01ea9f5ee8b0e274f4d2e31235571783a71395f48d6612c83a0f0786b2e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-25-2024",
    "path": "local/olt/bals/2024/25",
    "short": "HCL Balș nr. 25/2024",
@@ -704,6 +1169,51 @@
      "units": 1,
      "source_url": null,
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-26-2024",
+   "path": "local/olt/bals/2024/26",
+   "short": "HCL Balș nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 26/2024 aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ,,Construire locuințe sociale în orașul Balș,etapa II, Județul Olt ,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#71468",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2474iVrDRKwJB2fStOCErzRekzhss.i23qQJLwE9oQGdcxYU8AzmcH./4284",
+     "sha256": "d646aea15b8487055b259860692d345ec678716cf1f2a6c2b91700b0280666e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-3-2024",
+   "path": "local/olt/bals/2024/3",
+   "short": "HCL Balș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 3/2024 aprobarea Planului Urbanistic General (PUG) al Orașului Balș și Regulamentului Local de Urbanism ( RLU) aferent Planului Urbanistic General",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68965",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24PbnZH.boP2ZxzaRj6OIJxuiCRJ3KuH6pk0EorPI3j17EAVK0dRwjy/4284",
+     "sha256": "eb98af5216264460a3e3d9f2b10bb847187b7189427fa1dcc2e2ccaa68d6b60a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-36-2024",
+   "path": "local/olt/bals/2024/36",
+   "short": "HCL Balș nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 36/2024 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Orașului Balș, prin transformarea unei funcții publice vacante în statul de funcții la Serviciului Public Comunitar de Evidența Persoanelor din cadrul Primăriei Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#71448",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24OEa2.stez8W0gxNoG/q3Fu2DDWuPAkZN4K6N7j0Zeb3EjMoqvxFJe/4284",
+     "sha256": "8957b4cdfe4138df95ae39ae4f3b1fe8873809cd516e5c06b7a1100c30eaa2ae"
     }
    ]
   },
@@ -723,6 +1233,381 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-38-2024",
+   "path": "local/olt/bals/2024/38",
+   "short": "HCL Balș nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 38/2024 modificarea statului de funcții și a organigramei Cabinetelor medicale școlare din cadrul Primăriei Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#71460",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%243kGe/uYGQynqBWFVpZ6ACONaiZO.4q.VCbvJ59gwtPYR2cc.uAyb6/4284",
+     "sha256": "3c4307d71091688acd61862b42307a104796cf48a0037bee8cea503147adce41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-4-2024",
+   "path": "local/olt/bals/2024/4",
+   "short": "HCL Balș nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 4/2024 aprobarea documentației tehnico-economice faza-Studiu de Fezabilitate actualizată și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiției: ,,Realizare pistă de biciclete în zona Balta Gării în orașul Balș,județul Olt,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68955",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24oG/LpPX3oBHPK1NNjcMAT.CVzFXYC185JygF25NDUlLkb9cGHZmIW/4284",
+     "sha256": "b26a91b56cb2bf82941125036a3d478cc4b0fa1062c7627abe06364f45b8c181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-42-2024",
+   "path": "local/olt/bals/2024/42",
+   "short": "HCL Balș nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 42/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2d972b97aa58d86bf1ab419df6f31c2f183302af183b8bb9b24daba0747e7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-43-2024",
+   "path": "local/olt/bals/2024/43",
+   "short": "HCL Balș nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 43/2024 rectificarea bugetului local de venituri și cheltuieli al orașului Balș pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#72580",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%249nqeO9uR2iQCljmRcsYKUeCaWvhKPqVN5vbd0JPxsKmJs/dMsgYMa/4284",
+     "sha256": "d936a44174b184beb53671ecbe95056f08e7659d1d12874c4f688ad7f4420e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-45-2024",
+   "path": "local/olt/bals/2024/45",
+   "short": "HCL Balș nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 45/2024 rectificarea bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73589",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24gpVyvIp7rZijYUiq1SiMSe8pJZvX5VicskrYhpYPRuGcdfr0geF5a/4284",
+     "sha256": "0a3db1f52968af9ff5ff3fc875750f1572e7a4a21f942f62c50926c9ed118808"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-46-2024",
+   "path": "local/olt/bals/2024/46",
+   "short": "HCL Balș nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 46/2024 aprobarea rectificării bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73592",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24F7aq7CpvdnK0pviDSmH55utGVRviQhqvQ14iaRvpWNAAr7UXgQgpC/4284",
+     "sha256": "4b7021a7f94ee693df66777e0f94d86b9effdda7c3aa89e1a67c5ef01feb6119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-47-2024",
+   "path": "local/olt/bals/2024/47",
+   "short": "HCL Balș nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 47/2024 modificarea Hotărârii Consiliului Local al Orașului Balș nr.123/31.07.2023 privind aprobarea documentației tehnico-economice – faza SF și a indicatorilor tehnico-economici în vederea realizării investiției ,,Rețea alimentare apă și canal, cartier Spineni, orașul Balș,județul Olt,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73579",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24g6B.kzDl9DPgUOmWinhOa.92lGS0KtDj2pTLHXMx2iuqO.IijHH.u/4284",
+     "sha256": "c31713e125c781e93b1e81bcdc60019d33cd804af9b5ab69c5727f26f6a47231"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-48-2024",
+   "path": "local/olt/bals/2024/48",
+   "short": "HCL Balș nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 48/2024 Programul vizând sisteme de alimentare cu apă,canalizare și epurare a apelor uzate cu obiectivul de investiții ,, ,,Rețea alimentare apă și canal, cartier Spineni, orașul Balș,județul Olt,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73581",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24YR5ysiAgNkL/k2n2sFW71uEUOXSS6rbCfKUOah/mwhkLUqZhdllge/4284",
+     "sha256": "a804cb4a2da318da3774ffca45a1fa30d0a17d0a9b55aa0612caca631620ff2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-49-2024",
+   "path": "local/olt/bals/2024/49",
+   "short": "HCL Balș nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 49/2024 privind aprobarea indicatorilor tehnico-economici și a documentației faza DALI pentru obiectivul de investiții ,, Asfaltare strada Ion Creangă și strada Nufărului ,Oraș Balș,Județul Olt,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73582",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24QtMj0xBuv4GKjM5FOBLqaum2.vek6XUoiRgwvuJRB7z6Sjb7PmwYW/4284",
+     "sha256": "9654cd7e62e7d1cb7daa6aba5a8412aaee8640bd8d54c1f9dcd818ad626857c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-5-2024",
+   "path": "local/olt/bals/2024/5",
+   "short": "HCL Balș nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 5/2024 majorarea cu 5% a salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului orașului Balș si serviciile subordonate Consiliului Local al orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68952",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24D/ztJut2VJU3DnVYlxKEOOwtOy1AP2DbHPHDt03ojnZpmHiOrCYNO/4284",
+     "sha256": "55a479340861869b3625b3758286f0d5c4ee917dedba214fa3d652c6beb90b13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-50-2024",
+   "path": "local/olt/bals/2024/50",
+   "short": "HCL Balș nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 50/2024 aprobarea indicatorilor tehnico-economici și a documentației faza DALI pentru obiectivul de investiții ,, Asfaltare strada Crizantemelor ,Oraș Balș,Județul Olt,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73584",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24VvAiCyhNW0HdnTBrhlA/5..s0ById2qqjUEc9eFDnNu9wef2eATlO/4284",
+     "sha256": "e49bc21649f6b435d0f31aabede98046d4b19f28c126a3454828db3513df46e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-52-2024",
+   "path": "local/olt/bals/2024/52",
+   "short": "HCL Balș nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 52/2024 privind aprobarea actualizării tarifului maximal de distanță,în cazul transportului de persoane în regim de taxi,pe raza Orașului Balș,județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73577",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%241MbiDl556ZOSVPxreUG.kObymcGWQs4iK/SBvneAnuGkfH.i2ZyLq/4284",
+     "sha256": "c3a6c27f6f7597bb9b83d7259277fc68088d9d160bf4a0eaf61c88052cb551ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-53-2024",
+   "path": "local/olt/bals/2024/53",
+   "short": "HCL Balș nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 53/2024 PROCEDURA PRIVIND STABILIRE LISTA DEOSEBITA SITUATII DEOSEBITE A.S",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#72579",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24BOrrSGdWmUMJQnPKqgrmruqdrDcWj.UMcwoDEqy/iapaQixdTq0rW/4284",
+     "sha256": "a9d9f2a93e6bf5a5d07179eb25a715a6a5131162b50fd5f62a587969831b6840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-54-2024",
+   "path": "local/olt/bals/2024/54",
+   "short": "HCL Balș nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 54/2024 încetarea uzului și interesului public local și trecerea din domeniul public al Orașului Balș ,județul Olt, în domeniul public al Județului Olt a imobilului teren în suprafață de 5077 mp,CF nr.56696 Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73586",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%247gyqf.9Rl6L1EvjHJw5vKOE6IHg7EMepx2c3VLUWyEQU1A.6sGvOq/4284",
+     "sha256": "433f20d1da8a17caf355b5ab25f3f5256ab50fe93642dfd6a65e65a2de11834c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-55-2024",
+   "path": "local/olt/bals/2024/55",
+   "short": "HCL Balș nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 55/2024 atestarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Balș, județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73596",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24xeaVvDvz24mnJFEzelzjZOSQoGSqYfxgSfGhC7TE3tADwn7TRpMju/4284",
+     "sha256": "c4fa361ae1a49e30b5c970272c1a9abd3e6a3d8b3ff47ee07dcb5b571fbda6aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-57-2024",
+   "path": "local/olt/bals/2024/57",
+   "short": "HCL Balș nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 57/2024 aprobare protocol gestionare caini fara stapan Dobroteasa",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#73588",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24zkmr3X.gdshYuUCw7iYLlOZjz4yqtCiAumzOAVAbfoCVrXwO2fYwC/4284",
+     "sha256": "1894c530ba92aab75b27daf3fe23a0d5b6f021f1c61409d66256405c10055fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-58-2024",
+   "path": "local/olt/bals/2024/58",
+   "short": "HCL Balș nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 58/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "83cd577d1424ecbb51fe9736f9f665dec47291d19b008e5b58a08ed77412b53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-59-2024",
+   "path": "local/olt/bals/2024/59",
+   "short": "HCL Balș nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 59/2024 aprobarea documentației tehnico-economice - faza DALI și a indicatorilor tehnico-economici actualizați în vederea realizării investiției ,, SISTEMATIZARE BLOCURI ZONA MONUMENT, ,ORAȘUL BALȘ,JUDEȚUL OLT,,",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#75081",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24VBoecmy6gT61U09wCfKVye342Ur5ogNbFOpEe7P5fs/95tEZkQ2me/4284",
+     "sha256": "0632a7d8a68f23bcf3372600df452975a8b88a8a54a3563a24b5b4a4147c2bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-6-2024",
+   "path": "local/olt/bals/2024/6",
+   "short": "HCL Balș nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 6/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d917c231ebc59bcff292823ee70f5d8df1caccad77fac9be3fc5db2f631a223d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-60-2024",
+   "path": "local/olt/bals/2024/60",
+   "short": "HCL Balș nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 60/2024 rectificarea bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#75084",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2417LFHUjy.Rx/p45jUsfA0eBljaxRDXrnO8k6mBYq4njZa7pIeD8Uu/4284",
+     "sha256": "3cfedd4b9fbcdc991ec43cad2a83a7db52692eb7f93bc6a43db0d040bb40325d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-61-2024",
+   "path": "local/olt/bals/2024/61",
+   "short": "HCL Balș nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 61/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2e4640aa096fc1d75d6169e6b5b3a163fda3956eca88c17c250aab0e85099828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-62-2024",
+   "path": "local/olt/bals/2024/62",
+   "short": "HCL Balș nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 62/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d7433dd9e8c6618ceef763e9138433ecc4841d411180a813c543ce85bf8fa78a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-67-2024",
+   "path": "local/olt/bals/2024/67",
+   "short": "HCL Balș nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 67/2024 rectificarea bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#75846",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Bup6b/5WYvsXQtgsFAepxOa9XhwKYpG4DVAZA4vZwGqzKip0j9tqm/4284",
+     "sha256": "7d5e1ff312add30b3c4fa50f0425937e6ab2a949626804cba1a9cffd8a452aae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-69-2024",
+   "path": "local/olt/bals/2024/69",
+   "short": "HCL Balș nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 69/2024 APROBARE PROCEDURA SCHEMA LOCALA DE AJUTOR DE MINIMIS",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#70675",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24tVYNEPZKJ9qbgzBzcLlqcukfE01Tq96sHwbouf4CYLiz.9QxolIPS/4284",
+     "sha256": "8d1b5f71edc2ce1c2d0b8ad4b473e9f284d6ebfbcc7e3d7a4be54e64096200b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-7-2024",
+   "path": "local/olt/bals/2024/7",
+   "short": "HCL Balș nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 7/2024 aprobarea Planului de acţiuni sau de lucrări de interes local pe anul 2024,pentru beneficiarii de venit minim de incluziune,conform Legii nr.196/2016 privind venitul minim de incluziune,cu modificările și completările ulterioare",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68957",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%241rUopUhb09OtwF.HeCVRxOXKxMW3s7R2bPKuioRf.s00VE06eoB1i/4284",
+     "sha256": "a15940d93aa2986b17ecae213ad6fb4e07e4b7eeb36c0005f0abd0818350dd41"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-71-2024",
    "path": "local/olt/bals/2024/71",
    "short": "HCL Balș nr. 71/2024",
@@ -734,6 +1619,51 @@
      "units": 1,
      "source_url": null,
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-72-2024",
+   "path": "local/olt/bals/2024/72",
+   "short": "HCL Balș nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 72/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8ff55e96ee112ed7f17718363a208c3e36072dc66a063c246b2fa19caa051c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-73-2024",
+   "path": "local/olt/bals/2024/73",
+   "short": "HCL Balș nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 73/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f4f7314bdfab561e1230296773f0e6afa070762299c6f9036051a58c6585aefc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-74-2024",
+   "path": "local/olt/bals/2024/74",
+   "short": "HCL Balș nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 74/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "15b35aca05588f8d5803232905679330c5415454d3c8b066146eb47b83051214"
     }
    ]
   },
@@ -753,6 +1683,96 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-76-2024",
+   "path": "local/olt/bals/2024/76",
+   "short": "HCL Balș nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 76/2024 aprobarea proiectului ,,REABILITARE,EXTINDERE P+2 ȘI DOTARE CORP C1,AMBULATORIU BALȘ,JUDEȚUL OLT,, și a cheltuielilor legate de proiect",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#75847",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24kt8LUIYPRHt.9YU3/U1Ehe5dvaV4VwVRPg9XNa.CS.HQ5AlZhctPa/4284",
+     "sha256": "fe75af5f558e178ee6f2d6c15b22da2795ad9942a7d130676557b1dda2d7c877"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-77-2024",
+   "path": "local/olt/bals/2024/77",
+   "short": "HCL Balș nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 77/2024 aprobarea proiectului ,,REABILITARE,EXTINDERE P+2 ȘI DOTARE CORP C1,AMBULATORIU BALȘ,JUDEȚUL OLT,, și a cheltuielilor legate de proiect",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#75848",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24UbdJNf1wyqZ8VdkGMforzuf2HWUX7MM1D/0rxzW55mAD7ddwksceu/4284",
+     "sha256": "99f8f324b337a031712de552520d6131e21dbe0734b3a96936466d6c211f9642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-78-2024",
+   "path": "local/olt/bals/2024/78",
+   "short": "HCL Balș nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 78/2024 rectificarea bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#76618",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24zwCu0xXrJ2XIzQoZwvkcFO91wsEKk.e0NoMHGREsXfvXcc9Ui0Z7S/4284",
+     "sha256": "cbb9b8fb54f59486473fcffc216f353ca579fa9c65e760fc05c54c6414e94405"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-8-2024",
+   "path": "local/olt/bals/2024/8",
+   "short": "HCL Balș nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 8/2024 stabilirea numărului de posturi de asistenți personali ai persoanelor cu handicap grav, la nivelul Primăriei orașului Balș,pentru anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68959",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24fNhMQ0umDB4F9IRYagl1POJesdXmRP2RDLqsq2K7WAxz8cDOAemii/4284",
+     "sha256": "429044951d968efab0095b8154df441ded37abdcd11ce470abc0cbe7f937df24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-80-2024",
+   "path": "local/olt/bals/2024/80",
+   "short": "HCL Balș nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 80/2024 aprobarea rectificarii bugetului creditelor interne si a listei de investitii pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#76620",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24gt4azjdIfOu77xv8uppZ2.PlAp7/p4K4tOChJ7ZTxmWpZlypbXSym/4284",
+     "sha256": "d7867c835ffb099a9bd96b0d0966dcbc4df55b91e7f039202df5127db6a7bc63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-81-2024",
+   "path": "local/olt/bals/2024/81",
+   "short": "HCL Balș nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 81/2024 actualizarea indicatorilor tehnico-economici , a devizului general actualizat pentru obiectivul de investiții: “ Canalizare in Orasul vechi, strazile Cuza Voda,Popa Sapca, Viilor, Ciocarliei, Cometa”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului :”Canalizare in Orasul vechi, strazile Cuza Voda,Popa Sapca, Viilor, Ciocarliei, Cometa",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#76621",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24OqIQMVRBF2vTjxva0pgNze3WPDw84GCA2RQ7tLzAvtEecokNfI0qy/4284",
+     "sha256": "43e24a76d884742131f09b8312e86388270b4a501148122f315c65d2df9d9726"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-82-2024",
    "path": "local/olt/bals/2024/82",
    "short": "HCL Balș nr. 82/2024",
@@ -764,6 +1784,111 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77367",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-83-2024",
+   "path": "local/olt/bals/2024/83",
+   "short": "HCL Balș nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 83/2024 modificarea Hotărârii Consiliului Local al Orașului Balș nr.77/24.04.2024 privind aprobarea proiectului ,,REABILITARE,EXTINDERE P+2 ȘI DOTARE CORP C1,AMBULATORIU BALȘ,JUDEȚUL OLT,, și a cheltuielilor legate de proiect",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77368",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ILuiUW.Yl7G.lSNVTmq1SupAGITBdjMwt9lDD7vqby3pcX3DE940K/4284",
+     "sha256": "bd7b191e2f8ee2892bf955b0e5719498a0105746bc9d662d4a1da94e117a62ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-84-2024",
+   "path": "local/olt/bals/2024/84",
+   "short": "HCL Balș nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 84/2024 aprobarea contului anual de execuție a bugetului local al Orașului Balș pe anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77378",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24XBy5cNhzivMgcKGF/3p7feXNz5hTLDCki45e/tv3xCC7lyXL/zBVi/4284",
+     "sha256": "bcb8492d705beffe5a2dff8086638ac8d403c3e5318a283d8ac55bbc185ed76a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-85-2024",
+   "path": "local/olt/bals/2024/85",
+   "short": "HCL Balș nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 85/2024 la aprobarea contului anual de execuție a bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii pe anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77382",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24uiucDfKDICFXwPWaCxkbmeayFw2TG18m7/xTlJDAjWikkgHFzDik./4284",
+     "sha256": "b3010ade1f3589163ff2719baa18c1bf44a9ecf1c394270e73c9ea17e10797c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-87-2024",
+   "path": "local/olt/bals/2024/87",
+   "short": "HCL Balș nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 87/2024 aprobarea contului annual de execuție a bugetului fondurilor externe nerambursabile pe anul 2023",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77392",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24QHIIGfUbnqO0E701j2Kw9uBkT/PRx59x8OXZ46nfFgks7NKk0gBZy/4284",
+     "sha256": "b8c485abdec8b14876b5eac90c982cba948f69763f29824dccfbb7ad56f5e168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-88-2024",
+   "path": "local/olt/bals/2024/88",
+   "short": "HCL Balș nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 88/2024 rectificarea bugetului local de venituri și cheltuieli al orașului Balș și a listei de investiții pe anul 2024",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77397",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24YjAHpAaEYLDWCIchRrH3ZOF4smcwH2IXGRSxxkxYfbET33VJo.sg6/4284",
+     "sha256": "a67c4565a9be2fea131b0f96043600dfdd444650fd80b5af0428da60347a96f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-89-2024",
+   "path": "local/olt/bals/2024/89",
+   "short": "HCL Balș nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 89/2024 atestarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Balș, județul Olt",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#77395",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24o1ktksADhVjkMeav5dgXdux2dqWmvhJCHnwV.XEVNiQnNGhI.ChAG/4284",
+     "sha256": "ca902a469eb5c7fba23360d21bbf4b0c8fa35da880d43740eb4aac5be813f5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-9-2024",
+   "path": "local/olt/bals/2024/9",
+   "short": "HCL Balș nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 9/2024 alegerea președintelui de ședință al Consiliului Local al Orașului Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#68963",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24lc3koqYgRWvvN7q3e4tso..c6LJIljM/cuUVgDAvmw6c0Q2GyEeSK/4284",
+     "sha256": "143aa9840911767341f783579e4a0c5e35bdb9c07a8a38230a0d48d0c2a41f8e"
     }
    ]
   },

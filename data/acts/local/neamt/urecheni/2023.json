@@ -3,6 +3,28 @@
 "shard": "local/neamt/urecheni/2023",
 "acts": [
 {
+"slug": "hcl-neamt--urecheni-39-2023",
+"path": "local/neamt/urecheni/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 39/2023 privind prelungirea valabilitatii PUG al comunei Urecheni , judetul Neamt",
+"short": "HCL Urecheni nr. 39/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://emol.ro/urecheni-nt/registru-hcl/101955",
+"council": "neamt/urecheni",
+"council_name": "Consiliul Local al Comunei Urecheni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--urecheni-75-2023",
 "path": "local/neamt/urecheni/2023/75",
 "kind": "local",

@@ -3,6 +3,94 @@
 "shard": "local/prahova/balta-doamnei/2024",
 "acts": [
 {
+"slug": "hcl-prahova--balta-doamnei-19-2024",
+"path": "local/prahova/balta-doamnei/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 19/2024 privind înregistrarea UAT Balta Doamnei în Sistemul Național Electronic de Plată Online a taxelor și impozitelor locale utilizând cardul bancar (SNEP) și implicit înrolarea în sistemul „Ghișeul.ro”",
+"short": "HCL Balta Doamnei nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/202220",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-20-2024",
+"path": "local/prahova/balta-doamnei/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 20/2024 privind reorganizarea structurii aparatului de specialitate al primarului comunei Balta Doamnei, județul Prahova, aprobarea organigramei, statului de funcții și a Regulamentului de organizare și funcționare",
+"short": "HCL Balta Doamnei nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/202221",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-21-2024",
+"path": "local/prahova/balta-doamnei/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 21/2024 privind aprobarea rectificării bugetului local al comunei Balta Doamnei, pe anul 2024",
+"short": "HCL Balta Doamnei nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/202223",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-22-2024",
+"path": "local/prahova/balta-doamnei/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 22/2024 privind alegerea Președintelui de ședință pentru o perioadă de două luni (august 2024 - septembrie 2024)",
+"short": "HCL Balta Doamnei nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/202224",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--balta-doamnei-23-2024",
 "path": "local/prahova/balta-doamnei/2024/23",
 "kind": "local",

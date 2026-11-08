@@ -3,6 +3,28 @@
 "shard": "local/neamt/tarcau/2024",
 "acts": [
 {
+"slug": "hcl-neamt--tarcau-7-2024",
+"path": "local/neamt/tarcau/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 7/2024 privind modificarea și completarea Hotărârii Consiliului Local nr. 81 din 21.10.2020 privind Regulamentul de Organizare și Funcționare a Consiliului Local al comunei Tarcău",
+"short": "HCL Tarcău nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/143625",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-58-2024",
 "path": "local/neamt/tarcau/2024/58",
 "kind": "local",

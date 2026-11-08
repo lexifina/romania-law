@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/prahova/aricestii-zeletin/2023",
+"acts": [
+{
+"slug": "hcl-prahova--aricestii-zeletin-1-2023",
+"path": "local/prahova/aricestii-zeletin/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 1/2023 RECTIFICARE BUGET LOCAL NR. 7",
+"short": "HCL Ariceștii Zeletin nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#44123",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-2-2023",
+"path": "local/prahova/aricestii-zeletin/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 2/2023 RECTIFICARE BUGET LOCAL NR. 22/26.05.2023",
+"short": "HCL Ariceștii Zeletin nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#50485",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-3-2023",
+"path": "local/prahova/aricestii-zeletin/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 3/2023 RECTIFICARE BUGET LOCAL NR. 34/03.11.2023",
+"short": "HCL Ariceștii Zeletin nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#61651",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-4-2023",
+"path": "local/prahova/aricestii-zeletin/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 4/2023 HCL PRIVIND STABILIREA SALARIILOR DE BAZA",
+"short": "HCL Ariceștii Zeletin nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#62308",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-5-2023",
+"path": "local/prahova/aricestii-zeletin/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 5/2023 HCL APROBARE RECTIFICARE BUGET NR. 40/09.11.2023",
+"short": "HCL Ariceștii Zeletin nr. 5/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#62409",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-6-2023",
+"path": "local/prahova/aricestii-zeletin/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 6/2023 /12.12.2023",
+"short": "HCL Ariceștii Zeletin nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#64974",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}
