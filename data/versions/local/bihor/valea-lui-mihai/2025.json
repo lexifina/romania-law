@@ -3,6 +3,21 @@
  "shard": "local/bihor/valea-lui-mihai/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--valea-lui-mihai-100-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/100",
+   "short": "HCL Valea lui Mihai nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 100/2025 privind decontarea cheltuielilor de deplasare pentru funcţionarii publici din cadrul Primăriei Oraşului Valea lui Mihai, judeţul Bihor ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-100-din-30-sept-2025.pdf",
+     "sha256": "644de09d0b90215a0477234d1f7ac212c0f882f5e02b96e4fbeaf0998aaa2569"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-101-2025",
    "path": "local/bihor/valea-lui-mihai/2025/101",
    "short": "HCL Valea lui Mihai nr. 101/2025",
@@ -14,6 +29,126 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-101-din-30-sept-2025.pdf",
      "sha256": "f62e490c94c96046286fc34dda34b1a2440b6372b70dfb73553ca35e6bd91b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-102-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/102",
+   "short": "HCL Valea lui Mihai nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 102/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-din-102-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-din-102-din-2025.pdf",
+     "sha256": "fe46d4a8d218011950cfb1ffd393c848c7a31d651622be9c18b660ba638354cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-103-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/103",
+   "short": "HCL Valea lui Mihai nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 103/2025 privind modificarea Hotărârii Consiliului Local al Orașului Valea lui Mihai nr.49/2025 pentru aprobarea proiectului „Modernizare și dotare imobil pentru înființare secție de îngrijiri paliative, în regim de spitalizare la Spitalul Municipal dr",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-103-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-103-din-2025.pdf",
+     "sha256": "c9303de8a51f3eeb27bbbad0ee0afe64c02cc87e4c0d00236229d9c0ae19ca13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-104-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/104",
+   "short": "HCL Valea lui Mihai nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 104/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 30 octombrie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-104-din-2025.pdf",
+     "sha256": "26b49b6e045b2ac212b38571872e00f6269573e809c8c0ea9774588be8be2694"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-105-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/105",
+   "short": "HCL Valea lui Mihai nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 105/2025 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai din data de 30 iunie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-105-din-2025.pdf",
+     "sha256": "815858a69aca573d425e371b764edb9889b96e1e177d69d9722c02cb98bd276e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-106-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/106",
+   "short": "HCL Valea lui Mihai nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 106/2025 privind rectificarea bugetului Orașului Valea lui Mihai pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-106-din-2025.pdf",
+     "sha256": "509ac0629c98ad15a18384de15ec3378c15731399cbc5fbf798de9bd5d4cb109"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-107-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/107",
+   "short": "HCL Valea lui Mihai nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 107/2025 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-107-dun-2025.pdf",
+     "sha256": "0fd46d40705875203b051d037b25eb7ffebe867fb0ace070b0ecebac355b9bb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-108-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/108",
+   "short": "HCL Valea lui Mihai nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 108/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 27 noiembrie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-108-din-2025.pdf",
+     "sha256": "3c63c10f201bb126f24f7cbc942c6e78a28ca1d0059cfb95bbf489ef3177e2d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-109-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/109",
+   "short": "HCL Valea lui Mihai nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 109/2025 privind rectificarea bugetului Orașului Valea lui Mihai pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-109-din-2025.pdf",
+     "sha256": "a03c6604e7e94456dc75c8f87977fe75cb0ca231bbd5a80beff4255175c64707"
     }
    ]
   },
@@ -33,6 +168,216 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-110-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/110",
+   "short": "HCL Valea lui Mihai nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 110/2025 privind achiziționarea de servicii juridice în vederea efectuării demersurilor cu privire la rezilierea contractului cu SC Impact Com SRL – în prezent SC Suport Informatic Online SRL ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-110-din-2025.pdf",
+     "sha256": "c507aed2a4b893b511aaca33e4d038b69063d3c2bc2f309a4d73e5370dac7fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-111-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/111",
+   "short": "HCL Valea lui Mihai nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 111/2025 privind prelungirea unui contract de închiriere locuințe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-111-din-2025.pdf",
+     "sha256": "0984d3da17e4674fe3aba39154e4bcbacd50729b696435449a08fb6e32a68a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-112-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/112",
+   "short": "HCL Valea lui Mihai nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 112/2025 privind aprobarea listei cuprinzând solicitanții îndreptățiți să primeascăîn anul 2026, o locuință socială ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-112-din-2025.pdf",
+     "sha256": "609c016b5efc9fdb5dff2444f273d43752666ca82663785b63bd9aabf1e35fca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-113-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/113",
+   "short": "HCL Valea lui Mihai nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 113/2025 privind modificarea art.1 din Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 120/2023 cu privire la aprobarea implementării etapei a II-a a proiectului: „Îmbunătățirea serviciilor educaționale și a spațiilor publice în Orașul Valea lui Mihai” în cadrul Programului Operațional Regional 2021-2027 în scopul finalizării integrale, precum și susținerea cheltuielilor necesare în acest sens",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-113-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-113-din-2025.pdf",
+     "sha256": "c1ef8496d2eecf2cec80dc0677928b95a4d8413b9f5760e174b0bebcd23cb253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-114-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/114",
+   "short": "HCL Valea lui Mihai nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 114/2025 privind modificarea art.1 din Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 121/2023 cu privire la aprobarea implementării etapei a II-a a proiectului: „Îmbunătățirea calității vieții populației în Orașul Valea lui Mihai” în cadrul Programului Operațional Regional 2021-2027 în scopul finalizării integrale, precum și susținerea cheltuielilor necesare în acest sens Consiliul Local al O",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-114-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-114-din-2025.pdf",
+     "sha256": "82af7e60135cc4b9ab70f1555093f253c9ccb5af2b4fa482137a0fe39a93a297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-115-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/115",
+   "short": "HCL Valea lui Mihai nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 115/2025 privind aprobarea Proceselor verbale ale şedinţelor anterioare ale Consiliului Local al Oraşului Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/HCL-nr-115-din-2025.pdf",
+     "sha256": "43362c0bde9ef2b78880b52833b1477f245d242d5b20a4406155b850becb20c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-116-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/116",
+   "short": "HCL Valea lui Mihai nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 116/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 29 decembrie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-116-din-2025.pdf",
+     "sha256": "757cc957e28c9b206bed028a9bf81a72ea88d9f9c7a39e12f11d93f75215bd5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-117-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/117",
+   "short": "HCL Valea lui Mihai nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 117/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-117-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-117-din-2025.pdf",
+     "sha256": "00e7373747d8e8059afe9df70a82eb9f7935fdade0e2f78aa083e3223657aa65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-119-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/119",
+   "short": "HCL Valea lui Mihai nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 119/2025 privind validarea modificărilor aduse bugetului Orașului Valea lui Mihai pe anul 2025, conform Dispoziției Primarului Orașului Valea lui Mihai, nr.307 din 11 decembrie 2025 Consiliul Local al Orașului Valea lui Mihai, întrunit în ședința ordinară din data de 29 decembrie 2025, Având în vedere: - Proiectul de hotărâre privind validarea modificărilor aduse bugetului Orașului Valea lui Mihai pe anul",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-119-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-119-din-2025.pdf",
+     "sha256": "0f6889ae6a4dc37ddd679646a39723645e2ebca4141d6cbce96c347d199baa19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-12-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/12",
+   "short": "HCL Valea lui Mihai nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 12/2025 privind modificarea cuantumului lunar al contribuției de întreținere în Centrul de asistență medico-socială Valea lui Mihai, datorată de persoanele asistate sau de susținătorii legali ai acestora ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H012-din-2025.pdf",
+     "sha256": "8c3fac600924d2cb01bdf8987052166869e2e05804773f168ccc44425e13c731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-120-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/120",
+   "short": "HCL Valea lui Mihai nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 120/2025 privind închirierea unui spațiu cu altă destinație decât locuință, cu destinația: sediu de partid ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-120-din-2025.pdf",
+     "sha256": "5259e3594156cf2afa0a34d747a3f16a04b0ead926b03ff26c451f0a030afc55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-121-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/121",
+   "short": "HCL Valea lui Mihai nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 121/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particular la nivelul UAT Oraşul Valea lui Mihai, pentru anul școlar 2026-2027 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-121-din-2025.pdf",
+     "sha256": "3184a4a5607594b7fdac69047e5c978f09a159a0db29f5f32311eafdf47ddc64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-122-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/122",
+   "short": "HCL Valea lui Mihai nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 122/2025 privind rezilierea unui contract de închiriere locuințe pentru tineri, construite prin programul ANL destinate închirierii, situate în Orașul Valea lui Mihai, strada Hunyadi Janos (Iancu de Hunedoara) ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-122-din-2025.pdf",
+     "sha256": "ce1454a177525c245f9c63e3e211326a6ef6f54b8cb20e87aebed0c58f21f36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-123-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/123",
+   "short": "HCL Valea lui Mihai nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 123/2025 privind prelungirea unor contracte de închiriere locuințe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-123-din-2025.pdf",
+     "sha256": "c7b06c5b7d4dd78cd240239e980de95cfe961ea6ab620cf341f400b51ee425fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-124-2025",
    "path": "local/bihor/valea-lui-mihai/2025/124",
    "short": "HCL Valea lui Mihai nr. 124/2025",
@@ -44,6 +389,21 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-nr-124-din-2025.pdf",
      "sha256": "fe81ee99dc61038cc0b48462d2d85d9bbb732ca768885b1a0fa3d835446e23e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-17-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/17",
+   "short": "HCL Valea lui Mihai nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 17/2025 privind aprobarea unor măsuri pentru asigurarea conducerii interimare a Centrului de asistenţă medico-socială – Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H017-din-2025.pdf",
+     "sha256": "bd4d98fa93c3c4127cf3c3287396cb5d81092a6bd7f1bcc3bbe90574f8d2f447"
     }
    ]
   },
@@ -63,6 +423,231 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-21-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/21",
+   "short": "HCL Valea lui Mihai nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 21/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 20 martie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-21-din-2025.pdf",
+     "sha256": "1b8fe2940c6cdfbda9998fe8af3381dadb4702fb82ec45e5524eda9849bb2c93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-22-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/22",
+   "short": "HCL Valea lui Mihai nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 22/2025 privind aprobarea bugetului Oraşului Valea lui Mihai pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-22-din-2025.pdf",
+     "sha256": "199d4c56b9a39b533d8d08f8f3bd6ce90a888ca13886b40af40229f01cc7c619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-23-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/23",
+   "short": "HCL Valea lui Mihai nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 23/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/Hot-nr-23-din-2025.pdf",
+     "sha256": "e3bfa66e0128ad00a2248f2f549d3ce71ec085d8f640b456a1fa5aad2d3e5ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-24-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/24",
+   "short": "HCL Valea lui Mihai nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 24/2025 privind desemnarea reprezentanților Consiliului Local al Orașului Valea lui Mihai în comisia de analiză și selecționare a proiectelor pentru atribuirea contractelor de finanțare nerambursabilă acordată din bugetul Orașului Valea lui Mihai Consiliul Local al Orașului Valea lui Mihai, întrunit în ședința ordinară din data de 20 martie 2025, Având în vedere: - Proiectul de hotărâre privind desemnarea",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-24-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-24-din-2025.pdf",
+     "sha256": "7d9684a670d134df258e26f3ee718477b949f8660d6aa8485cabda130ce827b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-26-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/26",
+   "short": "HCL Valea lui Mihai nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 26/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-26-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-26-din-2025.pdf",
+     "sha256": "d40711046ff3fd751bbb633da6117936acc1549451433562a96e59fea94d8ec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-27-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/27",
+   "short": "HCL Valea lui Mihai nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 27/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-27-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-27-din-2025.pdf",
+     "sha256": "5b7614e0f433c4d68da10b5fd96351c95b8fe7461a01d6d4c833cc007cac6296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-29-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/29",
+   "short": "HCL Valea lui Mihai nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 29/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 17 aprilie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/04/H-nr-29-din-2025.pdf",
+     "sha256": "3fb91267bb80ab4b6d102e0f1b4233b9481475615f437046e54818bd6413a2e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-30-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/30",
+   "short": "HCL Valea lui Mihai nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 30/2025 privind aprobarea Proceselor verbale ale şedinţelor anterioare ale Consiliului Local al Orașului Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/04/H-nr-30-din-2025.pdf",
+     "sha256": "77af41374bd96560ea45d0bee0fb8954db3009ed48fbe12cdca15c0aff2a40a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-31-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/31",
+   "short": "HCL Valea lui Mihai nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 31/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/04/H-nr-31-din-2025.pdf",
+     "sha256": "0da51f08c9bb19443a54ef16cae33455342b63ab07137c3deb4c2078d49d7c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-32-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/32",
+   "short": "HCL Valea lui Mihai nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 32/2025 privind rezilierea unui contract de închiriere locuințe pentru tineri, construite prin programul ANL destinate închirierii, situate în Orașul Valea lui Mihai, strada Hunyadi Janos (Iancu de Hunedoara) ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/04/H-nr-32-din-2025.pdf",
+     "sha256": "a1bffc425f8841500195a3c0e67bbdd8948cc5c1fec3ce92b7a773ffc17b20d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-33-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/33",
+   "short": "HCL Valea lui Mihai nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 33/2025 privind aprobarea listei de soluționare a cererilor de locuinţe şi stabilirea ordinii de prioritate pentru repartizarea locuinţelor pentru tineri, construite prin programul ANL destinate închirierii în oraşul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/04/H-nr-33-din-2025.pdf",
+     "sha256": "c9895c7b87dfa7f90a9be5f0a923f9c25c68a9fae8af1b2d3477ed30990404d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-34-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/34",
+   "short": "HCL Valea lui Mihai nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 34/2025 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/04/H-nr-34-din-2025.pdf",
+     "sha256": "2c049e799d74bce9328317fbd9066c13f7b8e3192172c104dd877ae1c3bbb17c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-35-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/35",
+   "short": "HCL Valea lui Mihai nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 35/2025 privind aprobarea Ordinii de zi a şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 22 mai 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-35-din-2025.pdf",
+     "sha256": "f82b39ade9a5a55b6f16d82ec53bf88ad5c0d9adc453e20f7eff1475fc6aed07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-38-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/38",
+   "short": "HCL Valea lui Mihai nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 38/2025 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-38-din-2025.pdf",
+     "sha256": "90dd298f4d22e099e29b68055374024613e667abf304ec6d20ed87a49fe21711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-39-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/39",
+   "short": "HCL Valea lui Mihai nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 39/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 28 mai 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-39-din-2025.pdf",
+     "sha256": "9a81245d68915005b962d655307fecf3b85afda9ebc821edda1c0f772e917a7e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-41-2025",
    "path": "local/bihor/valea-lui-mihai/2025/41",
    "short": "HCL Valea lui Mihai nr. 41/2025",
@@ -78,6 +663,546 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-42-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/42",
+   "short": "HCL Valea lui Mihai nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 42/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Oraşului Valea lui Mihai, pentru anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-42-din-2025.pdf",
+     "sha256": "838622cb23f5a531d1a59023097d8912c0f6891055b256e51534bc849dcd17d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-43-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/43",
+   "short": "HCL Valea lui Mihai nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 43/2025 privind rectificarea bugetului Orașului Valea lui Mihai pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-43-din-2025.pdf",
+     "sha256": "b9558a35865d94bae87bb1513ccb40a511f584987596695c82d8fba1fb82b215"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-44-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/44",
+   "short": "HCL Valea lui Mihai nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 44/2025 privind aprobarea contului anual de execuţie al bugetului Oraşului Valea lui Mihai, pe secţiunea de funcţionare şi pe secţiunea de dezvoltare, aferent anului 2024 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-44-din-2025.pdf",
+     "sha256": "cc086ee726839f1bee7fa2463be3bcfaaa3be3a88e66333a113928865d6f45fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-45-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/45",
+   "short": "HCL Valea lui Mihai nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 45/2025 privind repartizarea unor locuințe pentru tineri, construite prin programul ANL destinate închirierii în Orașul Valea lui Mihai, strada Hunyadi Janos (Iancu de Hunedoara) ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-45-din-2025.pdf",
+     "sha256": "6b65501e4d099b276da2dcb09a1ae2043ecfd70086e2841d9ff62ce78a7762e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-46-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/46",
+   "short": "HCL Valea lui Mihai nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 46/2025 privind prelungirea unor contracte de închiriere locuințe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-46-din-2025.pdf",
+     "sha256": "bb17c2aea3e6c804b467448929ab53ed4f0f54891732e080587d382f8363ca1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-48-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/48",
+   "short": "HCL Valea lui Mihai nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 48/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-48-din-2025.pdf",
+     "sha256": "5e5658c9cdfa0ce2c35ee780c83248299d61f1bd7b47c8750122829117602b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-50-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/50",
+   "short": "HCL Valea lui Mihai nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 50/2025 privind aprobarea participării la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-50-din-2025.pdf",
+     "sha256": "4436c88a81867b68f9a6e14b84a0a0d49fa5d3bbe3ea5526f2cf1c01c9931b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-51-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/51",
+   "short": "HCL Valea lui Mihai nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 51/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-51-din-2025.pdf",
+     "sha256": "fbadfc421435fa40c2831556c6ce8fea986b81a909fd9751574a4eb766232d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-52-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/52",
+   "short": "HCL Valea lui Mihai nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 52/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-52-din-2025.pdf",
+     "sha256": "a6a8a43799dc944a95571c56864c9bf4e10876bdb72a9aaab46caa8d806774e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-54-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/54",
+   "short": "HCL Valea lui Mihai nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 54/2025 Nr.54 din 11 iunie 2025 privind aprobarea contractării unui împrumut în valoare de 1.250.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/06/hotarare-imprumut-MF-2025-iunie-1.pdf",
+     "sha256": "6c21124e05a33f01783d6dcccc017c07117ed2299eb813882b02677b913b2b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-55-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/55",
+   "short": "HCL Valea lui Mihai nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 55/2025 privind aprobarea contractării unei finanțări rambursabile interne în valoare maximă de 1.250.000,00 lei, în vederea asigurării cheltuielilor neeligibile pentru investițiile de interes public local finanțate din fonduri europene nerambursabile ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/06/hotarare-contractare-imprumut-banca-2025.pdf",
+     "sha256": "fda0d5a85e818ae244f79ab1b9a6f573b2466faed89543167db9b0dc799f9768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-56-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/56",
+   "short": "HCL Valea lui Mihai nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 56/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 30 iunie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-56-din-2025.pdf",
+     "sha256": "9d3c1243b0ca7615cd6eb570adf6370b8040037b528b90d4b9a7805c66378689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-57-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/57",
+   "short": "HCL Valea lui Mihai nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 57/2025 privind aprobarea Procesului verbal al şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai din data de 22 mai 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-57-din-2025.pdf",
+     "sha256": "8c883361f35fe5e788480e848846e4e0f577226fe99d9acfda4116c6ebda54b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-58-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/58",
+   "short": "HCL Valea lui Mihai nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 58/2025 privind aprobarea documentației tehnico-economice - faza Proiect Tehnic, a Devizului centralizator și a descrierii sumare a investiției „Producție energie electrică din surse regenerabile de tip solar și împrejmuire teren” Consiliul Local al Orașului Valea lui Mihai, întrunit în ședința ordinară din data de 30 iunie 2025, Având în vedere: - Proiectul de hotărâre privind aprobarea documentației teh",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-58-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-58-din-2025.pdf",
+     "sha256": "b33e256d0b190e932aac9d37dd947e65e07d1d453b862efcec6d8ed2638bde4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-59-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/59",
+   "short": "HCL Valea lui Mihai nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 59/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-59-din-2025.pdf",
+     "sha256": "e3486e4b7439152b48feeff938a2296e9be246d826ac9f736d25b09577e26a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-60-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/60",
+   "short": "HCL Valea lui Mihai nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 60/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-60-din-2025.pdf",
+     "sha256": "3dea3b7faaffcfea39891c1d698239329c3bd11b42a0d54b6e01c41c2b1471c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-61-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/61",
+   "short": "HCL Valea lui Mihai nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 61/2025 privind aprobarea Programului de subvenționare a acțiunilor de microcipare şi sterilizare a câinilor cu stăpân care aparțin rasei comune sau a metișilor acestora aflați pe teritoriul UAT Oraş Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-61-din-2025.pdf",
+     "sha256": "710d41a07121a164075c4a73be61a4f499466f5b4c3c0674efd821bccde13bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-63-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/63",
+   "short": "HCL Valea lui Mihai nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 63/2025 privind împuternicirea primarului orașului Valea lui Mihai pentru realizarea demersurilor pentru obținerea, negocierea, semnarea și ridicarea licenței de explorare în perimetrul geotermal Orașul Valea lui Mihai, în scopul exploatării zăcământului de apă geotermal",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-63-din-2025.pdf",
+     "sha256": "9d766f1fbd688b6ade3f4a2909b610f816672950e004126408885079dbc8bc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-64-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/64",
+   "short": "HCL Valea lui Mihai nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 64/2025 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-64-din-2025.pdf",
+     "sha256": "c9b1d3e79fc93993ce33226f93d47518b5b7e777ee75f82162f2bedbecf40f95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-65-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/65",
+   "short": "HCL Valea lui Mihai nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 65/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/07/H-nr-65-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/H-nr-65-din-2025.pdf",
+     "sha256": "57824a67f8a9cfcbb455400147e941cc75a4c161bb14b7c009ce1d705b0a53bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-66-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/66",
+   "short": "HCL Valea lui Mihai nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 66/2025 privind rectificarea bugetului Orașului Valea lui Mihai pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/H-nr-66-din-2025.pdf",
+     "sha256": "68eacfa1bb64308c96877868341176a6fe60a1dfba8a2322e56396dc95ab3057"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-67-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/67",
+   "short": "HCL Valea lui Mihai nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 67/2025 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-67-din-2025.pdf",
+     "sha256": "6aa5aeb3b6b1cdc2d6b9426739d2ae8962ff12d0f86430bae21b8145e5c92c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-68-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/68",
+   "short": "HCL Valea lui Mihai nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 68/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-68-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-68-din-2025.pdf",
+     "sha256": "7cfa849db116f0e281f57502d20ff8de026f64e68852a5078e13023cf05bd157"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-69-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/69",
+   "short": "HCL Valea lui Mihai nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 69/2025 privind aprobarea contractării unei finanțări rambursabile interne în valoare maximă de 1.250.000,00 lei, în vederea realizării investiției de interes public local finanțată din fonduri de la bugetul local ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/HCL-nr-69-din-2025.pdf",
+     "sha256": "f0e09685b901d9a792d381f54d7ee27ceb586ae8337362f44d56a9159782dc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-7-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/7",
+   "short": "HCL Valea lui Mihai nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 7/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H-nr-007-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H-nr-007-din-2025.pdf",
+     "sha256": "facfa8da21c4ab4ff5d02ad7025809147ef40c2aadb3348539b2326ad3d037bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-70-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/70",
+   "short": "HCL Valea lui Mihai nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 70/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 31 iulie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/HCL-nr-70-din-2025.pdf",
+     "sha256": "78d1f2b467a819456ba7d026ad8631501259a4c1a497635451aa5588f343bd44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-72-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/72",
+   "short": "HCL Valea lui Mihai nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 72/2025 privind rezilierea unor contracte de închiriere locuințe pentru tineri, construite prin programul ANL destinate închirierii, situate în Orașul Valea lui Mihai, strada Hunyadi Janos (Iancu de Hunedoara) ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/HCL-nr-72-din-2025.pdf",
+     "sha256": "58b70a534d59e4caa0329fbdefd1be6b2e92889f77fca75b421b3742c5bb8a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-73-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/73",
+   "short": "HCL Valea lui Mihai nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 73/2025 privind prelungirea unui contract de închiriere locuințe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/HCL-nr-73-din-2025.pdf",
+     "sha256": "7847cc5d912c8767bc9eab6fa40b21de6a5979517cfc7ae9dd2b00fc664c1158"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-74-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/74",
+   "short": "HCL Valea lui Mihai nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 74/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/HCL-nr-74-din-2025.pdf",
+     "sha256": "1b2bb3824011fcd2c8defa0311433bb986d62ca3b5c077aca8c4ab9be4e95000"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-75-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/75",
+   "short": "HCL Valea lui Mihai nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 75/2025 privind aprobarea concesionării prin procedura licitației, a unui bun imobil – teren şi clădire – în suprafață de 35.417 mp, înscris în CF nr.51501 Valea lui Mihai, situat în intravilanul Oraşului Valea lui Mihai, care aparține domeniului public al Oraşului Valea",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/HCL-75-din-2025.pdf",
+     "sha256": "0b1b69377f9675a12cf1b96e03c64625b46a9631dec40061e95b39c4786f4102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-76-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/76",
+   "short": "HCL Valea lui Mihai nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 76/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 28 august 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-76-din-28-august-2025.pdf",
+     "sha256": "0e1c2cbd9f9ab2ee97ec96fd5baad0cc2e1c4b9ce3582640266d076d14b0f1f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-77-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/77",
+   "short": "HCL Valea lui Mihai nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 77/2025 privind aprobarea Procesului verbal al şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai din data de 11 iunie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-77-din-28-august-2025.pdf",
+     "sha256": "5e125c26ba6f7e0ba878b3c0c6239052e0670cce1935b06d07def863dfd65cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-78-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/78",
+   "short": "HCL Valea lui Mihai nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 78/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-78-din-28-august-2025.pdf",
+     "sha256": "426798387d3924a44f37ed28e39e7a8986c9103d8e281f887f17133e80f2ba8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-79-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/79",
+   "short": "HCL Valea lui Mihai nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 79/2025 privind rectificarea bugetului Orașului Valea lui Mihai pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-79-din-28-august-2025.pdf",
+     "sha256": "bd0e71326a56a4d5859d0f4b9402678454a63f7166a40fc13c79a089d7712a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-8-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/8",
+   "short": "HCL Valea lui Mihai nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 8/2025 privind participarea Orașului Valea lui Mihai la Programul vizând ”Îmbunătățirea infrastructurii liceelor cu profil agricol”, prin PNRR\\ Pilonul VI în cadrul proiectului „Dezvoltarea Liceului Tehnologic nr.1 din Valea lui Mihai.” Consiliul Local al Orașului Valea lui Mihai, întrunit în ședința extraordinară, convocată de îndată, din data de 13 februarie 2025, Având în vedere: - Proiectul de hotărâ",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H-nr-008-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H-nr-008-din-2025.pdf",
+     "sha256": "edd264c79c6d9543db570cdae1331e3d41db76dac298b3df107dda3b7dc10862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-80-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/80",
+   "short": "HCL Valea lui Mihai nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 80/2025 privind modificarea cuantumului lunar al contribuției de întreținere în Centrul de asistență medico-socială Valea lui Mihai, datorată de persoanele asistate sau de susținătorii legali ai acestora ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-80-din-28-august-2025.pdf",
+     "sha256": "365b810a175fe421d41cdcbee2362f6c0f7573e8120393d47fdf4d078878d859"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-81-2025",
    "path": "local/bihor/valea-lui-mihai/2025/81",
    "short": "HCL Valea lui Mihai nr. 81/2025",
@@ -89,6 +1214,231 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-81-din-2025.pdf",
      "sha256": "94d3fa0c22681e3ca53085f6a87f2492f544ece8b6174988cd4449b9dcb6b32c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-82-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/82",
+   "short": "HCL Valea lui Mihai nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 82/2025 privind actualizarea Planului de analiză şi acoperire a riscurilor în Oraşul Valea lui Mihai, pentru anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-82-din-2025.pdf",
+     "sha256": "07d49913cba9bc6b129093006f11ef6f2043ce4ed6c9996131358718e7579b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-83-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/83",
+   "short": "HCL Valea lui Mihai nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 83/2025 privind aprobarea Planului de asigurare a resurselor umane, materiale şi financiare pentru gestionarea situaţiilor de urgenţă din oraşul Valea lui Mihai, pe anul 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-83-din-28-august-2025-1.pdf",
+     "sha256": "aead1668a5281d8da0f8d36d3ff3d7b26e5be898bfbb9de690ce9e9c57d2658b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-84-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/84",
+   "short": "HCL Valea lui Mihai nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 84/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-84-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-84-din-2025.pdf",
+     "sha256": "126a06dc14291f1b3de60a1b4d471dfc99050ea64a82f1aac84672a6b3b4354a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-85-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/85",
+   "short": "HCL Valea lui Mihai nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 85/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-85-din-28-august-2025-1.pdf",
+     "sha256": "3dbcf7db11e1ce8d560668fdb0148fb829c835c62fc99dd83ad84710ae629dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-86-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/86",
+   "short": "HCL Valea lui Mihai nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 86/2025 privind aprobarea listei de soluţionare a cererilor de locuinţe şi stabilirea ordinii de prioritate pentru repartizarea locuinţelor pentru tineri, construite prin programul ANL destinate închirieriiîn oraşul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-86-din-28-august-2025-1.pdf",
+     "sha256": "eb369f8c390cb08eaa693ba569b929c8021c37bd26b47ca2af74893a2b9bd587"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-88-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/88",
+   "short": "HCL Valea lui Mihai nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 88/2025 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-88-din-28-august-2025-1.pdf",
+     "sha256": "a380f832a0441dc1519e86f65c3b644a0ef303d7695f4a64dbd08d025ccacd1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-91-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/91",
+   "short": "HCL Valea lui Mihai nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 91/2025 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 30 septembrie 2025 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-91-din-30-sept-2025.pdf",
+     "sha256": "58c89813f22af8b3a24f00ea807a5bbc01edbb057c6a01820ae5a732003a49b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-92-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/92",
+   "short": "HCL Valea lui Mihai nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 92/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-92-din-30-sept-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-92-din-30-sept-2025.pdf",
+     "sha256": "41f025d4ce2ce6d9de8c19812e70ce46d18128c87af5870470c9efab9af506c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-93-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/93",
+   "short": "HCL Valea lui Mihai nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 93/2025 privind desemnarea reprezentanţilor Consiliului Local al Oraşului Valea lui Mihai în Consiliul de administraţie al unităţilor de învăţământ preuniversitar din oraşul Valea lui Mihai şi în Comisia pentru evaluarea şi asigurarea calităţii educaţiei în unităţile din",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-93-din-30-sept-2025.pdf",
+     "sha256": "583b4a2df7c2bf3906d246077e4bc63e9eae5cf8fb1e95d592eb306fb1ed89b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-94-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/94",
+   "short": "HCL Valea lui Mihai nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 94/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-94-din-30-sept-2025.pdf",
+     "sha256": "e58ce25c87eb6683f9d10dfc5e51aac2e2383c1eb53ae6d1d431c69900b197ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-95-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/95",
+   "short": "HCL Valea lui Mihai nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 95/2025 privind implementarea proiectului „Dotarea serviciilor publice locale ale Orașului Valea lui Mihai cu utilaje moderne pentru întreținerea spațiilor publice” Consiliul Local al Orașului Valea lui Mihai, întrunit în ședința ordinară din data de 30 septembrie 2025, Având în vedere: - Proiectul de hotărâre privind implementarea proiectului „Dotarea serviciilor publice locale ale Orașului Valea lui Mih",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-95-din-30-sept-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-95-din-30-sept-2025.pdf",
+     "sha256": "10e544ac9843fd93890860c2884c350c984ce717d0e6dcd5d25d30ca3631bc7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-96-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/96",
+   "short": "HCL Valea lui Mihai nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 96/2025 privind mandatarea Primarului Oraşului Valea lui Mihai pentru numirea Comisiei de evaluare a ofertelor în vederea concesionării prin procedura licitației, a bunului imobil – teren şi clădire – în suprafață de 35.417 mp., înscris în CF nr.51501 Valea lui Mihai, si",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-96-din-30-sept-2025.pdf",
+     "sha256": "0b913e532848aa3ae8e82bd00c56efd2ff134eeb889b99714b5afc1464f95ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-97-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/97",
+   "short": "HCL Valea lui Mihai nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 97/2025 privind aprobarea modificării și completării Contractului de delegare a gestiunii serviciului de transport public local de călători în Orașul Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-97-din-30-sept-2025.pdf",
+     "sha256": "a27f92db78980f2cc4905b85892eb5e34ee1fba9a56e18f9489cac3a17cdf8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-98-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/98",
+   "short": "HCL Valea lui Mihai nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 98/2025 privind aprobarea documentației tehnico-economice – faza Proiect Tehnic, a Devizului General actualizat și a descrierii sumare a investiției „Modernizare, extindere și retehnologizare gospodărie de apă în localitatea Valea lui Mihai, județul Bihor” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/10/H-nr-98-din-30-sept-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/H-nr-98-din-30-sept-2025.pdf",
+     "sha256": "9ff6f3b038bd790777cf915c5b6ebc3a8523eecb5bd73e0c5e1428e9980b7292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-99-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/99",
+   "short": "HCL Valea lui Mihai nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 99/2025",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-99-din-30-sept-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-99-din-30-sept-2025.pdf",
+     "sha256": "4068c947f9f20de6112f20728e3ea61d58337fce4e762c2ac5aa78848afc2121"
     }
    ]
   }

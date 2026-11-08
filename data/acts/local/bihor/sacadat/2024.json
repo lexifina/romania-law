@@ -3,6 +3,50 @@
 "shard": "local/bihor/sacadat/2024",
 "acts": [
 {
+"slug": "hcl-bihor--sacadat-1-2024",
+"path": "local/bihor/sacadat/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 1/2024 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 20.12.2023",
+"short": "HCL Săcădat nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/140212",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-2-2024",
+"path": "local/bihor/sacadat/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 2/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 31.01.2024",
+"short": "HCL Săcădat nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/140213",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-3-2024",
 "path": "local/bihor/sacadat/2024/3",
 "kind": "local",
@@ -47,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-5-2024",
+"path": "local/bihor/sacadat/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 5/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 28.02.2024",
+"short": "HCL Săcădat nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/145442",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-6-2024",
+"path": "local/bihor/sacadat/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 6/2024 privind aprobarea Planului de Asigurare cu Resurse Financiare, Materiale și Umane necesare pentru gestionarea situatiilor de urgență în anul 2024 în comuna Săcădat",
+"short": "HCL Săcădat nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/145443",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-7-2024",
+"path": "local/bihor/sacadat/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 7/2024 privind aprobarea Planului de Analiză și Acoperire a Riscurilor la nivelul comunei Săcădat pe anul 2024",
+"short": "HCL Săcădat nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/145444",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-8-2024",
 "path": "local/bihor/sacadat/2024/8",
 "kind": "local",
@@ -66,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-9-2024",
+"path": "local/bihor/sacadat/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 9/2024 privind aprobarea cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale \" Administrație \" din cadrul aparatului de specialitate al primarului Comunei Săcădat și al Serviciului Public Comunitar Local de Evidență a Persoanelor Săcădat",
+"short": "HCL Săcădat nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/145446",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +223,94 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-11-2024",
+"path": "local/bihor/sacadat/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 11/2024 privind aprobarea documentației cadastrale pentru constituirea unui număr cadastral, respectiv înființarea unei coli funciare și trecerea acestuia în domeniul public al comunei Săcădat, cu destinația drum",
+"short": "HCL Săcădat nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/145448",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-12-2024",
+"path": "local/bihor/sacadat/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 12/2024 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+"short": "HCL Săcădat nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/153266",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-13-2024",
+"path": "local/bihor/sacadat/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 13/2024 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 28.02.2024",
+"short": "HCL Săcădat nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/153267",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-14-2024",
+"path": "local/bihor/sacadat/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 14/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 29.03.2024",
+"short": "HCL Săcădat nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/153268",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-15-2024",
 "path": "local/bihor/sacadat/2024/15",
 "kind": "local",
@@ -110,6 +330,29 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-16-2024",
+"path": "local/bihor/sacadat/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 16/2024",
+"short": "HCL Săcădat nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/153270",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -157,6 +400,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-19-2024",
+"path": "local/bihor/sacadat/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 19/2024 privind aprobarea închirierii pajiștilor aflate în proprietatea privată a Comunei Săcădat, județul Bihor, prin atribuire directă, crescătorilor de animale",
+"short": "HCL Săcădat nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/153273",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-20-2024",
 "path": "local/bihor/sacadat/2024/20",
 "kind": "local",
@@ -198,6 +463,50 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-22-2024",
+"path": "local/bihor/sacadat/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 22/2024 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 29.03.2024",
+"short": "HCL Săcădat nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/157880",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-23-2024",
+"path": "local/bihor/sacadat/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 23/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 29.04.2024",
+"short": "HCL Săcădat nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/157881",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +576,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-27-2024",
+"path": "local/bihor/sacadat/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 27/2024 privind aprobarea organigramei si a statului de funcții al aparatului de specialitate al primarului Comunei Săcădat și ale serviciilor publice de interes local aflate în subordinea Consiliului Local Săcădat",
+"short": "HCL Săcădat nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/157885",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-28-2024",
 "path": "local/bihor/sacadat/2024/28",
 "kind": "local",
@@ -308,6 +639,50 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-30-2024",
+"path": "local/bihor/sacadat/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 30/2024 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 29.04.2024",
+"short": "HCL Săcădat nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/159156",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-31-2024",
+"path": "local/bihor/sacadat/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 31/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 31.05.2024",
+"short": "HCL Săcădat nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/159157",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +730,50 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-34-2024",
+"path": "local/bihor/sacadat/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 34/2024 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 31.05.2024",
+"short": "HCL Săcădat nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/161651",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-35-2024",
+"path": "local/bihor/sacadat/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 35/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 28.06.2024",
+"short": "HCL Săcădat nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/161652",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-36-2024",
 "path": "local/bihor/sacadat/2024/36",
 "kind": "local",
@@ -374,6 +793,50 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-37-2024",
+"path": "local/bihor/sacadat/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 37/2024 privind aprobarea reorganizării aparatului de specialitate al Primarului comunei Săcădat, a organigramei, a statului de funcții și al Regulamentului de organizare și funcționare al aparatului de specialitate, în conformitate cu prevederile Legii nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+"short": "HCL Săcădat nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/161654",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-38-2024",
+"path": "local/bihor/sacadat/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 38/2024 privind aprobarea majorarii cu 10% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale angajatilor din cadrul aparatului de specialitate al Primarului Comunei Săcădat, funcționari publici și personal contractual, și ale serviciilor publice de interes local aflate în subordinea Consiliului Local Săcădat, incepand cu data de 1 iunie 2024",
+"short": "HCL Săcădat nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/161655",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -422,6 +885,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-41-2024",
+"path": "local/bihor/sacadat/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 41/2024 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+"short": "HCL Săcădat nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/163542",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-42-2024",
 "path": "local/bihor/sacadat/2024/42",
 "kind": "local",
@@ -444,6 +929,50 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-43-2024",
+"path": "local/bihor/sacadat/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 43/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 26.07.2024",
+"short": "HCL Săcădat nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/163544",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-44-2024",
+"path": "local/bihor/sacadat/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 44/2024 privind aprobarea prelungirii până la data de 23.12.2024 a Scrisorii de garantare de la FNGCIMM SA IFN nr. 868/13.10.2017 in suma de 1.815.600 lei în vederea garantării în procent de 100% a obligațiilor de plată a avansului de 1.815.600 lei din fondurile nerambursabile pentru implementarea proiectului “ Extindere infrastructură de apă uzată în Comuna Săcădat județul Bihor”",
+"short": "HCL Săcădat nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/163545",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-45-2024",
 "path": "local/bihor/sacadat/2024/45",
 "kind": "local",
@@ -463,6 +992,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-46-2024",
+"path": "local/bihor/sacadat/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 46/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 29.08.2024",
+"short": "HCL Săcădat nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/167977",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -510,6 +1061,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-49-2024",
+"path": "local/bihor/sacadat/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 49/2024 privind aprobarea Statutului „Asociației Grup de Acțiune Locală ZMO DEALUL ȘOMLEU”",
+"short": "HCL Săcădat nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/167980",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-50-2024",
 "path": "local/bihor/sacadat/2024/50",
 "kind": "local",
@@ -532,6 +1105,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-51-2024",
+"path": "local/bihor/sacadat/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 51/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 24.09.2024",
+"short": "HCL Săcădat nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/170102",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-52-2024",
 "path": "local/bihor/sacadat/2024/52",
 "kind": "local",
@@ -551,6 +1146,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-53-2024",
+"path": "local/bihor/sacadat/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 53/2024 privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investiții „IMBUNATAȚIREA INFRASTRUCTURII TEHNICO-EDILITARE ÎN COMUNA SĂCĂDAT-INFIINTARE SISTEM DE ALIMENTARE CU APA IN LOCALITATEA SĂBOLCIU”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Săcădat nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/170104",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -598,6 +1215,51 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-56-2024",
+"path": "local/bihor/sacadat/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 56/2024 privind aprobarea ordinei de zi a sedintei extraordinare din data de 30.09.2024",
+"short": "HCL Săcădat nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/173336",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-57-2024",
+"path": "local/bihor/sacadat/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 57/2024",
+"short": "HCL Săcădat nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/173337",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-58-2024",
 "path": "local/bihor/sacadat/2024/58",
 "kind": "local",
@@ -617,6 +1279,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-59-2024",
+"path": "local/bihor/sacadat/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 59/2024 privind aprobarea ordinei de zi a sedintei ordinare din data de 22.10.2024",
+"short": "HCL Săcădat nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/174423",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,162 @@
 "shard": "local/bihor/tauteu/2023",
 "acts": [
 {
+"slug": "hcl-bihor--tauteu-1-2023",
+"path": "local/bihor/tauteu/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 1/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 31 ianuarie 2023",
+"short": "HCL Tăuteu nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97883",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-2-2023",
+"path": "local/bihor/tauteu/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 2/2023 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97884",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-3-2023",
+"path": "local/bihor/tauteu/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 3/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 23 decembrie 2022",
+"short": "HCL Tăuteu nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97885",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-4-2023",
+"path": "local/bihor/tauteu/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 4/2023 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe anul 2022",
+"short": "HCL Tăuteu nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97886",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-5-2023",
+"path": "local/bihor/tauteu/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 5/2023",
+"short": "HCL Tăuteu nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97887",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-6-2023",
+"path": "local/bihor/tauteu/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 6/2023",
+"short": "HCL Tăuteu nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97888",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-7-2023",
+"path": "local/bihor/tauteu/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 7/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate de la bugetul local al comunei Tăuteu, județul Bihor, pentru anul 2023",
+"short": "HCL Tăuteu nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97889",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-8-2023",
 "path": "local/bihor/tauteu/2023/8",
 "kind": "local",
@@ -22,6 +178,139 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-9-2023",
+"path": "local/bihor/tauteu/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 9/2023 privind aprobarea documentației cadastrale pentru teren intravilan situat în localitatea Ciutelec, comuna Tăuteu, județul Bihor, Nr. topo 1389/4 și Nr. Topo 1396, în suprafață de 1 840 mp, categoria de folosință ”arabil”, cu propunerea de constituire de număr cadastral pentru acest imobil",
+"short": "HCL Tăuteu nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97891",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-10-2023",
+"path": "local/bihor/tauteu/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 10/2023 privind aprobarea documentației cadastrale pentru teren intravilan situat în localitatea Bogei, comuna Tăuteu, județul Bihor, Nr. topo 1389/4 și Nr. topo 1396, în suprafață de 6 448 mp, categoria de folosință ”arabil”, cu propunerea de constituire de număr cadastral pentru acest imobil",
+"short": "HCL Tăuteu nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97892",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-11-2023",
+"path": "local/bihor/tauteu/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 11/2023 privind aprobarea documentației cadastrale pentru teren intravilan situat în localitatea Ciutelec, comuna Tăuteu, județul Bihor, Nr. topo 335, Nr. topo 374, Nr. topo 1389/4, Nr. topo 1396 și Nr. topo 1397, în suprafață de 31 800 mp, categoria de folosință ”arabil”, cu propunerea de constituire de număr cadastral pentru acest imobil",
+"short": "HCL Tăuteu nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97893",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-12-2023",
+"path": "local/bihor/tauteu/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 12/2023",
+"short": "HCL Tăuteu nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97894",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-13-2023",
+"path": "local/bihor/tauteu/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 13/2023 privind aprobarea bugetului local de venituri şi cheltuieli al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97895",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-14-2023",
+"path": "local/bihor/tauteu/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 14/2023 privind stadiul de înscriere a datelor în Registrul agricol al comunei Tăuteu, județul Bihor, pentru semestrul II al anului 2022 și stabilirea măsurilor pentru eficientizarea acestei activități în anul 2023",
+"short": "HCL Tăuteu nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97896",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +336,998 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-16-2023",
+"path": "local/bihor/tauteu/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 16/2023 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97898",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-17-2023",
+"path": "local/bihor/tauteu/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 17/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Tăuteu nr. 93/06 noiembrie 2020 privind instituirea taxei speciale de salubrizare și aprobarea Regulamentului cu privire la instituirea și administrarea taxei speciale de salubrizare în comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97899",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-18-2023",
+"path": "local/bihor/tauteu/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 18/2023 privind susţinerea financiară şi finalizarea investiţiei în termen şi aprobarea indicatorilor economico-financiari pentru proiectul “Modernizare Camin Cultural în localitatea Ciutelec, comuna Tăuteu, județul Bihor”",
+"short": "HCL Tăuteu nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97900",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-19-2023",
+"path": "local/bihor/tauteu/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 19/2023 privind aprobarea încheierii unui Protocol de colaborare cu Ministerul Muncii și Solidarității Sociale (MMSS) în cadrul proiectului ”HUB de servicii MMSS – SII MMSS”, Cod MySmis 130963",
+"short": "HCL Tăuteu nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97901",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-20-2023",
+"path": "local/bihor/tauteu/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 20/2023 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 22 februarie 2023",
+"short": "HCL Tăuteu nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97903",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-21-2023",
+"path": "local/bihor/tauteu/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 21/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici inițiali și actualizați, precum și a devizului general al obiectivului de investiții inițial și actualizat:\"CONSTRUIRE POD PESTE BISTRA ÎN LOCALITATEA BOGEI, COMUNA TĂUTEU, JUDEȚUL BIHOR\"",
+"short": "HCL Tăuteu nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97904",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-22-2023",
+"path": "local/bihor/tauteu/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 22/2023 privind aprobarea categoriilor de cheltuieli finanțate de la bugetul local pentru obiectivul de investiții: \"CONSTRUIRE POD PESTE BISTRA ÎN LOCALITATEA BOGEI, COMUNA TĂUTEU, JUDEȚUL BIHOR\"",
+"short": "HCL Tăuteu nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97905",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-23-2023",
+"path": "local/bihor/tauteu/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 23/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 28 februarie 2023",
+"short": "HCL Tăuteu nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97921",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-24-2023",
+"path": "local/bihor/tauteu/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 24/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 31 ianuarie 2023",
+"short": "HCL Tăuteu nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97922",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-25-2023",
+"path": "local/bihor/tauteu/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 25/2023 privind însuşirea Raportului anual al Primarului privind starea economică, socială şi de mediu a comunei Tăuteu, județul Bihor, pe anul 2022",
+"short": "HCL Tăuteu nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97923",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-26-2023",
+"path": "local/bihor/tauteu/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 26/2023 privind însușirea Raportului Primarului comunei Tăuteu cu privire la ducerea la îndeplinire a Hotărârilor Consiliului Local al comunei Tăuteu, adoptate în anul 2022",
+"short": "HCL Tăuteu nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97924",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-27-2023",
+"path": "local/bihor/tauteu/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 27/2023 privind aprobarea Planului de asigurare cu resurse umane, materiale şi financiare pentru gestionarea situaţiilor de urgenţă în comuna Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97925",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-28-2023",
+"path": "local/bihor/tauteu/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 28/2023 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor în comuna Tăuteu, judeţul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97926",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-29-2023",
+"path": "local/bihor/tauteu/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 29/2023 privind aprobarea reorganizării Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Tăuteu şi aprobarea Regulamentului de organizare şi funcţionare a Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97927",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-30-2023",
+"path": "local/bihor/tauteu/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 30/2023 privind aprobarea Analizei apărării împotriva incendiilor pe anul 2022 și a Planului de măsuri în domeniul apărării împotriva incendiilor pe raza comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97928",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-31-2023",
+"path": "local/bihor/tauteu/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 31/2023 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97929",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-32-2023",
+"path": "local/bihor/tauteu/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 32/2023 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97930",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-33-2023",
+"path": "local/bihor/tauteu/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 33/2023 privind aprobarea documentației cadastrale pentru teren intravilan situat în localitatea Chiribiș, comuna Tăuteu, județul Bihor, Nr. topo 467/3, Nr. topo 467/4, Nr. topo 467/14, Nr. topo 468/1, Nr. topo 476/3, Nr. topo 476/4, Nr. topo 476/20, Nr. topo 477/3 și Nr. topo 478/11, în suprafață de 11 700 mp, categoria de folosință ”drum”, cu propunerea de constituire de număr cadastral pentru acest imobil",
+"short": "HCL Tăuteu nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97931",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-34-2023",
+"path": "local/bihor/tauteu/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 34/2023 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu din data de 22 februarie 2023",
+"short": "HCL Tăuteu nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97932",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-35-2023",
+"path": "local/bihor/tauteu/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 35/2023 privind aprobarea participării unității administrativ-teritoriale comuna Tăuteu în cadrul Proiectului ”MODERNIZAREA REȚELEI DE BIBLIOTECI A JUDEȚULUI BIHOR PENTRU A DEVENI HUB-URI DE DEZVOLTARE A COMPETENȚELOR DIGITALE, din cadrul Planului Național de Redresare și Reziliență (PNRR) în parteneriat cu UAT-rile din județul Bihor”",
+"short": "HCL Tăuteu nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97933",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-36-2023",
+"path": "local/bihor/tauteu/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 36/2023 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 13 martie 2023",
+"short": "HCL Tăuteu nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97934",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-37-2023",
+"path": "local/bihor/tauteu/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 37/2023 privind aprobarea participarii la “Componenta C15: Educație, prin Planul Național de Redresare și Reziliență”, a cererii de finantare si a anexelor aferente pentru proiectul ”DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE NR. 1 TĂUTEU”",
+"short": "HCL Tăuteu nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97935",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-38-2023",
+"path": "local/bihor/tauteu/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 38/2023 privind aprobarea participarii la “Componenta C15: Educație, prin Planul Național de Redresare și Reziliență”, a cererii de finantare si a anexelor aferente pentru proiectul ”DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE NR. 2 BOGEI”",
+"short": "HCL Tăuteu nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97936",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-39-2023",
+"path": "local/bihor/tauteu/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 39/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 31 martie 2023",
+"short": "HCL Tăuteu nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108232",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-40-2023",
+"path": "local/bihor/tauteu/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 40/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 28 februarie 2023",
+"short": "HCL Tăuteu nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108233",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-41-2023",
+"path": "local/bihor/tauteu/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 41/2023 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu din data de 13 martie 2023",
+"short": "HCL Tăuteu nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108234",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-42-2023",
+"path": "local/bihor/tauteu/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 42/2023",
+"short": "HCL Tăuteu nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108235",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-43-2023",
+"path": "local/bihor/tauteu/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 43/2023 privind aprobarea completării Programului anual de achiziţii publice al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108236",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-44-2023",
+"path": "local/bihor/tauteu/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 44/2023 privind aprobarea contribuţiei comunei Tăuteu pentru funcţionarea compartimentului de audit intern, înfiinţat în cadrul Filialei Judeţene Bihor a Asociaţiei Comunelor din România",
+"short": "HCL Tăuteu nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108237",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-45-2023",
+"path": "local/bihor/tauteu/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 45/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, prevăzute de ”Programul pentru școli al României”, de către unitatea administrativ-teritorială comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108238",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-46-2023",
+"path": "local/bihor/tauteu/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 46/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 27 aprilie 2023",
+"short": "HCL Tăuteu nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108453",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-47-2023",
+"path": "local/bihor/tauteu/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 47/2023 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108454",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-48-2023",
+"path": "local/bihor/tauteu/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 48/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 31 martie 2023",
+"short": "HCL Tăuteu nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108455",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-49-2023",
+"path": "local/bihor/tauteu/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 49/2023 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe trimestrul I - anul 2023",
+"short": "HCL Tăuteu nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108456",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-50-2023",
+"path": "local/bihor/tauteu/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 50/2023",
+"short": "HCL Tăuteu nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108457",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-51-2023",
+"path": "local/bihor/tauteu/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 51/2023 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108458",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-52-2023",
+"path": "local/bihor/tauteu/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 52/2023 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 19 mai 2023",
+"short": "HCL Tăuteu nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108462",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-53-2023",
+"path": "local/bihor/tauteu/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 53/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA CU CLASELE I-IV TĂUTEU”",
+"short": "HCL Tăuteu nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108464",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-54-2023",
+"path": "local/bihor/tauteu/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 54/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA GENERALĂ CU CLASELE V-VIII TĂUTEU”",
+"short": "HCL Tăuteu nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108466",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-55-2023",
+"path": "local/bihor/tauteu/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 55/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA CU CLASELE I-IV BOGEI”",
+"short": "HCL Tăuteu nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108468",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-56-2023",
+"path": "local/bihor/tauteu/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 56/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA GENERALĂ CU CLASELE V-VIII BOGEI”",
+"short": "HCL Tăuteu nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108470",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-57-2023",
+"path": "local/bihor/tauteu/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 57/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA GENERALĂ ȘI GRĂDINIȚĂ CHIRIBIȘ”",
+"short": "HCL Tăuteu nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108472",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-58-2023",
+"path": "local/bihor/tauteu/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 58/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE PRIMĂRIE”",
+"short": "HCL Tăuteu nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/108474",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-59-2023",
+"path": "local/bihor/tauteu/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 59/2023 aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 23 mai 2023",
+"short": "HCL Tăuteu nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120179",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-60-2023",
+"path": "local/bihor/tauteu/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 60/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 27 aprilie 2023",
+"short": "HCL Tăuteu nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120180",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-61-2023",
 "path": "local/bihor/tauteu/2023/61",
 "kind": "local",
@@ -69,6 +1350,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-62-2023",
+"path": "local/bihor/tauteu/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 62/2023 privind completarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120182",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-63-2023",
 "path": "local/bihor/tauteu/2023/63",
 "kind": "local",
@@ -88,6 +1391,28 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-64-2023",
+"path": "local/bihor/tauteu/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 64/2023 privind schimbarea destinației imobilului cu număr cadastral 50000 Tăuteu, C3 Tăuteu – Anexă și arhivă, înscris în cartea funciară nr. 50000 Tăuteu, aparținând domeniului public al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120184",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +1457,50 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-67-2023",
+"path": "local/bihor/tauteu/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 67/2023 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu din data de 19 mai 2023",
+"short": "HCL Tăuteu nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120187",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-68-2023",
+"path": "local/bihor/tauteu/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 68/2023 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 13 iunie 2023",
+"short": "HCL Tăuteu nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120192",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +1570,72 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-72-2023",
+"path": "local/bihor/tauteu/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 72/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 23 iunie 2023",
+"short": "HCL Tăuteu nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120200",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-73-2023",
+"path": "local/bihor/tauteu/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 73/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 23 mai 2023",
+"short": "HCL Tăuteu nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120201",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-74-2023",
+"path": "local/bihor/tauteu/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 74/2023 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu din data de 13 iunie 2023",
+"short": "HCL Tăuteu nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120202",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-75-2023",
 "path": "local/bihor/tauteu/2023/75",
 "kind": "local",
@@ -245,6 +1680,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-77-2023",
+"path": "local/bihor/tauteu/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 77/2023 privind aprobarea modificării Actului Constitutiv al Societății APĂ CANAL NORD VEST S.A",
+"short": "HCL Tăuteu nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120205",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-78-2023",
+"path": "local/bihor/tauteu/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 78/2023 privind aprobarea modificării actului constitutiv şi a statutului Asociaţiei Intercomunitare Zona Nord – Vest",
+"short": "HCL Tăuteu nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120206",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-79-2023",
 "path": "local/bihor/tauteu/2023/79",
 "kind": "local",
@@ -264,6 +1743,94 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-80-2023",
+"path": "local/bihor/tauteu/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 80/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 31 iulie 2023",
+"short": "HCL Tăuteu nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120236",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-81-2023",
+"path": "local/bihor/tauteu/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 81/2023 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120237",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-82-2023",
+"path": "local/bihor/tauteu/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 82/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 23 iunie 2023",
+"short": "HCL Tăuteu nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120238",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-83-2023",
+"path": "local/bihor/tauteu/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 83/2023 privind aprobarea dizolvării și radierii Asociaţiei de Dezvoltare Intercomunitare GAZ BARCĂU-BISTRA",
+"short": "HCL Tăuteu nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120239",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +1856,94 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-85-2023",
+"path": "local/bihor/tauteu/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 85/2023 privind aprobarea completării Programului anual de achiziţii publice al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120241",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-86-2023",
+"path": "local/bihor/tauteu/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 86/2023 privind însușirea vaiantei finale a proiectului de stemă a comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120242",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-87-2023",
+"path": "local/bihor/tauteu/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 87/2023 privind aprobarea modificării Organigramei și a Statului de funcţii pentru aparatul de specialitate al primarului comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120243",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-88-2023",
+"path": "local/bihor/tauteu/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 88/2023 privind actualizarea Comisiei de analiză a solicitărilor de locuințe sociale pentru comunitatea de romi din localitatea Bogei",
+"short": "HCL Tăuteu nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120244",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-89-2023",
 "path": "local/bihor/tauteu/2023/89",
 "kind": "local",
@@ -308,6 +1963,28 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-90-2023",
+"path": "local/bihor/tauteu/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 90/2023 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe trimestrul II - anul 2023",
+"short": "HCL Tăuteu nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120246",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +2054,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-94-2023",
+"path": "local/bihor/tauteu/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 94/2023 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 08 august 2023",
+"short": "HCL Tăuteu nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120250",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-95-2023",
+"path": "local/bihor/tauteu/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 95/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Tăuteu nr. 63/23 mai 2023 privind aprobarea implementării proiectului ”Achiziționare tocător și accesorii utilaje în comuna Tăuteu, județul Bihor”",
+"short": "HCL Tăuteu nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120251",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-96-2023",
 "path": "local/bihor/tauteu/2023/96",
 "kind": "local",
@@ -396,6 +2117,138 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-97-2023",
+"path": "local/bihor/tauteu/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 97/2023 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120253",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-98-2023",
+"path": "local/bihor/tauteu/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 98/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 31 august 2023",
+"short": "HCL Tăuteu nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120281",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-99-2023",
+"path": "local/bihor/tauteu/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 99/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 31 iulie 2023",
+"short": "HCL Tăuteu nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120282",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-100-2023",
+"path": "local/bihor/tauteu/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 100/2023 privind aprobarea modificării și completării anexei la Hotărârea Consiliului Local nr. 60 din 31 iulie 2017 privind aprobarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primărului comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120283",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-101-2023",
+"path": "local/bihor/tauteu/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 101/2023 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu din data de 08 august 2023",
+"short": "HCL Tăuteu nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120284",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-102-2023",
+"path": "local/bihor/tauteu/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 102/2023 privind aprobarea actualizării Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120285",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +2274,358 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-104-2023",
+"path": "local/bihor/tauteu/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 104/2023 privind aprobarea documentației de dezlipire a imobilului situat în intravilanul localității Tăuteu, cu număr cadastral 50000 Tăuteu, înscris în cartea funciară nr. 50000 Tăuteu, aparținând domeniului public al comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/120287",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-105-2023",
+"path": "local/bihor/tauteu/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 105/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 22 septembrie 2023",
+"short": "HCL Tăuteu nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133069",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-106-2023",
+"path": "local/bihor/tauteu/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 106/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 31 august 2023",
+"short": "HCL Tăuteu nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133070",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-107-2023",
+"path": "local/bihor/tauteu/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 107/2023 privind aprobarea listei de repartizare a locuințelor sociale construite din fondurile Agenției Naționale pentru Locuințe, din comunitatea de romi Bogei, comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133071",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-108-2023",
+"path": "local/bihor/tauteu/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 108/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Tăuteu nr. 92/31 iulie 2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici inițiali și actualizați și a devizului general inițial și actualizat al obiectivului de investiții \"DEZVOLTAREA INFRASTRUCTURII DE APĂ POTABILĂ ÎN COMUNA TĂUTEU, PRIN REALIZAREA UNOR FORAJE, DOTATE CU STAȚII DE TRATARE, ÎNMAGAZINARE ȘI POMPARE\"",
+"short": "HCL Tăuteu nr. 108/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133072",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-109-2023",
+"path": "local/bihor/tauteu/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 109/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Tăuteu nr. 93/31 iulie 2023 privind aprobarea categoriilor de cheltuieli finanțate de la bugetul local pentru obiectivului de investiții \"DEZVOLTAREA INFRASTRUCTURII DE APĂ POTABILĂ ÎN COMUNA TĂUTEU, PRIN REALIZAREA UNOR FORAJE, DOTATE CU STAȚII DE TRATARE, ÎNMAGAZINARE ȘI POMPARE\"",
+"short": "HCL Tăuteu nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133073",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-110-2023",
+"path": "local/bihor/tauteu/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 110/2023 privind desemnarea reprezentantului Consiliului Local al comunei Tăuteu în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Tăuteu",
+"short": "HCL Tăuteu nr. 110/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133074",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-111-2023",
+"path": "local/bihor/tauteu/2023/111",
+"kind": "local",
+"year": "2023",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 111/2023 privind desemnarea reprezentantului Consiliului Local al comunei Tăuteu în Consiliul de Administrație al Școlii Gimnaziale nr. 2 Bogei",
+"short": "HCL Tăuteu nr. 111/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133075",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-112-2023",
+"path": "local/bihor/tauteu/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 112/2023 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133076",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-113-2023",
+"path": "local/bihor/tauteu/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 113/2023 privind aprobarea contractării unei finanțări rambursabile prin credit bancar pentru realizarea unor investiții de interes public local",
+"short": "HCL Tăuteu nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133077",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-114-2023",
+"path": "local/bihor/tauteu/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 114/2023 privind validarea Dispoziției Primarului nr. 125/18 septembrie 2023 privind rectificarea bugetului local al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133078",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-115-2023",
+"path": "local/bihor/tauteu/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 115/2023 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 18 octombrie 2023",
+"short": "HCL Tăuteu nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133202",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-116-2023",
+"path": "local/bihor/tauteu/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 116/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Tăuteu nr. 65/23 mai 2023 privind aprobarea implementării proiectului ”Modernizare clădire și înființarea centrului social multifuncțional în localitatea Tăuteu, comuna Tăuteu, județul Bihor”",
+"short": "HCL Tăuteu nr. 116/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133203",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-117-2023",
+"path": "local/bihor/tauteu/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 117/2023 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 27 octombrie 2023",
+"short": "HCL Tăuteu nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133294",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-118-2023",
+"path": "local/bihor/tauteu/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 118/2023 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 118/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133295",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-119-2023",
+"path": "local/bihor/tauteu/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 119/2023 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 22 septembrie 2023",
+"short": "HCL Tăuteu nr. 119/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133296",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-120-2023",
 "path": "local/bihor/tauteu/2023/120",
 "kind": "local",
@@ -440,6 +2645,50 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-121-2023",
+"path": "local/bihor/tauteu/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 121/2023 privind îndreptarea erorilor materiale din Hotărârea Consiliului Local al comunei Tăuteu nr. 37/30 aprilie 2020 privind avizarea documentației pentru lucrarea Plan Urbanistic Zonal – INTRODUCERE TEREN INTRAVILAN PENTRU CONSTRUIRE SALĂ DE EVENIMENTE ȘI ÎMPREJMUIRE TEREN – comuna Tăuteu, Nr. cadastral 52094, județul Bihor",
+"short": "HCL Tăuteu nr. 121/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133298",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-122-2023",
+"path": "local/bihor/tauteu/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 122/2023 privind aprobarea modificării Organigramei și a Statului de funcţii pentru aparatul de specialitate al primarului comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 122/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133299",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -465,6 +2714,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-124-2023",
+"path": "local/bihor/tauteu/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 124/2023 privind aprobarea completării Programului anual de achiziţii publice al comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 124/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133301",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-125-2023",
 "path": "local/bihor/tauteu/2023/125",
 "kind": "local",
@@ -484,6 +2755,72 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-126-2023",
+"path": "local/bihor/tauteu/2023/126",
+"kind": "local",
+"year": "2023",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 126/2023 privind aprobarea documentaţiei tehnico-economice (faza PT) și a devizului general actualizat pentru faza PT ale obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA CU CLASELE V-VIII TĂUTEU”",
+"short": "HCL Tăuteu nr. 126/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133303",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-127-2023",
+"path": "local/bihor/tauteu/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 127/2023 privind aprobarea documentaţiei tehnico-economice (faza PT) și a devizului general actualizat pentru faza PT ale obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA CU CLASELE I-IV BOGEI”",
+"short": "HCL Tăuteu nr. 127/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133304",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-128-2023",
+"path": "local/bihor/tauteu/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 128/2023 privind aprobarea documentaţiei tehnico-economice (faza PT) și a devizului general actualizat pentru faza PT ale obiectivului de investiții ”REABILITARE TERMOENERGETICĂ PENTRU CLĂDIRE ȘCOALA CU CLASELE V-VIII BOGEI”",
+"short": "HCL Tăuteu nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133305",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

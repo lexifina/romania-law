@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-13-2020",
+   "path": "local/bihor/saniob/2020/13",
+   "short": "HCL Sâniob nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 13/2020 privind darea în folosinţă gratuită către Parohia Ortodoxă Ciuhoi, a unui spațiu din imobilul situat în comuna Saniob, sat Ciuhoi nr.160, in vederea desfășurării de activități tradițional-culturale",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6245",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-14-2020",
    "path": "local/bihor/saniob/2020/14",
    "short": "HCL Sâniob nr. 14/2020",
@@ -633,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-5-2020",
+   "path": "local/bihor/saniob/2020/5",
+   "short": "HCL Sâniob nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 5/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6238",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6238",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-50-2020",
    "path": "local/bihor/saniob/2020/50",
    "short": "HCL Sâniob nr. 50/2020",
@@ -738,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-57-2020",
+   "path": "local/bihor/saniob/2020/57",
+   "short": "HCL Sâniob nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 57/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17459",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17459",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-58-2020",
    "path": "local/bihor/saniob/2020/58",
    "short": "HCL Sâniob nr. 58/2020",
@@ -823,6 +868,36 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/saniob-bh/registru-hcl/17464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-63-2020",
+   "path": "local/bihor/saniob/2020/63",
+   "short": "HCL Sâniob nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 63/2020 privind desemnarea reprezentanților Consiliului local al comunei Sâniob în Consiliul de Administrație al Școlii Gimnaziale „Szent Istavan„ Sâniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17465",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-64-2020",
+   "path": "local/bihor/saniob/2020/64",
+   "short": "HCL Sâniob nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 64/2020 privind aprobarea contului de închiriere a exercițiului bugetar al comunei Sâniob pe trimestrul III, anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17466",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17466",
      "sha256": null
     }
    ]

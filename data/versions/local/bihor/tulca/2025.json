@@ -3,6 +3,21 @@
  "shard": "local/bihor/tulca/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--tulca-1-2025",
+   "path": "local/bihor/tulca/2025/1",
+   "short": "HCL Tulca nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 1/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 30.01.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190785",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190785",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-10-2025",
    "path": "local/bihor/tulca/2025/10",
    "short": "HCL Tulca nr. 10/2025",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-11-2025",
+   "path": "local/bihor/tulca/2025/11",
+   "short": "HCL Tulca nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 11/2025 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2025 al fondului forestier, intocmit de Ocolul Silvic Tinca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190795",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190795",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-110-2025",
    "path": "local/bihor/tulca/2025/110",
    "short": "HCL Tulca nr. 110/2025",
@@ -178,6 +208,36 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/247605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-12-2025",
+   "path": "local/bihor/tulca/2025/12",
+   "short": "HCL Tulca nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 12/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 28.02.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/197186",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/197186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-13-2025",
+   "path": "local/bihor/tulca/2025/13",
+   "short": "HCL Tulca nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 13/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 30.01.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/197187",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/197187",
      "sha256": null
     }
    ]
@@ -243,6 +303,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-18-2025",
+   "path": "local/bihor/tulca/2025/18",
+   "short": "HCL Tulca nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 18/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 26.03.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208390",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-19-2025",
+   "path": "local/bihor/tulca/2025/19",
+   "short": "HCL Tulca nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 19/2025 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Tulca din data de 28.02.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208391",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-2-2025",
+   "path": "local/bihor/tulca/2025/2",
+   "short": "HCL Tulca nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 2/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 23.12.2024",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190786",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190786",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-20-2025",
    "path": "local/bihor/tulca/2025/20",
    "short": "HCL Tulca nr. 20/2025",
@@ -253,6 +358,51 @@
      "from": "2025-06-26",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/208392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-21-2025",
+   "path": "local/bihor/tulca/2025/21",
+   "short": "HCL Tulca nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 21/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Serviciului Public de Gospodărire Comunală Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208393",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-22-2025",
+   "path": "local/bihor/tulca/2025/22",
+   "short": "HCL Tulca nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 22/2025 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208394",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-23-2025",
+   "path": "local/bihor/tulca/2025/23",
+   "short": "HCL Tulca nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 23/2025 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Tulca, județul Bihor",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208395",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208395",
      "sha256": null
     }
    ]
@@ -303,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-27-2025",
+   "path": "local/bihor/tulca/2025/27",
+   "short": "HCL Tulca nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 27/2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208399",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208399",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-28-2025",
    "path": "local/bihor/tulca/2025/28",
    "short": "HCL Tulca nr. 28/2025",
@@ -318,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-29-2025",
+   "path": "local/bihor/tulca/2025/29",
+   "short": "HCL Tulca nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 29/2025 privind alegerea presedintelui de sedinta pentru lunile aprilie-mai-iunie 2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208631",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208631",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-3-2025",
    "path": "local/bihor/tulca/2025/3",
    "short": "HCL Tulca nr. 3/2025",
@@ -328,6 +508,36 @@
      "from": "2025-02-12",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/190787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-30-2025",
+   "path": "local/bihor/tulca/2025/30",
+   "short": "HCL Tulca nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 30/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 25.04.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208632",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-31-2025",
+   "path": "local/bihor/tulca/2025/31",
+   "short": "HCL Tulca nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 31/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 26.03.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/208633",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/208633",
      "sha256": null
     }
    ]
@@ -378,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-35-2025",
+   "path": "local/bihor/tulca/2025/35",
+   "short": "HCL Tulca nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 35/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 30.05.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/213898",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/213898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-36-2025",
+   "path": "local/bihor/tulca/2025/36",
+   "short": "HCL Tulca nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 36/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 25.04.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/213899",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/213899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-37-2025",
    "path": "local/bihor/tulca/2025/37",
    "short": "HCL Tulca nr. 37/2025",
@@ -388,6 +628,21 @@
      "from": "2025-06-26",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/213900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-38-2025",
+   "path": "local/bihor/tulca/2025/38",
+   "short": "HCL Tulca nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 38/2025 privind privind aprobarea cumpărării imobilului „Teren intravilan și casă de locuit” situat în localitatea Tulca, nr. 238, com. Tulca, inscris in CF 59209-Tulca si însușirea Procesului-verbal de negociere întocmit de comisia de negociere",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/213901",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/213901",
      "sha256": null
     }
    ]
@@ -408,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-4-2025",
+   "path": "local/bihor/tulca/2025/4",
+   "short": "HCL Tulca nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 4/2025 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si a numarului de indemnizatii pentru persoanele cu handicap grav pentru anul 2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190788",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190788",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-40-2025",
    "path": "local/bihor/tulca/2025/40",
    "short": "HCL Tulca nr. 40/2025",
@@ -418,6 +688,21 @@
      "from": "2025-06-26",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/213903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-41-2025",
+   "path": "local/bihor/tulca/2025/41",
+   "short": "HCL Tulca nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 41/2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/213904",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/213904",
      "sha256": null
     }
    ]
@@ -448,6 +733,51 @@
      "from": "2025-06-26",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/213906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-46-2025",
+   "path": "local/bihor/tulca/2025/46",
+   "short": "HCL Tulca nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 46/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 27.06.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221915",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-47-2025",
+   "path": "local/bihor/tulca/2025/47",
+   "short": "HCL Tulca nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 47/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 30.05.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221916",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-48-2025",
+   "path": "local/bihor/tulca/2025/48",
+   "short": "HCL Tulca nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 48/2025 privind modificarea art. 4 din HCL 102/20.11.2024 privind organizarea comisiilor de specialitate, pe principalele domenii de activitate, ale Consiliului Local Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221917",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221917",
      "sha256": null
     }
    ]
@@ -498,6 +828,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-51-2025",
+   "path": "local/bihor/tulca/2025/51",
+   "short": "HCL Tulca nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 51/2025 privind suplimentarea numărului de posturi de asistenți personali ai persoanelor cu handicap grav si a numarului de indemnizatii pentru persoanele cu handicap grav pentru anul 2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221920",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-52-2025",
+   "path": "local/bihor/tulca/2025/52",
+   "short": "HCL Tulca nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 52/2025 privind alegerea presedintelui de sedinta pentru lunile iulie-august-septembrie 2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221921",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221921",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-53-2025",
    "path": "local/bihor/tulca/2025/53",
    "short": "HCL Tulca nr. 53/2025",
@@ -523,6 +883,36 @@
      "from": "2025-06-27",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/221923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-55-2025",
+   "path": "local/bihor/tulca/2025/55",
+   "short": "HCL Tulca nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 55/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 31.07.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221968",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-56-2025",
+   "path": "local/bihor/tulca/2025/56",
+   "short": "HCL Tulca nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 56/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 27.06.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221969",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221969",
      "sha256": null
     }
    ]
@@ -603,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-61-2025",
+   "path": "local/bihor/tulca/2025/61",
+   "short": "HCL Tulca nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 61/2025 privind trecerea din domeniul privat al Comunei Tulca în domeniul public al Comunei Tulca a suprafeței de 48.898 mp, înscrisă în CF nr. 61504 Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221974",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221974",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-62-2025",
    "path": "local/bihor/tulca/2025/62",
    "short": "HCL Tulca nr. 62/2025",
@@ -613,6 +1018,51 @@
      "from": "2025-08-26",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/221975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-63-2025",
+   "path": "local/bihor/tulca/2025/63",
+   "short": "HCL Tulca nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 63/2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/221976",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/221976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-64-2025",
+   "path": "local/bihor/tulca/2025/64",
+   "short": "HCL Tulca nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 64/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 29.08.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228919",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-65-2025",
+   "path": "local/bihor/tulca/2025/65",
+   "short": "HCL Tulca nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 65/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 31.07.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228920",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228920",
      "sha256": null
     }
    ]
@@ -633,6 +1083,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-67-2025",
+   "path": "local/bihor/tulca/2025/67",
+   "short": "HCL Tulca nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 67/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 26.09.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228922",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-68-2025",
+   "path": "local/bihor/tulca/2025/68",
+   "short": "HCL Tulca nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 68/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 29.08.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228924",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-69-2025",
+   "path": "local/bihor/tulca/2025/69",
+   "short": "HCL Tulca nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 69/2025 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administraţie al Scolii Gimnaziale Nestor Porumb Tulca, pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228925",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-7-2025",
    "path": "local/bihor/tulca/2025/7",
    "short": "HCL Tulca nr. 7/2025",
@@ -648,6 +1143,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-70-2025",
+   "path": "local/bihor/tulca/2025/70",
+   "short": "HCL Tulca nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 70/2025 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administraţie al Gradinitei cu Program Normal Eldad Tulca, pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228926",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-71-2025",
+   "path": "local/bihor/tulca/2025/71",
+   "short": "HCL Tulca nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 71/2025 privind alegerea presedintelui de sedinta al Consiliului Local Tulca pentru sedintele din lunile octombrie-noiembrie-decembrie 2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228927",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-72-2025",
+   "path": "local/bihor/tulca/2025/72",
+   "short": "HCL Tulca nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 72/2025 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 30.09.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/228928",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/228928",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-73-2025",
    "path": "local/bihor/tulca/2025/73",
    "short": "HCL Tulca nr. 73/2025",
@@ -658,6 +1198,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/228929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-74-2025",
+   "path": "local/bihor/tulca/2025/74",
+   "short": "HCL Tulca nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 74/2025 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Tulca din data de 10.10.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/247372",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/247372",
      "sha256": null
     }
    ]
@@ -693,6 +1248,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-77-2025",
+   "path": "local/bihor/tulca/2025/77",
+   "short": "HCL Tulca nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 77/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 31.10.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/247426",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/247426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-78-2025",
+   "path": "local/bihor/tulca/2025/78",
+   "short": "HCL Tulca nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 78/2025 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 26.09.2025, aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data de 30.09.2025 si aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data de 10.10.2025,",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/247427",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/247427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-79-2025",
    "path": "local/bihor/tulca/2025/79",
    "short": "HCL Tulca nr. 79/2025",
@@ -703,6 +1288,21 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/247428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-8-2025",
+   "path": "local/bihor/tulca/2025/8",
+   "short": "HCL Tulca nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 8/2025 privind validarea Dispoziției nr.2 din 08.01.2025 privind acoperirea deficitului bugetar pe anul 2024 al Comunei Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190792",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190792",
      "sha256": null
     }
    ]
@@ -783,6 +1383,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tulca-85-2025",
+   "path": "local/bihor/tulca/2025/85",
+   "short": "HCL Tulca nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 85/2025 privind aprobarea parteneriatului dintre comuna Tulca si Directia Generala de Asistenta Sociala si Protectia Copilului Bihor, pentru copii cu dizabilitati care au nevoie de servicii de abilitare/reabilitare, pentru anul 2026",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/247434",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/247434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-86-2025",
+   "path": "local/bihor/tulca/2025/86",
+   "short": "HCL Tulca nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 86/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 28.11.2025",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/247521",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/247521",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-87-2025",
    "path": "local/bihor/tulca/2025/87",
    "short": "HCL Tulca nr. 87/2025",
@@ -823,6 +1453,21 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/247524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-9-2025",
+   "path": "local/bihor/tulca/2025/9",
+   "short": "HCL Tulca nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 9/2025 privind validarea Dispoziției nr.3 din 08.01.2025 privind acoperirea deficitului bugetar pe anul 2024 al Serviciului Public de Gospodărire Comunală Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190793",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190793",
      "sha256": null
     }
    ]

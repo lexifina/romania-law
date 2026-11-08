@@ -405,6 +405,28 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-19-2022",
+"path": "local/bihor/santandrei/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 19/2022 privind aprobarea bugetului de venituri și cheltuieli pe surse de finanțare al comunei Sântandrei pe anul 2022",
+"short": "HCL Sântandrei nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/50891",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-20-2022",
 "path": "local/bihor/santandrei/2022/20",
 "kind": "local",
@@ -559,6 +581,28 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-27-2022",
+"path": "local/bihor/santandrei/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 27/2022 privind desemnarea reprezentanților Consiliului Local Sântandrei în Comisia de evaluare a probei de interviu pentru Concursul de ocupare a funcției de director la Şcoala Gimnazială nr. 1 Sântandrei, sesiunea 2022",
+"short": "HCL Sântandrei nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/53204",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -808,6 +852,28 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-39-2022",
+"path": "local/bihor/santandrei/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 39/2022 privind alegerea președintelui de ședință",
+"short": "HCL Sântandrei nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/54757",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-40-2022",
 "path": "local/bihor/santandrei/2022/40",
 "kind": "local",
@@ -827,6 +893,28 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-41-2022",
+"path": "local/bihor/santandrei/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 41/2022 privind aprobarea modificării Organigramei și a Statului de funcții pentru Aparatul de specialitate al primarului comunei Sântandrei",
+"short": "HCL Sântandrei nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/54759",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -963,6 +1051,29 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-48-2022",
+"path": "local/bihor/santandrei/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 48/2022",
+"short": "HCL Sântandrei nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/54766",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-49-2022",
 "path": "local/bihor/santandrei/2022/49",
 "kind": "local",
@@ -1048,6 +1159,29 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-53-2022",
+"path": "local/bihor/santandrei/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 53/2022",
+"short": "HCL Sântandrei nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/54771",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1385,6 +1519,28 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-69-2022",
+"path": "local/bihor/santandrei/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 69/2022 privind aprobarea înscrierii în domeniul public al Comunei Sântandrei a imobilului - teren intravilan, cu categoria de folosință drum, identificat cu numărul cadastral 10251, înscris în CF nr. 10251, cu suprafața de 1.573 mp, situat în loc. Sântandrei str. Tineretului, ramura A, jud. Bihor",
+"short": "HCL Sântandrei nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/58920",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-70-2022",
 "path": "local/bihor/santandrei/2022/70",
 "kind": "local",
@@ -1474,6 +1630,29 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-74-2022",
+"path": "local/bihor/santandrei/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 74/2022",
+"short": "HCL Sântandrei nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/62162",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-75-2022",
 "path": "local/bihor/santandrei/2022/75",
 "kind": "local",
@@ -1515,6 +1694,29 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-77-2022",
+"path": "local/bihor/santandrei/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 77/2022",
+"short": "HCL Sântandrei nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/62165",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1562,6 +1764,75 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-80-2022",
+"path": "local/bihor/santandrei/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 80/2022",
+"short": "HCL Sântandrei nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/62168",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-81-2022",
+"path": "local/bihor/santandrei/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 81/2022",
+"short": "HCL Sântandrei nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/62169",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-82-2022",
+"path": "local/bihor/santandrei/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 82/2022",
+"short": "HCL Sântandrei nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/62170",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-83-2022",
 "path": "local/bihor/santandrei/2022/83",
 "kind": "local",
@@ -1584,6 +1855,29 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-84-2022",
+"path": "local/bihor/santandrei/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 84/2022",
+"short": "HCL Sântandrei nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/62172",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-85-2022",
 "path": "local/bihor/santandrei/2022/85",
 "kind": "local",
@@ -1603,6 +1897,51 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-86-2022",
+"path": "local/bihor/santandrei/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 86/2022 privind alegerea președintelui de ședință",
+"short": "HCL Sântandrei nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/64381",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-87-2022",
+"path": "local/bihor/santandrei/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 87/2022",
+"short": "HCL Sântandrei nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/64382",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1739,6 +2078,29 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-94-2022",
+"path": "local/bihor/santandrei/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 94/2022",
+"short": "HCL Sântandrei nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/64389",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1893,6 +2255,75 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-102-2022",
+"path": "local/bihor/santandrei/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 102/2022",
+"short": "HCL Sântandrei nr. 102/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/67755",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-103-2022",
+"path": "local/bihor/santandrei/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 103/2022",
+"short": "HCL Sântandrei nr. 103/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/67756",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-104-2022",
+"path": "local/bihor/santandrei/2022/104",
+"kind": "local",
+"year": "2022",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 104/2022",
+"short": "HCL Sântandrei nr. 104/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/67757",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2054,6 +2485,163 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-112-2022",
+"path": "local/bihor/santandrei/2022/112",
+"kind": "local",
+"year": "2022",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 112/2022 privind aprobarea Listei de prioritate pentru acordarea locuințelor pentru tineri construite prin Agenția Națională pentru Locuințe, pe baza criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și repartizarea locuințelor pentru tineri destinate închirierii în comuna Sântandrei, sesiunea 15 septembrie 2021 – 15 octombrie 2021",
+"short": "HCL Sântandrei nr. 112/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70054",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-113-2022",
+"path": "local/bihor/santandrei/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 113/2022",
+"short": "HCL Sântandrei nr. 113/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70055",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-114-2022",
+"path": "local/bihor/santandrei/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 114/2022",
+"short": "HCL Sântandrei nr. 114/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70056",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-115-2022",
+"path": "local/bihor/santandrei/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 115/2022 privind aprobarea vânzării, prin licitație publică, a imobilului – teren intravilan, în suprafață de 136 mp, nr. cad. 59496, înscris în CF 59496 Sântandrei, proprietate privată a Comunei Sântandrei",
+"short": "HCL Sântandrei nr. 115/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70057",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-116-2022",
+"path": "local/bihor/santandrei/2022/116",
+"kind": "local",
+"year": "2022",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 116/2022 privind aprobarea vânzării, prin licitație publică, a imobilului – teren intravilan, în suprafață de 864 mp, nr. cad. 59231, înscris în CF 59231 Sântandrei, proprietate privată a Comunei Sântandrei",
+"short": "HCL Sântandrei nr. 116/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70058",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-117-2022",
+"path": "local/bihor/santandrei/2022/117",
+"kind": "local",
+"year": "2022",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 117/2022",
+"short": "HCL Sântandrei nr. 117/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70059",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-118-2022",
+"path": "local/bihor/santandrei/2022/118",
+"kind": "local",
+"year": "2022",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 118/2022 privind aprobarea vânzării prin exercitarea dreptului de preempțiune, a terenului proprietate privată a comunei Sântandrei, identificat prin CF 60672 Sântandrei, nr. cadastral 60672, în suprafaţă de 631 mp, aferent imobilului situat în localitatea Sântandrei, nr. 266F",
+"short": "HCL Sântandrei nr. 118/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70060",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-119-2022",
 "path": "local/bihor/santandrei/2022/119",
 "kind": "local",
@@ -2073,6 +2661,29 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-120-2022",
+"path": "local/bihor/santandrei/2022/120",
+"kind": "local",
+"year": "2022",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 120/2022",
+"short": "HCL Sântandrei nr. 120/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70062",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2121,6 +2732,28 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-123-2022",
+"path": "local/bihor/santandrei/2022/123",
+"kind": "local",
+"year": "2022",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 123/2022 privind numirea persoanei responsabile și a înlocuitorului acesteia din cadrul aparatului de specialitate al primarului comunei Sântandrei care va ține Registrul de evidență a datoriei publice locale și Registrul de evidență a garanțiilor locale ale unității administrativ teritoriale Comunei Sântandrei",
+"short": "HCL Sântandrei nr. 123/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70065",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-124-2022",
 "path": "local/bihor/santandrei/2022/124",
 "kind": "local",
@@ -2162,6 +2795,28 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-126-2022",
+"path": "local/bihor/santandrei/2022/126",
+"kind": "local",
+"year": "2022",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 126/2022 privind alegerea președintelui de ședință",
+"short": "HCL Sântandrei nr. 126/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/70586",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2429,6 +3084,50 @@
 "council_name": "Consiliul Local al Comunei Sântandrei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-139-2022",
+"path": "local/bihor/santandrei/2022/139",
+"kind": "local",
+"year": "2022",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 139/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Sântandrei în Consiliul de Administraţie al Şcolii Gimnaziale nr. 1 Sântandrei, în anul şcolar 2022-2023",
+"short": "HCL Sântandrei nr. 139/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/73314",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-140-2022",
+"path": "local/bihor/santandrei/2022/140",
+"kind": "local",
+"year": "2022",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 140/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Sântandrei în Comisia de Evaluare și Asigurare a Calității a Şcolii Gimnaziale nr. 1 Sântandrei, în anul şcolar 2022 – 2023",
+"short": "HCL Sântandrei nr. 140/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/73315",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2874,6 +3573,28 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-161-2022",
+"path": "local/bihor/santandrei/2022/161",
+"kind": "local",
+"year": "2022",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 161/2022 privind aprobarea Listei de repartizare pentru acordarea locuințelor pentru tineri, construite prin Agenția Națională pentru Locuințe în comuna Sântandrei",
+"short": "HCL Sântandrei nr. 161/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/77602",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-162-2022",
 "path": "local/bihor/santandrei/2022/162",
 "kind": "local",
@@ -3006,6 +3727,28 @@
 }
 },
 {
+"slug": "hcl-bihor--santandrei-168-2022",
+"path": "local/bihor/santandrei/2022/168",
+"kind": "local",
+"year": "2022",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 168/2022 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Comunei Sântandrei, Județul Bihor",
+"short": "HCL Sântandrei nr. 168/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/77609",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--santandrei-169-2022",
 "path": "local/bihor/santandrei/2022/169",
 "kind": "local",
@@ -3092,6 +3835,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-173-2022",
+"path": "local/bihor/santandrei/2022/173",
+"kind": "local",
+"year": "2022",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 173/2022 privind aprobarea încheierii Acordului de parteneriat între Comuna Sântandrei și Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Bihor pentru anul 2023",
+"short": "HCL Sântandrei nr. 173/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/81115",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

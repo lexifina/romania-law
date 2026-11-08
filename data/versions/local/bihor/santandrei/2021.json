@@ -3,6 +3,156 @@
  "shard": "local/bihor/santandrei/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--santandrei-10-2021",
+   "path": "local/bihor/santandrei/2021/10",
+   "short": "HCL Sântandrei nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 10/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24275",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-100-2021",
+   "path": "local/bihor/santandrei/2021/100",
+   "short": "HCL Sântandrei nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 100/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 1637 și cad. 2653, în suprafață de 4799 mp și 4054 mp, în vederea constituirii unui singur nr. cad. - Strada Lanului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27793",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-101-2021",
+   "path": "local/bihor/santandrei/2021/101",
+   "short": "HCL Sântandrei nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 101/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 11688 și cad. 11754, în suprafață de 167 mp și 2004 mp, în vederea constituirii unui singur nr. cad. - Strada Dumbravei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27794",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-102-2021",
+   "path": "local/bihor/santandrei/2021/102",
+   "short": "HCL Sântandrei nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 102/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 12228 și cad. 12232, în suprafață de 913 mp și 914 mp, în vederea constituirii unui singur nr. cad. - Strada Mușețelului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27795",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-103-2021",
+   "path": "local/bihor/santandrei/2021/103",
+   "short": "HCL Sântandrei nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 103/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 1686 și cad. 1687, în suprafață de 768 mp și 767 mp, în vederea constituirii unui singur nr. cad. - Strada Pajiștei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27796",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-104-2021",
+   "path": "local/bihor/santandrei/2021/104",
+   "short": "HCL Sântandrei nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 104/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 2343 și cad. 2351, în suprafață de 781 mp și 803 mp, în vederea constituirii unui singur nr. cad. - Strada Poieniței",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27797",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-105-2021",
+   "path": "local/bihor/santandrei/2021/105",
+   "short": "HCL Sântandrei nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 105/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 59903 și cad. 59908, în suprafață de 1797 mp și 1778 mp, în vederea constituirii unui singur nr. cad. - Strada Macului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27798",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-106-2021",
+   "path": "local/bihor/santandrei/2021/106",
+   "short": "HCL Sântandrei nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 106/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, nr. cad 92, 10327, 11230, 11236, 11241, 11243, 11245, 11253, 59895 şi 59899, în suprafață de 2609, 148, 146, 71, 35, 74, 55, 55, 1973, respectiv 145 mp, în vederea constituirii unui singur nr. cad. cu destinația drum - Strada Padișului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27799",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-107-2021",
+   "path": "local/bihor/santandrei/2021/107",
+   "short": "HCL Sântandrei nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 107/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, nr. cad 559, 561, 822, 1208, 1209, 1849, 1869, 2050, 7573, 9410, 9557, 9559, 11129, 11132, 11137, 11140, 11683, 11847 şi 59900, în suprafață de 131, 146, 146, 145, 132, 372, 441, 293, 175, 164, 149, 262, 219, 440, 454, 465, 104, 136 și 167 mp, în vederea constituirii unui singur nr. cad. cu destinația drum - Strada Oneștilor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27800",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-108-2021",
+   "path": "local/bihor/santandrei/2021/108",
+   "short": "HCL Sântandrei nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 108/2021 privind aprobarea vânzării, prin licitație publică, a imobilului – teren intravilan, în suprafață de 893 mp, nr. cad. 59230, înscris în CF 59230 Sântandrei, proprietate privată a Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27801",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27801",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-109-2021",
    "path": "local/bihor/santandrei/2021/109",
    "short": "HCL Sântandrei nr. 109/2021",
@@ -18,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-11-2021",
+   "path": "local/bihor/santandrei/2021/11",
+   "short": "HCL Sântandrei nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 11/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24273",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-110-2021",
+   "path": "local/bihor/santandrei/2021/110",
+   "short": "HCL Sântandrei nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 110/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27803",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-111-2021",
    "path": "local/bihor/santandrei/2021/111",
    "short": "HCL Sântandrei nr. 111/2021",
@@ -28,6 +208,36 @@
      "from": "2021-06-22",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-112-2021",
+   "path": "local/bihor/santandrei/2021/112",
+   "short": "HCL Sântandrei nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 112/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27805",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-113-2021",
+   "path": "local/bihor/santandrei/2021/113",
+   "short": "HCL Sântandrei nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 113/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27806",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27806",
      "sha256": null
     }
    ]
@@ -93,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-118-2021",
+   "path": "local/bihor/santandrei/2021/118",
+   "short": "HCL Sântandrei nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 118/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/31039",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/31039",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-119-2021",
    "path": "local/bihor/santandrei/2021/119",
    "short": "HCL Sântandrei nr. 119/2021",
@@ -103,6 +328,36 @@
      "from": "2021-07-27",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/31040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-12-2021",
+   "path": "local/bihor/santandrei/2021/12",
+   "short": "HCL Sântandrei nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 12/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24278",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-120-2021",
+   "path": "local/bihor/santandrei/2021/120",
+   "short": "HCL Sântandrei nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 120/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/31041",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/31041",
      "sha256": null
     }
    ]
@@ -213,6 +468,156 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-128-2021",
+   "path": "local/bihor/santandrei/2021/128",
+   "short": "HCL Sântandrei nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 128/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34144",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-129-2021",
+   "path": "local/bihor/santandrei/2021/129",
+   "short": "HCL Sântandrei nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 129/2021 privind aprobarea atribuirii denumirii de strada Sofiei pentru terenul intravilan proprietatea publică a comunei Sântandrei, având categoria de folosință drum, în suprafață de 3.469 mp, situat în localitatea Sântandrei, identificat prin nr. cadastral 59893, înscris în CF 59893 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34145",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-13-2021",
+   "path": "local/bihor/santandrei/2021/13",
+   "short": "HCL Sântandrei nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 13/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24279",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-130-2021",
+   "path": "local/bihor/santandrei/2021/130",
+   "short": "HCL Sântandrei nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 130/2021 aprobarea atribuirii denumirii de strada Romaniței pentru terenul intravilan proprietatea publică a comunei Sântandrei, având categoria de folosință drum, în suprafață de 3.402 mp, situat în localitatea Sântandrei, identificat prin nr. cadastral 59891, înscris în CF 59891 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34146",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-131-2021",
+   "path": "local/bihor/santandrei/2021/131",
+   "short": "HCL Sântandrei nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 131/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34147",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-132-2021",
+   "path": "local/bihor/santandrei/2021/132",
+   "short": "HCL Sântandrei nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 132/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34148",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-133-2021",
+   "path": "local/bihor/santandrei/2021/133",
+   "short": "HCL Sântandrei nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 133/2021 privind aprobarea schimbării denumirii străzii Zorilor în strada Rozmarinului, a imobilului în suprafață de 4.956 mp, identificat prin nr. cad. 10119 înscris în CF 10119 Sântandrei, situat în intravilanul localității Sântandrei, județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34149",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-134-2021",
+   "path": "local/bihor/santandrei/2021/134",
+   "short": "HCL Sântandrei nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 134/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34150",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-135-2021",
+   "path": "local/bihor/santandrei/2021/135",
+   "short": "HCL Sântandrei nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 135/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34151",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-136-2021",
+   "path": "local/bihor/santandrei/2021/136",
+   "short": "HCL Sântandrei nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 136/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/34152",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34152",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-137-2021",
    "path": "local/bihor/santandrei/2021/137",
    "short": "HCL Sântandrei nr. 137/2021",
@@ -253,6 +658,21 @@
      "from": "2021-08-31",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/34155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-14-2021",
+   "path": "local/bihor/santandrei/2021/14",
+   "short": "HCL Sântandrei nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 14/2021 privind actualizarea componenței Comisiei de analiză a cererilor depuse pentru atribuirea în folosinţă gratuită a unui teren în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, prin desemnarea membrilor Consiliului Local Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24280",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24280",
      "sha256": null
     }
    ]
@@ -363,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-147-2021",
+   "path": "local/bihor/santandrei/2021/147",
+   "short": "HCL Sântandrei nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 147/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/35731",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/35731",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-148-2021",
    "path": "local/bihor/santandrei/2021/148",
    "short": "HCL Sântandrei nr. 148/2021",
@@ -373,6 +808,81 @@
      "from": "2021-09-23",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/35732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-149-2021",
+   "path": "local/bihor/santandrei/2021/149",
+   "short": "HCL Sântandrei nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 149/2021 privind desemnarea reprezentantului Consiliului Local al comunei Sântandrei în Consiliul de Administraţie al Şcolii Gimnaziale nr. 1 Sântandrei, începând anul şcolar 2021-2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/35733",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/35733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-15-2021",
+   "path": "local/bihor/santandrei/2021/15",
+   "short": "HCL Sântandrei nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 15/2021 privind acceptarea predării deșeurilor în punctul de colectare separată situat în Municipiul Oradea, pe strada Thurzo Sandor de către persoanele fizice care au domiciliul în comuna Sântandrei, precum și a costurilor asociate acestei activități pentru COMUNA SÂNTANDREI",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24281",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-150-2021",
+   "path": "local/bihor/santandrei/2021/150",
+   "short": "HCL Sântandrei nr. 150/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 150/2021 privind desemnarea reprezentantului Consiliului Local al comunei Sântandrei în Comisia de Evaluare și Asigurare a Calității a Şcolii Gimnaziale nr. 1 Sântandrei, în anul şcolar 2021 – 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/35734",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/35734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-151-2021",
+   "path": "local/bihor/santandrei/2021/151",
+   "short": "HCL Sântandrei nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 151/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/35735",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/35735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-152-2021",
+   "path": "local/bihor/santandrei/2021/152",
+   "short": "HCL Sântandrei nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 152/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/35736",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/35736",
      "sha256": null
     }
    ]
@@ -633,6 +1143,111 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-170-2021",
+   "path": "local/bihor/santandrei/2021/170",
+   "short": "HCL Sântandrei nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 170/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39824",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-171-2021",
+   "path": "local/bihor/santandrei/2021/171",
+   "short": "HCL Sântandrei nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 171/2021 privind aprobarea atribuirii denumirii de strada Busuiocului pentru terenul intravilan proprietatea comunei Sântandrei, având categoria de folosință drum, în suprafață de 2.114 mp, situat în localitatea Sântandrei, identificat prin nr. cadastral 10224, înscris în CF 10224 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39825",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-172-2021",
+   "path": "local/bihor/santandrei/2021/172",
+   "short": "HCL Sântandrei nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 172/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39826",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-173-2021",
+   "path": "local/bihor/santandrei/2021/173",
+   "short": "HCL Sântandrei nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 173/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39827",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-174-2021",
+   "path": "local/bihor/santandrei/2021/174",
+   "short": "HCL Sântandrei nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 174/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39828",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-175-2021",
+   "path": "local/bihor/santandrei/2021/175",
+   "short": "HCL Sântandrei nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 175/2021 privind desemnarea reprezentantului Consiliului Local Sântandrei în Comisia de evaluare a probei de interviu pentru Concursul de ocupare a funcției de director la Şcoala Gimnazială nr. 1 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39829",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-176-2021",
+   "path": "local/bihor/santandrei/2021/176",
+   "short": "HCL Sântandrei nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 176/2021 privind aprobarea modificării Statului de funcții pentru aparatul de specialitate al Primarului Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/39830",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/39830",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-177-2021",
    "path": "local/bihor/santandrei/2021/177",
    "short": "HCL Sântandrei nr. 177/2021",
@@ -673,6 +1288,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-18-2021",
+   "path": "local/bihor/santandrei/2021/18",
+   "short": "HCL Sântandrei nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 18/2021 privind desemnarea reprezentanților Consiliului local al comunei Sântandrei în comisiile de evaluare pentru închirierea/concesionarea/vânzarea prin licitație publică a bunurilor imobile și mobile aflate în proprietatea",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24285",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24285",
      "sha256": null
     }
    ]
@@ -993,6 +1623,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-21-2021",
+   "path": "local/bihor/santandrei/2021/21",
+   "short": "HCL Sântandrei nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 21/2021 privind modificarea componenței Comisiei de specialitate nr. IV a Consiliului Local al comunei Sântandrei - Comisia pentru administrație publică locală, disciplină, respectarea drepturilor și libertăților cetățenești, relații cu alte consilii locale sau organisme similare, integrare europeană",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24286",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24286",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-22-2021",
    "path": "local/bihor/santandrei/2021/22",
    "short": "HCL Sântandrei nr. 22/2021",
@@ -1023,6 +1668,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-24-2021",
+   "path": "local/bihor/santandrei/2021/24",
+   "short": "HCL Sântandrei nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 24/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24289",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-25-2021",
+   "path": "local/bihor/santandrei/2021/25",
+   "short": "HCL Sântandrei nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 25/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24290",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24290",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-26-2021",
    "path": "local/bihor/santandrei/2021/26",
    "short": "HCL Sântandrei nr. 26/2021",
@@ -1033,6 +1708,141 @@
      "from": "2021-03-30",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-27-2021",
+   "path": "local/bihor/santandrei/2021/27",
+   "short": "HCL Sântandrei nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 27/2021 privind aprobarea trecerii în domeniul public al Comunei Sântandrei a terenului intravilan, identificat cu numărul cadastral 10994, înscris în CF nr. 10994 Sântandrei, în suprafață de 28812 mp, cu categoria de folosință curți construcții, teren cuprins în inventarul domeniului privat al Comunei Sântandrei la poz. 260",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24292",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-28-2021",
+   "path": "local/bihor/santandrei/2021/28",
+   "short": "HCL Sântandrei nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 28/2021 privind aprobarea trecerii în domeniul public al Comunei Sântandrei a terenului intravilan, identificat cu numărul cadastral 58998, înscris în CF nr. 58998 Sântandrei, în suprafață de 7268 mp, cu categoria de folosință curți construcții, teren cuprins în inventarul domeniului privat al Comunei Sântandrei la poz. 429",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24293",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-29-2021",
+   "path": "local/bihor/santandrei/2021/29",
+   "short": "HCL Sântandrei nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 29/2021 privind aprobarea repartizării unor locuințe pentru tineri, destinate închirierii, construite prin Agenția Națională pentru Locuințe, disponibile în Comuna Sântandrei, în favoarea următorilor solicitanți din Lista de prioritate aprobată prin Hotărârea Consiliului Local nr. 11 din 31 ianuarie 2020",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24294",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-30-2021",
+   "path": "local/bihor/santandrei/2021/30",
+   "short": "HCL Sântandrei nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 30/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24295",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-31-2021",
+   "path": "local/bihor/santandrei/2021/31",
+   "short": "HCL Sântandrei nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 31/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24296",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-32-2021",
+   "path": "local/bihor/santandrei/2021/32",
+   "short": "HCL Sântandrei nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 32/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24297",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-33-2021",
+   "path": "local/bihor/santandrei/2021/33",
+   "short": "HCL Sântandrei nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 33/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24298",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-34-2021",
+   "path": "local/bihor/santandrei/2021/34",
+   "short": "HCL Sântandrei nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 34/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24299",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-35-2021",
+   "path": "local/bihor/santandrei/2021/35",
+   "short": "HCL Sântandrei nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 35/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24300",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24300",
      "sha256": null
     }
    ]
@@ -1068,6 +1878,81 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-38-2021",
+   "path": "local/bihor/santandrei/2021/38",
+   "short": "HCL Sântandrei nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 38/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24303",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-39-2021",
+   "path": "local/bihor/santandrei/2021/39",
+   "short": "HCL Sântandrei nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 39/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24304",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-40-2021",
+   "path": "local/bihor/santandrei/2021/40",
+   "short": "HCL Sântandrei nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 40/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24305",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-44-2021",
+   "path": "local/bihor/santandrei/2021/44",
+   "short": "HCL Sântandrei nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 44/2021 privind aprobarea dezmembrării terenului intravilan, proprietate publică a Comunei Sântandrei identificat cu nr. cad. 8848, înscris în CF 8848 Sântandrei, în suprafață de 1933 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24470",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-45-2021",
+   "path": "local/bihor/santandrei/2021/45",
+   "short": "HCL Sântandrei nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 45/2021 privind aprobarea dezmembrării terenului intravilan, proprietate publică a Comunei Sântandrei, identificat cu nr. cad. 8841, înscris în CF 8841 Sântandrei, în suprafață de 4458 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24471",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24471",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-46-2021",
    "path": "local/bihor/santandrei/2021/46",
    "short": "HCL Sântandrei nr. 46/2021",
@@ -1093,6 +1978,21 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-5-2021",
+   "path": "local/bihor/santandrei/2021/5",
+   "short": "HCL Sântandrei nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 5/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24271",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24271",
      "sha256": null
     }
    ]
@@ -1138,6 +2038,21 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-53-2021",
+   "path": "local/bihor/santandrei/2021/53",
+   "short": "HCL Sântandrei nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 53/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietate publică a Comunei Sântandrei, nr. cad. 12278 înscris în CF 12278 în suprafață de 879 mp, nr. cad. 59660 înscris în CF 59660 în suprafață de 281 mp și nr. cad. 59662 înscris în CF 59662 în suprafață de 59 mp, în vederea demarării unei investiții - Sală de sport",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24489",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24489",
      "sha256": null
     }
    ]
@@ -1278,6 +2193,126 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-62-2021",
+   "path": "local/bihor/santandrei/2021/62",
+   "short": "HCL Sântandrei nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 62/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24871",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-63-2021",
+   "path": "local/bihor/santandrei/2021/63",
+   "short": "HCL Sântandrei nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 63/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24862",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-64-2021",
+   "path": "local/bihor/santandrei/2021/64",
+   "short": "HCL Sântandrei nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 64/2021 privind înscrierea în Cartea Funciară în domeniul privat al Comunei Sântandrei a terenului intravilan, proprietatea comunei Sântandrei, având categoria de folosință curți construcții, în suprafață de 4359 mp, cu numărul cadastral 8431 notat în CF 8431 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24860",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-65-2021",
+   "path": "local/bihor/santandrei/2021/65",
+   "short": "HCL Sântandrei nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 65/2021 privind aprobarea înscrierii în Cartea Funciară în domeniul privat al Comunei Sântandrei a terenului extravilan, proprietatea comunei Sântandrei, având categoria de folosință arabil, în suprafață de 10000 mp, cu numărul cadastral 3337 notat în CF 3337 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24861",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-66-2021",
+   "path": "local/bihor/santandrei/2021/66",
+   "short": "HCL Sântandrei nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 66/2021 privind aprobarea înscrierii în domeniul public al Comunei Sântandrei a imobilelor intravilane, identificate cu numerele cadastrale 59495 și 59496, înscrise în CF nr. 59495 și 59496 Sântandrei, cu suprafețe de 4855 mp și 136 mp, situate în Sântandrei nr. 449, cu categoria de folosință curți construcții, pe care se află construite Căminul Cultural și Sala de Sport, cuprinse în inventarul domeniului public al Comunei Sântandrei la poz. 2 și poz. 162",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24863",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-67-2021",
+   "path": "local/bihor/santandrei/2021/67",
+   "short": "HCL Sântandrei nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 67/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24864",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-68-2021",
+   "path": "local/bihor/santandrei/2021/68",
+   "short": "HCL Sântandrei nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 68/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF nr. 59428, nr. cad. 59428, în suprafață de 8160 mp, proprietatea publică a Comunei Sântandrei, categoria drum public-stradă",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24872",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-69-2021",
+   "path": "local/bihor/santandrei/2021/69",
+   "short": "HCL Sântandrei nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 69/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF nr. 814, nr. cad. 814, în suprafață de 4678 mp, proprietatea Comunei Sântandrei, cu destinația stradă",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24873",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24873",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-7-2021",
    "path": "local/bihor/santandrei/2021/7",
    "short": "HCL Sântandrei nr. 7/2021",
@@ -1288,6 +2323,111 @@
      "from": "2021-01-28",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-70-2021",
+   "path": "local/bihor/santandrei/2021/70",
+   "short": "HCL Sântandrei nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 70/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF nr. 11716, nr. cad. 11716, în suprafață de 2022 mp, proprietatea publică a Comunei Sântandrei, cu destinația stradă",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24874",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-71-2021",
+   "path": "local/bihor/santandrei/2021/71",
+   "short": "HCL Sântandrei nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 71/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF nr. 11227, nr. cad. 11227, în suprafață de 503 mp, proprietatea Comunei Sântandrei, cu destinația stradă",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24875",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-72-2021",
+   "path": "local/bihor/santandrei/2021/72",
+   "short": "HCL Sântandrei nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 72/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF nr. 91, nr. cad. 91, în suprafață de 2208 mp, proprietatea Comunei Sântandrei, categoria drum public-stradă",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24876",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-73-2021",
+   "path": "local/bihor/santandrei/2021/73",
+   "short": "HCL Sântandrei nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 73/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF nr. 839, nr. cad. 839, în suprafață de 2137 mp, proprietatea Comunei Sântandrei, cu destinația stradă",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24877",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-74-2021",
+   "path": "local/bihor/santandrei/2021/74",
+   "short": "HCL Sântandrei nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 74/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24866",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-75-2021",
+   "path": "local/bihor/santandrei/2021/75",
+   "short": "HCL Sântandrei nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 75/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24867",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-76-2021",
+   "path": "local/bihor/santandrei/2021/76",
+   "short": "HCL Sântandrei nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 76/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24865",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24865",
      "sha256": null
     }
    ]
@@ -1338,6 +2478,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-8-2021",
+   "path": "local/bihor/santandrei/2021/8",
+   "short": "HCL Sântandrei nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 8/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24277",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24277",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-80-2021",
    "path": "local/bihor/santandrei/2021/80",
    "short": "HCL Sântandrei nr. 80/2021",
@@ -1353,6 +2508,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-81-2021",
+   "path": "local/bihor/santandrei/2021/81",
+   "short": "HCL Sântandrei nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 81/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27774",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-82-2021",
    "path": "local/bihor/santandrei/2021/82",
    "short": "HCL Sântandrei nr. 82/2021",
@@ -1363,6 +2533,276 @@
      "from": "2021-06-22",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-83-2021",
+   "path": "local/bihor/santandrei/2021/83",
+   "short": "HCL Sântandrei nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 83/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27776",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-84-2021",
+   "path": "local/bihor/santandrei/2021/84",
+   "short": "HCL Sântandrei nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 84/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27777",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-85-2021",
+   "path": "local/bihor/santandrei/2021/85",
+   "short": "HCL Sântandrei nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 85/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27778",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-86-2021",
+   "path": "local/bihor/santandrei/2021/86",
+   "short": "HCL Sântandrei nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 86/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27779",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-87-2021",
+   "path": "local/bihor/santandrei/2021/87",
+   "short": "HCL Sântandrei nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 87/2021 privind aprobarea preluării în proprietatea comunei Sântandrei și înscrierea în domeniul public a terenului situat în intravilanul localității Sântandrei, județul Bihor, identificat cu nr. cadastral 58456 înscris în CF nr. 58456 în suprafață de 2851 mp, ce face obiectul renunțării la dreptul de proprietate de către coproprietarii Țelea Darius-Ionel, Țelea Bogdan-Andrei și Copil Anamaria-Ioana",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27780",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-88-2021",
+   "path": "local/bihor/santandrei/2021/88",
+   "short": "HCL Sântandrei nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 88/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27781",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-89-2021",
+   "path": "local/bihor/santandrei/2021/89",
+   "short": "HCL Sântandrei nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 89/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27782",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-9-2021",
+   "path": "local/bihor/santandrei/2021/9",
+   "short": "HCL Sântandrei nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 9/2021 privind aprobarea vânzării prin licitaţie publică, a imobilului – teren intravilan, în suprafaţă de 186 mp, situat în localitatea Sântandrei, identificat cu nr. cad. 6768, înscris în CF 6768 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/24276",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/24276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-90-2021",
+   "path": "local/bihor/santandrei/2021/90",
+   "short": "HCL Sântandrei nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 90/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27783",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-91-2021",
+   "path": "local/bihor/santandrei/2021/91",
+   "short": "HCL Sântandrei nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 91/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF. nr. 1814, nr. cad. 1814, în suprafață de 3324 mp, proprietatea publică a Comunei Sântandrei cu categoria de folosință drum - strada Căprioarei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27784",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-92-2021",
+   "path": "local/bihor/santandrei/2021/92",
+   "short": "HCL Sântandrei nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 92/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF. nr. 10250, nr. cad. 10250, în suprafață de 10.009 mp, proprietatea publică a Comunei Sântandrei cu categoria de folosință drum - strada Crișului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27785",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-93-2021",
+   "path": "local/bihor/santandrei/2021/93",
+   "short": "HCL Sântandrei nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 93/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF. nr. 2545, nr. cad. 2545, în suprafață de 9.024 mp, proprietatea publică a Comunei Sântandrei cu categoria de folosință drum - strada Crișului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27786",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-94-2021",
+   "path": "local/bihor/santandrei/2021/94",
+   "short": "HCL Sântandrei nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 94/2021 privind aprobarea dezmembrării terenului intravilan, înscris în CF. nr. 6405, nr. cad. 6405, în suprafață de 9.596 mp, proprietatea Comunei Sântandrei cu categoria de folosință drum - strada Tineretului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27787",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-95-2021",
+   "path": "local/bihor/santandrei/2021/95",
+   "short": "HCL Sântandrei nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 95/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum nr. cad. 7837 și nr. cad. 7913, în suprafață de 2387 mp și 2365 mp, în vederea constituirii unui singur nr. cad. - Strada Trandafirilor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27788",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-96-2021",
+   "path": "local/bihor/santandrei/2021/96",
+   "short": "HCL Sântandrei nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 96/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 1496 și cad. 58264, în suprafață de 808 mp și 796 mp, în vederea constituirii unui singur nr. cad. - Strada Mesteacănului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27789",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-97-2021",
+   "path": "local/bihor/santandrei/2021/97",
+   "short": "HCL Sântandrei nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 97/2021 aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 558 și cad. 560, în suprafață de 992 mp și 1013 mp, în vederea constituirii unui singur nr. cad. - Strada Sălajului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27790",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-98-2021",
+   "path": "local/bihor/santandrei/2021/98",
+   "short": "HCL Sântandrei nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 98/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 58355 și cad. 58547, în suprafață de 763 mp și 767 mp, în vederea constituirii unui singur nr. cad. - Strada Bradului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27791",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-99-2021",
+   "path": "local/bihor/santandrei/2021/99",
+   "short": "HCL Sântandrei nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 99/2021 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei, categoria de folosință drum, nr. cad. 9174 și cad. 59102, în suprafață de 1300 mp și 1074 mp, în vederea constituirii unui singur nr. cad. - Strada Mălinului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/27792",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/27792",
      "sha256": null
     }
    ]

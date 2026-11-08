@@ -3,6 +3,28 @@
 "shard": "local/bihor/uileacu-de-beius/2026",
 "acts": [
 {
+"slug": "hcl-bihor--uileacu-de-beius-1-2026",
+"path": "local/bihor/uileacu-de-beius/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 1/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/249463",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-2-2026",
 "path": "local/bihor/uileacu-de-beius/2026/2",
 "kind": "local",
@@ -198,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-11-2026",
+"path": "local/bihor/uileacu-de-beius/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 11/2026 privind aprobarea închirierii prin atribuire directă a pajiștilor disponibile aflate în proprietatea privată a Comunei Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/254578",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -399,6 +443,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-21-2026",
+"path": "local/bihor/uileacu-de-beius/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 21/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/263155",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-22-2026",
 "path": "local/bihor/uileacu-de-beius/2026/22",
 "kind": "local",
@@ -418,6 +484,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-23-2026",
+"path": "local/bihor/uileacu-de-beius/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 23/2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/263157",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -506,6 +594,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-28-2026",
+"path": "local/bihor/uileacu-de-beius/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 28/2026 privind modificarea Hotărârii Consiliului Local al comunei Uileacu de Beiuș nr. 23 din 15 aprilie 2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/266665",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -707,6 +817,50 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-38-2026",
+"path": "local/bihor/uileacu-de-beius/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 38/2026 privind aprobarea unui schimb de terenuri",
+"short": "HCL Uileacu de Beiuș nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/276426",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-39-2026",
+"path": "local/bihor/uileacu-de-beius/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 39/2026 privind aprobarea unui schimb de terenuri și clădiri",
+"short": "HCL Uileacu de Beiuș nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/276427",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-40-2026",
 "path": "local/bihor/uileacu-de-beius/2026/40",
 "kind": "local",
@@ -748,6 +902,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-42-2026",
+"path": "local/bihor/uileacu-de-beius/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 42/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/281050",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -814,6 +990,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-46-2026",
+"path": "local/bihor/uileacu-de-beius/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 46/2026 privind aprobarea statului de funcții și a organigramei pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Uileacu de Beiuș și a serviciului din subordinea Consiliului Local Uileacu de Beiuș",
+"short": "HCL Uileacu de Beiuș nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/281054",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

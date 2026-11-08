@@ -313,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-15-2020",
+"path": "local/bihor/tauteu/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 15/2020 privind avizarea documentației pentru lucrarea Plan Urbanistic Zonal – CONSTRUIRE ÎN INTRAVILAN HALĂ PRODUCȚIE PRODUSE DIN BETON ARMAT PENTRU CONSTRUCȚII – PUZ+PUD – comuna Tăuteu, sat Chiribiș, Nr. cadastral 52132, județul Bihor",
+"short": "HCL Tăuteu nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/2620",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-16-2020",
 "path": "local/bihor/tauteu/2020/16",
 "kind": "local",
@@ -839,6 +861,28 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-40-2020",
+"path": "local/bihor/tauteu/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 40/2020 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/7407",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1371,6 +1415,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-65-2020",
+"path": "local/bihor/tauteu/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 65/2020 privind aprobarea documentației cadastrale pentru imobile – terenuri din comuna Tăuteu, județul Bihor, având categoria de folosință ”drum”, cu propunerea de constituire de numere cadastrale pentru aceste imobile",
+"short": "HCL Tăuteu nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/11074",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-66-2020",
 "path": "local/bihor/tauteu/2020/66",
 "kind": "local",
@@ -1589,6 +1655,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-76-2020",
+"path": "local/bihor/tauteu/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 76/2020 privind aprobarea documentației cadastrale pentru imobile-terenuri din comuna Tăuteu, județul Bihor, având categoria de folosință ”drum” și ”curți, construcții”, cu propunerea de constituire de numere cadastrale pentru aceste imobile",
+"short": "HCL Tăuteu nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-16",
+"latest": "2020-09-16",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/11094",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1966,6 +2054,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-94-2020",
+"path": "local/bihor/tauteu/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 94/2020 privind stabilirea cuantumului indemnizației lunare pentru participarea consilierilor locali la ședințele Consiliului Local al comunei Tăuteu și ale comisiilor de specialitate ale acestuia",
+"short": "HCL Tăuteu nr. 94/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/15008",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-95-2020",
 "path": "local/bihor/tauteu/2020/95",
 "kind": "local",
@@ -2008,6 +2118,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-97-2020",
+"path": "local/bihor/tauteu/2020/97",
+"kind": "local",
+"year": "2020",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 97/2020 privind aprobarea documentației cadastrale pentru imobile – terenuri din comuna Tăuteu, județul Bihor, având categoria de folosință ”drum” și ”curți, construcții”, cu propunerea de constituire de numere cadastrale pentru aceste imobile",
+"short": "HCL Tăuteu nr. 97/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/15011",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

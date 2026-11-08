@@ -3,6 +3,21 @@
  "shard": "local/bihor/sacadat/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--sacadat-1-2026",
+   "path": "local/bihor/sacadat/2026/1",
+   "short": "HCL Săcădat nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 1/2026 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/257317",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/257317",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacadat-10-2026",
    "path": "local/bihor/sacadat/2026/10",
    "short": "HCL Săcădat nr. 10/2026",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacadat-19-2026",
+   "path": "local/bihor/sacadat/2026/19",
+   "short": "HCL Săcădat nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 19/2026",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/263556",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/263556",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacadat-2-2026",
    "path": "local/bihor/sacadat/2026/2",
    "short": "HCL Săcădat nr. 2/2026",
@@ -238,6 +268,21 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/sacadat-bh/registru-hcl/268554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-26-2026",
+   "path": "local/bihor/sacadat/2026/26",
+   "short": "HCL Săcădat nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 26/2026 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/273325",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/273325",
      "sha256": null
     }
    ]
@@ -483,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacadat-41-2026",
+   "path": "local/bihor/sacadat/2026/41",
+   "short": "HCL Săcădat nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 41/2026 privind aprobarea Raportului de activitate aL asistenților personali pe semestrul I anul 2026",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/278981",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/278981",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacadat-42-2026",
    "path": "local/bihor/sacadat/2026/42",
    "short": "HCL Săcădat nr. 42/2026",
@@ -598,6 +658,21 @@
      "from": "2026-09-10",
      "units": 1,
      "source_url": "https://emol.ro/sacadat-bh/registru-hcl/289684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-5-2026",
+   "path": "local/bihor/sacadat/2026/5",
+   "short": "HCL Săcădat nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 5/2026 privind modificarea componenței Echipei mobile pentru intervenția de urgență în caz de violență domestică pe raza comunei Săcădat",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/257321",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/257321",
      "sha256": null
     }
    ]
@@ -753,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacadat-6-2026",
+   "path": "local/bihor/sacadat/2026/6",
+   "short": "HCL Săcădat nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 6/2026 privind aprobarea contractării de servicii de asistență juridică de către Comuna Săcădat, cu un cabinet de avocatură",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/257322",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/257322",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacadat-60-2026",
    "path": "local/bihor/sacadat/2026/60",
    "short": "HCL Săcădat nr. 60/2026",
@@ -778,6 +868,21 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/sacadat-bh/registru-hcl/296399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-7-2026",
+   "path": "local/bihor/sacadat/2026/7",
+   "short": "HCL Săcădat nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 7/2026 privind aprobarea înființării Celulei de urgență la nivelul comunei Săcădat, a structurii și a Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/257323",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/257323",
      "sha256": null
     }
    ]

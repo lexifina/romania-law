@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-4-2022",
+"path": "local/bihor/tulca/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 4/2022 privindaprobarea numărului de asistenţi personali ai persoanelor cu handicap grav şi a numărului de indemnizaţii pentru persoanele cu handicap grav pentru anul 2022",
+"short": "HCL Tulca nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/51073",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-5-2022",
 "path": "local/bihor/tulca/2022/5",
 "kind": "local",
@@ -1235,6 +1257,29 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-58-2022",
+"path": "local/bihor/tulca/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 58/2022",
+"short": "HCL Tulca nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-27",
+"latest": "2022-05-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/65198",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--tulca-59-2022",
 "path": "local/bihor/tulca/2022/59",
 "kind": "local",
@@ -1499,6 +1544,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-71-2022",
+"path": "local/bihor/tulca/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 71/2022 privind acordul de principiu pentru cumpărarea unor imobile în centrul localităţii Tulca",
+"short": "HCL Tulca nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/72921",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-72-2022",
 "path": "local/bihor/tulca/2022/72",
 "kind": "local",
@@ -1540,6 +1607,29 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-74-2022",
+"path": "local/bihor/tulca/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 74/2022",
+"short": "HCL Tulca nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-11",
+"latest": "2022-08-11",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/73008",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1607,6 +1697,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--tulca-78-2022",
+"path": "local/bihor/tulca/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 78/2022 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administraţie al Şcolii gimnaziale Nestor Porumb Tulca, pentru anul şcolar 2022-2023",
+"short": "HCL Tulca nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-02",
+"latest": "2022-09-02",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/75210",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1739,6 +1851,29 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-85-2022",
+"path": "local/bihor/tulca/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 85/2022",
+"short": "HCL Tulca nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/75658",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

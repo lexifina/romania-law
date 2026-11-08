@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-bacau--corbasca-1-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/15592
 hcl-bacau--corbasca-10-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/15601
 hcl-bacau--corbasca-100-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/42378
 hcl-bacau--corbasca-101-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/44460
@@ -44,6 +45,7 @@ hcl-bacau--corbasca-36-2021,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--corbasca-37-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/25780
 hcl-bacau--corbasca-38-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/25781
 hcl-bacau--corbasca-39-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/25782
+hcl-bacau--corbasca-4-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/15595
 hcl-bacau--corbasca-40-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/25783
 hcl-bacau--corbasca-41-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/25784
 hcl-bacau--corbasca-42-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/25785
@@ -57,6 +59,8 @@ hcl-bacau--corbasca-49-2021,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--corbasca-5-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/15596
 hcl-bacau--corbasca-50-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28050
 hcl-bacau--corbasca-51-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28051
+hcl-bacau--corbasca-52-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28052
+hcl-bacau--corbasca-53-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28053
 hcl-bacau--corbasca-54-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28054
 hcl-bacau--corbasca-55-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28055
 hcl-bacau--corbasca-56-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/28056
@@ -69,13 +73,18 @@ hcl-bacau--corbasca-61-2021,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--corbasca-62-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/32268
 hcl-bacau--corbasca-63-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/32269
 hcl-bacau--corbasca-64-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/32270
+hcl-bacau--corbasca-65-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/32271
 hcl-bacau--corbasca-66-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/32272
+hcl-bacau--corbasca-67-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/32273
 hcl-bacau--corbasca-68-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34342
+hcl-bacau--corbasca-69-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34343
 hcl-bacau--corbasca-7-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/15598
 hcl-bacau--corbasca-70-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34344
+hcl-bacau--corbasca-71-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34345
 hcl-bacau--corbasca-72-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34906
 hcl-bacau--corbasca-73-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34902
 hcl-bacau--corbasca-74-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34903
+hcl-bacau--corbasca-75-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34904
 hcl-bacau--corbasca-76-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/34905
 hcl-bacau--corbasca-77-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/35459
 hcl-bacau--corbasca-78-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/35460
@@ -91,6 +100,7 @@ hcl-bacau--corbasca-86-2021,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--corbasca-87-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/39319
 hcl-bacau--corbasca-88-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/39320
 hcl-bacau--corbasca-89-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/39321
+hcl-bacau--corbasca-9-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/15600
 hcl-bacau--corbasca-90-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/39322
 hcl-bacau--corbasca-91-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/39323
 hcl-bacau--corbasca-92-2021,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/corbasca-bc/registru-hcl/42370

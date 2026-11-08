@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-3-2025",
+"path": "local/bihor/uileacu-de-beius/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 3/2025",
+"short": "HCL Uileacu de Beiuș nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/186790",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-4-2025",
 "path": "local/bihor/uileacu-de-beius/2025/4",
 "kind": "local",
@@ -154,6 +177,29 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-9-2025",
+"path": "local/bihor/uileacu-de-beius/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 9/2025",
+"short": "HCL Uileacu de Beiuș nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/191439",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -377,6 +423,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-20-2025",
+"path": "local/bihor/uileacu-de-beius/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 20/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/196040",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-21-2025",
 "path": "local/bihor/uileacu-de-beius/2025/21",
 "kind": "local",
@@ -487,6 +555,29 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-26-2025",
+"path": "local/bihor/uileacu-de-beius/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 26/2025",
+"short": "HCL Uileacu de Beiuș nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/196916",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-27-2025",
 "path": "local/bihor/uileacu-de-beius/2025/27",
 "kind": "local",
@@ -528,6 +619,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-29-2025",
+"path": "local/bihor/uileacu-de-beius/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 29/2025 privind respingerea plângerii prealabile înregistrată sub nr.742 din data de 18.02.2025 împotriva Hotărârii Consiliului Local al comunei Uileacu de Beiuș nr.10 din data de 06.02.2025",
+"short": "HCL Uileacu de Beiuș nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/196919",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -704,6 +817,50 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-38-2025",
+"path": "local/bihor/uileacu-de-beius/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 38/2025 privind aprobarea achiziției publice de servicii juridice de consultanţă, de asistenţă şi de reprezentare în justiție a intereselor comunei Uileacu de Beiuș, autorității administrației publice locale Consiliului Local al comunei Uileacu de Beiuș și autorității administrației publice locale Primarul comunei Uileacu de Beiuș",
+"short": "HCL Uileacu de Beiuș nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/201567",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-39-2025",
+"path": "local/bihor/uileacu-de-beius/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 39/2025 privind aprobarea indicatorilor tehnico - economici actualizați, pentru obiectivul de investiții „ REALIZARE CENTRU DE PERMANENȚĂ ÎN DISPENSAR EXISTENT ”",
+"short": "HCL Uileacu de Beiuș nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/201568",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1037,6 +1194,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-55-2025",
+"path": "local/bihor/uileacu-de-beius/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 55/2025 privind acordul de principiu în vederea efectuării unui schimb de terenuri",
+"short": "HCL Uileacu de Beiuș nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/208234",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-56-2025",
 "path": "local/bihor/uileacu-de-beius/2025/56",
 "kind": "local",
@@ -1081,6 +1260,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-58-2025",
+"path": "local/bihor/uileacu-de-beius/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 58/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/211629",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-59-2025",
 "path": "local/bihor/uileacu-de-beius/2025/59",
 "kind": "local",
@@ -1100,6 +1301,50 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-60-2025",
+"path": "local/bihor/uileacu-de-beius/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 60/2025 privind aprobarea indicatorilor tehnico - economici actualizați, pentru obiectivul de investiții „ REALIZARE CENTRU DE PERMANENȚĂ ÎN DISPENSAR EXISTENT ”",
+"short": "HCL Uileacu de Beiuș nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/211631",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-61-2025",
+"path": "local/bihor/uileacu-de-beius/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 61/2025 privind aprobarea cheltuielilor eligibile și neeligibile, pentru pentru implementarea proiectului din fonduri nerambursabile intitulat – „ ÎNFIINTARE GRĂDINIȚĂ CU PROGRAM NORMAL ÎN LOCALITATEA UILEACU DE BEIUȘ, JUDEȚUL BIHOR ”",
+"short": "HCL Uileacu de Beiuș nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/211632",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1166,6 +1411,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-65-2025",
+"path": "local/bihor/uileacu-de-beius/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 65/2025 privind aprobarea cheltuielilor eligibile și neeligibile, pentru pentru implementarea proiectului din fonduri nerambursabile intitulat – „ ÎNFIINTARE GRĂDINIȚĂ CU PROGRAM NORMAL ÎN LOCALITATEA UILEACU DE BEIUȘ, JUDEȚUL BIHOR ”",
+"short": "HCL Uileacu de Beiuș nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/212432",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1478,6 +1745,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-80-2025",
+"path": "local/bihor/uileacu-de-beius/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 80/2025 privind aprobarea unui schimb de terenuri",
+"short": "HCL Uileacu de Beiuș nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-23",
+"latest": "2025-09-23",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/225102",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-81-2025",
 "path": "local/bihor/uileacu-de-beius/2025/81",
 "kind": "local",
@@ -1522,6 +1811,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-83-2025",
+"path": "local/bihor/uileacu-de-beius/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 83/2025 privind aprobarea organigramei și a statului de funcții din cadrul comunei Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/227827",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-84-2025",
 "path": "local/bihor/uileacu-de-beius/2025/84",
 "kind": "local",
@@ -1541,6 +1852,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-85-2025",
+"path": "local/bihor/uileacu-de-beius/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 85/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/231802",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

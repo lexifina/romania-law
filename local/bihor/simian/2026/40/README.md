@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Șimian nr. 40/2026 privind participarea UAT comuna Simian, in calitate de lider de parteneriat in Programul de Sanatate &#8211; Asigurarea accesului egal la asistenta medicala
+
+HCL Șimian nr. 40/2026 · 1 versions, from 2026-06-11 (latest in force: 2026-06-11) · <https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-40-din-11.06.2026-privind-participarea-UAT-comuna-Simian-in-calitate-de-lider-de-parteneriat-in-Programul-de-Sanatate-Asigurarea-accesului-egal-la-asistenta-medicala.pdf>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--simian-40-2026` (tags `hcl-bihor--simian-40-2026/<day>`; `python tools/on.py <day> hcl-bihor--simian-40-2026`).
+
+## Decisions made by hand
+
+- HCL Șimian nr. 40/2026: listed from Consiliul Local al Comunei Șimian (simian.ro); an individual decision: metadata only.
+- HCL Șimian nr. 40/2026: dated from 11 June 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Șimian nr. 40/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

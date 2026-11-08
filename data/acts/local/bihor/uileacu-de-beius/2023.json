@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-6-2023",
+"path": "local/bihor/uileacu-de-beius/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 6/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/91224",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-7-2023",
 "path": "local/bihor/uileacu-de-beius/2023/7",
 "kind": "local",
@@ -443,6 +465,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-22-2023",
+"path": "local/bihor/uileacu-de-beius/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 22/2023 privind formarea de numere cadastrale a unor imobile situate în comuna Uileacu de Beiuș, județul Bihor și înscrierea în proprietatea comunei Uileacu de Beiuș județul Bihor ca domeniu public",
+"short": "HCL Uileacu de Beiuș nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/100043",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-23-2023",
 "path": "local/bihor/uileacu-de-beius/2023/23",
 "kind": "local",
@@ -575,6 +619,28 @@
 }
 },
 {
+"slug": "hcl-bihor--uileacu-de-beius-29-2023",
+"path": "local/bihor/uileacu-de-beius/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 29/2023 privind stabilirea salariilor de bază la nivelul Comunei Uileacu de Beiuș județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/102742",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-30-2023",
 "path": "local/bihor/uileacu-de-beius/2023/30",
 "kind": "local",
@@ -594,6 +660,28 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-31-2023",
+"path": "local/bihor/uileacu-de-beius/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 31/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/105117",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1012,6 +1100,50 @@
 "council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-51-2023",
+"path": "local/bihor/uileacu-de-beius/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 51/2023 privind constituirea ca parte civilă a Comunei Uileacu de Beiuș în Dosarul penal nr. 300/P/2023",
+"short": "HCL Uileacu de Beiuș nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/114804",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-52-2023",
+"path": "local/bihor/uileacu-de-beius/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 52/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Uileacu de Beiuș nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/116789",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

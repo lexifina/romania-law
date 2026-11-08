@@ -3,6 +3,28 @@
 "shard": "local/bihor/tulca/2020",
 "acts": [
 {
+"slug": "hcl-bihor--tulca-30-2020",
+"path": "local/bihor/tulca/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 30/2020 privind alegerea președintelui de ședință",
+"short": "HCL Tulca nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/19689",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-31-2020",
 "path": "local/bihor/tulca/2020/31",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-34-2020",
+"path": "local/bihor/tulca/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 34/2020 privind alegerea viceprimarului comunei Tulca, județul Bihor",
+"short": "HCL Tulca nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/19693",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-39-2020",
+"path": "local/bihor/tulca/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 39/2020 privind validarea Dispoziției primarului comunei Tulca nr. 177/21.10.2020 pentru constituirea echipei de implementare a proiectului ” Creșterea capacității de gestionare a crizei sanitare COVID-19 pentru elevii și cadrele didactice din Comuna Tulca, județul Bihor”",
+"short": "HCL Tulca nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/19698",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-40-2020",
 "path": "local/bihor/tulca/2020/40",
 "kind": "local",
@@ -220,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-43-2020",
+"path": "local/bihor/tulca/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 43/2020 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administrației al Școlii Gimnaziale Nestor Porumb Tulca, pentru anul școlar 2020-2021",
+"short": "HCL Tulca nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/19702",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

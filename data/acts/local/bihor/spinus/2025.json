@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-bihor--spinus-12-2025",
+"path": "local/bihor/spinus/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 12/2025 privind aprobarea încheierii unui contract de asistență juridică cu un avocat/societate civilă profesională de avocați, pentru apărarea intereselor în instanță, al UAT Comuna Spinuș",
+"short": "HCL Spinuș nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/197783",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--spinus-13-2025",
 "path": "local/bihor/spinus/2025/13",
 "kind": "local",
@@ -572,6 +594,117 @@
 "council_name": "Consiliul Local al Comunei Spinuș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-28-2025",
+"path": "local/bihor/spinus/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 28/2025 privind aprobarea închirierii directe către CMI Dr. Erdei Daniela-Simona a spaţiului cu destinaţia de cabinet medical situat în localitatea Spinuș, nr. 46, Comuna Spinuș, județul Bihor",
+"short": "HCL Spinuș nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/218387",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-29-2025",
+"path": "local/bihor/spinus/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 29/2025 privind alegerea președintelui de ședință pentru perioada august-octombrie 2025",
+"short": "HCL Spinuș nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/222833",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-30-2025",
+"path": "local/bihor/spinus/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 30/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 29 august 2025",
+"short": "HCL Spinuș nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/222834",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-31-2025",
+"path": "local/bihor/spinus/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 31/2025 privind aprobarea procesului - verbal al ședinței anterioare",
+"short": "HCL Spinuș nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/222835",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--spinus-32-2025",
+"path": "local/bihor/spinus/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 32/2025",
+"short": "HCL Spinuș nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/222836",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

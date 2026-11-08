@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-6-2023",
+"path": "local/bihor/tulca/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 6/2023 privind actualizarea CF 59260 Tulca aferentă imobilului situat în intravilanul localității Tulca, nr. administrativ 55-56, pe care este amplasată Școala cu clasele I-IV din Tulca și introducerea sa în domeniul public al Comunei Tulca",
+"short": "HCL Tulca nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/90398",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-7-2023",
 "path": "local/bihor/tulca/2023/7",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-9-2023",
+"path": "local/bihor/tulca/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 9/2023 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav şi a numărului de indemnizaţii pentru persoanele cu handicap grav pentru anul 2023",
+"short": "HCL Tulca nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/90401",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -465,6 +509,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-24-2023",
+"path": "local/bihor/tulca/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 24/2023 privind aprobare proces-verbal 27.01.2023, proces-verbal 02.02.2023 și proces-verbal 09.02.2023",
+"short": "HCL Tulca nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122045",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-25-2023",
 "path": "local/bihor/tulca/2023/25",
 "kind": "local",
@@ -550,6 +616,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-29-2023",
+"path": "local/bihor/tulca/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 29/2023 privind aprobarea închiriere pășuni și Regulament privind închirierea prin atribuire directă",
+"short": "HCL Tulca nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122050",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1258,6 +1346,887 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-62-2023",
+"path": "local/bihor/tulca/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 62/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 30.05.2023",
+"short": "HCL Tulca nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122303",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-63-2023",
+"path": "local/bihor/tulca/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 63/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 28.04.2023 si a procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data 10.05.2023",
+"short": "HCL Tulca nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122304",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-64-2023",
+"path": "local/bihor/tulca/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 64/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023 VARIANTA III a comunei Tulca",
+"short": "HCL Tulca nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122305",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-65-2023",
+"path": "local/bihor/tulca/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 65/2023 privind revocarea hotararii Consiliului Local Tulca nr.39 din 20.03.2023 privind aprobarea scoaterii din circuitul agricol al terenului în suprafață de 13000 m.p. situat în extravilanul Comunei Tulca, inscris in CF61356 Tulca, în vederea realizarii obiectivului de investitii,,Construire ferma gaini ouatoare in com Tulca , Jud Bihor” de catre SC Oul de Tinca SRL",
+"short": "HCL Tulca nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122306",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-66-2023",
+"path": "local/bihor/tulca/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 66/2023 privind numirea persoanei care ocupă funcția de șef serviciu al Serviciului Public de Gospodărire Comunală Tulca – județul Bihor ca urmare a concursului organizat în acest sens",
+"short": "HCL Tulca nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122307",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-67-2023",
+"path": "local/bihor/tulca/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 67/2023 privind stabilirea unei suprafete de teren in vederea depozitarii temporare a deseurilor inerte rezultate din activitati de constructii si demolari de pe raza UAT Tulca, judetul Bihor",
+"short": "HCL Tulca nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122308",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-68-2023",
+"path": "local/bihor/tulca/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 68/2023 privind completarea inventarului bunurilor care aparțin domeniului public al Comunei Tulca cu imobilul teren extravilan înscris în CF 61493 Tulca, număr cadastral 61493, în suprafață de 2.503 mp",
+"short": "HCL Tulca nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122309",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-69-2023",
+"path": "local/bihor/tulca/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 69/2023 privind emiterea acordului pentru scoaterea definitivă din circuitul agricol a terenului în suprafață de 2503 mp, aflat în proprietatea publică a Comunei Tulca, înscris în CF nr. 61493 Tulca, identificat cu număr cadastral 61493, în vederea implementării investiției „EXTINDERE REȚELE DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA TULCA , JUDEȚUL BIHOR” în cadrul Programului Național de Investiții „Anghel Saligny” și declararea de utilitate publică de interes local a acestei investiții",
+"short": "HCL Tulca nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122310",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-70-2023",
+"path": "local/bihor/tulca/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 70/2023 privind aprobarea documentației tehnico-economice, faza studiu de fezabilitate, pentru obiectivul de investiție „SISTEM DE MONITORIZARE ȘI SIGURANȚĂ A SPAȚIULUI PUBLIC AL COMUNEI TULCA, JUDEȚUL BIHOR”, finanțat prin Planul Național de Redresare și Reziliență în cadrul apelului de proiecte Componenta 10 – Fondul local, Obiectul de investiții I.1 Mobilitatea urbană durabilă, Subinvestiția I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+"short": "HCL Tulca nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122311",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-71-2023",
+"path": "local/bihor/tulca/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 71/2023 privind aprobarea documentației tehnico-economice, faza documentație de avizare a lucrărilor de intervenție, pentru obiectivul de investiție „LUCRĂRI DE MODERNIZARE ȘI EFICIENTIZARE A GRĂDINIȚEI DIN LOCALITATEA CĂUAȘD, COMUNA TULCA, JUDEȚUL BIHOR”, finanțat prin Planul Național de Redresare și Reziliență, Componenta 10 – Fondul local, Obiectul de investiții I.3 Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale",
+"short": "HCL Tulca nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122312",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-72-2023",
+"path": "local/bihor/tulca/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 72/2023 privind aprobarea documentației tehnico-economice, faza documentație de avizare a lucrărilor de intervenție, pentru obiectivul de investiție „LUCRĂRI DE MODERNIZARE ȘI EFICIENTIZARE A ȘCOLII ȘI GRĂDINIȚEI TULCA NOUĂ, COMUNA TULCA, JUD. BIHOR”, finanțat prin Planul Național de Redresare și Reziliență, Componenta 10 – Fondul local, Obiectul de investiții I.3 Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale",
+"short": "HCL Tulca nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122313",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-73-2023",
+"path": "local/bihor/tulca/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 73/2023 privind aprobarea documentației de dezmembrare a imobilului cu număr cadastral 61117, înscris în CF nr. 61117 Tulca, amplasat în satul Căuașd, aflat în domeniul public al Comunei Tulca",
+"short": "HCL Tulca nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122314",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-74-2023",
+"path": "local/bihor/tulca/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 74/2023 privind modificarea HCL Tulca nr. 32 din 24.02.2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici inițiali și actualizați, a devizului general inițial și actualizat al obiectivului și a cofinanțării în vederea realizării obiectivului de investiție „EXTINDERE REȚELE DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA TULCA, JUDEȚUL BIHOR”",
+"short": "HCL Tulca nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122315",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-75-2023",
+"path": "local/bihor/tulca/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 75/2023 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Tulca din data de 16.06.2023",
+"short": "HCL Tulca nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122343",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-76-2023",
+"path": "local/bihor/tulca/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 76/2023 privind aprobarea participării unității administrativ teritoriale COMUNA TULCA în cadrul proiectul ”Îmbunătățirea condițiilor de transport pentru elevii din Județul Bihor prin furnizarea de microbuze școlare electrice” și aprobarea acordului de parteneriat în vederea depunerii cererii de finanțare în cadrul Apelului de proiecte „Microbuze electrice pentru elevi\", ce va fi finanțat prin Planul Naţional de Redresare și Reziliență - Componenta C15: Educaţie",
+"short": "HCL Tulca nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122344",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-77-2023",
+"path": "local/bihor/tulca/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 77/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 30.06.2023",
+"short": "HCL Tulca nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122349",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-78-2023",
+"path": "local/bihor/tulca/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 78/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 30.05.2023 si a procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data 16.06.2023",
+"short": "HCL Tulca nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122350",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-79-2023",
+"path": "local/bihor/tulca/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 79/2023 privind modificarea si completarea HCL nr 29 din 24.02.2023 pentru aprobarea închirierii pasunilor si terenului arabil din patrimoniul privat al comunei Tulca, precum și aprobarea Regulamentului privind închirierea prin atribuire directă",
+"short": "HCL Tulca nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122351",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-80-2023",
+"path": "local/bihor/tulca/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 80/2023 privind aprobarea raportului privind analiza apararii impotriva incendiilor pe semestrul I al anului 2023",
+"short": "HCL Tulca nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122352",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-81-2023",
+"path": "local/bihor/tulca/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 81/2023 privind numirea persoanei care ține Registrul de evidență a datoriei publice locale a unității administrativ teritoriale Comuna Tulca și Registrul de evidență a garanțiilor locale a unității administrativ teritoriale Comuna Tulca, precum și numirea înlocuitorului acesteia",
+"short": "HCL Tulca nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122353",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-82-2023",
+"path": "local/bihor/tulca/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 82/2023 privind majorarea obligatiilor financiare rezultate din Acordul de cooperare privind organizarea si exercitarea activitatii administrative dintre Comuna Tulca și A.Co.R – Filiala Județeană Bihor",
+"short": "HCL Tulca nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122354",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-83-2023",
+"path": "local/bihor/tulca/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 83/2023 privind modificarea HCL nr. 28/2022 privind aprobarea salariilor de bază pentru funcțiile aferente familiei ocupaţionale „Administraţie” din cadrul Aparatului de specialitate al Primarului comunei Tulca",
+"short": "HCL Tulca nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122355",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-84-2023",
+"path": "local/bihor/tulca/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 84/2023 privind exprimarea acordului de principiu cu privire la demararea procedurii de achiziţionare în sistem leasing financiar a unui tractor cu accesorii pentru intretinerea spatiilor publice ale comunei Tulca",
+"short": "HCL Tulca nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122356",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-85-2023",
+"path": "local/bihor/tulca/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 85/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 28.07.2023",
+"short": "HCL Tulca nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122376",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-86-2023",
+"path": "local/bihor/tulca/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 86/2023 privind aprobarea procesului-verbal al sedintei ordinare a Consiliului Local Tulca din data de 30.06.2023",
+"short": "HCL Tulca nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122377",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-87-2023",
+"path": "local/bihor/tulca/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 87/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023 VARIANTA IV a comunei Tulca",
+"short": "HCL Tulca nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122378",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-88-2023",
+"path": "local/bihor/tulca/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 88/2023 privind aprobarea rectificării la bugetul local pentru Serviciul Public de Gospodărire Comunală Tulca pe anul 2023, varianta a II a",
+"short": "HCL Tulca nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122379",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-89-2023",
+"path": "local/bihor/tulca/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 89/2023 privind aprobarea Raportului privind asistentii persoanli ai persoanelor cu handicap grav pentru semestrul I al anului 2023",
+"short": "HCL Tulca nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122380",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-90-2023",
+"path": "local/bihor/tulca/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 90/2023 privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2021-2025-2030 a comunei Tulca, judetul Bihor",
+"short": "HCL Tulca nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122381",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-91-2023",
+"path": "local/bihor/tulca/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 91/2023 privind aprobarea participării Comunei Tulca la Programul de interes județean „ÎMPREUNĂ PENTRU UN JUDEȚ CURAT\" și derularea acțiunilor necesare implementării programului",
+"short": "HCL Tulca nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122382",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-92-2023",
+"path": "local/bihor/tulca/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 92/2023 privind alegerea presedintelui de sedinta pentru lunile august-septembrie-octombrie 2023",
+"short": "HCL Tulca nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122383",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-93-2023",
+"path": "local/bihor/tulca/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 93/2023 privind aprobarea contractarii unei finantari rambursabile interne in valoare de aproximativ 784.943,32 lei cu TVA",
+"short": "HCL Tulca nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122384",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-94-2023",
+"path": "local/bihor/tulca/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 94/2023 privind completarea anexei nr.3 la Hotararea Consiliului Local al comunei Tulca nr. 18/02.02.2023 -Lista de investitii a comunei Tulca, pe anul 2023",
+"short": "HCL Tulca nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122385",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-95-2023",
+"path": "local/bihor/tulca/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 95/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 31.07.2023",
+"short": "HCL Tulca nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122386",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-96-2023",
+"path": "local/bihor/tulca/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 96/2023 privind aprobarea contractării unui împrumut în valoare de 1.165.301 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Tulca nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122387",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-97-2023",
+"path": "local/bihor/tulca/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 97/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 10.08.2023",
+"short": "HCL Tulca nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122388",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-98-2023",
+"path": "local/bihor/tulca/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 98/2023 privind încheierea unui Acord de colaborare între UAT Comuna Tulca și UAT Județul Bihor – Consiliul Județean Bihor în vederea realizării unor lucrări de interes public pentru creșterea siguranței rutiere",
+"short": "HCL Tulca nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122389",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-99-2023",
+"path": "local/bihor/tulca/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 99/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 25.08.2023",
+"short": "HCL Tulca nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122498",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-100-2023",
+"path": "local/bihor/tulca/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 100/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 28.07.2023, a procesului verbal al sedintei extraordinare, cu convocare de indata din data de 31.07.2023 si a procesului verbal al sedintei extraordinare, cu convocare de indata din data de 10.08.2023",
+"short": "HCL Tulca nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122499",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-101-2023",
+"path": "local/bihor/tulca/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 101/2023",
+"short": "HCL Tulca nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122500",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--tulca-102-2023",
 "path": "local/bihor/tulca/2023/102",
 "kind": "local",
@@ -1277,6 +2246,314 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-103-2023",
+"path": "local/bihor/tulca/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 103/2023 privind aprobarea documentației de dezmembrare a imobilului cu număr cadastral 61355, înscris în CF nr. 61355 Tulca, amplasat în extravilanul satului Tulca, aflat în domeniul privat al Comunei Tulca",
+"short": "HCL Tulca nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122502",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-104-2023",
+"path": "local/bihor/tulca/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 104/2023 privind modificarea Anexei la HCL Tulca nr. 74 din 30.05.2023 privind modificarea HCL Tulca nr. 32 din 24.02.2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici inițiali și actualizați, a devizului general inițial și actualizat al obiectivului și a cofinanțării în vederea realizării obiectivului de investiție „EXTINDERE REȚELE DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA TULCA, JUDEȚUL BIHOR”",
+"short": "HCL Tulca nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122503",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-105-2023",
+"path": "local/bihor/tulca/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 105/2023 privind aprobarea statului de funcţii și a organigramei pentru Aparatul de specialitate al Primarului Comunei Tulca",
+"short": "HCL Tulca nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122504",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-106-2023",
+"path": "local/bihor/tulca/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 106/2023 privind aprobarea statului de funcţii și a organigramei pentru Serviciul Public de Gospodărire Comunală Tulca – județul Bihor",
+"short": "HCL Tulca nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122505",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-107-2023",
+"path": "local/bihor/tulca/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 107/2023 privind abrogarea Hotărârii Consiliului Local al Comunei Tulca nr. 59 din 25.06.2021 privind însușirea variantei finale a proiectului de stemă a comunei Tulca",
+"short": "HCL Tulca nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122506",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-108-2023",
+"path": "local/bihor/tulca/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 108/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023 VARIANTA V a comunei Tulca",
+"short": "HCL Tulca nr. 108/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122507",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-109-2023",
+"path": "local/bihor/tulca/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 109/2023 privind convocarea în ședință extraordinară de indata, a Consiliului Local Tulca din data de 11.09.2023",
+"short": "HCL Tulca nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122525",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-110-2023",
+"path": "local/bihor/tulca/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 110/2023 privind aprobarea documentației tehnico-economice, faza proiect tehnic de execuție, pentru obiectivul de investiție „LUCRĂRI DE MODERNIZARE ȘI EFICIENTIZARE A GRĂDINIȚEI DIN LOCALITATEA CĂUAȘD, COMUNA TULCA, JUDEȚUL BIHOR”, finanțat prin Planul Național de Redresare și Reziliență, Componenta 10 – Fondul local, Obiectul de investiții I.3 „Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”",
+"short": "HCL Tulca nr. 110/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122526",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-111-2023",
+"path": "local/bihor/tulca/2023/111",
+"kind": "local",
+"year": "2023",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 111/2023 privind aprobarea documentației tehnico-economice, faza proiect tehnic de execuție, pentru obiectivul de investiție „LUCRĂRI DE MODERNIZARE ȘI EFICIENTIZARE A ȘCOLII ȘI GRĂDINIȚEI TULCA NOUĂ, COMUNA TULCA, JUDEȚUL BIHOR”, finanțat prin Planul Național de Redresare și Reziliență, Componenta 10 – Fondul local, Obiectul de investiții I.3 „Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”",
+"short": "HCL Tulca nr. 111/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/122527",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-112-2023",
+"path": "local/bihor/tulca/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 112/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 27.09.2023",
+"short": "HCL Tulca nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/124345",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-113-2023",
+"path": "local/bihor/tulca/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 113/2023 privind aprobarea studiul de fezabilitate şi a indicatorilor tehnico-economici aferenți obiectivului de investiție „REALIZARE PISTĂ DE BICICLETE ÎN COMUNA TULCA, JUDEȚUL BIHOR”, precum și a acordului privind asigurarea contribuției financiare necesare realizării proiectului pentru cheltuielile care nu sunt finanțate din Fondul pentru Mediu în cadrul „Programului de realizare a pistelor pentru biciclete” derulat de Administrația Fondului pentru Mediu",
+"short": "HCL Tulca nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/124346",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-114-2023",
+"path": "local/bihor/tulca/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 114/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 29.09.2023",
+"short": "HCL Tulca nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148166",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-115-2023",
+"path": "local/bihor/tulca/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 115/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 25.08.2023 si a procesului verbal al sedintei extraordinare, cu convocare de indata din data de 11.09.2023",
+"short": "HCL Tulca nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148167",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-116-2023",
+"path": "local/bihor/tulca/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 116/2023 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administraţie al Scolii Gimnaziale Nestor Porumb Tulca, pentru anul şcolar 2023-2024",
+"short": "HCL Tulca nr. 116/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148168",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1346,6 +2623,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-120-2023",
+"path": "local/bihor/tulca/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 120/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 27.10.2023",
+"short": "HCL Tulca nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148194",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-121-2023",
+"path": "local/bihor/tulca/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 121/2023 privind aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Tulca din data de 27.09.2023 si a procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 29.09.2023",
+"short": "HCL Tulca nr. 121/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148195",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-122-2023",
 "path": "local/bihor/tulca/2023/122",
 "kind": "local",
@@ -1387,6 +2708,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-124-2023",
+"path": "local/bihor/tulca/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 124/2023 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administraţie al Gradinitei cu Program Normal Eldad Tulca, pentru anul şcolar 2023-2024",
+"short": "HCL Tulca nr. 124/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148198",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1456,6 +2799,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-128-2023",
+"path": "local/bihor/tulca/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 128/2023 privind alegerea presedintelui de sedinta pentru lunile noiembrie-decembrie 2023, ianuarie 2024",
+"short": "HCL Tulca nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148202",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-129-2023",
+"path": "local/bihor/tulca/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 129/2023 privind aprobarea documentației de dezmembrare a imobilului cu număr cadastral 60646, înscris în CF nr. 60646 Tulca, amplasat în intravilanul satului Tulca, aflat în proprietatea Comunei Tulca",
+"short": "HCL Tulca nr. 129/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148203",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-130-2023",
 "path": "local/bihor/tulca/2023/130",
 "kind": "local",
@@ -1475,6 +2862,50 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-131-2023",
+"path": "local/bihor/tulca/2023/131",
+"kind": "local",
+"year": "2023",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 131/2023 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Tulca din data de 24.11.2023",
+"short": "HCL Tulca nr. 131/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148221",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-132-2023",
+"path": "local/bihor/tulca/2023/132",
+"kind": "local",
+"year": "2023",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 132/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tulca din data de 27.10.2023",
+"short": "HCL Tulca nr. 132/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148222",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1566,6 +2997,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-137-2023",
+"path": "local/bihor/tulca/2023/137",
+"kind": "local",
+"year": "2023",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 137/2023 privind aprobarea Regulamentului privind stabilirea condiţiilor de majorare a impozitului pe clădirile şi terenurile neîngrijite, situate în intravilanul comunei Tulca și a terenurilor agricole nelucrate timp de 2 ani consecutiv, situate în extravilanul comunei Tulca",
+"short": "HCL Tulca nr. 137/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148227",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-138-2023",
 "path": "local/bihor/tulca/2023/138",
 "kind": "local",
@@ -1588,6 +3041,72 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-139-2023",
+"path": "local/bihor/tulca/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 139/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul III, anul 2023 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+"short": "HCL Tulca nr. 139/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148229",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-140-2023",
+"path": "local/bihor/tulca/2023/140",
+"kind": "local",
+"year": "2023",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 140/2023 privind completarea inventarului bunurilor care aparțin domeniului public al Comunei Tulca cu imobilele terenuri extravilan înscrise în CF 60621, 60961 Tulca, numere cadastrale 60621 și 60961, în suprafață de 7.442 mp, respectiv 3.179 mp",
+"short": "HCL Tulca nr. 140/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148230",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-141-2023",
+"path": "local/bihor/tulca/2023/141",
+"kind": "local",
+"year": "2023",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 141/2023 privind completarea inventarului bunurilor care aparțin domeniului public al Comunei Tulca cu imobilul teren intravilan înscris în CF 58888 Tulca, număr cadastral 58888, în suprafață de 13.965 mp",
+"short": "HCL Tulca nr. 141/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148231",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-142-2023",
 "path": "local/bihor/tulca/2023/142",
 "kind": "local",
@@ -1607,6 +3126,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-143-2023",
+"path": "local/bihor/tulca/2023/143",
+"kind": "local",
+"year": "2023",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 143/2023 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de indata, a Consiliului Local Tulca din data de 05.12.2023",
+"short": "HCL Tulca nr. 143/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/148241",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

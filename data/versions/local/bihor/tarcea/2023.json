@@ -3,6 +3,36 @@
  "shard": "local/bihor/tarcea/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--tarcea-1-2023",
+   "path": "local/bihor/tarcea/2023/1",
+   "short": "HCL Tarcea nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 1/2023 privind aprobarea ordinii de zi a ședinței Consiliului Local al Comunei Tarcea în ședință ordinară pentru data de 31.01.2023, ora 10,00",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/87504",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-10-2023",
+   "path": "local/bihor/tarcea/2023/10",
+   "short": "HCL Tarcea nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 10/2023 privind aprobarea modelului contractului de voluntariat care se va încheia între Consiliul Local al Comunei Tarcea și membrii Serviciului Voluntar pentru Situaţii de Urgenţă din Comuna Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93052",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-100-2023",
    "path": "local/bihor/tarcea/2023/100",
    "short": "HCL Tarcea nr. 100/2023",
@@ -153,6 +183,216 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tarcea-11-2023",
+   "path": "local/bihor/tarcea/2023/11",
+   "short": "HCL Tarcea nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 11/2023 privind aprobarea Planului de asigurare cu resurse financiare, materiale și umane necesare pentru gestionarea Situațiilor de Urgență în anul 2023, în Comuna Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93053",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-12-2023",
+   "path": "local/bihor/tarcea/2023/12",
+   "short": "HCL Tarcea nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 12/2023 privind aprobarea bilanțului, contului de rezultat patrimonial și contului de execuție bugetară a Comunei Tarcea, la data de 31.12.2022",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93054",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-13-2023",
+   "path": "local/bihor/tarcea/2023/13",
+   "short": "HCL Tarcea nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 13/2023 privind completarea nr.2 a Hotărârii Consiliului Local nr.62 din 13.09.2022 referitor la atestarea domeniului privat al Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93055",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-14-2023",
+   "path": "local/bihor/tarcea/2023/14",
+   "short": "HCL Tarcea nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 14/2023 privind rectificarea nr.1 a bugetului Comunei Tarcea pe anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93056",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-15-2023",
+   "path": "local/bihor/tarcea/2023/15",
+   "short": "HCL Tarcea nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 15/2023 privind modificarea statului de funcţii pentru aparatul de specialitate al Primarului Comunei Tarcea, Judeţul Bihor",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93057",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-16-2023",
+   "path": "local/bihor/tarcea/2023/16",
+   "short": "HCL Tarcea nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 16/2023 privind aprobarea constituirii dreptului de superficie cu titlu gratuit, asupra terenului în suprafață de 3000 mp identificat prin numărul cadastral 51973 înscris în Cartea Funciară nr. 51973 Tarcea, în favoarea societății APA CANAL NORD VEST SA",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93058",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-17-2023",
+   "path": "local/bihor/tarcea/2023/17",
+   "short": "HCL Tarcea nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 17/2023 privind aprobarea investiției ”Amenajarea parcului de lângă sediul de primărie Tarcea, Comuna Tarcea, Județul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93059",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-18-2023",
+   "path": "local/bihor/tarcea/2023/18",
+   "short": "HCL Tarcea nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 18/2023 privind aprobarea proiectului „Dotarea cu mobilier, materiale didactice și echipamente a unităților de învățământ din Comuna Tarcea, Județul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93060",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-19-2023",
+   "path": "local/bihor/tarcea/2023/19",
+   "short": "HCL Tarcea nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 19/2023 privind ajustarea prețului din devizul general actualizat pentru proiectul „EXTINDERE SI MODERNIZARE SCOALA CU CLASELE I-VIII, SAT GALOSPETREU, COMUNA TARCEA” în baza Ordonanței de Urgență a Guvernului nr.64/2022",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93061",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-2-2023",
+   "path": "local/bihor/tarcea/2023/2",
+   "short": "HCL Tarcea nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 2/2023 privind aprobarea conţinutului procesului verbal al şedinţei extraordinare de îndată a Consiliului Local al Comunei Tarcea din data de 22.12.2022",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/87505",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-20-2023",
+   "path": "local/bihor/tarcea/2023/20",
+   "short": "HCL Tarcea nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 20/2023 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului local al Comunei Tarcea din data de 30.03.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98038",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-21-2023",
+   "path": "local/bihor/tarcea/2023/21",
+   "short": "HCL Tarcea nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 21/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului local al Comunei Tarcea din data de 27.02.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98039",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-22-2023",
+   "path": "local/bihor/tarcea/2023/22",
+   "short": "HCL Tarcea nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 22/2023 privind aprobarea modificării, completării și actualizării Actului Constitutiv și al Statutului al Asociației de dezvoltare intercomunitară pentru serviciul de introducere și furnizare a gazului „ASOCIAȚIA ADI GAZ NORD-VEST BIHOR”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98040",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-23-2023",
+   "path": "local/bihor/tarcea/2023/23",
+   "short": "HCL Tarcea nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 23/2023 privind neasumarea responsabilităţii Comunei Tarcea privind organizarea şi derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor-cadrude prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru şcoli al României în perioada 2023-2026",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98041",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98041",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-24-2023",
    "path": "local/bihor/tarcea/2023/24",
    "short": "HCL Tarcea nr. 24/2023",
@@ -168,6 +408,81 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tarcea-25-2023",
+   "path": "local/bihor/tarcea/2023/25",
+   "short": "HCL Tarcea nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 25/2023 privind constituirea Grupului de lucru în vederea identificării așezărilor informale, evaluării situației acestora și stabilirii măsurilor necesare, la nivelul Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98043",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-26-2023",
+   "path": "local/bihor/tarcea/2023/26",
+   "short": "HCL Tarcea nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 26/2023 privind aprobarea valorii actualizate a lucrărilor rest de executat aferente proiectului „EXTINDERE ȘI MODERNIZARE ȘCOALA CU CLASELE I-VIII, SAT GALOȘPETREU, COMUNA TARCEA”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98044",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-27-2023",
+   "path": "local/bihor/tarcea/2023/27",
+   "short": "HCL Tarcea nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 27/2023 privind aprobarea încheierii de acte adiționale la contractele de închiriere pentru suprafeţele de pajişti aflate în proprietatea Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98045",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-28-2023",
+   "path": "local/bihor/tarcea/2023/28",
+   "short": "HCL Tarcea nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 28/2023 privind alegerea președintelui de ședință pentru perioada aprilie-iunie 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98046",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-29-2023",
+   "path": "local/bihor/tarcea/2023/29",
+   "short": "HCL Tarcea nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 29/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 27.04.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102978",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-3-2023",
    "path": "local/bihor/tarcea/2023/3",
    "short": "HCL Tarcea nr. 3/2023",
@@ -178,6 +493,21 @@
      "from": "2023-10-17",
      "units": 1,
      "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-30-2023",
+   "path": "local/bihor/tarcea/2023/30",
+   "short": "HCL Tarcea nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 30/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului local al Comunei Tarcea din data de 30.03.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102979",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102979",
      "sha256": null
     }
    ]
@@ -228,6 +558,126 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tarcea-34-2023",
+   "path": "local/bihor/tarcea/2023/34",
+   "short": "HCL Tarcea nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 34/2023 privind rectificarea nr.2 a bugetului Comunei Tarcea pe anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102983",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-35-2023",
+   "path": "local/bihor/tarcea/2023/35",
+   "short": "HCL Tarcea nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 35/2023 privind aprobarea bilanțului, contului de rezultat patrimonial și contului de execuție bugetară a Comunei Tarcea, la data de 31.03.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102984",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-36-2023",
+   "path": "local/bihor/tarcea/2023/36",
+   "short": "HCL Tarcea nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 36/2023 privind aprobarea încheierii de acte adiționale la contractele de închiriere nr.1269, nr.1275, nr.1282, nr.1285, nr.1287, nr.1289, nr.1296 și nr.1298/27.04.2016",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102985",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-37-2023",
+   "path": "local/bihor/tarcea/2023/37",
+   "short": "HCL Tarcea nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 37/2023 privind majorarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102986",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-38-2023",
+   "path": "local/bihor/tarcea/2023/38",
+   "short": "HCL Tarcea nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 38/2023 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al Primarului Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102987",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-39-2023",
+   "path": "local/bihor/tarcea/2023/39",
+   "short": "HCL Tarcea nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 39/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 23.05.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105729",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-4-2023",
+   "path": "local/bihor/tarcea/2023/4",
+   "short": "HCL Tarcea nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 4/2023 privind reorganizarea Serviciului Voluntar pentru Situaţii de Urgenţă din Comuna Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/87507",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-40-2023",
+   "path": "local/bihor/tarcea/2023/40",
+   "short": "HCL Tarcea nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 40/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Tarcea din data de 27.04.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105730",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-41-2023",
    "path": "local/bihor/tarcea/2023/41",
    "short": "HCL Tarcea nr. 41/2023",
@@ -243,6 +693,321 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tarcea-42-2023",
+   "path": "local/bihor/tarcea/2023/42",
+   "short": "HCL Tarcea nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 42/2023 privind aprobarea implementării proiectului „Dotarea cu utilaje și echipamente a Comunei Tarcea, judetul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105732",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-43-2023",
+   "path": "local/bihor/tarcea/2023/43",
+   "short": "HCL Tarcea nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 43/2023 privind completarea Strategiei de dezvoltare locală pentru perioada 2021 – 2027 a unității administrativ teritoriale Tarcea, judeţul Bihor",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105733",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-44-2023",
+   "path": "local/bihor/tarcea/2023/44",
+   "short": "HCL Tarcea nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 44/2023 privind participarea Comunei Tarcea ca membru în Asociația Grupul de Acțiune Locală Bihor de pe lângă frontiera cu Ungaria, respectiv participarea Comunei Tarcea la implementarea Măsurii 19 - Dezvoltarea locală LEADER, finanțat prin Planul Național Strategic PAC 2023-2027",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105734",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-45-2023",
+   "path": "local/bihor/tarcea/2023/45",
+   "short": "HCL Tarcea nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 45/2023 privind aprobarea prelungirii scrisorii de garantie din partea Fondului de Garantie a Creditului Rural pentru obiectivul „Reabilitarea, modernizarea și dotarea căminului cultural din localitatea Galoșpetreu, comuna Tarcea, judeţul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105735",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-46-2023",
+   "path": "local/bihor/tarcea/2023/46",
+   "short": "HCL Tarcea nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 46/2023 privind rectificarea nr.3 a bugetului Comunei Tarcea pe anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105736",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-47-2023",
+   "path": "local/bihor/tarcea/2023/47",
+   "short": "HCL Tarcea nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 47/2023 privind aprobarea documentaţiei tehnico-economice – faza DALI şi a indicatorilor tehnico-economici pentru obiectivul „Reabilitarea moderată a Căminului cultural din localitatea Tarcea și a Grădiniței nr. 2 din localitatea Adoni, comuna Tarcea, județul Bihor” – componenta „Creșterea eficienței energetice și gestionarea inteligentă a energei în Grădiniţa cu program normal nr. 2 Adoni, comuna Tarcea, județul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105737",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-48-2023",
+   "path": "local/bihor/tarcea/2023/48",
+   "short": "HCL Tarcea nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 48/2023 privind aprobarea documentaţiei tehnico-economice – faza DALI şi a indicatorilor tehnico-economici pentru obiectivul „Reabilitarea moderată a Căminului cultural din localitatea Tarcea și a Grădiniței nr. 2 din localitatea Adoni, comuna Tarcea, județul Bihor” – componenta „Creșterea eficienței energetice și gestionarea inteligentă a energei în căminul cultural din localitatea Tarcea, comuna Tarcea, județul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105738",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-49-2023",
+   "path": "local/bihor/tarcea/2023/49",
+   "short": "HCL Tarcea nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 49/2023 privind constituirea a două numere cadastrale în intravilanul localității Adoni din numărul topografic 27/3 și înscrierea acestora în evidențele Cărții Funciare ca proprietate publică a Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105739",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-5-2023",
+   "path": "local/bihor/tarcea/2023/5",
+   "short": "HCL Tarcea nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 5/2023 privind adoptarea bugetului Comunei Tarcea pe anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/87508",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-50-2023",
+   "path": "local/bihor/tarcea/2023/50",
+   "short": "HCL Tarcea nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 50/2023 privind aprobarea executarii de lucrări pe domeniul public al Comunei Tarcea pentru obiectivul: “RACORDAREA LA REȚEAUA ELECTRICĂ DE DISTRIBUȚIE (SPOR DE PUTERE) BRUTĂRIE ÎN LOC. ADONI, COM. TARCEA. NR. 273, NR. CAD. 50500, SOLICITANT ROMWAY TRADE SRL”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105740",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-51-2023",
+   "path": "local/bihor/tarcea/2023/51",
+   "short": "HCL Tarcea nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 51/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 19.06.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109478",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-52-2023",
+   "path": "local/bihor/tarcea/2023/52",
+   "short": "HCL Tarcea nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 52/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului local al Comunei Tarcea din data de 23.05.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109479",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-53-2023",
+   "path": "local/bihor/tarcea/2023/53",
+   "short": "HCL Tarcea nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 53/2023 privind aprobarea executării de lucrări pe domeniul public al Comunei Tarcea pentru obiectivul: ”Amenajarea parcului de lângă sediul de primărie Tarcea, Comuna Tarcea, Județul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109480",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-54-2023",
+   "path": "local/bihor/tarcea/2023/54",
+   "short": "HCL Tarcea nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 54/2023 privind aprobarea participării Comunei Tarcea în cadrul proiectul ”Îmbunătățirea condițiilor de transport pentru elevii din Județul Bihor prin furnizarea de microbuze școlare electrice” și aprobarea acordului de parteneriat în vederea depunerii cererii de finanțare în cadrul Apelului de proiecte „Microbuze electrice pentru elevi\", ce va fi finanțat prin Planul Naţional de Redresare și Reziliență - Componenta C15: Educaţie",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109481",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-55-2023",
+   "path": "local/bihor/tarcea/2023/55",
+   "short": "HCL Tarcea nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 55/2023 privind modificarea actului constitutiv şi a statutului Asociaţiei Intercomunitare Zona Nord – Vest",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109482",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-56-2023",
+   "path": "local/bihor/tarcea/2023/56",
+   "short": "HCL Tarcea nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 56/2023 privind modificarea Actului Constitutiv al Societății APĂ CANAL NORD VEST SA",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109483",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-57-2023",
+   "path": "local/bihor/tarcea/2023/57",
+   "short": "HCL Tarcea nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 57/2023 privind alegerea președintelui de ședință pentru perioada iulie-septembrie 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/109484",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/109484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-58-2023",
+   "path": "local/bihor/tarcea/2023/58",
+   "short": "HCL Tarcea nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 58/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 31.07.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115375",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-59-2023",
+   "path": "local/bihor/tarcea/2023/59",
+   "short": "HCL Tarcea nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 59/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Tarcea din data de 19.06.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115376",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-6-2023",
+   "path": "local/bihor/tarcea/2023/6",
+   "short": "HCL Tarcea nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 6/2023 privind constituirea a unui număr cadastral în intravilanul localității Tarcea din numărul topografic 1080/5 și înscrierea acestuia în evidențele Cărții Funciare ca proprietate privată a Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/87509",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-60-2023",
+   "path": "local/bihor/tarcea/2023/60",
+   "short": "HCL Tarcea nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 60/2023 privind rectificarea nr.4 a bugetului Comunei Tarcea pe anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115377",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115377",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-61-2023",
    "path": "local/bihor/tarcea/2023/61",
    "short": "HCL Tarcea nr. 61/2023",
@@ -253,6 +1018,471 @@
      "from": "2023-10-17",
      "units": 1,
      "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-62-2023",
+   "path": "local/bihor/tarcea/2023/62",
+   "short": "HCL Tarcea nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 62/2023 privind aprobarea bilanțului, contului de rezultat patrimonial și contului de execuție bugetară a Comunei Tarcea, la data de 30.06.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115379",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-63-2023",
+   "path": "local/bihor/tarcea/2023/63",
+   "short": "HCL Tarcea nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 63/2023 privind aprobarea volumului de masă lemnoasă care urmează a se recolta în anul 2023 din fondul forestier proprietate publică a Comunei Tarcea, a modului de valorificare a masei lemnoase, precum şi a preţurilor de vânzare a acesteia",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115380",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-64-2023",
+   "path": "local/bihor/tarcea/2023/64",
+   "short": "HCL Tarcea nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 64/2023 privind constituirea a șase numere cadastrale din numerele topografice 9/1, 9/2, 10/1, 10/2, 10/3, 11/1 și 11/2 Galoșpetreu",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115381",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-65-2023",
+   "path": "local/bihor/tarcea/2023/65",
+   "short": "HCL Tarcea nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 65/2023 privind aprobarea Raportului privind activitatea desfășurată de asistenţii personali ai persoanelor cu handicap grav în perioada 01.01.2023-30.06.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115382",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-66-2023",
+   "path": "local/bihor/tarcea/2023/66",
+   "short": "HCL Tarcea nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 66/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 31.08.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118237",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-67-2023",
+   "path": "local/bihor/tarcea/2023/67",
+   "short": "HCL Tarcea nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 67/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Tarcea din data de 31.07.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118238",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-68-2023",
+   "path": "local/bihor/tarcea/2023/68",
+   "short": "HCL Tarcea nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 68/2023 privind aprobarea valorilor actualizate pentru proiectul „EXTINDERE SI MODERNIZARE SCOALA CU CLASELE I-VIII, SAT GALOSPETREU, COMUNA TARCEA”, cod SMIS 122967",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118239",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-69-2023",
+   "path": "local/bihor/tarcea/2023/69",
+   "short": "HCL Tarcea nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 69/2023 privind constituirea a unor numere cadastrale în extravilanul Comunei Tarcea și înscrierea acestora în evidențele Cărții Funciare ca proprietate publică a Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118240",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-7-2023",
+   "path": "local/bihor/tarcea/2023/7",
+   "short": "HCL Tarcea nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 7/2023 privind ordinii de zi a şedinţei ordinare a Consiliului local al Comunei Tarcea din data de 27.02.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93049",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-70-2023",
+   "path": "local/bihor/tarcea/2023/70",
+   "short": "HCL Tarcea nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 70/2023 privind aprobarea executării de lucrări pe domeniul public al Comunei Tarcea pentru obiectivul: ”Înființare punct de colectare deșeuri voluminoase –sat Adoni”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118241",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-71-2023",
+   "path": "local/bihor/tarcea/2023/71",
+   "short": "HCL Tarcea nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 71/2023 privind modificarea Hotărârii Consiliului Local nr. 19 din 27.02.2023 privind ajustarea prețului din devizul general actualizat pentru proiectul „EXTINDERE ȘI MODERNIZARE ȘCOALA CU CLASELE I-VIII, SAT GALOȘPETREU, COMUNA TARCEA” în baza Ordonanței de Urgență a Guvernului nr. 64/2022",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118242",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-72-2023",
+   "path": "local/bihor/tarcea/2023/72",
+   "short": "HCL Tarcea nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 72/2023 privind aprobarea prelungirii scrisorii de garantie din partea Fondului de Garantie a Creditului Rural pentru obiectivul „Reabilitarea, modernizarea și dotarea căminului cultural din localitatea Galoșpetreu, comuna Tarcea, judeţul Bihor”",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/118243",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/118243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-73-2023",
+   "path": "local/bihor/tarcea/2023/73",
+   "short": "HCL Tarcea nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 73/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 28.09.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/122470",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/122470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-74-2023",
+   "path": "local/bihor/tarcea/2023/74",
+   "short": "HCL Tarcea nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 74/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Tarcea din data de 31.08.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/122471",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/122471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-75-2023",
+   "path": "local/bihor/tarcea/2023/75",
+   "short": "HCL Tarcea nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 75/2023 privind prelungirea termenului de valabilitate al Planului Urbanistic General al Comunei Tarcea până la data de 31.12.2026",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/122472",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/122472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-76-2023",
+   "path": "local/bihor/tarcea/2023/76",
+   "short": "HCL Tarcea nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 76/2023 privind desemnarea reprezentantilor Consiliului Local al Comunei Tarcea în Consiliul de Administraţie al Şcolii Gimnaziale nr.1 Comuna Tarcea în anul școlar 2023-2024",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/122473",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/122473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-77-2023",
+   "path": "local/bihor/tarcea/2023/77",
+   "short": "HCL Tarcea nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 77/2023 privind alegerea președintelui de ședință pentru perioada octombrie-decembrie 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/122474",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/122474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-78-2023",
+   "path": "local/bihor/tarcea/2023/78",
+   "short": "HCL Tarcea nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 78/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 13.10.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/124759",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/124759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-79-2023",
+   "path": "local/bihor/tarcea/2023/79",
+   "short": "HCL Tarcea nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 79/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Tarcea din data de 28.09.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/124760",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/124760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-8-2023",
+   "path": "local/bihor/tarcea/2023/8",
+   "short": "HCL Tarcea nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 8/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului local al Comunei Tarcea din data de 31.01.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93050",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-80-2023",
+   "path": "local/bihor/tarcea/2023/80",
+   "short": "HCL Tarcea nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 80/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pe trimestrul III al anului 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/124761",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/124761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-81-2023",
+   "path": "local/bihor/tarcea/2023/81",
+   "short": "HCL Tarcea nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 81/2023 privind constituirea unui număr cadastral din nr.topografic 1080/5 situat în intravilanul localității Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/124762",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/124762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-82-2023",
+   "path": "local/bihor/tarcea/2023/82",
+   "short": "HCL Tarcea nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 82/2023 privind constituirea unui număr cadastral din nr.topografic 649/1 situat în intravilanul localității Adoni",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/124763",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/124763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-83-2023",
+   "path": "local/bihor/tarcea/2023/83",
+   "short": "HCL Tarcea nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 83/2023 privind modificarea Hotărârii Consiliului Local nr.68 din 31.08.2023 referitor la aprobarea valorilor actualizate pentru proiectul „EXTINDERE ȘI MODERNIZARE ȘCOALA CU CLASELE I-VIII, SAT GALOȘPETREU, COMUNA TARCEA”, cod SMIS 122967",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/124764",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/124764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-84-2023",
+   "path": "local/bihor/tarcea/2023/84",
+   "short": "HCL Tarcea nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 84/2023 privind aprobarea ordinii de zi a şedinţei ordinare de a Consiliului Local din data de 20.11.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/129667",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/129667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-85-2023",
+   "path": "local/bihor/tarcea/2023/85",
+   "short": "HCL Tarcea nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 85/2023 privind aprobarea conţinutului procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Tarcea din data de 13.10.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/129668",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/129668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-86-2023",
+   "path": "local/bihor/tarcea/2023/86",
+   "short": "HCL Tarcea nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 86/2023 privind aprobarea bilanțului, contului de rezultat patrimonial și contului de execuție bugetară a Comunei Tarcea, la data de 30.09.2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/129669",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/129669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-87-2023",
+   "path": "local/bihor/tarcea/2023/87",
+   "short": "HCL Tarcea nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 87/2023 privind completarea nr.3 a Hotărârii Consiliului Local nr.62 din 13.09.2022 referitor la atestarea domeniului privat al Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/129670",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/129670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-88-2023",
+   "path": "local/bihor/tarcea/2023/88",
+   "short": "HCL Tarcea nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 88/2023 privind aprobarea încheierii actului adițional nr.2/2023 la Contractul de locaţiune nr.CR 2.190/SA din 29.11.2017",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/129671",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/129671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-89-2023",
+   "path": "local/bihor/tarcea/2023/89",
+   "short": "HCL Tarcea nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 89/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Tarcea, judeţul Bihor, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/129672",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/129672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-9-2023",
+   "path": "local/bihor/tarcea/2023/9",
+   "short": "HCL Tarcea nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 9/2023 privind aprobarea Planului Urbanistic Zonal pentru obiectivul de investiție “CONSTRUIRE SPAȚII COMERCIALE ȘI DEPOZITARE“",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/93051",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/93051",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/bihor/uileacu-de-beius/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--uileacu-de-beius-1-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/1",
+   "short": "HCL Uileacu de Beiuș nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 1/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39557",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-10-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/10",
+   "short": "HCL Uileacu de Beiuș nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 10/2021 privind instituirea și administrarea taxei speciale de salubrizare de pe raza comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39587",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39587",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--uileacu-de-beius-100-2021",
    "path": "local/bihor/uileacu-de-beius/2021/100",
    "short": "HCL Uileacu de Beiuș nr. 100/2021",
@@ -48,6 +78,291 @@
    ]
   },
   {
+   "slug": "hcl-bihor--uileacu-de-beius-12-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/12",
+   "short": "HCL Uileacu de Beiuș nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 12/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39605",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-13-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/13",
+   "short": "HCL Uileacu de Beiuș nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 13/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39606",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-14-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/14",
+   "short": "HCL Uileacu de Beiuș nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 14/2021 privind aprobarea procesului-verbal aș ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39607",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-15-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/15",
+   "short": "HCL Uileacu de Beiuș nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 15/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39608",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-16-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/16",
+   "short": "HCL Uileacu de Beiuș nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 16/2021 privind aprobarea achiziționării unor de servicii de prestări medicale privind asistență medicală preșcolară și scolară pentru perioada rămasă din anul școlar 2020-2021",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39609",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-17-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/17",
+   "short": "HCL Uileacu de Beiuș nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 17/2021",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39610",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-18-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/18",
+   "short": "HCL Uileacu de Beiuș nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 18/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39702",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-19-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/19",
+   "short": "HCL Uileacu de Beiuș nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 19/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39703",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-2-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/2",
+   "short": "HCL Uileacu de Beiuș nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 2/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39558",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-20-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/20",
+   "short": "HCL Uileacu de Beiuș nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 20/2021 privind aderarea comunei Uileacu de Beiuș la Asociația Comunelor din România",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39704",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-21-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/21",
+   "short": "HCL Uileacu de Beiuș nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 21/2021 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39705",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-22-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/22",
+   "short": "HCL Uileacu de Beiuș nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 22/2021 privind aprobarea contribuției Comunei Uileacu de Beiuși pentru funcționarea structurii de audit intern, înființat în cadrul Filialei Județene Bihor a Asociației Comunelor din România",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39706",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-23-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/23",
+   "short": "HCL Uileacu de Beiuș nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 23/2021 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de urbanism și autorizare construcții",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39707",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-24-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/24",
+   "short": "HCL Uileacu de Beiuș nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 24/2021 privind aprobarea contribuției Comunei Uileacu de Beiuș pentru funcționarea compartimentului de urbanism și autorizare construcții, înființat în cadrul Filialei Județene Bihor a Asociației Comunelor din România",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39708",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-25-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/25",
+   "short": "HCL Uileacu de Beiuș nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 25/2021 privind aprobarea execuției bugetului local al comunei Uileacu de Beiuș județul Bihor pe anul 2020 și aprobarea execuției bugetului împrumuturilor externe și interne pe anul 2020",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39709",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-26-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/26",
+   "short": "HCL Uileacu de Beiuș nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 26/2021 privind majorarea în anul 2022 cu 500% a impozitului pe terenurile neîngrijite de pe raza Comunei Uileacu de Beiuș și care au front la drumurile publice modernizate",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39710",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-27-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/27",
+   "short": "HCL Uileacu de Beiuș nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 27/2021 privind aprobarea planului de acțiuni și de lucrări de interes local pentru repartizarea orelor de muncă beneficiarilor de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39711",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-28-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/28",
+   "short": "HCL Uileacu de Beiuș nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 28/2021 privind aprobarea STATUTULUI COMUNEI UILEACU DE BEIUȘ, JUDEȚUL BIHOR",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39712",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-29-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/29",
+   "short": "HCL Uileacu de Beiuș nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 29/2021 privind aprobarea actului adițional la contractul nr.2446 din 21.05.2019 cu privire la darea în administrare, în regim silvic, a imobilelor fond forestier/perdea de protecție forestieră, proprietatea comunei Uileacu de Beiuș către Direcția Silvică Bihor, prin Ocolul Silvic Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39713",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--uileacu-de-beius-3-2021",
    "path": "local/bihor/uileacu-de-beius/2021/3",
    "short": "HCL Uileacu de Beiuș nr. 3/2021",
@@ -58,6 +373,861 @@
      "from": "2021-01-28",
      "units": 1,
      "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-30-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/30",
+   "short": "HCL Uileacu de Beiuș nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 30/2021 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul public al comunei Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39714",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-31-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/31",
+   "short": "HCL Uileacu de Beiuș nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 31/2021 privind numirea șefului Serviciului Voluntar pentru Situații de Urgență din Comuna Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39715",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-32-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/32",
+   "short": "HCL Uileacu de Beiuș nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 32/2021 privind înființarea Serviciului Voluntar pentru Situații de Urgență din Comuna Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39716",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-33-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/33",
+   "short": "HCL Uileacu de Beiuș nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 33/2021 privind aprobarea Planului de analiză și acoperire a riscurilor în comuna Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39717",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-34-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/34",
+   "short": "HCL Uileacu de Beiuș nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 34/2021 privind aprobarea devizului de lucrări F3, în vederea continuării lucrărilor de decolmatare și recalibrare a albiei afluentului de dreapta al Crișului Negru care traversează localitatea Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39718",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-35-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/35",
+   "short": "HCL Uileacu de Beiuș nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 35/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39724",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-36-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/36",
+   "short": "HCL Uileacu de Beiuș nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 36/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39725",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-37-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/37",
+   "short": "HCL Uileacu de Beiuș nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 37/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39726",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-38-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/38",
+   "short": "HCL Uileacu de Beiuș nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 38/2021 privind numirea reprezentantului în Adunarea Generală a Asociaților APAREGIO",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39727",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-39-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/39",
+   "short": "HCL Uileacu de Beiuș nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 39/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39735",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-4-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/4",
+   "short": "HCL Uileacu de Beiuș nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 4/2021 privind aprobarea Acordului de colaborare între comuna Uileacu de Beiuș, județul Bihor și S.C.AVE Bihor S.R.L",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39560",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-40-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/40",
+   "short": "HCL Uileacu de Beiuș nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 40/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39736",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-41-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/41",
+   "short": "HCL Uileacu de Beiuș nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 41/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39737",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-42-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/42",
+   "short": "HCL Uileacu de Beiuș nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 42/2021 privind adoptarea bugetului local al comunei Uileacu de Beiuș pe anul 2021",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39738",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-43-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/43",
+   "short": "HCL Uileacu de Beiuș nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 43/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39739",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-44-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/44",
+   "short": "HCL Uileacu de Beiuș nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 44/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39740",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-45-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/45",
+   "short": "HCL Uileacu de Beiuș nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 45/2021 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 357/25.07.2018 de la FNGCIMM SA IFN în valoare de 229.410,14 lei în vederea garantării obligațiilor de plată a avansului de 229.410,14 lei din fonduri nerambursabile pentru implementarea proiectului intitulat „ÎNFIINȚARE GRĂDINIȚĂ CU PROGRAM NORMAL ÎN LOCALITATEA UILEACU DE BEIUȘ, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39741",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-46-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/46",
+   "short": "HCL Uileacu de Beiuș nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 46/2021 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 597/09.10.2018 de la FNGCIMM SA IFN în valoare de 396.988,00 lei în vederea garantării obligațiilor de plată a avandului de 396.988,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat „REABILITARE ȘI DOTARE CĂMIN CULTURAL ÎN LOCALITATEA FORĂU, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39742",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-47-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/47",
+   "short": "HCL Uileacu de Beiuș nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 47/2021 privind aprobarea numărului și cuantumului burselor școlare pentru anul școlar 2020 – 2021 la nivelul unități administrativ teritoriale",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39743",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-48-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/48",
+   "short": "HCL Uileacu de Beiuș nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 48/2021 privind aprobarea întocmirii inventarului bunurilor care alcătuiesc domeniul public și privat al comunei Uileacu de Beiuș județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39744",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-49-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/49",
+   "short": "HCL Uileacu de Beiuș nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 49/2021 privind validarea Dispozițiilor Primarului comunei Uileacu de Beiuș nr.28 din 13 mai 2021 și nr.30 din 19 mai 2021 privind rectificarea bugetului local pe anul 2021 al comunei Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39745",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-5-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/5",
+   "short": "HCL Uileacu de Beiuș nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 5/2021 privind stabilirea salariilor de bază la nivelul Comunei Uileacu de Beiuș județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39561",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-50-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/50",
+   "short": "HCL Uileacu de Beiuș nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 50/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39754",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-51-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/51",
+   "short": "HCL Uileacu de Beiuș nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 51/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39755",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-52-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/52",
+   "short": "HCL Uileacu de Beiuș nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 52/2021 privind aprobarea regulamentului privind normele de gospodărire comunală pe teritoriul comunei Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39756",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-53-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/53",
+   "short": "HCL Uileacu de Beiuș nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 53/2021 privind aprobarea achiziționării unor servicii de prestări medicale privind asistență medicală preșcolară și școlară pe anul școlar 2021-2022",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39757",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-54-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/54",
+   "short": "HCL Uileacu de Beiuș nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 54/2021 privind rectificarea bugetului local al comunei Uileacu de Beiuș pe anul 2021",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39758",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-55-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/55",
+   "short": "HCL Uileacu de Beiuș nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 55/2021 privind aprobarea acordării de spijin financiar în vederea susținerii sportului de performanță",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39759",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-56-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/56",
+   "short": "HCL Uileacu de Beiuș nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 56/2021 privind aprobarea listei cu cantitățile de lucrări pentru obiectivul lucrări de plombare în localitatea Prisaca comuna Uileacu de Beiuș județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39760",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-57-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/57",
+   "short": "HCL Uileacu de Beiuș nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 57/2021 privind aprobarea neasumării responsabilității Comunei Uileacu de Beiuș, a organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României în perioada 2017-2023",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39761",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-58-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/58",
+   "short": "HCL Uileacu de Beiuș nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 58/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39762",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-59-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/59",
+   "short": "HCL Uileacu de Beiuș nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 59/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39763",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-6-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/6",
+   "short": "HCL Uileacu de Beiuș nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 6/2021 privind nominalizarea reprezentanților Consiliului Local al comunei Uileacu de Beiuș în comisia pentru evaluarea performanțelor profesionale individuale ale Secretarului General Comunei Uileacu de Beiuș, pentru activitatea desfășurată în anul 2020",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39562",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-60-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/60",
+   "short": "HCL Uileacu de Beiuș nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 60/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39764",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-61-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/61",
+   "short": "HCL Uileacu de Beiuș nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 61/2021 privind formarea de numere cadastrale a unor imobile situate în comuna Uileacu de Beiuș, județul Bihor și înscrierea în proprietatea comunei Uileacu de Beiuș județul Bihor, ca domeniu public",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39765",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-62-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/62",
+   "short": "HCL Uileacu de Beiuș nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 62/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39767",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-63-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/63",
+   "short": "HCL Uileacu de Beiuș nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 63/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39768",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-64-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/64",
+   "short": "HCL Uileacu de Beiuș nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 64/2021 privind stabilirea traseului microbuzului școlar pentru transportul elevilor la și de la unitățile de învățământ de pe raza comunei Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39769",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-65-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/65",
+   "short": "HCL Uileacu de Beiuș nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 65/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39770",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-66-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/66",
+   "short": "HCL Uileacu de Beiuș nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 66/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39771",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-67-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/67",
+   "short": "HCL Uileacu de Beiuș nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 67/2021 privind aprobarea Devizului general actualizat-rest de executat pentru obiectivul de investiții „ÎNFIINȚARE SISTEM DE CANALIZARE MENAJERĂ ÎN LOCALITATEA FORĂU ȘI EXTINDERE SISTEME DE ALIMENTARE CU APĂ ÎN LOCALITĂȚILE FORĂU PRISACA VĂLANII DE BEIUȘ ȘI UILEACU DE BEIUȘ",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39772",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-68-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/68",
+   "short": "HCL Uileacu de Beiuș nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 68/2021 privind aprobarea Devizului general actualizat, pentru obiectivul de investiții „REALIZARE CENTRU DE PERMANENȚĂ ÎN DISPENSAR EXISTENT”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39773",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-69-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/69",
+   "short": "HCL Uileacu de Beiuș nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 69/2021 privind aprobarea Devizului general actualizat-rest de executat pentru obiectivul de investiții „ÎNFIINȚARE SISTEM DE CANALIZARE MENAJERĂ ÎN LOCALITATEA FORĂU ȘI EXTINDERE SISTEM DE ALIMENTARE CU APĂ ÎN LOCALITĂȚILE FORĂU PRISACA VĂLANII DE BEIUȘ ȘI UILEACU DE BEIUȘ",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39774",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-7-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/7",
+   "short": "HCL Uileacu de Beiuș nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 7/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39584",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-70-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/70",
+   "short": "HCL Uileacu de Beiuș nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 70/2021 privind aprobarea Devizului general actualizat-rest de executat pentru obiectivul de investiții „MODERNIZARE ȘI REABILITARE DRUMURI COMUNALE ȘI STRĂZI ÎN COMUNA UILEACU DE BEIUȘ ÎN LOCALITĂȚILE FORĂU, PRISACA, VĂLANII DE BEIUȘ ȘI UILEACU DE BEIUȘ JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39775",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-71-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/71",
+   "short": "HCL Uileacu de Beiuș nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 71/2021 privind rectificarea bugetului local al comunei Uileacu de Beiuș județul Bihor pe anul 2021",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39776",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-72-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/72",
+   "short": "HCL Uileacu de Beiuș nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 72/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39777",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-73-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/73",
+   "short": "HCL Uileacu de Beiuș nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 73/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39778",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-74-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/74",
+   "short": "HCL Uileacu de Beiuș nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 74/2021 privind aprobarea raportului cu privire la activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2021 angajați ai unității administrativ-teritoriale comuna Uileacu de Beiuș, județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39779",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-75-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/75",
+   "short": "HCL Uileacu de Beiuș nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 75/2021 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40289",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-76-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/76",
+   "short": "HCL Uileacu de Beiuș nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 76/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40290",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-77-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/77",
+   "short": "HCL Uileacu de Beiuș nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 77/2021 privind aprobarea indicatorilor tehnico-economici conform anexei care face parte integrantă din prezenta hotărâre, cofinanțarea și participarea la programul național de investiții „Anghel Saligny” pentru obiectivul „modernizare drumuri și străzi în localitatea Forău comuna Uileacu de Beiuș, județul Bihor”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40291",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-78-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/78",
+   "short": "HCL Uileacu de Beiuș nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 78/2021 privind aprobarea indicatorilor tehnico-economici conform anexei care face parte integrantă din prezenta hotărâre, cofinanțarea și participarea la programul național de investiții ”Anghel Saligny” pentru obiectivul „modernizare și reabilitare drumuri comunale și străzi în comuna Uileacu de Beiuș localitățile Forău, Prisaca, Vălanii de Beiuș și Uileacu de Beiuș, județul Bihor”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40292",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-79-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/79",
+   "short": "HCL Uileacu de Beiuș nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 79/2021 privind privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40489",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-8-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/8",
+   "short": "HCL Uileacu de Beiuș nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 8/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39585",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-80-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/80",
+   "short": "HCL Uileacu de Beiuș nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 80/2021 privind privind aprobarea procesului – verbal al şedinţei anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40490",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-81-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/81",
+   "short": "HCL Uileacu de Beiuș nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 81/2021 privind privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40491",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/40491",
      "sha256": null
     }
    ]
@@ -178,6 +1348,21 @@
      "from": "2021-11-29",
      "units": 1,
      "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/44004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-9-2021",
+   "path": "local/bihor/uileacu-de-beius/2021/9",
+   "short": "HCL Uileacu de Beiuș nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 9/2021 privind aprobarea ordinei de zi a ședinței Consiliului Local al Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39586",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/39586",
      "sha256": null
     }
    ]

@@ -1,6 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-bacau--filipeni-1-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6630
 hcl-bacau--filipeni-10-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6639
+hcl-bacau--filipeni-11-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6640
 hcl-bacau--filipeni-12-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6641
 hcl-bacau--filipeni-13-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6642
 hcl-bacau--filipeni-14-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6643
@@ -17,8 +18,12 @@ hcl-bacau--filipeni-23-2020,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--filipeni-24-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19060
 hcl-bacau--filipeni-25-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19066
 hcl-bacau--filipeni-26-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19068
+hcl-bacau--filipeni-27-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19070
 hcl-bacau--filipeni-28-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19071
+hcl-bacau--filipeni-29-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19072
 hcl-bacau--filipeni-3-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6632
+hcl-bacau--filipeni-30-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19061
+hcl-bacau--filipeni-31-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19062
 hcl-bacau--filipeni-32-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19063
 hcl-bacau--filipeni-33-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19064
 hcl-bacau--filipeni-34-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19065
@@ -32,6 +37,7 @@ hcl-bacau--filipeni-40-2020,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--filipeni-41-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19077
 hcl-bacau--filipeni-42-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19078
 hcl-bacau--filipeni-43-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19141
+hcl-bacau--filipeni-44-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19142
 hcl-bacau--filipeni-45-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19143
 hcl-bacau--filipeni-46-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19144
 hcl-bacau--filipeni-47-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19157
@@ -56,5 +62,6 @@ hcl-bacau--filipeni-63-2020,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-bacau--filipeni-64-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19178
 hcl-bacau--filipeni-65-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19179
 hcl-bacau--filipeni-66-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/19180
+hcl-bacau--filipeni-7-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6636
 hcl-bacau--filipeni-8-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6637
 hcl-bacau--filipeni-9-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/filipeni-bc/registru-hcl/6638

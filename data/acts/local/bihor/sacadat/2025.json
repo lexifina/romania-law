@@ -25,6 +25,74 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-2-2025",
+"path": "local/bihor/sacadat/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 2/2025 privind aprobarea ordinei de zi a sedintei ordinare din data de 10.02.2025",
+"short": "HCL Săcădat nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/191960",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-3-2025",
+"path": "local/bihor/sacadat/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 3/2025",
+"short": "HCL Săcădat nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/191961",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-4-2025",
+"path": "local/bihor/sacadat/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 4/2025",
+"short": "HCL Săcădat nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/191962",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-5-2025",
 "path": "local/bihor/sacadat/2025/5",
 "kind": "local",
@@ -69,6 +137,51 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-7-2025",
+"path": "local/bihor/sacadat/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 7/2025",
+"short": "HCL Săcădat nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/191965",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-8-2025",
+"path": "local/bihor/sacadat/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 8/2025 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+"short": "HCL Săcădat nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/200261",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-9-2025",
 "path": "local/bihor/sacadat/2025/9",
 "kind": "local",
@@ -110,6 +223,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-11-2025",
+"path": "local/bihor/sacadat/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 11/2025 privind desemnarea reprezentantului Consiliului Local al Comunei Săcădat în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Săcădat",
+"short": "HCL Săcădat nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/200264",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-17-2025",
+"path": "local/bihor/sacadat/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 17/2025 privind acordarea avizului de principiu în vederea întocmirii documentației necesare pentru concesionarea prin licitatie publică, a unui teren din extravilanul comunei Săcădat, în suprafață de 36000 mp, în vederea desfășurării activităților de exploatare a resurselor la suprafață ale statului",
+"short": "HCL Săcădat nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/200270",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-18-2025",
 "path": "local/bihor/sacadat/2025/18",
 "kind": "local",
@@ -242,6 +399,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-19-2025",
+"path": "local/bihor/sacadat/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 19/2025 privind alegerea președintelui de ședință pentru ședința din data de 30.04.2025",
+"short": "HCL Săcădat nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/207718",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -308,6 +487,73 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-23-2025",
+"path": "local/bihor/sacadat/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 23/2025 privind reorganizarea Serviciului Voluntar pentru Situaţii de Urgenţă din Comuna Săcădat",
+"short": "HCL Săcădat nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/207722",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-24-2025",
+"path": "local/bihor/sacadat/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 24/2025 privind numirea sefului Serviciului Voluntar pentru Situatii de Urgenta din Comuna SĂCĂDAT",
+"short": "HCL Săcădat nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/207723",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-25-2025",
+"path": "local/bihor/sacadat/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 25/2025",
+"short": "HCL Săcădat nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/207724",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -399,6 +645,50 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-30-2025",
+"path": "local/bihor/sacadat/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 30/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Săcădat nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/211884",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-31-2025",
+"path": "local/bihor/sacadat/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 31/2025 privind aprobarea indicatorilor economici aferenți lucrărilor de branșare la rețeaua de apă și canal a comunei Săcădat",
+"short": "HCL Săcădat nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/211885",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-32-2025",
 "path": "local/bihor/sacadat/2025/32",
 "kind": "local",
@@ -421,6 +711,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-33-2025",
+"path": "local/bihor/sacadat/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 33/2025 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+"short": "HCL Săcădat nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/221468",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-34-2025",
 "path": "local/bihor/sacadat/2025/34",
 "kind": "local",
@@ -440,6 +752,29 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-35-2025",
+"path": "local/bihor/sacadat/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 35/2025",
+"short": "HCL Săcădat nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/221470",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -641,6 +976,50 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-45-2025",
+"path": "local/bihor/sacadat/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 45/2025 privind însuşirea Acordului de cooperare pentru organizarea şi exercitarea activităţii administrative (drepturi salariale personal) și aprobarea contribuţiei Comunei Săcădat",
+"short": "HCL Săcădat nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/221480",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-46-2025",
+"path": "local/bihor/sacadat/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 46/2025 privind aprobarea volumului de masă lemnoasă, a modului de valorificare a masei lemnoase fasonate din terenul cu vegetație forestieră, proprietate a Comunei Săcădat, precum și stabilirea prețului de vânzare al masei lemnoase",
+"short": "HCL Săcădat nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/221481",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-47-2025",
 "path": "local/bihor/sacadat/2025/47",
 "kind": "local",
@@ -839,6 +1218,28 @@
 }
 },
 {
+"slug": "hcl-bihor--sacadat-56-2025",
+"path": "local/bihor/sacadat/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 56/2025 privind alegerea președintelui de ședință pentru o perioada de 90 zile",
+"short": "HCL Săcădat nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/234021",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--sacadat-57-2025",
 "path": "local/bihor/sacadat/2025/57",
 "kind": "local",
@@ -902,6 +1303,28 @@
 "council_name": "Consiliul Local al Comunei Săcădat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacadat-60-2025",
+"path": "local/bihor/sacadat/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 60/2025 privind aprobarea transferului, cu titlu gratuit, a microbuzului școlar marca OPEL, din gestiunea comunei Săcădat în gestiunea Comunei Sârbi",
+"short": "HCL Săcădat nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/234025",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

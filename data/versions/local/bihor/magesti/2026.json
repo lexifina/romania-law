@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--magesti-17-2026",
+   "path": "local/bihor/magesti/2026/17",
+   "short": "HCL Măgești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 17/2026 privind aprobarea Planului de analiză și acoperire a riscurilor (PAAR) reactualizat",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266131",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266131",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-18-2026",
    "path": "local/bihor/magesti/2026/18",
    "short": "HCL Măgești nr. 18/2026",
@@ -148,6 +163,21 @@
      "from": "2026-05-05",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/266133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-2-2026",
+   "path": "local/bihor/magesti/2026/2",
+   "short": "HCL Măgești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 2/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266117",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266117",
      "sha256": null
     }
    ]
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--magesti-3-2026",
+   "path": "local/bihor/magesti/2026/3",
+   "short": "HCL Măgești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 3/2026 privind aprobarea procesului verbal al ședinței extraordinară de îndată a consiliului local din data de 22.12.2025",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266118",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-30-2026",
    "path": "local/bihor/magesti/2026/30",
    "short": "HCL Măgești nr. 30/2026",
@@ -423,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--magesti-4-2026",
+   "path": "local/bihor/magesti/2026/4",
+   "short": "HCL Măgești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 4/2026 privind aprobarea rețelei școlare pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266119",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-5-2026",
+   "path": "local/bihor/magesti/2026/5",
+   "short": "HCL Măgești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 5/2026 privind aprobarea prețului de vânzare la licitației a masei lemnoasa pe picior din partida nr. 80000",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266120",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266120",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-6-2026",
    "path": "local/bihor/magesti/2026/6",
    "short": "HCL Măgești nr. 6/2026",
@@ -433,6 +508,51 @@
      "from": "2026-05-06",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/266297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-7-2026",
+   "path": "local/bihor/magesti/2026/7",
+   "short": "HCL Măgești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 7/2026 privind implementarea proiectului Construire capelă mortuară în comuna Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266121",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-8-2026",
+   "path": "local/bihor/magesti/2026/8",
+   "short": "HCL Măgești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 8/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266122",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-9-2026",
+   "path": "local/bihor/magesti/2026/9",
+   "short": "HCL Măgești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 9/2026 privind aprobarea actualizării devizului general, a indicatorilor tehnico-economici și cofinanțarea după semnarea contractului de lucrări pentru obiectivul de investiții: ”Modernizarea infrastructurii rutiere în comuna Măgești, județul Bihor” Anghel Saligny",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/266123",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/266123",
      "sha256": null
     }
    ]

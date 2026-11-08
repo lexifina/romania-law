@@ -444,6 +444,29 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-21-2021",
+"path": "local/bihor/tulca/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 21/2021",
+"short": "HCL Tulca nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/20023",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--tulca-22-2021",
 "path": "local/bihor/tulca/2021/22",
 "kind": "local",
@@ -665,6 +688,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tulca-32-2021",
+"path": "local/bihor/tulca/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 32/2021 privind numirea unei comisii de negociere şi acordarea unui aviz de principiu în vederea identificării şi cumpărării unor terenuri intravilan eligibile pentru accesare fonduri europene şi naţionale",
+"short": "HCL Tulca nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/22677",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tulca-33-2021",
 "path": "local/bihor/tulca/2021/33",
 "kind": "local",
@@ -795,6 +840,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-39-2021",
+"path": "local/bihor/tulca/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 39/2021 privind aprobarea cumpărării imobilului ''Teren intravilan şi casă cu magazine şi anexe'' situat în localitatea Tulca, nr. 238 com. Tulca, însuşirea raportului de evaluare întocmit de un evaluator autorizat şi a raportului de negociere întocmit de comisia de negociere",
+"short": "HCL Tulca nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/26028",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1060,6 +1127,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-52-2021",
+"path": "local/bihor/tulca/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 52/2021 privind aprobarea închirierii unui buldoexcavator cu braţ lung pentru decolmatare şi defrişare canale care se deverseaza în Canalul Culişer",
+"short": "HCL Tulca nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/26097",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1590,6 +1679,28 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-77-2021",
+"path": "local/bihor/tulca/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 77/2021 privind desemnarea reprezentantului Consiliului Local Tulca în Consiliul de Administraţie al Şcolii gimnaziale Nestor Porumb Tulca, pentru anul şcolar 2021-2022",
+"short": "HCL Tulca nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/37850",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2228,6 +2339,50 @@
 "council_name": "Consiliul Local al Comunei Tulca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tulca-107-2021",
+"path": "local/bihor/tulca/2021/107",
+"kind": "local",
+"year": "2021",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 107/2021 privind aprobarea Studiului de oportunitate, a Caietului de sarcini, respectiv a termenilor şi condiţiilor pentru concesionarea, prin licitaţie publică, a parcelei de teren cu suprafaţa de 13 ha. înscrisă în CF nr. 61356 Tulca, nr. cadastral 61356 în vederea dezvoltării de afaceri în domeniul creşterii păsărilor",
+"short": "HCL Tulca nr. 107/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/44594",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tulca-108-2021",
+"path": "local/bihor/tulca/2021/108",
+"kind": "local",
+"year": "2021",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulca nr. 108/2021 privind aprobarea concesionării directe a terenului intravilan în suprafaţă de 513 mp., înscrisă în CF 61359 Tulca",
+"short": "HCL Tulca nr. 108/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/tulca-bh/registru-hcl/44595",
+"council": "bihor/tulca",
+"council_name": "Consiliul Local al Comunei Tulca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

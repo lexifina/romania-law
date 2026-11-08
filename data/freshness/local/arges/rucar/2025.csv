@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-arges--rucar-1-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230562
 hcl-arges--rucar-10-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230622
 hcl-arges--rucar-11-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230623
 hcl-arges--rucar-12-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230636
@@ -11,6 +12,7 @@ hcl-arges--rucar-18-2025,current,2026-11-08,2026-12-08,register-read,,,,https://
 hcl-arges--rucar-19-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230663
 hcl-arges--rucar-2-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230563
 hcl-arges--rucar-20-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230665
+hcl-arges--rucar-21-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230666
 hcl-arges--rucar-22-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230667
 hcl-arges--rucar-23-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230669
 hcl-arges--rucar-24-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230670
@@ -23,6 +25,7 @@ hcl-arges--rucar-3-2025,current,2026-11-08,2026-12-08,register-read,,,,https://e
 hcl-arges--rucar-30-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230697
 hcl-arges--rucar-31-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230701
 hcl-arges--rucar-32-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230711
+hcl-arges--rucar-33-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230713
 hcl-arges--rucar-34-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230715
 hcl-arges--rucar-35-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230716
 hcl-arges--rucar-36-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230726
@@ -30,11 +33,13 @@ hcl-arges--rucar-37-2025,current,2026-11-08,2026-12-08,register-read,,,,https://
 hcl-arges--rucar-38-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230728
 hcl-arges--rucar-39-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230729
 hcl-arges--rucar-4-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230565
+hcl-arges--rucar-40-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230740
 hcl-arges--rucar-41-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230741
 hcl-arges--rucar-42-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230742
 hcl-arges--rucar-43-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230743
 hcl-arges--rucar-44-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230744
 hcl-arges--rucar-45-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230745
+hcl-arges--rucar-46-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230810
 hcl-arges--rucar-47-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230811
 hcl-arges--rucar-48-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230812
 hcl-arges--rucar-49-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230813
@@ -60,5 +65,6 @@ hcl-arges--rucar-66-2025,current,2026-11-08,2026-12-08,register-read,,,,https://
 hcl-arges--rucar-67-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/235529
 hcl-arges--rucar-68-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/235530
 hcl-arges--rucar-69-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/235541
+hcl-arges--rucar-7-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230572
 hcl-arges--rucar-8-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230580
 hcl-arges--rucar-9-2025,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/rucar-ag/registru-hcl/230621

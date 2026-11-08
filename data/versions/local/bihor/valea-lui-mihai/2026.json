@@ -3,6 +3,21 @@
  "shard": "local/bihor/valea-lui-mihai/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--valea-lui-mihai-1-2026",
+   "path": "local/bihor/valea-lui-mihai/2026/1",
+   "short": "HCL Valea lui Mihai nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 1/2026 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/01/HCL-nr-1-din-2026.pdf",
+     "sha256": "122ca07dceb8d43688ff7c24dce544609f42ce94779741963ea8415b30707835"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-10-2026",
    "path": "local/bihor/valea-lui-mihai/2026/10",
    "short": "HCL Valea lui Mihai nr. 10/2026",
@@ -359,6 +374,21 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/03/HCL-nr-19-din-2026.pdf",
      "sha256": "07007a83e2536e7f2200dc273e1d8471c12ec6abc1437ad2534d9ec085b0e29e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-2-2026",
+   "path": "local/bihor/valea-lui-mihai/2026/2",
+   "short": "HCL Valea lui Mihai nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 2/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/01/HCL-nr-2-din-2026.pdf",
+     "sha256": "64c6f2ce93a9ff8cab40bfda0d4fa71077d6fffee4ce04375a96f382496ccd03"
     }
    ]
   },
@@ -843,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-5-2026",
+   "path": "local/bihor/valea-lui-mihai/2026/5",
+   "short": "HCL Valea lui Mihai nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 5/2026 privind prelungirea unor contracte de închiriere locuințe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/01/HCL-nr-5-din-2026.pdf",
+     "sha256": "9d26549e15082ff5fba1375c266c18b36a3b910c342ca560b4e203bb0bbefa6a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-50-2026",
    "path": "local/bihor/valea-lui-mihai/2026/50",
    "short": "HCL Valea lui Mihai nr. 50/2026",
@@ -978,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-6-2026",
+   "path": "local/bihor/valea-lui-mihai/2026/6",
+   "short": "HCL Valea lui Mihai nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 6/2026 privind încheierea unui contract de asistență juridică în vederea reprezentării U.A.T",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/01/HCL-nr-6-din-2026.pdf",
+     "sha256": "eebc9fedabf41fb62432b11a382395583ff94bd3a23682c755d681e0a7ecb82a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-60-2026",
    "path": "local/bihor/valea-lui-mihai/2026/60",
    "short": "HCL Valea lui Mihai nr. 60/2026",
@@ -1094,6 +1154,21 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/07/HCL-nr-69-din-2026.pdf",
      "sha256": "b44089cd1e31d7fa468bc1c243dcc3176c052d382eeaa8091e46b545c73d63f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-7-2026",
+   "path": "local/bihor/valea-lui-mihai/2026/7",
+   "short": "HCL Valea lui Mihai nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 7/2026 privind rezilierea unui contract de închiriere locuințe pentru tineri, construite prin programul ANL destinate închirierii, situate în Orașul Valea lui Mihai, strada Hunyadi Janos (Iancu de Hunedoara) ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2026/01/HCL-nr-7-din-2026.pdf",
+     "sha256": "35a56d4c36c162e79e1bbdcbfdbcf027a911e114eee3d6731c0e76dea737477f"
     }
    ]
   },

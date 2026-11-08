@@ -3,6 +3,651 @@
  "shard": "local/bihor/valea-lui-mihai/2020",
  "acts": [
   {
+   "slug": "hcl-bihor--valea-lui-mihai-1-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/1",
+   "short": "HCL Valea lui Mihai nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 1/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai din data de 29 ianuarie 2020 ↓",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3174feb5ab6386c1463a134656074bce69725afb960912c76d11ab5cc2086ca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-10-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/10",
+   "short": "HCL Valea lui Mihai nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 10/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d0edc3ff9bc2d2f66fd8f0e530550eb0e50e96452f104b754d4e6ca52878e690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-11-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/11",
+   "short": "HCL Valea lui Mihai nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 11/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 24 februarie 2020 ↓",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "51e760f78fd2bd110cb2b5c7c2e290843e841ef81badd65bdb4c9d0f1dbfb975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-13-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/13",
+   "short": "HCL Valea lui Mihai nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 13/2020 privind atribuirea în folosinţă gratuită, pe durata existentei construcţiilor, de terenuri pentru construirea de locuinţe proprietate personală ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-13-din-24.02.2020.pdf",
+     "sha256": "4822d30e772d55347df53b191b405b8eaaad1efe54053c956e56d84b8b16d21f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-15-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/15",
+   "short": "HCL Valea lui Mihai nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 15/2020 privind aprobarea listei de soluţionare a cererilor de locuinţe şi stabilirea ordinii de prioritate pentru repartizarea locuinţelor pentru tineri, construite prin programul ANL destinate închirierii în oraşul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-15-din-24.02.2020.pdf",
+     "sha256": "850e105e06b6ee6b4f5c8647b112b5df8d8b7d653a584a5a19e5c83d4ca18bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-16-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/16",
+   "short": "HCL Valea lui Mihai nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 16/2020 privind repartizarea unor locuinţe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-16-din-24.02.2020.pdf",
+     "sha256": "5d9cb6df1224be6107f79fdab9b02a4eb05252f4f45f378b20e06e15a9c237bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-17-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/17",
+   "short": "HCL Valea lui Mihai nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 17/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-17-din-24.02.2020.pdf",
+     "sha256": "711f26313021c4a47a9502aab72e86024bc8ba6446cdc0a4b38e0715e1f7ad0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-18-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/18",
+   "short": "HCL Valea lui Mihai nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 18/2020 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-18-din-24.02.2020.pdf",
+     "sha256": "6e7a031a679e5a5823e0f3f3954576711a7f82a9d356f23291954235f9f45f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-19-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/19",
+   "short": "HCL Valea lui Mihai nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 19/2020 privind aprobarea Ordinii de zi a şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 09 martie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-19-din-09.03.2020.pdf",
+     "sha256": "ebb6a2c0f2c52ad173b253ca2784993bbd54770a0130d11d0b50d74222387232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-2-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/2",
+   "short": "HCL Valea lui Mihai nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 2/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 23 decembrie 2019 ↓",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3cd9d7e4c3970cac2472b7ddb6629d0ed6ee3a0826109f2f0198e133bd86a0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-20-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/20",
+   "short": "HCL Valea lui Mihai nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 20/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 24 februarie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-20-din-09.03.2020.pdf",
+     "sha256": "5fd01a525c2d7f086ddd15db89db844d82342b419ea4103dbd331c9f23ce2ef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-22-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/22",
+   "short": "HCL Valea lui Mihai nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 22/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 26 martie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-22-din-26.03.2020.pdf",
+     "sha256": "4bcaf62c5dfbbd4f84116480fc32f6bf686f260698a40a9384a78d4648b8bcf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-23-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/23",
+   "short": "HCL Valea lui Mihai nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 23/2020 privind aprobarea Procesului verbal al şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 09 martie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-23-din-26.03.2020-2.pdf",
+     "sha256": "c81fc0433166376ff00986744653aef390999c991056ddcb04a9d7f9c6b72215"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-24-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/24",
+   "short": "HCL Valea lui Mihai nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 24/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-24-din-26.03.2020.pdf",
+     "sha256": "601c989138a085a09ab895b0c98acf033e192c896bd0cdc38d0c199e1b0b984d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-25-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/25",
+   "short": "HCL Valea lui Mihai nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 25/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-25-din-26.03.2020.pdf",
+     "sha256": "218530a9e75530bca85aa5a0f2c6199bff5c9627ee59001e6dacff1e8daa44c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-26-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/26",
+   "short": "HCL Valea lui Mihai nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 26/2020",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot-26-din-26.03.2020-Anexa3.pdf",
+     "sha256": "d8cbc63674e218a62e666c16c11a6c45a9837ed5cd2ffcec351a8319b577a693"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-27-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/27",
+   "short": "HCL Valea lui Mihai nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 27/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-27-din-26.03.2020.pdf",
+     "sha256": "30b3fceb4894347eb583390d990b533b5bf879e1641c24a8dfe83bda103d5198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-28-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/28",
+   "short": "HCL Valea lui Mihai nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 28/2020 privind rectificarea şi modificarea bugetului Oraşului Valea lui Mihai, pe anul 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-28-din-26.03.2020.pdf",
+     "sha256": "da62a5eb6d35beb50bc6aa984f0d4802fb7a60a49f1aac83bb37e5b7c32575c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-29-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/29",
+   "short": "HCL Valea lui Mihai nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 29/2020 privind trecerea imobilului cu nr. cad. 50881 înscris în CF nr.50881 – Valea lui Mihai din domeniul public în domeniul privat al Oraşului Valea lui Mihai pe durata realizării obiectivului de investiții „Construire bazin didactic de înot in Oraşul Valea lui Mihai, j",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-29-din-26.03.2020.pdf",
+     "sha256": "9daf8097a5af80b5a85f91886e430c5d2bcd0b0bfba9e3590c359aee8dd15dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-3-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/3",
+   "short": "HCL Valea lui Mihai nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 3/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8e3b0f75ceb6778ab4e64179d9ca97aa682da8be6f70278dfb58ef27eb37b130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-30-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/30",
+   "short": "HCL Valea lui Mihai nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 30/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 08 mai 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-30-din-08.05.2020.pdf",
+     "sha256": "cad02473e0151a811df92fabf77d4160ea298fb8721efd25cfefa95931b34014"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-31-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/31",
+   "short": "HCL Valea lui Mihai nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 31/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 26 martie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-31-din-08.05.2020.pdf",
+     "sha256": "bdbdc82c32ad63a718c40c62a66576169e596c0702fa18ab23e1e36abd932332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-32-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/32",
+   "short": "HCL Valea lui Mihai nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 32/2020 privind transmiterea în folosinţă gratuită către Inspectoratul de Poliţie Judeţean Bihor a unui aparat Drager Alcotest 7510 pentru stabilirea concentrației de alcool în aerul expirat ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-32-din-08.05.2020.pdf",
+     "sha256": "ac64eb29c5a011db7767457057eef43ae55a86d1ce5a452652c9cfa5d1355ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-36-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/36",
+   "short": "HCL Valea lui Mihai nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 36/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-36-din-08.05.2020.pdf",
+     "sha256": "874f9d5a786712108884eccbff23787c753d0055883401994e9a51ea8cd1d6d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-37-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/37",
+   "short": "HCL Valea lui Mihai nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 37/2020 privind rectificarea bugetului Oraşului Valea lui Mihai pe anul 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-37-din-08.05.2020.pdf",
+     "sha256": "2e701e438e6139e3ddbca83d24dd256afa179bc39f53cbc71bb0d0b666b2ba4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-38-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/38",
+   "short": "HCL Valea lui Mihai nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 38/2020 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-38-din-08.05.2020.pdf",
+     "sha256": "e5ce4411ebef3121c099efaa0ff5dbf9053519a764dbf30bfb73f52985cd8605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-39-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/39",
+   "short": "HCL Valea lui Mihai nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 39/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 08 mai 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-39-din-15.06.2020.pdf",
+     "sha256": "8b28ff5890ad6e5bfe70b899d373996236b0b25fc8d48491f546f60890349668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-4-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/4",
+   "short": "HCL Valea lui Mihai nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 4/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bf25f4c9881ac20fa7d381f18be1ac29bfc74f42b182535d2f3ca526c228b1c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-40-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/40",
+   "short": "HCL Valea lui Mihai nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 40/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 08 mai 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-40-din-15.06.2020.pdf",
+     "sha256": "b4f1ffeb20c496aa1c4cbb734c5c96a150f6bb3d6c75ed28687b4f8cdb9f4566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-41-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/41",
+   "short": "HCL Valea lui Mihai nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 41/2020 privind aprobarea Contractului de delegare a gestiunii serviciului de transport local de călători în Oraşul Valea lui Mihai, prin atribuire directă ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot.-41-din-15.06.2020.pdf",
+     "sha256": "add1e5a3dbf002bc9f273a48fafff301a78b0aa4f9a36bb77ef4993dad2ee4de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-42-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/42",
+   "short": "HCL Valea lui Mihai nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 42/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 29 iunie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-42-din-29.06.2020.pdf",
+     "sha256": "d399937472fa97825e0e38227219ad2de8b98e3b391be2142350cac75985d3c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-43-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/43",
+   "short": "HCL Valea lui Mihai nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 43/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-43-din-29.06.2020.pdf",
+     "sha256": "d23602d784d5ec741e262b66fad2e735f6b8777f36901bdaaacf69b57120158f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-44-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/44",
+   "short": "HCL Valea lui Mihai nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 44/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-44-din-29.06.2020.pdf",
+     "sha256": "2256fff3e07fec1ed0a031038d70d15a9b503651fdf2298562614195e3380847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-45-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/45",
+   "short": "HCL Valea lui Mihai nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 45/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-45-din-29.06.2020.pdf",
+     "sha256": "c4ba6134550e1f95ce199f2cf02330f0e7343dce2a3c0de7849d3eebf9c0c952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-46-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/46",
+   "short": "HCL Valea lui Mihai nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 46/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-46-din-29-06.2020.pdf",
+     "sha256": "db50fa88ff9e97a80959607e92ae446af2ac5e0a45a7ca40c23dce5e3355f42b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-47-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/47",
+   "short": "HCL Valea lui Mihai nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 47/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-47-din-29-.06.2020.pdf",
+     "sha256": "f5c09a21ae4fbfd3c632ade3ddb027b0075187452f20d265407694c62f3cb320"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-48-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/48",
+   "short": "HCL Valea lui Mihai nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 48/2020 pentru tineri, construite prin programul ANL destinate închirierii în Oraşul Valea lui Mihai, strada Hunyadi Janos (Iancu de Hunedoara) ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-48-din-29.06.2020.pdf",
+     "sha256": "b15e6d6b8cab1cbb7b64da8578bc18ce197b014364c181331f297deb92ba6b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-49-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/49",
+   "short": "HCL Valea lui Mihai nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 49/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-49-din-29.06.2020.pdf",
+     "sha256": "8138756a37ff2b4f8bbd598ce129c2e17a4d29ef5541361073871ee6cff5e964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-5-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/5",
+   "short": "HCL Valea lui Mihai nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 5/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "16c00be33e05e744816fb3d6b4b00c59f34a3bddd8d2e0a784d1e0100af92e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-50-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/50",
+   "short": "HCL Valea lui Mihai nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 50/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-50-din-13.07.2020.pdf",
+     "sha256": "022acc30019f512b3a04c742351c79a2340038e773a348494903b6637da3a78e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-52-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/52",
+   "short": "HCL Valea lui Mihai nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 52/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-52-din-13.07.2020.pdf",
+     "sha256": "077d625fe784b6445ecc43e0a2f60d5adddeeabeaddd45523622949637d530c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-53-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/53",
+   "short": "HCL Valea lui Mihai nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 53/2020 pentru realizarea obiectivului de investiții „Varianta",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-53-din-13.07.2020.pdf",
+     "sha256": "a41ff942df4ab8618fd7724255ae9778c2f2565ff91db4c11224cfda27937b84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-54-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/54",
+   "short": "HCL Valea lui Mihai nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 54/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 10 august 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-54-din-10.08.2020.pdf",
+     "sha256": "d8e968c9e5435420f5323a72ba8915e4f2e4c2dcb7ad8c3055b35c5c493b9f63"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-56-2020",
    "path": "local/bihor/valea-lui-mihai/2020/56",
    "short": "HCL Valea lui Mihai nr. 56/2020",
@@ -48,6 +693,426 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-59-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/59",
+   "short": "HCL Valea lui Mihai nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 59/2020 privind aprobarea Organigramei și a Statului de funcții ale U.A.T Orașul Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-59-din-10.08.2020.pdf",
+     "sha256": "ec9fb814b3b9f3a079595e02efd5ae4da031403336ab3c27a4b121390453a6b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-6-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/6",
+   "short": "HCL Valea lui Mihai nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 6/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 29 ianuarie 2020 2019 ↓",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c2004ff064752515341e1dfbf61fc0d1fed4dec0428140fd41bbdaf1db193553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-60-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/60",
+   "short": "HCL Valea lui Mihai nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 60/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-60-din-10.08.2020.pdf",
+     "sha256": "454b0682b9cfe1b9b2e3ffafa6fd29d9ca1b5ea549f4394b6fe887bca83f82e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-61-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/61",
+   "short": "HCL Valea lui Mihai nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 61/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 11 septembrie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-61-din-11.09.2020-1.pdf",
+     "sha256": "ded0a4a84265c82c534eb5b83e1d4d4870ff2d76a4489fff8eefe6e4cf5a1a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-62-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/62",
+   "short": "HCL Valea lui Mihai nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 62/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 10 august 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-62-din-11.09.2020.pdf",
+     "sha256": "0e1edee97781980d6317f276041e5096b7442a560beac6376e68894108cb1c3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-63-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/63",
+   "short": "HCL Valea lui Mihai nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 63/2020 privind aprobarea coridorului de mobilitate integrat în Orașul Valea lui Mihai, județul Bihor, pe străzile Brassai Samuel şi Zărandului, precum şi drumul de exploatare DE602 considerat strategic și care sprijină transportul public în comun de călători, circulația b",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-63-din-11.09.2020.pdf",
+     "sha256": "1a9d9275812d2f9086ba3d41119397cf44145815af65bebb955aa59be6ac6c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-65-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/65",
+   "short": "HCL Valea lui Mihai nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 65/2020 privind rectificarea bugetului Oraşului Valea lui Mihai pe anul 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-65-din-11.09.2020.pdf",
+     "sha256": "d31ab11eb227cc34355717a8152b94f956c601781d8cdeb66715ee76e46e0f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-66-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/66",
+   "short": "HCL Valea lui Mihai nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 66/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-66-din-11.09.2020.pdf",
+     "sha256": "a668a613b0042d84d0b8a0d65aa8d02d9786a3ef0fe89b5c97789f54c58f1a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-67-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/67",
+   "short": "HCL Valea lui Mihai nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 67/2020 privind prelungirea şi rezilierea unor contracte de închiriere locuinţă socială şi repartizarea unei locuinţe sociale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-67-din-11.09.2020..pdf",
+     "sha256": "fd932d15389a40353738fe7b41ba64b15e8daef09f0b0314b2949519df432d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-68-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/68",
+   "short": "HCL Valea lui Mihai nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 68/2020 privind alegerea președintelui de ședință ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-68-din-02.11.2020.pdf",
+     "sha256": "b52fa1af539015c28cec5fe5b8bca6b92abee4946c129a58f5741a433c153cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-69-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/69",
+   "short": "HCL Valea lui Mihai nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 69/2020 privind aprobarea Ordinii de zi a şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 02 noiembrie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-69-din-02.11.2020.pdf",
+     "sha256": "93057b11aaf9fe8e01745b163ed1fefbcd6367cac1c5628cb2ed40a5c93cd6b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-7-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/7",
+   "short": "HCL Valea lui Mihai nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 7/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "44d99d5d3bca41ecf8ef5bfd9ecedd70a83362aab66b7bfc9472425b357e49b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-70-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/70",
+   "short": "HCL Valea lui Mihai nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 70/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al Oraşului Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-70-din-02.11.2020.pdf",
+     "sha256": "3ab9583e7ed3e5aaa29505f1c50735aca0befe8680c2e0e281828392607e3e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-71-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/71",
+   "short": "HCL Valea lui Mihai nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 71/2020 privind alegerea comisiei de numărare a voturilor şi de validare a alegerii Viceprimarului Oraşului Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-71-din-02.11.2020.pdf",
+     "sha256": "919a1383fc7d441be54c45ed1b609b3e9f2097b250cb166b242583fbcf5486e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-72-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/72",
+   "short": "HCL Valea lui Mihai nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 72/2020 privind alegerea viceprimarului ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/11/hot.-72-din-02.11.2020.pdf",
+     "sha256": "82868bda1ebc5e1e5b85bc1789f32dbe0335e7e114fd9033a13afe92504600be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-73-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/73",
+   "short": "HCL Valea lui Mihai nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 73/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 16 noiembrie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-73-din-16.11.2020.pdf",
+     "sha256": "34dc9da3a5b08415be392161656e5fd35f770146128cd0d298111e0f7688585e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-74-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/74",
+   "short": "HCL Valea lui Mihai nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 74/2020 privind aprobarea Procesului verbal al şedinţei extraordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 02 noiembrie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-74-din-16.11.2020.pdf",
+     "sha256": "0b713c0ad6390ca3d62eed7cc2bfdcd19e9053d4048929e97f8b149206e5ae6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-75-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/75",
+   "short": "HCL Valea lui Mihai nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 75/2020 privind modificarea bugetului Oraşului Valea lui Mihai pe anul 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-75-din-16.11.2020.pdf",
+     "sha256": "3ff1fd9ac208b615c543ea7ffe2e1a2b7b6513c4c204b252aa8009f2efdbeb39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-77-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/77",
+   "short": "HCL Valea lui Mihai nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 77/2020 privind aprobarea unor măsuri pentru asigurarea conducerii interimare a Centrului de asistenţă medico-socială – Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-77-din-16.11.2020.pdf",
+     "sha256": "03d574b5f1627b3be206682b157a7a4e8a92b6fcb746ebc9b7425a3b4af4b3f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-78-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/78",
+   "short": "HCL Valea lui Mihai nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 78/2020 privind aprobarea Ordinii de zi a şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 29 decembrie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-78-din-29.12.2020.pdf",
+     "sha256": "fe7781739c84be0f174403a5e70a25d2e6878ebbad3447346c1d83b92a352ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-79-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/79",
+   "short": "HCL Valea lui Mihai nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 79/2020 privind aprobarea Procesului verbal al şedinţei ordinare a Consiliului Local al Oraşului Valea lui Mihai, din data de 16 noiembrie 2020 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-79-din-29.12.2020.pdf",
+     "sha256": "3b23d70fdfcabf0d91fac93ad76987c04fc29d71bfd58afd54d373588d5068d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-8-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/8",
+   "short": "HCL Valea lui Mihai nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 8/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f8589cceecef7ae4794165a42ac4a84dd74916a0919681d4f773a16248aef6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-80-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/80",
+   "short": "HCL Valea lui Mihai nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 80/2020 privind aprobarea Regulamentului de organizare şi funcționare a Consiliului Local al Oraşului Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-80-din-29.12.2020.pdf",
+     "sha256": "d321b552ae0158a6df8c56e92d753b1d94e2e45313d4c8e39e9856857d254f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-81-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/81",
+   "short": "HCL Valea lui Mihai nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 81/2020 privind desemnarea reprezentanţilor Consiliului Local al Oraşului Valea lui Mihai în consiliile de administraţie şi în comisiile pentru evaluarea şi asigurarea calităţii educaţiei ale unităţilor şcolare din Oraşul Valea lui Mihai, pentru anul de învăţământ 2020-202",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-81-din-29.12.2020.pdf",
+     "sha256": "41ec14dfbbfc015dd6be502653a81963c051a4989ac7941caa3e015f7c6e4dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-82-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/82",
+   "short": "HCL Valea lui Mihai nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 82/2020 privind aprobarea structurii reţelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particular din Oraşul Valea lui Mihai, pentru anul şcolar 2021-2022 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-82-din-29.12.2020.pdf",
+     "sha256": "2070d26b39a733e7328ab448cd0728eeabd8ea22fba84de7717f5dd4f43eed0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-83-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/83",
+   "short": "HCL Valea lui Mihai nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 83/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-83-din-29.12.2020.pdf",
+     "sha256": "228d6e00a4cf0d03c6f58eb101621f46e879ce0eb5131e25fb702e197300e363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-84-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/84",
+   "short": "HCL Valea lui Mihai nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 84/2020 privind prelungirea şi rezilierea unor contracte de închiriere locuinţă tip A.N.L ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-84-din-29.12.2020.pdf",
+     "sha256": "fef923fc192e0e255c08d30976e59f6a4820d27f8baab9655a4a454191191dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-85-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/85",
+   "short": "HCL Valea lui Mihai nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 85/2020 privind aprobarea listei cuprinzând solicitanţii îndreptăţiţi să primească în anul 2021 o locuinţă socială ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-85-din-29.12.2020.pdf",
+     "sha256": "d36738ebbc2694add487a6a6079790384989283d38bb68f093d9c7aae5077add"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-86-2020",
    "path": "local/bihor/valea-lui-mihai/2020/86",
    "short": "HCL Valea lui Mihai nr. 86/2020",
@@ -59,6 +1124,21 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-86-din-29.12.2020.pdf",
      "sha256": "3087e6740c339f3d9380673d50b04f8c141fbb35d8f74b85b5166ce8651adea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-9-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/9",
+   "short": "HCL Valea lui Mihai nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 9/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "305cd7ddf7826479195fafef0433daf9dc44415462e1584fd4cf66aeccede517"
     }
    ]
   }

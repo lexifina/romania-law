@@ -3,6 +3,636 @@
  "shard": "local/bihor/simian/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--simian-10-2026",
+   "path": "local/bihor/simian/2026/10",
+   "short": "HCL Șimian nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 10/2026 privind declararea de bun de uz si interes privat local, atestarea apartenentei la domeniul privat al UAT Comuna Simian a unui imobil",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-10-din-27.02.2026-privind-declararea-de-bun-de-uz-si-interes-privat-local-atestarea-apartenentei-la-domeniul-privat-al-UAT-Comuna-Simian-a-unui-imobil.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-10-din-27.02.2026-privind-declararea-de-bun-de-uz-si-interes-privat-local-atestarea-apartenentei-la-domeniul-privat-al-UAT-Comuna-Simian-a-unui-imobil.pdf",
+     "sha256": "f27fdf630d3fdb24718caca190dd3c79a8dcb5f9bc50b3b27ffc551202c07638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-11-2026",
+   "path": "local/bihor/simian/2026/11",
+   "short": "HCL Șimian nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 11/2026 privind aprobarea Planului anual de actiune privind serviciile sociale administrate si finantate din bugetul local pentru anul 2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-11-din-27.02.2026-privind-aprobarea-Planului-anual-de-actiune-privind-serviciile-sociale-administrate-si-finantate-din-bugetul-local-pentru-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-11-din-27.02.2026-privind-aprobarea-Planului-anual-de-actiune-privind-serviciile-sociale-administrate-si-finantate-din-bugetul-local-pentru-anul-2026.pdf",
+     "sha256": "4b48bc17bef56959c54fbbbb6f2fc0f5ccdd393719d168437324f7f66e8e23fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-12-2026",
+   "path": "local/bihor/simian/2026/12",
+   "short": "HCL Șimian nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 12/2026 privind desemnarea consilierilor locali care fac parte din Comisia de evaluare a performantelor individuale ale Secretarului General, pe anul 2025",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-12-din-27.02.2026-privind-desemnarea-consilierilor-locali-care-fac-parte-din-Comisia-de-evaluare-a-performantelor-individuale-ale-Secretarului-General-pe-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-12-din-27.02.2026-privind-desemnarea-consilierilor-locali-care-fac-parte-din-Comisia-de-evaluare-a-performantelor-individuale-ale-Secretarului-General-pe-anul-2025.pdf",
+     "sha256": "161b4cb3fc147725434ee2fc1bff1a305662f9fd8ca518e7a9cb070116d3d7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-13-2026",
+   "path": "local/bihor/simian/2026/13",
+   "short": "HCL Șimian nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 13/2026 privind modificarea statului de functii",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-13-din-27.02.2026-privind-modificarea-statului-de-functii.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-13-din-27.02.2026-privind-modificarea-statului-de-functii.pdf",
+     "sha256": "93ebf766e92bc87e79a337df98beedae54581592a76dd5220009a97667cb85f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-14-2026",
+   "path": "local/bihor/simian/2026/14",
+   "short": "HCL Șimian nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 14/2026 privind aprobarea executiei bugetare la data de 31.12.2025",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-14-din-27.02.2026-privind-aprobarea-executiei-bugetare-la-data-de-31.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-14-din-27.02.2026-privind-aprobarea-executiei-bugetare-la-data-de-31.12.2025.pdf",
+     "sha256": "1b6c7601d8b5b2135d4755427afad7f3bed7332e0855d36c50966a20a73ee79f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-15-2026",
+   "path": "local/bihor/simian/2026/15",
+   "short": "HCL Șimian nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 15/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-15-din-24.03.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-15-din-24.03.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "cc9a0a25ef25eb024b9f329cf8a5bed449dcae4e1fcb340494113c63e5aead9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-16-2026",
+   "path": "local/bihor/simian/2026/16",
+   "short": "HCL Șimian nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 16/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-16-din-24.03.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-16-din-24.03.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "3ac135808f7d75cdbc66255dd220b88d62b2516521bd190af7ab6b54c4429fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-17-2026",
+   "path": "local/bihor/simian/2026/17",
+   "short": "HCL Șimian nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 17/2026 privind aprobarea procesului verbal al sedintei ordinare din 27.02.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-17-din-24.03.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-17-din-24.03.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-27.02.2026.pdf",
+     "sha256": "74249ccd16241a1320b7c67dd7a047c8a50f09239717a7789113b09c68a084a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-20-2026",
+   "path": "local/bihor/simian/2026/20",
+   "short": "HCL Șimian nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 20/2026 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-20-din-24.03.2026-privind-neasumarea-responsabilitatii-organizarii-si-derularii-procedurilor-de-atribuire.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-20-din-24.03.2026-privind-neasumarea-responsabilitatii-organizarii-si-derularii-procedurilor-de-atribuire.pdf",
+     "sha256": "4d8998e304301414d5162dc114549eaa8238f354c9c8e9c4318549816acc37af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-21-2026",
+   "path": "local/bihor/simian/2026/21",
+   "short": "HCL Șimian nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 21/2026 privind aprobarea vanzarii directe a dreptului de proprietate asupra imobilului situat in sat Silindeu, nr. 23",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-21-din-24.03.2026-privind-aprobarea-vanzarii-directe-a-dreptului-de-proprietate-asupra-imobilului-situat-in-sat-Silindeu-nr.-23.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-21-din-24.03.2026-privind-aprobarea-vanzarii-directe-a-dreptului-de-proprietate-asupra-imobilului-situat-in-sat-Silindeu-nr.-23.pdf",
+     "sha256": "bd6f13dee4d0644a572af0a51c94bafee48e0f4cf9a16d09b2b06499259c93f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-22-2026",
+   "path": "local/bihor/simian/2026/22",
+   "short": "HCL Șimian nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 22/2026 privind aprobarea Planului de analiza si acoperire a riscurilor de situatii de urgenta (PAAR) pe anul 2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-22-din-24.03.2026-privind-aprobarea-Planului-de-analiza-si-acoperire-a-riscurilor-de-situatii-de-urgenta-PAAR-pe-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-22-din-24.03.2026-privind-aprobarea-Planului-de-analiza-si-acoperire-a-riscurilor-de-situatii-de-urgenta-PAAR-pe-anul-2026.pdf",
+     "sha256": "32338663c6aa69da3ae675c505b9a0c4407a74880d4f77c5ea59ba957ea11fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-23-2026",
+   "path": "local/bihor/simian/2026/23",
+   "short": "HCL Șimian nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 23/2026 privind aprobarea Planului de asigurare cu resurse umane, materiale si financiare necesare pentru gestionarea situatiilor de urgenta (PARUMF) pe anul 2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-23-din-24.03.2026-privind-aprobarea-Planului-de-asigurare-cu-resurse-umane-materiale-si-financiare-necesare-pentru-gestionarea-situatiilor-de-urgenta-PARUMF-pe-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-23-din-24.03.2026-privind-aprobarea-Planului-de-asigurare-cu-resurse-umane-materiale-si-financiare-necesare-pentru-gestionarea-situatiilor-de-urgenta-PARUMF-pe-anul-2026.pdf",
+     "sha256": "d2e19bc036931b0a0df1d5cbf326c9df3b1bd0c1d268f2705035ac886b23c08c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-24-2026",
+   "path": "local/bihor/simian/2026/24",
+   "short": "HCL Șimian nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 24/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-24-din-16.04.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-24-din-16.04.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "b323be1d4d76cce8f49902f627b48f08f8480fe05dca97f1955988b8543caecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-25-2026",
+   "path": "local/bihor/simian/2026/25",
+   "short": "HCL Șimian nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 25/2026 privind aprobarea procesului verbal al sedintei ordinare din 24.03.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-25-din-16.04.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-24.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-25-din-16.04.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-24.03.2026.pdf",
+     "sha256": "c3167f3c17c867f9a79db2790eecfde09bd215c0318a848761131608cb5c8438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-26-2026",
+   "path": "local/bihor/simian/2026/26",
+   "short": "HCL Șimian nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 26/2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-26-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-26-din-16.04.2026.pdf",
+     "sha256": "17f9a70e81e24be464d92e5bc3a71248c726dad76da22e1cb2df3fdce48aac7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-27-2026",
+   "path": "local/bihor/simian/2026/27",
+   "short": "HCL Șimian nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 27/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-27-din-24.04.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-27-din-24.04.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "b99fa4d2230b4802429a31d0693868c39d9ba3457042566fc6a37849334078ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-28-2026",
+   "path": "local/bihor/simian/2026/28",
+   "short": "HCL Șimian nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 28/2026 privind aprobarea procesului verbal al sedintei ordinare din 16.04.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-28-din-24.04.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-28-din-24.04.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-16.04.2026.pdf",
+     "sha256": "e45dbff1862268e2be07f9cff9a199b008377998da9d487a3a1d271bc00bfc06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-29-2026",
+   "path": "local/bihor/simian/2026/29",
+   "short": "HCL Șimian nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 29/2026 privind rectificarea HCL nr. 71 din 27.10.2025",
+   "url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-29-din-24.04.2026-privind-rectificarea-HCL-nr.-71-din-27.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/04/Hotararea-nr.-29-din-24.04.2026-privind-rectificarea-HCL-nr.-71-din-27.10.2025.pdf",
+     "sha256": "c64e38cfb2808c5b7129b617f9aeef2419f66482d66b8440139ea5bf198805f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-3-2026",
+   "path": "local/bihor/simian/2026/3",
+   "short": "HCL Șimian nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 3/2026 privind stabilirea pe anul 2026 a volumului de masa lemnoasa ce se va exploata",
+   "url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-3-din-28.01.2026-privind-stabilirea-pe-anul-2026-a-volumului-de-masa-lemnoasa-ce-se-va-exploata.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-3-din-28.01.2026-privind-stabilirea-pe-anul-2026-a-volumului-de-masa-lemnoasa-ce-se-va-exploata.pdf",
+     "sha256": "71ae57fe9569200c95fb814ce5789c5d22c056abee4c3937dbffabb8260f539d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-30-2026",
+   "path": "local/bihor/simian/2026/30",
+   "short": "HCL Șimian nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 30/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-30-din-14.05.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-30-din-14.05.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "bb5cac3fb919e4109ee6c93839f401cf24ba6d5daf9618e1c6e5ae07952af094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-31-2026",
+   "path": "local/bihor/simian/2026/31",
+   "short": "HCL Șimian nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 31/2026 privind aprobarea procesului verbal al sedintei extraordinare din 24.04.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-31-din-14.05.2026-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-24.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-31-din-14.05.2026-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-24.04.2026.pdf",
+     "sha256": "85d92f140f593edaefd3b74b379c9adca9fb74315eca113264e89d5b2f172ecd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-32-2026",
+   "path": "local/bihor/simian/2026/32",
+   "short": "HCL Șimian nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 32/2026 privind aprobarea bugetului local al comunei Simian pe anul 2026 &#8211; partea 3",
+   "url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-32-din-14.05.2026-privind-aprobarea-bugetului-local-al-comunei-Simian-pe-anul-2026-partea-3.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-32-din-14.05.2026-privind-aprobarea-bugetului-local-al-comunei-Simian-pe-anul-2026-partea-3.pdf",
+     "sha256": "14a9fb2b1db04d5050896c2750f7288ec4aa7eda02352dd048978d0ad3136748"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-33-2026",
+   "path": "local/bihor/simian/2026/33",
+   "short": "HCL Șimian nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 33/2026 privind aprobarea indicatorilor tehnico-economici si a studiului de fezabilitate al lucrarii Construire parcare in localitatea Simian nr. 154",
+   "url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-33-din-14.05.2026-privind-aprobarea-indicatorilor-tehnico-economici-si-a-studiului-de-fezabilitate-al-lucrarii-22Construire-parcare-in-localitatea-Simian-nr.-15422.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-33-din-14.05.2026-privind-aprobarea-indicatorilor-tehnico-economici-si-a-studiului-de-fezabilitate-al-lucrarii-22Construire-parcare-in-localitatea-Simian-nr.-15422.pdf",
+     "sha256": "4dd55d7ef6b860e8af50445570bba3b4f79005315cb13c0c8d0e6c5c90ffd27a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-34-2026",
+   "path": "local/bihor/simian/2026/34",
+   "short": "HCL Șimian nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 34/2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-34-din-14.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-34-din-14.05.2026.pdf",
+     "sha256": "819216363c61facab9e1876d4249a5797501ca27f4bf53145467c7263909708f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-35-2026",
+   "path": "local/bihor/simian/2026/35",
+   "short": "HCL Șimian nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 35/2026 privind aprobarea executiei bugetare la data de 31.03.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-35-din-14.05.2026-privind-aprobarea-executiei-bugetare-la-data-de-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/05/Hotararea-nr.-35-din-14.05.2026-privind-aprobarea-executiei-bugetare-la-data-de-31.03.2026.pdf",
+     "sha256": "72128ce8b1ac577c37a245d410cdb89e7cc51e514c8a8468b4cc5439aef20f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-36-2026",
+   "path": "local/bihor/simian/2026/36",
+   "short": "HCL Șimian nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 36/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-36-din-11.06.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-36-din-11.06.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "c0694e2c0e946a4f0d2ca2729ed33198b5c593e78fa2f79c4db02aa1a2a12d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-37-2026",
+   "path": "local/bihor/simian/2026/37",
+   "short": "HCL Șimian nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 37/2026 privind aprobarea procesului verbal al sedintei ordinare din 14.05.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-37-din-11.06.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-14.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-37-din-11.06.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-14.05.2026.pdf",
+     "sha256": "ef28f5b38b8385bbcf512df6a1d50d5b8d7fbfee79380e476ad68a623eab869f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-38-2026",
+   "path": "local/bihor/simian/2026/38",
+   "short": "HCL Șimian nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 38/2026 privind modificarea si completarea retelei scolare ce va functiona la nivelul comunei Simian in anul scolar 2026-2027",
+   "url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-38-din-11.06.2026-privind-modificarea-si-completarea-retelei-scolare-ce-va-functiona-la-nivelul-comunei-Simian-in-anul-scolar-2026-2027.pdf",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-38-din-11.06.2026-privind-modificarea-si-completarea-retelei-scolare-ce-va-functiona-la-nivelul-comunei-Simian-in-anul-scolar-2026-2027.pdf",
+     "sha256": "e7653b8bed7e0b371a71c6d66cbe55da3a72eb73db586774e82087f8bee35300"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-39-2026",
+   "path": "local/bihor/simian/2026/39",
+   "short": "HCL Șimian nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 39/2026 privind aprobarea completarii Strategiei de dezvoltare locala a comunei Simian, pentru perioada 2021-2027",
+   "url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-39-din-11.06.2026-privind-aprobarea-completarii-Strategiei-de-dezvoltare-locala-a-comunei-Simian-pentru-perioada-2021-2027.pdf",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-39-din-11.06.2026-privind-aprobarea-completarii-Strategiei-de-dezvoltare-locala-a-comunei-Simian-pentru-perioada-2021-2027.pdf",
+     "sha256": "5d80791181192883b630bbd25a28a9419dddefe8f626b41a1efd25c21c99c547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-4-2026",
+   "path": "local/bihor/simian/2026/4",
+   "short": "HCL Șimian nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 4/2026 privind aprobarea incheierii unui Acord de parteneriat cu Asociatia Pro Simian",
+   "url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-4-din-28.01.2026-privind-aprobarea-incheierii-unui-Acord-de-parteneriat-cu-Asociatia-Pro-Simian.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-4-din-28.01.2026-privind-aprobarea-incheierii-unui-Acord-de-parteneriat-cu-Asociatia-Pro-Simian.pdf",
+     "sha256": "568f7a61f80677d927cbeceb3d3edd9f543ebe86eb90210ffce65ffbf20cdc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-40-2026",
+   "path": "local/bihor/simian/2026/40",
+   "short": "HCL Șimian nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 40/2026 privind participarea UAT comuna Simian, in calitate de lider de parteneriat in Programul de Sanatate &#8211; Asigurarea accesului egal la asistenta medicala",
+   "url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-40-din-11.06.2026-privind-participarea-UAT-comuna-Simian-in-calitate-de-lider-de-parteneriat-in-Programul-de-Sanatate-Asigurarea-accesului-egal-la-asistenta-medicala.pdf",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-40-din-11.06.2026-privind-participarea-UAT-comuna-Simian-in-calitate-de-lider-de-parteneriat-in-Programul-de-Sanatate-Asigurarea-accesului-egal-la-asistenta-medicala.pdf",
+     "sha256": "a05362f57a380595e3c0afac21d9e7eb65c2ea12c06c2515d3d868ee0fd90d7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-41-2026",
+   "path": "local/bihor/simian/2026/41",
+   "short": "HCL Șimian nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 41/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0a6824551d4c0b64208e24327bfbf5041eb81ec6fba27a8be923254c5b5ab705"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-42-2026",
+   "path": "local/bihor/simian/2026/42",
+   "short": "HCL Șimian nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 42/2026 privind rectificarea bugetului local al comunei Simian pe anul 2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-42-din-11.06.2026-privind-rectificarea-bugetului-local-al-comunei-Simian-pe-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/06/Hotararea-nr.-42-din-11.06.2026-privind-rectificarea-bugetului-local-al-comunei-Simian-pe-anul-2026.pdf",
+     "sha256": "cd06c6c93d4921b2e1c00a5106b10715e2c2307f5f115f2bfa9a4d4914378f39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-43-2026",
+   "path": "local/bihor/simian/2026/43",
+   "short": "HCL Șimian nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 43/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-43-din-29.07.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-43-din-29.07.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "a56a629214cac31fb13128f2ad468b52968400c2523737f0808e11153bbc489e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-44-2026",
+   "path": "local/bihor/simian/2026/44",
+   "short": "HCL Șimian nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 44/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-44-din-29.07.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-44-din-29.07.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "32ebb56ff81af214935cb1a3609e2dce4ea12779566e0af653925524798aa37f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-45-2026",
+   "path": "local/bihor/simian/2026/45",
+   "short": "HCL Șimian nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 45/2026 privind aprobarea procesului verbal al sedintei ordinare din 11.06.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-45-din-29.07.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-11.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-45-din-29.07.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-11.06.2026.pdf",
+     "sha256": "a84fe36d49c33411d23a70584d28e48e0d0649e4871a4039d0db5f01748ae21e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-46-2026",
+   "path": "local/bihor/simian/2026/46",
+   "short": "HCL Șimian nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 46/2026 privind organizarea si desfasurarea festivitatii Zilele Comunei Simian &#8211; Editia a XXV-a",
+   "url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-46-din-29.07.2026-privind-organizarea-si-desfasurarea-festivitatii-Zilele-Comunei-Simian-Editia-a-XXV-a.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-46-din-29.07.2026-privind-organizarea-si-desfasurarea-festivitatii-Zilele-Comunei-Simian-Editia-a-XXV-a.pdf",
+     "sha256": "2b95bf4ac861f1e9f261a73668c867e309edabc77cc8e750818de5d32f9dfc75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-47-2026",
+   "path": "local/bihor/simian/2026/47",
+   "short": "HCL Șimian nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 47/2026 privind rectificarea bugetului local al comunei Simian pe anul 2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-47-din-29.07.2026-privind-rectificarea-bugetului-local-al-comunei-Simian-pe-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-47-din-29.07.2026-privind-rectificarea-bugetului-local-al-comunei-Simian-pe-anul-2026.pdf",
+     "sha256": "9f4e3b4249fa7113ffd5e39ed07b31e13f1eebe12aa8426c0d0aaf618b357ad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-48-2026",
+   "path": "local/bihor/simian/2026/48",
+   "short": "HCL Șimian nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 48/2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-48-din-29.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/08/Hotararea-nr.-48-din-29.07.2026.pdf",
+     "sha256": "97781c92d7db424fded3ab8fa35040e304356096553e9a4fc988753557414f21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-49-2026",
+   "path": "local/bihor/simian/2026/49",
+   "short": "HCL Șimian nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 49/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-49-din-28.08.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-49-din-28.08.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "6b1cf3b710f6118f439f2a5e21b375c54a2371cb2e609f98d78bd94cc7142dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-5-2026",
+   "path": "local/bihor/simian/2026/5",
+   "short": "HCL Șimian nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 5/2026 privind aprobarea unor masuri pentru implementarea Programului National Masa Sanatoasa",
+   "url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-5-din-28.01.2026-privind-aprobarea-unor-masuri-pentru-implementarea-Programului-National-Masa-Sanatoasa.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-5-din-28.01.2026-privind-aprobarea-unor-masuri-pentru-implementarea-Programului-National-Masa-Sanatoasa.pdf",
+     "sha256": "e1549bb2f6f8840ab20fcb3a490bde54e1fae1f45058c4013b5b960f58583e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-50-2026",
+   "path": "local/bihor/simian/2026/50",
+   "short": "HCL Șimian nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 50/2026 privind aprobarea procesului verbal al sedintei ordinare din 29.07.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-50-din-28.08.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-29.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-50-din-28.08.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-29.07.2026.pdf",
+     "sha256": "751472522941a541bfe551ad39d06edceaf10f8371bc09d37a6062beeedc9d2d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--simian-51-2026",
    "path": "local/bihor/simian/2026/51",
    "short": "HCL Șimian nr. 51/2026",
@@ -14,6 +644,201 @@
      "units": 1,
      "source_url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-51-din-28.08.2026-privind-aprobarea-Regulamentului-privind-modul-de-organizare-si-conditiile-de-utilizare-a-spatiilor-din-incinta-cladirii-aferent-Centrului-Multifunctional-1.pdf",
      "sha256": "5fa5c0ca9d6412608c6bc2303b55b14b77a429ed27bcf094a08684191d02d31e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-52-2026",
+   "path": "local/bihor/simian/2026/52",
+   "short": "HCL Șimian nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 52/2026 privind aprobarea executiei bugetare la data de 30.06.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-52-din-28.08.2026-privind-aprobarea-executiei-bugetare-la-data-de-30.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/09/Hotararea-nr.-52-din-28.08.2026-privind-aprobarea-executiei-bugetare-la-data-de-30.06.2026.pdf",
+     "sha256": "e213160b4e37d1c423b7fff0ab21cf38762b62680e13d77c4e8f8c4c1f5e849b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-53-2026",
+   "path": "local/bihor/simian/2026/53",
+   "short": "HCL Șimian nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 53/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-53-din-23.09.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-53-din-23.09.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "376b6512f1b9fb03d490591869dec2d0c7ce3037969d434a09771fff66ae0214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-54-2026",
+   "path": "local/bihor/simian/2026/54",
+   "short": "HCL Șimian nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 54/2026 privind aprobarea procesului verbal al sedintei ordinare din 28.08.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-54-din-23.09.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-28.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-54-din-23.09.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-28.08.2026.pdf",
+     "sha256": "96dee9375e2d024acedc7590e997b536a011c015f0a259a92ddaf081cee7b919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-55-2026",
+   "path": "local/bihor/simian/2026/55",
+   "short": "HCL Șimian nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 55/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-55-din-23.09.2026-privind-rectificarea-bugetului-local-pe-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-55-din-23.09.2026-privind-rectificarea-bugetului-local-pe-anul-2026.pdf",
+     "sha256": "08b8882232bbf2b6387336938fc7831797dc58bde092f51df639196640f1008c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-56-2026",
+   "path": "local/bihor/simian/2026/56",
+   "short": "HCL Șimian nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 56/2026 privind aprobarea schimbarii reprezentantului legal al UAT Simian, asociatul unic al SC SYMIAN SERV SRL, actualizarea codurilor CAEN si majorarea capitalului social",
+   "url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-56-din-23.09.2026-privind-aprobarea-schimbarii-reprezentantului-legal-al-UAT-Simian-asociatul-unic-al-SC-SYMIAN-SERV-SRL-actualizarea-codurilor-CAEN-si-majorarea-capitalului-social.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-56-din-23.09.2026-privind-aprobarea-schimbarii-reprezentantului-legal-al-UAT-Simian-asociatul-unic-al-SC-SYMIAN-SERV-SRL-actualizarea-codurilor-CAEN-si-majorarea-capitalului-social.pdf",
+     "sha256": "d905dc8d0dbd55c7d6190fa5de70d7ec093860c3a6b19d4fba488f0849000235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-57-2026",
+   "path": "local/bihor/simian/2026/57",
+   "short": "HCL Șimian nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 57/2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-57-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-57-din-23.09.2026.pdf",
+     "sha256": "62ff4d17d2141540fc9a4998a4f8e5818da13bd6ac099d6bc56d1973efa8608d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-58-2026",
+   "path": "local/bihor/simian/2026/58",
+   "short": "HCL Șimian nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 58/2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-58-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/10/Hotararea-nr.-58-din-23.09.2026.pdf",
+     "sha256": "a47d46c8e8a3529debef42bdf1f62e8af0b5c7bc04812d95e240245da9964cd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-60-2026",
+   "path": "local/bihor/simian/2026/60",
+   "short": "HCL Șimian nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 60/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/11/Hotararea-nr.-60-din-28.10.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/11/Hotararea-nr.-60-din-28.10.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "fc33b25cec8c5befee05c9e635a6884a0cb12a04a73b5eec7c0a4eaedc3dc59e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-61-2026",
+   "path": "local/bihor/simian/2026/61",
+   "short": "HCL Șimian nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 61/2026 privind aprobarea procesului verbal al sedintei ordinare din 23.09.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/11/Hotararea-nr.-61-din-28.10.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/11/Hotararea-nr.-61-din-28.10.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-23.09.2026.pdf",
+     "sha256": "7716cf73a2c3bde35613bd8ae61b1a73cfd320eec1eeac2bcc4506fe38bcf8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-63-2026",
+   "path": "local/bihor/simian/2026/63",
+   "short": "HCL Șimian nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 63/2026 privind aprobarea modificarilor tehnico-economice pentru &#8211; Cresterea eficientei energetice in cladirile publice din comuna Simian",
+   "url": "https://simian.ro/wp-content/uploads/2026/11/Hotararea-nr.-63-din-28.10.2026-privind-aprobarea-modificarilor-tehnico-economice-pentru-Cresterea-eficientei-energetice-in-cladirile-publice-din-comuna-Simian.pdf",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/11/Hotararea-nr.-63-din-28.10.2026-privind-aprobarea-modificarilor-tehnico-economice-pentru-Cresterea-eficientei-energetice-in-cladirile-publice-din-comuna-Simian.pdf",
+     "sha256": "0e9313c52fc8bdf0066853d0398c39d5e9acb754a66d29dadf3744457c84d9a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-7-2026",
+   "path": "local/bihor/simian/2026/7",
+   "short": "HCL Șimian nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 7/2026 privind analiza stadiului de inscriere a datelor in Registrul Agricol pentru semestrul 2 al anului 2025",
+   "url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-7-din-28.01.2026-privind-analiza-stadiului-de-inscriere-a-datelor-in-Registrul-Agricol-pentru-semestrul-2-al-anului-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/02/Hotararea-nr.-7-din-28.01.2026-privind-analiza-stadiului-de-inscriere-a-datelor-in-Registrul-Agricol-pentru-semestrul-2-al-anului-2025.pdf",
+     "sha256": "e54aae4e5dc63c777dc1957eda0f606af89e649a965c8f8869a5a846182fc5c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-8-2026",
+   "path": "local/bihor/simian/2026/8",
+   "short": "HCL Șimian nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 8/2026 privind aprobarea ordinii de zi",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-8-din-27.02.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-8-din-27.02.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "edd91747c86ef89d64d90d19be44cfd2f80b0f39915fa1da078d54573b79ab42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--simian-9-2026",
+   "path": "local/bihor/simian/2026/9",
+   "short": "HCL Șimian nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 9/2026 privind aprobarea procesului verbal al sedintei ordinare din 28.01.2026",
+   "url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-9-din-27.02.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-28.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://simian.ro/wp-content/uploads/2026/03/Hotararea-nr.-9-din-27.02.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-28.01.2026.pdf",
+     "sha256": "1a44c9dce359130e38b0a2f685ebea062517fe2970ce30c09b522ca3933fd6f9"
     }
    ]
   }

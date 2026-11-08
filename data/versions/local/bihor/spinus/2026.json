@@ -3,6 +3,21 @@
  "shard": "local/bihor/spinus/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--spinus-1-2026",
+   "path": "local/bihor/spinus/2026/1",
+   "short": "HCL Spinuș nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 1/2026 privind alegerea președintelui de ședință pentru perioada februarie 2026 - aprilie 2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/255916",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/255916",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--spinus-10-2026",
    "path": "local/bihor/spinus/2026/10",
    "short": "HCL Spinuș nr. 10/2026",
@@ -28,6 +43,66 @@
      "from": "2026-03-30",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/259033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-12-2026",
+   "path": "local/bihor/spinus/2026/12",
+   "short": "HCL Spinuș nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 12/2026 privind inchirierea suprafeţelor de pajisti aflate in proprietatea publică a comunei Spinuș, județul Bihor",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/259034",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/259034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-13-2026",
+   "path": "local/bihor/spinus/2026/13",
+   "short": "HCL Spinuș nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 13/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 16 aprilie 2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/263759",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/263759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-14-2026",
+   "path": "local/bihor/spinus/2026/14",
+   "short": "HCL Spinuș nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 14/2026 privind aprobarea procesului - verbal al ședinței anterioare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/263760",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/263760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-15-2026",
+   "path": "local/bihor/spinus/2026/15",
+   "short": "HCL Spinuș nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 15/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al primarului comunei Spinuș, județul Bihor, conform prevederilor OUG nr.7/2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/263761",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/263761",
      "sha256": null
     }
    ]
@@ -63,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--spinus-18-2026",
+   "path": "local/bihor/spinus/2026/18",
+   "short": "HCL Spinuș nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 18/2026 privind însuşirea Acordului de cooperare pentru asigurarea suportului IT în vederea dezvoltării și gestionării Sistemului de Control Intern Managerial prin intermediul platformei “Soluția e-SCIM”, www.e-scim.ro",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/263764",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/263764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-19-2026",
+   "path": "local/bihor/spinus/2026/19",
+   "short": "HCL Spinuș nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 19/2026 privind alegerea președintelui de ședință pentru perioada mai 2026-iulie 2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271703",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-2-2026",
+   "path": "local/bihor/spinus/2026/2",
+   "short": "HCL Spinuș nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 2/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 26 februarie 2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/255917",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/255917",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--spinus-20-2026",
    "path": "local/bihor/spinus/2026/20",
    "short": "HCL Spinuș nr. 20/2026",
@@ -73,6 +193,21 @@
      "from": "2026-06-15",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/271704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-21-2026",
+   "path": "local/bihor/spinus/2026/21",
+   "short": "HCL Spinuș nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 21/2026 privind aprobarea procesului - verbal al ședinței anterioare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271705",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271705",
      "sha256": null
     }
    ]
@@ -93,6 +228,81 @@
    ]
   },
   {
+   "slug": "hcl-bihor--spinus-23-2026",
+   "path": "local/bihor/spinus/2026/23",
+   "short": "HCL Spinuș nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 23/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate\"",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271707",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-24-2026",
+   "path": "local/bihor/spinus/2026/24",
+   "short": "HCL Spinuș nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 24/2026 privind aprobarea Planului Anual de Acțiune pentru anul 2026 în domeniul administrării și organizării serviciilor sociale la nivelul compartimentului de asistență socială din cadrul Primăriei Comunei Spinuș",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271708",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-25-2026",
+   "path": "local/bihor/spinus/2026/25",
+   "short": "HCL Spinuș nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 25/2026 privind aprobarea modului de organizare a apărării împotriva incendiilor în Comuna Spinuș",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271709",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-26-2026",
+   "path": "local/bihor/spinus/2026/26",
+   "short": "HCL Spinuș nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 26/2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271710",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-27-2026",
+   "path": "local/bihor/spinus/2026/27",
+   "short": "HCL Spinuș nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 27/2026 privind acordarea unui mandat special Asociaţiei de Dezvoltare Intercomunitară ECOLECT GROUP, prin Aparatul tehnic de specialitate și reprezentanții împuterniciți ai acesteia-specialiști în managementul deșeurilor, pentru exercitarea, în numele și pe seama unității administrativ teritoriale COMUNA SPINUȘ, a activităților de: verificare tehnică, de monitorizare, prevenire, control, constatare a contravențiilor și de aplicare a sancțiunilor contravenționale (avertisment și amendă contravențională) în domeniul serviciului de salubrizare,",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/271711",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/271711",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--spinus-28-2026",
    "path": "local/bihor/spinus/2026/28",
    "short": "HCL Spinuș nr. 28/2026",
@@ -103,6 +313,36 @@
      "from": "2026-07-09",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/275365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-29-2026",
+   "path": "local/bihor/spinus/2026/29",
+   "short": "HCL Spinuș nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 29/2026 privind aprobarea procesului - verbal al ședinței anterioare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/275366",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/275366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-3-2026",
+   "path": "local/bihor/spinus/2026/3",
+   "short": "HCL Spinuș nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 3/2026 privind aprobarea proceselor - verbale ale ședințelor anterioare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/255918",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/255918",
      "sha256": null
     }
    ]
@@ -133,6 +373,21 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/281779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-32-2026",
+   "path": "local/bihor/spinus/2026/32",
+   "short": "HCL Spinuș nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 32/2026 privind aprobarea procesului - verbal al ședinței anterioare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/281780",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/281780",
      "sha256": null
     }
    ]
@@ -493,6 +748,36 @@
      "from": "2026-03-09",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/255922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-8-2026",
+   "path": "local/bihor/spinus/2026/8",
+   "short": "HCL Spinuș nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 8/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Spinuș din data de 19 martie 2026",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/259030",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/259030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-9-2026",
+   "path": "local/bihor/spinus/2026/9",
+   "short": "HCL Spinuș nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 9/2026 privind aprobarea procesului - verbal al ședinței anterioare",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/259031",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/259031",
      "sha256": null
     }
    ]

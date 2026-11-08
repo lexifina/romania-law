@@ -269,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-13-2025",
+"path": "local/bihor/tauteu/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 13/2025 privind aprobarea actualizării cuantumului chiriilor anuale și indexarea acestora cu rata inflației pe anul 2024 pentru locuințele situate în comuna Tăuteu, construite prin Agenția Națională pentru Locuințe, aflate în administrarea Consiliului local al comunei Tăuteu, județul Bihor, indexare aplicabilă începând cu data de 01.02.2025",
+"short": "HCL Tăuteu nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/203050",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-14-2025",
 "path": "local/bihor/tauteu/2025/14",
 "kind": "local",
@@ -512,6 +534,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-25-2025",
+"path": "local/bihor/tauteu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 25/2025 privind aprobarea documentației pentru închirierea prin atribuire directă a pășunilor aflate în proprietatea privată a comunei Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/203070",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-26-2025",
 "path": "local/bihor/tauteu/2025/26",
 "kind": "local",
@@ -531,6 +575,28 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-27-2025",
+"path": "local/bihor/tauteu/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 27/2025 privind aprobarea vânzării directe a terenului în suprafață de 500 mp, Număr cadastral 50111, situat în intravilanul localității Bogei, comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/203072",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -729,6 +795,28 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-37-2025",
+"path": "local/bihor/tauteu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 37/2025 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 23 mai 2025",
+"short": "HCL Tăuteu nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214778",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -974,6 +1062,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-49-2025",
+"path": "local/bihor/tauteu/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 49/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al Comunei Tăuteu, convocată pe data de 30 mai 2025",
+"short": "HCL Tăuteu nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214799",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-50-2025",
+"path": "local/bihor/tauteu/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 50/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 5 aprilie 2025",
+"short": "HCL Tăuteu nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214800",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-51-2025",
 "path": "local/bihor/tauteu/2025/51",
 "kind": "local",
@@ -996,6 +1128,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-52-2025",
+"path": "local/bihor/tauteu/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 52/2025 privind aprobarea listei definitive pentru anul 2025, cu solicitanții locuinţelor pentru tineri, destinate închirierii, construite de Agenţia Naţională pentru Locuinţe în comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214802",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-53-2025",
+"path": "local/bihor/tauteu/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 53/2025 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu, convocată de îndată pe data de 23 mai 2025",
+"short": "HCL Tăuteu nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214854",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-54-2025",
 "path": "local/bihor/tauteu/2025/54",
 "kind": "local",
@@ -1015,6 +1191,94 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-55-2025",
+"path": "local/bihor/tauteu/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 55/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al comunei Tăuteu, convocată pe data de 27 iunie 2025",
+"short": "HCL Tăuteu nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214870",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-56-2025",
+"path": "local/bihor/tauteu/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 56/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 30 mai 2025",
+"short": "HCL Tăuteu nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214884",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-57-2025",
+"path": "local/bihor/tauteu/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 57/2025 privind aprobarea vânzării, fără licitație publică, a unui imobil – casă de locuit, aparținând domenului privat al comunei Tăuteu, județul Bihor, situat în sat Tăuteu, nr. 142, comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214885",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-58-2025",
+"path": "local/bihor/tauteu/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 58/2025 privind aprobarea vânzării directe a terenului în suprafață de 500 mp, Număr cadastral 50107, situat în intravilanul localității Bogei, comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/214886",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1062,6 +1326,139 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-61-2025",
+"path": "local/bihor/tauteu/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 61/2025 privind aprobarea Ordinii de zi pentru şedinţa extraordinară, convocată de îndată, a Consiliului Local al Comunei Tăuteu din data de 10 iulie 2025",
+"short": "HCL Tăuteu nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/216377",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-62-2025",
+"path": "local/bihor/tauteu/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 62/2025 privind aprobarea modificării și completării Hotărârii Consiliului Local al comunei Tăuteu nr. 15/17 februarie 2025",
+"short": "HCL Tăuteu nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/216379",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-63-2025",
+"path": "local/bihor/tauteu/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 63/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al comunei Tăuteu, convocată pe data de 31 iulie 2025",
+"short": "HCL Tăuteu nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/219817",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-64-2025",
+"path": "local/bihor/tauteu/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 64/2025 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/219818",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-65-2025",
+"path": "local/bihor/tauteu/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 65/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 27 iunie 2025",
+"short": "HCL Tăuteu nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/219819",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-66-2025",
+"path": "local/bihor/tauteu/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 66/2025",
+"short": "HCL Tăuteu nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/219820",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-67-2025",
 "path": "local/bihor/tauteu/2025/67",
 "kind": "local",
@@ -1106,6 +1503,28 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-69-2025",
+"path": "local/bihor/tauteu/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 69/2025 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu, convocată de îndată pe data de 10 iulie 2025",
+"short": "HCL Tăuteu nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/219831",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-70-2025",
 "path": "local/bihor/tauteu/2025/70",
 "kind": "local",
@@ -1128,6 +1547,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-71-2025",
+"path": "local/bihor/tauteu/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 71/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al comunei Tăuteu, convocată pe data de 31 iulie 2025",
+"short": "HCL Tăuteu nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/225079",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-72-2025",
+"path": "local/bihor/tauteu/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 72/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 31 iulie 2025",
+"short": "HCL Tăuteu nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/225084",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-73-2025",
 "path": "local/bihor/tauteu/2025/73",
 "kind": "local",
@@ -1147,6 +1610,28 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-74-2025",
+"path": "local/bihor/tauteu/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 74/2025 privind desemnarea persoanei care va ține Registrul de evidență a datoriei publice și Registrul de evidență a garanțiilor locale, la nivelul unității administrativ-teritoriale comuna Tăuteu, județul Bihor",
+"short": "HCL Tăuteu nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/225086",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1238,6 +1723,50 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-79-2025",
+"path": "local/bihor/tauteu/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 79/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al comunei Tăuteu, convocată pe data de 26 septembrie 2025",
+"short": "HCL Tăuteu nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234744",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-80-2025",
+"path": "local/bihor/tauteu/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 80/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 29 august 2025",
+"short": "HCL Tăuteu nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234745",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-81-2025",
 "path": "local/bihor/tauteu/2025/81",
 "kind": "local",
@@ -1257,6 +1786,50 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-82-2025",
+"path": "local/bihor/tauteu/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 82/2025 privind desemnarea reprezentantului Consiliului Local al comunei Tăuteu în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Tăuteu",
+"short": "HCL Tăuteu nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234747",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-83-2025",
+"path": "local/bihor/tauteu/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 83/2025 privind desemnarea reprezentantului Consiliului Local al comunei Tăuteu în Consiliul de Administrație al Școlii Gimnaziale nr. 2 Bogei",
+"short": "HCL Tăuteu nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234748",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1282,6 +1855,72 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-87-2025",
+"path": "local/bihor/tauteu/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 87/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al comunei Tăuteu, convocată pe data de 28 octombrie 2025",
+"short": "HCL Tăuteu nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234911",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-88-2025",
+"path": "local/bihor/tauteu/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 88/2025 privind alegerea Preşedintelui de şedinţă",
+"short": "HCL Tăuteu nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234942",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-89-2025",
+"path": "local/bihor/tauteu/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 89/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 26 septembrie 2025",
+"short": "HCL Tăuteu nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234943",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-90-2025",
 "path": "local/bihor/tauteu/2025/90",
 "kind": "local",
@@ -1304,6 +1943,72 @@
 }
 },
 {
+"slug": "hcl-bihor--tauteu-91-2025",
+"path": "local/bihor/tauteu/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 91/2025 privind aprobarea Procesului-verbal al şedinţei extraordinare a Consiliului Local al comunei Tăuteu, convocată de îndată pe data de 16 octombrie 2025",
+"short": "HCL Tăuteu nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234945",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-92-2025",
+"path": "local/bihor/tauteu/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 92/2025 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2025",
+"short": "HCL Tăuteu nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234948",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-93-2025",
+"path": "local/bihor/tauteu/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 93/2025 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe trimestrul III - anul 2025",
+"short": "HCL Tăuteu nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234949",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--tauteu-94-2025",
 "path": "local/bihor/tauteu/2025/94",
 "kind": "local",
@@ -1323,6 +2028,72 @@
 "council_name": "Consiliul Local al Comunei Tăuteu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-95-2025",
+"path": "local/bihor/tauteu/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 95/2025 privind aprobarea cheltuielilor suplimentare aferente avizelor pentru proiectul ”Elaborare studii de fundamentare și de specialitate a Planului Urbanistic General și elaborare în format GIS a Planului Urbanistic General al comunei Tăuteu, județul Bihor”",
+"short": "HCL Tăuteu nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/234951",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-96-2025",
+"path": "local/bihor/tauteu/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 96/2025 privind aprobarea Ordinii de zi pentru şedința ordinară, a Consiliului Local al comunei Tăuteu, convocată pe data de 28 octombrie 2025",
+"short": "HCL Tăuteu nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/248175",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-97-2025",
+"path": "local/bihor/tauteu/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 97/2025 privind aprobarea Procesului-verbal al şedinţei ordinare a Consiliului Local al comunei Tăuteu din data de 28 octombrie 2025",
+"short": "HCL Tăuteu nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/248176",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
