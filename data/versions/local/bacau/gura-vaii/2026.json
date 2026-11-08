@@ -3,6 +3,66 @@
  "shard": "local/bacau/gura-vaii/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--gura-vaii-10-2026",
+   "path": "local/bacau/gura-vaii/2026/10",
+   "short": "HCL Gura Văii nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 10/2026",
+   "url": "http://www.uatcomunaguravaii.ro/",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/08/OFERTA-10.pdf",
+     "sha256": "af1dcb4e6c3a0569c80c531fe57d6e0a4166f07f4f1c7a0f7181c603fcb7591b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-12-2026",
+   "path": "local/bacau/gura-vaii/2026/12",
+   "short": "HCL Gura Văii nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 12/2026",
+   "url": "http://www.uatcomunaguravaii.ro/",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/10/teren12.pdf",
+     "sha256": "7c995958ab5894d3955b7d8de164d2945cd39db9e9041f765aa8be50062bb787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-19-2026",
+   "path": "local/bacau/gura-vaii/2026/19",
+   "short": "HCL Gura Văii nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 19/2026",
+   "url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/02/HCL-19-DIN-FEB.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/02/HCL-19-DIN-FEB.pdf",
+     "sha256": "85ec165479705fda80b5d7e8c8c0806bacd0a804c09d9135e3bbef92748643a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-21-2026",
+   "path": "local/bacau/gura-vaii/2026/21",
+   "short": "HCL Gura Văii nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 21/2026",
+   "url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/02/HCL-21-DIN-FEB.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/02/HCL-21-DIN-FEB.pdf",
+     "sha256": "94460e7c35bfc6d645f4be747731df3e46d8513cec2cbcfff2b7248473499837"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--gura-vaii-23-2026",
    "path": "local/bacau/gura-vaii/2026/23",
    "short": "HCL Gura Văii nr. 23/2026",
@@ -29,6 +89,21 @@
      "units": 1,
      "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/03/hcl-26.pdf",
      "sha256": "cf927f8eaea6a2c3d45b4490120a12257a0344927b44669f547b316c9acd182a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-37-2026",
+   "path": "local/bacau/gura-vaii/2026/37",
+   "short": "HCL Gura Văii nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 37/2026 Privind aprobarea modificării și completării HCL nr. 29 din 26 martie 2026 privind aprobarea închirierii prin procedura de licitație publică a unor terenuri, categoria pășune, aflate în domeniul privat al comunei Gura Văii, județul Bacău",
+   "url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/05/HCL-37.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/05/HCL-37.pdf",
+     "sha256": "2d2d6f93c7545eddfc75a082839fd11fe18d3e04895d3ad4daea0cbf0d011bb1"
     }
    ]
   },
@@ -78,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--gura-vaii-69-2026",
+   "path": "local/bacau/gura-vaii/2026/69",
+   "short": "HCL Gura Văii nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 69/2026",
+   "url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/08/HCL-69.pdf",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/08/HCL-69.pdf",
+     "sha256": "8e08add5e05d2ccc636a5282c3132a34017bbf40ca08a428d073145fc95fcd5e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--gura-vaii-7-2026",
    "path": "local/bacau/gura-vaii/2026/7",
    "short": "HCL Gura Văii nr. 7/2026",
@@ -89,6 +179,36 @@
      "units": 1,
      "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/01/hcl_7.pdf",
      "sha256": "128d592cc59d3f443b3c5da98636f0b54ddbecbedab44d67803e5f2bd45e1401"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-73-2026",
+   "path": "local/bacau/gura-vaii/2026/73",
+   "short": "HCL Gura Văii nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 73/2026",
+   "url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/09/HCL-73.pdf",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/09/HCL-73.pdf",
+     "sha256": "7a3f784b5d9058b9982b2acd32c17f6437b8744c62553c656fb7956f4d119566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-8-2026",
+   "path": "local/bacau/gura-vaii/2026/8",
+   "short": "HCL Gura Văii nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 8/2026",
+   "url": "http://www.uatcomunaguravaii.ro/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/09/Publicatie-de-vanzare-nr.-8-din-20.08.2026-Lot-nr.-114.pdf",
+     "sha256": "22b8f2b8248da63d4f59b13ee0e5c5565643ae0ecf97fec352e7a8550edd90dc"
     }
    ]
   },
@@ -149,6 +269,21 @@
      "units": 1,
      "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/11/hcl-89.pdf",
      "sha256": "7dcc1f00d27fc2fccadb71116f81ad68f49e97eef7f4ccb87018962238fb2cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-9-2026",
+   "path": "local/bacau/gura-vaii/2026/9",
+   "short": "HCL Gura Văii nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 9/2026",
+   "url": "http://www.uatcomunaguravaii.ro/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/09/Publicatie-de-vanzare-nr.-9-din-16.09.2026-Lot-114.pdf",
+     "sha256": "2235b3ed57d08fd101687129987df157c08441ebeda819ccf8b038f81495b666"
     }
    ]
   },

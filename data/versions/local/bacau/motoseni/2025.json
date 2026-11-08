@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-17-2025",
+   "path": "local/bacau/motoseni/2025/17",
+   "short": "HCL Motoșeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 17/2025 privind privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile DECEMBRIE 2024, IANUARIE și FEBRUARIE 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/201281",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/201281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-18-2025",
    "path": "local/bacau/motoseni/2025/18",
    "short": "HCL Motoșeni nr. 18/2025",
@@ -163,6 +178,51 @@
      "from": "2025-03-04",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/195244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-20-2025",
+   "path": "local/bacau/motoseni/2025/20",
+   "short": "HCL Motoșeni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 20/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/201284",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/201284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-21-2025",
+   "path": "local/bacau/motoseni/2025/21",
+   "short": "HCL Motoșeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 21/2025 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru luna MARTIE 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/205841",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/205841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-22-2025",
+   "path": "local/bacau/motoseni/2025/22",
+   "short": "HCL Motoșeni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 22/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei MOTOSENI , judeţul Bacău pentru anul 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/205842",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/205842",
      "sha256": null
     }
    ]
@@ -348,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-34-2025",
+   "path": "local/bacau/motoseni/2025/34",
+   "short": "HCL Motoșeni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 34/2025 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile APRILIE și MAI 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224436",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224436",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-35-2025",
    "path": "local/bacau/motoseni/2025/35",
    "short": "HCL Motoșeni nr. 35/2025",
@@ -423,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-4-2025",
+   "path": "local/bacau/motoseni/2025/4",
+   "short": "HCL Motoșeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 4/2025 privind aprobarea STUDIULUI DE FUNDAMENTARE a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comuna Motoșeni, județul Bacău",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/195246",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/195246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-40-2025",
    "path": "local/bacau/motoseni/2025/40",
    "short": "HCL Motoșeni nr. 40/2025",
@@ -433,6 +523,21 @@
      "from": "2025-09-10",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-41-2025",
+   "path": "local/bacau/motoseni/2025/41",
+   "short": "HCL Motoșeni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 41/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/228260",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/228260",
      "sha256": null
     }
    ]
@@ -853,6 +958,21 @@
      "from": "2025-03-13",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-8-2025",
+   "path": "local/bacau/motoseni/2025/8",
+   "short": "HCL Motoșeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 8/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196795",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196795",
      "sha256": null
     }
    ]

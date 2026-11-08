@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-14-2020",
+   "path": "local/bacau/secuieni/2020/14",
+   "short": "HCL Secuieni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 14/2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/3755",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/3755",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-15-2020",
    "path": "local/bacau/secuieni/2020/15",
    "short": "HCL Secuieni nr. 15/2020",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-17-2020",
+   "path": "local/bacau/secuieni/2020/17",
+   "short": "HCL Secuieni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 17/2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/18886",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18886",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-18-2020",
    "path": "local/bacau/secuieni/2020/18",
    "short": "HCL Secuieni nr. 18/2020",
@@ -118,6 +148,51 @@
      "from": "2020-05-28",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-19-2020",
+   "path": "local/bacau/secuieni/2020/19",
+   "short": "HCL Secuieni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 19/2020 privind aprobarea închirierii pășunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/18888",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-2-2020",
+   "path": "local/bacau/secuieni/2020/2",
+   "short": "HCL Secuieni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 2/2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/3738",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/3738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-20-2020",
+   "path": "local/bacau/secuieni/2020/20",
+   "short": "HCL Secuieni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/18889",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18889",
      "sha256": null
     }
    ]
@@ -148,6 +223,36 @@
      "from": "2020-05-28",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-23-2020",
+   "path": "local/bacau/secuieni/2020/23",
+   "short": "HCL Secuieni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/18905",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-24-2020",
+   "path": "local/bacau/secuieni/2020/24",
+   "short": "HCL Secuieni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 24/2020 privind însușirea modificărilor din actul adițional nr.1 la Contract de închiriere nr.2832/4.06.2020",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/18906",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/18906",
      "sha256": null
     }
    ]
@@ -388,6 +493,21 @@
      "from": "2020-11-11",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/19020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-4-2020",
+   "path": "local/bacau/secuieni/2020/4",
+   "short": "HCL Secuieni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 4/2020 privind stabilirea salariilor de bază pentru personalului din aparatul de specialitate al primarului și din subordinea Consiliului Local și a indemnizației lunare a C.L",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/3740",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/3740",
      "sha256": null
     }
    ]

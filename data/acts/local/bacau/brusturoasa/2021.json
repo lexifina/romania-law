@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-3-2021",
+"path": "local/bacau/brusturoasa/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 3/2021 privind desemnarea consilierilor locali din cadrul Consiliului local al Comunei Brusturoasa care vor face parte din Comisia de evaluare a performantelor profesionale individuale ale Secretarului general al Comunei Brusturoasa",
+"short": "HCL Brusturoasa nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/18109",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-4-2021",
 "path": "local/bacau/brusturoasa/2021/4",
 "kind": "local",
@@ -286,6 +308,51 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-15-2021",
+"path": "local/bacau/brusturoasa/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 15/2021",
+"short": "HCL Brusturoasa nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-19",
+"latest": "2021-02-19",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/19280",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-16-2021",
+"path": "local/bacau/brusturoasa/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 16/2021 privind modificarea art. 7 din HCL nr. 14/2020 privind exploatarea pășunilor aflate în proprietate privată a comunei Brusturoasa",
+"short": "HCL Brusturoasa nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-19",
+"latest": "2021-02-19",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/19281",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1259,6 +1326,50 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-61-2021",
+"path": "local/bacau/brusturoasa/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 61/2021 privind aprobarea unui sprijin financiar de la bugetul local pentru parohia care functioneaza in comuna Brusturoasa",
+"short": "HCL Brusturoasa nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/36013",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-62-2021",
+"path": "local/bacau/brusturoasa/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 62/2021 privind concesionarea prin licitatie publica a terenului în suprafata de 25.920 mp, din Brusturoasa, nr. cad. 61048 CF nr. 61048, situat pe domeniul privat al comunei Brusturoasa, pentru construirea unui obiectiv de tip moară de apă",
+"short": "HCL Brusturoasa nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/36014",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-63-2021",
 "path": "local/bacau/brusturoasa/2021/63",
 "kind": "local",
@@ -1300,6 +1411,29 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-65-2021",
+"path": "local/bacau/brusturoasa/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 65/2021",
+"short": "HCL Brusturoasa nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/36029",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1521,6 +1655,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-76-2021",
+"path": "local/bacau/brusturoasa/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 76/2021 privind aprobarea unui sprijin financiar de la bugetul local pentru parohia ”SF. Ilie ” Camenca",
+"short": "HCL Brusturoasa nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/41226",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

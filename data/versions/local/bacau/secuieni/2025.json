@@ -198,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-21-2025",
+   "path": "local/bacau/secuieni/2025/21",
+   "short": "HCL Secuieni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 21/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC ECOSUD S.A",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/223910",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/223910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-22-2025",
+   "path": "local/bacau/secuieni/2025/22",
+   "short": "HCL Secuieni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 22/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC COMPANIA ROMPREST SERVICE S.A",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/223911",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/223911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-23-2025",
+   "path": "local/bacau/secuieni/2025/23",
+   "short": "HCL Secuieni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/223912",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/223912",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-24-2025",
    "path": "local/bacau/secuieni/2025/24",
    "short": "HCL Secuieni nr. 24/2025",
@@ -283,6 +328,21 @@
      "from": "2025-10-27",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/231117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-3-2025",
+   "path": "local/bacau/secuieni/2025/3",
+   "short": "HCL Secuieni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 3/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/195412",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/195412",
      "sha256": null
     }
    ]
@@ -538,6 +598,21 @@
      "from": "2025-03-24",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/197028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-7-2025",
+   "path": "local/bacau/secuieni/2025/7",
+   "short": "HCL Secuieni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/200870",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/200870",
      "sha256": null
     }
    ]

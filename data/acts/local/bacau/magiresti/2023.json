@@ -3,6 +3,183 @@
 "shard": "local/bacau/magiresti/2023",
 "acts": [
 {
+"slug": "hcl-bacau--magiresti-42-2023",
+"path": "local/bacau/magiresti/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 42/2023 privind acordul de scoatere definitiva din circuitul agricol a suprafetei de 374 mp, teren extravilan, categoria de folosinta, pasune situat in sat Stanesti, comuna Magiresti, pentru proiectul de utilitate publica si interes local cu denumirea „Construire parc fotovoltaic in comuna Magiresti, judetul Bacau” proiect derulat prin Ministerul Energiei – Fondul de modernizare initiator, primar - Cada I",
+"short": "HCL Măgirești nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/09/HCL-42-scoatere-circuit-agricol-teren-amplasare-panouri-fotovoltaice.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-43-2023",
+"path": "local/bacau/magiresti/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 43/2023 Privind desemnarea reprezentanților Consiliului local Măgirești în Consiliul de administrație al Scolii Măgirești si in Comisia de Evaluare si Asigurare a Calitatii in invatamantul preuniversitar Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru in data de 12.09.2023 Avand in vedere: • adresa conducerii Scolii Măgirești înregistrată sub numărul 5516/01.09.2",
+"short": "HCL Măgirești nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/09/HCL-43-consiliu-administratie-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-44-2023",
+"path": "local/bacau/magiresti/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 44/2023 privind aprobarea Statului de funcții al aparatului de specialitate al primarului comunei Magirestiși a instituțiilor publice de interes local cu sau fără personalitate juridică aflate in subordinea Consiliului local al comunei Magiresti Consiliul local al comunei Magiresti, judetul Bacau, intrunit in sedinta ordinara de lucru in data de 12.09.2023 Având în vedere: • referatul de aprobare al prima",
+"short": "HCL Măgirești nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/09/HCL-44-organigrama-si-stat-de-functii-2023-Magiresti.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-45-2023",
+"path": "local/bacau/magiresti/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 45/2023 Privind aprobarea documentația tehnico economica - Studiului de Oportunitate, a indicatorilor tehnico-economici si a Devizului General pentru investiția „Digitalizare activitate Primăria Măgirești” Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru in data de 12.09.2023 Avand in vedere: • referatul de aprobare al primarului comunei Magiresti inregistrat sub",
+"short": "HCL Măgirești nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/09/HCL-45-aprobare-indicatori-digitalizare.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-51-2023",
+"path": "local/bacau/magiresti/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 51/2023 Privind aprobarea rectificarii bugetului local si a listei de investitii pentru anul 2023 cu finantare integrala si partiala din bugetul local Consiliul local al Comunei Magiresti, judetul Bacau intrunit in sedinta ordinara de lucru in data de 13.10.2023 Văzând: • Referatul de aprobare al primarului comunei Magiresti inregistrat sub nr. 6486/06.10.2023, • raportul compartimentului de specialitate",
+"short": "HCL Măgirești nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/10/HCL-51-rectificare-buget-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-52-2023",
+"path": "local/bacau/magiresti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 52/2023",
+"short": "HCL Măgirești nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/10/HCL-52-mandat-in-AGA-ADIB-06-nov-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-53-2023",
+"path": "local/bacau/magiresti/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 53/2023 privind stabilirea mandatului reprezentantului legal al Unității Administrativ- Teritoriale comuna Magiresti pentru ședința Adunării Generale a Actionarilor S.C",
+"short": "HCL Măgirești nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/10/HCL-53-vot-CRAB-06.11.2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-54-2023",
+"path": "local/bacau/magiresti/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 54/2023 Privind aprobarea rectificării bugetului local pentru anul 2023 Consiliul local al Comunei Magiresti, județul Bacău întrunit în ședința ordinară de lucru în data de 13.11.2023 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 7608/06.11.2023, • raportul compartimentului de specialitate aflat în subordinea primarului comunei Măgirești înregistrat sub numărul 7609/0",
+"short": "HCL Măgirești nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/11/HCL-54-rectificare-buget-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--magiresti-56-2023",
 "path": "local/bacau/magiresti/2023/56",
 "kind": "local",
@@ -25,6 +202,72 @@
 }
 },
 {
+"slug": "hcl-bacau--magiresti-57-2023",
+"path": "local/bacau/magiresti/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 57/2023 Privind aprobarea acordării cadourilor de Crăciun pentru preșcolarii și școlarii din unitatea de învățământ «Școala gimnaziala Măgirești» și organizarea sărbătorilor de iarnă în anul 2023 Consiliul Local al Comunei Magiresti, județul Bacău întrunit în ședință ordinara de lucru în data de 13.11.2023 Având în vedere: • Referatul de aprobare al primarului comunei Magiresti înregistrat sub nr. 7570/02",
+"short": "HCL Măgirești nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/11/HCL-57-sarbatori-de-iarna-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-58-2023",
+"path": "local/bacau/magiresti/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 58/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul „Eficientizarea energetică și gestionarea inteligentă a energiei a Școlii gimnaziale Măgirești, comuna Măgirești, jud Bacău” Consiliul Local al comunei Măgirești, județul Bacău, întrunit in ședința de îndată in 08.12.2023 Având în vedere: • Referatul de aprobare al primarului comunei Măgirești înregistrata sub numărul 8012/07.1",
+"short": "HCL Măgirești nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/12/HCL-58-eficientizare-scoala.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-59-2023",
+"path": "local/bacau/magiresti/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 59/2023 Privind aprobarea rectificării bugetului local Consiliul local al Comunei Magiresti, județul Bacău întrunit în ședința ordinară de lucru în data de 15.12.2023 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 8677/15.12.2023, • raportul compartimentului de specialitate aflat în subordinea primarului comunei Măgirești înregistrat sub numărul 8678/15.12.2023 • avizu",
+"short": "HCL Măgirești nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/12/HCL-59-rectificare-buget-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--magiresti-60-2023",
 "path": "local/bacau/magiresti/2023/60",
 "kind": "local",
@@ -44,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Măgirești",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-61-2023",
+"path": "local/bacau/magiresti/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 61/2023 privind însușirea inventarului domeniului public și privat al comunei Măgirești, județul Bacău Consiliul Local al comunei Magiresti, județul Bacău, întrunit în ședință ordinară de lucru în data de 15.12.2023 Având în vedere: • Referatul de aprobare al primarului comunei Magiresti înregistrat sub nr. 8675/11.12.2023, • raportul compartimentului de resort din cadrul aparatului de specialitate al pri",
+"short": "HCL Măgirești nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://magiresti.ro/wp-content/uploads/2023/12/HCL-61-insusire-domeniu-public-si-privat-2023.pdf",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

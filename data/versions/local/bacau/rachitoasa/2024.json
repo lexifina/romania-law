@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-3-2024",
+   "path": "local/bacau/rachitoasa/2024/3",
+   "short": "HCL Răchitoasa nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 3/2024",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/145118",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/145118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-30-2024",
    "path": "local/bacau/rachitoasa/2024/30",
    "short": "HCL Răchitoasa nr. 30/2024",

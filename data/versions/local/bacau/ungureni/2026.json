@@ -3,6 +3,81 @@
  "shard": "local/bacau/ungureni/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--ungureni-1-2026",
+   "path": "local/bacau/ungureni/2026/1",
+   "short": "HCL Ungureni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 1/2026 privind aprobarea utilizării excedentului bugetar al anilor precedenți",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/248420",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/248420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-10-2026",
+   "path": "local/bacau/ungureni/2026/10",
+   "short": "HCL Ungureni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 10/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/260579",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/260579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-11-2026",
+   "path": "local/bacau/ungureni/2026/11",
+   "short": "HCL Ungureni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 11/2026 privind desemnarea unui reprezentant al Consiliului Local al comunei Ungureni în cadrul Consiliului de Administrație al Școlii Gimnaziale Ungureni, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/260580",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/260580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-12-2026",
+   "path": "local/bacau/ungureni/2026/12",
+   "short": "HCL Ungureni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 12/2026 privind nominalizarea de către Consiliul Local al Comunei Ungureni a doi consilieri locali, care vor avea calitatea de evaluatori în cadrul Comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/260581",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/260581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-13-2026",
+   "path": "local/bacau/ungureni/2026/13",
+   "short": "HCL Ungureni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 13/2026 privind aprobarea reorganizării aparatului de specialitate al Primarului comunei Ungureni, județul Bacău, precum și aprobarea statului de funcții și a organigramei în conformitate cu prevederile OUG nr. 7/2026 pentru modificarea şi completarea unor acte normative, precum şi pentru adoptarea unor măsuri pentru creşterea capacităţii financiare a unităţilor administrativ - teritoriale",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/263073",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/263073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-14-2026",
    "path": "local/bacau/ungureni/2026/14",
    "short": "HCL Ungureni nr. 14/2026",
@@ -33,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-16-2026",
+   "path": "local/bacau/ungureni/2026/16",
+   "short": "HCL Ungureni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 16/2026 privind atestarea apartenenţei la domeniul privat al comunei Ungureni, județul Bacău a unor terenuri, destinație curți construcții, situate în intravilanul Comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/267879",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/267879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-17-2026",
    "path": "local/bacau/ungureni/2026/17",
    "short": "HCL Ungureni nr. 17/2026",
@@ -43,6 +133,21 @@
      "from": "2026-05-19",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/267880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-18-2026",
+   "path": "local/bacau/ungureni/2026/18",
+   "short": "HCL Ungureni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 18/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/275083",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/275083",
      "sha256": null
     }
    ]
@@ -63,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-2-2026",
+   "path": "local/bacau/ungureni/2026/2",
+   "short": "HCL Ungureni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 2/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/250165",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/250165",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-20-2026",
    "path": "local/bacau/ungureni/2026/20",
    "short": "HCL Ungureni nr. 20/2026",
@@ -73,6 +193,51 @@
      "from": "2026-07-02",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/275085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-21-2026",
+   "path": "local/bacau/ungureni/2026/21",
+   "short": "HCL Ungureni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 21/2026",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/275086",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/275086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-22-2026",
+   "path": "local/bacau/ungureni/2026/22",
+   "short": "HCL Ungureni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 22/2026",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/275087",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/275087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-23-2026",
+   "path": "local/bacau/ungureni/2026/23",
+   "short": "HCL Ungureni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 23/2026 privind acceptarea ofertei de donatie a terenului în suprafață de 3ha 0500 mp, conform TP nr.509473/12.05.2026 înscris în Cartea Funciară nr.61580/61681, situat în extravilanul comunei Ungureni, sat Bărtășești",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/275088",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/275088",
      "sha256": null
     }
    ]
@@ -163,6 +328,21 @@
      "from": "2026-08-13",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/282825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-3-2026",
+   "path": "local/bacau/ungureni/2026/3",
+   "short": "HCL Ungureni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 3/2026",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255571",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255571",
      "sha256": null
     }
    ]
@@ -318,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-4-2026",
+   "path": "local/bacau/ungureni/2026/4",
+   "short": "HCL Ungureni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 4/2026 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Ungureni, județul Bacău, pentru anul 2025",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255572",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255572",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-40-2026",
    "path": "local/bacau/ungureni/2026/40",
    "short": "HCL Ungureni nr. 40/2026",
@@ -373,6 +568,81 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/297779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-5-2026",
+   "path": "local/bacau/ungureni/2026/5",
+   "short": "HCL Ungureni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 5/2026 privind atestarea apartenenţei la domeniul privat al Comunei Ungureni a unor terenuri, destinație Curți construcții, situate în intravilanul Comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255573",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-6-2026",
+   "path": "local/bacau/ungureni/2026/6",
+   "short": "HCL Ungureni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 6/2026",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255574",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-7-2026",
+   "path": "local/bacau/ungureni/2026/7",
+   "short": "HCL Ungureni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 7/2026 privind aprobarea proiectelor de investiții propuse a se finaliza în cursul anului 2026 și în continuare",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255575",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-8-2026",
+   "path": "local/bacau/ungureni/2026/8",
+   "short": "HCL Ungureni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 8/2026 privind aprobarea Planului de acțiuni și lucrări de interes local ce vor fi efectuate în anul 2026 de către persoanele apte de muncă, beneficiare ale Legii nr. 196/2016, persoanele condamnate penal și obligate să presteze o muncă neremunerată în folosul comunității și persoanele sancționate să presteze o muncă în folosul comunității pentru anumite fapte ce constituie contravenție",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255576",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-9-2026",
+   "path": "local/bacau/ungureni/2026/9",
+   "short": "HCL Ungureni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 9/2026 privind aprobarea “Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială”, pentru anul 2026",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/255577",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/255577",
      "sha256": null
     }
    ]

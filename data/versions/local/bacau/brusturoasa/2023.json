@@ -3,6 +3,21 @@
  "shard": "local/bacau/brusturoasa/2023",
  "acts": [
   {
+   "slug": "hcl-bacau--brusturoasa-1-2023",
+   "path": "local/bacau/brusturoasa/2023/1",
+   "short": "HCL Brusturoasa nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 1/2023 privind acoperirea definitivă a deficitului bugetului local din Secţiunea dezvoltare, sursa A, existent la data de 31.12.2022, în valoare de 3.591.655,63 lei",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/89281",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/89281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-10-2023",
    "path": "local/bacau/brusturoasa/2023/10",
    "short": "HCL Brusturoasa nr. 10/2023",
@@ -163,6 +178,21 @@
      "from": "2023-12-14",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/133045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-11-2023",
+   "path": "local/bacau/brusturoasa/2023/11",
+   "short": "HCL Brusturoasa nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 11/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90194",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90194",
      "sha256": null
     }
    ]
@@ -348,6 +378,141 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-13-2023",
+   "path": "local/bacau/brusturoasa/2023/13",
+   "short": "HCL Brusturoasa nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 13/2023 privind aprobare Protocolul de colaborare , intre MINISTERUL MUNCII ȘI SOLIDARITATII SOCIALE si UNITATEA ADMINISTRATIV TERITORIALA COMUNA BRUSTUROASA, JUDETUL BACAU in cadrul Proiectului „HUB de Servicii MMSS - SI MMSS” codSMIS 130963",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90196",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-14-2023",
+   "path": "local/bacau/brusturoasa/2023/14",
+   "short": "HCL Brusturoasa nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 14/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investItie „Construire si dotare Camin cultural in sat Brusturoasa, comuna Brusturoasa, judetul Bacau”, aprobați prin Hotararea nr. 45/2019",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90202",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-15-2023",
+   "path": "local/bacau/brusturoasa/2023/15",
+   "short": "HCL Brusturoasa nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 15/2023 pentru desemnarea reprezentanților Consiliului local al comunei Brusturoasa, membri in Unitatea Locala de Sprijin constituita la nivelul comunei Brusturoasa,",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90203",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-16-2023",
+   "path": "local/bacau/brusturoasa/2023/16",
+   "short": "HCL Brusturoasa nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 16/2023 privind aprobarea cotizatiei anuale la patrimoniul GAL ,,Valea Muntelui”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/92213",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-17-2023",
+   "path": "local/bacau/brusturoasa/2023/17",
+   "short": "HCL Brusturoasa nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 17/2023 privind acordarea mandatului special al reprezentantului legal al Unitatii Administrativ-Teritoriale Brusturoasa in AGA SC Compania Regionala de apa, cu privire la punctele înscrise pe ordinea de zi a sedintei AGA din data de 27.02.2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/92214",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-18-2023",
+   "path": "local/bacau/brusturoasa/2023/18",
+   "short": "HCL Brusturoasa nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 18/2023 privind aprobarea planului de lucru pentru prestarea unor activitati in folosul comunitatii",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/92215",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-19-2023",
+   "path": "local/bacau/brusturoasa/2023/19",
+   "short": "HCL Brusturoasa nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 19/2023 pentru aprobarea „Planului de analiza a riscurilor comunei Brusturoasa,,",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/92216",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-2-2023",
+   "path": "local/bacau/brusturoasa/2023/2",
+   "short": "HCL Brusturoasa nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 2/2023 privindaprobarea alocării sumei de 500.000 lei din excedentul bugetar al anului 2022 pentru acoperirea temporară a golurilor de casă la secțiunea funcționare in anul 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/89282",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/89282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-20-2023",
+   "path": "local/bacau/brusturoasa/2023/20",
+   "short": "HCL Brusturoasa nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 20/2023 privind aprobarea anularii unor creanțe reprezentand, taxa auto a persoanelor juridice radiate din registrul comertului",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/92217",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92217",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-21-2023",
    "path": "local/bacau/brusturoasa/2023/21",
    "short": "HCL Brusturoasa nr. 21/2023",
@@ -358,6 +523,21 @@
      "from": "2023-04-19",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-22-2023",
+   "path": "local/bacau/brusturoasa/2023/22",
+   "short": "HCL Brusturoasa nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 22/2023 Privind inchirierea prin atribuire directa a unor pajisti aflate in proprietatea privata a Comunei Brusturoasa, ramase disponibile in urma rezilierii unor contracte",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/92219",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/92219",
      "sha256": null
     }
    ]
@@ -378,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-24-2023",
+   "path": "local/bacau/brusturoasa/2023/24",
+   "short": "HCL Brusturoasa nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 24/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/97239",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/97239",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-25-2023",
    "path": "local/bacau/brusturoasa/2023/25",
    "short": "HCL Brusturoasa nr. 25/2023",
@@ -388,6 +583,171 @@
      "from": "2023-04-19",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/97240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-26-2023",
+   "path": "local/bacau/brusturoasa/2023/26",
+   "short": "HCL Brusturoasa nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 26/2023 privind clasificarea și atribuirea de denumiri unui numar de 4 drumuri publice de interes public local in categoria functionala strazi, situate pe teritoriul unitații administrative BRUSTUROASA, iudetul BACAU",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/97241",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/97241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-27-2023",
+   "path": "local/bacau/brusturoasa/2023/27",
+   "short": "HCL Brusturoasa nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 27/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99049",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-28-2023",
+   "path": "local/bacau/brusturoasa/2023/28",
+   "short": "HCL Brusturoasa nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 28/2023 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invafamant din comuna Brusturoasa, pentru perioada decembrie 2022, ianuarie si februarie 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99050",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-29-2023",
+   "path": "local/bacau/brusturoasa/2023/29",
+   "short": "HCL Brusturoasa nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 29/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99051",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-3-2023",
+   "path": "local/bacau/brusturoasa/2023/3",
+   "short": "HCL Brusturoasa nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 3/2023 pentru completarea HCL nr. 70/2022 privind implementarea proiectului „Dezvoltarea serviciilor publice in Comuna Brusturoasa prin achizitie de utilaje”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/89295",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/89295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-30-2023",
+   "path": "local/bacau/brusturoasa/2023/30",
+   "short": "HCL Brusturoasa nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 30/2023 privind aprobarea Regulamentului de Organizare si Functionare al Bibliotecii Comunale Brusturoasa",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99052",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-31-2023",
+   "path": "local/bacau/brusturoasa/2023/31",
+   "short": "HCL Brusturoasa nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 31/2023 privind aprobarea participarii alesilor locali (primar și viceprimar Comuna Brusturosa) și a funcționarilor publici și contractual din cadrul Primariei Brusturoasa județul Bacau, la cursuri de pregatire, formare și perfecționare profesionala in anul 2023 și modalitatea decontarii cheltuielilor de deplasare la cursuri",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99053",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-32-2023",
+   "path": "local/bacau/brusturoasa/2023/32",
+   "short": "HCL Brusturoasa nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 32/2023 Pentru alegerea Președintelui de ședința al Consiliului Local al comunei Brusturoasa pentru lunile aprilie, mai si iunie 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99054",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-33-2023",
+   "path": "local/bacau/brusturoasa/2023/33",
+   "short": "HCL Brusturoasa nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 33/2023 privind acordarea mandatului special al reprezentantului legal al Unitatii Administrativ-Teritoriale Brusturoasa in AGA SC Compania Regionala de apa, cu privire la punctele inscrise pe ordinea de zi a sedintei AGA din data de 20.04.2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99055",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-34-2023",
+   "path": "local/bacau/brusturoasa/2023/34",
+   "short": "HCL Brusturoasa nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 34/2023 pentru aprobarea cotizatiei anuale la patrimoniul Asociatiei de Dezvoltare pentru Salubrizare Bacau - ADIS",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/99056",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/99056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-35-2023",
+   "path": "local/bacau/brusturoasa/2023/35",
+   "short": "HCL Brusturoasa nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 35/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/102351",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/102351",
      "sha256": null
     }
    ]
@@ -453,6 +813,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-4-2023",
+   "path": "local/bacau/brusturoasa/2023/4",
+   "short": "HCL Brusturoasa nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 4/2023 privind aprobarea organizarii rețelei școlare de învațamant preuniversitar de stat de pe raza comunei Brusturoasa în anul școlar 2023-2024",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90187",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-40-2023",
+   "path": "local/bacau/brusturoasa/2023/40",
+   "short": "HCL Brusturoasa nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 40/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/102356",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/102356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-41-2023",
+   "path": "local/bacau/brusturoasa/2023/41",
+   "short": "HCL Brusturoasa nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 41/2023 privind stabilirea salariilor de baza pentru funcfionarii publici și personalul contractual cadrul aparatului de specialitate al primarului comunei Brusturoasa si a Serviciului Public de Asistenta Sociala Brusturoasa",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/102357",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/102357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-42-2023",
+   "path": "local/bacau/brusturoasa/2023/42",
+   "short": "HCL Brusturoasa nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 42/2023 Privind aprobarea Planului anual si de perspective pentru asigurarea resurselor umane, materiale si financiare destinate prevenirii si gestionarii situafiilor de urgența",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/102358",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/102358",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-43-2023",
    "path": "local/bacau/brusturoasa/2023/43",
    "short": "HCL Brusturoasa nr. 43/2023",
@@ -468,6 +888,111 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-44-2023",
+   "path": "local/bacau/brusturoasa/2023/44",
+   "short": "HCL Brusturoasa nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 44/2023 pentru aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul cu titlul \"Eficientizarea sistemului de iluminat public din Comuna Brusturoasa, judetul Bacau\"",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/105334",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/105334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-45-2023",
+   "path": "local/bacau/brusturoasa/2023/45",
+   "short": "HCL Brusturoasa nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 45/2023 Privind reconfirmarea calitatii de membru fondator al comunei Brusturoasa la Asociatia Grupul de Acțiune Locala Valea Muntelui (GAL VALEA MUNTELUI) și a angajamentului de susținere și participare la implementarea viitoarei Strategii de Dezvolotare locala 2023-2027 finanțata in cadrul Planului National Strategic",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/105335",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/105335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-46-2023",
+   "path": "local/bacau/brusturoasa/2023/46",
+   "short": "HCL Brusturoasa nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 46/2023 privind aprobarea executiei obiectivului “Lucrari de reabilitate interioara/exterioara a cladirii sediului primariei Brusturoasa si a devizului estimativ",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/105336",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/105336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-47-2023",
+   "path": "local/bacau/brusturoasa/2023/47",
+   "short": "HCL Brusturoasa nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 47/2023 privind actualizarea valorilor contractului de lucrari nr. 9803/07.09.2022, pentru obiectivul:, „Aparare de mal pe raul Trotus și pe paraul Corbului in comuna Brusturoasa, judetul Bacau”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/105337",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/105337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-48-2023",
+   "path": "local/bacau/brusturoasa/2023/48",
+   "short": "HCL Brusturoasa nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 48/2023 privind atestarea inventarului bunurilor care apartin domeniului public al comunei Brusturoasa, judetul Bacau",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/105338",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/105338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-49-2023",
+   "path": "local/bacau/brusturoasa/2023/49",
+   "short": "HCL Brusturoasa nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 49/2023 Privind modificarea HCL nr. 41/12.04.2023 privind stabilirea salariilor de baza aferente functiilor publice si contractuale din cadrul aparatului de specialitate al primarului comunei Brusturoasa",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/105339",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/105339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-5-2023",
+   "path": "local/bacau/brusturoasa/2023/5",
+   "short": "HCL Brusturoasa nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 5/2023 Privind aprobarea „RaportuIui privind activitatea desfașurata de asistenții personali ai persoanelor cu handicap grav in sem II al anului 2022, angajați ai comunei Brusturoasa județul Bacau",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90188",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90188",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-50-2023",
    "path": "local/bacau/brusturoasa/2023/50",
    "short": "HCL Brusturoasa nr. 50/2023",
@@ -478,6 +1003,36 @@
      "from": "2023-10-06",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-51-2023",
+   "path": "local/bacau/brusturoasa/2023/51",
+   "short": "HCL Brusturoasa nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 51/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109266",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-52-2023",
+   "path": "local/bacau/brusturoasa/2023/52",
+   "short": "HCL Brusturoasa nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 52/2023 privind aprobarea contribuției Consiliului Local al Comunei Brusturoasa la finanțarea activitații de protecție de tip rezidențial a persoanei cu handicap, pe anul 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109267",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109267",
      "sha256": null
     }
    ]
@@ -513,6 +1068,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-55-2023",
+   "path": "local/bacau/brusturoasa/2023/55",
+   "short": "HCL Brusturoasa nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 55/2023 privind aprobarea achizitionarii serviciilor de intocmire a studiului de fezabilitate pentru obiectivul de investitii ’’Infiintare sistem de canalizare in satele Brusturoasa si Hanganești, comuna Brusturoasa, judet Bacau”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109270",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-56-2023",
+   "path": "local/bacau/brusturoasa/2023/56",
+   "short": "HCL Brusturoasa nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 56/2023 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Brusturoasa, pentru perioada martie și aprilie 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109271",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109271",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-57-2023",
    "path": "local/bacau/brusturoasa/2023/57",
    "short": "HCL Brusturoasa nr. 57/2023",
@@ -523,6 +1108,66 @@
      "from": "2023-10-06",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-58-2023",
+   "path": "local/bacau/brusturoasa/2023/58",
+   "short": "HCL Brusturoasa nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 58/2023 privind aprobarea achizitionarii unor servicii juridice de asistenta si reprezentare pentru apararea intereselor Comisiei locale de aplicare a legilor fondului funciar Brusturoasa",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109273",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-59-2023",
+   "path": "local/bacau/brusturoasa/2023/59",
+   "short": "HCL Brusturoasa nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 59/2023 privind aprobarea achizitionarii unor servicii juridice de asistenta si reprezentare pentru apararea intereselor Consiliului local și al Primarului comunei Brusturoasa",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109274",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-6-2023",
+   "path": "local/bacau/brusturoasa/2023/6",
+   "short": "HCL Brusturoasa nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 6/2023 privind aprobarea Procesului verbal de evaluare a rezultatelor inventarierii și de scoatere din inventar a unor bunuri aparținand Consiliului Local Brusturoasa, si a unitatilor de sub autoritatea acesteia, pentru anul 2022",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90189",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-60-2023",
+   "path": "local/bacau/brusturoasa/2023/60",
+   "short": "HCL Brusturoasa nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 60/2023 privind aprobarea actualizarii devizului estimativ pentru obiectivul “Lucrari de reabilitate interioara/exterioara a cladirii sediului primariei Brusturoasa”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109275",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109275",
      "sha256": null
     }
    ]
@@ -553,6 +1198,21 @@
      "from": "2023-10-06",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-63-2023",
+   "path": "local/bacau/brusturoasa/2023/63",
+   "short": "HCL Brusturoasa nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 63/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/109278",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/109278",
      "sha256": null
     }
    ]
@@ -633,6 +1293,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-69-2023",
+   "path": "local/bacau/brusturoasa/2023/69",
+   "short": "HCL Brusturoasa nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 69/2023 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitionarea produselor aferente Programului pentru scoli al Romaniei si al contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative, la nivelul U.A.T Brusturoasa pentru perioada 2023-2026",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117310",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-7-2023",
+   "path": "local/bacau/brusturoasa/2023/7",
+   "short": "HCL Brusturoasa nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 7/2023 privind aprobarea Planului Local de acțiune in domeniul serviciilor sociale, la nivelul Comunei Brusturoasa",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90190",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-70-2023",
+   "path": "local/bacau/brusturoasa/2023/70",
+   "short": "HCL Brusturoasa nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 70/2023 pentru aprobarea decontării cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoară activitatea la unitățile de invățământ din comuna Brusturoasa, pentru perioada mai - iunie 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117311",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117311",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-71-2023",
    "path": "local/bacau/brusturoasa/2023/71",
    "short": "HCL Brusturoasa nr. 71/2023",
@@ -643,6 +1348,81 @@
      "from": "2023-08-29",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-72-2023",
+   "path": "local/bacau/brusturoasa/2023/72",
+   "short": "HCL Brusturoasa nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 72/2023 privind aprobarea „Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav in semestrul I al anului 2023, angajaţi ai comunei Brusturoasa “, judeţul Bacău",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117313",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-73-2023",
+   "path": "local/bacau/brusturoasa/2023/73",
+   "short": "HCL Brusturoasa nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 73/2023 privind acordarea mandatului special al reprezentantului legal al Unității Administrativ-Teritoriale Brusturoasa în AGA SC Compania Regională de apă, cu privire la punctele înscrise pe ordinea de zi a ședinței AGA din data de 07.08.2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117314",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-74-2023",
+   "path": "local/bacau/brusturoasa/2023/74",
+   "short": "HCL Brusturoasa nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 74/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117315",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-75-2023",
+   "path": "local/bacau/brusturoasa/2023/75",
+   "short": "HCL Brusturoasa nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 75/2023 privind actualizarea devizului general pentru obiectivul de investetie „Amenajare Școala Cuchiniș și inființare grup sanitar și centrala termica in Iocalitatea Brusturoasa, comuna Brusturoasa, județul Bacau”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117316",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-76-2023",
+   "path": "local/bacau/brusturoasa/2023/76",
+   "short": "HCL Brusturoasa nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 76/2023 Privind aprobarea eșalonarii la plata a obligațiilor la bugetul de stat pentru suma de 837.792 lei și constituirea unei garanții imobiliare pentru Comuna Brusturoasa in favoarea Administrate Județeana a Finanțelor Publice Bacau, Serviciul Fiscal Orașenesc Moinesti,",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117317",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117317",
      "sha256": null
     }
    ]
@@ -663,6 +1443,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-78-2023",
+   "path": "local/bacau/brusturoasa/2023/78",
+   "short": "HCL Brusturoasa nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 78/2023 pentru aprobarea ’’Programului de redresare financiara al comunei Brusturoasa”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/117319",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/117319",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-79-2023",
    "path": "local/bacau/brusturoasa/2023/79",
    "short": "HCL Brusturoasa nr. 79/2023",
@@ -678,6 +1473,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-8-2023",
+   "path": "local/bacau/brusturoasa/2023/8",
+   "short": "HCL Brusturoasa nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 8/2023 privind analiza stadiului de înscriere a datelor in Registrul agricol pentru semestru] II al anului 2022 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/90191",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/90191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-80-2023",
+   "path": "local/bacau/brusturoasa/2023/80",
+   "short": "HCL Brusturoasa nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 80/2023 pentru aprobarea modificarii indicatorilor economici aprobati prin Hotararea Consiliului local al Comunei Brusturoasa nr. 44 din 04.05.2023 pentru obiectivul de investitii „ EFICIENTIZAREA SISTEMULUI DE ILUMINAT PUBLIC DIN COMUNA BRUSTUROASA, JUDETUL BACAU”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/119070",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/119070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-81-2023",
+   "path": "local/bacau/brusturoasa/2023/81",
+   "short": "HCL Brusturoasa nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 81/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125396",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-82-2023",
+   "path": "local/bacau/brusturoasa/2023/82",
+   "short": "HCL Brusturoasa nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 82/2023 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invațamant din comuna Brusturoasa, pentru perioada iulie - august 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125397",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125397",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-83-2023",
    "path": "local/bacau/brusturoasa/2023/83",
    "short": "HCL Brusturoasa nr. 83/2023",
@@ -688,6 +1543,81 @@
      "from": "2023-10-20",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-84-2023",
+   "path": "local/bacau/brusturoasa/2023/84",
+   "short": "HCL Brusturoasa nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 84/2023 privind aprobarea anularii unor creante reprezentand amenzi,",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125399",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-85-2023",
+   "path": "local/bacau/brusturoasa/2023/85",
+   "short": "HCL Brusturoasa nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 85/2023 pentru alegerea Președintelui de ședința al Consiliului Local al comunei Brusturoasa pentru octombrie, noiembrie si decembrie 2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125400",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-86-2023",
+   "path": "local/bacau/brusturoasa/2023/86",
+   "short": "HCL Brusturoasa nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 86/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125401",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-87-2023",
+   "path": "local/bacau/brusturoasa/2023/87",
+   "short": "HCL Brusturoasa nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 87/2023 Privind aprobarea incheierii unui contract de colaborare cu Asociația Save&Hope for Dogs pentru gestionarea situatiei cainilor fara stapan in comuna Brusturoasa, județul Bacau",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125402",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-88-2023",
+   "path": "local/bacau/brusturoasa/2023/88",
+   "short": "HCL Brusturoasa nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 88/2023 privind aprobarea indicatorilor tehnico-economici si devizul general actualizat la proiectul „Amenajare parau Toderițeni, sat Hanganesti, Comuna Brusturoasa, județul Bacau\" precum și asigurarea cofinantarii din bugetul local",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125403",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125403",
      "sha256": null
     }
    ]
@@ -738,6 +1668,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-91-2023",
+   "path": "local/bacau/brusturoasa/2023/91",
+   "short": "HCL Brusturoasa nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 91/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125869",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-92-2023",
+   "path": "local/bacau/brusturoasa/2023/92",
+   "short": "HCL Brusturoasa nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 92/2023",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125870",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125870",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-93-2023",
    "path": "local/bacau/brusturoasa/2023/93",
    "short": "HCL Brusturoasa nr. 93/2023",
@@ -768,6 +1728,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--brusturoasa-95-2023",
+   "path": "local/bacau/brusturoasa/2023/95",
+   "short": "HCL Brusturoasa nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 95/2023 privind aprobarea devizului general pentru obiectivul de investiții „Amenajare Școala Cuchinis și infiintare grup sanitar și centrala termica in localitatea Brusturoasa, comuna Brusturoasa, județul Bacau”",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125873",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-96-2023",
+   "path": "local/bacau/brusturoasa/2023/96",
+   "short": "HCL Brusturoasa nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 96/2023 Privind aprobarea rezultatului casarii bunurilor aflate in patrimoniul Comunei Brusturoasa, judetul Bacau",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/125874",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/125874",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--brusturoasa-97-2023",
    "path": "local/bacau/brusturoasa/2023/97",
    "short": "HCL Brusturoasa nr. 97/2023",
@@ -793,6 +1783,21 @@
      "from": "2023-12-14",
      "units": 1,
      "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/132160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--brusturoasa-99-2023",
+   "path": "local/bacau/brusturoasa/2023/99",
+   "short": "HCL Brusturoasa nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 99/2023 privind aprobarea anularii unor creante reprezentand amenzi",
+   "url": "https://emol.ro/brusturoasa-bc/registru-hcl/132161",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brusturoasa-bc/registru-hcl/132161",
      "sha256": null
     }
    ]

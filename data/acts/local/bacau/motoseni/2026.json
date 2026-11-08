@@ -138,6 +138,29 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-7-2026",
+"path": "local/bacau/motoseni/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 7/2026",
+"short": "HCL Motoșeni nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/256754",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-8-2026",
 "path": "local/bacau/motoseni/2026/8",
 "kind": "local",
@@ -270,6 +293,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-14-2026",
+"path": "local/bacau/motoseni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 14/2026 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile DECEMBRIE 2025, IANUARIE 2026, FEBRUARIE 2026",
+"short": "HCL Motoșeni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/273910",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -520,6 +565,50 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-26-2026",
+"path": "local/bacau/motoseni/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 26/2026 privind aprobarea achiziționării în regim de urgență a serviciilor de închiriere de autospeciale și personal deservent prin Asociația de Dezvoltare Intercomunitară pentru Salubrizare Bacău, în sistem unitar pentru unitățile administrativ-teritoriale afectate de întreruperea serviciului de salubrizare, și acordarea mandatului reprezentantului comunei MOTOȘENI în Adunarea Generală a ADIS Bacău de a vota în favoarea Proiectului de Hotărâre aferent",
+"short": "HCL Motoșeni nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/273992",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-27-2026",
+"path": "local/bacau/motoseni/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 27/2026 privind aprobarea documentației de atribuire a contractului de achiziție publică de servicii respectiv \"colectarea și transportul deșeurilor municipale de pe raza a 65 de U.A.T.-uri din județul Bacău prin procedura de negociere fără publicare\", desemnarea comisiei de evaluare a ofertelor, acordarea mandatelor speciale necesare derulării procedurii NFP",
+"short": "HCL Motoșeni nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/273993",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-28-2026",
 "path": "local/bacau/motoseni/2026/28",
 "kind": "local",
@@ -585,6 +674,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-31-2026",
+"path": "local/bacau/motoseni/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 31/2026 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile MARTIE 2026, APRILIE 2026",
+"short": "HCL Motoșeni nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/273998",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

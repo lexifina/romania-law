@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/parincea/2017",
+"acts": [
+{
+"slug": "hcl-bacau--parincea-28-2017",
+"path": "local/bacau/parincea/2017/28",
+"kind": "local",
+"year": "2017",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 28/2017 privind aprobarea contului de incheiere a exercitiului bugetar la data de 31 martie 2017",
+"short": "HCL Parincea nr. 28/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-31",
+"latest": "2017-03-31",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/7/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-40-2017",
+"path": "local/bacau/parincea/2017/40",
+"kind": "local",
+"year": "2017",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 40/2017 privind atribuirea unor terenuri in folosinta gratuita pentru construirea unei locuinte, in baza Legii 15/2003",
+"short": "HCL Parincea nr. 40/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-18",
+"latest": "2017-07-18",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/7/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

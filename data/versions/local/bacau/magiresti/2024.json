@@ -3,6 +3,351 @@
  "shard": "local/bacau/magiresti/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--magiresti-1-2024",
+   "path": "local/bacau/magiresti/2024/1",
+   "short": "HCL Măgirești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 1/2024 privind acordarea mandatului special al reprezentantului legal al Unității Administrativ-Teritoriale comuna Măgirești în A.G.A",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-1-mandat-in-AGA-ADIB-11-ian-2023.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-1-mandat-in-AGA-ADIB-11-ian-2023.pdf",
+     "sha256": "67a9f72dc6b1486e7f129b2684662570f5b6dae9f53f85a02d356ddc88d6c525"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-10-2024",
+   "path": "local/bacau/magiresti/2024/10",
+   "short": "HCL Măgirești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 10/2024 cu privire la revocarea Hotararii Consiliului local al comunei Magiresti nr. 56 din 13.11.2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Magiresti, în conformitate cu Legea 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenablității financiare a României pe termen lung Consiliul local al comunei Magiresti, judetul Bacau, intrunit in sedint",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-10-revocare-reorganizare-10.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-10-revocare-reorganizare-10.pdf",
+     "sha256": "e69dda0de2a01a5c73870a0235cdc996c33a4f2e264d57525b812d8cb3f1ab04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-11-2024",
+   "path": "local/bacau/magiresti/2024/11",
+   "short": "HCL Măgirești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 11/2024 Privind acoperire temporara a golului de casa pentru secțiunea funcționare în suma de 50.000 lei Consiliul Local al comunei Măgirești, judetul Bacau, intrunit in sedinta ordinara de lucru in data de 10.01.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești inregistrata sub numarul 97 din 08.01.2024 • raportul compartimentului de specialitate inregistrat sub numarul 98 din 08.01.20",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-11-excedent-gol-de-casa.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-11-excedent-gol-de-casa.pdf",
+     "sha256": "64cc106106ceb5d5633b989815910a2fbb2c712afad5286bcabe5b00f2007239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-12-2024",
+   "path": "local/bacau/magiresti/2024/12",
+   "short": "HCL Măgirești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 12/2024 privind aprobarea acoperirii definitive din excedentul bugetului local al anilor precedenti pentru sectiunea dezvoltare – sursa A Consiliul local al Comunei Magiresti, judetul Bacau intrunit in sedinta ordinara de lucru in data de 10.01.2024 Văzând: • Referatul de aprobare al primarului comunei Magiresti inregistrat sub nr. 95/08.01.2024, • raportul compartimentului de specialitate aflat in subord",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-12-folosire-excedent-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-12-folosire-excedent-2024.pdf",
+     "sha256": "548d4d6719bd51f40da97fa68cae763d5b150090a18ca1514bf11e6ea6b550d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-13-2024",
+   "path": "local/bacau/magiresti/2024/13",
+   "short": "HCL Măgirești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 13/2024 Privind aprobarea bugetului local pentru anul 2024, a listei obiectivelor de investiții pentru anul 2024 și a contului de încheiere a exercițiului bugetar pentru anul 2023 Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședința ordinară de lucru în data de 12.02.2024 Văzând: • Adresele ANAF cuprinzând repartizarea sumelor pentru buget și estimările pe anii 2025-2027 • Referatul de",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-13-aprobare-buget-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-13-aprobare-buget-2024.pdf",
+     "sha256": "3e8ee9e614be7b92813c781344d6bc52e7e29853869215156ef4a1a5f0691baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-14-2024",
+   "path": "local/bacau/magiresti/2024/14",
+   "short": "HCL Măgirești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 14/2024 Privind aprobarea utilizării din excedent pentru finanțarea unor lucrări de investiții Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 12.02.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 576/30.01.2024, • raportul compartimentului de specialitate aflat în subordinea primarului comunei Măgirești înregis",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-14-folosire-excedent-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-14-folosire-excedent-2024.pdf",
+     "sha256": "2d553565bb7dacd11eee13937d1d1aa403e381f1171d9c5e8443b9d1b8f24d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-15-2024",
+   "path": "local/bacau/magiresti/2024/15",
+   "short": "HCL Măgirești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 15/2024 Privind aprobarea programului anual de achiziții al comunei Măgirești pentru anul 2024 Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 12.02.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub numărul 603 din 31.01.2024, • raportul compartimentului de specialitate înregistrat sub numărul 604 din 31.01.2024 • rap",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-15-program-anual-achizitii.pdf",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-15-program-anual-achizitii.pdf",
+     "sha256": "713dc1c9903fde5017db0a5cf16fa2e756380b0c25bc5e5b4df44c16af4f4a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-16-2024",
+   "path": "local/bacau/magiresti/2024/16",
+   "short": "HCL Măgirești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 16/2024 privind aprobarea indicilor de indexare Consiliul Local al Comunei Măgirești, județul Bacău întrunit în ședința ordinara de lucru în data de 12.02.2024; Având in vedere: • comunicatul de presa nr 197/19.01.2024 al Direcției Județene de Statistică Bacău; • referatul de aprobare al primarului comunei Măgirești înregistrat sub numărul 578/21.01.2024 • raportul compartimentului de specialitate înregis",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-16-indici-indexare-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-16-indici-indexare-2024.pdf",
+     "sha256": "133b751dc11797f7dc132144dd4e848fc788443f3ddb50ca7993cae480dd3a00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-17-2024",
+   "path": "local/bacau/magiresti/2024/17",
+   "short": "HCL Măgirești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 17/2024 privind aprobarea participării UAT comuna Măgirești la apelul de proiecte cu titlul „Finanțarea bibliotecilor din județul Bacău pentru a deveni hub-uri de dezvoltare a competențelor digitale și dotarea cu echipamente IT\" din cadrul Planului Național de Redresare și Reziliență (PNRR), Componenta 7",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-17-parteneriat-biblioteca.pdf",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-17-parteneriat-biblioteca.pdf",
+     "sha256": "cb3960f086a0a3ae1c64b4612deab1a3e156d881990fe309b06530e869628cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-18-2024",
+   "path": "local/bacau/magiresti/2024/18",
+   "short": "HCL Măgirești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 18/2024 privind stabilirea mandatului reprezentantului legal al Unității Administrativ- Teritoriale comuna Măgirești pentru ședința Adunării Generale a Acționarilor S.C",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-18-vot-crab-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/02/HCL-18-vot-crab-2024.pdf",
+     "sha256": "3805c9d046af6442efe1e094ff70fe42a96b64901267cfb3ae21acd4370ce8b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-19-2024",
+   "path": "local/bacau/magiresti/2024/19",
+   "short": "HCL Măgirești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 19/2024 pentru modificarea și completarea HCL nr. 38 din 29.08.2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico- economici pentru obiectivul de investiții „Modernizare și reabilitare drumuri, în comuna Măgirești, județul Bacău”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-19-modifcompletare_HCL38-anghel-saligny-martie-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-19-modifcompletare_HCL38-anghel-saligny-martie-2024.pdf",
+     "sha256": "97ad2364e75ae984a6107c4e4e43ce721d175a62fcd6cb45b155bca85682f36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-2-2024",
+   "path": "local/bacau/magiresti/2024/2",
+   "short": "HCL Măgirești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 2/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5591fe345bc8a6ff5563f038552f2d8b6ec5e7dd5c6b9e69456fc43310b0fc23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-21-2024",
+   "path": "local/bacau/magiresti/2024/21",
+   "short": "HCL Măgirești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 21/2024 Privind aprobarea rectificării bugetului local pentru anul 2024 Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 21.03.2024 Văzând: • Adresa ANAF privind alocarea sumei de 458.000 lei pentru finanțarea Programului național „Masă sănătoasă” • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 1534/14.03.2024 • raportul compa",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-21-rectificare-buget-masa-calda.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-21-rectificare-buget-masa-calda.pdf",
+     "sha256": "d06b5f2b1e0aebe0ff604a1f71a4a256cad2421451acb1f9ab9c981e4f2d7382"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-22-2024",
+   "path": "local/bacau/magiresti/2024/22",
+   "short": "HCL Măgirești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 22/2024 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor de la Școala gimnazială Măgirești, în cadrul Programului național “Masă sănătoasă” Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședința ordinara de lucru în data de 21.03.2024 Văzând: • Adresa ANAF privind alocarea sumei de 458.000 lei pentru finanțarea Programului național „Masă sănătoasă” • Hotărâr",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-22-stabilire-masa-sanatoasa.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-22-stabilire-masa-sanatoasa.pdf",
+     "sha256": "fef883da8002ebf5caccffde8c035c0496be039853871c954745e53b1f71e182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-23-2024",
+   "path": "local/bacau/magiresti/2024/23",
+   "short": "HCL Măgirești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 23/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "507f6dc30a8c5b6dd9f0a2291244e8224fd2395244ae56d72aa76123c02caf12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-24-2024",
+   "path": "local/bacau/magiresti/2024/24",
+   "short": "HCL Măgirești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 24/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "688e8bdd11871e39e15365345c70f4f11fc4f469a5461cc43b2fb8b26e9e1703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-25-2024",
+   "path": "local/bacau/magiresti/2024/25",
+   "short": "HCL Măgirești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 25/2024 privind atestarea domeniului privat al comunei a suprafeței de 33.563 mp Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinara de lucru în data de 21.03.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub numărul din 1509 din 13.03.2024, • raportul compartimentului de specialitate înregistrat sub numărul 1510 din 13.03.2024 • raportul de",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-25-atestare-domeniu-privat-2024-impadurire.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-25-atestare-domeniu-privat-2024-impadurire.pdf",
+     "sha256": "ece8a71733c084c0bcfb6f8172b822e364c47fad649ea6e2ae4c790535a5e3ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-26-2024",
+   "path": "local/bacau/magiresti/2024/26",
+   "short": "HCL Măgirești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 26/2024 privind modificarea hotărârii Consiliului local al comunei Măgirești nr. 10 din 31.01.2023 referitoare la aprobarea cuantumului costului mediu și contribuția de întreținere datorate de beneficiari și/sau susținătorii legali ai acestora pentru serviciile furnizate de Căminul de îngrijire bătrâni Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară în data de 21.03.2024",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-26-modificare-cost-camin-01.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-26-modificare-cost-camin-01.05.2024.pdf",
+     "sha256": "4fd1a6284154cfd21f407301ca0da98885c3d31769452b8d96cd9f584266b650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-27-2024",
+   "path": "local/bacau/magiresti/2024/27",
+   "short": "HCL Măgirești nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 27/2024 privind modificarea și completarea contractului pentru serviciile furnizate de Căminul de îngrijire bătrâni, sat Valea Arinilor, comuna Măgirești cu beneficiarii si/sau susținătorii legali ai acestora Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară în data de 21.03.2024",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-27-completare-contract-camin-batrani.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-27-completare-contract-camin-batrani.pdf",
+     "sha256": "aba7d9d85ebd54d6b47f8fb09128637af766d434cac32be54e0313f7319f5a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-28-2024",
+   "path": "local/bacau/magiresti/2024/28",
+   "short": "HCL Măgirești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 28/2024 pentru copiii cu dizabilități Consiliul Local al comunei Măgirești, județul Bacău, întrunit in sedinta ordinara de lucru in data de 21.03.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub numărul din 1568 din 15.03.2024, • raportul compartimentului de specialitate înregistrat sub numărul 1569 din 15.03.2024 • raportul de avizare favorabil cu caracter consultativ",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-28-asociere-moinesti-contract-furnizare-serviciu-persoane-cu-dizabilitati.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-28-asociere-moinesti-contract-furnizare-serviciu-persoane-cu-dizabilitati.pdf",
+     "sha256": "931b664d217f3302ad42897cfcf662f3c25a8ca7e72db6583876ad18fa3597a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-29-2024",
+   "path": "local/bacau/magiresti/2024/29",
+   "short": "HCL Măgirești nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 29/2024 privind modificarea hotărârii Consiliului local al comunei Măgirești nr. 33 din 15.06.2023 referitoare la dreptul de uz în favoarea SC Delgaz Grid SA pentru teren aparținând domeniului public al comunei Măgirești, județul Bacău și închirierea suprafeței de 5 mp în vederea amplasării unor stâlpi pentru realizarea lucrării cu denumirea “Realizare condiții de coexistenta pentru instalare pe stâlpii L",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-29-uz-si-servitute-modificare-hcl-33-din-2023-delgaz.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-29-uz-si-servitute-modificare-hcl-33-din-2023-delgaz.pdf",
+     "sha256": "a1651ac074925cbbecea2d073e24d6d1f3eebdb2e23a694e9ee29a6a725f085c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-3-2024",
+   "path": "local/bacau/magiresti/2024/3",
+   "short": "HCL Măgirești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 3/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6a808693d18fbdbe2185bb8aa77478e5ad0152960c0b6bc9e96b9c85c801044b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-30-2024",
+   "path": "local/bacau/magiresti/2024/30",
+   "short": "HCL Măgirești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 30/2024 privind aprobarea dreptul de uz și servitute în favoarea SC Delgaz Grid SA pentru teren aparținând domeniului public al comunei Măgirești, județul Bacău în vederea execuției lucrării cu denumirea „Modernizare LEA joasa tensiune aferentă PTA 1 Măgirești”, Consiliul Local al comunei Măgirești, Județul Bacău, întrunit in sedinta ordinara din data de 21.03.2024, Având in vedere: • Adresa SC ROMPROIECT",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-30-UZ-SI-SERVITUTE-modernizare-LEA-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/03/HCL-30-UZ-SI-SERVITUTE-modernizare-LEA-DELGAZ.pdf",
+     "sha256": "e9e96c421f56a80b7a1d5727f58021e95f9a92e1ac03f5c7826636f75e3e3910"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--magiresti-31-2024",
    "path": "local/bacau/magiresti/2024/31",
    "short": "HCL Măgirești nr. 31/2024",
@@ -18,6 +363,201 @@
    ]
   },
   {
+   "slug": "hcl-bacau--magiresti-32-2024",
+   "path": "local/bacau/magiresti/2024/32",
+   "short": "HCL Măgirești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 32/2024 privind însușirea atestării la domeniul public al comunei Măgirești a suprafeței de 4310 mp teren curți construcții Consiliul local al comunei Măgirești, județul Bacău, întrunit în sedinta ordinară, în data 09.04.2024 Având în vedere: • Referatul de aprobare înregistrat sub numărul 2037 din 02.04.2024 privind necesitatea, oportunitatea și urgența atestării la domeniul public al comunei Măgirești",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/04/HCL-32-atestare-domeniu-public-2024-trotuare.pdf",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/04/HCL-32-atestare-domeniu-public-2024-trotuare.pdf",
+     "sha256": "abb56d40f2543afd6da69ea8eb49d173dd0ebbf62b37f5e43f93f34131ce03a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-33-2024",
+   "path": "local/bacau/magiresti/2024/33",
+   "short": "HCL Măgirești nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 33/2024 privind stabilirea mandatului reprezentantului legal al Unității Administrativ- Teritoriale comuna Măgirești pentru ședința Adunării Generale Ordinare a Acționarilor și ședința Adunării Generale Extraordinare a Acționarilor a S.C",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/04/HCL-33-CRAB-2024-APRILIE.pdf",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/04/HCL-33-CRAB-2024-APRILIE.pdf",
+     "sha256": "a2f8fbc01b613fe796d8fdd795281d40292b9323c5afe2b0aa754872fc6ae81c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-34-2024",
+   "path": "local/bacau/magiresti/2024/34",
+   "short": "HCL Măgirești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 34/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici în urma modificărilor survenite conform dispozițiilor de șantier nr. 1 din 03.11.2023 și nr. 2 din 10.11.2023 pentru obiectivul de investiții „Modernizare și reabilitare drumuri, în comuna Măgirești, județul Bacău”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/04/HCL-34-actualizare-deviz-anghel-saligny-1.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/04/HCL-34-actualizare-deviz-anghel-saligny-1.pdf",
+     "sha256": "3d93cbd8eb46c82822335f6d932845599bfad7f9d7d99bbc8c1f7db67ae8eecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-35-2024",
+   "path": "local/bacau/magiresti/2024/35",
+   "short": "HCL Măgirești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 35/2024 Privind aprobarea rectificării bugetului local pentru anul 2024 Consiliul local al Comunei Magiresti, județul Bacău întrunit în ședință ordinară de lucru în data de 22.05.2024 Văzând: • Referatul de aprobare al primarului comunei Magiresti înregistrat sub nr. 3082/14.05.2024 • raportul compartimentului de specialitate aflat în subordinea primarului comunei Magiresti înregistrat sub numărul 3083/14",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/05/HCL-35-rectificare-buget-anghel-saligny.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/05/HCL-35-rectificare-buget-anghel-saligny.pdf",
+     "sha256": "002d56edb8852c8875ebb3d2c932ef8f1902efe551864c28bbe8d174e38da0cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-36-2024",
+   "path": "local/bacau/magiresti/2024/36",
+   "short": "HCL Măgirești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 36/2024 Privind aprobarea utilizării din excedent pentru finanțarea lucrării de investiție cu denumirea MODERNIZARE ȘI REABILITARE DRUMURI ÎN COMUNA MĂGIREȘTI, JUDEȚUL BACĂU Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 22.05.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 3080/14.05.2024, • raportul compartim",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/05/HCL-36-folosire-excedent-mai-2024-modernizare-drumuri.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/05/HCL-36-folosire-excedent-mai-2024-modernizare-drumuri.pdf",
+     "sha256": "999d66b1855f954e03458f33f840fc510ff7d246f5d7236fd302bc2ba392a8fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-37-2024",
+   "path": "local/bacau/magiresti/2024/37",
+   "short": "HCL Măgirești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 37/2024 privind stabilirea mandatului reprezentantului legal al Unității Administrativ- Teritoriale comuna Măgirești pentru ședința Adunării Generale Ordinare a Acționarilor și ședința Adunării Generale Extraordinare a Acționarilor a S.C",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/05/HCL-37-crab-mai-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/05/HCL-37-crab-mai-2024.pdf",
+     "sha256": "bb9f38bfcc610e159b3991c3f30bc4b31364488e6523b0b0bbfd61cffb2f7cf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-38-2024",
+   "path": "local/bacau/magiresti/2024/38",
+   "short": "HCL Măgirești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 38/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici în urma modificărilor survenite conform dispoziției de șantier nr. 3 din 07.03.2024 pentru obiectivul de investiții „Modernizare și reabilitare drumuri, în comuna Măgirești, județul Bacău”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/06/HCL-38-actualizare-deviz-anghelsaligny-iunie2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/06/HCL-38-actualizare-deviz-anghelsaligny-iunie2024.pdf",
+     "sha256": "16476e246f5beb3489904b48acef0326b5c3af84f8b88042d43d9ce973f8189d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-39-2024",
+   "path": "local/bacau/magiresti/2024/39",
+   "short": "HCL Măgirești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 39/2024 Privind aprobarea rectificării bugetului local pentru anul 2024 Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 11.07.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 4198/04.07.2024 • raportul compartimentului de specialitate aflat în subordinea primarului comunei Măgirești înregistrat sub numărul 4199/04",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-39-rectificare-buget-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-39-rectificare-buget-2024.pdf",
+     "sha256": "8bb576c18127f6ecd696e7e07a6c5138030e22657eff50a2ae1657032bd4632d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-4-2024",
+   "path": "local/bacau/magiresti/2024/4",
+   "short": "HCL Măgirești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 4/2024 Privind aprobarea cererii formulate de S.C",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-4-scutire-crab-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-4-scutire-crab-2024.pdf",
+     "sha256": "35e28065a2d497beabff43f5374aed23c7a074804b69603a7a7a27b62217a380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-40-2024",
+   "path": "local/bacau/magiresti/2024/40",
+   "short": "HCL Măgirești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 40/2024 privind aprobarea cotizației anuale la patrimoniul „Asociației de Dezvoltare Intercomunitară pentru Salubrizare Bacău” Consiliul Local al comunei Măgirești, întrunit în ședință ordinară de lucru din data de 11.07.2024; Având în vedere: • adresa Asociației de Dezvoltare Intercomunitară pentru Salubrizare Bacău nr. 5/21.06.2024 • referatul de aprobare al Primarului comunei Măgirești nr. 4059/28.06.2",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-40-aprobarea-cotizatiei-adis-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-40-aprobarea-cotizatiei-adis-2024.pdf",
+     "sha256": "7b4b3c571b8beb2d377cd1d53ccbdcf73df12d90faceace8ff2a052b24e457d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-41-2024",
+   "path": "local/bacau/magiresti/2024/41",
+   "short": "HCL Măgirești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 41/2024 privind actualizarea Planului de Analiză și Acoperire a Riscurilor pentru comuna Măgirești Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 11.07.2024 Analizând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 4112/02.07.2024 • raportul compartimentului de specialitate aflat în subordinea primarului comunei Măgirești",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-41-plan-analiza-a-riscurilor-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-41-plan-analiza-a-riscurilor-2024.pdf",
+     "sha256": "7ab710378b7c97feefc7c40308bdbbe17b3d6bfdcd65d7a9ea0812afe2d98d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-42-2024",
+   "path": "local/bacau/magiresti/2024/42",
+   "short": "HCL Măgirești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 42/2024 Privind aprobarea Studiului de Oportunitate, a indicatorilor tehnico-economici și a Devizului General pentru investiția „Digitalizare activitate Primăria Măgirești” Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 11.07.2024 Având în vedere: • referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 4167/04.07.2024, • raportul c",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-42-aprobare-actualizare-digitalizare-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-42-aprobare-actualizare-digitalizare-2024.pdf",
+     "sha256": "4712e9f1730c8686f99db97098660e71582a30acd74245e6332ba5a88bb4b642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-43-2024",
+   "path": "local/bacau/magiresti/2024/43",
+   "short": "HCL Măgirești nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 43/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici în urma modificărilor survenite conform dispoziției de șantier nr. 4 din 05.04.2024 și dispoziției de șantier nr. 5 din 20.06.2024 pentru obiectivul de investiții „Modernizare și reabilitare drumuri, în comuna Măgirești, județul Bacău”, aprobat pentru finanțare prin Programul național de investiții „Anghel Salign",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-43-actualizare-deviz-drumuri-Disp45.pdf",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/07/HCL-43-actualizare-deviz-drumuri-Disp45.pdf",
+     "sha256": "bde5cc7bcb0490152c5f3de7dd34295c9ebff7be16a387619091adcdaca5b80a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--magiresti-44-2024",
    "path": "local/bacau/magiresti/2024/44",
    "short": "HCL Măgirești nr. 44/2024",
@@ -29,6 +569,21 @@
      "units": 1,
      "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-44-reorganizare-10-ultima-2024.pdf",
      "sha256": "339f5770095423e7406a84432fa85fe23e784acaab43957a113c05de95945cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-45-2024",
+   "path": "local/bacau/magiresti/2024/45",
+   "short": "HCL Măgirești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 45/2024 Privind aprobarea “REGISTRULUI LOCAL AL SPAȚIILOR VERZI” comuna Măgirești, județul Bacău Consiliul local al comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 27.08.2024 Având în vedere: • referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 5145/19.08.2024 • raportul compartimentului de specialitate din cadrul aparatului de specialitate al prima",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-45-aprobare-registru-spatii-verzi.pdf",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-45-aprobare-registru-spatii-verzi.pdf",
+     "sha256": "0a34136ae577ca0cfd01945cbdeb1245543a077ebefc5074e6e6fc9d59a027e4"
     }
    ]
   },
@@ -63,6 +618,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--magiresti-48-2024",
+   "path": "local/bacau/magiresti/2024/48",
+   "short": "HCL Măgirești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 48/2024 Privind aprobarea rectificării bugetului local pentru anul 2024 Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 10.09.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 5549/03.09.2024 • raportul compartimentului de specialitate aflat în subordinea primarului comunei Măgirești înregistrat sub numărul 4550/04",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-48-rectificare-septembrie-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-48-rectificare-septembrie-2024.pdf",
+     "sha256": "663aab2503e584c7eee714887c47ed17dd33adcb323e536bc51cd21256203900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-49-2024",
+   "path": "local/bacau/magiresti/2024/49",
+   "short": "HCL Măgirești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 49/2024 privind aprobarea devizului general al proiectului „REABILITARE ȘI CONSOLIDARE MONUMENT ISTORIC- BISERICA „SF. GHEORGHE” COD BC-II-m-B-00903, SAT ȘESURI, COMUNA MĂGIREȘTI, JUDETUL BACĂU” Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 10.09.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 5571/03.09.2024 •",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-49-biserica-timbrul-monumentelor.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-49-biserica-timbrul-monumentelor.pdf",
+     "sha256": "89263902e95af3dc6e47f0f452b0bc1b6a68e79e7f4d82cef4079f28ff8234e8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--magiresti-5-2024",
    "path": "local/bacau/magiresti/2024/5",
    "short": "HCL Măgirești nr. 5/2024",
@@ -74,6 +659,141 @@
      "units": 1,
      "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-5-scutire-RNP-2022.pdf",
      "sha256": "e0cdb64b3419f1c065b2ce818ceabbf7a0ad61743e07ec7b5ce045309b03d4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-50-2024",
+   "path": "local/bacau/magiresti/2024/50",
+   "short": "HCL Măgirești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 50/2024 privind aprobarea structurii organizatorice de funcționare pe timp de război a comunei Măgirești, potrivit HG nr. 1204/2007 privind aprobarea asigurării forței de muncă necesare pe timpul stării de asediu, la mobilizare și pe timpul stării de război Consiliul local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 10.09.2024 Având în vedere: • adresa nr. 898 din",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-50-structura-functionala-pe-timp-de-razboi-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-50-structura-functionala-pe-timp-de-razboi-2024.pdf",
+     "sha256": "45cc398fa74f9f3b33473f41ff65616351b8b9c36d4f59510c5c1ea4d27e9098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-51-2024",
+   "path": "local/bacau/magiresti/2024/51",
+   "short": "HCL Măgirești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 51/2024 privind stabilirea mandatului reprezentantului legal al Unității Administrativ- Teritoriale comuna Măgirești pentru ședința Adunării Generale a Acționarilor S.C",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-51-vot-crab-2024-octombrie.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-51-vot-crab-2024-octombrie.pdf",
+     "sha256": "b3b85e030cc8501994708ac8a4a0e7fd452a444c430a2d1af4d79979c5c4581f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-52-2024",
+   "path": "local/bacau/magiresti/2024/52",
+   "short": "HCL Măgirești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 52/2024 Privind desemnarea reprezentanților Consiliului local Măgirești în Consiliul de administrație al Școlii Măgirești și în Comisia de Evaluare și Asigurare a Calității în învățământul preuniversitar Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru în data de 10.09.2024 Având în vedere: • adresa conducerii Școlii Măgirești înregistrată sub numărul 5485/09.09.2",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-52-administratie-scoala-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-52-administratie-scoala-2024.pdf",
+     "sha256": "08e0c77d3d7dfb3d78846a203845493ce95741aace4939f9e18da439c984604d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-53-2024",
+   "path": "local/bacau/magiresti/2024/53",
+   "short": "HCL Măgirești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 53/2024 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență, aflat în subordinea Consiliului local al comunei Măgirești, județul Bacău Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședință ordinară de lucru din data de 10.09.2024 Având în vedere: • Referatul de aprobare al primarului comunei Măgirești privind reorganizarea Serviciului Voluntar pentru Situații de Urgenț",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-53-reorganizare-svsu-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-53-reorganizare-svsu-2024.pdf",
+     "sha256": "ea2da203b03d5f29d98764d88e0950be877d80c670cb610be3a95f81bda39350"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-54-2024",
+   "path": "local/bacau/magiresti/2024/54",
+   "short": "HCL Măgirești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 54/2024 Privind atribuirea de denumiri străzilor din satele componente ale comunei Măgirești, județul Bacău Consiliul Local al comunei Măgirești, județul Bacău, întrunit în ședința ordinara de lucru în 10.09.2024 Având în vedere: • referatul de aprobare al primarului comunei Măgirești atribuirea de denumiri străzilor din satele componente ale comunei Măgirești, județul Bacău înregistrat sub nr. 5514 din 0",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-54-denumire-strazi.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-54-denumire-strazi.pdf",
+     "sha256": "ce9202e06a0b07c77e94a8c1c59f42c9f64441238ab1e30af4487970c37c44a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-55-2024",
+   "path": "local/bacau/magiresti/2024/55",
+   "short": "HCL Măgirești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 55/2024 privind aprobarea implementării proiectului cu denumirea „Împădurire în comuna Măgirești, județul Bacău” în vederea finanțării acestuia prin Programul de finanțare componenta 2 - Păduri și Protecția biodiversității Investiția 1 - Campania Națională de Împădurire și Reîmpădurire, inclusiv păduri urbane, schema de ajutor de stat – subinvestiția I.1 A „Sprijin pentru investiții noi în suprafețe ocupa",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-55-implementare-impadurire.pdf",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/09/HCL-55-implementare-impadurire.pdf",
+     "sha256": "03ccbec82e22c0691572904f83d497878789635267306f999a56e90f6d5a86d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-56-2024",
+   "path": "local/bacau/magiresti/2024/56",
+   "short": "HCL Măgirești nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 56/2024 privind alegerea președintelui de ședință Consiliul local al comunei Măgirești, județul Bacău ; Având în vedere: - Încheierea din Ședința din Camera de Consiliu din 09.10.2024 pronunțată în dosar nr. 5382/260/2024, respectiv Încheierea din Ședința din Camera de Consiliu din 21.10.2024 pronunțată în dosar nr. 5739/260/2024, - Ordinul Prefectului Județului Bacău privind constatarea ca legal constitu",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/10/HCL-56-presedinte-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/10/HCL-56-presedinte-sedinta.pdf",
+     "sha256": "cfa00d9c8c59ac06680c4122037165c568e40c80a9dbe125fe1e3c7e8da7c0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-57-2024",
+   "path": "local/bacau/magiresti/2024/57",
+   "short": "HCL Măgirești nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 57/2024 privind alegerea viceprimarului comunei Măgirești Consiliul local al comunei Măgirești, județul Bacău, întrunit în ședință de lucru în data de 28.10.2024; Având în vedere:  Ordinul Prefectului Județului Bacău privind constatarea ca legal constituit a Consiliului local al comunei Măgirești, judetul Bacău  Regulamentul de organizare și funcționare a Consiliului local comunei Măgirești, județul Bac",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/10/HCL-57-alegere-viceprimar-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/10/HCL-57-alegere-viceprimar-2024.pdf",
+     "sha256": "2b8dc7c9b38390b0ad05c53d4e6df1750dec2ee332a9a1f5361e16444dcef971"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-58-2024",
+   "path": "local/bacau/magiresti/2024/58",
+   "short": "HCL Măgirești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 58/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Măgirești, județul Bacău Consiliul local al comunei Măgirești, județul Bacău, întrunit în ședință de lucru în data de 14.11.2024 Având în vedere: - Încheierea de Ședință din Camera de Consiliu din 09.10.2024 pronunțată în dosar nr. 5382/260/2024, respectiv Încheierea de Ședință din Camera de Consiliu din 21.10.2024 pro",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-58-alegere-comisii-specialitate-COD-ADMINISTRATIV.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-58-alegere-comisii-specialitate-COD-ADMINISTRATIV.pdf",
+     "sha256": "bb96600ea0436479e29e28694b3e80dc025a6b58424fa35eafe44043f1df316f"
     }
    ]
   },
@@ -108,6 +828,111 @@
    ]
   },
   {
+   "slug": "hcl-bacau--magiresti-60-2024",
+   "path": "local/bacau/magiresti/2024/60",
+   "short": "HCL Măgirești nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 60/2024 Privind aprobarea rectificării bugetului local pentru anul 2024 Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședința de lucru în data de 14.11.2024 Văzând: • Adresa ANAF NR. 11391/28.10.2024 privind alocarea unor sume de bani in baza HG 1293/2024 • Adresa ANAF NR. 10725/14.10.2024 privind cotele defalcate din impozitul pe venit încasat suplimentar in anul 2024 • Referatul de apr",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-60-rectificare-buget-2024-noiembrie.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-60-rectificare-buget-2024-noiembrie.pdf",
+     "sha256": "31133b2feeff90e51c069099ab0db76d4e4d6b4b6c9ca44bd8ab8c5bcc22aa85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-61-2024",
+   "path": "local/bacau/magiresti/2024/61",
+   "short": "HCL Măgirești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 61/2024 Privind aprobarea completării listei de investiții pentru anul 2024 cu finanțare integrală și parțială din venituri proprii Consiliul local al Comunei Măgirești, județul Bacău întrunit in sedinta de lucru in data de 14.11.2024 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 7420/01.11.2024, • raportul compartimentului de specialitate aflat in subordinea primarul",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-61-modificare-lista-investitii-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-61-modificare-lista-investitii-2024.pdf",
+     "sha256": "f7bcd00a1c6930f277c2ff54932e27edbefecca5349f89fbfedbf6e42ca89332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-62-2024",
+   "path": "local/bacau/magiresti/2024/62",
+   "short": "HCL Măgirești nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 62/2024 privind acordarea cadourilor scolarilor 2024",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-62-privind-acordarea-cadourilor-scolarilor-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-62-privind-acordarea-cadourilor-scolarilor-2024.pdf",
+     "sha256": "e707afd36b38278c31d29c253e0b58ede43094703dba87cbf23d833da1d0ec18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-63-2024",
+   "path": "local/bacau/magiresti/2024/63",
+   "short": "HCL Măgirești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 63/2024 Privind alocarea din bugetul local a sumei de 15.000 lei pentru organizarea sărbătorilor de iarna în anul 2024 Consiliul Local al comunei Măgirești, județul Bacău întrunit în ședință de lucru în data de 14.11.2024 Având în vedere: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 7244/01.11.2024, • raportul compartimentului de resort din cadrul aparatului de specialitate",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-63-alocare-bani-sarbatori-de-iarna-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-63-alocare-bani-sarbatori-de-iarna-2024.pdf",
+     "sha256": "27b9dde5472b4b1c04f1d3e9aec61af13e5491abb98b77052dd083e36d9068ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-64-2024",
+   "path": "local/bacau/magiresti/2024/64",
+   "short": "HCL Măgirești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 64/2024 privind aprobarea dreptul de uz și servitute în favoarea SC Delgaz Grid SA pentru amplasarea a 3 stâlpi de medie tensiune pe o suprafață de 5,38 mp teren aparținând domeniului public al comunei Măgirești, județul Bacău în vederea execuției lucrării cu denumirea „Modernizare LEA joasa tensiune aferenta PTA 1 Măgirești”, Consiliul Local al comunei Măgirești, Județul Bacău, întrunit în sedința din da",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-64-dreptul-de-uz-si-servitute-delgaz-si-amplasare-3-stalpi-modernozare-LEA.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-64-dreptul-de-uz-si-servitute-delgaz-si-amplasare-3-stalpi-modernozare-LEA.pdf",
+     "sha256": "bd3c0d0c336e82a8b5e2746ac8f08a8181a950728a68aad3ffa4f599d52b4154"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-66-2024",
+   "path": "local/bacau/magiresti/2024/66",
+   "short": "HCL Măgirești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 66/2024 pentru decembrie 2024",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-66-vot-crab-in-noiembrie-pentru-decembrie-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/11/HCL-66-vot-crab-in-noiembrie-pentru-decembrie-2024.pdf",
+     "sha256": "d185a8bfaf283d413ca81f622f3bad8204ba2b90a7dd89b88aa47978fbfb25f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-68-2024",
+   "path": "local/bacau/magiresti/2024/68",
+   "short": "HCL Măgirești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 68/2024 Privind aprobarea rectificării bugetului local pentru anul 2024 Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 18.12.2024 Văzând: • Adresa ANAF NR. 8527/11.12.2024 privind cotele defalcate din impozitul pe venit încasat suplimentar în anul 2024 • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 8544/11.12.2024 • raportu",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-68-rectificare-buget-2024-decembrie.pdf",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-68-rectificare-buget-2024-decembrie.pdf",
+     "sha256": "d1aecaaf51c40f2f2ac43ce285531452220106f9e220cdac49157bf404476ca7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--magiresti-69-2024",
    "path": "local/bacau/magiresti/2024/69",
    "short": "HCL Măgirești nr. 69/2024",
@@ -119,6 +944,81 @@
      "units": 1,
      "source_url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-69-impozite-si-taxe-2025.pdf",
      "sha256": "b94b093c8e59f5ff460b1fe2c3152489eb74b873ddb4100a0a58ceec9a2b79c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-7-2024",
+   "path": "local/bacau/magiresti/2024/7",
+   "short": "HCL Măgirești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 7/2024 Privind aprobarea Planului de actiuni sau lucrari de interes local pe anul 2024 pentru repartizarea orelor de munca ce urmeaza a fi efectuate de catre persoanele apte de munca din cadrul beneficiarilor de ajutor social conform Legii nr. 416/2001 privind venitul minim garantat, si a contravenientilor ce trebuie sa execute o munca in folosul comunitatii Consiliul Local al Comunei Magiresti, judetul",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-7-plan-de-actiuni-Legea-416.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-7-plan-de-actiuni-Legea-416.pdf",
+     "sha256": "45212284e1036fe6dee8d492e61fc732d472acedcd4e994e4b4e1e12d09d288e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-71-2024",
+   "path": "local/bacau/magiresti/2024/71",
+   "short": "HCL Măgirești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 71/2024 Privind aprobarea contractului de asociere dintre comuna Măgirești și",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-71-asociere-consiliu-judetean-sustinere-persoane-cu-handicap-2024-contributie-35.pdf",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-71-asociere-consiliu-judetean-sustinere-persoane-cu-handicap-2024-contributie-35.pdf",
+     "sha256": "134215be4649d2b3dccba2c63a3c54a0a9880cb9560e11d5d692941617f36e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-72-2024",
+   "path": "local/bacau/magiresti/2024/72",
+   "short": "HCL Măgirești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 72/2024 privind stabilirea mandatului reprezentantului legal al Unității Administrativ - Teritoriale comuna Măgirești pentru ședința Adunării Generale a Acționarilor S.C",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-72-sedinta-CRAB-decembrie-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/12/HCL-72-sedinta-CRAB-decembrie-2024.pdf",
+     "sha256": "fedd14e62e6990cba24004f37108ffd8301b8d80e9ec60f5e827f38f7eb6a4d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-8-2024",
+   "path": "local/bacau/magiresti/2024/8",
+   "short": "HCL Măgirești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 8/2024 Privind aprobarea “ Rețelei școlare pentru anul 2024/2025 la nivelul comunei Măgirești” Consiliul Local al comunei Măgirești, județul Bacău, Văzând: • adresa ISJ Bacau 11661/28.12.2023 cu referire la Avizul conform al Proiectului de retea de scolarizare la nivelul comunei Măgirești pentru perioada 2024/2025, • Referatul de aprobare al primarului comunei Măgirești inregistrat sub numarul 28/03.01.2",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-8-plan-scolarizare-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-8-plan-scolarizare-2024.pdf",
+     "sha256": "1c9b10e2e4ee42cbc47d777a37b0ae745065b3d5c10b2289c1140baafb5667e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-9-2024",
+   "path": "local/bacau/magiresti/2024/9",
+   "short": "HCL Măgirești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 9/2024",
+   "url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-9-evaluare-secretar-2023.pdf",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2024/01/HCL-9-evaluare-secretar-2023.pdf",
+     "sha256": "1cc198a846fc7f616624fe8bc193d45bf65c9dba1eb391866348fb55ee012941"
     }
    ]
   }

@@ -3,6 +3,36 @@
  "shard": "local/bacau/sascut/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--sascut-1-2025",
+   "path": "local/bacau/sascut/2025/1",
+   "short": "HCL Sascut nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 1/2025 privind inscrierea definitivă a imobilului cu numar cadastral 61542, imobil care aparţine domeniului public al comunei Sascut , judetul Bacau",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220759",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-10-2025",
+   "path": "local/bacau/sascut/2025/10",
+   "short": "HCL Sascut nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 10/2025 pentru indreptarea erorilor și actualizarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ,, Dezvoltare sistem de distributie gaze naturale in satele Valea Nacului si Contesti, comuna Sascut, jud Bacau’’, finantat prin Programul National de Investitii „Anghel Saligny”",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220769",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220769",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-11-2025",
    "path": "local/bacau/sascut/2025/11",
    "short": "HCL Sascut nr. 11/2025",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-17-2025",
+   "path": "local/bacau/sascut/2025/17",
+   "short": "HCL Sascut nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 17/2025 privind modificarea HCL nr. 97 din 20.12.2024 privind aprobarea taxei speciale de salubritate pentru utilizatorii casnici și pentru agenții economici din Comuna Sascut , pentru anul 2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/225962",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/225962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-18-2025",
    "path": "local/bacau/sascut/2025/18",
    "short": "HCL Sascut nr. 18/2025",
@@ -103,6 +148,36 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/225963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-19-2025",
+   "path": "local/bacau/sascut/2025/19",
+   "short": "HCL Sascut nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 19/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/225964",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/225964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-2-2025",
+   "path": "local/bacau/sascut/2025/2",
+   "short": "HCL Sascut nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 2/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220760",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220760",
      "sha256": null
     }
    ]
@@ -198,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-26-2025",
+   "path": "local/bacau/sascut/2025/26",
+   "short": "HCL Sascut nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 26/2025 privind desemnarea a doi consilieri locali pentru a face parte din comisia pentru evaluarea anuala a performanţelor profesionale individuale ale Secretarului General al Comunei Sascut, pentru perioada 2024-2028",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/225975",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/225975",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-27-2025",
    "path": "local/bacau/sascut/2025/27",
    "short": "HCL Sascut nr. 27/2025",
@@ -213,6 +303,111 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-28-2025",
+   "path": "local/bacau/sascut/2025/28",
+   "short": "HCL Sascut nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 28/2025 privind semnarea contractului de imprumut pentru realizarea unor investiții publice în valoare de 10.000.000 lei",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/225979",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/225979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-29-2025",
+   "path": "local/bacau/sascut/2025/29",
+   "short": "HCL Sascut nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 29/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226009",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-3-2025",
+   "path": "local/bacau/sascut/2025/3",
+   "short": "HCL Sascut nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 3/2025 privind alegerea preşedintelui de şedinţã pentru lunile februarie, martie, aprilie 2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220762",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-30-2025",
+   "path": "local/bacau/sascut/2025/30",
+   "short": "HCL Sascut nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 30/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226010",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-31-2025",
+   "path": "local/bacau/sascut/2025/31",
+   "short": "HCL Sascut nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 31/2025 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 595 mp teren, apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226011",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-32-2025",
+   "path": "local/bacau/sascut/2025/32",
+   "short": "HCL Sascut nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 32/2025 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 68,50 mp teren, apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226012",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-33-2025",
+   "path": "local/bacau/sascut/2025/33",
+   "short": "HCL Sascut nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 33/2025 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 100 mp teren, apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226013",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226013",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-34-2025",
    "path": "local/bacau/sascut/2025/34",
    "short": "HCL Sascut nr. 34/2025",
@@ -223,6 +418,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/226014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-35-2025",
+   "path": "local/bacau/sascut/2025/35",
+   "short": "HCL Sascut nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 35/2025 privind alegerea preşedintelui de şedinţã pentru lunile mai, iunie, iulie 2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226015",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226015",
      "sha256": null
     }
    ]
@@ -258,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-38-2025",
+   "path": "local/bacau/sascut/2025/38",
+   "short": "HCL Sascut nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 38/2025 privind aprobarea alipirii unor imobile aparținând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226018",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-39-2025",
    "path": "local/bacau/sascut/2025/39",
    "short": "HCL Sascut nr. 39/2025",
@@ -268,6 +493,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/226022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-4-2025",
+   "path": "local/bacau/sascut/2025/4",
+   "short": "HCL Sascut nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 4/2025 pentru modificarea HCL nr. 15 din 27.02.2019 privind initierea procedurii de inchiriere prin atribuire directa a suprafetei de 699,19 ha de teren - pasuni situata in comuna Sascut, parte din domeniul privat al comunei Sascut, judetul Bacau",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220763",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220763",
      "sha256": null
     }
    ]
@@ -303,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-42-2025",
+   "path": "local/bacau/sascut/2025/42",
+   "short": "HCL Sascut nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 42/2025 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 179 mp teren, apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226025",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226025",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-43-2025",
    "path": "local/bacau/sascut/2025/43",
    "short": "HCL Sascut nr. 43/2025",
@@ -328,6 +583,36 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/226027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-45-2025",
+   "path": "local/bacau/sascut/2025/45",
+   "short": "HCL Sascut nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 45/2025 privind utilizarea și accesul aupra terenului în suprafață de 8336,45 mp, teren apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226028",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-46-2025",
+   "path": "local/bacau/sascut/2025/46",
+   "short": "HCL Sascut nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 46/2025 privind aprobarea actualizării și dezmembrarii unui imobil – teren apartinand domeniului public al comunei Sascut",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226029",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226029",
      "sha256": null
     }
    ]
@@ -373,6 +658,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/226037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-5-2025",
+   "path": "local/bacau/sascut/2025/5",
+   "short": "HCL Sascut nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 5/2025 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 200 mp teren, apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220764",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220764",
      "sha256": null
     }
    ]
@@ -438,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-54-2025",
+   "path": "local/bacau/sascut/2025/54",
+   "short": "HCL Sascut nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 54/2025 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 783,96 mp teren apartinând domeniului public al comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226052",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-55-2025",
    "path": "local/bacau/sascut/2025/55",
    "short": "HCL Sascut nr. 55/2025",
@@ -483,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-58-2025",
+   "path": "local/bacau/sascut/2025/58",
+   "short": "HCL Sascut nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 58/2025 privind alegerea preşedintelui de şedinţã pentru lunile august , septembrie, octombrie 2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226056",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226056",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-59-2025",
    "path": "local/bacau/sascut/2025/59",
    "short": "HCL Sascut nr. 59/2025",
@@ -493,6 +823,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/226057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-6-2025",
+   "path": "local/bacau/sascut/2025/6",
+   "short": "HCL Sascut nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 6/2025 privind actualizarea Statului de funcții al Comunei Sascut, județul Bacău",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220765",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220765",
      "sha256": null
     }
    ]
@@ -523,6 +868,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/226059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-62-2025",
+   "path": "local/bacau/sascut/2025/62",
+   "short": "HCL Sascut nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 62/2025 privind modificarea anexei la HCL nr. 80 din 27.11.2024 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului local al comunei Sascut, judeţul Bacau pentru mandatul 2024-2028",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/226060",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/226060",
      "sha256": null
     }
    ]
@@ -633,6 +993,81 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-7-2025",
+   "path": "local/bacau/sascut/2025/7",
+   "short": "HCL Sascut nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 7/2025 privind aprobarea dezmembrarii unui imobil, teren apartinând domeniului public al comunei Sascut",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220766",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-70-2025",
+   "path": "local/bacau/sascut/2025/70",
+   "short": "HCL Sascut nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 70/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/228824",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/228824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-71-2025",
+   "path": "local/bacau/sascut/2025/71",
+   "short": "HCL Sascut nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 71/2025 privind desemnarea reprezentanţilor Consiliului local al comunei Sascut în Consiliul de administraţie al Liceului Tehnologic “Jacques M. Elias” Sascut, judetul Bacau, pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/228825",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/228825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-72-2025",
+   "path": "local/bacau/sascut/2025/72",
+   "short": "HCL Sascut nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 72/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/228826",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/228826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-73-2025",
+   "path": "local/bacau/sascut/2025/73",
+   "short": "HCL Sascut nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 73/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/228827",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/228827",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-74-2025",
    "path": "local/bacau/sascut/2025/74",
    "short": "HCL Sascut nr. 74/2025",
@@ -663,6 +1098,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--sascut-76-2025",
+   "path": "local/bacau/sascut/2025/76",
+   "short": "HCL Sascut nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 76/2025 pentru modificarea și completarea HCL nr. 65/26.08.2025 privind însușirea și confirmarea identităţii unor bunuri care aparţin domeniului public al comunei Sascut , judetul Bacau",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/233566",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/233566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-77-2025",
+   "path": "local/bacau/sascut/2025/77",
+   "short": "HCL Sascut nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 77/2025 privind aprobarea actualizarii indicatorilor tehnico-economici aferenti obiectivului de investitii „CONSTRUIRE PODURI IN COMUNA SASCUT , JUDETUL BACAU”",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/233567",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/233567",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--sascut-78-2025",
    "path": "local/bacau/sascut/2025/78",
    "short": "HCL Sascut nr. 78/2025",
@@ -688,6 +1153,21 @@
      "from": "2026-01-14",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/233569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-8-2025",
+   "path": "local/bacau/sascut/2025/8",
+   "short": "HCL Sascut nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 8/2025 privind însușirea și confirmarea identităţii unor bunuri care aparţin domeniului public al comunei Sascut , judetul Bacau",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220767",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220767",
      "sha256": null
     }
    ]
@@ -838,6 +1318,21 @@
      "from": "2026-01-14",
      "units": 1,
      "source_url": "https://emol.ro/sascut-bc/registru-hcl/240962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-9-2025",
+   "path": "local/bacau/sascut/2025/9",
+   "short": "HCL Sascut nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 9/2025",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/220768",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/220768",
      "sha256": null
     }
    ]

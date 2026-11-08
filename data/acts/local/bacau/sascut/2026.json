@@ -3,6 +3,140 @@
 "shard": "local/bacau/sascut/2026",
 "acts": [
 {
+"slug": "hcl-bacau--sascut-1-2026",
+"path": "local/bacau/sascut/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 1/2026",
+"short": "HCL Sascut nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/249369",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--sascut-2-2026",
+"path": "local/bacau/sascut/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 2/2026",
+"short": "HCL Sascut nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/249370",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--sascut-3-2026",
+"path": "local/bacau/sascut/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 3/2026 privind aprobarea încheierii Protocolului intre Administrația Nationala ,, APELE ROMANE prin Administratia Bazinală de Apă Siret și Comuna Sascut, pentru realizarea lucrarilor ,, Relocare poduri in satul Contesti, comuna Sascut, judetul Bacau,, din cadrul obiectivului de investitii ,, Construire poduri in comuna Sascut, judetul Bacau,, finantat prin PNDL II",
+"short": "HCL Sascut nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/250673",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-4-2026",
+"path": "local/bacau/sascut/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 4/2026 privind însușirea RAPORTULUI INFORMĂRII ȘI CONSULTĂRII PUBLICULUI referitor la elaborarea Planului Urbanistic General al Comunei Sascut și a Regulaentului local de urbanism",
+"short": "HCL Sascut nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/250674",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-5-2026",
+"path": "local/bacau/sascut/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 5/2026 privind aprobarea utilizării sumei de 153.375,15 din excedentul anului 2025",
+"short": "HCL Sascut nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/250675",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-6-2026",
+"path": "local/bacau/sascut/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 6/2026 privind utilizarea și accesul aupra terenului în suprafață de 335 mp, teren apartinând domeniului public al comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/250676",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--sascut-7-2026",
 "path": "local/bacau/sascut/2026/7",
 "kind": "local",
@@ -22,6 +156,94 @@
 "council_name": "Consiliul Local al Comunei Sascut",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--sascut-8-2026",
+"path": "local/bacau/sascut/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 8/2026 privind alegerea preşedintelui de şedinţã pentru lunile februarie, martie, aprilie 2026",
+"short": "HCL Sascut nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/250678",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-9-2026",
+"path": "local/bacau/sascut/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 9/2026 privind aprobarea unui împrumut temporar de la bugetul local al comunei Sascut către ,,Serviciului Public de Alimentare cu Apa si Canalizare Sascut “, organizat în subordinea Consiliului Local al comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/253010",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-10-2026",
+"path": "local/bacau/sascut/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 10/2026 privind actualizarea Statului de funcții al Comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/256530",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-11-2026",
+"path": "local/bacau/sascut/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 11/2026 privind însușirea RAPORTULUI INFORMĂRII ȘI CONSULTĂRII PUBLICULUI referitor la elaborarea Planului Urbanistic Zonal - zona centrală - ridicare interdicție de construire pentru obiectivul de investiții ”Construire și Dotare Grădiniță cu program prelungit și Creșă”",
+"short": "HCL Sascut nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/256531",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +269,94 @@
 }
 },
 {
+"slug": "hcl-bacau--sascut-13-2026",
+"path": "local/bacau/sascut/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 13/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții ,,MODERNIZARE SISTEM DE ALIMENTARE CU APA SI INFIINTARE RETEA DE CANALIZARE IN SAT PANCESTI, COMUNA SASCUT, JUDETUL BACAU’’, finanțare prin Programul național de investiții „Anghel Saligny și de la bugetul local",
+"short": "HCL Sascut nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/258455",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-14-2026",
+"path": "local/bacau/sascut/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 14/2026 privind aprobarea cotei procentuale din apa livrată utilizatorilor casnici pentru determinarea cantităţii de apă uzată evacuate la reţeaua de canalizare a comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/258456",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-15-2026",
+"path": "local/bacau/sascut/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 15/2026 privind aprobarea cotei procentuale corespunzatoare pierderilor de apa pentru fiecare sat unde exista retea de alimentare cu apa in sistem centralizat din comuna Sascut, judetul Bacau",
+"short": "HCL Sascut nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/258457",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-16-2026",
+"path": "local/bacau/sascut/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 16/2026 privind aprobarea contului anual de executie al bugetului local pe anul 2025",
+"short": "HCL Sascut nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261277",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--sascut-17-2026",
 "path": "local/bacau/sascut/2026/17",
 "kind": "local",
@@ -69,6 +379,182 @@
 }
 },
 {
+"slug": "hcl-bacau--sascut-18-2026",
+"path": "local/bacau/sascut/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 18/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții „REABILITARE MODERATA A DISPENSARULUI UMAN DIN COMUNA SASCUT, JUDEȚUL BACĂU”, aprobat pentru finanțare prin Programul Național de Redresare si Reziliență, Componenta 10 – Fondul Local, Investiția I.3 – Reabilitare moderata a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice prestate la nivelul unităților administrativ-teritoriale, precum și de la bugetul local",
+"short": "HCL Sascut nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261279",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-19-2026",
+"path": "local/bacau/sascut/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 19/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizate pentru obiectivul de investiții ,, Modernizare sistem de alimentare cu apă și înființare rețea de canalizare în sat Păncești, comuna Sascut, județul Bacău’’, finantat prin Programul National de Investitii „Anghel Saligny” si de la bugetul local",
+"short": "HCL Sascut nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261280",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-20-2026",
+"path": "local/bacau/sascut/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 20/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizate pentru obiectivul de investiții ,,Modernizare, extindere sistem de alimentare cu apa si infiintare retea de canalizare Sascut-Sat, comuna Sascut, judetul Bacau’’, finantat prin Programul National de Investitii „Anghel Saligny” si de la bugetul local",
+"short": "HCL Sascut nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261281",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-21-2026",
+"path": "local/bacau/sascut/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 21/2026 privind aprobarea reorganizarii SERVICIULUI DE GOSPODARIRE COMUNALA SI LOCATIVA din aparatul de specialitate al primarului comunei Sascut si infiintarea unui serviciu public cu personalitate juridica, organizat in subordinea Consiliului Local al comunei Sascut, judeţul Bacău sub denumirea de ,,SERVICIUL LOCAL DE UTILITATI PUBLICE SASCUT”",
+"short": "HCL Sascut nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261282",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-22-2026",
+"path": "local/bacau/sascut/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 22/2026 privind actualizarea Statului de funcții al Comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261283",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-23-2026",
+"path": "local/bacau/sascut/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 23/2026 privind aprobarea documentației de atribuire a contractului de achiziție publică de servicii respectiv ”colectarea și transportul deșeurilor municipale de pe raza a 65 de UAT-uri din Județul Bacău prin procedura de negociere fără publicare”",
+"short": "HCL Sascut nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/261284",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-24-2026",
+"path": "local/bacau/sascut/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 24/2026 privind acordarea mandatului special reprezentantului legal al comunei Sascut în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Bacău (ADIB), pentru ședința din data de 09.04.2026",
+"short": "HCL Sascut nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/262241",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-25-2026",
+"path": "local/bacau/sascut/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 25/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ,,DEZVOLTARE SISTEM DE DISTRIBUTIE GAZE NATURALE IN SATELE VALEA NACULUI si CONTESTI, COMUNA SASCUT, JUDETUL BACAU ’’, finantat prin Programul National de Investitii „Anghel Saligny” si de la bugetul local",
+"short": "HCL Sascut nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/262242",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--sascut-26-2026",
 "path": "local/bacau/sascut/2026/26",
 "kind": "local",
@@ -88,6 +574,160 @@
 "council_name": "Consiliul Local al Comunei Sascut",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--sascut-27-2026",
+"path": "local/bacau/sascut/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 27/2026 privind aprobarea participării Comunei Sascut la Programul multianual 2026-2029 privind finanțarea actualizării Planului Urbanistic General (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) ale comunei Sascut, judetul Bacau",
+"short": "HCL Sascut nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/262966",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-28-2026",
+"path": "local/bacau/sascut/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 28/2026 privind alegerea preşedintelui de şedinţã pentru lunile mai, iunie și iulie 2026",
+"short": "HCL Sascut nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/264705",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-29-2026",
+"path": "local/bacau/sascut/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 29/2026 privind aprobarea implementării proiectului „ÎMBUNĂTĂȚIREA CALITĂȚII SERVICIILOR LOCALE PRIN ACHIZITIA UNUI MINIEXCAVATOR INTELIGENT ȘI ACCESORII, ÎN COMUNA SASCUT, JUDEȚUL BACĂU”",
+"short": "HCL Sascut nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/264706",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-30-2026",
+"path": "local/bacau/sascut/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 30/2026 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici pentru obiectivul de investiții „CONSTRUIRE PODURI IN COMUNA SASCUT , JUDETUL BACAU”",
+"short": "HCL Sascut nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/264707",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-31-2026",
+"path": "local/bacau/sascut/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 31/2026 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 20 mp teren apartinând domeniului public al comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/264708",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-32-2026",
+"path": "local/bacau/sascut/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 32/2026 privind aprobarea achiziționării în regim de urgență a serviciilor de închiriere de autospeciale și personal deservent prin Asociația de Dezvoltare Intercomunitară pentru Salubrizare Bacău, în sistem unitar pentru unitățile administrativ-teritoriale afectate de întreruperea serviciului de salubrizare, și acordarea mandatului reprezentantului comunei Sascut în Adunarea Generală a ADIS Bacău de a vota în favoarea Proiectului de Hotărâre aferent",
+"short": "HCL Sascut nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/265765",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-33-2026",
+"path": "local/bacau/sascut/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 33/2026 privind aprobarea documentației de atribuire a contractului de achiziție publică de servicii respectiv \"colectarea și transportul deșeurilor municipale de pe raza a 65 de U.A.T.-uri din județul Bacău prin procedura de negociere fără publicare\", desemnarea comisiei de evaluare a ofertelor, acordarea mandatelor speciale necesare derulării procedurii NFP",
+"short": "HCL Sascut nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/266032",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +819,182 @@
 }
 },
 {
+"slug": "hcl-bacau--sascut-38-2026",
+"path": "local/bacau/sascut/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 38/2026 pentru modificarea HCL 37 din 30.04.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Sascut nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/269841",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-39-2026",
+"path": "local/bacau/sascut/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 39/2026 privind aprobarea devizului general actualizat conform prevederilor Legii 141/2025 pentru obiectivul de investiții „Reabilitare energetica scoala Beresti – corp nou, Comuna Sascut, Judetul Bacau”, aprobat pentru finanțare prin Planul Național de Redresare si Rezilienta – Componenta 10 – Fondul local, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Sascut nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/269842",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-40-2026",
+"path": "local/bacau/sascut/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 40/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții „Reabilitare energetica scoala Beresti – corp nou, Comuna Sascut, Judetul Bacau”, aprobat pentru finanțare prin Planul Național de Redresare si Rezilienta – Componenta 10 – Fondul local, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Sascut nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/273475",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-41-2026",
+"path": "local/bacau/sascut/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 41/2026 privind Bugetul de venituri si cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Sascut pe anul 2026",
+"short": "HCL Sascut nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-04",
+"latest": "2026-08-04",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/276288",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-42-2026",
+"path": "local/bacau/sascut/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 42/2026 privind aprobarea dreptului de uz si servitute cu titlu gratuit in favoarea SC DELGAZ GRID SA asupra suprafetei de 17 mp teren apartinând domeniului public al comunei Sascut, județul Bacău",
+"short": "HCL Sascut nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-04",
+"latest": "2026-08-04",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/276289",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-43-2026",
+"path": "local/bacau/sascut/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 43/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții ,,Construire si dotare gradinita cu program prelungit si cresa in satul Sascut, comuna Sascut, judetul Bacau” propus la finantare în cadrul Programului Regional 2021-2027, Prioritatea 6, apelul de proiecte nr. ”PR/NE/2025/6/RSO4.2/1/INVATAMANT COMUNE”",
+"short": "HCL Sascut nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-04",
+"latest": "2026-08-04",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/276290",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-44-2026",
+"path": "local/bacau/sascut/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 44/2026 privind darea in administrare prin modalitatea gestiunii directe a unor activitati specifice serviciului public de salubrizare din comuna Sascut catre SERVICIUL LOCAL DE UTILITATI PUBLICE SASCUT",
+"short": "HCL Sascut nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-04",
+"latest": "2026-08-04",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/276291",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-45-2026",
+"path": "local/bacau/sascut/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 45/2026 privind aprobarea proiectului, a cheltuielilor legate de proiect si a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire și dotare grădiniță cu program prelungit și creșă în satul Sascut, comuna Sascut, județul Bacău”",
+"short": "HCL Sascut nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/277994",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--sascut-46-2026",
 "path": "local/bacau/sascut/2026/46",
 "kind": "local",
@@ -198,6 +1014,72 @@
 "council_name": "Consiliul Local al Comunei Sascut",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--sascut-47-2026",
+"path": "local/bacau/sascut/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 47/2026 privind Bugetul de venituri si cheltuieli al Serviciului Local de Utilități Publice Sascut pe anul 2026",
+"short": "HCL Sascut nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280376",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-48-2026",
+"path": "local/bacau/sascut/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 48/2026 pentru modificarea anexei la HCL nr. 74 din 11.10.2024 privind aprobarea contractării unei finanţări rambursabile interne în valoare de 10.000.000 lei",
+"short": "HCL Sascut nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280377",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-49-2026",
+"path": "local/bacau/sascut/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 49/2026 privind alegerea preşedintelui de şedinţã pentru lunile august, septembrie, octombrie 2026",
+"short": "HCL Sascut nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280378",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +1105,29 @@
 }
 },
 {
+"slug": "hcl-bacau--sascut-51-2026",
+"path": "local/bacau/sascut/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 51/2026",
+"short": "HCL Sascut nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280380",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--sascut-52-2026",
 "path": "local/bacau/sascut/2026/52",
 "kind": "local",
@@ -242,6 +1147,160 @@
 "council_name": "Consiliul Local al Comunei Sascut",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--sascut-53-2026",
+"path": "local/bacau/sascut/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 53/2026 privind avizarea de principiu a Planului Urbanistic Zonal (PUZ) pentru obiectivul de investiții „CONSTRUIRE SPĂLĂTORIE AUTO ȘI SCHIMBAREA DESTINAȚIEI ANEXEI EXISTENTE ÎN SPAȚIU COMERCIAL, SAT SASCUT, COMUNA SASCUT, JUDEȚUL BACĂU”",
+"short": "HCL Sascut nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280382",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-54-2026",
+"path": "local/bacau/sascut/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 54/2026 avizarea de principiu a Planului Urbanistic Zonal (PUZ) pentru obiectivul de investiții ,,CONSTRUIRE UNITATE DE PANIFICATIE, SAT SASCUT, COMUNA SASCUT, JUDETUL BACAU’’",
+"short": "HCL Sascut nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280383",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-55-2026",
+"path": "local/bacau/sascut/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 55/2026 privind aprobarea Planului Urbanistic Zonal - zona centrală - ridicare interdicție de construire pentru obiectivul de investiții ”Construire și Dotare Grădiniță cu program prelungit și Creșă” din comuna Sascut, județul Bacău",
+"short": "HCL Sascut nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/280384",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-56-2026",
+"path": "local/bacau/sascut/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 56/2026 privind asumarea responsabilităţii organizării si derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziţia produselor si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru perioada 2026-2027",
+"short": "HCL Sascut nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/283420",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-57-2026",
+"path": "local/bacau/sascut/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 57/2026 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat în 65 U.A.T.-uri din județul Bacău, prin procedura de negociere fără publicarea prealabilă a unui anunț de concesionare, până la finalizarea procedurii de atribuire a noului Contract pentru 66 de UAT-uri",
+"short": "HCL Sascut nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/283421",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-58-2026",
+"path": "local/bacau/sascut/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 58/2026 privind aprobarea depunerii spre finanțare în cadrul Programului național de investiții „Școli sigure și sănătoase”, aprobat prin Ordonanța de urgență a Guvernului nr. 7/2023, cu modificările și completările ulterioare, a proiectului având ca obiectiv de investiții „Consolidare, modernizare și reabilitare Liceul Tehnologic „Jacques M. Elias” – Corp C1, comuna Sascut, județul Bacău”",
+"short": "HCL Sascut nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/285953",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--sascut-59-2026",
+"path": "local/bacau/sascut/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 59/2026 privind aprobarea depunerii spre finanțare în cadrul Programului național de investiții „Școli sigure și sănătoase”, aprobat prin Ordonanța de urgență a Guvernului nr. 7/2023, cu modificările și completările ulterioare, a proiectului având ca obiectiv de investiții „Consolidare, modernizare și reabilitare Camin Internat Liceul Tehnologic „Jacques M. Elias” - Corp C2 din Comuna Sascut, județul Bacău\"",
+"short": "HCL Sascut nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/285954",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

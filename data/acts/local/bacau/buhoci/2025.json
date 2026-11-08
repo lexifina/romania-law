@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-2-2025",
+"path": "local/bacau/buhoci/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 2/2025",
+"short": "HCL Buhoci nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196172",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-3-2025",
 "path": "local/bacau/buhoci/2025/3",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-4-2025",
+"path": "local/bacau/buhoci/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 4/2025 privind aprobarea incheierii unui contract de servicii de inregistrari video",
+"short": "HCL Buhoci nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196175",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -269,6 +314,116 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-15-2025",
+"path": "local/bacau/buhoci/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 15/2025 privind aprobarea decontării sumelor achitate de către utilizatorii casnici la prima bransare/racordare la Sistemul de Apă și la Sistemul de Canalizare al Comunei Buhoci",
+"short": "HCL Buhoci nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196186",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-16-2025",
+"path": "local/bacau/buhoci/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 16/2025 privind schimbarea reprezentantului legal al UAT Comuna Buhoci în Asociația de Dezvoltare Intercomunitară SIRET - GAZ",
+"short": "HCL Buhoci nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196474",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-17-2025",
+"path": "local/bacau/buhoci/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 17/2025 privind schimbarea reprezentantului legal al UAT comuna Buhoci în Asociația de Dezvoltare Intercomunitară Ungureni-Buhoci, județul Bacău",
+"short": "HCL Buhoci nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196475",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-18-2025",
+"path": "local/bacau/buhoci/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 18/2025 privind schimbarea reprezentantului legal al UAT Comuna Buhoci în Asociația Grupul de Acțiune locală ''Confluențe Moldave''",
+"short": "HCL Buhoci nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196553",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-19-2025",
+"path": "local/bacau/buhoci/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 19/2025 privind abrogarea HCL nr. 92 din 20.12.2024 pentru modificarea și completarea inventarului bunurilor aparținând domeniului public al Comunei Buhoci, județul Bacău",
+"short": "HCL Buhoci nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196554",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-20-2025",
 "path": "local/bacau/buhoci/2025/20",
 "kind": "local",
@@ -288,6 +443,52 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-21-2025",
+"path": "local/bacau/buhoci/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 21/2025",
+"short": "HCL Buhoci nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196187",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-22-2025",
+"path": "local/bacau/buhoci/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 22/2025",
+"short": "HCL Buhoci nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196202",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -376,6 +577,28 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-27-2025",
+"path": "local/bacau/buhoci/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 27/2025 privind aprobarea izolării bazinului de apă din satul Bijghir, Comuna Buhoci",
+"short": "HCL Buhoci nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196207",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -533,6 +756,72 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-35-2025",
+"path": "local/bacau/buhoci/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 35/2025 privind aprobarea decontării sumelor achitate de către utilizatorii casnici la prima branșare/racordare la Sistemul de Apă și la Sistemul de Canalizare al Comunei Buhoci",
+"short": "HCL Buhoci nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196223",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-36-2025",
+"path": "local/bacau/buhoci/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 36/2025 privind dezmembrarea Cărții Funciare nr. 62698 și a Cărții Funciare nr. 62216",
+"short": "HCL Buhoci nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196224",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-37-2025",
+"path": "local/bacau/buhoci/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 37/2025 privind modificarea punctului 1.2. al Art. 1 la HCL nr. 93 din 20.12.2024 privind atestarea apartenenței la domeniul public al Comunei Buhoci a unor terenuri din Comuna Buhoci",
+"short": "HCL Buhoci nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/196226",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-38-2025",
 "path": "local/bacau/buhoci/2025/38",
 "kind": "local",
@@ -599,6 +888,28 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-41-2025",
+"path": "local/bacau/buhoci/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 41/2025 privind aprobarea constituirii unor numere cadastrale și înscrierea dreptului de proprietate publică în Cartea Funciară a Comunei Buhoci",
+"short": "HCL Buhoci nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/197256",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-42-2025",
 "path": "local/bacau/buhoci/2025/42",
 "kind": "local",
@@ -621,6 +932,28 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-43-2025",
+"path": "local/bacau/buhoci/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 43/2025 privind alegerea președintelui de ședință pentru lunile aprilie-iunie 2025",
+"short": "HCL Buhoci nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/201361",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-44-2025",
 "path": "local/bacau/buhoci/2025/44",
 "kind": "local",
@@ -640,6 +973,28 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-45-2025",
+"path": "local/bacau/buhoci/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 45/2025 privind atestarea apartenenței la domeniul public al Comunei Buhoci a unui teren din Comuna Buhoci",
+"short": "HCL Buhoci nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/201363",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -776,6 +1131,227 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-52-2025",
+"path": "local/bacau/buhoci/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 52/2025 privind aprobarea modificării prin act adițional a Contractului de închiriere pentru suprafețele de pajiști aflate în domeniul privat al comunei Buhoci, contract înregistrat cu nr. 1034/27.02.2020",
+"short": "HCL Buhoci nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/204906",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-53-2025",
+"path": "local/bacau/buhoci/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 53/2025 privind aprobarea acordării unui sprijin financiar în cuantum de 5.500 lei, Parohiei Catolice ''Sf. Maria Îndurerată'' Bijghir",
+"short": "HCL Buhoci nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/204905",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-54-2025",
+"path": "local/bacau/buhoci/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 54/2025 privind aprobarea decontării sumelor achitate de către utilizatorii casnici la prima branșare/racordare la Sistemul de Apă și la Sistemul de Canalizare la Comunei Buhoci",
+"short": "HCL Buhoci nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/204902",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-55-2025",
+"path": "local/bacau/buhoci/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 55/2025 privind aprobarea acordării unui sprijin financiar în cuantum de 96.000 lei, Parohiei Ortodoxe Buhoci",
+"short": "HCL Buhoci nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211085",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-56-2025",
+"path": "local/bacau/buhoci/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 56/2025 privind aprobarea elaborării și tehnoredactării „Strategia de Achiziții Publice a Comunei Buhoci”",
+"short": "HCL Buhoci nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211087",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-57-2025",
+"path": "local/bacau/buhoci/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 57/2025 privind aprobarea elaborării și tehnoredactării „Sstrategiei locale cu privire la dezvoltarea și funcționarea pe termen mediu și lung a salubrizării și gestionării deșeurilor pentru Comuna Buhoci”",
+"short": "HCL Buhoci nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211091",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-58-2025",
+"path": "local/bacau/buhoci/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 58/2025",
+"short": "HCL Buhoci nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211103",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-59-2025",
+"path": "local/bacau/buhoci/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 59/2025 privind aprobarea devizului general pentru lucrarea „Reparații împrejmuire teren de sport din satul Bijghir, comuna Buhoci”",
+"short": "HCL Buhoci nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211105",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-60-2025",
+"path": "local/bacau/buhoci/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 60/2025 privind aprobarea actualizării indicatorilor tehnico-economici ai investiției „STAȚII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE ÎN COMUNA BUHOCI, JUDEȚUL BACĂU”",
+"short": "HCL Buhoci nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211118",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-61-2025",
+"path": "local/bacau/buhoci/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 61/2025 privind aprobarea decontării sumelor achitate de către utilizatorii casnici la prima branșare/racordare la sistemul de apă și la sistemul de canalizare al comunei Buhoci",
+"short": "HCL Buhoci nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/211120",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-62-2025",
 "path": "local/bacau/buhoci/2025/62",
 "kind": "local",
@@ -795,6 +1371,28 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-63-2025",
+"path": "local/bacau/buhoci/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 63/2025 privind alegerea președintelui de ședință pentru lunile iulie-septembrie 2025",
+"short": "HCL Buhoci nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220144",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -820,6 +1418,28 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-65-2025",
+"path": "local/bacau/buhoci/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 65/2025 privind atestarea apartenenței la domeniul public al Comunei Buhoci a suprafeței de 143 mp teren și actualizarea Cărții Funciare nr. 61222",
+"short": "HCL Buhoci nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220146",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-66-2025",
 "path": "local/bacau/buhoci/2025/66",
 "kind": "local",
@@ -839,6 +1459,138 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-67-2025",
+"path": "local/bacau/buhoci/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 67/2025 privind atestarea apartenenței la domeniul privat al Comunei Buhoci a suprafeței de 863 m.p. teren, din care 190 m.p. construcții (C1) și obținerea cărții funciare",
+"short": "HCL Buhoci nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220150",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-68-2025",
+"path": "local/bacau/buhoci/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 68/2025 privind darea în folosință cu titlu gratuit a unui teren în suprafață de 1269 m.p. cu de destinația ''organizare de șantier'', către Asociația de Dezvoltare Intercomunitară Siret-Gaz, în comunele Tamași, Buhoci și Gioseni''",
+"short": "HCL Buhoci nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220151",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-69-2025",
+"path": "local/bacau/buhoci/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 69/2025 privind realizarea unui studiu de oportunitate necesar declanșării procedurii administrative de inițiere a concesionării unui teren în suprafață de 18.188 m.p. aflat în domeniul privat al Comunei Buhoci",
+"short": "HCL Buhoci nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220152",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-70-2025",
+"path": "local/bacau/buhoci/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 70/2025 privind desființarea unui post contractual din cadrul Primăriei Comunei Buhoci, precum și pentru aprobarea Organigramei și a Statului de Funcții al Aparatului de Specialitate al Primarului UAT Buhoci",
+"short": "HCL Buhoci nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220155",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-71-2025",
+"path": "local/bacau/buhoci/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 71/2025 privind darea în folosință cu titlu gratuit a unui teren în suprafață de 7000 m.p. cu destinația organizare expoziție de cai în data de 29.06.2025",
+"short": "HCL Buhoci nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220156",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-72-2025",
+"path": "local/bacau/buhoci/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 72/2025 privind realizarea unui studiu de oportunitate necesar declanșării procedurii administrative de inițiere a concesionării unui teren în suprafață de 236.500 m.p., aflat în domeniul privat al Comunei Buhoci",
+"short": "HCL Buhoci nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220171",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -996,6 +1748,73 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-80-2025",
+"path": "local/bacau/buhoci/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 80/2025",
+"short": "HCL Buhoci nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220126",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-81-2025",
+"path": "local/bacau/buhoci/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 81/2025 privind aprobarea întocmirii unui Raport de Evaluare în vederea închirierii/concesionării terenului aparținând Comunei Buhoci cu amplasamentul pe raza teritorială a UAT Letea Veche",
+"short": "HCL Buhoci nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220127",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-82-2025",
+"path": "local/bacau/buhoci/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 82/2025 privind aprobarea decontării sumelor achitate de către utilizatorii casnici la prima branșare/racordare la Sistemul de Apă și la Sistemul de Canalizare al Comunei Buhoci",
+"short": "HCL Buhoci nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/220128",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-83-2025",
 "path": "local/bacau/buhoci/2025/83",
 "kind": "local",
@@ -1018,6 +1837,51 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-84-2025",
+"path": "local/bacau/buhoci/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 84/2025 privind aprobarea prelungirii duratei Contractului de Concesiune nr. 969/28.02.2018, încheiat între Comuna Buhoci și SC MAVGO HOLDING SRL",
+"short": "HCL Buhoci nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/223441",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-85-2025",
+"path": "local/bacau/buhoci/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 85/2025",
+"short": "HCL Buhoci nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/223442",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-86-2025",
 "path": "local/bacau/buhoci/2025/86",
 "kind": "local",
@@ -1037,6 +1901,28 @@
 "council_name": "Consiliul Local al Comunei Buhoci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-87-2025",
+"path": "local/bacau/buhoci/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 87/2025 privind respingerea proiectului de hotărâre privind însușirea Actului Adițional nr. 1 la Contractul de închiriere nr. 2354/11.05.2017, încheiat între comuna Buhoci și SOCIETATEA FERMA CHIRIAC",
+"short": "HCL Buhoci nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/223444",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1107,6 +1993,28 @@
 }
 },
 {
+"slug": "hcl-bacau--buhoci-91-2025",
+"path": "local/bacau/buhoci/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 91/2025 privind alegerea președintelui de ședință pentru lunile octombrie-decembrie 2025",
+"short": "HCL Buhoci nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-02",
+"latest": "2025-10-02",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/228442",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--buhoci-92-2025",
 "path": "local/bacau/buhoci/2025/92",
 "kind": "local",
@@ -1149,6 +2057,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-94-2025",
+"path": "local/bacau/buhoci/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 94/2025 privind atestarea apartenenței la domeniul privat a două terenuri, în suprafață de 239.970 mp și în suprafață de 170.643 mp și obținerea cărților funciare",
+"short": "HCL Buhoci nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-02",
+"latest": "2025-10-02",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/228447",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

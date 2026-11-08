@@ -3,6 +3,21 @@
  "shard": "local/bacau/tamasi/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--tamasi-1-2026",
+   "path": "local/bacau/tamasi/2026/1",
+   "short": "HCL Tamași nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 1/2026 privind alegerea presedintelui de ședință al Consiliului Local al Comunei Tamasi pentru perioada lunilor februarie -aprilie 2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/249759",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/249759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-10-2026",
    "path": "local/bacau/tamasi/2026/10",
    "short": "HCL Tamași nr. 10/2026",
@@ -58,6 +73,21 @@
      "from": "2026-03-06",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/255714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-14-2026",
+   "path": "local/bacau/tamasi/2026/14",
+   "short": "HCL Tamași nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 14/2026 privind decontarea contravalorii transportului efectuat de cadrele didactice",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/255715",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/255715",
      "sha256": null
     }
    ]
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-20-2026",
+   "path": "local/bacau/tamasi/2026/20",
+   "short": "HCL Tamași nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 20/2026 privind alegerea presedintelui de ședință al Consiliului Local al Comunei Tamasi pentru perioada lunilor mai -iulie 2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/262890",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/262890",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-21-2026",
    "path": "local/bacau/tamasi/2026/21",
    "short": "HCL Tamași nr. 21/2026",
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-26-2026",
+   "path": "local/bacau/tamasi/2026/26",
+   "short": "HCL Tamași nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 26/2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/267331",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/267331",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-27-2026",
    "path": "local/bacau/tamasi/2026/27",
    "short": "HCL Tamași nr. 27/2026",
@@ -238,6 +298,66 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/267332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-28-2026",
+   "path": "local/bacau/tamasi/2026/28",
+   "short": "HCL Tamași nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 28/2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/276216",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/276216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-29-2026",
+   "path": "local/bacau/tamasi/2026/29",
+   "short": "HCL Tamași nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 29/2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/276217",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/276217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-3-2026",
+   "path": "local/bacau/tamasi/2026/3",
+   "short": "HCL Tamași nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 3/2026 privind aprobarea efectuării concediului de odihnă restant din 2025, în cursul anului 2026, de catre Primarul și Viceprimarul Comunei Tamași",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/249761",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/249761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-30-2026",
+   "path": "local/bacau/tamasi/2026/30",
+   "short": "HCL Tamași nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 30/2026 privind completarea contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.556-2006/29.11.2010",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/276218",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/276218",
      "sha256": null
     }
    ]
@@ -258,6 +378,81 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-32-2026",
+   "path": "local/bacau/tamasi/2026/32",
+   "short": "HCL Tamași nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 32/2026 privind alegerea presedintelui de ședință al Consiliului Local al Comunei Tamasi pentru perioada lunilor august -octombrie 2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/280726",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/280726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-33-2026",
+   "path": "local/bacau/tamasi/2026/33",
+   "short": "HCL Tamași nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 33/2026 privind organizarea si desfasurarea manifestării cultural-artistice ,,ZILELE COMUNEI TAMAȘI,, ce se vor desfasura in perioada 06/08 septembrie 2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/280727",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/280727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-34-2026",
+   "path": "local/bacau/tamasi/2026/34",
+   "short": "HCL Tamași nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 34/2026 privind aprobarea premierii elevilor de pe raza Comunei Tamasi, care au obținut rezultate deosebite la olimpiade si concursuri scolare in anul școlar 2025-2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/280728",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/280728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-35-2026",
+   "path": "local/bacau/tamasi/2026/35",
+   "short": "HCL Tamași nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 35/2026 privind aprobarea numarului maxim de copii beneficiari pentru inscrierea frecventarii cursurilor la Centru de zi pentru Copii Tamasi in anul scolar 2026-2027",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/280729",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/280729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-36-2026",
+   "path": "local/bacau/tamasi/2026/36",
+   "short": "HCL Tamași nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 36/2026 privind completarea HCL nr. 30 din 29.06.2026 cu privire la completarea contractului de delegare a gestiunii serviciilor publice de alimentare cu apa si de canalizare nr.556/2006/29.11.2010",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/280730",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/280730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-37-2026",
    "path": "local/bacau/tamasi/2026/37",
    "short": "HCL Tamași nr. 37/2026",
@@ -268,6 +463,36 @@
      "from": "2026-08-07",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/280731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-38-2026",
+   "path": "local/bacau/tamasi/2026/38",
+   "short": "HCL Tamași nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 38/2026 privind acordarea Diplomei de onoare și a unui premiu pecuniar pentru cuplurile care împlinesc 50 de ani de căsătorie in anul 2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/284731",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/284731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-39-2026",
+   "path": "local/bacau/tamasi/2026/39",
+   "short": "HCL Tamași nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 39/2026 privind aprobarea înregistrării Comunei Tamași în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor locale (,, Ghișeul.ro,,), precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/284732",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/284732",
      "sha256": null
     }
    ]
@@ -438,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-5-2026",
+   "path": "local/bacau/tamasi/2026/5",
+   "short": "HCL Tamași nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 5/2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/249763",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/249763",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-50-2026",
    "path": "local/bacau/tamasi/2026/50",
    "short": "HCL Tamași nr. 50/2026",
@@ -583,6 +823,21 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/296302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-6-2026",
+   "path": "local/bacau/tamasi/2026/6",
+   "short": "HCL Tamași nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 6/2026 privind nominalizarea de către Consiliul Local al Comunei Tamași a doi consiliei locali, care vor avea calitatea de evaluatori in cadrul Comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Tamași jud Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/249764",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/249764",
      "sha256": null
     }
    ]

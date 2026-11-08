@@ -3,6 +3,126 @@
  "shard": "local/arges/titesti/2024",
  "acts": [
   {
+   "slug": "hcl-arges--titesti-12-2024",
+   "path": "local/arges/titesti/2024/12",
+   "short": "HCL Țițești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 12/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-BUGET-3.pdf",
+     "sha256": "9dca5638101dd8c27f5ea354041556c1d2baf93d42ef866982094554e9fda9f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-13-2024",
+   "path": "local/arges/titesti/2024/13",
+   "short": "HCL Țițești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 13/2024 privind aprobarea proiectului ,,Modernizarea , extinderea si optimizarea consumului de energie electrica a sistemului de iluminat public in comuna Titesti, judetul Arges” a documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici , precum și aprobarea cheltuielilor legate de proiect Având în vedere prevederile: - Ordinul nr. 1.947 din 13 iulie 2022 pentru modificar",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-eficientizare-iluminat-public.pdf",
+     "sha256": "e5c1663ddf86bcb9c79aedec48611f0dae9ebf967239e9c6768056745fbb0301"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-14-2024",
+   "path": "local/arges/titesti/2024/14",
+   "short": "HCL Țițești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 14/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-taxe-si-impozite.pdf",
+     "sha256": "677572b12d5b3245955e41cb92d4f212be0f400580acaa61425c7f912ba6c773"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-15-2024",
+   "path": "local/arges/titesti/2024/15",
+   "short": "HCL Țițești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 15/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3985056d8638f4b205cc1bdc4b1ba72f571a3e36ac2c8bb203993462dbe3cace"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-16-2024",
+   "path": "local/arges/titesti/2024/16",
+   "short": "HCL Țițești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 16/2024 privind actualizarea cererii de aderare a comunei ȚIȚEȘTI la Asociația Comunelor din România Având în vedere temeiurile juridice, respectiv prevederile: a) art. 10 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997; b) art. 1 alin. (1) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații, aprobată cu modifi",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-aderare-ACOR.pdf",
+     "sha256": "eeb7928b6d9d46ee88124f3a181cbb29bd30766d2ce87f0f711579a255e99ecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-17-2024",
+   "path": "local/arges/titesti/2024/17",
+   "short": "HCL Țițești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 17/2024 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Țițești Consiliul Local al comunei Țițești, județul Argeș, întrunit în ședință ordinară, Având în vedere : -referatul de aprobare a proiectului de hotărâre inițiat de către primarul comunei -raportul de specialitate întocmit de Secretarul general al comunei Țițești -avizele comisiilor de speci",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-organigrama.pdf",
+     "sha256": "e17396f72bb1bcfb7c93624cb2353eaeebe09345f724c187e3f3b532675a22cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-18-2024",
+   "path": "local/arges/titesti/2024/18",
+   "short": "HCL Țițești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 18/2024 privind anularea creantelor fiscale restante mai mici de 40 de lei aflate in sold la 31.12.2024 In conformitate cu prevederile art.3 alin.1 din Carta europeana a autonomiei locale, adoptata la Strasburg la 15 octombrie 1985, ratificata prin Legea nr 199/1997, ,, prin autonomie locala se intelege dreptul si capacitatea efectiva ale autoritatilor administratiei publice locale de a solution si de a g",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-40-lei.pdf",
+     "sha256": "e10ec960af371bcb81ad62805be0bd040cf0796a4d65aa37126300f51f1458bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-19-2024",
+   "path": "local/arges/titesti/2024/19",
+   "short": "HCL Țițești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 19/2024 Privind aprobarea efectuarii unui Raport de Evaluare privind determinarea valorii de piata pentru suprafata de 101 mp cladire construita pe terenul intravilan in suprafata de 316,55 mp, apartinand domeniului public al comunei Titesti, situat in sat Titesti , comuna Titesti, judetul Arges, avand numar cadastral 80191 Consiliul local al comunei Titesti , întrunit în ședința ordinară Având în vedere:",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-Raport-evaluare.pdf",
+     "sha256": "d5e479fe49e45b1ea4350a188dcb8f1765c010e5ddc5eeb3ed876988f53c3345"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--titesti-51-2024",
    "path": "local/arges/titesti/2024/51",
    "short": "HCL Țițești nr. 51/2024",
@@ -14,6 +134,516 @@
      "units": 1,
      "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-infiintare-serviciu-Caini.pdf",
      "sha256": "d6e04e55ac49a3b8f817b923d090c467210fdefc9880e6720470ed55d21ae44a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-52-2024",
+   "path": "local/arges/titesti/2024/52",
+   "short": "HCL Țițești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 52/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e9e48a2dc60e1c8a6ce1c23f5e81bbc12127bde055dd687df6c6b0c3070935b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-54-2024",
+   "path": "local/arges/titesti/2024/54",
+   "short": "HCL Țițești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 54/2024 privind aprobarea Notei conceptuale și a Temei de proiectare pentru obiectivul de investiții,,Suplimentare sursa de apa la sistemul de alimentare cu apa Titesti, comuna Titesti, judet Arges” Consiliul Local al Comunei Titesti, jud. Arges, intrunit in sedinta ordinara, sedinta legal constituita , in conditiile Codului Administrativ Analizand Referatul de aprobare al primarului comunei Titesti, jude",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/2024/08/HCL-aprobare-NC-si-TP-suplimentare-apa.pdf",
+     "sha256": "235c453e8fb02a682f0a2d507c1cfd17e93258c7829b9910c0796100dd71ec8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-55-2024",
+   "path": "local/arges/titesti/2024/55",
+   "short": "HCL Țițești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 55/2024 privind aprobarea Notei conceptuale și a Temei de proiectare pentru obiectivul de investiții,, Suplimentare sursa de apa la sistemul de alimentare cu apa Bucsenesti-Lotasi , comuna Titesti, judet Arges” Consiliul Local al Comunei Titesti, jud. Arges, intrunit in sedinta ordinara, sedinta legal constituita , in conditiile Codului Administrativ Analizand Referatul de aprobare al primarului comunei T",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/2024/08/HCL-apropbare-NC-si-TP-suplimentare-Bucsenesti-Lotasi.pdf",
+     "sha256": "750c647c12b089b2eb7cce37c6cb7c1d2b037053f67dcf506aeb39da5e5ec343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-58-2024",
+   "path": "local/arges/titesti/2024/58",
+   "short": "HCL Țițești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 58/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-BUGET.pdf",
+     "sha256": "055a9d0e236c1f29395374e870e858893fb05237efaca982ad06468151b55119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-59-2024",
+   "path": "local/arges/titesti/2024/59",
+   "short": "HCL Țițești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 59/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-presedinte.pdf",
+     "sha256": "d55b24f5a7e96cfbf1abd2449bb9dc2517b681890631ecc3ad63be781eff6693"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-60-2024",
+   "path": "local/arges/titesti/2024/60",
+   "short": "HCL Țițești nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 60/2024 Privind aprobarea suplimentarii limitatoarelor de viteza in satele din comuna Titesti, judetul Arges Consiliul Local Titesti , intrunit in sedinta ordinara, Avand in vedere : - Referatul de aprobare si al inițiativei exprimate de primarul comunei Titesti în referatul de aprobare nr. 7650/21.08.2024, în calitatea sa de inițiator - Raportul de specialitate comun întocmit de secretarul general a comu",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-limitatoare-de-viteza.pdf",
+     "sha256": "0bffa471f11b595336d7200a046e1fd66f5b759cc9ed39521c3e7092d3404bf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-61-2024",
+   "path": "local/arges/titesti/2024/61",
+   "short": "HCL Țițești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 61/2024 Privind insusirea Raportului de Evaluare pentru terenul intravilan in suprafata de 139 mp, apartinand domeniului privat al comunei Titesti, situat in sat Valea Manastirii , punct ,, Poiana Marului” judetul Arges, avand numar cadastral 83193 Consiliul local al comunei Titesti , întrunit în ședința ordinară Având în vedere: -prevederile art. 555 si art. 1650 din Codul Civil - prevederile art. 354 si",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-insusire-raport-evaluare.pdf",
+     "sha256": "b6da011ec5b5e571e59871d65592e5b0d6bd64bda5c986d02cd94bf14f78b04c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-62-2024",
+   "path": "local/arges/titesti/2024/62",
+   "short": "HCL Țițești nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 62/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2c212bbae94e2dc12812b4c3d5adb2b732691b51001091a1d24aaa2d900004c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-63-2024",
+   "path": "local/arges/titesti/2024/63",
+   "short": "HCL Țițești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 63/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-apartenenta.pdf",
+     "sha256": "10ed550af2754e3372ffe221b4fabeb564834b533554e465dcb0345d5add95e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-64-2024",
+   "path": "local/arges/titesti/2024/64",
+   "short": "HCL Țițești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 64/2024 Privind aprobarea infiintarii Serviciului Public de Alimentare cu Apa si Canal Titesti , serviciu public specializat in regim de gestiune directa , cu personalitate juridica , organizat in subordinea Consiliului Local al comunei Titesti, judet Arges Consiliul local al comunei Titesti , județul Argeș, întrunit în ședință ordinară Luând act de: -Referatul de aprobare, nr. 7651 din data 21.08.2024 pe",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-infiintare-serviciu-apa.pdf",
+     "sha256": "b1f511e07a93ac3a8172191ae562fb54629b27790634370309b54c48a89bb8f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-65-2024",
+   "path": "local/arges/titesti/2024/65",
+   "short": "HCL Țițești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 65/2024 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Țițești Consiliul Local al comunei Țițești, județul Argeș, întrunit în ședință ordinară, Având în vedere : -referatul de aprobare a proiectului de hotărâre inițiat de către primarul comunei -raportul de specialitate întocmit de Secretarul general al comunei Țițești -avizele comisiilor de speci",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-Organigrama.pdf",
+     "sha256": "6aad04e61965da79b76739e6b24844578f793a91c55d0afef4acffd3e866e867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-66-2024",
+   "path": "local/arges/titesti/2024/66",
+   "short": "HCL Țițești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 66/2024 Privind aprobarea procedurii de scutire de la plata majorarilor de intaziere aferente impozitelor si taxelor locale, datorate bugetului local de catre persoanele fizice care au calitatea de contribuabili ai bugetului local de pe raza administrativ-teritoriala a comunei Titesti Consiliul Local al comunei Titesti, judet Arges, Avand in vedere : - Referatul de aprobare intocmit de primarul comunei Ti",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-scutiri-majorari.pdf",
+     "sha256": "6275664897f980fa1f164ffe02d7bacd8ef0ccff5cdaa0173fed61326dc88725"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-67-2024",
+   "path": "local/arges/titesti/2024/67",
+   "short": "HCL Țițești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 67/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "71b79949df091ff6edb175637bd1f0f49a41da35c29a0e9915aa2da7fa62b590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-68-2024",
+   "path": "local/arges/titesti/2024/68",
+   "short": "HCL Țițești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 68/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "67b12efa17b8f601d757fcc863f0262d12342045922b8c0adb8fab0ac410f7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-69-2024",
+   "path": "local/arges/titesti/2024/69",
+   "short": "HCL Țițești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 69/2024 privind acceptarea ofertei de donatie a terenului in suprafata de 602 mp , din categoria de folosinta ,,arabil”, situat in intravilanul comunei Titesti, sat Bucsenesti-Lotasi , punct ,,Bucsenesti” tarla 7, parcela 211, judet Arges, avand numar cadastral 83230 Consiliul Local Titesti, intrunit in sedinta ordinara, Având în vedere: - referatul de aprobare al primarului comunei Titesti, judetul Arges",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-acceptare-oferta-donatie.pdf",
+     "sha256": "9e3bce23d45a695c69a5b887d15e5fdbd4a6e84879a02e7ca98a62bc439e086f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-70-2024",
+   "path": "local/arges/titesti/2024/70",
+   "short": "HCL Țițești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 70/2024 Privind aprobarea documentației tehnico-economica - faza Studiu de Fezabilitate si indicatorii tehnico - economici pentru obiectivul de investitii ,,Amplasare parc fotovoltaic si imprejmuire teren pentru proiectul- productie de energie din surse regenerabile pentru comercializare in scopul combaterii saraciei energetice la nivelul comunei Titesti, judetul Arges ” Consiliul Local Țițești, județul A",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-indicatori-parc-fotovoltaic.pdf",
+     "sha256": "d86f2df4a6eaf943888f86387cd719f6ee15babfe1026acb130382078ad55e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-71-2024",
+   "path": "local/arges/titesti/2024/71",
+   "short": "HCL Țițești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 71/2024 Privind aprobarea documentației tehnico-economica - faza Studiu de Fezabilitate si indicatorii tehnico economici pentru obiectivul de investitii ,, Crearea centrului de zi de asistenta si de recuperare pentru persoanele varstnice, cu echipa mobile de ingrijire la domiciliu in comuna Titesti, judetul Arges ” Consiliul Local Țițești, județul Argeș întrunit în ședința ordinară Având în vedere: - Refe",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-indicatori-Centru-de-Zi.pdf",
+     "sha256": "dcbfbb0a10150a655aac5057b993815b3e056aa2583bc7ba5d6eb22088a60d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-72-2024",
+   "path": "local/arges/titesti/2024/72",
+   "short": "HCL Țițești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 72/2024 Privind aprobarea Studiului de Fezabilitate , a devizului general si a principalilor indicatori tehnico-economici pentru obiectivul de investitii,,Extindere sistem de distributie gaze naturale in comuna Titesti, judetul Arges” Consiliul Local Țițești, județul Argeș întrunit în ședința ordinară Avand in vedere: - referatul de aprobare al primarului comunei Titesti cu nr. 7886/28.08.2024 si raportul",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-indicatori-extindere-sistem-distributie.pdf",
+     "sha256": "09c1326567b7193fcd6782bbd24631c744789e3aa4ed2df10d8fa32bf43b406e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-73-2024",
+   "path": "local/arges/titesti/2024/73",
+   "short": "HCL Țițești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 73/2024 privind aprobarea devizului general la obiectivul de investitii ,, Suplimentare sursa de apa la sistemul de alimentare cu apa Bucsenesti Lotasi , comuna Titesti, judetul Arges” - Avizele secretarului comunei si comisiilor de specialitate nr. 1, 2, 3, din cadrul Consiliului Local Titesti,; - Prevederile art. 3, art.14 și art. 22 din Legea 500/ 2002 privind finanțele publice coroborate art. 44 alin",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-indicatori-sursa-de-apa-Bucsenesti-Lotasi.pdf",
+     "sha256": "78a41eefa312f372dc54be527dcc42df81b00f3c9e421a0496ae431b88701ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-74-2024",
+   "path": "local/arges/titesti/2024/74",
+   "short": "HCL Țițești nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 74/2024 privind aprobarea devizului general la obiectivul de investitii ,,Sursa de apa publica-stradala in satul Bucsenesti-Lotasi , comuna Titesti, judetul Arges” - Avizele secretarului comunei si comisiilor de specialitate nr. 1, 2, 3, din cadrul Consiliului Local Titesti,; - Prevederile art. 3, art.14 și art. 22 din Legea 500/ 2002 privind finanțele publice coroborate art. 44 alin 1 din Legea 273/2006",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-indicatori-sursa-apa-publica-stradala-Bucsenesti.pdf",
+     "sha256": "8b3aa0e8d5104672995ad6a04f8e3b549d831c7e54d8d61a0907b15caf7bac28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-75-2024",
+   "path": "local/arges/titesti/2024/75",
+   "short": "HCL Țițești nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 75/2024 privind aprobarea devizului general la obiectivul de investitii ,,Suplimentare sursa de apa la sistemul de alimentare cu apa Titesti, comuna Titesti, judet Arges” - Avizele secretarului comunei si comisiilor de specialitate nr. 1, 2, 3, din cadrul Consiliului Local Titesti,; - Prevederile art. 3, art.14 și art. 22 din Legea 500/ 2002 privind finanțele publice coroborate art. 44 alin 1 din Legea 27",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-indicatori-suplimentare-sursa-apa-Titesti.pdf",
+     "sha256": "04aeb5e1368b99b1e2fd6ae2211b8bc06414ad38334288039a66e5935b938dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-76-2024",
+   "path": "local/arges/titesti/2024/76",
+   "short": "HCL Țițești nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 76/2024 privind participarea la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2020-2024 cu proiectul: „Achiziționare autovehicul electric in cadrul UAT Comuna Titesti, judetul Arges” Avand in vedere: -Legea nr. 500/2002 privind finantele publice, republicata, cu modificar",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-eco-tichet-rabla.pdf",
+     "sha256": "723282520c381507676934d93345753944ce533f0a8fc20182a100d1d775e626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-78-2024",
+   "path": "local/arges/titesti/2024/78",
+   "short": "HCL Țițești nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 78/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "313c8c7319b69a8d09bdfc27c8dfb246a405d7fdd4836548f6156b0938c22131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-79-2024",
+   "path": "local/arges/titesti/2024/79",
+   "short": "HCL Țițești nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 79/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-BUGET-1.pdf",
+     "sha256": "f04de17e5b6136f302d547df6b006b877e74e235e97f5a978b3a85ca69dffac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-80-2024",
+   "path": "local/arges/titesti/2024/80",
+   "short": "HCL Țițești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 80/2024 privind aprobarea modificarii denumirii obiectivului de investitii ,, Statii de reîncarcare pentru vehicule electrice in Comuna Titesti, judetul Arges” mentionat in Hotararea Consiliului Local Titesti nr. 10 din data de 10.02.2022 , in ,,Statii de reîncărcare vehicule electrice in comuna Titesti, judetul Arges” -1 statie reîncărcare Consiliul Local al comunei Titesti județul Argeș, întrunit în șed",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-modificare-denumire-obiectiv.pdf",
+     "sha256": "f761cf4f0a4f0180404e0b6df3f15c8e44df353959b3cdb839087453b273a451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-82-2024",
+   "path": "local/arges/titesti/2024/82",
+   "short": "HCL Țițești nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 82/2024 Privind actualizarea nomenclatorului stradal la nivelul comunei Titesti , județul Arges Consiliul Local al comunei Titesti , întrunit în ședința extraordinară , convocata de indata Având în vedere : - raportul inregistrat cu nr. 9209/02.10.2024, intocmit de secretarul comunei Titesti, judetul Arges cu privire la necesitatea actualizarii informatiilor din Hotararea Consiliului Local Titesti nr. 46/",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-nomenclator-stradal.pdf",
+     "sha256": "53c3180e73911a68bd7979f5ca5c999ff20bdff9a13365aeb7eedbcd99be7974"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-86-2024",
+   "path": "local/arges/titesti/2024/86",
+   "short": "HCL Țițești nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 86/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9bd4690acb587115db53ee6a31e2643017ffad07437ce41b0a1005908cb8a550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-87-2024",
+   "path": "local/arges/titesti/2024/87",
+   "short": "HCL Țițești nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 87/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-BUGET-2.pdf",
+     "sha256": "4fcd5d7ddba497367250a528f3d50c443ecd9473bac2351f0b69e1988d21131f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-88-2024",
+   "path": "local/arges/titesti/2024/88",
+   "short": "HCL Țițești nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 88/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6d79f80a83704af6ea6a45861318f6eca9665e681e868df0e940f3d8915f9b30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-89-2024",
+   "path": "local/arges/titesti/2024/89",
+   "short": "HCL Țițești nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 89/2024 Privind aprobarea documentației tehnico-economica - faza Proiectul Tehnic si indicatorii tehnico - economici pentru obiectivul de investitii ,,Amplasare parc fotovoltaic si imprejmuire teren pentru proiectul- productie de energie din surse regenerabile pentru comercializare in scopul combaterii saraciei energetice la nivelul comunei Titesti, judetul Arges ” Consiliul Local Țițești, județul Argeș î",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-aprobare-PT-indicatoro-amplasare-parc-fotovoltaic.pdf",
+     "sha256": "6dda81b8053e1ac5e6e36dea95e009068cdb9c0306aaf77347c23803064ab7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-90-2024",
+   "path": "local/arges/titesti/2024/90",
+   "short": "HCL Țițești nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 90/2024 privind aprobarea participarii , achizitiei si cofinantarii de 2% a Comunei Titesti, la Programul PRSM/473/PRSM_P1/OPI/RS01.2/PRSM_A38-,,Valorificarea avantajelor digitalizarii , in beneficiul cetatenilor ,al organizatiilor de cercetare si al autoritatilor publice, prin investitii in dezvoltarea infrastructurii , serviciilor si echipamentelor IT relevante si necesare” Consiliul Local al comunei Ti",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-digitalizare.pdf",
+     "sha256": "08be5aebe27815cd069205a5a5bda8cb997bf8feec7fb9863269f94592931655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-91-2024",
+   "path": "local/arges/titesti/2024/91",
+   "short": "HCL Țițești nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 91/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ,, Extindere sistem de distributie gaze natural in Comuna Titesti, judetul Arges “ aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului Consiliul Local al comunei Țițești",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-APROBARE-INDICATORI-EXTINDERE-RETEA-GAZA.pdf",
+     "sha256": "5426ecdd8523559519c9b59eb675b1bdb5e9847a626158467e2e9ff765287485"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-92-2024",
+   "path": "local/arges/titesti/2024/92",
+   "short": "HCL Țițești nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 92/2024 privind aprobarea indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general actualizat , dupa procedura de achizitie pentru obiectivul de investiții ,, Sistem centralizat de canalizare etapa III in comuna Titesti, judetul Arges”aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de chel",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-aprobare-indicatori-canalizare-etapa-III.pdf",
+     "sha256": "1e1597c46a0a39fd21c69a89a8a5d9bd75fc4009ba02f457dbb88a92650c2fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-93-2024",
+   "path": "local/arges/titesti/2024/93",
+   "short": "HCL Țițești nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 93/2024 privind aprobarea Devizului General actualizat in faza PTE a obiectivului de investitii ,, Crearea centrului de zi de asistenta si de recuperare pentru persoanele varstnice cu echipa mobile de ingrijire la domiciliu din comuna Titesti, judetul Arges” Consiliul local al Comunei Țițești, Județul Argeș, întrunit în ședință extraordinară convocata de indata in data de 31.10.2024 Având în vedere: - Ref",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-aprobare-deviz-general-Centru-de-Zi.pdf",
+     "sha256": "07d492df96925dba4e9881cf486508ac03f3616f695bc6bc5026f2da3bd76ffc"
     }
    ]
   }

@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/bacau/gioseni/2025",
+"acts": [
+{
+"slug": "hcl-bacau--gioseni-53-2025",
+"path": "local/bacau/gioseni/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 53/2025",
+"short": "HCL Gioseni nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=7",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-69-2025",
+"path": "local/bacau/gioseni/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 69/2025 privind însușirea Contractului de administrare nr. 2760 din 02.10.2025 încheiat între Parohia Romano-Catolică Gioseni și UAT Comuna Gioseni CONSILIULUI LOCAL AL COMUNEI GIOSENI, JUDEȚUL BACĂU, întrunit în ședința ordinară în data 16.10.2025:",
+"short": "HCL Gioseni nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-16",
+"latest": "2025-10-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=6",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-86-2025",
+"path": "local/bacau/gioseni/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 86/2025 privind modificarea Anexei nr. 1din HCL ul nr. 81 din data de 19.11.2024 privind aprobarea documentației tehnico-economice – faza Studiu de Fezabilitate/ DALI și a indicatorilor tehnico- economici pentru obiectivul de investiții „Creșterea efecienței energetice a infrastructurii de iluminat public în Comuna Gioseni, Județul Bacău” CONSILIULUI LOCAL AL COMUNEI GIOSENI, JUDEȚUL BACĂU, întrunit în ședința extraordinară de îndată : 09.12.2025:",
+"short": "HCL Gioseni nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=4",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -583,6 +583,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-27-2023",
+"path": "local/bacau/rachitoasa/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 27/2023 privind stabilirea nomenclatorului functiilor si a coeficientilor de ierarhizare pentru functiile publice si functiile contractuale din cadrul aparatului de specialitate al Primarului Răchitoasa , precum si stabilirea indemnizatiei consilierilor locali din cadrul Consiliului Local Răchitoasa, judetul Bacau, ȋncepând cu data prezentei, conform Legii 153/2017 privind salarizarea personalului plătit din fonduri publice si OUG nr. 57/2019 privind Codul administrativ, actualizata, cu modificarile si completarile ulterioare",
+"short": "HCL Răchitoasa nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-14",
+"latest": "2023-06-14",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/108919",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-28-2023",
 "path": "local/bacau/rachitoasa/2023/28",
 "kind": "local",

@@ -3,6 +3,96 @@
  "shard": "local/bacau/comanesti/2022",
  "acts": [
   {
+   "slug": "hcl-bacau--comanesti-112-2022",
+   "path": "local/bacau/comanesti/2022/112",
+   "short": "HCL Comănești nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 112/2022 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului orașului Comănești și al serviciilor publice subordonate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2022/hcl-112-14.06.2022.pdf",
+     "sha256": "0c21efb9696f1ae2dcb73b37e5f878c07c16593bf5c77794317381935904c3f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-158-2022",
+   "path": "local/bacau/comanesti/2022/158",
+   "short": "HCL Comănești nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 158/2022 privind modificarea statului de funcții al aparatului de specialitate al Primarului Orașului Comănești și al serviciilor publice subordonate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2022/hcl-158-29.09.2022.pdf",
+     "sha256": "0e5db4700b2b834b16d8904b012a8652dd1060f0425ba9eaa6f43dab562183b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-160-2022",
+   "path": "local/bacau/comanesti/2022/160",
+   "short": "HCL Comănești nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 160/2022 privind darea în administrare a unor bunuri mobile către Școala Gimnaziala \"LIVIU REBREANU\" Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2022/hcl-160-29.09.2022.pdf",
+     "sha256": "4932cb2aaee88652f8c95bde669eefd9857f5e1f4354eccff6a038fbc61296f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-209-2022",
+   "path": "local/bacau/comanesti/2022/209",
+   "short": "HCL Comănești nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 209/2022 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului Orașului Comănești și al serviciilor publice subordonate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2022/hcl-209-28.11.2022.pdf",
+     "sha256": "7f64be61efdedcf4be4b1770918169abaeb9c9f4ec244875cde57f0234476ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-25-2022",
+   "path": "local/bacau/comanesti/2022/25",
+   "short": "HCL Comănești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 25/2022 privind aprobarea Organigramei și a Statului de funcții al Primarului Orașului Comănești și al serviciilor publice subordonate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2022/hcl-025-10.02.2022.pdf",
+     "sha256": "67bce4188eabe99c5894736dd7011fa7d5dea7b4e296a8375655e5edd6cfa073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-48-2022",
+   "path": "local/bacau/comanesti/2022/48",
+   "short": "HCL Comănești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 48/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2022/hcl-048-25.03.2022.pdf",
+     "sha256": "16af0d20635bac5b53710b18ceb67d5a945deda732b5c0ad6a3413ba55872229"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-50-2022",
    "path": "local/bacau/comanesti/2022/50",
    "short": "HCL Comănești nr. 50/2022",

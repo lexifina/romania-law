@@ -3,6 +3,29 @@
 "shard": "local/bacau/corbasca/2020",
 "acts": [
 {
+"slug": "hcl-bacau--corbasca-1-2020",
+"path": "local/bacau/corbasca/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 1/2020",
+"short": "HCL Corbasca nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/871",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-2-2020",
 "path": "local/bacau/corbasca/2020/2",
 "kind": "local",
@@ -180,6 +203,29 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-10-2020",
+"path": "local/bacau/corbasca/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 10/2020",
+"short": "HCL Corbasca nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/880",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-11-2020",
 "path": "local/bacau/corbasca/2020/11",
 "kind": "local",
@@ -222,6 +268,51 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-13-2020",
+"path": "local/bacau/corbasca/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 13/2020",
+"short": "HCL Corbasca nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/883",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-14-2020",
+"path": "local/bacau/corbasca/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 14/2020 privind conferirea titlului de- CETATEAN DE ONOARE-post mortem al comunei Corbasca-Parintelui Calistrat Ifrim",
+"short": "HCL Corbasca nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/884",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -288,6 +379,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-18-2020",
+"path": "local/bacau/corbasca/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 18/2020 privind aprobarea taxei anuale datorate Asociatiei comunelor din Romania-pentru anul 2020",
+"short": "HCL Corbasca nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/890",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -398,6 +511,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-24-2020",
+"path": "local/bacau/corbasca/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 24/2020 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -II-2020",
+"short": "HCL Corbasca nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/2644",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -574,6 +709,50 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-33-2020",
+"path": "local/bacau/corbasca/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 33/2020 privind acordarea unui sprijin financiar din bugetul local,Parohiei Scarisoara,comuna Corbasca,cu hramul \"Sf.NICOLAE\"",
+"short": "HCL Corbasca nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/2694",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-34-2020",
+"path": "local/bacau/corbasca/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 34/2020 privind privind acordarea unui sprijin financiar, din bugetul local al comunei,Parohiei ortodoxe, cu hramul‘’Sf.arh.Mihail si Gavril’’din_Sat.Valcele_,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/2695",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -797,6 +976,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-45-2020",
+"path": "local/bacau/corbasca/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 45/2020 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -III-2020",
+"short": "HCL Corbasca nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/7288",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-46-2020",
 "path": "local/bacau/corbasca/2020/46",
 "kind": "local",
@@ -860,6 +1061,50 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-49-2020",
+"path": "local/bacau/corbasca/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 49/2020 privind acordarea unui sprijin financiar, din bugetul local al comunei, Parohiei ortodoxe_Sat.CORBASCA_ cu hramul‘’Sf.arh.MIHAIL si GAVRIL’’",
+"short": "HCL Corbasca nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/7292",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-50-2020",
+"path": "local/bacau/corbasca/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 50/2020 privind privind acordarea unui sprijin financiar, din bugetul local al comunei,Manastirii ortodoxe,cu hramul‘’Buna Vestire’’ din_Sat.POGLET_,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/7293",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

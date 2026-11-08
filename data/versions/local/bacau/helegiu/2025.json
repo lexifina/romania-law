@@ -3,6 +3,141 @@
  "shard": "local/bacau/helegiu/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--helegiu-1-2025",
+   "path": "local/bacau/helegiu/2025/1",
+   "short": "HCL Helegiu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 1/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7c53a485511dfa1a43fe6baa4e0c6e2064459563ce957a0c525ae19894441eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-10-2025",
+   "path": "local/bacau/helegiu/2025/10",
+   "short": "HCL Helegiu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 10/2025 Nr.10/28.01.2025 privind modificarea Hotararii Consiliului Local Helegiu nr.54/12.12.2022 privind aprobarea si servitutii de trecere si accesul pe teritoriul comunei Helegiu a autovehiculelor necesare implementarii si functionarii Centralei electrice eoliane Onesti de 85 MW",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/Hcl-nr.-10-din-28.01.2025-modificare-HCl-nr.54-din-12.12-2022.pdf",
+     "sha256": "7a17f674f3f98118553b9b4a08f3fd4421a4dfda2b2be409f9566fc768a12f82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-11-2025",
+   "path": "local/bacau/helegiu/2025/11",
+   "short": "HCL Helegiu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 11/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "73a26c5c06f982fe85f364e3c6a758af852c0049af218eee94e46b8fc362a84d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-12-2025",
+   "path": "local/bacau/helegiu/2025/12",
+   "short": "HCL Helegiu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 12/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "53da51b59f7e95a83d235f503b81391995268eaf26e2d5a02fcc8e65b4ce9244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-15-2025",
+   "path": "local/bacau/helegiu/2025/15",
+   "short": "HCL Helegiu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 15/2025 Nr.15/18.02.2025 privind completarea HCL nr. 46/19.11.2024 privind acrodarea dreptului de uz si servitute de trecere auto si pietonal cat si dreptul de uz si servitute subterana pentru montarea retelei electrice de medie tensiune pe drumurile de exploatare apartinand domeniului privat al comunei Helegiu pentru realizarea proiectului Centrala electrica eoliana Onesti de 85 MW si racord la statia electrica Borzesti, modificata prin HCL nr. 3/09.01.2025",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/HCL-nr.1-5-completarea-HCL-nr.-46-din-19.11.2024.pdf",
+     "sha256": "5d2a65973f241941d50565d7b9eca79cdd361c60913f573936577868e0166b47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-16-2025",
+   "path": "local/bacau/helegiu/2025/16",
+   "short": "HCL Helegiu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 16/2025 Privind aprobarea contului de executie al bugetului local al Comunei Helegiu si al institutiilor si serviciilor publice finantate integral din venituri proprii si subventii la 31.12.2024",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/HCL-nr.1-6-din-18.02.2025-aprobare-cont-executie-la-31.12.2024.pdf",
+     "sha256": "409564df97f29379a3a2b60173db8d76d15720d7624902f67e455441b5e57710"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-18-2025",
+   "path": "local/bacau/helegiu/2025/18",
+   "short": "HCL Helegiu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 18/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4e9240f6847b60434e68671271ce002696cb534ca3d3c5536491225a055978be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-19-2025",
+   "path": "local/bacau/helegiu/2025/19",
+   "short": "HCL Helegiu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 19/2025 Privind aprobarea utilizării excedentului bugetului local, rezultat la încheierea exerciţiului bugetar al anului 2024",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/Hotarare-nr.19-din-06.03.2025-aprobare-utilizare-excedent.pdf",
+     "sha256": "919e229c0e678630f3e03486b6f9bb9af9f4dbf6c06310add43989d2050249c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-2-2025",
+   "path": "local/bacau/helegiu/2025/2",
+   "short": "HCL Helegiu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 2/2025 Privind modificarea Hotărârii Consiliului Local Helegiu 57/23.11.2023 privind acordarea unui drept de servitute aerian la rotirea palelor turbine și a unui drept de servitute de suprafață pentru proiecția palelor pe sol în favoarea S.C",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCL-nr.-2-din-09.01.2025-modificare-HCl-57-din-23.11.2023.pdf",
+     "sha256": "baa3f46373ce3d398328566b162e51563522acb5e3e158a8ef731de9ac0187c4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--helegiu-20-2025",
    "path": "local/bacau/helegiu/2025/20",
    "short": "HCL Helegiu nr. 20/2025",
@@ -33,6 +168,81 @@
    ]
   },
   {
+   "slug": "hcl-bacau--helegiu-23-2025",
+   "path": "local/bacau/helegiu/2025/23",
+   "short": "HCL Helegiu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 23/2025 privind instituirea Programului național „Masă sănătoasă” in anul 2025; - Prevederile art.2, alin.(2), art.7, alin. (2) și art.113, alin. (12) din Legea nr. 98/2016 privind achizițiile publice, cu modificările și completările ulterioare; - Prevederile Hotărârii Guvernului nr. 80 din 24 februarie 2025, privind repartizarea pe unități/subdiviziuni administrativ-teritoriale și pe unități de învățămân",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/Hotarare-nr.23-din-27.03.2025-aprobarea-tipului-de-suport-alimentar-acordat-prescolarilor-si-elevilor-Scolii-Gimnaziale-Helegiu-comuna-Helegiu-in-cadrul-programului-Masa-sanatoasa-anul-2025.pdf",
+     "sha256": "c0ac799cbf730c803de99946d0eb0497ee359291a7986f0569c7c9e9e2d07c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-24-2025",
+   "path": "local/bacau/helegiu/2025/24",
+   "short": "HCL Helegiu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 24/2025 Privind aprobarea achiziționarea unui teren în suprafață de 2360 mp situat în extravilanul satului Deleni , înscris în CF 61938, numar cadstral 61938, în vederea suplimentarii sursei de apă în satul Dragugesti si Deleni, comuna Helegiu",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/Hotarare-nr-.-24-din-27.03-achizitionare-teren-extravilan-in-suprafata-de-2360-mp.pdf",
+     "sha256": "5748b289c9b536595405cad5202b7b8ac8dbf1ad47ea2f4f5483264b30993d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-25-2025",
+   "path": "local/bacau/helegiu/2025/25",
+   "short": "HCL Helegiu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 25/2025 Privind insusirea documentatiei tehnice cadastrale pentru prima inscrierea in Cartea Funciara, asupra imobilului – drum – Str",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/Hotarare-nr.25-din-27.03.2025-privindinsusire-documentatiei-tehnice-cadastrale-de-prima-inscriere-in-cartea-funciara-pentru-strada-Paraul-Nechitei-1.pdf",
+     "sha256": "6ac45b41b373910ea5e6f75032c54b20992ff777d0765778356ff670ace725f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-26-2025",
+   "path": "local/bacau/helegiu/2025/26",
+   "short": "HCL Helegiu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 26/2025 Privind trecerea din domeniul privat al comunei Helegiu în domeniul public al comunei Helegiu a unor imobile si aprobarea documentatiei tehnice cadastrale de prima inmatriculare in Cartea funciara",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/Hotarare-nr.26-din-27.03.2025-privind-trecere-din-domeniul-privat-in-domiul-public-si-aprobarea-documenattiei-de-prima-inscriere-in-cartea-funciara.pdf",
+     "sha256": "1fbad4c14f0d4816a73e93bf847ebd5f290deadc05616f5b8ad09ec870ecc514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-27-2025",
+   "path": "local/bacau/helegiu/2025/27",
+   "short": "HCL Helegiu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 27/2025 Privind aprobarea bugetului Comunei Helegiu pentru anul 2025 si a listei obiectivelor de investitii",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/03/hotarare-nr.-27-din-27.03.2025-aprobare-buget-2025-si-lista-de-investitii.pdf",
+     "sha256": "1ebeef242b6f6c94c98fbe1f64823511a02a8705550c1a20a24752264429b312"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--helegiu-28-2025",
    "path": "local/bacau/helegiu/2025/28",
    "short": "HCL Helegiu nr. 28/2025",
@@ -44,6 +254,126 @@
      "units": 1,
      "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/HOTARARE-nr.28-indexare-impozite-si-taxe-pentru-anul-2026.pdf",
      "sha256": "57c6b4220f941b59a5c6442f56a5525db6998b9a163ebaf81fcbb6cba8a3fcc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-29-2025",
+   "path": "local/bacau/helegiu/2025/29",
+   "short": "HCL Helegiu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 29/2025 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/HOTARARE-nr.-29-privind-alegerea-presedintelui-de-sedinta-1.pdf",
+     "sha256": "69ceacef6d8c88791cb0d675b50346771bc241bc39c4386ff49b54c2a8d3f7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-3-2025",
+   "path": "local/bacau/helegiu/2025/3",
+   "short": "HCL Helegiu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 3/2025 privind modificarea Hotararii Consiliului Local Helegiu 46/19.11.2024 privind acrodarea dreptului de uz si servitute de trecere auto si pietonal cat si dreptul de uz si servitute subterana pentru montarea retelei electrice de medie tensiune pe drumurile de exploatare apartinand domeniului privat al",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCL-nr.3-din-09.01.2025-modificare-HCL-nr.-46-din-19.11.2024.pdf",
+     "sha256": "2f97f1d769146e204dc3287008fa6c1bc86ad4fef26234ffe6dace7c698f13b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-30-2025",
+   "path": "local/bacau/helegiu/2025/30",
+   "short": "HCL Helegiu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 30/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cfa0f5dbc113dc5c1996cbc04992c4edd3f5bb3ba5aefeedab7dfdef339ed7a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-31-2025",
+   "path": "local/bacau/helegiu/2025/31",
+   "short": "HCL Helegiu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 31/2025 Privind aprobarea cotizaţiei anuale la patrimoniul „Asociaţiei de Dezvoltare Intercomunitară pentru Salubrizare Bacău”",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/HOTARARE-nr.-31-aprobare-cotizatie-anuale-la-patrimoniul-ADIS-2025.pdf",
+     "sha256": "a615fa4f9cda01b011d682c5b8a31e0aab1cdac179cd9429d220da1d8503921a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-33-2025",
+   "path": "local/bacau/helegiu/2025/33",
+   "short": "HCL Helegiu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 33/2025 Privind atestarea apartenenței la domeniul privat al comunei Helegiu a suprafeței de teren de 27632 mp teren intravilan si extravilan, si cladire de 80 mp în vederea înscrierii în evidențele de cadastru și publicitate imobiliară",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/HOTARARE-NR.-33-atestare-domeniul-privat-teren-si-constructie-si-insusire-documentatiei-tehnice-cadastrale-de-prima-inscriere-in-CF.pdf",
+     "sha256": "59793eaaa08b8ce46337865bf896e7320b86f55b68b39b6a4064dedd7d500b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-34-2025",
+   "path": "local/bacau/helegiu/2025/34",
+   "short": "HCL Helegiu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 34/2025 Privind aprobarea cotizaţiei pentru anul 2025 la patrimoniul „Asociaţiei de Dezvoltare Intercomunitară Bacău”",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/Hotarare-34-din-28.05.2025-aprobare-cotizatie-la-patrimoniul-ADIB.pdf",
+     "sha256": "72d961cd2af98aaf018946350a7aafe26f3bc6a5cffb6d53211b079b056a1272"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-35-2025",
+   "path": "local/bacau/helegiu/2025/35",
+   "short": "HCL Helegiu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 35/2025 Privind modificarea si completarea organigramei şi statului de funcţii pentru aparatul de specialitate al primarului, structurilor/ serviciilor publice din subordinea Consiliului local Helegiu",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/Hotarare-35-din-28.05.2025-aprobare-organigrama-si-stat-de-functii-aparat-de-specialitate-primar-comuna-Helegiu.pdf",
+     "sha256": "899e69f8443dee11e212f461c445f1ff5ac251d9c5af00407ebfc58fe01bb587"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-37-2025",
+   "path": "local/bacau/helegiu/2025/37",
+   "short": "HCL Helegiu nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 37/2025 Privind aprobarea participării Comunei Helegiu la Programul Rabla Plus 2025 și achiziționarea unui numar de patru autoturisme electrice sau plug-in hibrid",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/Hotarare-nr.-37-din-28.05.2025-aprobare-participare-la-programul-Rabla-Plus-2025-si-achizitionare-patru-masini-electrice.pdf",
+     "sha256": "a1e470deeaa7ff77147123a4e01bbd39171ac596071b2c2d584897f1a9f65b27"
     }
    ]
   },
@@ -63,6 +393,81 @@
    ]
   },
   {
+   "slug": "hcl-bacau--helegiu-39-2025",
+   "path": "local/bacau/helegiu/2025/39",
+   "short": "HCL Helegiu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 39/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/Hotarare-39-din-28.05.2025-de-respingere-a-cererii-de-ajustare-a-tarifelor-formulata-de-catre-SC-ECOSUD-1.pdf",
+     "sha256": "40be73f6afa125f561e4c72a42ff7a2ef13442a7ba5d16fa5d24beeab3964e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-4-2025",
+   "path": "local/bacau/helegiu/2025/4",
+   "short": "HCL Helegiu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 4/2025 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCL-nr.4-din-28.01.2025-alegere-presedinte-d-sedinta.pdf",
+     "sha256": "609399c2f4a326050f7c1d74835be7302716141d0fb513916306527ed1519af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-40-2025",
+   "path": "local/bacau/helegiu/2025/40",
+   "short": "HCL Helegiu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 40/2025 Privind alocarea unor fonduri din bugetul local pentru organizarea evenimentului ‘’Ziua Copilului’’",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/Hotarare-nr.-40-din-28.05.2025-privind-alocarea-unor-fonduri-din-bugetul-local-pentru-organizarea-evenimentului-%E2%80%98Ziua-Copilului-1.pdf",
+     "sha256": "e9b36c9dbcb6e419c1b2d3d8db9e501f12932007c176698d646ebe499d1b3155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-41-2025",
+   "path": "local/bacau/helegiu/2025/41",
+   "short": "HCL Helegiu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 41/2025 Privind modificarea Hotararii Consiliului Local Helegiu 26/27.03.2025 privind trecerea din domeniul privat al comunei Helegiu în domeniul public al comunei Helegiu a unor imobile si aprobarea documentatia cadastrale de prima inscriere",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/06/Hotarare-nr.-41din-28.05.2025-privind-modificarea-Hotararii-Consiliului-Local-Helegiu-26-din27.03-1.pdf",
+     "sha256": "ee1b9918a89e11030d06a1762628b37e2828b06604a6e4e9168a0ebace76bf34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-42-2025",
+   "path": "local/bacau/helegiu/2025/42",
+   "short": "HCL Helegiu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 42/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a023e1c295d3dccbe2a45366d1ce9b31811aea81fc799ec825c5161e7e243932"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--helegiu-43-2025",
    "path": "local/bacau/helegiu/2025/43",
    "short": "HCL Helegiu nr. 43/2025",
@@ -74,6 +479,171 @@
      "units": 4,
      "source_url": "https://helegiu.ro/wp-content/uploads/2025/07/Hotarare-nr-43-din-30.06.2025-privind-modificarea-privind-modificarea-si-completarea-Anexei-nr.1-la-HCL-17-din-26.03.2020-1.pdf",
      "sha256": "e2cda9c0865880be6a52340c41507251100e1914a76da63a19e09e5b09a5c916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-44-2025",
+   "path": "local/bacau/helegiu/2025/44",
+   "short": "HCL Helegiu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 44/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e79c1fe5b7dc9283987d9fd9b35287fa8bb03a7cabcd9c391b8235f1bdb953d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-45-2025",
+   "path": "local/bacau/helegiu/2025/45",
+   "short": "HCL Helegiu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 45/2025 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/08/Hotarare-nr.45-din-28.07.2025-alegere-presedinte-de-sedinta.pdf",
+     "sha256": "14db33201da865d0640fe3a0b99c72359566d52073272b159ac91cc8e6456fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-46-2025",
+   "path": "local/bacau/helegiu/2025/46",
+   "short": "HCL Helegiu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 46/2025 Privind analiza stadiului de inscriere a datelor in Registrul Agricol pentru semestrul I 2025 si stabilirea programului de masuri pentru eficientizarea acestei activitati",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/08/Hotarare-nr.-46-din-28.07.2025-analiza-datelor-inscrise-in-registrul-agricol-Sem-I-2025.pdf",
+     "sha256": "bdb3491aa9b30b12a2a1404c7eaf0513789b0734933b05aa24a30b88e6d73330"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-47-2025",
+   "path": "local/bacau/helegiu/2025/47",
+   "short": "HCL Helegiu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 47/2025 Privind modificarea listei de investitii pe anul 2025 si rectificarea bugetului comunei Helegiu pentru anul 2025",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/08/Hotarare-nr.-47-din-28.07.2025-modificare-lista-de-investitii-si-rectificare-buget-comuna-Helegiu.pdf",
+     "sha256": "742d08ab6795e2c88de1a9c15f033d57be40f7338d6e85a0f7699cac50fee9be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-48-2025",
+   "path": "local/bacau/helegiu/2025/48",
+   "short": "HCL Helegiu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 48/2025 Privind aprobarea alocării de la bugetul local a unui sprijin financiar Parohiilor de pe raza comunei Helegiu",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/10/Hotarare-48-din-27.08.2025-privind-aprobarea-alocarii-de-la-bugetul-local-a-unui-sprijin-financiar-parohiilor-de-pe-raza-comunei-Helegiu-1.pdf",
+     "sha256": "f29e17bc5b0bcda9fdc17738ab2ce17ea6850b62ef55139808b453259fc730d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-49-2025",
+   "path": "local/bacau/helegiu/2025/49",
+   "short": "HCL Helegiu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 49/2025 Privind aprobarea Regulamentului de organizare și funcționare a Căminelor Culturale din comuna Helegiu, judetul Bacau",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/10/Hotarare-49-din-27.08.2025-aprobare-Regulament-de-Organizare-si-Functionare-a-Caminelor-Culturale-de-pe-raza-comunei-Helegiu-1.pdf",
+     "sha256": "3ca600691a394b97a69146e71b4d8b6f3e2aef88bc1e7dedb206d7446decc39c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-5-2025",
+   "path": "local/bacau/helegiu/2025/5",
+   "short": "HCL Helegiu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 5/2025 Privind aprobarea programului de audiențe pentru membrii Consiliului local al comunei Helegiu, județul Bacau",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCL-nr.-5-din-28.-01.2025-program-audiente-consilieri.pdf",
+     "sha256": "01c9a2cb8dc717f4cf7446d692a355d8d6110f73313bd2cdeea7009a8cbd818d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-50-2025",
+   "path": "local/bacau/helegiu/2025/50",
+   "short": "HCL Helegiu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "66154ad44f71367f0621561c7a311c7140274c059b74c5eaff965d014b80ca95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-51-2025",
+   "path": "local/bacau/helegiu/2025/51",
+   "short": "HCL Helegiu nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 51/2025 Privind aprobarea contului de executie al bugetului Comunei Helegiu si al institutiilor si serviciilor publice finantate integral din venituri proprii si subventii la 30.06.2025",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/10/Hotarare-nr.-51-din-27.08.2025-aprobare-cont-executie-bugetara-la-30.06.2025-1.pdf",
+     "sha256": "714d54abbb717ee94e9a4ebe76f74bfe82eeedf914c1a24ab38a4d3b20129c3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-52-2025",
+   "path": "local/bacau/helegiu/2025/52",
+   "short": "HCL Helegiu nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 52/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/10/Hotarare-nr.52-din-27.08.2025-de-respingere-a-solicitarii-de-modificare-a-tarifelor-propuse-de-SC-ECO-SUD-4.pdf",
+     "sha256": "2a3d387b58e2e78a29887f3581f338d0f746468a5a2f4394822bc37a84697f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-55-2025",
+   "path": "local/bacau/helegiu/2025/55",
+   "short": "HCL Helegiu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 55/2025 Privind desemnarea reprezentantilor Consiliului local al comunei Helegiu in Consiliul de Administratie al Scolii Gimnaziale Helegiu pentru anul scolar 2025-2026",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/10/Hotarare-55-din-24.09.2025-desemnare-reprezentant-Conliliul-Local-Helegiu-in-Consiliul-de-Administratie-al-scolii-gimnaziale-Helegiu.pdf",
+     "sha256": "6fb9e2367912b2d8e5d758bced043f53e2e1ed939534f29dd93712427b949e67"
     }
    ]
   },
@@ -93,6 +663,246 @@
    ]
   },
   {
+   "slug": "hcl-bacau--helegiu-57-2025",
+   "path": "local/bacau/helegiu/2025/57",
+   "short": "HCL Helegiu nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 57/2025 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/11/Hotarare-nr-57-din-29.10.2025-alegere-presedinte-de-sedinta-2.pdf",
+     "sha256": "73db21b797ab8c0d656c34aa4c66bc6926d68bed5b0d75ca4c6d1f82867e3e25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-58-2025",
+   "path": "local/bacau/helegiu/2025/58",
+   "short": "HCL Helegiu nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 58/2025 Nr. 58/29.10.2025 privind revocarea Hotararii Consiliului local Helegiu nr. 9/ 16.02.2024 privind modificarea denumirii investiției „Înființare sistem inteligent de distribuție gaze naturale în satele Helegiu, Brătila, Deleni și Drăgugești, aparținătoare comunei Helegiu, județul Bacău” în „Înființare sistem inteligent de distribuție gaze naturale în comuna Helegiu, județul Bacău”",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/11/Hotarare-nr.-58-din-29.10.2025-privind-revocare-HCL-nr-.9-din-16.02.2024.pdf",
+     "sha256": "3bf84895b0d4da539125a2934dd1267926b5898590c8e0ff5d423560385e3b43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-59-2025",
+   "path": "local/bacau/helegiu/2025/59",
+   "short": "HCL Helegiu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 59/2025 Privind rectificarea bugetului local al comunei Helegiu pentru anul 2025 si suplimentarea listei de investitii",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/11/Hotarare-nr.-59-din-29.10.2025-rectificare-buget-si-suplimentare-lista-investitii.pdf",
+     "sha256": "a87b5d9a8dc0b43beff7c32d5cf57d21a09c980a5d073580d77fa2d7faedd899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-6-2025",
+   "path": "local/bacau/helegiu/2025/6",
+   "short": "HCL Helegiu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 6/2025 Pentru aprobarea Programul de masuri pentru buna gospodarire, intretinere, curatenie si infrumusetare a comunei Helegiu in anul 2025",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCL-nr.-6-sin-28.01.202aprobare-Program-gospodarirea-intretinerea-curatenia-si-infrumusetarea-comunei-Helegiu-in-2025.pdf",
+     "sha256": "e13eece4a745bd74346e2409c9a19b0162522b1ff7e14e7137b56d1b1ef50284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-60-2025",
+   "path": "local/bacau/helegiu/2025/60",
+   "short": "HCL Helegiu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 60/2025 Privind aprobarea Regulamentului de organizare şi funcţionare al Compartimentului de asistenţă socială organizat la nivelul comunei Helegiu , județul Bacau",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/11/Hotarare-nr.-60-din-29.10.2025-aprobare-Regulament-Compartiment-Asistenta-Sociala.pdf",
+     "sha256": "ff7201c051a2551391c8fc6c1b8504f1001bd36297caace182985bb749d190ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-61-2025",
+   "path": "local/bacau/helegiu/2025/61",
+   "short": "HCL Helegiu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 61/2025 Privind aprobarea înfiintarii Serviciului social fara personalitate juridica „Servicii de asistenta comunitara in Comuna Helegiu”",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/11/Hotarare-nr.-61-din-29.10.2025-infiintare-serviciul-social-Servicii-de-asistenta-comunitara-in-comuna-Helegiu.pdf",
+     "sha256": "9620700650c889e2b8810dd44fe32065700bbb4165f091fa9178dfcc9ede33f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-62-2025",
+   "path": "local/bacau/helegiu/2025/62",
+   "short": "HCL Helegiu nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 62/2025 Privind strategia de dezvoltare a serviciilor sociale acordate la nivelul comunei Helegiu, judeţul Bacau, pentru perioada 2025 -2035",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Helegiu-nr.-62-din-27.11.2025-aprobare-Strategia-de-dezvoltare-servicii-sociale.pdf",
+     "sha256": "ee74b13b9a50caa80a43ff70a5e6148866fb95eabb8a3a4913fb34475a895042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-63-2025",
+   "path": "local/bacau/helegiu/2025/63",
+   "short": "HCL Helegiu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 63/2025 Privind aprobarea modificărilor și completărilor Regulamentului Serviciului Public de Salubrizare al unităților administrativ- teritoriale din județul Bacău, membre ale Asociației de Dezvoltare Intercomunitară pentru Salubrizare Bacău, la Contractul de Delegare a gestiunii serviciului de salubrizare",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-63-din-18.11.2025-aprobare-contract-de-uz-si-servitute-catre-Borzesti-Wind.pdf",
+     "sha256": "afbce67e37014e82caccabe32e27881eaf32f9c0d78bc7db5218d1bef7adc218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-64-2025",
+   "path": "local/bacau/helegiu/2025/64",
+   "short": "HCL Helegiu nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 64/2025 Privind stabilirea componenței echipei mobile,pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-nr.-64-din-27.11.2025-stabilire-componenta-echipa-mobila-pentru-interventie-in-cazurile-violenta-domestica.pdf",
+     "sha256": "f5a4aad38091877db25c3357d71d00e2e25aa8dd4b645b21627af453b3e78bd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-65-2025",
+   "path": "local/bacau/helegiu/2025/65",
+   "short": "HCL Helegiu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 65/2025 Privind rectificarea bugetului local al comunei Helegiu pentru anul 2025 si modificarea listei de investitii",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-nr-65-din-27.11.2025-rectificare-buget-comunei-Helegiu-si-modificarea-listei-de-investitii.pdf",
+     "sha256": "15212dfe2f02245c381b9ee6f9c41a2c007dc571b98f7db0b6a0f36a5c69cf56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-66-2025",
+   "path": "local/bacau/helegiu/2025/66",
+   "short": "HCL Helegiu nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 66/2025 Privind aprobarea fondurilor alocate din bugetul local in anul 2025 pentru aprobarea cheltuielilor în vederea acordării unor pachete cu dulciuri de Crăciun elevilor din cadrul Unităților de învățământ de pe raza Comunei Helegiu precum si acordarea unor stimulentein numerar cetelor de ursi si colinda",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-nr.-66-din-27.11.2025-aprobare-cheltuieli-pt-acordare-pachete-pentru-elevi-cu-ocazia-sarbatorilor-de-Craciun-si-plata-colindatorilor.pdf",
+     "sha256": "feba017d57b50c21d93facdc9706214fb81026dd8cdf7b7e30207ecb2b818a30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-67-2025",
+   "path": "local/bacau/helegiu/2025/67",
+   "short": "HCL Helegiu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 67/2025 Privind aprobarea Statutului Asociației de Dezvoltare Intercomunitară pentru Salubrizare Bacău, modificat si actualizat",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-nr.-67-din-27.11.2025-aprobare-Statut-ADIS-modiifcat-si-completat.pdf",
+     "sha256": "f30fe5d77ed5af3b5f9d7415bd9b861d070978947478947e29fd1fdf638f858a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-68-2025",
+   "path": "local/bacau/helegiu/2025/68",
+   "short": "HCL Helegiu nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 68/2025 Privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de pe raza teritorială a comunei Helegiu, pentru anul şcolar 2026-2027",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-68-din-16.12.2025-aprobare-retea-scolara-2026-2027.pdf",
+     "sha256": "93d8d1acedcbd89755cacf33ff9213c9a4035ce58fcf714240f0b2312b76ede6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-7-2025",
+   "path": "local/bacau/helegiu/2025/7",
+   "short": "HCL Helegiu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 7/2025 Privind analiza stadiului de inscriere a datelor in Registrul Agricol pentru semestrul II 2024 si stabilirea programului de masuri pentru eficientizarea acestei activitati",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCl-nr.7-din-28.01.2025-privind-analiza-stadiului-de-inscriere-a-datelor-in-Registrul-Agricol-pentru-semestrul-II-2024-si-stabilirea-programului-de-masuri-pentru-eficientizarea-acestei-activitati.pdf",
+     "sha256": "23df9eed2c984030d2f0bac427ab5eba9da9789d9a87bf5188e80889dbf623d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-70-2025",
+   "path": "local/bacau/helegiu/2025/70",
+   "short": "HCL Helegiu nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 70/2025 Privind rectificarea bugetului comunei Helegiu pentru anul 2025",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-nr-70-din-16.12.2025-rectificare-buget-comuna-Helegiu.pdf",
+     "sha256": "5f39500a528cc96e44d81bf1c0a18c6250993c1ed35b8e3d8f4372fa1de47a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-71-2025",
+   "path": "local/bacau/helegiu/2025/71",
+   "short": "HCL Helegiu nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 71/2025 Privind aprobarea scoaterii definitive din circuitul agricol al suprafetei de 1671mp , numar cadastral 76087 ,parte din domeniul privat al UAT Comuna Helegiu , pentru relizarea investitiei „Înființare sistem inteligent de distribuție gaze naturale în satele Helegiu, Brătila, Deleni și Drăgugești, ap",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/12/Hotarare-nr.-71-din-16.12.2025-privind-aprobarea-scoaterii-definitive-din-circuitul-agricol-al-suprafetei-de-1671mp-numar-cadastral76087-parte-din-domeniul-privat-al-UAT-Comuna-Helegiu.pdf",
+     "sha256": "7d7eb71989ad8e54f807521d0e184680a035958ced91ebbcd9f59e9a85c4f18d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--helegiu-72-2025",
    "path": "local/bacau/helegiu/2025/72",
    "short": "HCL Helegiu nr. 72/2025",
@@ -104,6 +914,36 @@
      "units": 1,
      "source_url": "https://helegiu.ro/wp-content/uploads/2026/01/Hotarare-nr.-72-din-30.12.2025-privind-modificarea-din-HCL-nr.-60-din-16.12.2025-privind-aprobarea-impozitelor-si-taxelor-locale-pentru-anul-2026-2.pdf",
      "sha256": "71f202a6dffd5de4c3ec30bea7e794f391e068f5ad2b4e177d8bc815fc608758"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-8-2025",
+   "path": "local/bacau/helegiu/2025/8",
+   "short": "HCL Helegiu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 8/2025 Privind aprobarea raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav pentru semestrul II 2024",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCL-nr.8-din-28.01.2025-privind-aprobarea-raportului-privind-activitatea-desfasurata-de-asistentii-persoanli-ai-persoanelor-cu-handicap-grav-pentru-semestrul-II-2024.pdf",
+     "sha256": "a13425d9d700fdbe289527cd010f2a7a1f437f58e81f659e479ca474fb7a3c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-9-2025",
+   "path": "local/bacau/helegiu/2025/9",
+   "short": "HCL Helegiu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 9/2025 Privind nominalizarea a doi consilieri locali care vor avea calitatea de evaluatori în cadrul comisiei de evaluare performanțelor profesionale individuale ale Secretarului General al comunei Helegiu",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2025/02/HCl-nr.9-din-28.01.2025-desemnare-consiliei-evaluare-secretar-general.pdf",
+     "sha256": "864a9aee637ed9a77ee127ef95e64ffc481484f40a530a2cf0b9e85e7a154445"
     }
    ]
   }

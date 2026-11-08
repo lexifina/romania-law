@@ -3,6 +3,66 @@
  "shard": "local/bacau/livezi/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--livezi-51-2026",
+   "path": "local/bacau/livezi/2026/51",
+   "short": "HCL Livezi nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 51/2026 privind renunțarea la Contractul de sprijin comunitar nr. 37/24.12.2025 și încetarea colaborării interinstituționale în cadrul Proiectului „Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”, cod PIDS/586/PO4/339395 Consiliul local al comunei Livezi , judetul Bacau ,intrunit in sedinta extraordinara d",
+   "url": "http://www.comunalivezi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2026/09/HCL-NR.-51-DIN-09.09.2026-RENUNTARE-LA-CONTRACT-DE-SPRIJIN-COMUNITAR-FURNIZ-DE-SERV-INTEGRATE-COM-RURALE-PERS-VULNERAB-09.09.2026.docx",
+     "sha256": "2c9c3ca5f49f8f99d90d95094fa235ee2affcc79fb77cbab0bb6f6bc5c86d0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-52-2026",
+   "path": "local/bacau/livezi/2026/52",
+   "short": "HCL Livezi nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 52/2026 Privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor pentru achizitia produselor distribuite si a contractelor de prestare a serviciilor pentru masurilor educative aferente Programului pentru Școli al României în anul școlar 2026- 2027, la nivelul Comunei Livezi, judetul Bacau",
+   "url": "http://www.comunalivezi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2026/09/HCL-NR.-52-DIN-09.09.2026-NEASUMARE-CORN-LAPTE-Livezi-2026-2027-09.09.026.docx",
+     "sha256": "e5b6ea7f9f82ebcd619561f3801d288de560e9dfd1cc533b734eed7899a5e932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-53-2026",
+   "path": "local/bacau/livezi/2026/53",
+   "short": "HCL Livezi nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 53/2026 privind aprobarea modificării HCL nr. 22/23.04.2026 privind aprobarea modificării Anexei nr. 1 la HCL nr. 47/16.12.2024 privind aprobarea indicatorilor tehnico-economici actualizați conform Devizului general după finalizarea procedurilor de achiziție pentru obiectivul de investiții „Modernizare drumuri locale în comuna Livezi, județul Bacău”, finanțat prin PNDL II, ca urmare a ajustărilor de preț",
+   "url": "http://www.comunalivezi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2026/09/Hotarerea-Consiliului-Local-PNDL-II-Nr.53-din-25.09.2026.pdf",
+     "sha256": "6481f6fd03c1e8b7d99674096a655b4ce5994c0cc9428d6be9621ce535750b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-55-2026",
+   "path": "local/bacau/livezi/2026/55",
+   "short": "HCL Livezi nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 55/2026 privind aprobarea proiectului și a cheltuielilor aferente proiectului „Înființare capacități noi de producere și stocare a energiei electrice produsă din surse regenerabile de energie solară pentru autoconsum în comuna Livezi, județul Bacău” Consiliul Local al Comunei Livezi, județul Bacău, întrunit în ședința extraordinara din data de 25.09.2026, Având în vedere:  Referatul de aprobare al primar",
+   "url": "http://www.comunalivezi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2026/09/HCL-Livezi-panouri-si-stocare-completat-Nr.-55-din-25.09.2026.pdf",
+     "sha256": "26a6195c278aba834564216aae2641eaed83afa8647c0b0c92967e4794cabff3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--livezi-56-2026",
    "path": "local/bacau/livezi/2026/56",
    "short": "HCL Livezi nr. 56/2026",

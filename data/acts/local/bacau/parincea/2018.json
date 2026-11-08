@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/bacau/parincea/2018",
+"acts": [
+{
+"slug": "hcl-bacau--parincea-18-2018",
+"path": "local/bacau/parincea/2018/18",
+"kind": "local",
+"year": "2018",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 18/2018",
+"short": "HCL Parincea nr. 18/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-18",
+"latest": "2018-08-18",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/5/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-44-2018",
+"path": "local/bacau/parincea/2018/44",
+"kind": "local",
+"year": "2018",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 44/2018",
+"short": "HCL Parincea nr. 44/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-45-2018",
+"path": "local/bacau/parincea/2018/45",
+"kind": "local",
+"year": "2018",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 45/2018",
+"short": "HCL Parincea nr. 45/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-46-2018",
+"path": "local/bacau/parincea/2018/46",
+"kind": "local",
+"year": "2018",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 46/2018",
+"short": "HCL Parincea nr. 46/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-47-2018",
+"path": "local/bacau/parincea/2018/47",
+"kind": "local",
+"year": "2018",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 47/2018",
+"short": "HCL Parincea nr. 47/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-48-2018",
+"path": "local/bacau/parincea/2018/48",
+"kind": "local",
+"year": "2018",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 48/2018",
+"short": "HCL Parincea nr. 48/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-49-2018",
+"path": "local/bacau/parincea/2018/49",
+"kind": "local",
+"year": "2018",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 49/2018",
+"short": "HCL Parincea nr. 49/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-29",
+"latest": "2018-12-29",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--parincea-50-2018",
+"path": "local/bacau/parincea/2018/50",
+"kind": "local",
+"year": "2018",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Parincea nr. 50/2018",
+"short": "HCL Parincea nr. 50/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+"council": "bacau/parincea",
+"council_name": "Consiliul Local al Comunei Parincea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

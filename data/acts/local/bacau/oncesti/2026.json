@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/oncesti/2026",
+"acts": [
+{
+"slug": "hcl-bacau--oncesti-48-2026",
+"path": "local/bacau/oncesti/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oncești nr. 48/2026 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat în 65 U.A.T.-uri din județul Bacău, prin procedura de negociere fără publicarea prealabilă a unui anunț de conce",
+"short": "HCL Oncești nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://comunaoncesti.ro/continut/fisiere/2026/09/48-AUGORD.H-DOC-ATRIB.-ADIS-HCL.pdf",
+"council": "bacau/oncesti",
+"council_name": "Consiliul Local al Comunei Oncești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

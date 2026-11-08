@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-11-2020",
+   "path": "local/bacau/filipeni/2020/11",
+   "short": "HCL Filipeni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 11/2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6640",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6640",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-12-2020",
    "path": "local/bacau/filipeni/2020/12",
    "short": "HCL Filipeni nr. 12/2020",
@@ -273,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-27-2020",
+   "path": "local/bacau/filipeni/2020/27",
+   "short": "HCL Filipeni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 27/2020 privind aprobarea CAIETULUI DE SARCINI privind închirierea prin licitație publică cu strigare a suprafeței de 6,33 ha, din care suprafața de 6,22 ha cu categoria de folosință arabilă și suprafața de 0,11 ha cu categoria de folosință pășune, terenuri situate la punctul numit ” Runcu”, care fac parte din domeniul privat al comunei Filipeni, județul Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19070",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19070",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-28-2020",
    "path": "local/bacau/filipeni/2020/28",
    "short": "HCL Filipeni nr. 28/2020",
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-29-2020",
+   "path": "local/bacau/filipeni/2020/29",
+   "short": "HCL Filipeni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 29/2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19072",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-3-2020",
    "path": "local/bacau/filipeni/2020/3",
    "short": "HCL Filipeni nr. 3/2020",
@@ -298,6 +343,36 @@
      "from": "2020-01-09",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-30-2020",
+   "path": "local/bacau/filipeni/2020/30",
+   "short": "HCL Filipeni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 30/2020 privind stabilirea salariilor de bază și a altor drepturi pentru personalul plătit din fonduri publice din cadrul administrației publice locale a Comunei Filipeni, județul Bacău, începând cu data de 01 ianuarie 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19061",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-31-2020",
+   "path": "local/bacau/filipeni/2020/31",
+   "short": "HCL Filipeni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 31/2020 privind modificarea și completarea Anexei Nr. 1 la HCL nr. 42 din 12.05.2017 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Filipeni, județul Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19062",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19062",
      "sha256": null
     }
    ]
@@ -493,6 +568,21 @@
      "from": "2020-08-24",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-44-2020",
+   "path": "local/bacau/filipeni/2020/44",
+   "short": "HCL Filipeni nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 44/2020 privind aprobarea ”CONTRACTULUI DE ÎNCHIRIERE” - model CADRU, privind închirierea bunurilor aflate în proprietatea Comunei Filipeni",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19142",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19142",
      "sha256": null
     }
    ]
@@ -853,6 +943,21 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-7-2020",
+   "path": "local/bacau/filipeni/2020/7",
+   "short": "HCL Filipeni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 7/2020 privind abrogarea prevederilor Art. 1, alin. 1.2 din HCL Filipeni nr. 43 din 27.09.2019 de numire a reprezentanților comunei Filipeni, jud. Bacău în Asociația de Dezvoltare Intercomunitară Ungureni-Buhoci, Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6636",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6636",
      "sha256": null
     }
    ]

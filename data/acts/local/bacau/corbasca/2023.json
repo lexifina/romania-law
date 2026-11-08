@@ -3,6 +3,28 @@
 "shard": "local/bacau/corbasca/2023",
 "acts": [
 {
+"slug": "hcl-bacau--corbasca-1-2023",
+"path": "local/bacau/corbasca/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 1/2023 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -I-2023",
+"short": "HCL Corbasca nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/88955",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-2-2023",
 "path": "local/bacau/corbasca/2023/2",
 "kind": "local",
@@ -223,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-12-2023",
+"path": "local/bacau/corbasca/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 12/2023 privind revocarea hotărârii consiliului local nr.43 din 09.06.2022 privind aprobarea concesionarii prin licitatie publica,a unei suprafete de 2500 mp,avand categoria de folosinta pasune,parte din domeniul privat al comunei Corbasca,judetul Bacau,situat in T.2.P.14,punct”Mascani”sat.Bacioiu,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/88966",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-13-2023",
 "path": "local/bacau/corbasca/2023/13",
 "kind": "local",
@@ -377,6 +421,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-20-2023",
+"path": "local/bacau/corbasca/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 20/2023 privind desemnarea reprezentantilor Consiliului local al comunei Corbasca,judetul Bacau in Comisia pentru prevenirea si eliminarea violentei,a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii\" si din Grupul de actiune antibulyng\" al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/90441",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-21-2023",
 "path": "local/bacau/corbasca/2023/21",
 "kind": "local",
@@ -528,6 +594,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-28-2023",
+"path": "local/bacau/corbasca/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 28/2023 privind aprobarea prelungirii Contractelor de concesionare păşune comunală aflate in derulare,in vederea desfăşurării de activitati de ameliorare, intreţinere şi exploatare ( păşunat animale )",
+"short": "HCL Corbasca nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/94307",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -708,6 +796,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-37-2023",
+"path": "local/bacau/corbasca/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 37/2023 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -II-2023",
+"short": "HCL Corbasca nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/100687",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-38-2023",
 "path": "local/bacau/corbasca/2023/38",
 "kind": "local",
@@ -749,6 +859,72 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-40-2023",
+"path": "local/bacau/corbasca/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 40/2023 privind acordarea unui sprijin financiar, din bugetul local al comunei,Manastirii ortodoxe,cu hramul‘’Buna Vestire’’ din_Sat.POGLET_,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/100690",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-41-2023",
+"path": "local/bacau/corbasca/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 41/2023 privind acordarea unui sprijin financiar, din bugetul local al comunei,Bisericii ortodoxe,cu hramul‘’ Izvorul Tamaduirii ’’din_Sat.BACIOIU_,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/100691",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-42-2023",
+"path": "local/bacau/corbasca/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 42/2023 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.Parascheva » din_Sat.MARVILA,comuna CORBASCA,judetul BACAU._",
+"short": "HCL Corbasca nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/100692",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -838,6 +1014,29 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-47-2023",
+"path": "local/bacau/corbasca/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 47/2023",
+"short": "HCL Corbasca nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/100697",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1437,6 +1636,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-75-2023",
+"path": "local/bacau/corbasca/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 75/2023 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -III-2023",
+"short": "HCL Corbasca nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/115148",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-76-2023",
 "path": "local/bacau/corbasca/2023/76",
 "kind": "local",
@@ -1503,6 +1724,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-79-2023",
+"path": "local/bacau/corbasca/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 79/2023 privind aprobarea Amenajamentului Pastoral pentru pajistile din comuna Corbasca, județul Bacau",
+"short": "HCL Corbasca nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/115152",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-80-2023",
 "path": "local/bacau/corbasca/2023/80",
 "kind": "local",
@@ -1547,6 +1790,50 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-82-2023",
+"path": "local/bacau/corbasca/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 82/2023 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.Nicolae » din_Sat.SCARISOARA,comuna CORBASCA,judetul BACAU._",
+"short": "HCL Corbasca nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/115155",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-83-2023",
+"path": "local/bacau/corbasca/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 83/2023 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.arh.Mihail si Gavril; » din_Sat.CORBASCA,comuna CORBASCA,judetul BACAU._",
+"short": "HCL Corbasca nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/115156",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-84-2023",
 "path": "local/bacau/corbasca/2023/84",
 "kind": "local",
@@ -1566,6 +1853,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-85-2023",
+"path": "local/bacau/corbasca/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 85/2023 privind desemnarea reprezentantului Consiliului local al comunei Corbasca,judetul Bacau in Consiliul de Administratie al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau.,pentru anul scolar 2023-2024",
+"short": "HCL Corbasca nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/117301",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1613,6 +1922,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-88-2023",
+"path": "local/bacau/corbasca/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 88/2023 privind desemnarea reprezentantilor Consiliului local al comunei Corbasca,judetul Bacau in Comisia de Evaluare si Asigurare a Calitatii (C.E.A.C) al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau,pentru anul scolar 2023-2024",
+"short": "HCL Corbasca nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/117304",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-89-2023",
 "path": "local/bacau/corbasca/2023/89",
 "kind": "local",
@@ -1635,6 +1966,29 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-90-2023",
+"path": "local/bacau/corbasca/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 90/2023",
+"short": "HCL Corbasca nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/122759",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-91-2023",
 "path": "local/bacau/corbasca/2023/91",
 "kind": "local",
@@ -1654,6 +2008,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-92-2023",
+"path": "local/bacau/corbasca/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 92/2023 privind _ aprobarea Regulamentelor de organizare si functionare, accesul,ocuparea,exploatarea tuturor spatiilor si echipamentelor din parcul Corbasca si a terenurilor de sport multifunctionale de pe raza administrativ-teritoriala Comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/122761",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1698,6 +2074,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-95-2023",
+"path": "local/bacau/corbasca/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 95/2023 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -IV-2023",
+"short": "HCL Corbasca nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/125363",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1764,6 +2162,29 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-99-2023",
+"path": "local/bacau/corbasca/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 99/2023",
+"short": "HCL Corbasca nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/125367",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

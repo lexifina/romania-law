@@ -1,0 +1,501 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/racova/2023",
+ "acts": [
+  {
+   "slug": "hcl-bacau--racova-20-2023",
+   "path": "local/bacau/racova/2023/20",
+   "short": "HCL Racova nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 20/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-20-din-19.05.2023-Aprobarea-participarii-Comunei-Racova-la-parteneriatul-LEADER.pdf",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-20-din-19.05.2023-Aprobarea-participarii-Comunei-Racova-la-parteneriatul-LEADER.pdf",
+     "sha256": "7dc75ccd4517f0fe2f643c145ee804b431b96e72267bfbf601b706cdf4ad8b42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-21-2023",
+   "path": "local/bacau/racova/2023/21",
+   "short": "HCL Racova nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 21/2023 pentru ședința AGA CRAB",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-21-din-19.05.2023-Stabilirea-mandatului-reprezentantului-legal-al-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-21-din-19.05.2023-Stabilirea-mandatului-reprezentantului-legal-al-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+     "sha256": "98b9f19e27453f9097f813c7c8ddd5cff730bbc8f8d9e52c67c2676f494ea275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-22-2023",
+   "path": "local/bacau/racova/2023/22",
+   "short": "HCL Racova nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 22/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-22-din-19.05.2023-Corecttarea-suprafetelor-aferente-drumurior-vicinale.pdf",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-22-din-19.05.2023-Corecttarea-suprafetelor-aferente-drumurior-vicinale.pdf",
+     "sha256": "01e722f87c7acebd83185c51c0ffa5ece1d13dd35201d847207ddbec97aa95af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-23-2023",
+   "path": "local/bacau/racova/2023/23",
+   "short": "HCL Racova nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 23/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-23-din-19.05.2023-Aprobarea-Incheierii-unui-contract-de-dare-in-folosinta-gratuita-in-vederea-desfasurarii-de-activitati-medicale.pdf",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/05/Hotararea-23-din-19.05.2023-Aprobarea-Incheierii-unui-contract-de-dare-in-folosinta-gratuita-in-vederea-desfasurarii-de-activitati-medicale.pdf",
+     "sha256": "23c5bca411e3e580251d4283dc24d535bd7a60094a135edca29b61b4ca691859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-24-2023",
+   "path": "local/bacau/racova/2023/24",
+   "short": "HCL Racova nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 24/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/06/Hotararea-24-din-16.06.2023-Aprobarea-contului-de-executie-bugetara-trimestrul-1-din-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/06/Hotararea-24-din-16.06.2023-Aprobarea-contului-de-executie-bugetara-trimestrul-1-din-2023.pdf",
+     "sha256": "ce0343a90568bcb0ae0acd9d40d1c87bc1c14e1172b4d314263286a9c7e73b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-26-2023",
+   "path": "local/bacau/racova/2023/26",
+   "short": "HCL Racova nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 26/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/06/Hotararea-26-din-16.06.2023-Organizarea-evenimentului-Zilele-Comunei-Racova.pdf",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/06/Hotararea-26-din-16.06.2023-Organizarea-evenimentului-Zilele-Comunei-Racova.pdf",
+     "sha256": "c81a598d622f7fd111dfd913cdb8717b032b6a7ea434046b1673a16378763d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-28-2023",
+   "path": "local/bacau/racova/2023/28",
+   "short": "HCL Racova nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 28/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/06/Hotararea-28-din-16.06.2023-Actualizarea-Planului-anual-al-achizitiilor-al-Comunei-Racova.pdf",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/06/Hotararea-28-din-16.06.2023-Actualizarea-Planului-anual-al-achizitiilor-al-Comunei-Racova.pdf",
+     "sha256": "328bc1d0808afffb1385c0036264af3f86deed10a1622a814b5025d68dd460d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-29-2023",
+   "path": "local/bacau/racova/2023/29",
+   "short": "HCL Racova nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 29/2023 pentru prelucrarea deșeurilor",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/07/Hotararea-29-din-13.07.2023-Aprobarea-tarifului-de-facturare-ECOSUD-pentru-prelucrarea-deseurilor.pdf",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/07/Hotararea-29-din-13.07.2023-Aprobarea-tarifului-de-facturare-ECOSUD-pentru-prelucrarea-deseurilor.pdf",
+     "sha256": "1ad2c235ba64cf1415b63f70f7b446516b24ae1e61b0480c508433238e412bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-30-2023",
+   "path": "local/bacau/racova/2023/30",
+   "short": "HCL Racova nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 30/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/07/Hotararea-30-din-13.07.2023-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-in-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/07/Hotararea-30-din-13.07.2023-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-in-sedinta-AGA-CRAB.pdf",
+     "sha256": "93dda64775d64cbcd4cb436dd0ca75e555459643ce0d0ac9a8f070af8aae89cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-34-2023",
+   "path": "local/bacau/racova/2023/34",
+   "short": "HCL Racova nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 34/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/08/Hotararea-34-din-16.08.2023-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-in-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/08/Hotararea-34-din-16.08.2023-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-in-sedinta-AGA-CRAB.pdf",
+     "sha256": "64431b718bf85528f71faf3c3b6c4461eea9c3bc9539340e5d4daa14055f85fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-35-2023",
+   "path": "local/bacau/racova/2023/35",
+   "short": "HCL Racova nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 35/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/08/Hotararea-35-din-16.08.2023-Rectificarea-bugetului-local-pe-anul-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/08/Hotararea-35-din-16.08.2023-Rectificarea-bugetului-local-pe-anul-2023.pdf",
+     "sha256": "02faa11ca42ec9ffc63dda6f1df8980488ca0ab953d1208ebd5f1abdcdc7e830"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-37-2023",
+   "path": "local/bacau/racova/2023/37",
+   "short": "HCL Racova nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 37/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/10/Hotararea-37-din-15.09.2023-Neasumarea-responsabilitatii-proceduri-atribuire-contracte.pdf",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/10/Hotararea-37-din-15.09.2023-Neasumarea-responsabilitatii-proceduri-atribuire-contracte.pdf",
+     "sha256": "2adebd525f3899a836ddc772c62f1521bd7bd472753eda3d775a5bc17e4bb753"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-38-2023",
+   "path": "local/bacau/racova/2023/38",
+   "short": "HCL Racova nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 38/2023 pentru ședința AGA CRAB",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/10/Hotararea-38-din-29.09.2023-Stabilirea-mandatului-reprezentantului-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/10/Hotararea-38-din-29.09.2023-Stabilirea-mandatului-reprezentantului-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+     "sha256": "717c9e03dffefed7dcb13999ce073abaeed67cd23e352232e0272ee945f887c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-39-2023",
+   "path": "local/bacau/racova/2023/39",
+   "short": "HCL Racova nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 39/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ffa0d9d2c11d3e352e2e815673255627bd1ed4e18d6c4ad947c72986857b1118"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-40-2023",
+   "path": "local/bacau/racova/2023/40",
+   "short": "HCL Racova nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 40/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-40-din-29.09.2023-Aprobarea-amplasare-indicatoare-rutiere.pdf",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-40-din-29.09.2023-Aprobarea-amplasare-indicatoare-rutiere.pdf",
+     "sha256": "d84c9d5faf37506e7922fb641d92f12078ff2f65fa59e065a9bfd9ed36d61f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-42-2023",
+   "path": "local/bacau/racova/2023/42",
+   "short": "HCL Racova nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 42/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/10/Hotararea-42-din-29.09.2023-Aprobare-studiu-de-fezabilitateinfrastructura-de-apa-si-apa-uzata.pdf",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/10/Hotararea-42-din-29.09.2023-Aprobare-studiu-de-fezabilitateinfrastructura-de-apa-si-apa-uzata.pdf",
+     "sha256": "7ecdb31f416d554b8930f107d754f1dcf366808d6ef525ba93db2c173b890dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-45-2023",
+   "path": "local/bacau/racova/2023/45",
+   "short": "HCL Racova nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 45/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2bb9aed05db9a59423a733cd8626d1a138b8d644667643fb398c140090561323"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-46-2023",
+   "path": "local/bacau/racova/2023/46",
+   "short": "HCL Racova nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 46/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-46-din-27.10.2023-Stabilirea-limitelor-de-reprezentare-a-reprezentantului-UAT-Racova-in-AGA-a-ADIB.pdf",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-46-din-27.10.2023-Stabilirea-limitelor-de-reprezentare-a-reprezentantului-UAT-Racova-in-AGA-a-ADIB.pdf",
+     "sha256": "cad89146af60f04d5080abce3490a17d636399e9ca6e33b190c25a261a3df8de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-47-2023",
+   "path": "local/bacau/racova/2023/47",
+   "short": "HCL Racova nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 47/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f2cb3ea9ea7799251842cfaeda3dcb5181fa63f0f580d0b53e5823ba3fa532df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-48-2023",
+   "path": "local/bacau/racova/2023/48",
+   "short": "HCL Racova nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 48/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-48-din-27.10.2023-Rectificare-buget-local-pe-anul-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-48-din-27.10.2023-Rectificare-buget-local-pe-anul-2023.pdf",
+     "sha256": "6499ba7e1ac7d37721d17bd1eb1780e2178a59baa47d163a171b6df9bcea42dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-49-2023",
+   "path": "local/bacau/racova/2023/49",
+   "short": "HCL Racova nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 49/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-49-din-27.10.2023-Schimbarea-denumirii-titularului-imobile-din-Comuna-Racova.pdf",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-49-din-27.10.2023-Schimbarea-denumirii-titularului-imobile-din-Comuna-Racova.pdf",
+     "sha256": "3862634730d7a36f2a2a72bd251e9477ac5d9dd91085c87ee8716b1d3956cd01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-50-2023",
+   "path": "local/bacau/racova/2023/50",
+   "short": "HCL Racova nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 50/2023 pentru funcții publice și contractuale",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-50-din-20.11.2023-Stabilirea-salariilor-de-baza-pentru-functii-publice-si-contractuale.pdf",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-50-din-20.11.2023-Stabilirea-salariilor-de-baza-pentru-functii-publice-si-contractuale.pdf",
+     "sha256": "1eac2ad455cadf000c77aca7a74e645c7576b0fbf9ac709b4372a7dc31ebf6a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-51-2023",
+   "path": "local/bacau/racova/2023/51",
+   "short": "HCL Racova nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 51/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-51-din-20.11.2023-Rectificarea-bugetului-local-pe-anul-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-51-din-20.11.2023-Rectificarea-bugetului-local-pe-anul-2023.pdf",
+     "sha256": "56a70ce89b231dd60e1cec927a3b6c277e32b8acb9fb2e5a3cb64638d18a19bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-52-2023",
+   "path": "local/bacau/racova/2023/52",
+   "short": "HCL Racova nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 52/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-52-din-20.11.2023-Aprobare-act-aditional-contract-inchiriere-488-din-24.02.2015.pdf",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-52-din-20.11.2023-Aprobare-act-aditional-contract-inchiriere-488-din-24.02.2015.pdf",
+     "sha256": "108c919b05ca37ac5ae377ed9a03fcb6c1367fcd25dd143642d0791dc050a200"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-53-2023",
+   "path": "local/bacau/racova/2023/53",
+   "short": "HCL Racova nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 53/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-53-din-29.11.2023-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-in-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-53-din-29.11.2023-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-in-sedinta-AGA-CRAB.pdf",
+     "sha256": "869234f7ab6133dbc564f90d73c8a0f70a0d1508ccd30a1c707fc8091878d605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-54-2023",
+   "path": "local/bacau/racova/2023/54",
+   "short": "HCL Racova nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 54/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-54-din-20.12.2023-Rectificarea-bugetului-local-pe-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-54-din-20.12.2023-Rectificarea-bugetului-local-pe-2023.pdf",
+     "sha256": "ade075820416ea4d8ab3f8b3f81a9cd20c14679ec1a82acd981f587fa333867b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-55-2023",
+   "path": "local/bacau/racova/2023/55",
+   "short": "HCL Racova nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 55/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-55-din-21.12.2023-Aprobarea-contului-de-executie-bugetara-al-Comunei-Racova-trimestrul-3-din-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-55-din-21.12.2023-Aprobarea-contului-de-executie-bugetara-al-Comunei-Racova-trimestrul-3-din-2023.pdf",
+     "sha256": "bdd92b8cc04832a065fed796e5624e89de19d7b8bad76bf685e1c4172c82446f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-56-2023",
+   "path": "local/bacau/racova/2023/56",
+   "short": "HCL Racova nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 56/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c2446f92e6bfd6aefe02597d5e058bc522a4bdd63955a52c8da27ae1c4723f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-57-2023",
+   "path": "local/bacau/racova/2023/57",
+   "short": "HCL Racova nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 57/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-57-din-21.12.2023-Respingere-cerere-ajustare-tarife-SC-SOMA-SRL.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-57-din-21.12.2023-Respingere-cerere-ajustare-tarife-SC-SOMA-SRL.pdf",
+     "sha256": "7c999848f9db59c64c30469aa0b2d29d46703f60bc1163244b8aa98282da0ace"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-58-2023",
+   "path": "local/bacau/racova/2023/58",
+   "short": "HCL Racova nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 58/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-58-din-21.12.2023-Modificarea-numelui-titularului-la-contractul-de-inchiriere-488-din-24.02.2015.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-58-din-21.12.2023-Modificarea-numelui-titularului-la-contractul-de-inchiriere-488-din-24.02.2015.pdf",
+     "sha256": "f17b73237d52d510d560894d0fe0bf75d3bf22bc7818cf28db91295c56705be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-59-2023",
+   "path": "local/bacau/racova/2023/59",
+   "short": "HCL Racova nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 59/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-59-din-21.12.2023-Aprobarea-organigramei-si-a-Statului-de-functii.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-59-din-21.12.2023-Aprobarea-organigramei-si-a-Statului-de-functii.pdf",
+     "sha256": "a636426f6e111057a226d871123ea50715e721d03bb5b6e7d0206b2da8647c16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-60-2023",
+   "path": "local/bacau/racova/2023/60",
+   "short": "HCL Racova nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 60/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "deadd08dbec818d8061b47285468eb4ab6e27173fa73d41b69d33b10f71a67e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-61-2023",
+   "path": "local/bacau/racova/2023/61",
+   "short": "HCL Racova nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 61/2023",
+   "url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-61-din-21.12.2023-Aprobarea-scoaterii-la-inchiriere-teren-arabil-extravilan.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2023/12/Hotararea-61-din-21.12.2023-Aprobarea-scoaterii-la-inchiriere-teren-arabil-extravilan.pdf",
+     "sha256": "4c7a969e4cb687c220442e4f7205687d546c38fb4383d74ad54f5e1da32822e6"
+    }
+   ]
+  }
+ ]
+}

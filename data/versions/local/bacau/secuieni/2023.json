@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-10-2023",
+   "path": "local/bacau/secuieni/2023/10",
+   "short": "HCL Secuieni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 10/2023 Privind modificarea prețului închirierii pășunii comunale prin atribuire directa, începând cu anul 2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/111493",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111493",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-11-2023",
    "path": "local/bacau/secuieni/2023/11",
    "short": "HCL Secuieni nr. 11/2023",
@@ -28,6 +43,21 @@
      "from": "2023-06-30",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-12-2023",
+   "path": "local/bacau/secuieni/2023/12",
+   "short": "HCL Secuieni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/111495",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111495",
      "sha256": null
     }
    ]
@@ -58,6 +88,21 @@
      "from": "2023-06-30",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-15-2023",
+   "path": "local/bacau/secuieni/2023/15",
+   "short": "HCL Secuieni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 15/2023 privind actualizarea Anexei la HCL nr . 37/28.07.2017 privind stabilirea salariilor de baza pentru personalul din aparatul de specialitate al primarului Comunei Secuieni, Judetul Bacău si din subordinea Consiliului Local Secuieni, modificată prin Hotărârea Consiliului Local Secuieni NR. 11/31.01.2018 şi completată prin Hotărârea Consiliului Local Secuieni NR. 16/29.03.2019 -privind stabilirea salariilor de bază pentru personalul din aparatul de specialitate al primarului comunei Secuieni şi din subordinea Consiliului Local Secuieni, a indemnizației primarului și viceprimarului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/111498",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111498",
      "sha256": null
     }
    ]
@@ -198,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-24-2023",
+   "path": "local/bacau/secuieni/2023/24",
+   "short": "HCL Secuieni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 24/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/111560",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-25-2023",
    "path": "local/bacau/secuieni/2023/25",
    "short": "HCL Secuieni nr. 25/2023",
@@ -303,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-31-2023",
+   "path": "local/bacau/secuieni/2023/31",
+   "short": "HCL Secuieni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 31/2023 privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/111911",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111911",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-32-2023",
    "path": "local/bacau/secuieni/2023/32",
    "short": "HCL Secuieni nr. 32/2023",
@@ -393,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-38-2023",
+   "path": "local/bacau/secuieni/2023/38",
+   "short": "HCL Secuieni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 38/2023 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/111918",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/111918",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-39-2023",
    "path": "local/bacau/secuieni/2023/39",
    "short": "HCL Secuieni nr. 39/2023",
@@ -438,6 +528,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-41-2023",
+   "path": "local/bacau/secuieni/2023/41",
+   "short": "HCL Secuieni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 41/2023 Privind abrogarea HCL Nr.38/27.04.2023 privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/113054",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/113054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-42-2023",
+   "path": "local/bacau/secuieni/2023/42",
+   "short": "HCL Secuieni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 42/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/113056",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/113056",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-43-2023",
    "path": "local/bacau/secuieni/2023/43",
    "short": "HCL Secuieni nr. 43/2023",
@@ -448,6 +568,36 @@
      "from": "2023-07-18",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/113055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-44-2023",
+   "path": "local/bacau/secuieni/2023/44",
+   "short": "HCL Secuieni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 44/2023 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/113057",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/113057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-45-2023",
+   "path": "local/bacau/secuieni/2023/45",
+   "short": "HCL Secuieni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 45/2023 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescatorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora-BIBIRE RAMONA",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/115165",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/115165",
      "sha256": null
     }
    ]
@@ -528,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-50-2023",
+   "path": "local/bacau/secuieni/2023/50",
+   "short": "HCL Secuieni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 50/2023 Privind sprijinirea financiară a unor unităţi de cult din comuna Secuieni, judeţul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/115192",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/115192",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-51-2023",
    "path": "local/bacau/secuieni/2023/51",
    "short": "HCL Secuieni nr. 51/2023",
@@ -583,6 +748,21 @@
      "from": "2023-08-10",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/115953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-55-2023",
+   "path": "local/bacau/secuieni/2023/55",
+   "short": "HCL Secuieni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 55/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/115954",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/115954",
      "sha256": null
     }
    ]
@@ -663,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-60-2023",
+   "path": "local/bacau/secuieni/2023/60",
+   "short": "HCL Secuieni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 60/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/117832",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/117832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-61-2023",
    "path": "local/bacau/secuieni/2023/61",
    "short": "HCL Secuieni nr. 61/2023",
@@ -673,6 +868,21 @@
      "from": "2023-09-18",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/117833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-62-2023",
+   "path": "local/bacau/secuieni/2023/62",
+   "short": "HCL Secuieni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 62/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/117834",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/117834",
      "sha256": null
     }
    ]
@@ -708,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-65-2023",
+   "path": "local/bacau/secuieni/2023/65",
+   "short": "HCL Secuieni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 65/2023 privind desemnarea reprezentanţilor Consiliului Local Secuieni, judeţul Bacău în Consiliul de Administraţie al Şcolii Gimnaziale Secuieni",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/137301",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/137301",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-66-2023",
    "path": "local/bacau/secuieni/2023/66",
    "short": "HCL Secuieni nr. 66/2023",
@@ -723,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-67-2023",
+   "path": "local/bacau/secuieni/2023/67",
+   "short": "HCL Secuieni nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 67/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/137303",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/137303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-68-2023",
    "path": "local/bacau/secuieni/2023/68",
    "short": "HCL Secuieni nr. 68/2023",
@@ -733,6 +973,21 @@
      "from": "2024-01-11",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/137304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-69-2023",
+   "path": "local/bacau/secuieni/2023/69",
+   "short": "HCL Secuieni nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 69/2023",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/137305",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/137305",
      "sha256": null
     }
    ]

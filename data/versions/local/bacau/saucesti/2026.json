@@ -3,6 +3,21 @@
  "shard": "local/bacau/saucesti/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--saucesti-84-2026",
+   "path": "local/bacau/saucesti/2026/84",
+   "short": "HCL Săucești nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 84/2026 privind stabilirea mandatului special al reprezentantului legal al Unității Administrativ-Teritoriale Comuna Săucești pentru ședința Adunării Generale Ordinare a Acționarilor S.C",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-84.pdf",
+     "sha256": "00c054b395a5e3341a061987d9bf967fd5c1619c4350caf4835abb362b56a601"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--saucesti-85-2026",
    "path": "local/bacau/saucesti/2026/85",
    "short": "HCL Săucești nr. 85/2026",
@@ -14,6 +29,156 @@
      "units": 5,
      "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-85.pdf",
      "sha256": "0dfe9f57401aa80b42d2ce2ce75e0802d7efe987eaf97df5bb54b39eb4af6271"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-86-2026",
+   "path": "local/bacau/saucesti/2026/86",
+   "short": "HCL Săucești nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 86/2026 privind atribuirea prin închiriere, fără licitație publică, a unei suprafețe de 9 mp, din incinta imobilului identificat cu nr. cadastral 70127-C1, care aparține domeniului public al Comunei Săucești, în vederea desfășurării de activități economice de informare, contractare și de încasare Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-86.pdf",
+     "sha256": "c4c79b5adef0ee4b50efb68323222a4fc48995c3e0a06754d537a48122b70cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-87-2026",
+   "path": "local/bacau/saucesti/2026/87",
+   "short": "HCL Săucești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 87/2026 privind aprobarea încheierii unui contract de comodat între Comuna Săucești și Filiala Județeană Bacău a Asociației Comunelor din România Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-87.pdf",
+     "sha256": "c70337520df200d85c301acefeb617c9fac897d2581682b5af3a89367cdaa8b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-88-2026",
+   "path": "local/bacau/saucesti/2026/88",
+   "short": "HCL Săucești nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 88/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul III al anului 2026, precum și modul de înscriere a datelor şi stabilirea măsurilor pentru eficientizarea acestei activităţi în trimestrul IV al anului 2026 Descarcă Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-88.pdf",
+     "sha256": "5ce3b9798cd2fabb41a0eced06669846990b9e420dbcac4a59f7c10dcfb17e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-89-2026",
+   "path": "local/bacau/saucesti/2026/89",
+   "short": "HCL Săucești nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 89/2026 privind acordul pentru scoaterea temporară din circuitul agricol a suprafeței de teren de 102 mp, proprietatea privată a comunei Săucești Descarcă Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-89.pdf",
+     "sha256": "34fc0fbc56f8ad4b0fa7a426c5ff9873809699cd8a1065f2ba74c5e32a84505e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-90-2026",
+   "path": "local/bacau/saucesti/2026/90",
+   "short": "HCL Săucești nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 90/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-90.pdf",
+     "sha256": "e94e365fb2487a5c48f993488276565e9e2d49d064d8a363350830e4a6b5528e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-91-2026",
+   "path": "local/bacau/saucesti/2026/91",
+   "short": "HCL Săucești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 91/2026 privind atestarea unor imobile la domeniul privat al comunei Săucești Descarcă Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-91.pdf",
+     "sha256": "34e4794c8b48ba318c1811ff5f88da376a443feb7988e2e330c3ea2d0b41b4d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-92-2026",
+   "path": "local/bacau/saucesti/2026/92",
+   "short": "HCL Săucești nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 92/2026 privind stabilirea mandatului special al reprezentantului legal al Unității Administrativ-Teritoriale Comuna Săucești pentru ședința Adunării Generale Extraordinare a Acționarilor S.C",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-92.pdf",
+     "sha256": "9f33141bc45716af2e8409476ca846e910cddd51692dae05459d4d7f7ef826c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-93-2026",
+   "path": "local/bacau/saucesti/2026/93",
+   "short": "HCL Săucești nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 93/2026 privind avizarea de principiu a PLAN URBANISTIC ZONAL – CONSTRUIREA DE LOCUINȚE PENTRU TINERI, DESTINATE ÎNCHIRIERII, REGIM DE ÎNĂLȚIME P+1+M, 16 UNITĂȚI LOCATIVE, SAT SCHINENI, COMUNA SĂUCEȘTI, JUDEȚ BACĂU Beneficiar : UAT Com",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-93.pdf",
+     "sha256": "16913d7ca00ee3b966b29135303e976399132154e2962dd02fa44bf87e745259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-94-2026",
+   "path": "local/bacau/saucesti/2026/94",
+   "short": "HCL Săucești nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 94/2026 privind aprobarea închirierii prin licitație publică a unei suprafețe de pășune aflate în domeniul privat al comunei Săucești, rămasă nealocată în urma procedurii de atribuire directă Descarcă Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-94.pdf",
+     "sha256": "77b002e2ad1f0430a102d8023a30b85f7b186cb5ee7148bac6bba77b146bcd80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--saucesti-95-2026",
+   "path": "local/bacau/saucesti/2026/95",
+   "short": "HCL Săucești nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săucești nr. 95/2026 privind identificarea unui teren neproductiv aflat în proprietatea UAT Comuna Săucești și aprobarea încheierii convenției pentru recuperarea acestuia prin refacerea covorului vegetal, în cadrul proiectului „Construire Parc Eolian Bacău Nord” Descarcă Descarcă",
+   "url": "https://primariasaucesti.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primariasaucesti.ro/pp-content/atasamente/2026/10/hcl-95.pdf",
+     "sha256": "ebcf99eba1fae01f0b659bc11228e45ae6eed5b254061d27c80a3efd8ea947ff"
     }
    ]
   }

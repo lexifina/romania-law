@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/margineni/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--margineni-47-2021",
+   "path": "local/bacau/margineni/2021/47",
+   "short": "HCL Mărgineni nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 47/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1a3fc03d4d0359c7910d2864bb13bcabf512fc6d4ebc75ace33d6e082d3ca56c"
+    }
+   ]
+  }
+ ]
+}

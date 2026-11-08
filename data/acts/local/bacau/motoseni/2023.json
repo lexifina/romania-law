@@ -3,6 +3,405 @@
 "shard": "local/bacau/motoseni/2023",
 "acts": [
 {
+"slug": "hcl-bacau--motoseni-1-2023",
+"path": "local/bacau/motoseni/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 1/2023 privind aprobarea Planului de activităţi ce vor fi efectuate in anul 2023, de beneficiari ai Legii 416/2001 privind venitul minim garantat modificată prin Legea nr.276/2010",
+"short": "HCL Motoșeni nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101264",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-2-2023",
+"path": "local/bacau/motoseni/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 2/2023",
+"short": "HCL Motoșeni nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101265",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-3-2023",
+"path": "local/bacau/motoseni/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 3/2023 privind asigurarea activitatilor juridice de consultanta de asistenta si/sau de reprezentare, necesare Unitatii Administrativ Teritoriale Motoseni",
+"short": "HCL Motoșeni nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101266",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-4-2023",
+"path": "local/bacau/motoseni/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 4/2023",
+"short": "HCL Motoșeni nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101267",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-5-2023",
+"path": "local/bacau/motoseni/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 5/2023 privind aprobarea asocierii comunei Motoseni cu Comuna Stanisesti si Comuna Dealu Morii in vederea implementării auditului intern",
+"short": "HCL Motoșeni nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101268",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-6-2023",
+"path": "local/bacau/motoseni/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 6/2023 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile NOIEMBRIE, DECEMBRIE AN 2022",
+"short": "HCL Motoșeni nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101269",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-7-2023",
+"path": "local/bacau/motoseni/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 7/2023 privind aprobarea Protocoalelor de colaborare cu Ministerul Muncii si Solidaritatii Sociale pentru implementarea proiectului ,,HUB de Servicii MMSS-SII MMSS,, Cod MySMIS 130963",
+"short": "HCL Motoșeni nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101270",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-8-2023",
+"path": "local/bacau/motoseni/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 8/2023 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2023",
+"short": "HCL Motoșeni nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101271",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-9-2023",
+"path": "local/bacau/motoseni/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 9/2023 privind închiderea exerciţiului bugetar pentru anul 2022",
+"short": "HCL Motoșeni nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101274",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-10-2023",
+"path": "local/bacau/motoseni/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 10/2023 privind însuşirea Raportului de follow-up nr. CCBC/2023 - 8947/01.02.2023 privind verificarea modului de ducere la indeplinire a măsurilor dispuse prin Decizia nr. 9 din data de 30.05.2022",
+"short": "HCL Motoșeni nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101275",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-11-2023",
+"path": "local/bacau/motoseni/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 11/2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Motoseni, judetul Bacau",
+"short": "HCL Motoșeni nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101276",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-12-2023",
+"path": "local/bacau/motoseni/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 12/2023 privind aprobarea rezultatelor inventarierii patrimoniului comunei Motoseni, judetul Bacau la data de 31.12.2022",
+"short": "HCL Motoșeni nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101371",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-13-2023",
+"path": "local/bacau/motoseni/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 13/2023 privind rectificarea (I) bugetului de venituri si cheltuieli pentru anul 2023",
+"short": "HCL Motoșeni nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101372",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-14-2023",
+"path": "local/bacau/motoseni/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 14/2023",
+"short": "HCL Motoșeni nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101373",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-15-2023",
+"path": "local/bacau/motoseni/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 15/2023 privind aprobarea efectuarii expertizei tehnice privind Starea tehnica de calitate a conductelor de gaze naturale din localitatea Motoseni, la obiectivul de investitii „Infiintare distributie gaze naturale in comuna Motoseni, judetul Bacau”",
+"short": "HCL Motoșeni nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101374",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-16-2023",
+"path": "local/bacau/motoseni/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 16/2023 privind aprobarea delegării, prin concesiune, a SERVICIULUI PUBLIC LOCAL DE GESTIONARE A CÂINILOR FĂRĂ STĂPÂN la nivelul Comunei Motoseni, Județul Bacău și a documentaţiei necesare pentru delegarea Serviciului",
+"short": "HCL Motoșeni nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101375",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-17-2023",
+"path": "local/bacau/motoseni/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 17/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Motoșeni nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/101376",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-18-2023",
+"path": "local/bacau/motoseni/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 18/2023 privind aprobare naveta cadre didactice",
+"short": "HCL Motoșeni nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-18",
+"latest": "2023-09-18",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/120653",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-19-2023",
 "path": "local/bacau/motoseni/2023/19",
 "kind": "local",
@@ -66,6 +465,28 @@
 "council_name": "Consiliul Local al Comunei Motoșeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-22-2023",
+"path": "local/bacau/motoseni/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 22/2023 privind stabilire indemnizatii si salarii 2023",
+"short": "HCL Motoșeni nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-18",
+"latest": "2023-09-18",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/120657",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +619,28 @@
 "council_name": "Consiliul Local al Comunei Motoșeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-29-2023",
+"path": "local/bacau/motoseni/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 29/2023 privind concesionare loturi teren",
+"short": "HCL Motoșeni nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-18",
+"latest": "2023-09-18",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/120673",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

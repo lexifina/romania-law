@@ -3,6 +3,36 @@
  "shard": "local/bacau/corbasca/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--corbasca-1-2026",
+   "path": "local/bacau/corbasca/2026/1",
+   "short": "HCL Corbasca nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 1/2026 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -I-2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/248393",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/248393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-10-2026",
+   "path": "local/bacau/corbasca/2026/10",
+   "short": "HCL Corbasca nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 10/2026 privind aprobarea proiectului -CONSTRUIRE ȘI DOTARE SALĂ DE SPORT ÎN COMUNA CORBASCA, JUDEȚUL BACĂU- în vederea finanțării acestuia în cadrul Programului Regional 2021-2027, Prioritatea 6, apelul de proiecte nr.-PR/NE/2025/6/RSO4.2/1/INVATAMANT COMUNE -precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local al comunei Corbasca",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/254417",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/254417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-11-2026",
    "path": "local/bacau/corbasca/2026/11",
    "short": "HCL Corbasca nr. 11/2026",
@@ -18,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-12-2026",
+   "path": "local/bacau/corbasca/2026/12",
+   "short": "HCL Corbasca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 12/2026 privind aprobarea Devizului General actualizat al proiectului -CONSTRUIRE ȘI DOTARE SALĂ DE SPORT ÎN COMUNA CORBASCA, JUDEȚUL BACĂU- în vederea finanțării acestuia în cadrul Programului Regional 2021-2027, Prioritatea 6, apelul de proiecte nr.-PR/NE/2025/6/RSO4.2/1/INVATAMANT COMUNE",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/254419",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/254419",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-13-2026",
    "path": "local/bacau/corbasca/2026/13",
    "short": "HCL Corbasca nr. 13/2026",
@@ -28,6 +73,21 @@
      "from": "2026-04-08",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/260407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-14-2026",
+   "path": "local/bacau/corbasca/2026/14",
+   "short": "HCL Corbasca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 14/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „ Infiintare sistem de canalizare in comuna CORBASCA, judetul Bacau”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/260408",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/260408",
      "sha256": null
     }
    ]
@@ -63,6 +123,81 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-17-2026",
+   "path": "local/bacau/corbasca/2026/17",
+   "short": "HCL Corbasca nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 17/2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/260411",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/260411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-18-2026",
+   "path": "local/bacau/corbasca/2026/18",
+   "short": "HCL Corbasca nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 18/2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/260412",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/260412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-19-2026",
+   "path": "local/bacau/corbasca/2026/19",
+   "short": "HCL Corbasca nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 19/2026 privind aprobarea actualizarii inventarului bunurilor care apartin domeniului public al Comunei Corbasca si operarea modificarilor in evidentele de cadastru si carte funciara pentru imobilul cu NC 60102 -Scoala Gimnaziala Corbasca,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/260413",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/260413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-2-2026",
+   "path": "local/bacau/corbasca/2026/2",
+   "short": "HCL Corbasca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 2/2026 privind aprobarea tipului de suport alimentar, precum şi a modalităţii de distribuire a acestuia elevilor şi preşcolarilor din cadrul Școlii Gimnaziale sat Corbasca,comuna Corbasca,judetul Bacau,pentru anul 2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/248394",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/248394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-20-2026",
+   "path": "local/bacau/corbasca/2026/20",
+   "short": "HCL Corbasca nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 20/2026 privind aprobarea documentației de atribuire a contractului de achiziție publică de servicii respectiv ”colectarea și transportul deșeurilor municipale de pe raza a 65 de UAT-uri din Județul Bacău prin procedura de negociere fără publicare”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/260414",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/260414",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-21-2026",
    "path": "local/bacau/corbasca/2026/21",
    "short": "HCL Corbasca nr. 21/2026",
@@ -78,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-22-2026",
+   "path": "local/bacau/corbasca/2026/22",
+   "short": "HCL Corbasca nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 22/2026 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -II-2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/262675",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/262675",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-23-2026",
    "path": "local/bacau/corbasca/2026/23",
    "short": "HCL Corbasca nr. 23/2026",
@@ -88,6 +238,51 @@
      "from": "2026-04-22",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/262676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-24-2026",
+   "path": "local/bacau/corbasca/2026/24",
+   "short": "HCL Corbasca nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 24/2026 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții Reabilitarea, consolidarea și modernizarea Școlii Gimnaziale, sat Corbasca, comuna Corbasca, județul Bacău, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/262677",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/262677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-25-2026",
+   "path": "local/bacau/corbasca/2026/25",
+   "short": "HCL Corbasca nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 25/2026 privind reglementarea desfășurării activităților de jocuri de noroc pe teritoriul Comunei Corbasca,judetul Bacau și aprobarea regulamentului aferent",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/265563",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/265563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-26-2026",
+   "path": "local/bacau/corbasca/2026/26",
+   "short": "HCL Corbasca nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 26/2026 privind aprobarea Regulamentului de organizare și funcționare actualizat al aparatului de specialitate al primarului Comunei Corbasca, județul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/265564",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/265564",
      "sha256": null
     }
    ]
@@ -138,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-3-2026",
+   "path": "local/bacau/corbasca/2026/3",
+   "short": "HCL Corbasca nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 3/2026 privind APROBAREA ALOCARII SUMELOR NECESARE DIN BUGETUL LOCAL AL COMUNEI CORBASCA,CATRE CENTRU PENTRU INGRIJIRE PERSOANE VARSTNICE”_PROSENECTUTEA_” DIN LOCALITATEA LILIECI,COMUNA HEMEIUS,JUDETUL BACAU,IN VEDEREA SUSTINERII FINANCIARE A 3 BENEFICIARI_CU DOMICILIUL STABIL IN COMUNA CORBASCA,JUDETUL BACAU",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/248395",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/248395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-30-2026",
+   "path": "local/bacau/corbasca/2026/30",
+   "short": "HCL Corbasca nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 30/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Reabilitarea, consolidarea și modernizarea Școlii Gimnaziale, sat Corbasca, comuna Corbasca, județul Bacău”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/265568",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/265568",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-31-2026",
    "path": "local/bacau/corbasca/2026/31",
    "short": "HCL Corbasca nr. 31/2026",
@@ -183,6 +408,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-34-2026",
+   "path": "local/bacau/corbasca/2026/34",
+   "short": "HCL Corbasca nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 34/2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/265572",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/265572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-35-2026",
+   "path": "local/bacau/corbasca/2026/35",
+   "short": "HCL Corbasca nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 35/2026 privind APROBAREA IMPLEMENTARII PROIECTULUI SI A CHELTUIELILOR LEGATE DE PROIECTUL \"Dotare cu unitate mobila destinata furnizarii de servicii de asistenta medicala stomatologica in comuna Corbasca, judetul Bacau\" Obiectiv specific RSO4.5 - Asigurarea accesului egal la asistenta medicala si asigurarea rezilientei sistemelor de sanatate -apel de proiecte nr. PS/901/PS_P1/OP4/RSO4.5/PS_P1_RSO4.5_A2 - Actiunea B",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/265573",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/265573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-36-2026",
+   "path": "local/bacau/corbasca/2026/36",
+   "short": "HCL Corbasca nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 36/2026 privind aprobarea achiziționării în regim de urgență a serviciilor de închiriere de autospeciale și personal deservent prin Asociația de Dezvoltare Intercomunitară pentru Salubrizare Bacău, în sistem unitar pentru unitățile administrativ-teritoriale afectate de întreruperea serviciului de salubrizare, și acordarea mandatului reprezentantului comunei Corbasca în Adunarea Generală a ADIS Bacău de a vota în favoarea Proiectului de Hotărâre aferent",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/266062",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/266062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-37-2026",
+   "path": "local/bacau/corbasca/2026/37",
+   "short": "HCL Corbasca nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 37/2026 privind aprobarea documentației de atribuire a contractului de achiziție publică de servicii respectiv \"colectarea și transportul deșeurilor municipale de pe raza a 65 de U.A.T.-uri din județul Bacău prin procedura de negociere fără publicare\", desemnarea comisiei de evaluare a ofertelor, acordarea mandatelor speciale necesare derulării procedurii NFP",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/266063",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/266063",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-38-2026",
    "path": "local/bacau/corbasca/2026/38",
    "short": "HCL Corbasca nr. 38/2026",
@@ -193,6 +478,36 @@
      "from": "2026-06-02",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/269572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-39-2026",
+   "path": "local/bacau/corbasca/2026/39",
+   "short": "HCL Corbasca nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 39/2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/269573",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/269573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-4-2026",
+   "path": "local/bacau/corbasca/2026/4",
+   "short": "HCL Corbasca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 4/2026 privind aprobarea Contractului de prestari servicii sociale si Servicii Transport Beneficiari Sociali in cadrul Centrului Comunitar Integrat UAT Corbasca incheiat intre Consiliul Local al comunei Corbasca,judetul Bacau in calitate de beneficiar si Societatea Nationala de Cruce Rosie din Romania-Filiala judeteana Bacau in calitate de prestator,pentru anul 2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/248396",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/248396",
      "sha256": null
     }
    ]
@@ -228,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-42-2026",
+   "path": "local/bacau/corbasca/2026/42",
+   "short": "HCL Corbasca nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 42/2026 PRIVIND APROBAREA IMPLEMENTARII PROIECTULUI SI A CHELTUIELILOR LEGATE DE PROIECTUL \"Dotare cu unitate mobila destinata furnizarii de servicii de asistenta medicala stomatologica in comuna Corbasca, judetul Bacau\" Obiectiv specific RSO4.5 - Asigurarea accesului egal la asistenta medicala si asigurarea rezilientei sistemelor de sanatate -apel de proiecte nr. PS/901/PS_P1/OP4/RSO4.5/PS_P1_RSO4.5_A2 - Actiunea B",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/269576",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/269576",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-43-2026",
    "path": "local/bacau/corbasca/2026/43",
    "short": "HCL Corbasca nr. 43/2026",
@@ -258,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-45-2026",
+   "path": "local/bacau/corbasca/2026/45",
+   "short": "HCL Corbasca nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 45/2026 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.Dumitru » din_Sat.ROGOAZA,comuna CORBASCA,judetul BACAU._",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/274982",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/274982",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-46-2026",
    "path": "local/bacau/corbasca/2026/46",
    "short": "HCL Corbasca nr. 46/2026",
@@ -268,6 +613,21 @@
      "from": "2026-07-01",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/274983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-47-2026",
+   "path": "local/bacau/corbasca/2026/47",
+   "short": "HCL Corbasca nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 47/2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/274984",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/274984",
      "sha256": null
     }
    ]
@@ -313,6 +673,21 @@
      "from": "2026-03-04",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/248397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-50-2026",
+   "path": "local/bacau/corbasca/2026/50",
+   "short": "HCL Corbasca nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 50/2026 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -III-2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/278499",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/278499",
      "sha256": null
     }
    ]
@@ -373,6 +748,21 @@
      "from": "2026-07-22",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/278503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-55-2026",
+   "path": "local/bacau/corbasca/2026/55",
+   "short": "HCL Corbasca nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 55/2026 privind aprobarea Regulamentului privind procedura pentu înregistrarea, evidența și radierea vehiculelor de pe raza unității administrativ-teritorială a comunei Corbasca,Judetul Bacau, pentru care nu există obligativitatea înregistrării",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/278504",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/278504",
      "sha256": null
     }
    ]
@@ -513,6 +903,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-64-2026",
+   "path": "local/bacau/corbasca/2026/64",
+   "short": "HCL Corbasca nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 64/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achizitia produselor si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative aferente Programului pentru scoli in Romania, pentru perioada 2026-2027",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/284820",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/284820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-65-2026",
+   "path": "local/bacau/corbasca/2026/65",
+   "short": "HCL Corbasca nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 65/2026 privind avizarea documentaţiei de atribuire pentru delegarea prin concesiune a gestiunii activităţilor de colectare separată şi transport separat al deşeurilor municipale în cele 66 U.A.T.-uri din judeţul Bacău, în forma revizuită şi completată, precum şi mandatarea reprezentantului în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară pentru Salubrizare Bacău",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/284821",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/284821",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-66-2026",
    "path": "local/bacau/corbasca/2026/66",
    "short": "HCL Corbasca nr. 66/2026",
@@ -583,6 +1003,21 @@
      "from": "2026-03-04",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/254414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-70-2026",
+   "path": "local/bacau/corbasca/2026/70",
+   "short": "HCL Corbasca nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 70/2026 privind desemnarea reprezentantului Consiliului local al comunei Corbasca,judetul Bacau in Consiliul de Administratie al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau.,pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/289244",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/289244",
      "sha256": null
     }
    ]

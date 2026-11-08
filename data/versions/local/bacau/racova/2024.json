@@ -3,6 +3,486 @@
  "shard": "local/bacau/racova/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--racova-1-2024",
+   "path": "local/bacau/racova/2024/1",
+   "short": "HCL Racova nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 1/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-nr.1-privindstabilirea-numarului-minim-de-sustinatori-necesar-depunerii-candidaturilor-la-functia-de-primar-si-consilier-local-circumscriptia-electorala-nr.71-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-nr.1-privindstabilirea-numarului-minim-de-sustinatori-necesar-depunerii-candidaturilor-la-functia-de-primar-si-consilier-local-circumscriptia-electorala-nr.71-Racova.pdf",
+     "sha256": "e78861663c01047c3ef7034b0ddd62ea4638551877c528dd1006a7daa3c62193"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-10-2024",
+   "path": "local/bacau/racova/2024/10",
+   "short": "HCL Racova nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 10/2024 Privind admiterea candidaturilor depuse de AUR, pentru funcțiile de consilieri în cadrul CL Racova în circumscriptia electorala nr. 71 Racova",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-10-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-AUR-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-10-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-AUR-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+     "sha256": "ed0cdc9a15dfcaf0bdcf76ce4953bbffb5b595f4e78eebb52c0a98a268215cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-11-2024",
+   "path": "local/bacau/racova/2024/11",
+   "short": "HCL Racova nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 11/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-11-din-08.02.2024-Modificare-art.-1-la-HCL-Racova-3-din-26.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-11-din-08.02.2024-Modificare-art.-1-la-HCL-Racova-3-din-26.01.2024.pdf",
+     "sha256": "b985651fece72147176b7a18ca7c4c1fc550d1a3121343e847e3c063107a6a47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-12-2024",
+   "path": "local/bacau/racova/2024/12",
+   "short": "HCL Racova nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 12/2024 pentru Biroul Electoral al Secției de votare 536",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-12-din-21.05.2024-Inlocuirea-presedintelui-desemnat-de-AEP-pentru-Biroul-Electoral-al-Sectiei-de-votare-536.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-12-din-21.05.2024-Inlocuirea-presedintelui-desemnat-de-AEP-pentru-Biroul-Electoral-al-Sectiei-de-votare-536.pdf",
+     "sha256": "46c2a6cd9f715fb93019a5fbe97cadbccb21810afffff4aa3a5b7dc31f9de715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-13-2024",
+   "path": "local/bacau/racova/2024/13",
+   "short": "HCL Racova nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 13/2024 pentru Biroul Electoral al Secției de votare 535",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-13-din-21.05.2024-Inlocuirea-presedintelui-desemnat-de-AEP-pentru-Biroul-Electoral-al-Sectiei-de-votare-535.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-13-din-21.05.2024-Inlocuirea-presedintelui-desemnat-de-AEP-pentru-Biroul-Electoral-al-Sectiei-de-votare-535.pdf",
+     "sha256": "7a340b57712a35fce963d0d876d63f43e60bfecf1e6776273c71a082e726dab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-14-2024",
+   "path": "local/bacau/racova/2024/14",
+   "short": "HCL Racova nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 14/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-14-din-24.05.2024-Contestatia-formulata-de-Partidul-Pro-Romania.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-14-din-24.05.2024-Contestatia-formulata-de-Partidul-Pro-Romania.pdf",
+     "sha256": "b3eee37ca3e58693b7f5289a623aeb1b938a4d2f92fd7a4c0111e782998686a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-15-2024",
+   "path": "local/bacau/racova/2024/15",
+   "short": "HCL Racova nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 15/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-15-din-29.05.2024-Contestatia-formulata-de-partidul-Pro-Romania-impotriva-PV-109-110-si-111-din-22.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/05/Hotararea-15-din-29.05.2024-Contestatia-formulata-de-partidul-Pro-Romania-impotriva-PV-109-110-si-111-din-22.05.2024.pdf",
+     "sha256": "e522f05a3bfbb5e0351b2f3fcb0fe1271da081a3ff2f4ab5926955a1ae34650b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-16-2024",
+   "path": "local/bacau/racova/2024/16",
+   "short": "HCL Racova nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 16/2024 Privind plângerea formulată de candidatul CJ Bacău din partea AER",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-16-din-05.06.2024-Privind-plangerea-formulata-de-candidatul-CJ-Bacau-din-partea-AER.pdf",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-16-din-05.06.2024-Privind-plangerea-formulata-de-candidatul-CJ-Bacau-din-partea-AER.pdf",
+     "sha256": "4171b876640b0404a475a45c149bd21e7f074824d9d815faa236288c27be1cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-17-2024",
+   "path": "local/bacau/racova/2024/17",
+   "short": "HCL Racova nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 17/2024 pentru Biroul Electoral al Secției 536",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-17-din-05.06.2024-Inlocuirea-reprezentantului-Partidului-USR-pentru-Biroul-Electoral-al-Sectiei-536.pdf",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-17-din-05.06.2024-Inlocuirea-reprezentantului-Partidului-USR-pentru-Biroul-Electoral-al-Sectiei-536.pdf",
+     "sha256": "702714ff54e794914310645b52b9917b57561b31bdb5cd1a0e5ce3dfebb86986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-18-2024",
+   "path": "local/bacau/racova/2024/18",
+   "short": "HCL Racova nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 18/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/02/Hotararea-18-din-28.02.2024-Constituirea-Consiliului-Comunitar-Consultativ-si-aprobare-ROF.pdf",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/02/Hotararea-18-din-28.02.2024-Constituirea-Consiliului-Comunitar-Consultativ-si-aprobare-ROF.pdf",
+     "sha256": "adca8c516f37e45268950130f2e43f1ece3adba1b257f708a18a9b1ae076840a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-19-2024",
+   "path": "local/bacau/racova/2024/19",
+   "short": "HCL Racova nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 19/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/02/Hotararea-19-din-28.02.2024-Regulament-de-acordare-ajutoare-de-urgenta.pdf",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/02/Hotararea-19-din-28.02.2024-Regulament-de-acordare-ajutoare-de-urgenta.pdf",
+     "sha256": "ce5baf59b5b5f213b029f6db712bc66fa7d5b67bd168a2ad24d3147117da88b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-2-2024",
+   "path": "local/bacau/racova/2024/2",
+   "short": "HCL Racova nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 2/2024 privind procedura de verificare si inregistrare a candidaturilor depuse pentru functia de consilier local si primar",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-nr.2-privind-procedura-de-verificare-si-inregistrare-a-candidaturilor-depuse-pentru-functia-de-consilier-local-si-primar.pdf",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-nr.2-privind-procedura-de-verificare-si-inregistrare-a-candidaturilor-depuse-pentru-functia-de-consilier-local-si-primar.pdf",
+     "sha256": "656a982a3cc63a1b814c2d53270e78764f06d9d62bf352f4f165789159f01c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-20-2024",
+   "path": "local/bacau/racova/2024/20",
+   "short": "HCL Racova nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 20/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/02/Hotararea-20-din-28.02.2024-Aprobare-ROF-al-Comisiei-Locale-de-fond-funciar.pdf",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/02/Hotararea-20-din-28.02.2024-Aprobare-ROF-al-Comisiei-Locale-de-fond-funciar.pdf",
+     "sha256": "95f646467677e8fab541daaebacd211aafd2c38e6a7339d479958c96080732fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-22-2024",
+   "path": "local/bacau/racova/2024/22",
+   "short": "HCL Racova nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 22/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "77a8d28f8844272b72cc51e41efe6259e9382b8d4628edd3189d9aa56453ed38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-23-2024",
+   "path": "local/bacau/racova/2024/23",
+   "short": "HCL Racova nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 23/2024 pentru ședința AGA CRAB",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-23-din-27.02.2024-Stabilirea-mandatului-special-al-reprezentantului-al-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-23-din-27.02.2024-Stabilirea-mandatului-special-al-reprezentantului-al-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+     "sha256": "1112095210e8359fa4dd0de3e4f942baa5799ba9ac8600e1eb1a94b05260cb2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-24-2024",
+   "path": "local/bacau/racova/2024/24",
+   "short": "HCL Racova nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 24/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-24-din-27.02.2024-Rectificarea-bugetului-local-pe-anul-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-24-din-27.02.2024-Rectificarea-bugetului-local-pe-anul-2024.pdf",
+     "sha256": "7219db0e9aade8788baed62947b359604a7aea4325225641bad6339417039c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-25-2024",
+   "path": "local/bacau/racova/2024/25",
+   "short": "HCL Racova nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 25/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-25-din-27.02.2024-Acordarea-cu-titlu-gratuit-a-dreptului-de-uz-si-servitute-catre-Delgaz-Grid.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-25-din-27.02.2024-Acordarea-cu-titlu-gratuit-a-dreptului-de-uz-si-servitute-catre-Delgaz-Grid.pdf",
+     "sha256": "4916aaecf6c78481263b40c36cb10cded4127059edae58a2c9fbc0bffe83b438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-26-2024",
+   "path": "local/bacau/racova/2024/26",
+   "short": "HCL Racova nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 26/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-26-din-27.02.2024-Aprobarea-modificarii-statului-de-functii-al-UAT-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-26-din-27.02.2024-Aprobarea-modificarii-statului-de-functii-al-UAT-Racova.pdf",
+     "sha256": "5e8dc79425bdeb4328fc717dc61339a871ffd477b8396db4c8c06458b1668ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-27-2024",
+   "path": "local/bacau/racova/2024/27",
+   "short": "HCL Racova nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 27/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-27-din-27.02.2024-Constatarea-incetarii-de-drept-a-mandatului-de-consilier-local-a-Bostan-Valerian.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-27-din-27.02.2024-Constatarea-incetarii-de-drept-a-mandatului-de-consilier-local-a-Bostan-Valerian.pdf",
+     "sha256": "0e4c2fe2b44b42278fed0431472ced9883a10b3ca91dd7d3739e89785572e0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-28-2024",
+   "path": "local/bacau/racova/2024/28",
+   "short": "HCL Racova nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 28/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-28-din-27.02.2024-Aprobarea-actului-aditional-4-la-contractul-de-delegare-a-gestiunii-serviciului-de-salubrizare.pdf",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/03/Hotararea-28-din-27.02.2024-Aprobarea-actului-aditional-4-la-contractul-de-delegare-a-gestiunii-serviciului-de-salubrizare.pdf",
+     "sha256": "77de6a015cef124c68375ae6bc3c4bf509f3634b13f4665e9d4b3faacb21180f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-29-2024",
+   "path": "local/bacau/racova/2024/29",
+   "short": "HCL Racova nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 29/2024 Privind rectificarea bugetului local pe anul 2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-29-din-26-.04.2024-Privind-rectificarea-bugetului-local-pe-anul-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-29-din-26-.04.2024-Privind-rectificarea-bugetului-local-pe-anul-2024.pdf",
+     "sha256": "e0eb0ae6ed96e6a83dfb4a17ca1d32a7e10deb244a52f5a51219c34adebdfb7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-3-2024",
+   "path": "local/bacau/racova/2024/3",
+   "short": "HCL Racova nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 3/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1e2bc9b4751015b1fc3fd6f298acd25dced4dbe1a7b38b393e3d5c8f80057dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-30-2024",
+   "path": "local/bacau/racova/2024/30",
+   "short": "HCL Racova nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 30/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-30-din-26.04.2024-Aprobarea-dezmembrarii-si-in-susirea-documentatiei-imobil-63190.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/06/Hotararea-30-din-26.04.2024-Aprobarea-dezmembrarii-si-in-susirea-documentatiei-imobil-63190.pdf",
+     "sha256": "c182befaa05a5c61d1eb42d6f430ebb372f1c856dc769ec4b9dee4f5aa6314a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-37-2024",
+   "path": "local/bacau/racova/2024/37",
+   "short": "HCL Racova nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 37/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-37-DIN-17.07.2024-Rectificarea-bugetului-local-pe-anul-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-37-DIN-17.07.2024-Rectificarea-bugetului-local-pe-anul-2024.pdf",
+     "sha256": "4e6a2f30f2bc0fdf4860cf268cc5964684b9723c662bc6f45ced5d1e4d3ad731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-38-2024",
+   "path": "local/bacau/racova/2024/38",
+   "short": "HCL Racova nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 38/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-38-DIN-26.08.2024-Rectificarea-bugetului-de-venituri-si-cheltuieli-al-UAT-Racova-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-38-DIN-26.08.2024-Rectificarea-bugetului-de-venituri-si-cheltuieli-al-UAT-Racova-2024.pdf",
+     "sha256": "3c67cff5c5d760154d3210b71f3b4c853771946a80ef17d6c0220e7bcfdc647f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-39-2024",
+   "path": "local/bacau/racova/2024/39",
+   "short": "HCL Racova nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 39/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-39-DIN-30.08.2024-Aprobarea-contului-de-executie-al-bugetului-local-semetrul-I-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-39-DIN-30.08.2024-Aprobarea-contului-de-executie-al-bugetului-local-semetrul-I-2024.pdf",
+     "sha256": "a2f86bc28de7e60ae421f16e140ad2b4ee1f534166dae32ab9516147f9ca3343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-4-2024",
+   "path": "local/bacau/racova/2024/4",
+   "short": "HCL Racova nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 4/2024 Privind admiterea candidaturilor depuse de PNL, pentru funcțiile de consilieri în cadrul CL Racova în circumscriptia electorala nr. 71 Racova",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-4-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-PNL-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-4-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-PNL-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+     "sha256": "227f08f4cc5dfa28d36ec5a6bbbb87c1b46c6738d6fe30a83bbc831b598cbb47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-40-2024",
+   "path": "local/bacau/racova/2024/40",
+   "short": "HCL Racova nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 40/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "793f5d2f5b8be55504834e8a33a1e0cfc325d75af2736f33ca048c7bfe1e54f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-41-2024",
+   "path": "local/bacau/racova/2024/41",
+   "short": "HCL Racova nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 41/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-41-DIN-30.08.2024-Aprobarea-indicatorilor-tehnico-economici-obiectiv-Modernizare-drumuri-in-sat.pdf",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-41-DIN-30.08.2024-Aprobarea-indicatorilor-tehnico-economici-obiectiv-Modernizare-drumuri-in-sat.pdf",
+     "sha256": "6f6716c645c5f868ba039d3d2f3ae0d70969f36ac0e99eaa304e7ab0827ef0ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-42-2024",
+   "path": "local/bacau/racova/2024/42",
+   "short": "HCL Racova nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 42/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-42-DIN-30.08.2024-Declararea-de-utilitate-publica-a-obiectivului-de-investitii-Extindere-si-reabilitare-retele-de-distributie-a-apei.pdf",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-42-DIN-30.08.2024-Declararea-de-utilitate-publica-a-obiectivului-de-investitii-Extindere-si-reabilitare-retele-de-distributie-a-apei.pdf",
+     "sha256": "65f6a76ff9de97813269e6646662d8cc9094be417b190ff6449be98ed34616a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-43-2024",
+   "path": "local/bacau/racova/2024/43",
+   "short": "HCL Racova nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 43/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-43-DIN-30.08.2024-Aprobare-schimb-de-imobile.pdf",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/09/Hotararea-43-DIN-30.08.2024-Aprobare-schimb-de-imobile.pdf",
+     "sha256": "a285a2c330b9c3a420d70c34bba181a5f7d821238b11a73d18c90c0247eecbe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-46-2024",
+   "path": "local/bacau/racova/2024/46",
+   "short": "HCL Racova nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 46/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/10/Hotararea-46-din-23.10.2024-Rectificarea-bugetului-de-venituri-si-cheltuieli-al-UAT-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/10/Hotararea-46-din-23.10.2024-Rectificarea-bugetului-de-venituri-si-cheltuieli-al-UAT-Racova.pdf",
+     "sha256": "c45c237080131d2493f9aa994d787ad9c8a52e8b3992af97ed232d6816613d1e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racova-47-2024",
    "path": "local/bacau/racova/2024/47",
    "short": "HCL Racova nr. 47/2024",
@@ -14,6 +494,351 @@
      "units": 1,
      "source_url": "https://primariaracova.ro/wp-content/uploads/2024/10/Hotararea-47-din-23.10.2024-Aprobarea-infiintarii-Serviciului-si-Regulamentului-pentru-gestionarea-cainilor-fara-stapan.pdf",
      "sha256": "5ca15390a6dc07e6f9326014aa919ad65229c95346123704a8b1b1f06c7bbcfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-5-2024",
+   "path": "local/bacau/racova/2024/5",
+   "short": "HCL Racova nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 5/2024 Privind admiterea candidaturii NECHIFOR-GRIGORAȘ IOAN-CLAUDIU depusă de PSD, pentru funcția de primar în circumscriptia electorala nr. 71 Racova",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ec5d9d73bc4e1763ca5b7f922b6adaceeb087a7480b904aef1a03baf244e9c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-51-2024",
+   "path": "local/bacau/racova/2024/51",
+   "short": "HCL Racova nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 51/2024 pentru ședința AGA a CRAB Bacău",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-51-din-27.11.2024-Stabilirea-mandatului-special-al-reprezentantului-al-UAT-Racova-pentru-sedinta-AGA-a-CRAB-Bacau.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-51-din-27.11.2024-Stabilirea-mandatului-special-al-reprezentantului-al-UAT-Racova-pentru-sedinta-AGA-a-CRAB-Bacau.pdf",
+     "sha256": "3c1da51dae697fa9a8f488fb19c65c6cab525ca7cc26e4103ea8e726bad3dd1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-52-2024",
+   "path": "local/bacau/racova/2024/52",
+   "short": "HCL Racova nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 52/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-52-din-27.11.2024-Insusirea-propunerii-de-concesionare-a-unui-teren-in-scopul-infiintarii-unei-ferme-piscicole.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-52-din-27.11.2024-Insusirea-propunerii-de-concesionare-a-unui-teren-in-scopul-infiintarii-unei-ferme-piscicole.pdf",
+     "sha256": "573d65fb5285133e1167b33382423394db5e0c35ed54cf649bf5e5b1342032ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-53-2024",
+   "path": "local/bacau/racova/2024/53",
+   "short": "HCL Racova nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 53/2024 privind aprobarea dezmembrării și însușirea documentației imobil",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-53-din-27.11.2024-Modificarea-si-completarea-art.-2-din-HCL-30-din-2004-privind-aprobarea-dezmembrarii-si-insusirea-documentatiei-imobil.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-53-din-27.11.2024-Modificarea-si-completarea-art.-2-din-HCL-30-din-2004-privind-aprobarea-dezmembrarii-si-insusirea-documentatiei-imobil.pdf",
+     "sha256": "5d6a0f5a12013f5e01f8e4e0064560bb976cb295cc5979962f26fe8aba5a9179"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-54-2024",
+   "path": "local/bacau/racova/2024/54",
+   "short": "HCL Racova nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 54/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e08e0152b3f44914d82f7270eddc2f014d657744ef5805d74c349b95034dd7c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-55-2024",
+   "path": "local/bacau/racova/2024/55",
+   "short": "HCL Racova nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 55/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "46f21c4a5ecd51247488c853c899036627d29815c20c0989c94af2fb0fa167b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-56-2024",
+   "path": "local/bacau/racova/2024/56",
+   "short": "HCL Racova nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 56/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-56-din-27.11.2024-Aprobarea-actualizarii-Programului-Anual-de-Achizitii-Publice-a-Comunei-Racova-pentru-anul-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-56-din-27.11.2024-Aprobarea-actualizarii-Programului-Anual-de-Achizitii-Publice-a-Comunei-Racova-pentru-anul-2024.pdf",
+     "sha256": "221d39dd5d3ffd40c8e9955f3722f293fd9f330b090c12c66dd215d2d2c8e04b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-57-2024",
+   "path": "local/bacau/racova/2024/57",
+   "short": "HCL Racova nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 57/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-57-din-27.11.2024-Aprobarea-contului-de-executie-al-bugetului-UAT-Racova-pe-trimestrul-3-din-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-57-din-27.11.2024-Aprobarea-contului-de-executie-al-bugetului-UAT-Racova-pe-trimestrul-3-din-2024.pdf",
+     "sha256": "a6527cade7a904c671af146e3299af6c245c459d99c6eb8da91daa80cb0e2340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-58-2024",
+   "path": "local/bacau/racova/2024/58",
+   "short": "HCL Racova nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 58/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e8d4a515f568370fad61ab27fcc226171a2b6260ed18536f2a57562400ab0deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-59-2024",
+   "path": "local/bacau/racova/2024/59",
+   "short": "HCL Racova nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 59/2024 pentru anul școlar 2023-2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-59-din-27.11.2024-%E2%80%93-Aprobarea-organizarii-retelei-scolare-a-unitatilor-de-invatamant-peruniversitar-pentru-anul-scolar-2023-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-59-din-27.11.2024-%E2%80%93-Aprobarea-organizarii-retelei-scolare-a-unitatilor-de-invatamant-peruniversitar-pentru-anul-scolar-2023-2024.pdf",
+     "sha256": "ad033418ba3868529d4d33a5a60299647d906ebced010a0dbb1090b074966d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-6-2024",
+   "path": "local/bacau/racova/2024/6",
+   "short": "HCL Racova nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 6/2024 Privind admiterea candidaturilor depuse de PSD, pentru funcțiile de consilieri în cadrul CL Racova în circumscriptia electorala nr. 71 Racova",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-6-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-PSD-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-6-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-PSD-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+     "sha256": "ad3541ad1c4030ce4f3644df933af03ce334b584789cf5ec118f3182c1f341f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-60-2024",
+   "path": "local/bacau/racova/2024/60",
+   "short": "HCL Racova nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 60/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-60-din-27.11.2024-Aprobarea-Regulamentului-de-organizare-si-functionare-a-CL-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-60-din-27.11.2024-Aprobarea-Regulamentului-de-organizare-si-functionare-a-CL-Racova.pdf",
+     "sha256": "fd322c0b9a4c9075ed19759858747986834027f994c31d884601d61d78b5013b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-61-2024",
+   "path": "local/bacau/racova/2024/61",
+   "short": "HCL Racova nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 61/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-61-din-27.11.2024-Aprobarea-actualizarii-statului-de-functii-al-UAT-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/11/Hotararea-61-din-27.11.2024-Aprobarea-actualizarii-statului-de-functii-al-UAT-Racova.pdf",
+     "sha256": "f0e42b0130358816cf29e9190a50539d2a5e8c7d5d9caaa4721b29b64a471c1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-62-2024",
+   "path": "local/bacau/racova/2024/62",
+   "short": "HCL Racova nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 62/2024 pentru ședința AGA CRAB",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-62-din-19.12.2024-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-62-din-19.12.2024-Stabilirea-mandatului-special-al-reprezentantului-legal-al-UAT-Racova-pentru-sedinta-AGA-CRAB.pdf",
+     "sha256": "6da73f7b033c6418de4ba55006637ab257f9aea6f3150ae3fa4c5676897e763e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-63-2024",
+   "path": "local/bacau/racova/2024/63",
+   "short": "HCL Racova nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 63/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-63-din-19.12.2024-Modificarea-si-completarea-art.-1-al-HCL-30-din-2004.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-63-din-19.12.2024-Modificarea-si-completarea-art.-1-al-HCL-30-din-2004.pdf",
+     "sha256": "c57e69c8750a5c7e4634697e0cc31e56736881a3c841b860f07912dbaeeb2629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-64-2024",
+   "path": "local/bacau/racova/2024/64",
+   "short": "HCL Racova nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 64/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-64-din-19.12.2024-Stabilirea-impozitelor-si-taxelor-locale-pentru-2025.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-64-din-19.12.2024-Stabilirea-impozitelor-si-taxelor-locale-pentru-2025.pdf",
+     "sha256": "9ba85a9d7207dc9390b3c106ed632795bb9578d2b8ad3d963c379fa4fd1fae94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-65-2024",
+   "path": "local/bacau/racova/2024/65",
+   "short": "HCL Racova nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 65/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-65-din-19.12.2024-Rectificarea-bugetului-de-venituri-si-cheltuieli-al-UAT-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-65-din-19.12.2024-Rectificarea-bugetului-de-venituri-si-cheltuieli-al-UAT-Racova.pdf",
+     "sha256": "880f43e29d52b1803308fb2200232945b28f3b9ad5eea511f2272d05f23ef785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-66-2024",
+   "path": "local/bacau/racova/2024/66",
+   "short": "HCL Racova nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 66/2024 pentru finanțarea serviciilor sociale",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-66-din-19.12.2024-Stabilirea-costurilor-medii-anuale-pentru-finantarea-serviciilor-sociale.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-66-din-19.12.2024-Stabilirea-costurilor-medii-anuale-pentru-finantarea-serviciilor-sociale.pdf",
+     "sha256": "6859ecd5de6664445ba97416fd9d7cf1b56b24ac71eddfd745d9c5eedb433da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-67-2024",
+   "path": "local/bacau/racova/2024/67",
+   "short": "HCL Racova nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 67/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-67-din-19.12.2024-Insusirea-rezultatului-reevaluarii-bunurilor-proprietate-publica-si-privata-a-Comunei-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-67-din-19.12.2024-Insusirea-rezultatului-reevaluarii-bunurilor-proprietate-publica-si-privata-a-Comunei-Racova.pdf",
+     "sha256": "8612b925c107cdd1a5853bfd4ad800395994a714343a5ec37bc5b9909068c3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-68-2024",
+   "path": "local/bacau/racova/2024/68",
+   "short": "HCL Racova nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 68/2024",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-68-din-19-.12.2024-Aprobarea-inventarului-bunurilor-domeniului-privat-al-Comunei-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/12/Hotararea-68-din-19-.12.2024-Aprobarea-inventarului-bunurilor-domeniului-privat-al-Comunei-Racova.pdf",
+     "sha256": "ae6e9ce29ca19dd392d59d578a3a5e854d438843d5b3eca501c5eb8a7ba4b3c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-7-2024",
+   "path": "local/bacau/racova/2024/7",
+   "short": "HCL Racova nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 7/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7cf68218c8382b9c1e756afa7453b990c7f4a6b7a31aa7480dd41d59f74c8f41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-8-2024",
+   "path": "local/bacau/racova/2024/8",
+   "short": "HCL Racova nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 8/2024 Privind admiterea candidaturilor depuse de ADU USR-PMP-Forța Dreptei, pentru funcțiile de consilieri în cadrul CL Racova în circumscriptia electorala nr. 71 Racova",
+   "url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-8-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-ADU-USR-PMP-Forta-Dreptei-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2024/04/Hotararea-8-din-27.04.2024-Privind-admiterea-candidaturilor-depuse-de-ADU-USR-PMP-Forta-Dreptei-pentru-functiile-de-consilieri-in-cadrul-CL-Racova-in-circumscriptia-electorala-nr.-71-Racova.pdf",
+     "sha256": "ce865a78926b4644e342097373d20b2d2df105d42cc8256c9e734f527dc4bac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-9-2024",
+   "path": "local/bacau/racova/2024/9",
+   "short": "HCL Racova nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 9/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "03fbc754f0c8f01b183202aae0a340a3d26859ada1bfd5c51d31a6fcd4fb34e7"
     }
    ]
   }

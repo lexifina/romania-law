@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/caiuti/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--caiuti-38-2026",
+   "path": "local/bacau/caiuti/2026/38",
+   "short": "HCL Căiuți nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 38/2026",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96UOi6bjio8Dnj2FarBFaenTL2WDdawXblWboi__55HaRVBZYLcbxkRo4jjz0z08X0OGE6OU80Opj6bUnwm2-pnbhExzCnh-wy8k1YS46n4HBM2pxX6gmBIsITO916rSTDTq_xt-3SRM0-eSHu6vhZnuxE737nLWN4lpnXDyN-4z5bB728",
+     "sha256": "45ac945e8f78ce2fa6d8d5ebdfbecb8b2e3c1d3c1189d7450a7f271463dcb1a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-878-2026",
+   "path": "local/bacau/caiuti/2026/878",
+   "short": "HCL Căiuți nr. 878/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 878/2026 pentru însușirea Raportului privind activitatea asistenților personali ai persoanelor cu handicap grav din cadrul Primăriei comunei Căiuți în anul 2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94OrWg1rByUbr3dkokwpAzBU2dWKjK-XjXezJTeZB1vJix23ZLQXxQz9ZykyG1PFPZDG5G_kqNaiBGJ5QvYG5sucvgQMXWLo72wQYNdlfxCbzEGwwjgl1Jxba7MbvRDko-oA4AOkipotJZDGxaRr3I7Sqav-sx4MW71QMtzaB7RyagTCEc",
+     "sha256": "29ac6123ba15bff09a877acb8f611dc9e0c66cb2cfb005f819fd0c4262055125"
+    }
+   ]
+  }
+ ]
+}

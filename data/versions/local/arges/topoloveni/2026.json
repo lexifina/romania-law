@@ -3,6 +3,531 @@
  "shard": "local/arges/topoloveni/2026",
  "acts": [
   {
+   "slug": "hcl-arges--topoloveni-1-2026",
+   "path": "local/arges/topoloveni/2026/1",
+   "short": "HCL Topoloveni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 1/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-1-din-30-01-2026-hotarare-pentru-alegerea-presedintelui-de-sedinta-care-sa-conduca-sedintele-consiliului-local-si-sa-semneze-hotararile-adoptate-de-acesta-in-trimestrul-i-al-anului-202/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_1_din_30.01.2026.pdf",
+     "sha256": "ec9a89a0a349cceb4cadf3b93bda75772849b6717bfb43b7df7f2c7be8707108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-10-2026",
+   "path": "local/arges/topoloveni/2026/10",
+   "short": "HCL Topoloveni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 10/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-10-din-27-02-2026-hotarare-pentru-aprobarea-raportului-de-activitate-al-compartimentului-sport-si-educatie-fizica-pentru-anul-2025-precum-si-pentru-aprobarea-planului-de-activitati-sp/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_10_din_27.02.2026.pdf",
+     "sha256": "f377d08d9d0857d5f304fa1e5ef248034973eb1a53d7a9ea9973355cda843159"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-11-2026",
+   "path": "local/arges/topoloveni/2026/11",
+   "short": "HCL Topoloveni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 11/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_11_din_27.02.2026.pdf.pdf",
+     "sha256": "9931a90bd0e3a1413d966860d837e30cae82ade41b0571c7f72c563479340bb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-12-2026",
+   "path": "local/arges/topoloveni/2026/12",
+   "short": "HCL Topoloveni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 12/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-12-din-27-02-2026-hotarare-pentru-aprobarea-rezultatelor-inventarierii-anuale-a-patrimoniului-administrativ-public-si-privat-al-uat-orasul-topoloveni-aferent-anului-2025/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_12_din_27.02.2026.pdf.pdf",
+     "sha256": "b1dc7e8962b7fc0f4ae003f54f7e283c50f682f0520b5b79720e452d2a049d84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-13-2026",
+   "path": "local/arges/topoloveni/2026/13",
+   "short": "HCL Topoloveni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 13/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-13-din-27-02-2026-hotarare-pentru-acceptarea-donatiei-cu-titlu-gratuit-a-unui-imobil-compus-din-teren-in-suprafata-de-200-mp-impreuna-cu-constructia-situata-pe-acesta-respectiv-sc-2/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/04/Hotararea_nr_13_din_27.02.20262.pdf",
+     "sha256": "f6ff2c84f824a5ca59718918e8774d63e080f207de4973c85b96c1c76bf5a7ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-14-2026",
+   "path": "local/arges/topoloveni/2026/14",
+   "short": "HCL Topoloveni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 14/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-14-din-27-02-2026-hotarare-pentru-aprobarea-contului-de-executie-al-bugetului-de-venituri-si-cheltuieli-al-orasului-topoloveni-la-data-de-31-decembrie-2025-2/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/04/Hotararea_nr_14_din_27.02.2026.pdf",
+     "sha256": "124bd9bbb16132e8a0f1ca0dc0f2fb23f39e059313872e190b0314178b843649"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-16-2026",
+   "path": "local/arges/topoloveni/2026/16",
+   "short": "HCL Topoloveni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 16/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-16-din-31-03-2026-hotarare-pentru-actualizarea-hcl-topoloveni-nr-14-din-28-februarie-2025/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/04/Hotararea_nr_16_din_31.03.2026.pdf",
+     "sha256": "32faaadf29d58643ebe11d33a3e81e6e5b960dda2429c921bcc5a362808bc722"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-17-2026",
+   "path": "local/arges/topoloveni/2026/17",
+   "short": "HCL Topoloveni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 17/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-17-din-31-03-2026-hotarare-pentru-aprobarea-efectuarii-demersurilor-necesare-in-vederea-inscrierii-provizorii-a-dreptului-de-proprietate-a-uat-orasul-topoloveni-pentru-terenul-in-supr/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/04/Hotararea_nr_17_din_31.03.2026.pdf",
+     "sha256": "ae807c5c43400b8751da55cbf70c1399420a7e18fe239218b917be8505dabeb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-18-2026",
+   "path": "local/arges/topoloveni/2026/18",
+   "short": "HCL Topoloveni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 18/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-18-din-31-03-2026-hotarare-pentru-trecerea-unor-bunuri-mijloace-fixe-din-domeniul-public-al-orasului-topoloveni-in-domeniul-privat-al-acestuia-precum-si-scoaterea-din-functiune-a-aces/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/04/Hotararea_nr_18_din_31.03.2026.pdf",
+     "sha256": "d260698e8d3fd4dcda755c334274f24cd0f3e03ae62c9cb3d017b1b22d720326"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-2-2026",
+   "path": "local/arges/topoloveni/2026/2",
+   "short": "HCL Topoloveni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 2/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-2-din-30-01-2026-hotarare-pentru-aprobarea-utilizarii-excedentului-anual-al-bugetului-local-in-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_2_din_30.01.2026.pdf",
+     "sha256": "c7465d9bebc50f879a856e4d696137a3c1e7308cc2e84a6894a2798e16c946a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-20-2026",
+   "path": "local/arges/topoloveni/2026/20",
+   "short": "HCL Topoloveni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 20/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-20-din-15-04-2026-hotarare-pentru-alegerea-presedintelui-de-sedinta-care-sa-conduca-sedintele-consiliului-local-si-sa-semneze-hotararile-adoptate-de-acesta-in-trimestrul-ii-al-anului-2/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_20_din_15.04.2026.pdf",
+     "sha256": "1d3fc73c8134029b614f6e63cd018d14eb78b54cdc9a2872fe943793cf808574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-21-2026",
+   "path": "local/arges/topoloveni/2026/21",
+   "short": "HCL Topoloveni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 21/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-21-din-15-04-2026-hotarare-privind-reducerea-numarului-de-posturi-din-cadrul-autoritatilor-publice-locale-din-uat-oras-topoloveni-in-raport-de-prevederile-art-xl-din-oug-nr-7-2026-p/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_21_din_15.04.2026.pdf",
+     "sha256": "847b4e89832b92f4e7b88114aad793481781ad97376e95eeab1f70614e9b82e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-23-2026",
+   "path": "local/arges/topoloveni/2026/23",
+   "short": "HCL Topoloveni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 23/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-23-din-30-04-2026-hotarare-privind-actualizarea-inventarului-bunurilor-de-retur-cuprinse-in-contractul-de-delegare-a-gestiunii-serviciilor-publice-de-alimentare-cu-apa-si-de-canalizare/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_23_din_30.04.2026.pdf",
+     "sha256": "3b1bfdb00faa0417d882ee64d243c5b55ef623163a0f6f2d1a7e1e4d8b0dc5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-24-2026",
+   "path": "local/arges/topoloveni/2026/24",
+   "short": "HCL Topoloveni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 24/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-24-din-30-04-2026-hotarare-pentru-aplicarea-principiului-instrumentului-economic-plateste-pentru-cat-arunci-in-orasul-topoloveni-judetul-arges-de-catre-operatorul-de-salubritate/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_24_din_30.04.2026.pdf",
+     "sha256": "73e8b0e192948e44e402fab8561a16ea002242e3057d8e7b7db0545fbb854e4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-25-2026",
+   "path": "local/arges/topoloveni/2026/25",
+   "short": "HCL Topoloveni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 25/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-25-din-30-04-2026-hotarare-pentru-aprobarea-dezmembrarii-imobilului-teren-in-suprafata-de-5916-mp-situat-in-orasul-topoloveni-tarla-37-jud-arges-extravilan-avand-numar-cadastra/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_25_din_30.04.2026.pdf",
+     "sha256": "112a23741ce7e2baf2c80c20bf2aef0bbc670ffa9ad22568e6922a97bcbe7151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-27-2026",
+   "path": "local/arges/topoloveni/2026/27",
+   "short": "HCL Topoloveni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 27/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-27-din-30-04-2026-hotarare-pentru-includerea-in-inventarul-bunurilor-apartinand-domeniului-public-al-uat-topoloveni-a-unor-drumuri-vicinale-de-categoria-a-iv-a-drumuri-publice-de-int/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_27_din_30.04.2026.pdf",
+     "sha256": "35e9790aaedd15fd418ebad784dc579f2630618cb60baca535ec9374bbacaa61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-28-2026",
+   "path": "local/arges/topoloveni/2026/28",
+   "short": "HCL Topoloveni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 28/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-28-din-30-04-2026-hotarare-pentru-acordul-consiliului-local-al-orasului-topoloveni-privind-stabilirea-duratei-unor-contracte-de-inchiriere-pentru-spatiile-cu-destinatia-de-locuinta-afl/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_28_din_30.04.2026.pdf",
+     "sha256": "e5b4ce5201f6e4eafe96aa8b7f7ff6b218430cc017a1dcd90ce91143dadac20e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-29-2026",
+   "path": "local/arges/topoloveni/2026/29",
+   "short": "HCL Topoloveni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 29/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-29-din-30-04-2026-hotarare-referitor-la-aprobarea-inregistrarii-in-inventarul-domenului-privat-al-orasului-topoloveni-a-unui-teren-in-suprafata-de-278-mp-si-totodata-vanzarea-directa/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_29_din_30.04.2026.pdf",
+     "sha256": "5ba1e4223db696cdf43b7008b543d1d1858105e3a570dd0e1449f4d25c50344f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-3-2026",
+   "path": "local/arges/topoloveni/2026/3",
+   "short": "HCL Topoloveni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 3/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-3-din-30-01-2026-hotarare-pentru-aprobarea-infiintarii-unei-structuri-functionale-de-tip-compartiment-in-cadrul-directiei-de-asistenta-sociala-topoloveni-respectiv-centrul-multifu/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_3_din_30.01.2026.pdf",
+     "sha256": "ebd24faf1aaaa7526284782a379404d09b40e2c59b84ac590c084ce7bbb8dd1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-31-2026",
+   "path": "local/arges/topoloveni/2026/31",
+   "short": "HCL Topoloveni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 31/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-31-din-30-04-2026-hotarare-privind-darea-in-folosinta-gratuita-a-unor-spatii-catre-institutii-publice-de-interes-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_31_din_30.04.2026.pdf",
+     "sha256": "de946e844d004163b009cc5833cdcce25a85490572ff0ed71cf4c8e6dc6b1e61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-33-2026",
+   "path": "local/arges/topoloveni/2026/33",
+   "short": "HCL Topoloveni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 33/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-33-din-30-04-2026-hotarare-cu-privire-la-indreptarea-unor-erori-materiale-de-tehnoredactare-strecurate-in-hcl-nr-21-2026-si-anexele-hotararii-stat-de-functii-organigrama-in-sensul/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_33_din_30.04.2026_Organigrama.pdf",
+     "sha256": "3246037a66882d6c2fbc7e6da0729c1eeae64cacd1f770bae5534e3e4855be53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-34-2026",
+   "path": "local/arges/topoloveni/2026/34",
+   "short": "HCL Topoloveni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 34/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-34-din-30-04-2026-hotarare-pentru-includerea-in-inventarul-bunurilor-apartinand-domeniului-public-al-uat-topoloveni-a-unor-drumuri-vicinale-de-categoria-a-iv-a-drumuri-publice-de-int/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_34_din_30.04.2026.pdf",
+     "sha256": "f388fdeeb004e6d5b631800e96f8504ed47a09a550e8e7c195b2d65c227f6eda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-36-2026",
+   "path": "local/arges/topoloveni/2026/36",
+   "short": "HCL Topoloveni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 36/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-36-din-11-05-2026-hotarare-pentru-aprobarea-raportului-privind-rezultatele-etichetarii-cheltuielilor-bugetare-detaliat-pe-capitole-si-surse-de-finantare-conform-oug-nr-75-2024-si-hg/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_36_din_11.05.2026.pdf",
+     "sha256": "11a83e0e0c4301eda642b08dca99b283b7bc21b7ea04f83ef8cbdc3a4cd36e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-37-2026",
+   "path": "local/arges/topoloveni/2026/37",
+   "short": "HCL Topoloveni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 37/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-37-din-11-05-2026-hotarare-pentru-modificarea-hcl-topoloveni-nr-2-din-30-ianuarie-2026-referitoare-la-aprobarea-utilizarii-excedentului-anual-al-bugetului-local-in-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_37_din_11.05.2026.pdf",
+     "sha256": "52a779550728567abb4e87d6ebb4aa69f9d6f592a01d4277c9d81fc39a3a9625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-38-2026",
+   "path": "local/arges/topoloveni/2026/38",
+   "short": "HCL Topoloveni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 38/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-38-din-11-05-2026-hotarare-pentru-aprobarea-bugetului-de-venituri-si-cheltuieli-al-orasului-topoloveni-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_38_din_11.05.2026_Buget_2026_3.pdf",
+     "sha256": "6c5a87664230f08861ca26fc83a68f5141f73582bc7041bb5c1c119585da6035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-39-2026",
+   "path": "local/arges/topoloveni/2026/39",
+   "short": "HCL Topoloveni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 39/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-39-din-28-05-2026-hotarare-pentru-aprobarea-dezmembrarii-imobilului-teren-in-suprafata-de-12000-mp-situat-in-orasul-topoloveni-tarla-23-parcela-844-jud-arges-extravilan-avand-n/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_39_din_28.05.2026.pdf",
+     "sha256": "ec24d28052e8b291922c28f4061126fe31a7c46d446ddfcfffbda9ce085a72d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-40-2026",
+   "path": "local/arges/topoloveni/2026/40",
+   "short": "HCL Topoloveni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 40/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-40-din-28-05-2026-hotarare-pentru-aprobarea-dezmembrarii-imobilului-teren-in-suprafata-de-1923-mp-situat-in-orasul-topoloveni-tarla-17-parcela-511-jud-arges-intravilan-avand/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_40_din_28.05.2026.pdf",
+     "sha256": "1739d0bf2802a9df26ccdb72e6e927d3eb4c219f8495b8220e630f26901878d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-41-2026",
+   "path": "local/arges/topoloveni/2026/41",
+   "short": "HCL Topoloveni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 41/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-41-din-28-05-2026-hotarare-pentru-aprobarea-dezmembrarii-imobilului-teren-in-suprafata-de-5128-mp-situat-in-orasul-topoloveni-tarla-26-parcela-940-jud-arges-intravilan-avand/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/06/Hotararea_nr_41_din_28.05.2026.pdf",
+     "sha256": "a8666bfcc7c5f8313db8ae84ed80dca371a5e28863f33cc0027e0a3a94843a4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-45-2026",
+   "path": "local/arges/topoloveni/2026/45",
+   "short": "HCL Topoloveni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 45/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-45-din-25-06-2026-hotarare-privind-darea-in-folosinta-gratuita-a-unor-locuri-de-parcare-apartinand-domeniului-public-al-u-a-t-topoloveni-catre-ministerul-public-parchetul-de-pe-lang/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/07/Hotararea_nr_45_din_25.06.2026.pdf",
+     "sha256": "c1e1ea4a03d4b8bf77c00000b8d64048b36ab27c0f139a38d682e8c408d8c30a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-46-2026",
+   "path": "local/arges/topoloveni/2026/46",
+   "short": "HCL Topoloveni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 46/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-46-din-25-06-2026-hotarare-pentru-stabilirea-numarului-maxim-de-animale-si-pasari-crescute-in-gospodariile-populatiei-si-reglementarea-conditiilor-de-adapostire-a-acestora-pe-raza-admi/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/07/Hotararea_nr_46_din_25.06.2026.pdf",
+     "sha256": "f182d6f016d4874bbf7e9dc9d3fc10a8bc1595ab39799ce42212e5f8485a59ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-47-2026",
+   "path": "local/arges/topoloveni/2026/47",
+   "short": "HCL Topoloveni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 47/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-47-din-25-06-2026-hotarare-pentru-aprobarea-executarii-reparatiilor-la-pista-de-atletism-din-incinta-stadionului-orasului-topoloveni/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/07/Hotararea_nr_47_din_25.06.2026.pdf",
+     "sha256": "f77e51f041fa26070846fda88326e49b8a4a066ee13fd709d734004dcdc18f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-48-2026",
+   "path": "local/arges/topoloveni/2026/48",
+   "short": "HCL Topoloveni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 48/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-48-din-25-06-2026-hotarare-pentru-actualizarea-hcl-nr-36-din-11-mai-2026-pentru-aprobarea-raportului-privind-rezultatele-etichetarii-cheltuielilor-bugetare-detaliat-pe-capitole-si-su/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/07/Hotararea_nr_48_din_25.06.2026.pdf",
+     "sha256": "3887790e0ce131945a5fb79ca4eab2b9c0f9a772c0d87bc1d90ba9032044745d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-49-2026",
+   "path": "local/arges/topoloveni/2026/49",
+   "short": "HCL Topoloveni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 49/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-49-din-25-06-2026-hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-orasului-topoloveni-in-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/07/Hotararea_nr_49_din_25.06.2026_Rectificare_buget_2026.pdf",
+     "sha256": "6e7cfe60cd20c2dbdbf214ee6d9bad8e9758a2f49b7bc9cf065b4164830e7b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-5-2026",
+   "path": "local/arges/topoloveni/2026/5",
+   "short": "HCL Topoloveni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 5/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-5-din-30-01-2026-hotarare-pentru-aprobarea-dezmembrarii-in-2-loturi-distincte-a-imobilului-teren-lot-intreg-in-suprafata-de-1746-mp-situat-in-orasul-topoloveni-tarla-23-parcela-84/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_5_din_30.01.2026.pdf.pdf",
+     "sha256": "08c2746ba6076d1a926c04f4bab744d85d1a33fed75e73c697995d082a3c1cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-50-2026",
+   "path": "local/arges/topoloveni/2026/50",
+   "short": "HCL Topoloveni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 50/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-50-din-29-06-2026-hotarare-pentru-alegerea-presedintelui-de-sedinta-care-sa-conduca-sedinta-consiliului-local-si-sa-semneze-hotararile-adoptate-de-acesta-in-cadrul-sedintei-extraordina/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/07/Hotararea_nr_50_din_29.06.2026.pdf",
+     "sha256": "6a11635759c0749b8af062c39aa313efb8299f6f25da606037df0b806d432fa3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--topoloveni-51-2026",
    "path": "local/arges/topoloveni/2026/51",
    "short": "HCL Topoloveni nr. 51/2026",
@@ -44,6 +569,36 @@
      "units": 1,
      "source_url": "https://topoloveni.ro/wp-content/uploads/2026/08/Hotararea_nr_54_din_24.07.2026.pdf",
      "sha256": "75f4c384117267f803892d8617c5bea64b1e6d2cdaf6f85275d3e639817e4d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-55-2026",
+   "path": "local/arges/topoloveni/2026/55",
+   "short": "HCL Topoloveni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 55/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-55-din-24-07-2026-hotarare-referitoare-la-insusirea-raportului-de-evaluare-intocmite-de-catre-evaluator-autorizat-privind-valoarea-de-piata-pentru-suprafata-de-956-mp-teren-arabil-si/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/08/Hotararea_nr_55_din_24.07.2026.pdf",
+     "sha256": "71663bad230906870b7384284868fa595eaa6689b54cfb61c7df833ff8ba735d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-6-2026",
+   "path": "local/arges/topoloveni/2026/6",
+   "short": "HCL Topoloveni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 6/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-6-din-30-01-2026-hotarare-pentru-aprobare-calendarului-activitatilor-culturale-al-bibliotecii-orasului-topoloveni-in-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_6_din_30.01.2026_Calendar_activitate_Biblioteca_2026.pdf.pdf",
+     "sha256": "72fcf5361b41175b0ed54a84f4830b728473b0ec9eccd8c0bd493edfb4e1e666"
     }
    ]
   },
@@ -119,6 +674,36 @@
      "units": 1,
      "source_url": "https://topoloveni.ro/wp-content/uploads/2026/10/Hotararea_nr_69_din_21.09.2026.pdf",
      "sha256": "cedd8d0895027995d34cc2271bb0d5dfeec2ddd35ac1006e1d5c54b5546aa46e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-7-2026",
+   "path": "local/arges/topoloveni/2026/7",
+   "short": "HCL Topoloveni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 7/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-7-din-30-01-2026-hotarare-pentru-aprobarea-planului-de-actiuni-iucrari-de-interes-local-al-directiei-de-gospodarie-publica-a-orasului-topoloveni-pentru-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_7_din_30.01.2026_Plan_lucrari_2026_Directia_Gospodarie_Publica.pdf.pdf",
+     "sha256": "9a15ac976e3782d9549932cfe89a471d5610c444fc080cff8af99d2b9fac5a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-70-2026",
+   "path": "local/arges/topoloveni/2026/70",
+   "short": "HCL Topoloveni nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 70/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-70-din-21-09-2026-hotarare-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-orasului-topoloveni-in-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/10/Hotararea_nr_70_din_21.09.2026_Rectificare_bugetara.pdf",
+     "sha256": "6481ddd47f571c3d8035836493f094855f766bf1fed8b58ba7e17a98e30ff8d0"
     }
    ]
   },
@@ -243,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--topoloveni-8-2026",
+   "path": "local/arges/topoloveni/2026/8",
+   "short": "HCL Topoloveni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 8/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-8-din-27-02-2026-hotarare-pentru-aprobarea-programului-de-activitati-al-casei-de-cultura-pr-ion-ionescu-topoloveni-pentru-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_8_din_27.02.2026_Program_activitati_Casa_Cultura_2026.pdf.pdf",
+     "sha256": "67401c524f1f024cc72698904c7c6af8894caa9991850dac2945d39d74be04aa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--topoloveni-80-2026",
    "path": "local/arges/topoloveni/2026/80",
    "short": "HCL Topoloveni nr. 80/2026",
@@ -314,6 +914,21 @@
      "units": 1,
      "source_url": "https://topoloveni.ro/wp-content/uploads/2026/11/Hotararea_nr_84_din_04.11.2026_Rectificare_bugetara-1.pdf",
      "sha256": "12208db86063a1341de91442257047c12a36a0be5dd063f5e7b7deb34ba00cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--topoloveni-9-2026",
+   "path": "local/arges/topoloveni/2026/9",
+   "short": "HCL Topoloveni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Topoloveni nr. 9/2026",
+   "url": "https://topoloveni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-de-consiliu-anul-2026/hotararea-nr-9-din-27-02-2026-hotarare-pentru-aprobarea-organigramei-si-statului-de-functii-ale-casei-de-cultura-pr-ion-ionescu-topoloveni-pentru-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://topoloveni.ro/wp-content/uploads/2026/03/Hotararea_nr_9_din_27.02.2026_Organigrama_Casa_cultura.pdf.pdf",
+     "sha256": "6996efe17b21cbb7ff31219cd35ba74ab9cf4691aa1e9229f131ef71cb4d58c9"
     }
    ]
   }

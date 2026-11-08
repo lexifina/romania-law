@@ -3,6 +3,36 @@
  "shard": "local/bacau/nicolae-balcescu/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--nicolae-balcescu-1-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/1",
+   "short": "HCL Nicolae Bălcescu nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 1/2020 privind modificarea anexei I la HCL 33/2017 privind stabilirea salariilor de bază pentru personalul din Organigrama Comunei Nicolae Bălcescu și a indemnizației consilierilor locali",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2953",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-10-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/10",
+   "short": "HCL Nicolae Bălcescu nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 10/2020 privind întocmirea registrului agricol doar în format electronic, începând cu data de 01.01.2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2962",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-100-2020",
    "path": "local/bacau/nicolae-balcescu/2020/100",
    "short": "HCL Nicolae Bălcescu nr. 100/2020",
@@ -13,6 +43,21 @@
      "from": "2020-12-30",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/13741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-11-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/11",
+   "short": "HCL Nicolae Bălcescu nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 11/2020 privind aprobarea conturilor de executie pentru bugetul local si bugetul activitatilor finantate din venituri proprii pe trim. IV 2019",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2963",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2963",
      "sha256": null
     }
    ]
@@ -33,6 +78,96 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-13-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/13",
+   "short": "HCL Nicolae Bălcescu nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 13/2020 privind aprobarea tarifelor pentru chiria pentru spațiile medicale din comună",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2965",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-14-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/14",
+   "short": "HCL Nicolae Bălcescu nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 14/2020 privind majorarea taxei de concesiune cu indicele de inflatie pentru anul 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2966",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-15-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/15",
+   "short": "HCL Nicolae Bălcescu nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 15/2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2967",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-16-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/16",
+   "short": "HCL Nicolae Bălcescu nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 16/2020 privind încheierea unui contract de asistență juridică",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2968",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-17-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/17",
+   "short": "HCL Nicolae Bălcescu nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 17/2020 privind repartizarea sumei de 65 mii lei din bugetul local al Comunei Nicolae Bălcescu, județul Bacău, pe anul 2020 pentru sport",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2969",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-18-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/18",
+   "short": "HCL Nicolae Bălcescu nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 18/2020 privind repartizarea sumei de 90 mii lei din bugetul local al Comunei Nicolae Bălcescu, județul Bacău, pe anul 2020 pentru susținerea cultelor",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2970",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2970",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-19-2020",
    "path": "local/bacau/nicolae-balcescu/2020/19",
    "short": "HCL Nicolae Bălcescu nr. 19/2020",
@@ -43,6 +178,51 @@
      "from": "2020-03-24",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-2-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/2",
+   "short": "HCL Nicolae Bălcescu nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 2/2020 privind avizarea rețelei de învățământ din comuna Nicolae Bălcescu 2020-2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2954",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-20-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/20",
+   "short": "HCL Nicolae Bălcescu nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 20/2020 privind repartizarea sumei de 60 mii lei din bugetul local al Comunei Nicolae Bălcescu, județul Bacău, pe anul 2020 pentru susținerea centrelor familiale",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2971",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-21-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/21",
+   "short": "HCL Nicolae Bălcescu nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 21/2020 privind aprobarea Raportului privind activitatea desfașurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2019",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2972",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2972",
      "sha256": null
     }
    ]
@@ -73,6 +253,21 @@
      "from": "2020-03-24",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-24-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/24",
+   "short": "HCL Nicolae Bălcescu nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 24/2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2975",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2975",
      "sha256": null
     }
    ]
@@ -198,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-32-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/32",
+   "short": "HCL Nicolae Bălcescu nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 32/2020 privind aprobarea acordării unui ajutor financiar",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/8424",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/8424",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-33-2020",
    "path": "local/bacau/nicolae-balcescu/2020/33",
    "short": "HCL Nicolae Bălcescu nr. 33/2020",
@@ -298,6 +508,21 @@
      "from": "2020-07-10",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/8487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-4-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/4",
+   "short": "HCL Nicolae Bălcescu nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 4/2020 privind aprobarea modelului strategiei de dezvoltare a Serviciului de Salubritate a județului Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2956",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2956",
      "sha256": null
     }
    ]
@@ -453,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-5-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/5",
+   "short": "HCL Nicolae Bălcescu nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 5/2020 privind modificarea Contribuției la Economia Circulară pentru deșeurile municipale, deșeurile din construcții și desființări și destinate a fi eliminate prin depozitare pentru anul 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2957",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2957",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-50-2020",
    "path": "local/bacau/nicolae-balcescu/2020/50",
    "short": "HCL Nicolae Bălcescu nr. 50/2020",
@@ -603,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-6-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/6",
+   "short": "HCL Nicolae Bălcescu nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 6/2020 privind aprobarea Planului de acţiuni şi lucrări de interes local pe anul 2020, ce vor executa cu persoanele apte de munca beneficiare ale Legii 416/2001",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2958",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2958",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-60-2020",
    "path": "local/bacau/nicolae-balcescu/2020/60",
    "short": "HCL Nicolae Bălcescu nr. 60/2020",
@@ -658,6 +913,21 @@
      "from": "2020-08-24",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/8540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-64-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/64",
+   "short": "HCL Nicolae Bălcescu nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 64/2020 pentru completarea anexei nr.1 la H.C.L nr.23/2020 privind aprobarea coeficienților de salarizare pentru personalul din Organigrama Comunei Nicolae Bălcescu și a indemnizațiilor consilierilor locali",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/8541",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/8541",
      "sha256": null
     }
    ]
@@ -738,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-7-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/7",
+   "short": "HCL Nicolae Bălcescu nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 7/2020 privind aprobarea Planului anual de acțiuni privind serviciile sociale pentru anul 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2959",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2959",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-70-2020",
    "path": "local/bacau/nicolae-balcescu/2020/70",
    "short": "HCL Nicolae Bălcescu nr. 70/2020",
@@ -793,6 +1078,21 @@
      "from": "2020-11-06",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/11157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-74-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/74",
+   "short": "HCL Nicolae Bălcescu nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 74/2020 privind aprobarea acordării unui ajutor financiar",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/11158",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/11158",
      "sha256": null
     }
    ]
@@ -868,6 +1168,21 @@
      "from": "2020-11-06",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/11163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-8-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/8",
+   "short": "HCL Nicolae Bălcescu nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 8/2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2960",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2960",
      "sha256": null
     }
    ]
@@ -1018,6 +1333,21 @@
      "from": "2020-11-13",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/11248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-9-2020",
+   "path": "local/bacau/nicolae-balcescu/2020/9",
+   "short": "HCL Nicolae Bălcescu nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 9/2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2961",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/2961",
      "sha256": null
     }
    ]

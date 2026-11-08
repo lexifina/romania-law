@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bacau--secuieni-2-2022",
+"path": "local/bacau/secuieni/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 2/2022",
+"short": "HCL Secuieni nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-15",
+"latest": "2022-04-15",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/57214",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--secuieni-3-2022",
 "path": "local/bacau/secuieni/2022/3",
 "kind": "local",
@@ -402,6 +425,29 @@
 }
 },
 {
+"slug": "hcl-bacau--secuieni-20-2022",
+"path": "local/bacau/secuieni/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2022",
+"short": "HCL Secuieni nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/57532",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--secuieni-21-2022",
 "path": "local/bacau/secuieni/2022/21",
 "kind": "local",
@@ -424,6 +470,52 @@
 }
 },
 {
+"slug": "hcl-bacau--secuieni-22-2022",
+"path": "local/bacau/secuieni/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 22/2022",
+"short": "HCL Secuieni nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-10",
+"latest": "2022-05-10",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/59616",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-23-2022",
+"path": "local/bacau/secuieni/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2022",
+"short": "HCL Secuieni nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-10",
+"latest": "2022-05-10",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/59617",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--secuieni-24-2022",
 "path": "local/bacau/secuieni/2022/24",
 "kind": "local",
@@ -443,6 +535,51 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-25-2022",
+"path": "local/bacau/secuieni/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2022 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora;",
+"short": "HCL Secuieni nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-10",
+"latest": "2022-05-10",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/59619",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-26-2022",
+"path": "local/bacau/secuieni/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 26/2022",
+"short": "HCL Secuieni nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-10",
+"latest": "2022-05-10",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/59620",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -488,6 +625,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-29-2022",
+"path": "local/bacau/secuieni/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 29/2022 Privind închirierea prin licitație publică a unui teren curți- construcții în suprafață de 298 mp situat în Comuna Secuieni, sat Secuieni, str. Principala nr. ... , județul Bacău",
+"short": "HCL Secuieni nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-10",
+"latest": "2022-06-10",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/63090",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-30-2022",
+"path": "local/bacau/secuieni/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 30/2022 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescatorilor de animale, membri ai colectivitătii locale, în urma depunerii cererilor acestora",
+"short": "HCL Secuieni nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-10",
+"latest": "2022-06-10",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/63091",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -554,6 +735,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-34-2022",
+"path": "local/bacau/secuieni/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 34/2022 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescatorilor de animale, membri ai colectivitătii locale, în urma depunerii cererilor acestora;",
+"short": "HCL Secuieni nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/67913",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -931,6 +1134,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-52-2022",
+"path": "local/bacau/secuieni/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 52/2022",
+"short": "HCL Secuieni nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/82485",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

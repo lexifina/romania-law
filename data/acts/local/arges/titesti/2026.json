@@ -3,6 +3,96 @@
 "shard": "local/arges/titesti/2026",
 "acts": [
 {
+"slug": "hcl-arges--titesti-1-2026",
+"path": "local/arges/titesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 1/2026",
+"short": "HCL Țițești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-2-2026",
+"path": "local/arges/titesti/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 2/2026",
+"short": "HCL Țițești nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-3-2026",
+"path": "local/arges/titesti/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 3/2026 privind aprobarea programului si calendarului principalelor activitati culturale pe anul 2026 al Bibliotecii Comunale Ţiţeşti și al Casei de Cultura Ţiţeşti | Data publicarii: 29.01.2026",
+"short": "HCL Țițești nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-4-2026",
+"path": "local/arges/titesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 4/2026 privind aprobarea ,,Programului provizoriu de investitii publice al Comunei Titesti , judet Arges , pentru anul 2026’’ | Data publicarii: 29.01.2026",
+"short": "HCL Țițești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--titesti-5-2026",
 "path": "local/arges/titesti/2026/5",
 "kind": "local",
@@ -25,6 +115,29 @@
 }
 },
 {
+"slug": "hcl-arges--titesti-6-2026",
+"path": "local/arges/titesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 6/2026",
+"short": "HCL Țițești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--titesti-7-2026",
 "path": "local/arges/titesti/2026/7",
 "kind": "local",
@@ -44,6 +157,297 @@
 "council_name": "Consiliul Local al Comunei Țițești",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-10-2026",
+"path": "local/arges/titesti/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 10/2026 Privind aprobarea lucrarilor de reparatii ( refacere) : ,,Refacerea marcajelor rutiere in comuna Titesti, judetul Arges | Data publicarii: 02.03.2026",
+"short": "HCL Țițești nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-11-2026",
+"path": "local/arges/titesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 11/2026 Privind aprobarea a devizului general actualizat la faza PT/DATC pentru obiectivul de investitii :,, Suplimentarea limitatoarelor de viteza in satele din comuna Titesti, judet Arges” | Data publicarii: 02.03.2026",
+"short": "HCL Țițești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-12-2026",
+"path": "local/arges/titesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 12/2026 Privind insusirea Raportului de Evaluare privind estimarea chiriei, pentru o suprafata de teren intravilan de 805 mp, situat in comuna Titesti , punct ,,Remiza PSI” , judetul Arges| Data publicarii: 02.03.2026",
+"short": "HCL Țițești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-13-2026",
+"path": "local/arges/titesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 13/2026",
+"short": "HCL Țițești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-14-2026",
+"path": "local/arges/titesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 14/2026 Privind atestarea apartenenței unui bun imobil la domeniul public al comunei Țițești, județul Argeș | Data publicarii: 02.03.2026 Anexa la HCL nr. 14/ 26.02.2026",
+"short": "HCL Țițești nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-15-2026",
+"path": "local/arges/titesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 15/2026 Privind modificarea hotararii Consiliului Local Titesti cu nr. 22 din 29.02.2024, privind insusirea Raportului de Evaluare privind determinarea redeventei pentru o suprafata de 35 mp din terenul intravilan in suprafata de 335 mp, apartinand domeniului public al comunei Titesti, situat in sat Bucsenesti-Lotasi, judetul Arges, avand numar cadastral 83134 | Data publicarii: 02.03.2026",
+"short": "HCL Țițești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-16-2026",
+"path": "local/arges/titesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 16/2026",
+"short": "HCL Țițești nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-27-2026",
+"path": "local/arges/titesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 27/2026",
+"short": "HCL Țițești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-28-2026",
+"path": "local/arges/titesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 28/2026 privind aprobarea protocolului de colaborare nr. 3466/25.03.2026, incheiat intre Primaria comunei Titesti si Administratia Bazinala de Apa Arges-Vedea",
+"short": "HCL Țițești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-36-2026",
+"path": "local/arges/titesti/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 36/2026 cu privire la modificarea componentei comisiilor de specialitate a Consiliului Local Titesti judetul Arges",
+"short": "HCL Țițești nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-38-2026",
+"path": "local/arges/titesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 38/2026",
+"short": "HCL Țițești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-39-2026",
+"path": "local/arges/titesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 39/2026 privind aprobarea procedurii de publicare a listelor contribuabililor, persoane juridice, care inregistreaza precum si a celor care nu inregistreaza obligatii fiscale restante la bugetul local",
+"short": "HCL Țițești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-42-2026",
+"path": "local/arges/titesti/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 42/2026",
+"short": "HCL Țițești nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": null,
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -92,6 +496,28 @@
 }
 },
 {
+"slug": "hcl-arges--titesti-45-2026",
+"path": "local/arges/titesti/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 45/2026 privind aprobarea actualizarii indicatorilor tehnico-economici pentru obiectivul de investiții ,, Extindere sistem de distributie gaze naturale in Comuna Titesti, judetul Arges “ aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Țițești nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--titesti-46-2026",
 "path": "local/arges/titesti/2026/46",
 "kind": "local",
@@ -111,6 +537,94 @@
 "council_name": "Consiliul Local al Comunei Țițești",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--titesti-47-2026",
+"path": "local/arges/titesti/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 47/2026 privind alegerea preşedintelui de şedinţă pentru lunile iulie, august si septembrie 2026",
+"short": "HCL Țițești nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-48-2026",
+"path": "local/arges/titesti/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 48/2026 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2026",
+"short": "HCL Țițești nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-49-2026",
+"path": "local/arges/titesti/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 49/2026 privind aprobarea realizării obiectivului de investitii: ”Extinderea sistemului de canalizare, construire statie de epurare, extinderea si modernizarea sistemului de alimentare cu apa potabila, in Comuna Titesti, judetul Arges”",
+"short": "HCL Țițești nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--titesti-50-2026",
+"path": "local/arges/titesti/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țițești nr. 50/2026 privind aprobarea devizului general al lucrarilor de reparatii si igienizare la fostul sediu CAP+Primarie , din comuna Titesti, judetul Arges",
+"short": "HCL Țițești nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+"council": "arges/titesti",
+"council_name": "Consiliul Local al Comunei Țițești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/slanic-moldova/2021",
+"acts": [
+{
+"slug": "hcl-bacau--slanic-moldova-154-2021",
+"path": "local/bacau/slanic-moldova/2021/154",
+"kind": "local",
+"year": "2021",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 154/2021",
+"short": "HCL Slănic-Moldova nr. 154/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2021/12/HCL-NR.-154-DIN-26.11.2021-APROBARE-GRAFIC-CALENDAR-DE-LUCRU-COMISIE-ANL.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

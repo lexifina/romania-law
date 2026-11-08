@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-11-2025",
+   "path": "local/bacau/cleja/2025/11",
+   "short": "HCL Cleja nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 11/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, pentru anul 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/194027",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/194027",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-110-2025",
    "path": "local/bacau/cleja/2025/110",
    "short": "HCL Cleja nr. 110/2025",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-12-2025",
+   "path": "local/bacau/cleja/2025/12",
+   "short": "HCL Cleja nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 12/2025 privind aprobarea Regulamentului de organizare și funcționare a Bibliotecii comunale Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/194028",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/194028",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-13-2025",
    "path": "local/bacau/cleja/2025/13",
    "short": "HCL Cleja nr. 13/2025",
@@ -208,6 +238,21 @@
      "from": "2025-03-17",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/194029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-14-2025",
+   "path": "local/bacau/cleja/2025/14",
+   "short": "HCL Cleja nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 14/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/194030",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/194030",
      "sha256": null
     }
    ]
@@ -238,6 +283,21 @@
      "from": "2025-03-17",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/194032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-17-2025",
+   "path": "local/bacau/cleja/2025/17",
+   "short": "HCL Cleja nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 17/2025 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul comunei Cleja, județul Bacău, pentru anul 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/194033",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/194033",
      "sha256": null
     }
    ]
@@ -288,6 +348,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-20-2025",
+   "path": "local/bacau/cleja/2025/20",
+   "short": "HCL Cleja nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 20/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/194036",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/194036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-21-2025",
+   "path": "local/bacau/cleja/2025/21",
+   "short": "HCL Cleja nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 21/2025 privind aprobarea Notei conceptuale, a Temei de proiectare și întocmirea documentației tehnico- economice, faza SF în vederea realizării obiectivului de investiții „Extindere infrastructură școlară în localitatea Cleja, comuna Cleja, județul Bacău”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/194037",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/194037",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-22-2025",
    "path": "local/bacau/cleja/2025/22",
    "short": "HCL Cleja nr. 22/2025",
@@ -333,6 +423,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-25-2025",
+   "path": "local/bacau/cleja/2025/25",
+   "short": "HCL Cleja nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 25/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/200221",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/200221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-26-2025",
+   "path": "local/bacau/cleja/2025/26",
+   "short": "HCL Cleja nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 26/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/200222",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/200222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-27-2025",
+   "path": "local/bacau/cleja/2025/27",
+   "short": "HCL Cleja nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 27/2025 privind aprobarea retragerii COMUNEI CLEJA, județul Bacău din cadrul Asociației de Dezvoltare Intercomunitară ”Zona Metropolitană” Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/200223",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/200223",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-28-2025",
    "path": "local/bacau/cleja/2025/28",
    "short": "HCL Cleja nr. 28/2025",
@@ -343,6 +478,21 @@
      "from": "2025-04-15",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/200224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-29-2025",
+   "path": "local/bacau/cleja/2025/29",
+   "short": "HCL Cleja nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 29/2025 privind aprobarea rezultatului cu privire la inventarierea generală a elementelor de natura activelor, datoriilor și capitalurilor proprii aflate în patrimoniul comunei Cleja la data de 31.10.2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/200225",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/200225",
      "sha256": null
     }
    ]
@@ -363,6 +513,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-30-2025",
+   "path": "local/bacau/cleja/2025/30",
+   "short": "HCL Cleja nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 30/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ”Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/200226",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/200226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-31-2025",
+   "path": "local/bacau/cleja/2025/31",
+   "short": "HCL Cleja nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 31/2025 privind aprobarea retragerii COMUNEI CLEJA, județul Bacău din cadrul Asociației de Dezvoltare Intercomunitară de utilitate publică ”SIRET-GAZ” Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/200227",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/200227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-32-2025",
    "path": "local/bacau/cleja/2025/32",
    "short": "HCL Cleja nr. 32/2025",
@@ -373,6 +553,66 @@
      "from": "2025-04-16",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/200570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-33-2025",
+   "path": "local/bacau/cleja/2025/33",
+   "short": "HCL Cleja nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 33/2025 privind aprobarea Notei conceptuale și Temei de proiectare și întocmirea documentației tehnico- economice, faza SF, în vederea realizării obiectivului de investiții „Construire sală de sport școlară, aferentă Școlii Gimnaziale Cleja, comuna Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/203604",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/203604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-34-2025",
+   "path": "local/bacau/cleja/2025/34",
+   "short": "HCL Cleja nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 34/2025 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale la nivelul comunei Cleja, pentru perioada 2025-2030 și a planului anual de acțiune",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/205295",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/205295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-35-2025",
+   "path": "local/bacau/cleja/2025/35",
+   "short": "HCL Cleja nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 35/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Cleja, pentru o perioadă de cel mult 3 (trei) luni, începând cu prima ședință din luna mai 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/205296",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/205296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-36-2025",
+   "path": "local/bacau/cleja/2025/36",
+   "short": "HCL Cleja nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 36/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/205297",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/205297",
      "sha256": null
     }
    ]
@@ -408,6 +648,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-39-2025",
+   "path": "local/bacau/cleja/2025/39",
+   "short": "HCL Cleja nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 39/2025 privind aprobarea cotizației al Asociației de Dezvoltare Intercomunitară Bacău- ADIB, pentru anul 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/209195",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/209195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-4-2025",
+   "path": "local/bacau/cleja/2025/4",
+   "short": "HCL Cleja nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 4/2025 privind aprobarea prelungirii contractului de asistență juridică și modificarea onorariului, cu privire la serviciile juridice de consultanță, asistență și reprezentare juridică a UAT Comuna Cleja, a Consiliului Local, a Comisiei Locale de Fond Funciar, precum și ale Instituției Primarului Comunei Cleja",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/188558",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/188558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-40-2025",
+   "path": "local/bacau/cleja/2025/40",
+   "short": "HCL Cleja nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 40/2025 privind aprobarea cotizației datorată în calitate de membru al Asociației Grupul de Acțiune Locală ”Confluențe Moldave”, începând cu anul 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/209196",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/209196",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-41-2025",
    "path": "local/bacau/cleja/2025/41",
    "short": "HCL Cleja nr. 41/2025",
@@ -423,6 +708,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-42-2025",
+   "path": "local/bacau/cleja/2025/42",
+   "short": "HCL Cleja nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 42/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/209198",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/209198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-43-2025",
+   "path": "local/bacau/cleja/2025/43",
+   "short": "HCL Cleja nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 43/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/209199",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/209199",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-44-2025",
    "path": "local/bacau/cleja/2025/44",
    "short": "HCL Cleja nr. 44/2025",
@@ -433,6 +748,21 @@
      "from": "2025-06-10",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/209200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-45-2025",
+   "path": "local/bacau/cleja/2025/45",
+   "short": "HCL Cleja nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 45/2025 privind participarea comunei Cleja, județul Bacău la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/209201",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/209201",
      "sha256": null
     }
    ]
@@ -468,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-48-2025",
+   "path": "local/bacau/cleja/2025/48",
+   "short": "HCL Cleja nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 48/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/213761",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/213761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-49-2025",
    "path": "local/bacau/cleja/2025/49",
    "short": "HCL Cleja nr. 49/2025",
@@ -483,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-5-2025",
+   "path": "local/bacau/cleja/2025/5",
+   "short": "HCL Cleja nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 5/2025 privind aprobarea salariilor de bază pentru asistenții personali ai persoanelor cu handicap grav și a salariului de bază a bibliotecarului din cadrul compartimentului cultură, începând cu 01.01.2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/188559",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/188559",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-50-2025",
    "path": "local/bacau/cleja/2025/50",
    "short": "HCL Cleja nr. 50/2025",
@@ -493,6 +853,21 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/213763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-51-2025",
+   "path": "local/bacau/cleja/2025/51",
+   "short": "HCL Cleja nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 51/2025 privind actualizarea Strategiei de Dezvoltare Durabilă a comunei Cleja, județul Bacău, pentru perioada 2021-2027",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/213764",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/213764",
      "sha256": null
     }
    ]
@@ -558,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-56-2025",
+   "path": "local/bacau/cleja/2025/56",
+   "short": "HCL Cleja nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 56/2025 privind aprobarea Regulamentului de acordare a unor beneficii sociale sub formă de premii în bani pentru cuplurile care aniversează 50 de ani de căsătorie neîntreruptă în anul 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/218581",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/218581",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-57-2025",
    "path": "local/bacau/cleja/2025/57",
    "short": "HCL Cleja nr. 57/2025",
@@ -573,6 +963,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-58-2025",
+   "path": "local/bacau/cleja/2025/58",
+   "short": "HCL Cleja nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 58/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Cleja, pentru o perioadă de cel mult 3 (trei) luni, începând cu prima ședință din luna august 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/218583",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/218583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-59-2025",
+   "path": "local/bacau/cleja/2025/59",
+   "short": "HCL Cleja nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 59/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/218584",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/218584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-6-2025",
+   "path": "local/bacau/cleja/2025/6",
+   "short": "HCL Cleja nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 6/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Cleja, pentru o perioadă de cel mult 3 (trei) luni, începând cu prima ședință din luna februarie 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/188560",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/188560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-60-2025",
    "path": "local/bacau/cleja/2025/60",
    "short": "HCL Cleja nr. 60/2025",
@@ -583,6 +1018,21 @@
      "from": "2025-08-07",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/218585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-61-2025",
+   "path": "local/bacau/cleja/2025/61",
+   "short": "HCL Cleja nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 61/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/218586",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/218586",
      "sha256": null
     }
    ]
@@ -663,6 +1113,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-67-2025",
+   "path": "local/bacau/cleja/2025/67",
+   "short": "HCL Cleja nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 67/2025 privind aprobarea deschiderii unui cont bancar la UniCredit Bank SA",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/218592",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/218592",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-68-2025",
    "path": "local/bacau/cleja/2025/68",
    "short": "HCL Cleja nr. 68/2025",
@@ -673,6 +1138,36 @@
      "from": "2025-08-07",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/218593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-69-2025",
+   "path": "local/bacau/cleja/2025/69",
+   "short": "HCL Cleja nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 69/2025 privind acordarea unui drept de trecere pentru utilități, cu titlu gratuit, asupra terenurilor situate în comuna Cleja, identificate în cărțile funciare nr. 63458, nr. 62279, nr. 62368, proprietatea UAT Cleja, societății comerciale Compania Regională de Apă Bacău SA",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/218594",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/218594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-7-2025",
+   "path": "local/bacau/cleja/2025/7",
+   "short": "HCL Cleja nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 7/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/188561",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/188561",
      "sha256": null
     }
    ]
@@ -768,6 +1263,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-76-2025",
+   "path": "local/bacau/cleja/2025/76",
+   "short": "HCL Cleja nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 76/2025 privind aprobarea Devizului general actualizat pentru proiectul de investiții: „Construire sală de sport școlară, aferentă Școlii Gimnaziale Cleja, comuna Cleja, județul Bacău”, faza DTAC",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/224212",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/224212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-77-2025",
+   "path": "local/bacau/cleja/2025/77",
+   "short": "HCL Cleja nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 77/2025 pentru aprobarea Regulamentului privind procedura înregistrării și radierii vehiculelor pentru care există obligativitatea înregistrării pe raza administrativ-teritorială a Comunei Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/227476",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/227476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-78-2025",
+   "path": "local/bacau/cleja/2025/78",
+   "short": "HCL Cleja nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 78/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/227477",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/227477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-79-2025",
+   "path": "local/bacau/cleja/2025/79",
+   "short": "HCL Cleja nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 79/2025 privind implementarea proiectului ”Sprijinirea copiilor dezavantajați, înscriși în Centrul de Zi pentru copii aflați în situații de risc de separare de părinți Sf. Lucia din cadrul UAT Comuna Cleja, județul Bacău”, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/227478",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/227478",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-8-2025",
    "path": "local/bacau/cleja/2025/8",
    "short": "HCL Cleja nr. 8/2025",
@@ -778,6 +1333,51 @@
      "from": "2025-02-14",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/188562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-80-2025",
+   "path": "local/bacau/cleja/2025/80",
+   "short": "HCL Cleja nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 80/2025 privind desemnarea reprezentanților Consiliului Local Cleja în Consiliul de Administrație al Școlii Gimnaziale Cleja, comuna Cleja, județul Bacău, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/227479",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/227479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-81-2025",
+   "path": "local/bacau/cleja/2025/81",
+   "short": "HCL Cleja nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 81/2025 privind desemnarea reprezentantului Consiliului Local Cleja în Comisia pentru Evaluare și Asigurare a Calității și Comisia pentru prevenirea și eliminarea violenței, a faptelor de corupție și a discriminării în mediul școlar și a promovării interculturalității în cadrul Școlii Gimnaziale Cleja, comuna Cleja, județul Bacău, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/227480",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/227480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-82-2025",
+   "path": "local/bacau/cleja/2025/82",
+   "short": "HCL Cleja nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 82/2025 privind aprobarea Manualului de Proceduri Interne și a Planului de Dezvoltare a Serviciilor Sociale la nivelul comunei Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/227481",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/227481",
      "sha256": null
     }
    ]
@@ -798,6 +1398,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-84-2025",
+   "path": "local/bacau/cleja/2025/84",
+   "short": "HCL Cleja nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 84/2025 privind aprobarea Notei conceptuale și Temei de proiectare și întocmirea documentației tehnico- economice, faza DALI în vederea realizării obiectivului de investiții „Modernizare și dotare cu echipamente smart a stadionului din sat Cleja, comuna Cleja, județul Bacău”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/230965",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/230965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-85-2025",
    "path": "local/bacau/cleja/2025/85",
    "short": "HCL Cleja nr. 85/2025",
@@ -808,6 +1423,66 @@
      "from": "2025-11-07",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/231871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-86-2025",
+   "path": "local/bacau/cleja/2025/86",
+   "short": "HCL Cleja nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 86/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/231872",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/231872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-87-2025",
+   "path": "local/bacau/cleja/2025/87",
+   "short": "HCL Cleja nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 87/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Cleja, pentru o perioadă de cel mult 3 (trei) luni, începând cu prima ședință din luna noiembrie 2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/231873",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/231873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-88-2025",
+   "path": "local/bacau/cleja/2025/88",
+   "short": "HCL Cleja nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 88/2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/231874",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/231874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-89-2025",
+   "path": "local/bacau/cleja/2025/89",
+   "short": "HCL Cleja nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 89/2025 privind darea în folosință cu titlu gratuit către Școala Gimnazială Cleja a bunurilor achiziționate în cadrul proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din comuna Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/231875",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/231875",
      "sha256": null
     }
    ]

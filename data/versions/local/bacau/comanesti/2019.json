@@ -3,6 +3,141 @@
  "shard": "local/bacau/comanesti/2019",
  "acts": [
   {
+   "slug": "hcl-bacau--comanesti-1-2019",
+   "path": "local/bacau/comanesti/2019/1",
+   "short": "HCL Comănești nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 1/2019 privind acoperirea definitivă a deficitului secțiunii de dezvoltare la data de 31.12.2018, din excedentul bugetului local al anilor precedenți",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-001-08.01.2019.pdf",
+     "sha256": "3542423637618e7f7a8bd7c0d1450f97a796804490a6012f1bcb1b873c7e8bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-10-2019",
+   "path": "local/bacau/comanesti/2019/10",
+   "short": "HCL Comănești nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 10/2019 privind stabilirea salariilor de bază pentru personalul contractual din cadrul Serviciului Local ECO VALEA MUNTELUI COMĂNEȘTI, începând cu data de 01.01.2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-010-30.01.2019.pdf",
+     "sha256": "9424e1a2ea1e9c6fe6ce178fda00866c93c8dd60ebb153743b1de7a1250803f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-100-2019",
+   "path": "local/bacau/comanesti/2019/100",
+   "short": "HCL Comănești nr. 100/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 100/2019 privind cumpărarea imobilului Monument istoric Ansamblul Palatului Ghica Comănești, situat în str. Republicii, nr. 1 din orașul Comănești, jud/ Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-100-11.07.2019.pdf",
+     "sha256": "4bc91123e7d0c085b3b25ab47ee3bbb6cc5fb2a35bc9f3bbb8ea5331e2ba9845"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-101-2019",
+   "path": "local/bacau/comanesti/2019/101",
+   "short": "HCL Comănești nr. 101/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 101/2019 privind alocarea bugetului pentru organizarea și desfășurarea manifestărilor sportive și cultural-artistice dedicate evenimentului \"ZILELE ORAȘULUI COMĂNEȘTI 2019\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-101-11.07.2019.pdf",
+     "sha256": "b1dcf8ddbc291ad3a67090acb8e8eabc42d6a2e3ce12b170a30b5da937c1a25e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-102-2019",
+   "path": "local/bacau/comanesti/2019/102",
+   "short": "HCL Comănești nr. 102/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 102/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-102-29.07.2019.pdf",
+     "sha256": "00de49f07f0fd0e01d9806bdc041e6c865499807db25230166804d30ff659b34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-103-2019",
+   "path": "local/bacau/comanesti/2019/103",
+   "short": "HCL Comănești nr. 103/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 103/2019 privind aprobarea execuției bugetului local la sfârșitul trimestrului II 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-103-29.07.2019.pdf",
+     "sha256": "847477f5d0b3eceb5c8b2cb726ac43987bf0789331baa598bce23b68f91b6e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-104-2019",
+   "path": "local/bacau/comanesti/2019/104",
+   "short": "HCL Comănești nr. 104/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 104/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-104-29.07.2019.pdf",
+     "sha256": "b242bc3246e545303a4c76a9fbc26c606cb5d6762f0e4570c434926008105d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-106-2019",
+   "path": "local/bacau/comanesti/2019/106",
+   "short": "HCL Comănești nr. 106/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 106/2019 privind rectificarea bugetului de venituri și cheltuieli al Serviciului Local \"ECO VALEA MUNTELUI COMĂNEȘTI\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-106-29.07.2019.pdf",
+     "sha256": "dbf2400408a19a4b3119f8fa957691edb7c4f5fb453ffe36b981ddab24e99fe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-107-2019",
+   "path": "local/bacau/comanesti/2019/107",
+   "short": "HCL Comănești nr. 107/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 107/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-107-29.07.2019.pdf",
+     "sha256": "0386737185174e59251c7273b9db95c09465399c1aa5efbcca6b81b8f96f2edb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-108-2019",
    "path": "local/bacau/comanesti/2019/108",
    "short": "HCL Comănești nr. 108/2019",
@@ -14,6 +149,156 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-108-29.07.2019.pdf",
      "sha256": "3352a04c2ced6df58f9510a26fdbfebd557ab3585e020ec71c029bf5dc4bd67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-11-2019",
+   "path": "local/bacau/comanesti/2019/11",
+   "short": "HCL Comănești nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 11/2019 privind aprobarea Bugetului de venituri și cheltuieli pentru anul 2019 al Serviciului Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-011-30.01.2019.pdf",
+     "sha256": "61f08f4c1d417020c34b0e58113a883228b577ce763b9bd22a223958cabc5d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-110-2019",
+   "path": "local/bacau/comanesti/2019/110",
+   "short": "HCL Comănești nr. 110/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 110/2019 privind premierea cuplurilor din orașul Comănești, ce au împlinit 50 de ani de căsătorie",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-110-29.07.2019.pdf",
+     "sha256": "9ba8602a4ab2b583005af41edf3d1fa902274203ee0c0b11c821df4ff7ee7734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-111-2019",
+   "path": "local/bacau/comanesti/2019/111",
+   "short": "HCL Comănești nr. 111/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 111/2019 privind suplimentarea finanțării complementare la unitățile de învățământ de stat care aparțin orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-111-29.07.2019.pdf",
+     "sha256": "ceed910ef061d84277a5d28838b418d97b0308d033b31619bd0e21ac52e8e0db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-112-2019",
+   "path": "local/bacau/comanesti/2019/112",
+   "short": "HCL Comănești nr. 112/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 112/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-112-29.07.2019.pdf",
+     "sha256": "4026d8c9a12da13c30315a1cd9bda8e06c32738ba9dfad26bcaa9cf9ff78f120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-113-2019",
+   "path": "local/bacau/comanesti/2019/113",
+   "short": "HCL Comănești nr. 113/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 113/2019 privind decontarea cheltuielilor de transport pentru cadrele didactice din cadrul școlilor de pe raza orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-113-29.07.2019.pdf",
+     "sha256": "e6a4b2ccb311d7c21d0a4c476adf8df05fdf86bd3a00446c959275637617744d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-115-2019",
+   "path": "local/bacau/comanesti/2019/115",
+   "short": "HCL Comănești nr. 115/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 115/2019 privind cumpărarea imobilului Monument istoric Ansamblul Palatului Ghica Comănești, situat în str. Republicii, nr. 1 din orașul Comănești, jud/ Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-115-29.07.2019.pdf",
+     "sha256": "59743ba5d7cfbf033524199e45dbc3ecd8fcc1649a8444b6038f3e1fa28b1ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-116-2019",
+   "path": "local/bacau/comanesti/2019/116",
+   "short": "HCL Comănești nr. 116/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 116/2019 privind modificarea HCL nr.80 din 23.06.2019 pentru alegerea comisiei de validare a mandatelor consilierilor locali",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-116-29.08.2019.pdf",
+     "sha256": "f0a50f576ba69e8cf1cc16ef4198505373385d09c5f47c5dd36e386093f8d897"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-117-2019",
+   "path": "local/bacau/comanesti/2019/117",
+   "short": "HCL Comănești nr. 117/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 117/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-117-29.08.2019.pdf",
+     "sha256": "fa606fdf085d265ec3b5492f484e70d0730d7aa5af6403af6e1f5bebecb56f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-118-2019",
+   "path": "local/bacau/comanesti/2019/118",
+   "short": "HCL Comănești nr. 118/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 118/2019 privind modificarea HCL nr.85 din 23.06.2019 privind organizarea comisiilor de specialitate pe domenii de activitate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-118-29.08.2019.pdf",
+     "sha256": "f56bd16139416c062a049a8de057f0339f4e0d4b11941c86faba274591a1480e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-119-2019",
+   "path": "local/bacau/comanesti/2019/119",
+   "short": "HCL Comănești nr. 119/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 119/2019 privind respingerea PUD, str. Republicii, nr.58, oraș Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-119-29.08.2019.pdf",
+     "sha256": "d64abeca83e17de56a71bd752fb2fe165cadd6446a1573db41c717cbcd0746a8"
     }
    ]
   },
@@ -33,6 +318,111 @@
    ]
   },
   {
+   "slug": "hcl-bacau--comanesti-120-2019",
+   "path": "local/bacau/comanesti/2019/120",
+   "short": "HCL Comănești nr. 120/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 120/2019 privind rectificarea Bugetului de venituri și cheltuieli pentru anul 2019 al Serviciului Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-120-29.08.2019.pdf",
+     "sha256": "5de0fed1b1ac2046dbcd395d9b31816a821f366ddb0122c6406564d4c69e8c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-121-2019",
+   "path": "local/bacau/comanesti/2019/121",
+   "short": "HCL Comănești nr. 121/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 121/2019 privind modificarea statului de funcții al Serviciului Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-121-29.08.2019.pdf",
+     "sha256": "766ba4007f1f3dc287ad0544f198bc0a9df4aaa638e754c5815e804a92f1f1cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-122-2019",
+   "path": "local/bacau/comanesti/2019/122",
+   "short": "HCL Comănești nr. 122/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 122/2019 privind aprobarea criteriilor, procedurilor și atribuțiilor specifice necesare numirii/eliberării în/din funcție a administratorului public",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-122-29.08.2019.pdf",
+     "sha256": "6ce08e0161dc28e51278a3bf1e546796292de57aeb136f8c159df4f3f720916f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-123-2019",
+   "path": "local/bacau/comanesti/2019/123",
+   "short": "HCL Comănești nr. 123/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 123/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-123-29.08.2019.pdf",
+     "sha256": "5cd2f65459176e6463170021b926cd622577ff8eaa341d9189dd97ae295e5e19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-124-2019",
+   "path": "local/bacau/comanesti/2019/124",
+   "short": "HCL Comănești nr. 124/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 124/2019 privind aprobare PUD str. Pieții, nr. 13, Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-124-29.08.2019.pdf",
+     "sha256": "263ef526b5dc15229e951063aba9deaf5580486f4f210b40ef27349ddafba208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-125-2019",
+   "path": "local/bacau/comanesti/2019/125",
+   "short": "HCL Comănești nr. 125/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 125/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-125-29.08.2019.pdf",
+     "sha256": "795563dff3f9bccb47f74d0a80c182a32920e343d1a3e8241268df61406718e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-126-2019",
+   "path": "local/bacau/comanesti/2019/126",
+   "short": "HCL Comănești nr. 126/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 126/2019 privind aderarea orașului Comănești la Asociația Localităților și Zonelor Istorice și de Artă din România (A.L.Z.I.A.R.)",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-126-29.08.2019.pdf",
+     "sha256": "2abdd3e373a5bfc53cbf757e4c658ee4875531a85d4ea50b0f78d7fe9b867ebb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-127-2019",
    "path": "local/bacau/comanesti/2019/127",
    "short": "HCL Comănești nr. 127/2019",
@@ -44,6 +434,366 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-127-29.08.2019.pdf",
      "sha256": "b806cabf05fed359091a1621d1299d3e69e669365387030d511fe29b0efe3a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-128-2019",
+   "path": "local/bacau/comanesti/2019/128",
+   "short": "HCL Comănești nr. 128/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 128/2019 privind premierea membrilor formației Montana la 40 de ani de activitate artistică",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-128-29.08.2019.pdf",
+     "sha256": "6da5087cd662f7f1e5e4ad27d80d2b058d699a51cb85f57ff01402ddc0bfd117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-129-2019",
+   "path": "local/bacau/comanesti/2019/129",
+   "short": "HCL Comănești nr. 129/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 129/2019 privind modificarea organigramei și a statului de funcții al Serviciului Public de Asistență Socială Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-129-29.08.2019.pdf",
+     "sha256": "7758fc206f331f55db72d759d999c000a35140f10a14eb622ce389d6357712df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-13-2019",
+   "path": "local/bacau/comanesti/2019/13",
+   "short": "HCL Comănești nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 13/2019 pentru aprobarea Listei de Investiții pe anul 2019 la Serviciul Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-013-30.01.2019.pdf",
+     "sha256": "e144026ffd172fed46baa11bdedf8feb20fabf81381183524d033778d0639b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-130-2019",
+   "path": "local/bacau/comanesti/2019/130",
+   "short": "HCL Comănești nr. 130/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 130/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-130-29.08.2019.pdf",
+     "sha256": "e70091231aec21639fd055da2131b7d14c618812e0ea143e2679684349dc7df5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-131-2019",
+   "path": "local/bacau/comanesti/2019/131",
+   "short": "HCL Comănești nr. 131/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 131/2019 pentru completarea și modificarea listei obiectivelor de investiții pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-131-29.08.2019.pdf",
+     "sha256": "53a3846c3b8326ebd49b31ebe3ec71933f3de5d1d9ddd837686e3f62e0aef2a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-132-2019",
+   "path": "local/bacau/comanesti/2019/132",
+   "short": "HCL Comănești nr. 132/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 132/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-132-26.09.2019.pdf",
+     "sha256": "b2affd8729c65f7df2d7413fd0d4b1d88f3b89297b560c9239e712680103713f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-133-2019",
+   "path": "local/bacau/comanesti/2019/133",
+   "short": "HCL Comănești nr. 133/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 133/2019 privind rectificarea bugetului de venituri și cheltuieli pentru anul 2019 al Serviciului Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-133-26.09.2019.pdf",
+     "sha256": "4dcd49df20b0e33e46e0f1bdd86bde8bf4729e29607a1a691db607f717b7a59c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-134-2019",
+   "path": "local/bacau/comanesti/2019/134",
+   "short": "HCL Comănești nr. 134/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 134/2019 privind modificarea statului de funcții pentru aparatul de specialitate al Primarului orașului Comănești și al serviciilor publice subordinate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-134-26.09.2019.pdf",
+     "sha256": "a71a4fadf21dc2b566817cb97444fd3bf52a89067068f905b9ed3edc751a46d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-135-2019",
+   "path": "local/bacau/comanesti/2019/135",
+   "short": "HCL Comănești nr. 135/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 135/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-135-26.09.2019.pdf",
+     "sha256": "8fb300edf63041484ec11d81998d90370b5bac3818f97aac68a3caf46abf6c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-136-2019",
+   "path": "local/bacau/comanesti/2019/136",
+   "short": "HCL Comănești nr. 136/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 136/2019 privind desemnarea reprezentanților Consiliului Local al orașului Comănești în Consiliile de Administrație ale unităților de invățământ din orașul Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-136-26.09.2019.pdf",
+     "sha256": "ec6fb2df40d9122c84f51ff13f7ae6dc97f15f5fadcc9cb8cc277debcb3b8399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-137-2019",
+   "path": "local/bacau/comanesti/2019/137",
+   "short": "HCL Comănești nr. 137/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 137/2019 privind darea în administrare a unor activități din sfera serviciului de salubrizare către Serviciul Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-137-26.09.2019.pdf",
+     "sha256": "b737f180db82060c73a3c6e45fa8944500f7670d3f087a708034ec8a5b8d1344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-138-2019",
+   "path": "local/bacau/comanesti/2019/138",
+   "short": "HCL Comănești nr. 138/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 138/2019 privind darea în administrare a serviciului de iluminat public către Serviciul Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-138-26.09.2019.pdf",
+     "sha256": "1055f27ffec4f49be0b7a2ebdfea055768dfa0c5a72de98ff8f2e0015209e657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-139-2019",
+   "path": "local/bacau/comanesti/2019/139",
+   "short": "HCL Comănești nr. 139/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 139/2019 privind alegerea președintelui de ședință",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-139-26.09.2019.pdf",
+     "sha256": "4cae992a243de1d5889c789ba643c6e1123c8386faf7f699a4375a1c874c9976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-14-2019",
+   "path": "local/bacau/comanesti/2019/14",
+   "short": "HCL Comănești nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 14/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-014-30.01.2019.pdf",
+     "sha256": "e99eb512de1d36f552d7f8289644b02eef6ed6280e95ca1b010965e508addbd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-140-2019",
+   "path": "local/bacau/comanesti/2019/140",
+   "short": "HCL Comănești nr. 140/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 140/2019 privind acordarea unor subvenții din bugetul local al orașului Comănești pentru finanțarea funcționării serviciului public de salubrizare",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-140-26.09.2019.pdf",
+     "sha256": "175a3e5f91e9fa7a7d071a2909d39be733b0c0e386082dfc1b87fd2670009ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-141-2019",
+   "path": "local/bacau/comanesti/2019/141",
+   "short": "HCL Comănești nr. 141/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 141/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-141-26.09.2019.pdf",
+     "sha256": "33a54d07af163f803e3fdf2b1300a429a6b7ed62bf1580741d83d1abd9553b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-142-2019",
+   "path": "local/bacau/comanesti/2019/142",
+   "short": "HCL Comănești nr. 142/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 142/2019 privind aprobarea execuției bugetului local la sfârșitul trimestrului III 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-142-25.10.2019.pdf",
+     "sha256": "8dfcf86224ca1dff532f8aa2a9a568264b6bf3e5d0eab61083887b6fe63139b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-143-2019",
+   "path": "local/bacau/comanesti/2019/143",
+   "short": "HCL Comănești nr. 143/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 143/2019 privind rectificarea BUGETULUI DE VENITURI ȘI CHELTUIELI pentru anul 2019 al Serviciului Local \"ECO VALEA MUNTELUI COMĂNEȘTI\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-143-25.10.2019.pdf",
+     "sha256": "3fa84eb2737e0ef1ffc0de2557a77d7f0bdb2d8734d88a4584b82ecda2f4428b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-144-2019",
+   "path": "local/bacau/comanesti/2019/144",
+   "short": "HCL Comănești nr. 144/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 144/2019 pentru completarea și modificarea Listei obiectivelor de investiții pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-144-25.10.2019.pdf",
+     "sha256": "835a726e0e24e5bacb3482a46ce35a1fc8582028f3c78eff88ea889b685727d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-145-2019",
+   "path": "local/bacau/comanesti/2019/145",
+   "short": "HCL Comănești nr. 145/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 145/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-145-25.10.2019.pdf",
+     "sha256": "49b8d19c6db2705457235cfa7de7f2908824440c7090ba3a1ee772c8136d4d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-147-2019",
+   "path": "local/bacau/comanesti/2019/147",
+   "short": "HCL Comănești nr. 147/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 147/2019 privind aprobarea indicatorilor de performanță ai serviciului de iluminat public",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-147-25.10.2019.pdf",
+     "sha256": "19e79bf7cc8c45687b0beccceb940dcdb3fe8eaf65078c7b07532bcab372820f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-15-2019",
+   "path": "local/bacau/comanesti/2019/15",
+   "short": "HCL Comănești nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 15/2019 privind acordul de principiu în vederea achiziționării imobilelor Muzeu Ghica Palat și Parcul Ghica în suprafață de 74200mp",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-015-30.01.2019.pdf",
+     "sha256": "1cc4ab197257985f99c1699ed9286380aaf4c64212c00c8da1f7f8090509544c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-151-2019",
+   "path": "local/bacau/comanesti/2019/151",
+   "short": "HCL Comănești nr. 151/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 151/2019 privind contracte de concesiuni și de inchirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-151-25.10.2019.pdf",
+     "sha256": "5593e1deb2ec753a66dc079304f24362f658ecaa2ee5fbb8d61c5facbf70f152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-152-2019",
+   "path": "local/bacau/comanesti/2019/152",
+   "short": "HCL Comănești nr. 152/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 152/2019 privind aprobarea Contractului - cadru de furnizare / prestare a serviciului de alimentare cu apă și de canalizare din orașul Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-152-25.10.2019.pdf",
+     "sha256": "f85a76d018c81ca8f2a35747bb0b27478886c9bdc89167fb5c7d77091ea8e40e"
     }
    ]
   },
@@ -63,6 +813,201 @@
    ]
   },
   {
+   "slug": "hcl-bacau--comanesti-154-2019",
+   "path": "local/bacau/comanesti/2019/154",
+   "short": "HCL Comănești nr. 154/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 154/2019 privind aprobarea liniilor de subvenționare prioritare în domeniul asistenței sociale pentru subvenționarea în anul 2020, de la bugetul local, a asociațiilor și fundațiilor",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-154-25.10.2019.pdf",
+     "sha256": "52d6c7a3c6f02e8a5eee8c44e98d6c83d8b6e4134cb527ce0a979fc4ee284436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-155-2019",
+   "path": "local/bacau/comanesti/2019/155",
+   "short": "HCL Comănești nr. 155/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 155/2019 privind soluționarea unei plângeri administrative prealabile",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-155-25.10.2019.pdf",
+     "sha256": "b4f8c0f1a0acc4447c138358c41a6f86ba26433bca5fee8b07e1649a0d406deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-156-2019",
+   "path": "local/bacau/comanesti/2019/156",
+   "short": "HCL Comănești nr. 156/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 156/2019 privind anularea accesoriilor în cazul obligațiilor bugetare restante la 31 decembrie 2018 datorate bugetului local al Orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-156-25.10.2019.pdf",
+     "sha256": "f5297cdf254f141761fe3125743c5efe960dda39c90027a7c9313004beb47160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-157-2019",
+   "path": "local/bacau/comanesti/2019/157",
+   "short": "HCL Comănești nr. 157/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 157/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-157-25.10.2019.pdf",
+     "sha256": "a9090d9cd0fd5aaf54948e6e43c4d6db9b4ee0e97ff072bd0faf9c48e6f867a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-158-2019",
+   "path": "local/bacau/comanesti/2019/158",
+   "short": "HCL Comănești nr. 158/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 158/2019 privind aprobarea PUD, str",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-158-25.10.2019.pdf",
+     "sha256": "9b803f537d792bcf75f81cf647c6c82ec36f63dbe462151840996d8b8cd6a0cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-159-2019",
+   "path": "local/bacau/comanesti/2019/159",
+   "short": "HCL Comănești nr. 159/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 159/2019 privind modificarea și completarea Hotărârii Consiliului Local nr.140/26.09.2019 privind acordarea unei subvenții din bugetul local al Orașului Comănești pentru finanțarea funcționării serviciului public de salubrizare",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-159-25.10.2019.pdf",
+     "sha256": "9284541ed8ced005980e6ddbd04d658d8e0859f2e7e4fb4569034e54b8d238cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-160-2019",
+   "path": "local/bacau/comanesti/2019/160",
+   "short": "HCL Comănești nr. 160/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 160/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-160-28.11.2019.pdf",
+     "sha256": "44cb4d6a173c1562d6dd91bf3931607632dadc8fd594715c2c70fc7c0070d6c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-161-2019",
+   "path": "local/bacau/comanesti/2019/161",
+   "short": "HCL Comănești nr. 161/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 161/2019 pentru completarea și modificarea listei obiectivelor de investiții pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-161-28.11.2019.pdf",
+     "sha256": "d9eabcf8a3ef2d16a73b5a24a741dc74b96dc2ce019b6a1bcbde059f5236c38d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-162-2019",
+   "path": "local/bacau/comanesti/2019/162",
+   "short": "HCL Comănești nr. 162/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 162/2019 privind rectificarea Bugetului de venituri și cheltuieli pe anul 2019 al Serviciului Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-162-28.11.2019.pdf",
+     "sha256": "c12e34020dd5f3a76939113e2d261a4fee26cbd12ab109da51e37f22ecd8856a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-163-2019",
+   "path": "local/bacau/comanesti/2019/163",
+   "short": "HCL Comănești nr. 163/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 163/2019 privind modificarea listei de investiții pe anul 2019 la Serviciul Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-163-28.11.2019.pdf",
+     "sha256": "1b9428689dbe741db1a90f5773e84d92e9d5332771f1a53caca00233dacdb61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-164-2019",
+   "path": "local/bacau/comanesti/2019/164",
+   "short": "HCL Comănești nr. 164/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 164/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-164-28.11.2019.pdf",
+     "sha256": "60776446b0a9bb3aba2618e6d25873067b2c29cf923081c819ccaee47b058258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-165-2019",
+   "path": "local/bacau/comanesti/2019/165",
+   "short": "HCL Comănești nr. 165/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 165/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-165-28.11.2019.pdf",
+     "sha256": "6a1d76649e62d4b4678b4b0406c3b96e507a497c6ff7b3266d52747736711a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-166-2019",
+   "path": "local/bacau/comanesti/2019/166",
+   "short": "HCL Comănești nr. 166/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 166/2019 privind aprobarea Programului și a bugetului alocat organizării și desfășurării cultural-artistice și religioase dedicate Sărbătorilor de Iarnă 2019-2020",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-166-28.11.2019.pdf",
+     "sha256": "30a17223c8d7e199e294d330fb47c34e3aae4b790455c357268bc006d8284f06"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-167-2019",
    "path": "local/bacau/comanesti/2019/167",
    "short": "HCL Comănești nr. 167/2019",
@@ -74,6 +1019,81 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-167-28.11.2019.pdf",
      "sha256": "b78356270d1ec8b9a8fb39700d9b751b4a9bcff2d1cacd272aed302b2a45b84a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-168-2019",
+   "path": "local/bacau/comanesti/2019/168",
+   "short": "HCL Comănești nr. 168/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 168/2019 privind modificarea ogranigramei și a statului de funcții pentru aparatul de specialitate al Primarului orașului Comănești și al serviciilor publice subordonate",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-168-28.11.2019.pdf",
+     "sha256": "734fdf004d0dabde81e047fa38a61a3a411cd67557bafc2aa1fb044abe85e1a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-169-2019",
+   "path": "local/bacau/comanesti/2019/169",
+   "short": "HCL Comănești nr. 169/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 169/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-169-28.11.2019.pdf",
+     "sha256": "59e6db686029e2491c00b07ed4704b76c1c8453e7c04450a0c9adfff9583c8c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-17-2019",
+   "path": "local/bacau/comanesti/2019/17",
+   "short": "HCL Comănești nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 17/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-017-30.01.2019.pdf",
+     "sha256": "9467fb657c9606c5720a7cd2a5c0fa734d42591da9fdff49c44f07989ab864f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-170-2019",
+   "path": "local/bacau/comanesti/2019/170",
+   "short": "HCL Comănești nr. 170/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 170/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-170-28.11.2019.pdf",
+     "sha256": "8a08c7dcd3a73cd7fe840f68e8a60b367da8534726abd6564a6f0f6fcf4de202"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-171-2019",
+   "path": "local/bacau/comanesti/2019/171",
+   "short": "HCL Comănești nr. 171/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 171/2019 privind desemnarea unui reprezentant al Consiliului Local în Consiliul de administrație al Școlii Postliceale \"SANITY\" Comănești, pentru anul școlar 2019-2020",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-171-28.11.2019.pdf",
+     "sha256": "a2df1b5656db8338465d908aeaf88e65a6ad46e6bfbd4bfe43b3131ac9fd4e76"
     }
    ]
   },
@@ -93,6 +1113,231 @@
    ]
   },
   {
+   "slug": "hcl-bacau--comanesti-174-2019",
+   "path": "local/bacau/comanesti/2019/174",
+   "short": "HCL Comănești nr. 174/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 174/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-174-28.11.2019.pdf",
+     "sha256": "f84abea588c8e657036a6fcf7ff6a935c525f6a815bf9326619722315a1e0e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-176-2019",
+   "path": "local/bacau/comanesti/2019/176",
+   "short": "HCL Comănești nr. 176/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 176/2019 privind modificarea și completarea HCL nr. 159/25.10.2019 pentru modificarea și completarea HCL nr.140/26.09.2019 privind acordarea unei subvenții din bugetul local al Orașului Comănești pentru finanțarea funcționării serviciului public de salubrizare",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-176-28.11.2019.pdf",
+     "sha256": "a36a7e42052c1feeb1c5c2382487ceadcb5f8d5fbb588fb5ed2417d1a1978ca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-177-2019",
+   "path": "local/bacau/comanesti/2019/177",
+   "short": "HCL Comănești nr. 177/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 177/2019 privind aprobarea utilizării excedentului bugetar din anul 2019 în anul 2020",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-177-16.12.2019.pdf",
+     "sha256": "3c317d3f6156621b8b5c4494ab963e9bfa9c5e0df35275aff30acbce9eca870d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-178-2019",
+   "path": "local/bacau/comanesti/2019/178",
+   "short": "HCL Comănești nr. 178/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 178/2019 privind rectificarea Bugetului de venituri și cheltuieli pentru anul 2019 al Serviciului Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-178-16.12.2019.pdf",
+     "sha256": "c124ac923fc8f2944c8f2e1dc2f79f9fbeaed05a5327089082cec79247886096"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-179-2019",
+   "path": "local/bacau/comanesti/2019/179",
+   "short": "HCL Comănești nr. 179/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 179/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-179-16.12.2019.pdf",
+     "sha256": "43c474b732c02da476912ede5191eee4662dfb23b7e544a057e96f79ef13d3fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-180-2019",
+   "path": "local/bacau/comanesti/2019/180",
+   "short": "HCL Comănești nr. 180/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 180/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-180-16.12.2019.pdf",
+     "sha256": "6d3a331b66369fc54d89262d2203955bac7f8b09270e5d9c3d7f13ca6cca0a24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-181-2019",
+   "path": "local/bacau/comanesti/2019/181",
+   "short": "HCL Comănești nr. 181/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 181/2019 privind modificarea statului de funcții la Serviciul Public de Asistență Socială Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-181-16.12.2019.pdf",
+     "sha256": "9606c93ca989d4910ed68faefe4420983fb11af54ac008a49be9237bf7b6d97d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-182-2019",
+   "path": "local/bacau/comanesti/2019/182",
+   "short": "HCL Comănești nr. 182/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 182/2019 privind aprobarea listei asociațiilor/fundațiilor cărora li se aprobă încheierea de convenții pentru acordarea de servicii de asistență socială în anul 2020, în baza Legii nr. 34/1998",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-182-16.12.2019.pdf",
+     "sha256": "223de27e2277e35a2243c288864662559603febd57e496125ae5b2df62d7a1fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-183-2019",
+   "path": "local/bacau/comanesti/2019/183",
+   "short": "HCL Comănești nr. 183/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 183/2019 privind aprobarea plății cotizației pentru Societatea Națională de Cruce Roșie din România - Filiala Județului Bacău pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-183-16.12.2019.pdf",
+     "sha256": "ce904ff0d769d29fb1a6a1978db9b92df990f984c5ec658df55b21c1ab6bcffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-186-2019",
+   "path": "local/bacau/comanesti/2019/186",
+   "short": "HCL Comănești nr. 186/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 186/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-186-16.12.2019.pdf",
+     "sha256": "c63de07a5fc69a39744c70e5079eec758f3a358eb689c5e9de74122d0a734a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-187-2019",
+   "path": "local/bacau/comanesti/2019/187",
+   "short": "HCL Comănești nr. 187/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 187/2019 privind respingerea studiului de oportunitate pentru investiția din Comănești, str. Republicii, KM74",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-187-16.12.2019.pdf",
+     "sha256": "d1e56c6f7bc51368ed14141584a3a349c315e2dea5c7f15f251c599ab46434d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-188-2019",
+   "path": "local/bacau/comanesti/2019/188",
+   "short": "HCL Comănești nr. 188/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 188/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-188-16.12.2019.pdf",
+     "sha256": "649119f674e2c1f8bae7f84f9263718aa72578230aa46891490015ddd7022c5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-189-2019",
+   "path": "local/bacau/comanesti/2019/189",
+   "short": "HCL Comănești nr. 189/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 189/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-189-16.12.2019.pdf",
+     "sha256": "6971307639fce358ea2be672316b255a7b6ab9afda736550fdf88a3466d44d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-190-2019",
+   "path": "local/bacau/comanesti/2019/190",
+   "short": "HCL Comănești nr. 190/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 190/2019 privind aprobarea execuției bugetului local pe trim .IV anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-190-16.12.2019.pdf",
+     "sha256": "71832ef694f6f91b6fb9b0f803da1b46928e016b9f537cfb70529cb82778c099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-191-2019",
+   "path": "local/bacau/comanesti/2019/191",
+   "short": "HCL Comănești nr. 191/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 191/2019 privind administrarea SC APA SERV TROTUȘ SRL",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-191-16.12.2019.pdf",
+     "sha256": "d9f706f36dae41be5c68cee55f9a6f5f7ab6289ec6dd7cdc293ca44ad804a4e2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-192-2019",
    "path": "local/bacau/comanesti/2019/192",
    "short": "HCL Comănești nr. 192/2019",
@@ -104,6 +1349,306 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-192-16.12.2019.pdf",
      "sha256": "36b03484dd33d90ba9e8257692dc6b25440dd03f0ccfde277ac9fd92cd1da0f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-193-2019",
+   "path": "local/bacau/comanesti/2019/193",
+   "short": "HCL Comănești nr. 193/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 193/2019 privind alegerea președintelui de ședință",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-193-16.12.2019.pdf",
+     "sha256": "4f0c4bb6174bcf64d02fb46e588528a93063fadf6f5a07cc524e8ed8417d7f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-2-2019",
+   "path": "local/bacau/comanesti/2019/2",
+   "short": "HCL Comănești nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 2/2019 privind completarea HCL nr.181 din 20.12.2018 privind Lista de Investiții Provizorie 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-002-08.01.2019.pdf",
+     "sha256": "754013cfd069a22dedef08575c9ddbec9d80f63fdecece35099760ebf8930291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-20-2019",
+   "path": "local/bacau/comanesti/2019/20",
+   "short": "HCL Comănești nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 20/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-020-30.01.2019.pdf",
+     "sha256": "143b1882b831655b470392c22fc5800626161c78708aaf0a723ae6dcb34c2894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-21-2019",
+   "path": "local/bacau/comanesti/2019/21",
+   "short": "HCL Comănești nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 21/2019 privind organizarea rețelei școlare la nivelul Orașului Comănești pentru anul școlar 2019-2020",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-021-30.01.2019.pdf",
+     "sha256": "b6ffb3eaa3d407ef325b84363c1ad59e68632a4634944d401274a32739965772"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-22-2019",
+   "path": "local/bacau/comanesti/2019/22",
+   "short": "HCL Comănești nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 22/2019 privind organizarea parcului auto și stabilirea normativelor proprii privind consumul de carburanți pentru mijloacele de transport, mașinile și utilajele din dotare",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-022-30.01.2019.pdf",
+     "sha256": "217fd83b7de8c1c6c4545481657c8c500da27397e496d9b40a137fac604e0d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-24-2019",
+   "path": "local/bacau/comanesti/2019/24",
+   "short": "HCL Comănești nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 24/2019 privind aprobarea Actului adițional nr.1 la contractul de delegare prin concesiune a gestiunii serviciului de operare a instalațiilor de deșeuri în județul Bacău nr.1078/1087 din 16.04.2018",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-024-30.01.2019.pdf",
+     "sha256": "638157ec2488e28b6eadcfda1f7d2502efd8b79c5bbdce7590586dbda6ef93e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-25-2019",
+   "path": "local/bacau/comanesti/2019/25",
+   "short": "HCL Comănești nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 25/2019 privind instituirea unei zone de protecție cu interdicție de construire datorită riscului de inundații aferent zonei de confluență a pârâului Șupan cu râul Trotuș",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-025-30.01.2019.pdf",
+     "sha256": "a9c50489cbd8bca4ac2d62f0a237fe09394333e0920bf802e6b8bffbb81cc730"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-27-2019",
+   "path": "local/bacau/comanesti/2019/27",
+   "short": "HCL Comănești nr. 27/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 27/2019 pentru completarea HCL nr. 9 din 30.01.2019 privind Lista de investiții Provizorie 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-027-27.02.2019.pdf",
+     "sha256": "ff910e864b3faf9c5bc32c05a1cace5c248146886f576121416bf66a18b72379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-28-2019",
+   "path": "local/bacau/comanesti/2019/28",
+   "short": "HCL Comănești nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 28/2019 privind aprobarea contractului de dare în administrare a serviciului și a infrastructurii tehnico-edilitare aferente pentru prestarea serviciului de salubrizare către Serviciul Local \"Eco Valea Muntelui Comănești\" din subordinea Consiliului Local Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-028-27.02.2019.pdf",
+     "sha256": "f3ad6e5161ad8a08a47557110729a7cba0d6126d4d5ac8f2d44c07a23d0748f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-29-2019",
+   "path": "local/bacau/comanesti/2019/29",
+   "short": "HCL Comănești nr. 29/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 29/2019 privind aprobarea plății cotizației către Asociația Orașelor din România",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-029-27.02.2019.pdf",
+     "sha256": "8579f83b78089d3bcaf1b3c061a0b7684223ba9c8f0f92f49192930a9f68bb19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-30-2019",
+   "path": "local/bacau/comanesti/2019/30",
+   "short": "HCL Comănești nr. 30/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 30/2019 privind decontarea cheltuielilor de transport pentru cadrele didactice din cadrul școlilor de pe raza orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-030-27.02.2019.pdf",
+     "sha256": "3ce1c922b563f35b291771197a07a8dfbc56db988e5a6c78e1581e1e82589651"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-31-2019",
+   "path": "local/bacau/comanesti/2019/31",
+   "short": "HCL Comănești nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 31/2019 privind aprobare achiziției de servicii tehnice necesare pentru accesarea programelor cu finanțare nerambursabilă pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-031-27.02.2019.pdf",
+     "sha256": "2066de9dbc6625d26c016d00b7a1a6fdfe3b4598eb2f051ee3dc7bd10597c912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-33-2019",
+   "path": "local/bacau/comanesti/2019/33",
+   "short": "HCL Comănești nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 33/2019 privind reprezentarea în justiție a Consiliului Local al Orașului Comănești, judetul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-033-27.02.2019.pdf",
+     "sha256": "6694b084f65841fcb2f0df963678d5384093d71beef51ffdcebcf51deb376629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-34-2019",
+   "path": "local/bacau/comanesti/2019/34",
+   "short": "HCL Comănești nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 34/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-034-27.02.2019.pdf",
+     "sha256": "1546b8ff344e1793af3ca00d6a0c34dfa869c6ba7957f92896fb2249a9b5b3ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-35-2019",
+   "path": "local/bacau/comanesti/2019/35",
+   "short": "HCL Comănești nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 35/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-035-27.02.2019.pdf",
+     "sha256": "70bdb9642c2080ffaeee611795cfb23c7f82effaf898730b75242e4d829dc27e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-37-2019",
+   "path": "local/bacau/comanesti/2019/37",
+   "short": "HCL Comănești nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 37/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-037-27.02.2019.pdf",
+     "sha256": "8813dc918fe6431c43073b6a5bb6dbb165099bf7e66bf72f113ef919e84a4792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-38-2019",
+   "path": "local/bacau/comanesti/2019/38",
+   "short": "HCL Comănești nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 38/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-038-27.02.2019.pdf",
+     "sha256": "1a2b14b033d184adbca192d7353bfb749d02afb1d215303cb461cb8d678acc96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-39-2019",
+   "path": "local/bacau/comanesti/2019/39",
+   "short": "HCL Comănești nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 39/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-039-28.03.2019.pdf",
+     "sha256": "6cfe2278b3312d56fed53efe3b481213865843d7eab83e7d154f50342ecfc977"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-40-2019",
+   "path": "local/bacau/comanesti/2019/40",
+   "short": "HCL Comănești nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 40/2019 privind suspendarea activității la societatea Eco Valea Muntelui Utilități Publice S.A",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-040-28.03.2019.pdf",
+     "sha256": "7f3c63ddfaca9011538ab9e54e30c00a0eb85fa6a60364de70e44cc9f1881e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-41-2019",
+   "path": "local/bacau/comanesti/2019/41",
+   "short": "HCL Comănești nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 41/2019 privind aprobarea modelului de protocol de colaborare pentru implementarea unui sistem integrat de colectare și valorificare a deșeurilor de ambalaje din fluxul menajer",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-041-28.03.2019.pdf",
+     "sha256": "c184a26c798486e67dea9f019d8b126ed50fe4fc52b5a71bd9cdf728a279cb8d"
     }
    ]
   },
@@ -134,6 +1679,366 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-043-28.03.2019.pdf",
      "sha256": "2fe9d5ca4cd85e4f36b61ab25d98bf819240bd82829ba0080aa3b66aa595c52b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-44-2019",
+   "path": "local/bacau/comanesti/2019/44",
+   "short": "HCL Comănești nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 44/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-044-28.03.2019.pdf",
+     "sha256": "5fc51b1a90966eacd3b0a16f8209a535932b7d6346634eebc55189fe19beccc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-45-2019",
+   "path": "local/bacau/comanesti/2019/45",
+   "short": "HCL Comănești nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 45/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-045-28.03.2019.pdf",
+     "sha256": "0866c8b57c0e081d3e8431acc878293705baca148539eaf51af14b75bc274ea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-46-2019",
+   "path": "local/bacau/comanesti/2019/46",
+   "short": "HCL Comănești nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 46/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-046-28.03.2019.pdf",
+     "sha256": "0094d9069e7c92f159d2e223313e42581d5d0d1b79b44f513ad735a8a423d6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-47-2019",
+   "path": "local/bacau/comanesti/2019/47",
+   "short": "HCL Comănești nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 47/2019 privind aprobarea criteriilor, procedurilor și atribuțiilor specifice necesare numirii/eliberării în/din funcție a administratorului public al Orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-047-28.03.2019.pdf",
+     "sha256": "ec1fc0493ddd2a84872ee8aba4ce91c9d10b27acf6af8e14e3fded344c4e49ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-48-2019",
+   "path": "local/bacau/comanesti/2019/48",
+   "short": "HCL Comănești nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 48/2019 privind demararea procedurilor de modificare și completare a HG nr.613/1994 privind alocarea unor fonduri din bugetul de stat pe anul 1994 pentru reconstruirea blocului de locuințe din str",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-048-28.03.2019.pdf",
+     "sha256": "ae5a96e8dc6f8b910deca6f695f7037195acedded17e8245eeaabcd4d8aa28b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-50-2019",
+   "path": "local/bacau/comanesti/2019/50",
+   "short": "HCL Comănești nr. 50/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 50/2019 privind alegerea președintelui de ședință",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-050-28.03.2019.pdf",
+     "sha256": "13910b8ec9d528f4e2a30290e466f061654cdb92725a5b9039d5da6c941800f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-51-2019",
+   "path": "local/bacau/comanesti/2019/51",
+   "short": "HCL Comănești nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 51/2019 privind aprobarea Planului de lucrări de interes local la care vor participa în anul 2019 beneficiarii de ajutor social",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-051-28.03.2019.pdf",
+     "sha256": "1a3b9361409d6f0ad7a0edef73d61f66f52a786fa4baddafbc02fbffb99ae024"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-52-2019",
+   "path": "local/bacau/comanesti/2019/52",
+   "short": "HCL Comănești nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 52/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-052-25.04.2019.pdf",
+     "sha256": "05420d9df1239388b3b2aed0a04737b3131e983378841c0cc0c34fd397c58fcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-53-2019",
+   "path": "local/bacau/comanesti/2019/53",
+   "short": "HCL Comănești nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 53/2019 privind aprobarea execuției bugetului local la sfârșitul trimestrului I 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-053-25.04.2019.pdf",
+     "sha256": "6e8d2fe7061aa549e8f2de6c0d9d8796f727ca27f86965de7b184a787cdbc5ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-54-2019",
+   "path": "local/bacau/comanesti/2019/54",
+   "short": "HCL Comănești nr. 54/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 54/2019 privind aprobarea contului de execuție a bugetului local pe anul 2018",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-054-25.04.2019.pdf",
+     "sha256": "c4da889c2dff9b50a8ecf02853f5d7cfefbe9a68b4f2953de4d03d752979247f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-55-2019",
+   "path": "local/bacau/comanesti/2019/55",
+   "short": "HCL Comănești nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 55/2019 privind aprobarea Listei obiectivelor de investiții pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-055-25.04.2019.pdf",
+     "sha256": "8a0111cf85712e91e54b065bd77fc6c79540c9a83189243bf9e4d752783ec51c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-56-2019",
+   "path": "local/bacau/comanesti/2019/56",
+   "short": "HCL Comănești nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 56/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-056-25.04.2019.pdf",
+     "sha256": "cf34e093db91edca7c407390455f8a0e24298a80ce28240ef9b20ab2a6bc7331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-58-2019",
+   "path": "local/bacau/comanesti/2019/58",
+   "short": "HCL Comănești nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 58/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-058-25.04.2019.pdf",
+     "sha256": "8a120cd2d01d261017af86db5d27bbf912b6e2078cb7caee791203db6f556f8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-59-2019",
+   "path": "local/bacau/comanesti/2019/59",
+   "short": "HCL Comănești nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 59/2019 privind aprobarea bugetului de venituri și cheltuieli, al SC APA SERV TROTUȘ SRL pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-059-25.04.2019.pdf",
+     "sha256": "8006d525e4963b9a7c24396f86667117daa6ca6375c0fa80e20b41db182bbd52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-60-2019",
+   "path": "local/bacau/comanesti/2019/60",
+   "short": "HCL Comănești nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 60/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-060-25.04.2019.pdf",
+     "sha256": "ee5a7707498076a63ea59de5e705c0dff78c1ae9a6c1a9a5fe6c8b58805af546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-61-2019",
+   "path": "local/bacau/comanesti/2019/61",
+   "short": "HCL Comănești nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 61/2019 privind aprobarea LISTEI DE INVESTIȚII pentru anul 2019 la SC APA SERV TROTUȘ S.R.L",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-061-25.04.2019.pdf",
+     "sha256": "ccd98dccd4e821181fd7598e3a73575a5897952c4e8d25a3f5c1f38697462c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-62-2019",
+   "path": "local/bacau/comanesti/2019/62",
+   "short": "HCL Comănești nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 62/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-062-25.04.2019.pdf",
+     "sha256": "ede14bb562058d60d483b7e038eabd9d6cbe94fc7cd499574c3112f8f7d4790f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-63-2019",
+   "path": "local/bacau/comanesti/2019/63",
+   "short": "HCL Comănești nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 63/2019 privind darea în folosință gratuită a unei suprafețe de teren către S.C DELGAZ GRID SA pe durata realizării lucrării: extindere rețea gaze naturale și două branșamente, Comănești, str. Salcâmilor, jud. Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-063-25.04.2019.pdf",
+     "sha256": "df83712873b76a2b3e660bb785c9d797285782a59ad7c937be51aa6be7bf4ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-64-2019",
+   "path": "local/bacau/comanesti/2019/64",
+   "short": "HCL Comănești nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 64/2019 privind respingerea PUD, str. Republicii, nr. 58, oraș Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-064-25.04.2019.pdf",
+     "sha256": "027889f8488332bd4501fd41066ea74b57a7a3c7f7bbf93c4ca250432882347b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-66-2019",
+   "path": "local/bacau/comanesti/2019/66",
+   "short": "HCL Comănești nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 66/2019 privind decontarea cheltuielilor de transport pentru cadrele didactice din cadrul școlilor de pe raza orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-066-25.04.2019.pdf",
+     "sha256": "16d6d16fb7682511718a475dae5a9f0e1fe969dc8043f36ce7bb00493ae43821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-67-2019",
+   "path": "local/bacau/comanesti/2019/67",
+   "short": "HCL Comănești nr. 67/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 67/2019 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-067-25.04.2019.pdf",
+     "sha256": "85a988f33cdf3ca505f75b5ca2cffe91f8fbdb7dfc7aa775dd957bc9fe793fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-69-2019",
+   "path": "local/bacau/comanesti/2019/69",
+   "short": "HCL Comănești nr. 69/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 69/2019 privind stabilirea componenței mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-069-25.04.2019.pdf",
+     "sha256": "c2ff831eb16a3514125f4f91e4e695c2dd3b7c89f03eae9a8507dfc9e057c441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-71-2019",
+   "path": "local/bacau/comanesti/2019/71",
+   "short": "HCL Comănești nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 71/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-071-10.05.2019.pdf",
+     "sha256": "6a0de241f86309eae0a9e4330677fa41f8bf8158addf50c6d361afc87d35e7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-72-2019",
+   "path": "local/bacau/comanesti/2019/72",
+   "short": "HCL Comănești nr. 72/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 72/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-072-28.05.2019.pdf",
+     "sha256": "2742241fcb7262d0eed6b5e84bcf2531948617794ca82a281667bddccafa7bf8"
     }
    ]
   },
@@ -183,6 +2088,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--comanesti-77-2019",
+   "path": "local/bacau/comanesti/2019/77",
+   "short": "HCL Comănești nr. 77/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 77/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-077-28.05.2019.pdf",
+     "sha256": "f99321af3c1160e9f476f03a583ee0c42ee01a7ddb91bc3a106adbfbf04f6676"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-78-2019",
+   "path": "local/bacau/comanesti/2019/78",
+   "short": "HCL Comănești nr. 78/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 78/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-078-28.05.2019.pdf",
+     "sha256": "9d25e02fe627d13bd01e660b26d04fed2bccdb7c72e887d2a0277fcae353590a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-79-2019",
    "path": "local/bacau/comanesti/2019/79",
    "short": "HCL Comănești nr. 79/2019",
@@ -194,6 +2129,276 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-079-28.05.2019.pdf",
      "sha256": "1d27b1fc65840aa4899e1f4e34b84078eaa09fccbc72adae23429d54dc41e153"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-80-2019",
+   "path": "local/bacau/comanesti/2019/80",
+   "short": "HCL Comănești nr. 80/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 80/2019 privind alocarea unor sume pentru organizarea și desfășurarea unor activități sportive",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-080-28.05.2019.pdf",
+     "sha256": "a6cbe51eb73b6b38d850fc64bb38d7be65e47416fb00b6d3f939505571bcad97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-81-2019",
+   "path": "local/bacau/comanesti/2019/81",
+   "short": "HCL Comănești nr. 81/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 81/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-081-28.05.2019.pdf",
+     "sha256": "e838ecd074d10de78f3e6c7e04be04af47864292b7461c2ccce828989c009707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-82-2019",
+   "path": "local/bacau/comanesti/2019/82",
+   "short": "HCL Comănești nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 82/2019 privind aprobarea pentru anul 2019 a unor procente de pierdere pentru producerea, distribuția și transportul apei potabile în orașul Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-082-28.05.2019.pdf",
+     "sha256": "35fffa160e3b0f564c73c968cd5b39919adc1fe9677631eed95895a164f7fd32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-83-2019",
+   "path": "local/bacau/comanesti/2019/83",
+   "short": "HCL Comănești nr. 83/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 83/2019 privind contribuția Consiliului Local Comănești la finanțarea activității de protecție de tip rezidențial al persoanei cu handicap pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-083-28.05.2019.pdf",
+     "sha256": "f6c1d67c975c45bd11cf707c647612fe6c03d0293a46323d2f268d8bc64442e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-84-2019",
+   "path": "local/bacau/comanesti/2019/84",
+   "short": "HCL Comănești nr. 84/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 84/2019 privind modificarea și completarea HCL nr.33 din 27.02.2019 privind reprezentarea în justiție a Consiliului Local al Orașului Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-084-28.05.2019.pdf",
+     "sha256": "5cdf6cef2d1309c2ce4009ccf7a5b51b868bff7cea4d93cdf15a6a3aad61b9ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-85-2019",
+   "path": "local/bacau/comanesti/2019/85",
+   "short": "HCL Comănești nr. 85/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 85/2019 privind aprobarea Acordului de parteneriat pentru implementarea obligațiilor legale privind gestionarea deșeurilor din ambalaje",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-085-28.05.2019.pdf",
+     "sha256": "10c6f1de24723be1f66da2d3ba7cff818f80fc05c4592e2b66194a4f39d33dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-86-2019",
+   "path": "local/bacau/comanesti/2019/86",
+   "short": "HCL Comănești nr. 86/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 86/2019 privind exercitarea dreptului de preempțiune pentru imobilul Monument istoric Ansamblul Palat Ghica Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-086-20.06.2019.pdf",
+     "sha256": "6fe12a8b9446bbab8e81fbd02ad2ff57d1c8b46c7351bcde3a5a19e9667a0bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-87-2019",
+   "path": "local/bacau/comanesti/2019/87",
+   "short": "HCL Comănești nr. 87/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 87/2019 privind rectificarea bugetului de venituri și cheltuieli pe anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-087-27.06.2019.pdf",
+     "sha256": "6a3fd1a2bd892f834a617ed39c42a509a903c5d6e3eced22cdd5595d97abc088"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-88-2019",
+   "path": "local/bacau/comanesti/2019/88",
+   "short": "HCL Comănești nr. 88/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 88/2019 privind completarea și modificarea Listei obiectivelor de investiții pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-088-27.06.2019.pdf",
+     "sha256": "f21e602139da043c5bf98df8c2c4a287308fe8a4eaeed5c8e404f73991d10b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-89-2019",
+   "path": "local/bacau/comanesti/2019/89",
+   "short": "HCL Comănești nr. 89/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 89/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-089-27.06.2019.pdf",
+     "sha256": "37c8ef2ecd41ccc8b556d0562fa5e80a2db34226cb948390d4bc803b11c236bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-9-2019",
+   "path": "local/bacau/comanesti/2019/9",
+   "short": "HCL Comănești nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 9/2019 privind completarea HCL nr.2 din 08.01.2019 privind Lista de Investiții Provizorie 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-009-30.01.2019.pdf",
+     "sha256": "f8d1e849db9cfd06bf364210c38c4aed9a323f584e7217c9c5ee1252a33b0a90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-90-2019",
+   "path": "local/bacau/comanesti/2019/90",
+   "short": "HCL Comănești nr. 90/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 90/2019 privind aprobarea cotizației aferente membrilor ADIS Bacău pentru anul 2019",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-090-27.06.2019.pdf",
+     "sha256": "b60a5622be9f117afe07b3d9ff36d8c2ebe1e1bceeff4c79210eef3a03883cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-91-2019",
+   "path": "local/bacau/comanesti/2019/91",
+   "short": "HCL Comănești nr. 91/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 91/2019 privind aprobarea numărului maxim de autorizații taxi pe raza orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-091-27.06.2019.pdf",
+     "sha256": "f97f811f6b847807e6cec395d46c0199a233323aab63bd784f59b4b53afeb526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-94-2019",
+   "path": "local/bacau/comanesti/2019/94",
+   "short": "HCL Comănești nr. 94/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 94/2019 privind contracte de concesiuni și de închirieri terenuri",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-094-27.06.2019.pdf",
+     "sha256": "064fe764493481229de0010ad703ec4c7ce5be9396bf2990e72bf2f96da485dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-95-2019",
+   "path": "local/bacau/comanesti/2019/95",
+   "short": "HCL Comănești nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 95/2019 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Comănești a unui bun în vederea scoaterii din funcțiune, casării și valorificării",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-095-27.06.2019.pdf",
+     "sha256": "9c0a1d0cd97dffdae2ef2b27e4dbec1337d0e2ade02e5bf82d7501c3bc750794"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-96-2019",
+   "path": "local/bacau/comanesti/2019/96",
+   "short": "HCL Comănești nr. 96/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 96/2019 privind aprobarea trecerii unui imobil din domeniul privat în domeniul public al orașului Comănești, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-096-27.06.2019.pdf",
+     "sha256": "a226345d65e6d6289a82d1086c7ecfb99df44a5515deea4f579e4a760023197b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-97-2019",
+   "path": "local/bacau/comanesti/2019/97",
+   "short": "HCL Comănești nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 97/2019 privind darea în administrare către Direcția Generală de Asistență Socială și Protecție Socială Bacău a unui imobil situat în orașul Comănești, jud. Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-097-27.06.2019.pdf",
+     "sha256": "7c3abfe362c379c03140ac1aceb39b90de0075522edc88f6616cf6483b796241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-98-2019",
+   "path": "local/bacau/comanesti/2019/98",
+   "short": "HCL Comănești nr. 98/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 98/2019 privind alegerea Președintelui de ședință",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/1965-anul-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2019/hcl-098-27.06.2019.pdf",
+     "sha256": "94e9eecf9bf8582395a6ebceb63c9bf361d5fc6724a5ead4483749426e591d30"
     }
    ]
   }

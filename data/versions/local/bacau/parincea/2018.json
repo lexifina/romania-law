@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/parincea/2018",
+ "acts": [
+  {
+   "slug": "hcl-bacau--parincea-18-2018",
+   "path": "local/bacau/parincea/2018/18",
+   "short": "HCL Parincea nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 18/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/5/",
+   "versions": [
+    {
+     "from": "2018-08-18",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2018/08/18-din-27-februarie.pdf",
+     "sha256": "69fb901641f4b9d94d23bbf06612798dc4ea59bc5952411ffe7e6f6ffc8c06f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-44-2018",
+   "path": "local/bacau/parincea/2018/44",
+   "short": "HCL Parincea nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 44/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-44-din-2018.pdf",
+     "sha256": "2ba49bfc525f6f6cdce0ea1358f19351d8e60fdb34b4209d906d4e7d7a633e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-45-2018",
+   "path": "local/bacau/parincea/2018/45",
+   "short": "HCL Parincea nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 45/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-45-din-2018.pdf",
+     "sha256": "ee8f80f8d75e15e40e5be833ab25ebf2123ef8572461561e2e67ff18aea3e203"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-46-2018",
+   "path": "local/bacau/parincea/2018/46",
+   "short": "HCL Parincea nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 46/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-46-din-2018-2.pdf",
+     "sha256": "1336a979b6ed06f52c1ce146f124c72ad37e6ee8363952d702a3bc426a254946"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-47-2018",
+   "path": "local/bacau/parincea/2018/47",
+   "short": "HCL Parincea nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 47/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-47-din-2018-1.pdf",
+     "sha256": "c2f9402d0cbe576d240086e1e3a6cc1aa626d0188cc9f5e3c08947b1c1057e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-48-2018",
+   "path": "local/bacau/parincea/2018/48",
+   "short": "HCL Parincea nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 48/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-48-din-2018-1.pdf",
+     "sha256": "c390aaaf6db6c2548ffcdeb71d5f9bba3fb265b1a90e1a9c0a60fe4a451506f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-49-2018",
+   "path": "local/bacau/parincea/2018/49",
+   "short": "HCL Parincea nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 49/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-49-din-2018-2.pdf",
+     "sha256": "2f9f89bf24ce552d3ba75f8b09a9fc41a0b133969164ee107442ee93f7fd1e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parincea-50-2018",
+   "path": "local/bacau/parincea/2018/50",
+   "short": "HCL Parincea nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 50/2018",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/4/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2019/01/HCL-nr.-50-din-2018.pdf",
+     "sha256": "cd3942925177a1babc00577c01eb30a14ae7376949246d90fa7e84e280520682"
+    }
+   ]
+  }
+ ]
+}

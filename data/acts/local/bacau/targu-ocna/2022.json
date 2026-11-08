@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/targu-ocna/2022",
+"acts": [
+{
+"slug": "hcl-bacau--targu-ocna-19-2022",
+"path": "local/bacau/targu-ocna/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 19/2022 privind completarea HCL Târgu Ocna nr. 19 din 24.02.2022 – validarea reînnoirii mandatelor membrilor CA al SC Util Conseca SRL",
+"short": "HCL Târgu Ocna nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://www.orasul-targuocna.ro/hotarari-ale-consiliului-local-2022/",
+"council": "bacau/targu-ocna",
+"council_name": "Consiliul Local al Orașului Târgu Ocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--targu-ocna-87-2022",
+"path": "local/bacau/targu-ocna/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 87/2022 privind modificarea HCL nr. 87 din 29.09.2022 – desemnarea reprezentanţilor Consiliului local în consiliile de administraţie ale unităţilor de învăţământ",
+"short": "HCL Târgu Ocna nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+"council": "bacau/targu-ocna",
+"council_name": "Consiliul Local al Orașului Târgu Ocna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -168,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-2-2022",
+   "path": "local/bacau/secuieni/2022/2",
+   "short": "HCL Secuieni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 2/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57214",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-20-2022",
+   "path": "local/bacau/secuieni/2022/20",
+   "short": "HCL Secuieni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57532",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57532",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-21-2022",
    "path": "local/bacau/secuieni/2022/21",
    "short": "HCL Secuieni nr. 21/2022",
@@ -183,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-22-2022",
+   "path": "local/bacau/secuieni/2022/22",
+   "short": "HCL Secuieni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 22/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/59616",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-23-2022",
+   "path": "local/bacau/secuieni/2022/23",
+   "short": "HCL Secuieni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/59617",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-24-2022",
    "path": "local/bacau/secuieni/2022/24",
    "short": "HCL Secuieni nr. 24/2022",
@@ -193,6 +253,36 @@
      "from": "2022-05-10",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-25-2022",
+   "path": "local/bacau/secuieni/2022/25",
+   "short": "HCL Secuieni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2022 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/59619",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-26-2022",
+   "path": "local/bacau/secuieni/2022/26",
+   "short": "HCL Secuieni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 26/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/59620",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59620",
      "sha256": null
     }
    ]
@@ -228,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-29-2022",
+   "path": "local/bacau/secuieni/2022/29",
+   "short": "HCL Secuieni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 29/2022 Privind închirierea prin licitație publică a unui teren curți- construcții în suprafață de 298 mp situat în Comuna Secuieni, sat Secuieni, str. Principala nr. ... , județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/63090",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/63090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-3-2022",
    "path": "local/bacau/secuieni/2022/3",
    "short": "HCL Secuieni nr. 3/2022",
@@ -238,6 +343,21 @@
      "from": "2022-04-15",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-30-2022",
+   "path": "local/bacau/secuieni/2022/30",
+   "short": "HCL Secuieni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 30/2022 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescatorilor de animale, membri ai colectivitătii locale, în urma depunerii cererilor acestora",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/63091",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/63091",
      "sha256": null
     }
    ]
@@ -283,6 +403,21 @@
      "from": "2022-08-04",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-34-2022",
+   "path": "local/bacau/secuieni/2022/34",
+   "short": "HCL Secuieni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 34/2022 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescatorilor de animale, membri ai colectivitătii locale, în urma depunerii cererilor acestora;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67913",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67913",
      "sha256": null
     }
    ]
@@ -568,6 +703,21 @@
      "from": "2022-12-13",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-52-2022",
+   "path": "local/bacau/secuieni/2022/52",
+   "short": "HCL Secuieni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 52/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82485",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82485",
      "sha256": null
     }
    ]

@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-14-2026",
+   "path": "local/bacau/rachitoasa/2026/14",
+   "short": "HCL Răchitoasa nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 14/2026 privind privind decontarea cheltuielilor de transport de la domiciliu la serviciu pentru functionarii publici si personalul contractual din cadrul Primariei comunei Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/257386",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/257386",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-15-2026",
    "path": "local/bacau/rachitoasa/2026/15",
    "short": "HCL Răchitoasa nr. 15/2026",
@@ -198,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-22-2026",
+   "path": "local/bacau/rachitoasa/2026/22",
+   "short": "HCL Răchitoasa nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 22/2026 privind aprobarea achiziționării în regim de urgență a serviciilor de închiriere de autospeciale și personal deservent prin Asociația de Dezvoltare Intercomunitară pentru Salubrizare Bacău, în sistem unitar pentru unitățile administrativ-teritoriale afectate de întreruperea serviciului de salubrizare, și acordarea mandatului reprezentantului comunei RĂCHITOASA în Adunarea Generală a ADIS Bacău de a vota în favoarea Proiectului de Hotărâre aferent",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/268233",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/268233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-23-2026",
+   "path": "local/bacau/rachitoasa/2026/23",
+   "short": "HCL Răchitoasa nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 23/2026 privind aprobarea documentației de atribuire a contractului de achiziție publică de servicii respectiv \"colectarea și transportul deșeurilor municipale de pe raza a 65 de U.A.T.-uri din județul Bacău prin procedura de negociere fără publicare\", desemnarea comisiei de evaluare a ofertelor, acordarea mandatelor speciale necesare derulării procedurii NFP",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/268234",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/268234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-24-2026",
    "path": "local/bacau/rachitoasa/2026/24",
    "short": "HCL Răchitoasa nr. 24/2026",
@@ -313,6 +358,21 @@
      "from": "2026-07-13",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/278230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-31-2026",
+   "path": "local/bacau/rachitoasa/2026/31",
+   "short": "HCL Răchitoasa nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 31/2026 privind aprobarea sprijinului financiar de la bugetul local al comunei Răchitoasa, pentru unităţile de cult din comună aparţinând cultelor religioase recunoscute în România din comuna Răchitoasa, pe anul 2026",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/282171",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/282171",
      "sha256": null
     }
    ]

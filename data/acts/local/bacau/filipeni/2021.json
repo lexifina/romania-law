@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-6-2021",
+"path": "local/bacau/filipeni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 6/2021 privind închiriere imobil 29,74 mp - incinta Dispensar uman privat farmaceutic",
+"short": "HCL Filipeni nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-01",
+"latest": "2021-02-01",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/29577",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-7-2021",
 "path": "local/bacau/filipeni/2021/7",
 "kind": "local",
@@ -398,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-20-2021",
+"path": "local/bacau/filipeni/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 20/2021 privind decontare cheltuieli pentru naveta instructor școala de Arte și meserii - Bacău",
+"short": "HCL Filipeni nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-19",
+"latest": "2021-04-19",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/29636",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

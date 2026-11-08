@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/parjol/2023",
+"acts": [
+{
+"slug": "hcl-bacau--parjol-5-2023",
+"path": "local/bacau/parjol/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 5/2023",
+"short": "HCL Pârjol nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primaria-pirjol.ro/continut/fisiere/2026/02/HCL-nr.-5-din-31.01.2023.pdf",
+"council": "bacau/parjol",
+"council_name": "Consiliul Local al Comunei Pârjol",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

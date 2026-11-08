@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gioseni/2019",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gioseni-18-2019",
+   "path": "local/bacau/gioseni/2019/18",
+   "short": "HCL Gioseni nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 18/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_18_din_28.03.2019.pdf",
+     "sha256": "1ea444ec52b8ee4e563975a07012cf2072509514e97bc2848b310c2ffaba761d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-19-2019",
+   "path": "local/bacau/gioseni/2019/19",
+   "short": "HCL Gioseni nr. 19/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 19/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_19_din_16.04.2019.pdf",
+     "sha256": "7df0ccb483b05fededbe137c763bf025c32d82173e9340b24a8444e03a22adc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-20-2019",
+   "path": "local/bacau/gioseni/2019/20",
+   "short": "HCL Gioseni nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 20/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_20_din_16.04.2019.pdf",
+     "sha256": "0a2244e592ac45a5fe68ce8445d51f67f23170ee0d9b169dd78ea06aa42a24c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-21-2019",
+   "path": "local/bacau/gioseni/2019/21",
+   "short": "HCL Gioseni nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 21/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_21_din_16.04.2019.pdf",
+     "sha256": "7dfcb50bd95e2d62d5e5760883df390cf8f85ed9825834b32e0e6d03c01e32e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-22-2019",
+   "path": "local/bacau/gioseni/2019/22",
+   "short": "HCL Gioseni nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 22/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_22_din_16.04.2019.pdf",
+     "sha256": "be5f7b02a04493b060e33be603bf26d7827ca898865af96051d1647cb7e8c494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-23-2019",
+   "path": "local/bacau/gioseni/2019/23",
+   "short": "HCL Gioseni nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 23/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_23_din_16.04.2019.pdf",
+     "sha256": "f1fe96578b28da018aefae18487515cc9703310b28d4ea39e84db42d0327f924"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-24-2019",
+   "path": "local/bacau/gioseni/2019/24",
+   "short": "HCL Gioseni nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 24/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_24_din_16.04.2019.pdf",
+     "sha256": "38bdf52fbb4493b8c54aacf7dce5beea1cd525cb60135692c825ad4bccb66676"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-25-2019",
+   "path": "local/bacau/gioseni/2019/25",
+   "short": "HCL Gioseni nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 25/2019",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/hotarare_25_din_16.04.2019.pdf",
+     "sha256": "0479c8fb15dbe1de65675581370485200ed8ee869b9e75b069c76b8d729155fc"
+    }
+   ]
+  }
+ ]
+}

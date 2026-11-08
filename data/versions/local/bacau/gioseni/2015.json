@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gioseni/2015",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gioseni-14-2015",
+   "path": "local/bacau/gioseni/2015/14",
+   "short": "HCL Gioseni nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 14/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/15-10-21-09-49-04HCL_nr.14_din_12.02.2015.pdf",
+     "sha256": "4ab72d89a7e0b36b0e226fbadc5b9d88bc16c56306c7630dbcb78d88d5e657e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-24-2015",
+   "path": "local/bacau/gioseni/2015/24",
+   "short": "HCL Gioseni nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 24/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/HCL_nr.24_din_19.03.2015.pdf",
+     "sha256": "f947a19e8a6c50e83d10c8ddcbe3956206725d0a4b2c28b67d8ef93110bfb8cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-29-2015",
+   "path": "local/bacau/gioseni/2015/29",
+   "short": "HCL Gioseni nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 29/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/HCL_nr.29_din_30.04.2015.pdf",
+     "sha256": "6494d39a0d2a731776395ab1b81b5fddcb68bd019f1dd9397ea7af5e475f593a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-33-2015",
+   "path": "local/bacau/gioseni/2015/33",
+   "short": "HCL Gioseni nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 33/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/HCL_nr.33_din_29.04.2015.pdf",
+     "sha256": "d6db5de5d9b67f856f1be9723b31c07b4636ef66dbe0d9ef24783a07cebba916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-39-2015",
+   "path": "local/bacau/gioseni/2015/39",
+   "short": "HCL Gioseni nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 39/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/15-10-28-10-02-14HCL_nr.39_din_30.06.2015.pdf",
+     "sha256": "b284d201936f73ffcff7fc8615488c1ba89c17114d4d366474d429267ec56daf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-4-2015",
+   "path": "local/bacau/gioseni/2015/4",
+   "short": "HCL Gioseni nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 4/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=43",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/HCL_nr.4_din_22.01.2015.pdf",
+     "sha256": "16c61bef27753487743ade6f0d259b0acdfc36313a0e461c07aacb5efb7dcd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-49-2015",
+   "path": "local/bacau/gioseni/2015/49",
+   "short": "HCL Gioseni nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 49/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/HCL_nr.49_din_27.08.2015.pdf",
+     "sha256": "d8573ab538a7187d700ec75cd3612836caa2fda502b28cf4d2a0b88744cee218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-50-2015",
+   "path": "local/bacau/gioseni/2015/50",
+   "short": "HCL Gioseni nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 50/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=42",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/15-10-28-09-59-41HCL_nr.50_din_27.08.2015.pdf",
+     "sha256": "f9ab6514d635eb6e28f57b16a87d2cb9fa4564cc259f2ffcf2afd0c581c8ad2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-6-2015",
+   "path": "local/bacau/gioseni/2015/6",
+   "short": "HCL Gioseni nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 6/2015",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=43",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2019/12/HCL_nr.6_din_22.01.2015.pdf",
+     "sha256": "b0e113e6f45f658900c13325f24cb7e0ee122b324115b701fc7c64f89386c10d"
+    }
+   ]
+  }
+ ]
+}

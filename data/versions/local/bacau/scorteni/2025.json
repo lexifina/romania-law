@@ -3,6 +3,111 @@
  "shard": "local/bacau/scorteni/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--scorteni-57-2025",
+   "path": "local/bacau/scorteni/2025/57",
+   "short": "HCL Scorțeni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 57/2025 privind implementarea proiectului „Achizitie miniexcavator cu echipare IoT”",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/226860",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/226860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--scorteni-58-2025",
+   "path": "local/bacau/scorteni/2025/58",
+   "short": "HCL Scorțeni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 58/2025 aprobarea devizului general si a indicatorilor tehnico-economici al investitiei ,, Renovarea gradinite din comuna Scorteni si transformarea in hub de dezvoltare a competentelor digitale si dotarea cu echipamente IT”;",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/227206",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/227206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--scorteni-59-2025",
+   "path": "local/bacau/scorteni/2025/59",
+   "short": "HCL Scorțeni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 59/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare a operatorului SC ECO SUD SA",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/227207",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/227207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--scorteni-60-2025",
+   "path": "local/bacau/scorteni/2025/60",
+   "short": "HCL Scorțeni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 60/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC SCOMPANIA ROMPREST SERVICE S.A",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/227208",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/227208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--scorteni-61-2025",
+   "path": "local/bacau/scorteni/2025/61",
+   "short": "HCL Scorțeni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 61/2025 privind rectificarea bugetului de venituri si de cheltuieli pe anul 2025",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/227209",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/227209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--scorteni-62-2025",
+   "path": "local/bacau/scorteni/2025/62",
+   "short": "HCL Scorțeni nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 62/2025 privind atestarea apartenentei la domeniul privat al comunei Scorteni, judetul Bacau si inscrierea in cartea funciară a comunei Scorteni, judetul Bacau a unor imobile teren in suprafețele de 140.934 mp. si 155.594 mp. categorie de folosință neproductiv, situate in extravilanul comunei Scorteni, judetul Bacău, Tarlaua 56, P 1560, P 1561",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/227210",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/227210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--scorteni-63-2025",
+   "path": "local/bacau/scorteni/2025/63",
+   "short": "HCL Scorțeni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 63/2025",
+   "url": "https://emol.ro/scorteni-bc/registru-hcl/227211",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-bc/registru-hcl/227211",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--scorteni-64-2025",
    "path": "local/bacau/scorteni/2025/64",
    "short": "HCL Scorțeni nr. 64/2025",

@@ -157,6 +157,117 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-8-2022",
+"path": "local/bacau/filipeni/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 8/2022",
+"short": "HCL Filipeni nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79589",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-9-2022",
+"path": "local/bacau/filipeni/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 9/2022 privind acordarea unor ajutoare de urgență familiilor sau persoanelor care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente, precum și alte situații deosebite",
+"short": "HCL Filipeni nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79590",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-10-2022",
+"path": "local/bacau/filipeni/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 10/2022 privind aprobarea Portofoliului de lucări ce vor fi executate anual de către persoanele beneficiare de ajutor social și de persoanele ce au de efectuat activități în folosul comunității precum și aprobarea situațiilor în care se pot acorda ajutoare de urgență familiilor și persoanelor care se afla în situații deosebite",
+"short": "HCL Filipeni nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79591",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-11-2022",
+"path": "local/bacau/filipeni/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 11/2022 privind aprobarea actului adițional nr. 4 la documentul de poziție privind modul de implementare a proiectului ”Sistem integrat de management al deșeurilor solide în județul Bacău”",
+"short": "HCL Filipeni nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79592",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-12-2022",
+"path": "local/bacau/filipeni/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 12/2022 privind diminuarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav pentru anul 2022",
+"short": "HCL Filipeni nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79593",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-13-2022",
 "path": "local/bacau/filipeni/2022/13",
 "kind": "local",
@@ -176,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-14-2022",
+"path": "local/bacau/filipeni/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 14/2022 privind desemnarea unui reprezentant al Consiliului local și al unui membru supleant pentru a face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director/director adjunct, sesiunea ianuarie-aprilie 2022",
+"short": "HCL Filipeni nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79595",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +378,29 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-18-2022",
+"path": "local/bacau/filipeni/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 18/2022",
+"short": "HCL Filipeni nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79599",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-19-2022",
 "path": "local/bacau/filipeni/2022/19",
 "kind": "local",
@@ -265,6 +421,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-20-2022",
+"path": "local/bacau/filipeni/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 20/2022 privind aprobarea aderării comunei Horgești, jud. Bacău, identificată cu cod fiscal 4455145, la Asociația de Dezvoltare Intercomunitară Ungureni-Buhoci, Bacău, (A.D.I Ungureni-Buhoci, Bacău), identificată cu cod fiscal 24125028, nr. înscrierii în registrul special: 27/A/04.06.2008 partea A-ASOCIAȚII, SECȚIUNEA I",
+"short": "HCL Filipeni nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79601",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -420,6 +598,29 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-28-2022",
+"path": "local/bacau/filipeni/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 28/2022",
+"short": "HCL Filipeni nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79610",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -775,6 +976,29 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-45-2022",
+"path": "local/bacau/filipeni/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 45/2022",
+"short": "HCL Filipeni nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79895",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-46-2022",
 "path": "local/bacau/filipeni/2022/46",
 "kind": "local",
@@ -882,6 +1106,28 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-51-2022",
+"path": "local/bacau/filipeni/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 51/2022 privind desemnarea a doi reprezentanți ai Consiliului local în Consiliul de Administrație al Școlii Gimnaziale Filipeni, în anul școlar 2022-2023",
+"short": "HCL Filipeni nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/79927",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

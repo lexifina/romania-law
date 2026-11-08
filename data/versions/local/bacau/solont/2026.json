@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/solont/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--solont-34-2026",
+   "path": "local/bacau/solont/2026/34",
+   "short": "HCL Solonț nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Solonț nr. 34/2026 privind aprobarea programului anual propriu pentru acordarea de finanțări nerambursabile din fonduri publice alocate pentru activități nonprofit de interes local în anul 2026 Descarcă",
+   "url": "https://comunasolont.ro/administratie/consiliul-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://comunasolont.ro/pp-content/atasamente/2026/07/HCL-NR-34.pdf",
+     "sha256": "5cd032e5fd70cbffe4ad70f97e25acb059432f3da798d026c37457ca4b656578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--solont-36-2026",
+   "path": "local/bacau/solont/2026/36",
+   "short": "HCL Solonț nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Solonț nr. 36/2026 privind aprobarea Planului pentru asigurarea resurselor umane, materiale si financiare destinate prevenirii si gestionarii situatiilor de urgenţă pe anul 2026 Descarcă",
+   "url": "https://comunasolont.ro/administratie/consiliul-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://comunasolont.ro/pp-content/atasamente/2026/07/HCL-NR-36-Plan-Resurse-2026.pdf",
+     "sha256": "8a8cc8bab51c5949a0da61b333a68201b7f3de52150e7869e2233901685c8090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--solont-37-2026",
+   "path": "local/bacau/solont/2026/37",
+   "short": "HCL Solonț nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Solonț nr. 37/2026",
+   "url": "https://comunasolont.ro/administratie/consiliul-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://comunasolont.ro/pp-content/atasamente/2026/07/HCL-NR-37.pdf",
+     "sha256": "78de42ac9075e30a8ba2317e6ca8f1c6244d1ee3befc6a9c72cb0ce21286a42e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--solont-41-2026",
+   "path": "local/bacau/solont/2026/41",
+   "short": "HCL Solonț nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Solonț nr. 41/2026 privind aprobarea tipului de suport alimentar acordat preșcolarilor si elevilor de la Școala Gimnaziala SOLONȚ, in cadrul Programului national “Masa sanatoasa” Descarcă Descarcă",
+   "url": "https://comunasolont.ro/administratie/consiliul-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://comunasolont.ro/pp-content/atasamente/2026/07/HCL-nr-41.pdf",
+     "sha256": "ba915714d36d30740817640126e9b94678fea94f0eaee279e901a0318c6caf9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--solont-42-2026",
+   "path": "local/bacau/solont/2026/42",
+   "short": "HCL Solonț nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Solonț nr. 42/2026 privind aprobarea modificării Anexei nr. 1 și a Notei de Fundamentare a proiectului „Dezvoltare infrastructura TIC (sisteme inteligente de management) in Comuna SOLONT, Județul BACAU” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 – Fondul local Descarcă Descarcă",
+   "url": "https://comunasolont.ro/administratie/consiliul-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://comunasolont.ro/pp-content/atasamente/2026/07/HCL-NR-42.pdf",
+     "sha256": "e248a55d395418cd0553a7f396e554a436bcbaedb6a774d23b8dc84d1660303e"
+    }
+   ]
+  }
+ ]
+}

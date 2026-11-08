@@ -3,6 +3,96 @@
  "shard": "local/bacau/margineni/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--margineni-10-2025",
+   "path": "local/bacau/margineni/2025/10",
+   "short": "HCL Mărgineni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 10/2025 privind modificarea și actualizarea anexei 2 “Stat de funcții” la H.C.L nr. 67/16.12.2024 privind modificarea și actualizarea organigramei, statului de funcții și Regulamentului de organizare și funcționare ale aparatului de specialitate al Primarului comunei Mărgineni, jud. Bacău",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2025/03/HCL-STAT-DE-FUNCTII-1.pdf",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2025/03/HCL-STAT-DE-FUNCTII-1.pdf",
+     "sha256": "0ae25fc6cc9006ec74738a2bdcbf37c2f19ead72a6c4c3c75016f00c828c3e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-17-2025",
+   "path": "local/bacau/margineni/2025/17",
+   "short": "HCL Mărgineni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 17/2025",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2025/02/HOTARARE-nr.-17-din-28-ianuarie-2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2025/02/HOTARARE-nr.-17-din-28-ianuarie-2025-1.pdf",
+     "sha256": "d63f2ca19976194f9240f4ea2ad69f8aab9e94f2c16a7522a825c05b8b5e6945"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-38-2025",
+   "path": "local/bacau/margineni/2025/38",
+   "short": "HCL Mărgineni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 38/2025",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2025/07/HCL-38.pdf",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2025/07/HCL-38.pdf",
+     "sha256": "c917819cae545f20cc4154491acb7b8f5100e1d6fec2c4b00b4a86ba626eeb0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-40-2025",
+   "path": "local/bacau/margineni/2025/40",
+   "short": "HCL Mărgineni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 40/2025",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2025/08/HCL-40.pdf",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2025/08/HCL-40.pdf",
+     "sha256": "aad480810d9b8e4072458f8d547386debc39a2c53d00b676ea1b21afbc27863c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-42-2025",
+   "path": "local/bacau/margineni/2025/42",
+   "short": "HCL Mărgineni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 42/2025",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2025/09/HCL-42.pdf",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2025/09/HCL-42.pdf",
+     "sha256": "472dddb10377e59c0912182b9e7206afbda3efa988778b36710db4c4d4f711c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-43-2025",
+   "path": "local/bacau/margineni/2025/43",
+   "short": "HCL Mărgineni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 43/2025",
+   "url": "https://primaria-margineni.ro/continut/fisiere/2025/09/HCL-43.pdf",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2025/09/HCL-43.pdf",
+     "sha256": "ad1ceadcf15270d926414e3e4217caaac0e422593f1ee4526eed29df27fc439c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--margineni-58-2025",
    "path": "local/bacau/margineni/2025/58",
    "short": "HCL Mărgineni nr. 58/2025",
@@ -14,6 +104,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "7a9ad34fec8b316572b978a62eedd524f7e57e88b8d789778904a2d270a09ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-9-2025",
+   "path": "local/bacau/margineni/2025/9",
+   "short": "HCL Mărgineni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 9/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a69fc0f9253c919c8e0376869bf3b3285c0709ad9c2d29f8ce0d85bc52278ec5"
     }
    ]
   }

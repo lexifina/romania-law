@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/dofteana/2023",
+"acts": [
+{
+"slug": "hcl-bacau--dofteana-42-2023",
+"path": "local/bacau/dofteana/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 42/2023 privind aprobarea Studiului de fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comuna Dofteana, județul Bacău",
+"short": "HCL Dofteana nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-14",
+"latest": "2023-02-14",
+"portal": "https://dofteana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4223#42317",
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

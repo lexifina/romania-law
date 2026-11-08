@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-12-2024",
+   "path": "local/bacau/secuieni/2024/12",
+   "short": "HCL Secuieni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2024 privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora-BIBIRE RAMONA",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/149564",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149564",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-13-2024",
    "path": "local/bacau/secuieni/2024/13",
    "short": "HCL Secuieni nr. 13/2024",
@@ -73,6 +88,21 @@
      "from": "2024-04-02",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-15-2024",
+   "path": "local/bacau/secuieni/2024/15",
+   "short": "HCL Secuieni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 15/2024 Privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora-PALURĂ AGLAIA",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/149567",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149567",
      "sha256": null
     }
    ]
@@ -198,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-23-2024",
+   "path": "local/bacau/secuieni/2024/23",
+   "short": "HCL Secuieni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/162297",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162297",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-24-2024",
    "path": "local/bacau/secuieni/2024/24",
    "short": "HCL Secuieni nr. 24/2024",
@@ -208,6 +253,21 @@
      "from": "2024-07-15",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-25-2024",
+   "path": "local/bacau/secuieni/2024/25",
+   "short": "HCL Secuieni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/162299",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162299",
      "sha256": null
     }
    ]
@@ -438,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-4-2024",
+   "path": "local/bacau/secuieni/2024/4",
+   "short": "HCL Secuieni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 4/2024 privind aprobarea închirierii păşunii comunale prin atribuire directă crescătorilor de animale, membri ai colectivității locale, în urma depunerii cererilor acestora-BIBIRE RAMONA",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144653",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144653",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-40-2024",
    "path": "local/bacau/secuieni/2024/40",
    "short": "HCL Secuieni nr. 40/2024",
@@ -538,6 +613,21 @@
      "from": "2025-01-10",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/186109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-5-2024",
+   "path": "local/bacau/secuieni/2024/5",
+   "short": "HCL Secuieni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 5/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144652",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144652",
      "sha256": null
     }
    ]

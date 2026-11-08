@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-2-2024",
+"path": "local/bacau/motoseni/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 2/2024",
+"short": "HCL Motoșeni nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/141842",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-3-2024",
 "path": "local/bacau/motoseni/2024/3",
 "kind": "local",
@@ -110,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Motoșeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-7-2024",
+"path": "local/bacau/motoseni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 7/2024 privind APROBARE INCHIRIERE PRIN LICITATIE PUBLICA A UNUI IMOBIL",
+"short": "HCL Motoșeni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-08",
+"latest": "2024-03-08",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/146842",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-14-2024",
+"path": "local/bacau/motoseni/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 14/2024 privind hcl 14 privind aprobarea pentru decontarea cheltuielilor de naveta la şi de la locul de muncă a cadrelor didactice şi a personalului didactic auxiliar din învăţământul preuniversitar de stat pentru lunile DECEMBRIE AN 2023, IANUARIE si FEBRUARIE 2024",
+"short": "HCL Motoșeni nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-09",
+"latest": "2024-04-09",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/152058",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-15-2024",
 "path": "local/bacau/motoseni/2024/15",
 "kind": "local",
@@ -264,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Motoșeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-16-2024",
+"path": "local/bacau/motoseni/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 16/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Motoșeni nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-09",
+"latest": "2024-04-09",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/152060",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -467,6 +556,28 @@
 }
 },
 {
+"slug": "hcl-bacau--motoseni-26-2024",
+"path": "local/bacau/motoseni/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 26/2024 privind privind aprobarea naveta cadre didactice si auxiliare din învăţământul preuniversitar de stat pentru lunile MARTIE si APRILIE 2024",
+"short": "HCL Motoșeni nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/157646",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--motoseni-27-2024",
 "path": "local/bacau/motoseni/2024/27",
 "kind": "local",
@@ -486,6 +597,28 @@
 "council_name": "Consiliul Local al Comunei Motoșeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-28-2024",
+"path": "local/bacau/motoseni/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 28/2024 privind aprobare naveta invatamant Mai 2024",
+"short": "HCL Motoșeni nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/163914",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -509,6 +642,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-30-2024",
+"path": "local/bacau/motoseni/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 30/2024 privind alegere presedinte de sedinta",
+"short": "HCL Motoșeni nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/163916",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--motoseni-31-2024",
+"path": "local/bacau/motoseni/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 31/2024 privind aprobare decontare naveta invatamant IUNIE 2024",
+"short": "HCL Motoșeni nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-05",
+"latest": "2024-08-05",
+"portal": "https://emol.ro/motoseni-bc/registru-hcl/164026",
+"council": "bacau/motoseni",
+"council_name": "Consiliul Local al Comunei Motoșeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

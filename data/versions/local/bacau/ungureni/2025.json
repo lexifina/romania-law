@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-14-2025",
+   "path": "local/bacau/ungureni/2025/14",
+   "short": "HCL Ungureni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 14/2025",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/199674",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/199674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-15-2025",
+   "path": "local/bacau/ungureni/2025/15",
+   "short": "HCL Ungureni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 15/2025",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/199675",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/199675",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-16-2025",
    "path": "local/bacau/ungureni/2025/16",
    "short": "HCL Ungureni nr. 16/2025",
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-19-2025",
+   "path": "local/bacau/ungureni/2025/19",
+   "short": "HCL Ungureni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 19/2025",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/199679",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/199679",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-2-2025",
    "path": "local/bacau/ungureni/2025/2",
    "short": "HCL Ungureni nr. 2/2025",
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-21-2025",
+   "path": "local/bacau/ungureni/2025/21",
+   "short": "HCL Ungureni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 21/2025 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/213102",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/213102",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-22-2025",
    "path": "local/bacau/ungureni/2025/22",
    "short": "HCL Ungureni nr. 22/2025",
@@ -163,6 +223,21 @@
      "from": "2025-06-20",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/213103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-23-2025",
+   "path": "local/bacau/ungureni/2025/23",
+   "short": "HCL Ungureni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 23/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/213104",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/213104",
      "sha256": null
     }
    ]

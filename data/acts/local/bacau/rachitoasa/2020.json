@@ -401,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-19-2020",
+"path": "local/bacau/rachitoasa/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 19/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Răchitoasa nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16669",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-20-2020",
 "path": "local/bacau/rachitoasa/2020/20",
 "kind": "local",
@@ -420,6 +442,50 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-21-2020",
+"path": "local/bacau/rachitoasa/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 21/2020 privind aprobarea nivelului contribuției Consiliului Local al comunei Răchitoasa la finanțarea activității de asistenta socială în baza costurilor medii anuale pentru persoana cu handicap pentru anul 2020",
+"short": "HCL Răchitoasa nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16671",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-22-2020",
+"path": "local/bacau/rachitoasa/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 22/2020 privind aprobarea implementării investiției ”Modernizare drumuri de interes local în sat Răchitoasa, comuna Răchitoasa, județul Bacău”",
+"short": "HCL Răchitoasa nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16672",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -486,6 +552,29 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-26-2020",
+"path": "local/bacau/rachitoasa/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 26/2020",
+"short": "HCL Răchitoasa nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-13",
+"latest": "2020-08-13",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/16676",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

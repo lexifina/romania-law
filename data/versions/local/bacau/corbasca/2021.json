@@ -3,6 +3,21 @@
  "shard": "local/bacau/corbasca/2021",
  "acts": [
   {
+   "slug": "hcl-bacau--corbasca-1-2021",
+   "path": "local/bacau/corbasca/2021/1",
+   "short": "HCL Corbasca nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 1/2021 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -I-2021",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/15592",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/15592",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-10-2021",
    "path": "local/bacau/corbasca/2021/10",
    "short": "HCL Corbasca nr. 10/2021",
@@ -678,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-4-2021",
+   "path": "local/bacau/corbasca/2021/4",
+   "short": "HCL Corbasca nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 4/2021 privind APROBAREA ALOCARII SUMEI DE 1900 LEI/ LUNA DIN BUGETUL LOCAL AL COMUNEI CORBASCA,PENTRU ANUL 2021,CATRE ONG ”_ACOPERAMANTUL BUNICILOR_” DIN LOCALITATEA SASCUT,JUDETUL BACAU,IN VEDEREA SUSTINERII FINANCIARE A D-nei_RADUCANU TASICA_CU DOMICILIUL STABIL IN COMUNA CORBASCA,JUDETUL BACAU",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/15595",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/15595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-40-2021",
    "path": "local/bacau/corbasca/2021/40",
    "short": "HCL Corbasca nr. 40/2021",
@@ -873,6 +903,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-52-2021",
+   "path": "local/bacau/corbasca/2021/52",
+   "short": "HCL Corbasca nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 52/2021 privind acordarea unui sprijin financiar, din bugetul local al comunei, Parohiei ortodoxe cu hramul « Sf.arh.MIHAIL si GAVRIL » din_Sat.CORBASCA,comuna CORBASCA,judetul BACAU",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/28052",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/28052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-53-2021",
+   "path": "local/bacau/corbasca/2021/53",
+   "short": "HCL Corbasca nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 53/2021 privind acordarea unui sprijin financiar, din bugetul local al comunei,Manastirii ortodoxe,cu hramul‘’Buna Vestire’’ din_Sat.POGLET_,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/28053",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/28053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-54-2021",
    "path": "local/bacau/corbasca/2021/54",
    "short": "HCL Corbasca nr. 54/2021",
@@ -1053,6 +1113,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-65-2021",
+   "path": "local/bacau/corbasca/2021/65",
+   "short": "HCL Corbasca nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 65/2021 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.arh.MIHAIL siGAVRIL » din_Sat.VILCELE,comuna CORBASCA,judetul BACAU",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/32271",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/32271",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-66-2021",
    "path": "local/bacau/corbasca/2021/66",
    "short": "HCL Corbasca nr. 66/2021",
@@ -1068,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-67-2021",
+   "path": "local/bacau/corbasca/2021/67",
+   "short": "HCL Corbasca nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 67/2021",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/32273",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/32273",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-68-2021",
    "path": "local/bacau/corbasca/2021/68",
    "short": "HCL Corbasca nr. 68/2021",
@@ -1078,6 +1168,21 @@
      "from": "2021-08-20",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/34342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-69-2021",
+   "path": "local/bacau/corbasca/2021/69",
+   "short": "HCL Corbasca nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 69/2021 privind acordarea unui sprijin financiar, din bugetul local al comunei, Parohiei ortodoxe cu hramul‘’Sf.NICOLAE’’,din satul Scarisoara,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/34343",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/34343",
      "sha256": null
     }
    ]
@@ -1108,6 +1213,21 @@
      "from": "2021-08-20",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/34344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-71-2021",
+   "path": "local/bacau/corbasca/2021/71",
+   "short": "HCL Corbasca nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 71/2021 privind insusirea propunerii de concesionare a unor suprafete de teren avand categoria de folosinta pasuni ce se află în domeniul privat al comunei Corbasca,judetul Bacau, în vederea amplasarii de centrale eoliene",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/34345",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/34345",
      "sha256": null
     }
    ]
@@ -1153,6 +1273,21 @@
      "from": "2021-09-09",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/34903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-75-2021",
+   "path": "local/bacau/corbasca/2021/75",
+   "short": "HCL Corbasca nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 75/2021 privind desemnarea reprezentantilor consiliului local al comunei Corbasca,judetul Bacau in consiliile de administratie al unitatilor de invatamant din comuna Corbasca, pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/34904",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/34904",
      "sha256": null
     }
    ]
@@ -1378,6 +1513,21 @@
      "from": "2021-10-27",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/39321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-9-2021",
+   "path": "local/bacau/corbasca/2021/9",
+   "short": "HCL Corbasca nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 9/2021 privind APROBAREA INCETARII UNUI CONTRACT DE INCHIRIERE",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/15600",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/15600",
      "sha256": null
     }
    ]

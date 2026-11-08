@@ -136,6 +136,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-7-2022",
+"path": "local/bacau/nicolae-balcescu/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 7/2022",
+"short": "HCL Nicolae Bălcescu nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/49243",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-8-2022",
 "path": "local/bacau/nicolae-balcescu/2022/8",
 "kind": "local",
@@ -181,6 +204,28 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-10-2022",
+"path": "local/bacau/nicolae-balcescu/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 10/2022 privind acordarea unui ajutor de urgență pentru înmormântare",
+"short": "HCL Nicolae Bălcescu nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/49246",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-11-2022",
 "path": "local/bacau/nicolae-balcescu/2022/11",
 "kind": "local",
@@ -203,6 +248,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-12-2022",
+"path": "local/bacau/nicolae-balcescu/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 12/2022",
+"short": "HCL Nicolae Bălcescu nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/49248",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-13-2022",
 "path": "local/bacau/nicolae-balcescu/2022/13",
 "kind": "local",
@@ -222,6 +290,29 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-14-2022",
+"path": "local/bacau/nicolae-balcescu/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 14/2022",
+"short": "HCL Nicolae Bălcescu nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-07",
+"latest": "2022-02-07",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/50038",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -314,6 +405,50 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-19-2022",
+"path": "local/bacau/nicolae-balcescu/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 19/2022 privind aprobarea acordării unui ajutor financiar",
+"short": "HCL Nicolae Bălcescu nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/52940",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-20-2022",
+"path": "local/bacau/nicolae-balcescu/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 20/2022 privind aprobarea acordării unui ajutor financiar",
+"short": "HCL Nicolae Bălcescu nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/52941",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-21-2022",
 "path": "local/bacau/nicolae-balcescu/2022/21",
 "kind": "local",
@@ -377,6 +512,29 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-24-2022",
+"path": "local/bacau/nicolae-balcescu/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 24/2022",
+"short": "HCL Nicolae Bălcescu nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/52945",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -601,6 +759,28 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-35-2022",
+"path": "local/bacau/nicolae-balcescu/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 35/2022 privind aprobarea studiului de opotunitate și a caietului de sarcini în vederea închirierii bunurilor proprietatea publică a comunei Nicolae Bălcescu, județul Bacău",
+"short": "HCL Nicolae Bălcescu nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/55194",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-36-2022",
 "path": "local/bacau/nicolae-balcescu/2022/36",
 "kind": "local",
@@ -667,6 +847,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-39-2022",
+"path": "local/bacau/nicolae-balcescu/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 39/2022",
+"short": "HCL Nicolae Bălcescu nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/55198",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-40-2022",
 "path": "local/bacau/nicolae-balcescu/2022/40",
 "kind": "local",
@@ -708,6 +911,28 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-42-2022",
+"path": "local/bacau/nicolae-balcescu/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 42/2022 privind desemnarea reprezentanților Consiliului local Nicolae Bălcescu în comisiile de recepție a lucrărilor de investiții ce se realizează pe domeniul public și privat al comunei Nicolae Bălcescu, județul Bacău și constituirea unei comisii speciale de analiză și verificare a investițiilor aprobate de consiliul local",
+"short": "HCL Nicolae Bălcescu nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/55201",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1197,6 +1422,28 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-65-2022",
+"path": "local/bacau/nicolae-balcescu/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 65/2022 privind aprobarea acordării unui ajutor financiar",
+"short": "HCL Nicolae Bălcescu nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/64637",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-66-2022",
 "path": "local/bacau/nicolae-balcescu/2022/66",
 "kind": "local",
@@ -1282,6 +1529,28 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-70-2022",
+"path": "local/bacau/nicolae-balcescu/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 70/2022 privind aprobarea acordării unui ajutor financiar",
+"short": "HCL Nicolae Bălcescu nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/66488",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1838,6 +2107,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-96-2022",
+"path": "local/bacau/nicolae-balcescu/2022/96",
+"kind": "local",
+"year": "2022",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 96/2022",
+"short": "HCL Nicolae Bălcescu nr. 96/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/75171",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-97-2022",
 "path": "local/bacau/nicolae-balcescu/2022/97",
 "kind": "local",
@@ -1904,6 +2196,29 @@
 }
 },
 {
+"slug": "hcl-bacau--nicolae-balcescu-100-2022",
+"path": "local/bacau/nicolae-balcescu/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 100/2022",
+"short": "HCL Nicolae Bălcescu nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-14",
+"latest": "2022-10-14",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/75175",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--nicolae-balcescu-101-2022",
 "path": "local/bacau/nicolae-balcescu/2022/101",
 "kind": "local",
@@ -1946,6 +2261,28 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-103-2022",
+"path": "local/bacau/nicolae-balcescu/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 103/2022 privind aprobarea cumpararii unui teren intravilan in sat Nicolae Balcescu Com. Nicolae Balcescu zona Buhusi, in vederea amenajarii unei zone de agrement",
+"short": "HCL Nicolae Bălcescu nr. 103/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/75178",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2371,6 +2708,50 @@
 "council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-123-2022",
+"path": "local/bacau/nicolae-balcescu/2022/123",
+"kind": "local",
+"year": "2022",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 123/2022 privind alegerea președintelui de ședință",
+"short": "HCL Nicolae Bălcescu nr. 123/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/79564",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--nicolae-balcescu-124-2022",
+"path": "local/bacau/nicolae-balcescu/2022/124",
+"kind": "local",
+"year": "2022",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 124/2022 privind desemnarea a trei reprezentanți ai Consiliului Locali pentru a face parte din Consiliul de Administrație a Școlii Gimnaziale „Nicolae Bălcescu”, județul Bacău",
+"short": "HCL Nicolae Bălcescu nr. 124/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/79565",
+"council": "bacau/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

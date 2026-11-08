@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/margineni/2012",
+ "acts": [
+  {
+   "slug": "hcl-bacau--margineni-19-2012",
+   "path": "local/bacau/margineni/2012/19",
+   "short": "HCL Mărgineni nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 19/2012 PRIVIND RECTIFICAREA BUGETULUI DE VENITURI SI CHELTUIELI AL COMUNEI MARGINENI, JUDETUL BACAU PENTRU ANUL 2012 Normativ Document",
+   "url": "https://primaria-margineni.ro/despre-noi/consiliul-local/hcl/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2019/09/hotararea_nr._19.doc",
+     "sha256": "1be478ddf70886aad6996fb51727ead89ff046c7a0f8dbd1a8b939753180906d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--margineni-20-2012",
+   "path": "local/bacau/margineni/2012/20",
+   "short": "HCL Mărgineni nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 20/2012 PRIVIND INCHEIEREA UNUI PROTOCOL DE COLABORARE IN VEDEREA IMPLEMENTARII PROIECTULUI „MUZEUL SATULUI, ZESTREA STRAMOSILOR” Normativ Document",
+   "url": "https://primaria-margineni.ro/despre-noi/consiliul-local/hcl/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primaria-margineni.ro/continut/fisiere/2019/09/hotararea_nr._20.doc",
+     "sha256": "a0e7583994aede0ba7084ade37059e7f8cb3925189cb987a9d83b0532e90b5e8"
+    }
+   ]
+  }
+ ]
+}

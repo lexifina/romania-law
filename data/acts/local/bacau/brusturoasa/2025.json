@@ -3,6 +3,292 @@
 "shard": "local/bacau/brusturoasa/2025",
 "acts": [
 {
+"slug": "hcl-bacau--brusturoasa-1-2025",
+"path": "local/bacau/brusturoasa/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 1/2025 Privind aprobarea utilizarii in anul 2025, pentru sectiunea de functionare, a sumei de 700.000 lei din excedentul anual al bugetului local al comunei Brusturoasa, rezultat la încheierea exercitiului bugetar la 31.12. 2024",
+"short": "HCL Brusturoasa nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/186713",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-2-2025",
+"path": "local/bacau/brusturoasa/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 2/2025 privind acoperirea definitiva a deficitului bugetului local din secțiunea dezvoltare, sursa A, existent la data de 31.12.2024, in valoare de 3.372.179,10 lei",
+"short": "HCL Brusturoasa nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/186714",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-3-2025",
+"path": "local/bacau/brusturoasa/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 3/2025 privind aprobarea „Raportului privind activitatea desfașurata de asistenții personali ai persoanelor cu handicap grav in sem II al anului 2024, angajați ai comunei Brusturoasa județul Bacau",
+"short": "HCL Brusturoasa nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191709",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-4-2025",
+"path": "local/bacau/brusturoasa/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 4/2025 privind aprobarea Procesului verbal de evaluare a rezultatelor inventarierii și de scoatere din inventar a unor bunuri aparținand Consiliului Local Brusturoasa, si a unitaților de sub autoritatea acesteia, pentru anul 2024",
+"short": "HCL Brusturoasa nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191710",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-5-2025",
+"path": "local/bacau/brusturoasa/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 5/2025 privind aprobarea utilizarii in anul 2025, pentru secțiunea de funcționare, a sumei de 400.000 lei din excedentul anual al bugetului local al comunei Brusturoasa, rezultat la încheierea exercițiului bugetar la 31.12.2024",
+"short": "HCL Brusturoasa nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191711",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-6-2025",
+"path": "local/bacau/brusturoasa/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 6/2025 pentru validarea Dispozitiei nr. 3 din 14.01.2025 - privind aprobarea utilizarii in anul 2025, pentru secțiunea de dezvoltare a sumei de 317.000 lei din excedentul anual al bugetului local al comunei Brusturoasa, rezultat la incheierea exercitiului bugetar la 31.12. 2024",
+"short": "HCL Brusturoasa nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191712",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-7-2025",
+"path": "local/bacau/brusturoasa/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 7/2025 privind aprobarea Planului Local de acțiune în domeniul serviciilor sociale, la nivelul Comunei Brusturoasa",
+"short": "HCL Brusturoasa nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191713",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-8-2025",
+"path": "local/bacau/brusturoasa/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 8/2025 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul IV al anului 2024 si stabilirea masurilor pentru eficientizarea acestei activitați",
+"short": "HCL Brusturoasa nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191714",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-9-2025",
+"path": "local/bacau/brusturoasa/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 9/2025 privind desemnarea consilierilor locali din cadrul Consiliului local al Comunei Brusturoasa care vor face parte din Comisia de evaluare a performantelor profesionale individuale ale Secretarului general al Comunei Brusturoasa",
+"short": "HCL Brusturoasa nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191715",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-10-2025",
+"path": "local/bacau/brusturoasa/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 10/2025 pentru alegerea Președintelui de ședința al Consiliului Local al comunei Brusturoasa pentru lunile februarie, martie și aprilie 2025",
+"short": "HCL Brusturoasa nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191716",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-11-2025",
+"path": "local/bacau/brusturoasa/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 11/2025 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitațile de invațamant din comuna Brusturoasa, pentru luna decembrie 2024",
+"short": "HCL Brusturoasa nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191717",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-12-2025",
+"path": "local/bacau/brusturoasa/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 12/2025 privind aprobarea planului de lucru pentru prestarea unor activitati in folosul comunitatii",
+"short": "HCL Brusturoasa nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191718",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-13-2025",
+"path": "local/bacau/brusturoasa/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 13/2025 privind modificarea componentei Structurii Comunitare Consultative din subordinea Consiliului Local",
+"short": "HCL Brusturoasa nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/191719",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-14-2025",
 "path": "local/bacau/brusturoasa/2025/14",
 "kind": "local",
@@ -44,6 +330,229 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-16-2025",
+"path": "local/bacau/brusturoasa/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 16/2025",
+"short": "HCL Brusturoasa nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195641",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-17-2025",
+"path": "local/bacau/brusturoasa/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 17/2025 privind aprobarea consumului mediu de combustibili pentru autovehiculele si utilajele aflate in patrimoniul primariei Brusturoasa",
+"short": "HCL Brusturoasa nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195642",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-18-2025",
+"path": "local/bacau/brusturoasa/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 18/2025 Privind aprobarea Programului de actiuni comunitare pentru pevenirea și combaterea riscului de saracie si excluziune sociala la nivelul comunei Brusturoasa, pe anul 2025",
+"short": "HCL Brusturoasa nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195643",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-19-2025",
+"path": "local/bacau/brusturoasa/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 19/2025",
+"short": "HCL Brusturoasa nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195644",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-20-2025",
+"path": "local/bacau/brusturoasa/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 20/2025 privind inchirierea pajiștilor prin atribuire directa aflate in proprietatea privata a Comunei Brusturoasa",
+"short": "HCL Brusturoasa nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195645",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-21-2025",
+"path": "local/bacau/brusturoasa/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 21/2025 Privind aprobarea incheierii unui contract de colaborare cu Asociatia Save&Hope for Dogs pentru gestionarea situatiei cainilor fara stapan in comuna Brusturoasa",
+"short": "HCL Brusturoasa nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195646",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-22-2025",
+"path": "local/bacau/brusturoasa/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 22/2025 privind aprobarea majorarii cuantumului indemnizatiei lunare a consilierilor locali pentru participarea la sedinte",
+"short": "HCL Brusturoasa nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/195647",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-23-2025",
+"path": "local/bacau/brusturoasa/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 23/2025 pentru validarea Dispozitiei nr. 49/04.03.2025- privind aprobarea utilizarii in anul 2025, pentru secțiunea de dezvoltare a sumei de 31.000 lei din excedentul anual al bugetului local al comunei Brusturoasa, rezultat la încheierea exercițiului bugetar la 31.12.2024",
+"short": "HCL Brusturoasa nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/197616",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-24-2025",
+"path": "local/bacau/brusturoasa/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 24/2025 Pentru indreptarea erorii materiale din cuprinsul Hotararii Consiliului Local Brusturoasa nr. 20/20.02.2025 privind inchirierea pajistilor prin atribuire directa aflate in proprietatea privata a Comunei Brusturoasa, judetul Bacau",
+"short": "HCL Brusturoasa nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/202611",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-25-2025",
+"path": "local/bacau/brusturoasa/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 25/2025",
+"short": "HCL Brusturoasa nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/202612",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -92,6 +601,72 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-28-2025",
+"path": "local/bacau/brusturoasa/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 28/2025 Privind aprobarea Planului anual si de perspectivă pentru asigurarea resurselor umane, materiale si financiare destinate prevenirii si gestionarii situațiilor de urgența",
+"short": "HCL Brusturoasa nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/202615",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-29-2025",
+"path": "local/bacau/brusturoasa/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 29/2025 privind aprobarea efectuarii platii unei sume reprezentand cheltuieli de judecata, stabilite in baza unui titlu executoriu",
+"short": "HCL Brusturoasa nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/202616",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-30-2025",
+"path": "local/bacau/brusturoasa/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 30/2025 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Brusturoasa, pentru lunile ianuarie-februarie 2025",
+"short": "HCL Brusturoasa nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/202617",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-31-2025",
 "path": "local/bacau/brusturoasa/2025/31",
 "kind": "local",
@@ -111,6 +686,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-32-2025",
+"path": "local/bacau/brusturoasa/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 32/2025 Pentru modificarea art 6 din HCL nr. 42/2018 privind aprobarea participarii comunei Brusturoasa ca membru fondator la inființarea Asociatiei de Dezvoltare Intercomunitara de utilitate publica „TROTUȘ GAZ”, a Actului constitutiv si Statutului Asociației de dezvoltare Intercomunitara de utilitate publica “TROTUȘ GAZ”",
+"short": "HCL Brusturoasa nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/202619",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -177,6 +774,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-36-2025",
+"path": "local/bacau/brusturoasa/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 36/2025 privind aprobarea achizitionarii unui microbuz școlar necesar pentru transportul elevilor Scolii Gimnaziale ’’Ioana R. Rosetti” Brusturoasa",
+"short": "HCL Brusturoasa nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/206995",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +909,29 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-42-2025",
+"path": "local/bacau/brusturoasa/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 42/2025",
+"short": "HCL Brusturoasa nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/207001",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-43-2025",
 "path": "local/bacau/brusturoasa/2025/43",
 "kind": "local",
@@ -313,6 +955,95 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-44-2025",
+"path": "local/bacau/brusturoasa/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 44/2025 pentru desemnarea reprezentanților Consiliului local al comunei Brusturoasa, membri in Unitatea Locala de Sprijin constituita la nivelul comunei Brusturoasa,",
+"short": "HCL Brusturoasa nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214876",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-45-2025",
+"path": "local/bacau/brusturoasa/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 45/2025 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitațile de invațamant",
+"short": "HCL Brusturoasa nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214877",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-46-2025",
+"path": "local/bacau/brusturoasa/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 46/2025",
+"short": "HCL Brusturoasa nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214878",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-47-2025",
+"path": "local/bacau/brusturoasa/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 47/2025 Privind aprobarea constituirii unei garanții imobiliare pentru Comuna Brusturoasa in favoarea - Ministerului Finanțelor Publice Administrația Județeana a Finanțelor Publice Bacau - Serviciul Fiscal Orașenesc Moinești, și a esalonarii la plata a obligațiilor la bugetul de stat pentru suma de 219.902 lei",
+"short": "HCL Brusturoasa nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214879",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-48-2025",
 "path": "local/bacau/brusturoasa/2025/48",
 "kind": "local",
@@ -332,6 +1063,73 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-49-2025",
+"path": "local/bacau/brusturoasa/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 49/2025",
+"short": "HCL Brusturoasa nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214881",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-50-2025",
+"path": "local/bacau/brusturoasa/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 50/2025 privind aprobarea Regulamentului de acordare a voucherelor de vacanta pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului comunei Brusturoasa și a Serviciului Public de Asistenta Sociala Brusturoasa",
+"short": "HCL Brusturoasa nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214882",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-51-2025",
+"path": "local/bacau/brusturoasa/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 51/2025 Privind rectificarea bugetului de venituri si cheltuieli pentru anul 2025",
+"short": "HCL Brusturoasa nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/214883",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -379,6 +1177,95 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-54-2025",
+"path": "local/bacau/brusturoasa/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 54/2025 Privind aprobarea „Raportului privind activitatea desfașurata de asistenții personali ai persoanelor cu handicap grav in sem. I al anului 2025, angajați ai comunei Brusturoasa județul Bacau",
+"short": "HCL Brusturoasa nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/217698",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-55-2025",
+"path": "local/bacau/brusturoasa/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 55/2025 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Brusturoasa, pentru lunile mai - iunie 2025",
+"short": "HCL Brusturoasa nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/217699",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-56-2025",
+"path": "local/bacau/brusturoasa/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 56/2025 Privind rectificarea bugetului de venituri si cheltuieli si a iistei de investiții pentru anul 2025",
+"short": "HCL Brusturoasa nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/217700",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-57-2025",
+"path": "local/bacau/brusturoasa/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 57/2025",
+"short": "HCL Brusturoasa nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/217701",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-58-2025",
 "path": "local/bacau/brusturoasa/2025/58",
 "kind": "local",
@@ -401,6 +1288,139 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-59-2025",
+"path": "local/bacau/brusturoasa/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 59/2025 Privind aprobarea infiintarii si delegarii gestiunii prin concesiune a Serviciului de iluminat public al Comunei Brusturoasa, JudetuI Bacau",
+"short": "HCL Brusturoasa nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225815",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-60-2025",
+"path": "local/bacau/brusturoasa/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 60/2025",
+"short": "HCL Brusturoasa nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225816",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-61-2025",
+"path": "local/bacau/brusturoasa/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 61/2025 privind aprobarea transferului dreptului de proprietate, cu titlu gratuit a bunului mobil activ fix -1 microbuz scolar catre Școala Gimnaziala IOANA R ROSETTI BRUSTUROASA",
+"short": "HCL Brusturoasa nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225817",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-62-2025",
+"path": "local/bacau/brusturoasa/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 62/2025 privind aprobarea initierii procedurii de elaborare a amenajamentului silvic pentru terenul pasune impadurita apartinand patrimoniului comunei Brusturoasa,",
+"short": "HCL Brusturoasa nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225818",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-63-2025",
+"path": "local/bacau/brusturoasa/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 63/2025 privind aprobarea colaborarii interinstitutionale din cadrul proiectului „Furnizare de servicii integrate in comunitațile rurale - facilitarea accesului persoanelor vulnerabile la servicii de baza eficiente și de calitate\"",
+"short": "HCL Brusturoasa nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225819",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-64-2025",
+"path": "local/bacau/brusturoasa/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 64/2025 privind validarea Dispoziției Primarului nr. 155 din 26.08.2025 privind rectificarea bugetului local al comunei Brusturoasa pe anul 2025",
+"short": "HCL Brusturoasa nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225820",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-65-2025",
 "path": "local/bacau/brusturoasa/2025/65",
 "kind": "local",
@@ -420,6 +1440,317 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-66-2025",
+"path": "local/bacau/brusturoasa/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 66/2025 privind inregistrarea Comunei Brusturoasa in Sistemul National Electronic de Plata (SNEP) online a impozitelor și taxelor locale utilizand cardul bancar, instalarea unui terminal de plata (POS) precum și stabilirea modului in care este suportat comisionul bancar",
+"short": "HCL Brusturoasa nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225822",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-67-2025",
+"path": "local/bacau/brusturoasa/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 67/2025",
+"short": "HCL Brusturoasa nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225823",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-68-2025",
+"path": "local/bacau/brusturoasa/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 68/2025",
+"short": "HCL Brusturoasa nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/225824",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-69-2025",
+"path": "local/bacau/brusturoasa/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 69/2025 privind acordul pentru ocuparea temporara, cu titlu gratuit, a suprafetei de 1750 m.p. teren necesara pentru depozitarea si organizarea de santier in vederea realizarii obiectivului “ Amenajare rau Trotus si afluienți pe tronsonul Ghimes-Urechesti, Judetul Bacau “ Obiectivul 3 - Brusturoasa",
+"short": "HCL Brusturoasa nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/232037",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-70-2025",
+"path": "local/bacau/brusturoasa/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 70/2025",
+"short": "HCL Brusturoasa nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/232038",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-71-2025",
+"path": "local/bacau/brusturoasa/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 71/2025 privind validarea Dispoziției Primarului nr. 174 din 26.09.2025 privind rectificarea bugetului local a! comunei Brusturoasa pe anul 2025",
+"short": "HCL Brusturoasa nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236067",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-72-2025",
+"path": "local/bacau/brusturoasa/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 72/2025 privind aprobarea contului de execuție a bugetului local al comunei Brusturoasa pe trimestrul III al anului 2025",
+"short": "HCL Brusturoasa nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236068",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-73-2025",
+"path": "local/bacau/brusturoasa/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 73/2025 Privind rectificarea bugetului de venituri si cheltuieli și a listei de investitii pentru anul 2025",
+"short": "HCL Brusturoasa nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236069",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-74-2025",
+"path": "local/bacau/brusturoasa/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 74/2025 privind stabilirea sumei cheltuielilor de executare silita ocazionate de tiparirea si comunicarea prin posta a documentelor de executare silita",
+"short": "HCL Brusturoasa nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236070",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-75-2025",
+"path": "local/bacau/brusturoasa/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 75/2025 pentru aprobarea trecerii microbuzului specializat pentru persoane cu dizabilitati din domeniul public al comunei Brusturoasa in domeniul privat al comunei Brusturoasa și in administrarea SPAS Brusturoasa",
+"short": "HCL Brusturoasa nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236071",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-76-2025",
+"path": "local/bacau/brusturoasa/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 76/2025 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitațile de invațamant din comuna Brusturoasa, pentru lunile iulie - august 2025",
+"short": "HCL Brusturoasa nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236072",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-77-2025",
+"path": "local/bacau/brusturoasa/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 77/2025 Pentru modificarea HCL nr. 85/2022 privind aprobarea darii in folosinta gratuita de catre comuna Brusturoasa catre Scoala Gimnaziala Ioana R. Rosetti a unor bunuri imobile necesare desfasurarii procesului educativ",
+"short": "HCL Brusturoasa nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236073",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-78-2025",
+"path": "local/bacau/brusturoasa/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 78/2025 Pentru modificarea HCL nr. 86/2022 privind aprobarea darii in folosinta gratuita de catre comuna Brusturoasa catre Serviciul de Asistenta Sociala Brusturoasa a unor bunuri imobile",
+"short": "HCL Brusturoasa nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236074",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-79-2025",
+"path": "local/bacau/brusturoasa/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 79/2025 privind aprobarea rezultatului casării bunurilor aflate in patrimoniul Comunei Brusturoasa, judetul Bacău, Initiator -Primar",
+"short": "HCL Brusturoasa nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236075",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -464,6 +1795,117 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-82-2025",
+"path": "local/bacau/brusturoasa/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 82/2025",
+"short": "HCL Brusturoasa nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236078",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-83-2025",
+"path": "local/bacau/brusturoasa/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 83/2025 pentru aprobarea participarii Comunei Brusturoasa la Programul Panouri fotovoltaice pentru institutii publice prin Fondul de modernizare",
+"short": "HCL Brusturoasa nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236079",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-84-2025",
+"path": "local/bacau/brusturoasa/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 84/2025 Pentru aprobarea documentației tehnico-economice și a devizului general pentru obiectivul cu titlul: \"Lucrari de reparatie drum DC 143 Camenca, com. Brusturoasa, jud. Bacau\"",
+"short": "HCL Brusturoasa nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236105",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-85-2025",
+"path": "local/bacau/brusturoasa/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 85/2025 Pentru aprobarea documentației tehnico-economice și a devizului general pentru obiectivul cu titlul: \"Lucrari de reparatie strada Pietricica, comuna Brusturoasa, judetul Bacau\"",
+"short": "HCL Brusturoasa nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236106",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-86-2025",
+"path": "local/bacau/brusturoasa/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 86/2025 Privind rectificarea bugetului local al comunei pentru anul 2025",
+"short": "HCL Brusturoasa nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/236107",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

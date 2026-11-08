@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-10-2023",
+   "path": "local/arges/rucar/2023/10",
+   "short": "HCL Rucăr nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 10/2023 privind aprobarea și implementarea proiectului „CONSTRUIRE CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA RUCĂR, JUDETUL ARGEȘ”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125021",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125021",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-11-2023",
    "path": "local/arges/rucar/2023/11",
    "short": "HCL Rucăr nr. 11/2023",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-13-2023",
+   "path": "local/arges/rucar/2023/13",
+   "short": "HCL Rucăr nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 13/2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125173",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125173",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-14-2023",
    "path": "local/arges/rucar/2023/14",
    "short": "HCL Rucăr nr. 14/2023",
@@ -63,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-15-2023",
+   "path": "local/arges/rucar/2023/15",
+   "short": "HCL Rucăr nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 15/2023 privind demararea, depunerea, implementarea si sustenabilitatea proiectului ,,Extindere retea cu apa potabila si canalizare, Comuna Rucar, Judetul Arges,, in vederea finantarii acestuia prin Ministerul Mediului, Apelor si Padurilor",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125175",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-16-2023",
+   "path": "local/arges/rucar/2023/16",
+   "short": "HCL Rucăr nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 16/2023 privind aprobarea indicatorilor tehnico- economici la faza de studiu de fezabilitate pentru obiectivul de investitii ,,EXTINDERE RETEA CU APA POTABILA SI CANALIZARE, COMUNA RUCAR, JUDETUL ARGES,,",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125176",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-17-2023",
+   "path": "local/arges/rucar/2023/17",
+   "short": "HCL Rucăr nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 17/2023 privind aprobarea achizitiei serviciilor de consultanta in vederea depunerii proiectului de investitii ,,EXTINDERE RETEA CU APA POTABILA SI CANALIZARE, COMUNA RUCAR, JUDETUL ARGES,,",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125177",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-18-2023",
+   "path": "local/arges/rucar/2023/18",
+   "short": "HCL Rucăr nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 18/2023 privind aprobarea proiectului „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR DIN COMUNA RUCĂR, JUDEȚUL ARGEȘ” , a cheltuielilor legate de proiect şi depunerea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C15 – Educatie",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125178",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-19-2023",
+   "path": "local/arges/rucar/2023/19",
+   "short": "HCL Rucăr nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 19/2023 privind aprobarea organizării procedurii de închiriere a pășunii alpine Luțele",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125280",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-2-2023",
    "path": "local/arges/rucar/2023/2",
    "short": "HCL Rucăr nr. 2/2023",
@@ -73,6 +178,36 @@
      "from": "2023-01-17",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/125012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-20-2023",
+   "path": "local/arges/rucar/2023/20",
+   "short": "HCL Rucăr nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 20/2023 privind aprobarea planului de analiză și acoperire a riscurilor la nivelul comunei Rucăr pe anul 2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125281",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-21-2023",
+   "path": "local/arges/rucar/2023/21",
+   "short": "HCL Rucăr nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 21/2023 privind aprobarea sistemului alternativ de alarmale cu clopotele de la biserici, al comunei Rucăr și nominalizarea persoanelor care execută alarmarea și a semnalelor de alarmare cu clopotele",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125282",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125282",
      "sha256": null
     }
    ]
@@ -138,6 +273,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-26-2023",
+   "path": "local/arges/rucar/2023/26",
+   "short": "HCL Rucăr nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 26/2023 privind transmiterea în folosință gratuită a spațiului situat la etajul I, din clădirea Complex Comercial Centru, către Aasociația Ruffa Arbor",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125308",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-27-2023",
+   "path": "local/arges/rucar/2023/27",
+   "short": "HCL Rucăr nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 27/2023 privind transmiterea în folosință gratuită a spațiului situat la etajul I, din clădirea Complex Comercial Centru, către Biserica Creștină Evanghelică Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125309",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125309",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-28-2023",
    "path": "local/arges/rucar/2023/28",
    "short": "HCL Rucăr nr. 28/2023",
@@ -148,6 +313,21 @@
      "from": "2023-04-11",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/125310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-29-2023",
+   "path": "local/arges/rucar/2023/29",
+   "short": "HCL Rucăr nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 29/2023 privind transmiterea în folosință gratuită a spațiului situat la etajul I, din clădirea Complex Comercial Centru, către Centrul Social Cultural ”Sfântul Ioan Gură de Aur” Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125311",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125311",
      "sha256": null
     }
    ]
@@ -168,6 +348,51 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-30-2023",
+   "path": "local/arges/rucar/2023/30",
+   "short": "HCL Rucăr nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 30/2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125312",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-31-2023",
+   "path": "local/arges/rucar/2023/31",
+   "short": "HCL Rucăr nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 31/2023 privind transmiterea în folosință gratuită a unui imobil-teren în suprafață de 148 mp, din punctul ”Valea Vladului”, către Asociația Montană Carpați",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125313",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-32-2023",
+   "path": "local/arges/rucar/2023/32",
+   "short": "HCL Rucăr nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 32/2023 privind acordarea unui premiu suplimentar în cuantum de 5.000 de lei pentru Medalia de Aur obținută de către dl Ci0botea C. Alexandru la Olimpiada Națională de Matematică, etapa finală, Brașov, 10-14 Aprilie 2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125422",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125422",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-33-2023",
    "path": "local/arges/rucar/2023/33",
    "short": "HCL Rucăr nr. 33/2023",
@@ -183,6 +408,51 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-34-2023",
+   "path": "local/arges/rucar/2023/34",
+   "short": "HCL Rucăr nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 34/2023 privind aprobarea bugetului de venituri și cheltuieli al SC Utilități Apă Canal Rucăr 2010 SRL pe anul 2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125424",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-35-2023",
+   "path": "local/arges/rucar/2023/35",
+   "short": "HCL Rucăr nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 35/2023 privind actualizarea Art. 2 privind prevederea cheltuielilor aferente proiectului în bugetul local pentru perioada de realizare a investitie din HCL nr. 43/28.11.2016",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125425",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-36-2023",
+   "path": "local/arges/rucar/2023/36",
+   "short": "HCL Rucăr nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 36/2023 privind aderarea şi includerea comunei Rucăr, județul Argeș la Parteneriatul LEADER cu denumirea „GAL MUSCEL”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125426",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125426",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-37-2023",
    "path": "local/arges/rucar/2023/37",
    "short": "HCL Rucăr nr. 37/2023",
@@ -193,6 +463,21 @@
      "from": "2023-05-18",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/125683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-38-2023",
+   "path": "local/arges/rucar/2023/38",
+   "short": "HCL Rucăr nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 38/2023 privind aprobarea constituirii „ASOCIAȚIEI PENTRU ACȚIUNE STRATEGICĂ A ITI - ȚINUTUL PLAI MUȘCELEAN”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125684",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125684",
      "sha256": null
     }
    ]
@@ -223,6 +508,51 @@
      "from": "2023-01-17",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/125014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-40-2023",
+   "path": "local/arges/rucar/2023/40",
+   "short": "HCL Rucăr nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 40/2023 privind aprobarea colaborării/parteneriatului între UAT comuna Rucăr și Județul Argeș prin Consiliul Județean Argeș în vederea depunerii aplicației de finanțare pentru apelul de proiecte ”Microbuze electrice pentru elevi” finanțat prin Programul Național de Redresare și Reziliență al României, Componenta C15 :Educație - Reforma 6 :Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar; Investiția 10: Dezvoltarea rețelei de școli verzi și achiziționare de microbuze verzi",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125688",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-41-2023",
+   "path": "local/arges/rucar/2023/41",
+   "short": "HCL Rucăr nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 41/2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125689",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-42-2023",
+   "path": "local/arges/rucar/2023/42",
+   "short": "HCL Rucăr nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 42/2023 privind participarea in cadrul Apelului de proiecte PNRR/2023/C3/S/I.2.A-B cu proiectul “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA RUCĂR, JUDETUL ARGEȘ” și aprobarea fazelor Nota conceptuala si Tema de proiectare pentru obiectivul de investitii “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA RUCĂR, JUDETUL ARGEȘ”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125690",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125690",
      "sha256": null
     }
    ]
@@ -273,6 +603,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-46-2023",
+   "path": "local/arges/rucar/2023/46",
+   "short": "HCL Rucăr nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 46/2023 privind acordarea titlului de Cetățean de Onoare familiilor care împlinesc 50 de ani de căsătorie în anul 2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125711",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-47-2023",
+   "path": "local/arges/rucar/2023/47",
+   "short": "HCL Rucăr nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 47/2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125712",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-48-2023",
    "path": "local/arges/rucar/2023/48",
    "short": "HCL Rucăr nr. 48/2023",
@@ -298,6 +658,21 @@
      "from": "2023-07-24",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/125717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-5-2023",
+   "path": "local/arges/rucar/2023/5",
+   "short": "HCL Rucăr nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 5/2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125015",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125015",
      "sha256": null
     }
    ]
@@ -598,6 +973,36 @@
      "from": "2023-10-03",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/125756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-7-2023",
+   "path": "local/arges/rucar/2023/7",
+   "short": "HCL Rucăr nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 7/2023 privind a se lua act de Procesul verbal din data de 09.01.2023, întocmit de Garda de Mediu – Comisariatul Județean Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125017",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-8-2023",
+   "path": "local/arges/rucar/2023/8",
+   "short": "HCL Rucăr nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 8/2023 privind aprobarea și implementarea proiectului „Consolidarea capacității Școlii Gimnaziala Nae A. Ghica în vederea gestionării situației de pandemie generată de virusul SARS-COV-2”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/125019",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/125019",
      "sha256": null
     }
    ]

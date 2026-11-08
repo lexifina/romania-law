@@ -3,6 +3,21 @@
  "shard": "local/arges/rucar/2022",
  "acts": [
   {
+   "slug": "hcl-arges--rucar-1-2022",
+   "path": "local/arges/rucar/2022/1",
+   "short": "HCL Rucăr nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 1/2022 privind aprobarea numărului maxim de asistenți personali ai persoanelor cu handicap grav pe anul 2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82170",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-10-2022",
    "path": "local/arges/rucar/2022/10",
    "short": "HCL Rucăr nr. 10/2022",
@@ -43,6 +58,36 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-13-2022",
+   "path": "local/arges/rucar/2022/13",
+   "short": "HCL Rucăr nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 13/2022 privind aprobarea bugetului de venituri și cheltuieli al comunei Rucăr pe anul 2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82236",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-14-2022",
+   "path": "local/arges/rucar/2022/14",
+   "short": "HCL Rucăr nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 14/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82237",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82237",
      "sha256": null
     }
    ]
@@ -93,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-18-2022",
+   "path": "local/arges/rucar/2022/18",
+   "short": "HCL Rucăr nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 18/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82241",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82241",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-19-2022",
    "path": "local/arges/rucar/2022/19",
    "short": "HCL Rucăr nr. 19/2022",
@@ -103,6 +163,21 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-2-2022",
+   "path": "local/arges/rucar/2022/2",
+   "short": "HCL Rucăr nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 2/2022 privind aprobarea cuantumului burselor şcolare ce se vor acorda elevilor din unităţile de învăţământ preuniversitar de stat din Comuna Rucăr în Semestrul II al anului școlar 2021 - 2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82171",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82171",
      "sha256": null
     }
    ]
@@ -123,6 +198,66 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-21-2022",
+   "path": "local/arges/rucar/2022/21",
+   "short": "HCL Rucăr nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 21/2022 privind luare act de Procesul verbal din data de 22.03.2022, întocmit de Garda de Mediu – Comisariatul Județean Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82255",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-22-2022",
+   "path": "local/arges/rucar/2022/22",
+   "short": "HCL Rucăr nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 22/2022 privind atestarea unor bunuri la domeniul public al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82270",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-23-2022",
+   "path": "local/arges/rucar/2022/23",
+   "short": "HCL Rucăr nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 23/2022 privind atestarea unor bunuri la domeniul public al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82271",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-24-2022",
+   "path": "local/arges/rucar/2022/24",
+   "short": "HCL Rucăr nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 24/2022 privind reînființarea funcției de administrator public, la nivelul comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82272",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-25-2022",
    "path": "local/arges/rucar/2022/25",
    "short": "HCL Rucăr nr. 25/2022",
@@ -133,6 +268,51 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-26-2022",
+   "path": "local/arges/rucar/2022/26",
+   "short": "HCL Rucăr nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 26/2022 privind aprobarea documentației de dezmembrare a unui imobil, proprietatea publică a comunei Rucăr, cu număr cadastral 83730",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82274",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-27-2022",
+   "path": "local/arges/rucar/2022/27",
+   "short": "HCL Rucăr nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 27/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82275",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-28-2022",
+   "path": "local/arges/rucar/2022/28",
+   "short": "HCL Rucăr nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 28/2022 privind aprobarea depunerii proiectului “Lucrari de crestere a eficientei energetice – Scoala Gimnazială ”Nae A. Ghica”, comuna Rucăr, judetul Argeș” la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei, prin Planul National de Redresare si Rezilienta",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82276",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82276",
      "sha256": null
     }
    ]
@@ -153,6 +333,51 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-3-2022",
+   "path": "local/arges/rucar/2022/3",
+   "short": "HCL Rucăr nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 3/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82172",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-30-2022",
+   "path": "local/arges/rucar/2022/30",
+   "short": "HCL Rucăr nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 30/2022 privind atestarea unor bunuri la domeniul public al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82281",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-31-2022",
+   "path": "local/arges/rucar/2022/31",
+   "short": "HCL Rucăr nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 31/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82282",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-32-2022",
    "path": "local/arges/rucar/2022/32",
    "short": "HCL Rucăr nr. 32/2022",
@@ -163,6 +388,36 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-33-2022",
+   "path": "local/arges/rucar/2022/33",
+   "short": "HCL Rucăr nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 33/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82284",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-34-2022",
+   "path": "local/arges/rucar/2022/34",
+   "short": "HCL Rucăr nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 34/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82285",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82285",
      "sha256": null
     }
    ]
@@ -198,6 +453,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-37-2022",
+   "path": "local/arges/rucar/2022/37",
+   "short": "HCL Rucăr nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 37/2022 privind ”reparația acoperișului obiecvtivului Sală de Sport”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82288",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-38-2022",
+   "path": "local/arges/rucar/2022/38",
+   "short": "HCL Rucăr nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 38/2022 privind încheierea unui act adițional la contractul de concesiune nr. 3708 / 14.06.2007",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82289",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82289",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-39-2022",
    "path": "local/arges/rucar/2022/39",
    "short": "HCL Rucăr nr. 39/2022",
@@ -208,6 +493,21 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-4-2022",
+   "path": "local/arges/rucar/2022/4",
+   "short": "HCL Rucăr nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 4/2022 privind aprobarea Planului de acțiuni sau de lucrări de interes local efectuate de beneficiarii de ajutor social din comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82173",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82173",
      "sha256": null
     }
    ]
@@ -228,6 +528,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-41-2022",
+   "path": "local/arges/rucar/2022/41",
+   "short": "HCL Rucăr nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 41/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82292",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-42-2022",
+   "path": "local/arges/rucar/2022/42",
+   "short": "HCL Rucăr nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 42/2022 privind aprobarea depunerii proiectului “Lucrari de reabilitare moderata in vederea cresterii eficientei energetice - Scoala Gimnazială ”Nae A. Ghica”, comuna Rucăr, judetul Argeș la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei, prin Planul National de Redresare si Rezilienta – PNRR – COMPONENTA C10 – FONDUL LOCAL - INVESTITIA I.3: REABILITARE MODERATA A CLADIRILOR PUBLICE PENTRU A IMBUNATATI FURNIZAREA DE SERVICII PUBLICE DE CATRE UNITATILE ADMINISTRATIV TERITORIALE",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82293",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82293",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-43-2022",
    "path": "local/arges/rucar/2022/43",
    "short": "HCL Rucăr nr. 43/2022",
@@ -238,6 +568,36 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-44-2022",
+   "path": "local/arges/rucar/2022/44",
+   "short": "HCL Rucăr nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 44/2022 privind întocmirea unui act adițional la contractul nr. 6221/15.06.2015 având ca obiect concesionarea pășunii alpine din punctul ”Luțele”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82295",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-45-2022",
+   "path": "local/arges/rucar/2022/45",
+   "short": "HCL Rucăr nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 45/2022 privind modificarea componentei comisiei de specialitate a Consiliului Local Rucăr, judetul Arges : Comisia I pentru pentru programe de dezvoltare economică, socială, buget - finanțe, administrarea domeniului public și privat al localității, agricultură, gospodărire comunală, protecția mediului",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82296",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82296",
      "sha256": null
     }
    ]
@@ -288,6 +648,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-49-2022",
+   "path": "local/arges/rucar/2022/49",
+   "short": "HCL Rucăr nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 49/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82326",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-5-2022",
+   "path": "local/arges/rucar/2022/5",
+   "short": "HCL Rucăr nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 5/2022 privind aprobarea proiectului rețelei școlare pentru anul școlar 2022 – 2023 la nivelul comunei Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82174",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82174",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-50-2022",
    "path": "local/arges/rucar/2022/50",
    "short": "HCL Rucăr nr. 50/2022",
@@ -298,6 +688,51 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-51-2022",
+   "path": "local/arges/rucar/2022/51",
+   "short": "HCL Rucăr nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 51/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82464",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-52-2022",
+   "path": "local/arges/rucar/2022/52",
+   "short": "HCL Rucăr nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 52/2022 privind însuşirea variantei finale a proiectului de steag a comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82465",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-53-2022",
+   "path": "local/arges/rucar/2022/53",
+   "short": "HCL Rucăr nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 53/2022 privind asocierea dintre comuna Rucăr și Centrul Județean de Cultură și Arte Argeș prin Secția Școala Populară de Arte și Meserii",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82466",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82466",
      "sha256": null
     }
    ]
@@ -348,6 +783,66 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-57-2022",
+   "path": "local/arges/rucar/2022/57",
+   "short": "HCL Rucăr nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 57/2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82472",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-58-2022",
+   "path": "local/arges/rucar/2022/58",
+   "short": "HCL Rucăr nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 58/2022 privind cauza care formează obiectul Dosarului 502/46/2022 și încheierea unui contract de asistență juridică în acest sens",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82473",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-59-2022",
+   "path": "local/arges/rucar/2022/59",
+   "short": "HCL Rucăr nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 59/2022 privind cauza care formează obiectul Dosarului 3284/109/2022 și încheierea unui contract de asistență juridică în acest sens",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82474",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-6-2022",
+   "path": "local/arges/rucar/2022/6",
+   "short": "HCL Rucăr nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 6/2022 privind atestarea unor bunuri mobile la domeniul privat al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82175",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-60-2022",
    "path": "local/arges/rucar/2022/60",
    "short": "HCL Rucăr nr. 60/2022",
@@ -358,6 +853,36 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-61-2022",
+   "path": "local/arges/rucar/2022/61",
+   "short": "HCL Rucăr nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 61/2022 privind acordarea titlului de Cetățean de Onoare familiilor care împlinesc 50 de ani de căsătorie în anul 2022",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82486",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-62-2022",
+   "path": "local/arges/rucar/2022/62",
+   "short": "HCL Rucăr nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 62/2022 privind asocierea dintre comuna Rucăr și Centrul Județean de Cultură și Arte Argeș prin Secția Școala Populară de Arte și Meserii",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82487",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82487",
      "sha256": null
     }
    ]
@@ -378,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-64-2022",
+   "path": "local/arges/rucar/2022/64",
+   "short": "HCL Rucăr nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 64/2022 privind aprobarea cuantumului burselor şcolare ce se vor acorda elevilor din unităţile de învăţământ preuniversitar de stat din Comuna Rucăr în anul școlar 2022 - 2023",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82491",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82491",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-65-2022",
    "path": "local/arges/rucar/2022/65",
    "short": "HCL Rucăr nr. 65/2022",
@@ -388,6 +928,21 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-66-2022",
+   "path": "local/arges/rucar/2022/66",
+   "short": "HCL Rucăr nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 66/2022 privind desemnarea reprezentanților Consiliului Local în Consiliile de Administrație ale școlilor",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82493",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82493",
      "sha256": null
     }
    ]
@@ -598,6 +1153,21 @@
      "from": "2022-12-15",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/82529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-8-2022",
+   "path": "local/arges/rucar/2022/8",
+   "short": "HCL Rucăr nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 8/2022 privind reorganizarea Consiliului Comunitar Consultativ, ca organ cu atributii in protectia copilului",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/82230",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/82230",
      "sha256": null
     }
    ]

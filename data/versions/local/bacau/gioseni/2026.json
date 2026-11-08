@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gioseni/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gioseni-10-2026",
+   "path": "local/bacau/gioseni/2026/10",
+   "short": "HCL Gioseni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 10/2026",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=3",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2026/04/10-HCL-modificarea-si-completarea-Hotararii-Consiliului-Local-nr.-73-din-27.10.2025.pdf",
+     "sha256": "17b03b12f7008cbfeb025b51d4e45e42eb7647a2de4adfd1c89706fdfb811ecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-14-2026",
+   "path": "local/bacau/gioseni/2026/14",
+   "short": "HCL Gioseni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 14/2026 privind punerea în aplicare a prevederilor Sentinței Civile nr. 5934 din 28.08.2024 din dosarul nr. 1992/180/2022 deschis la Judecătoria Bacău, rămasă definitivă și irevocabilă CONSILIULUI LOCAL AL COMUNEI GIOSENI, JUDEȚUL BACĂU, întrunit în ședința ordinară în data de 17.03.2026:",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=3",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2026/04/14-HCL-punerea-in-aplicare-a-prevederilor-sentintei-civile-nr-5934-din-28.08.2024.pdf",
+     "sha256": "16005e80ed15916a6d0ef7110d14dab4deaca126493034786f4de9b4bb3539fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-15-2026",
+   "path": "local/bacau/gioseni/2026/15",
+   "short": "HCL Gioseni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 15/2026 privind modificarea HCL ului nr. 93 din 22.12.2025 și aprobarea unor facilități fiscale conform OUG nr. 9/2026 CONSILIULUI LOCAL AL COMUNEI GIOSENI, JUDEȚUL BACĂU, întrunit în ședința ordinară în data de 17.03.2026:",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=3",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/continut/fisiere/2026/04/15-HCL-privind-modificarea-si-completarea-hcl-nr-93-din-22.12.2025-impozite-si-taxe-locale-si-acordarea-unor-facilitati-fiscale-conform-OUG-9-din-2026.pdf",
+     "sha256": "eb611f172a81ea09e63cfc047d62fa7d08d63c0e16c7316c6c2b3d7417e7b0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gioseni-9-2026",
+   "path": "local/bacau/gioseni/2026/9",
+   "short": "HCL Gioseni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 9/2026",
+   "url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=3",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=3",
+     "sha256": "1063b35b87325589b422d28a4259ad712d7ee1de25c0501251d7f02633107622"
+    }
+   ]
+  }
+ ]
+}

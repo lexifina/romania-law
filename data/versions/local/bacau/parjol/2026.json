@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/parjol/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--parjol-13-2026",
+   "path": "local/bacau/parjol/2026/13",
+   "short": "HCL Pârjol nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 13/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/04/HCL-nr.13-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/04/HCL-nr.13-din-26.02.2026.pdf",
+     "sha256": "2c2d40ae960b13bf3e7321b019740635ef58afb5fa8813be1b6b2c32853c072a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-33-2026",
+   "path": "local/bacau/parjol/2026/33",
+   "short": "HCL Pârjol nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 33/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-33-din-28.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-33-din-28.05.2026.pdf",
+     "sha256": "f483c1fefe93c9bf4add00a5f8402217e079ffada3e30e91d2a1c227312238a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-34-2026",
+   "path": "local/bacau/parjol/2026/34",
+   "short": "HCL Pârjol nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 34/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-34-din-28.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-34-din-28.05.2026.pdf",
+     "sha256": "f18151dc2de373d460262b550e9bd34bf2feddc6b4e72cbebe4531490ea1a512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-35-2026",
+   "path": "local/bacau/parjol/2026/35",
+   "short": "HCL Pârjol nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 35/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-35-din-28.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-35-din-28.05.2026.pdf",
+     "sha256": "90d3985916d7b72eba4e71a592191d269ef3409f2f3204601eb8f87812f00cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-36-2026",
+   "path": "local/bacau/parjol/2026/36",
+   "short": "HCL Pârjol nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 36/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-36-din-28.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-36-din-28.05.2026.pdf",
+     "sha256": "65d90b4f69c4f19d78cf952bd0a4e0680b8323db6dcf503bcced781423f700eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-37-2026",
+   "path": "local/bacau/parjol/2026/37",
+   "short": "HCL Pârjol nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 37/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-37-din-28.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/06/HCL-nr.-37-din-28.05.2026.pdf",
+     "sha256": "a898e3a0e0127ffb3b8bcf25d6066b65f779e4ee381a56c22da87e85fe503429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-59-2026",
+   "path": "local/bacau/parjol/2026/59",
+   "short": "HCL Pârjol nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 59/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/10/P.H-nr.59-din-06.10.2026-sedinta-pentru-publicare.pdf",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/10/P.H-nr.59-din-06.10.2026-sedinta-pentru-publicare.pdf",
+     "sha256": "b6dc61756c11af26d6667a32385db2d0627a05efecfed99b4c6bf5b6341e712a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parjol-62-2026",
+   "path": "local/bacau/parjol/2026/62",
+   "short": "HCL Pârjol nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pârjol nr. 62/2026",
+   "url": "https://primaria-pirjol.ro/continut/fisiere/2026/10/P.H-nr.62-din-22.10.2026-cotizatie-GAL-ULMUS.pdf",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://primaria-pirjol.ro/continut/fisiere/2026/10/P.H-nr.62-din-22.10.2026-cotizatie-GAL-ULMUS.pdf",
+     "sha256": "d81bdda227361f24dc21956c3603d10385b9c48fe87f7828e4f81f9774fd38a1"
+    }
+   ]
+  }
+ ]
+}

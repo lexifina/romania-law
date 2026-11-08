@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-14-2021",
+   "path": "local/bacau/rachitoasa/2021/14",
+   "short": "HCL Răchitoasa nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 14/2021 privind acordarea unui ajutor de urgență în baza prevederilor Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/33574",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/33574",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-15-2021",
    "path": "local/bacau/rachitoasa/2021/15",
    "short": "HCL Răchitoasa nr. 15/2021",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-2-2021",
+   "path": "local/bacau/rachitoasa/2021/2",
+   "short": "HCL Răchitoasa nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 2/2021",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/33560",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/33560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-20-2021",
    "path": "local/bacau/rachitoasa/2021/20",
    "short": "HCL Răchitoasa nr. 20/2021",
@@ -163,6 +193,21 @@
      "from": "2021-05-27",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/33580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-21-2021",
+   "path": "local/bacau/rachitoasa/2021/21",
+   "short": "HCL Răchitoasa nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 21/2021 privind stabilirea mandatului reprezentantului legal al Unității Administrativ-Teritoriale comuna Răchitoasa pentru ședința Adunării Generale a Asociației de Dezvoltare Intercomunitară Bacău convocată pentru data de 25.06.2021 și pentru ședința Adunării Generale a Acționarilor a SC Compania Regională de Apă Bacău SA din 28.06.2021",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/33581",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/33581",
      "sha256": null
     }
    ]
@@ -183,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-23-2021",
+   "path": "local/bacau/rachitoasa/2021/23",
+   "short": "HCL Răchitoasa nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 23/2021 privind primirea UAT Berești Bistrița în calitate de membru la Asociația de Dezvoltare Intercomunitară Bacău - ADIB și modificarea Actului Constitutiv și a Statutului acesteia",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/42436",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/42436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-24-2021",
+   "path": "local/bacau/rachitoasa/2021/24",
+   "short": "HCL Răchitoasa nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 24/2021 privind aprobarea contractului de asociere privind finanțarea activității de producție de tip rezidențial al persoanei cu handicap",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/42437",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/42437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-25-2021",
    "path": "local/bacau/rachitoasa/2021/25",
    "short": "HCL Răchitoasa nr. 25/2021",
@@ -193,6 +268,21 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/42438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-26-2021",
+   "path": "local/bacau/rachitoasa/2021/26",
+   "short": "HCL Răchitoasa nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 26/2021 privind aprobarea Regulamentului de organizare și funcționare a Bibliotecii comunale Răchitoasa",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/42448",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/42448",
      "sha256": null
     }
    ]
@@ -253,6 +343,21 @@
      "from": "2021-01-28",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/33561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-30-2021",
+   "path": "local/bacau/rachitoasa/2021/30",
+   "short": "HCL Răchitoasa nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 30/2021 privind desemnarea reprezentanților Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de administrație al Liceului Tehnologic Răchitoasa, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/42452",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/42452",
      "sha256": null
     }
    ]
@@ -553,6 +658,21 @@
      "from": "2021-11-08",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/42498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-5-2021",
+   "path": "local/bacau/rachitoasa/2021/5",
+   "short": "HCL Răchitoasa nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 5/2021 privind aprobarea Planului de acțiuni și lucrări ce vor fi efectuate în anul 2021 de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/33563",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/33563",
      "sha256": null
     }
    ]

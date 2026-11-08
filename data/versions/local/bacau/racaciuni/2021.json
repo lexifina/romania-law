@@ -3,6 +3,96 @@
  "shard": "local/bacau/racaciuni/2021",
  "acts": [
   {
+   "slug": "hcl-bacau--racaciuni-53-2021",
+   "path": "local/bacau/racaciuni/2021/53",
+   "short": "HCL Răcăciuni nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 53/2021 privind modificarea și completarea Regulamentului de Organizare si Functionare a CL Răcăciuni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.53%20din%2030.09.2021%20privind%20modificarea%20%C8%99i%20completarea%20Regulamentului%20de%20Organizare%20si%20Functionare%20a%20CL%20R%C4%83c%C4%83ciuni.pdf",
+     "sha256": "609b256d453865ff06473df41766b484c8d2e4e4c2a84e49921cc7142c4ce1e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-56-2021",
+   "path": "local/bacau/racaciuni/2021/56",
+   "short": "HCL Răcăciuni nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 56/2021 privind rectificarea bugetului și modificarea listei d einvestitii pt.trim.III 2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2056%20din%2030.09.2021%20privind%20rectificarea%20bugetului%20%C8%99i%20modificarea%20listei%20d%20einvestitii%20pt.trim.III%202021.pdf",
+     "sha256": "42e8f10df409b7123792cb2dcc882d46c8b1eb13bea8cf03a62ba19b0bedc3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-57-2021",
+   "path": "local/bacau/racaciuni/2021/57",
+   "short": "HCL Răcăciuni nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 57/2021 privind actualizarea indic.teh.-ec. si a devizului general a investitiei Modernizare drumuri sătești Gheorghe-Doja,com Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+     "sha256": "132254b539e4ed35995586ea82b0f47ebc99d11df9088a31f6592e77cedd13cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-58-2021",
+   "path": "local/bacau/racaciuni/2021/58",
+   "short": "HCL Răcăciuni nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 58/2021 privind aprobarea asocierii comunei Răcăciuni la Asociația de Dezvoltare Intercomunitară Zona Metropolitană Bacau Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2058%20din%2027.10.2021%20privind%20aprobarea%20asocierii%20comunei%20R%C4%83c%C4%83ciuni%20la%20Asocia%C8%9Bia%20de%20Dezvoltare%20Intercomunitar%C4%83%20Zona%20Metropolitan%C4%83%20Bacau.pdf",
+     "sha256": "38b7316853eb86ac5c71cdc1b77e8afee6d795b9e53a844bdd30e5d4781e7efc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-59-2021",
+   "path": "local/bacau/racaciuni/2021/59",
+   "short": "HCL Răcăciuni nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 59/2021 privind aprobarea dezlipirii imobilului teren extravilan în suprafață de 11.450 mp avand nr. cadastral 63533 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2059%20din%2027.10.2021%20privind%20aprobarea%20dezlipirii%20imobilului%20teren%20extravilan%20%C3%AEn%20suprafa%C8%9B%C4%83%20de%2011.450%20mp%20avand%20nr.%20cadastral%2063533.pdf",
+     "sha256": "b5c829782551eb13f8ca06d332fa8af4c84d32cded5d8ae110337394298131c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-60-2021",
+   "path": "local/bacau/racaciuni/2021/60",
+   "short": "HCL Răcăciuni nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 60/2021 privind stabilirea mandatului reprezentantului legal al UAT Răcăciuni în ședința AGA-CRAB Bacău din 3.11.2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2060%20din%2027.10.2021%20privind%20stabilirea%20mandatului%20reprezentantului%20legal%20al%20UAT%20R%C4%83c%C4%83ciuni%20%C3%AEn%20%C8%99edin%C8%9Ba%20AGA-CRAB%20Bac%C4%83u%20din%203.11.2021.pdf",
+     "sha256": "a1a90f734e02ecb4bd3811916e0689d8cec8ccc1f55c81b2c00b32b84b32cbd5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racaciuni-61-2021",
    "path": "local/bacau/racaciuni/2021/61",
    "short": "HCL Răcăciuni nr. 61/2021",
@@ -14,6 +104,246 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2061%20din%2027.10.2021%20privind%20aprobarea%20%C8%99i%20completarea%20pre%C8%9Burilor%20%C8%99i%20tarifelor%20pentru%20unele%20servicii%20publice%20de%20alimentare%20cu%20ap%C4%83%20%C8%99i%20de%20cana.pdf",
      "sha256": "367d1b9fc213bb768d266fe80c044c1f3aab3b80efd0c9d5f49342794277f515"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-62-2021",
+   "path": "local/bacau/racaciuni/2021/62",
+   "short": "HCL Răcăciuni nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 62/2021 privind aprobarea modificării Anexei nr. X ( Reg.serv. de alim.cu apă și canalizare) la Contractul de delegare a gesti Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2062%20din%2027.10.2021%20privind%20aprobarea%20modific%C4%83rii%20Anexei%20nr.%20X%20(%20Reg.serv.%20de%20alim.cu%20ap%C4%83%20%C8%99i%20canalizare)%20la%20Contractul%20de%20delegare%20a%20gesti.pdf",
+     "sha256": "8c18c633c3c411039ea7957752c4f89ae1a430ba801e52451d0874bc6f324387"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-63-2021",
+   "path": "local/bacau/racaciuni/2021/63",
+   "short": "HCL Răcăciuni nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 63/2021 privind participarea UAT Răcăciuni la elaborarea studiului de oportunitate si de fundamentare pentru delegarea gesti Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2063%20din%2027.10.2021%20privind%20participarea%20UAT%20R%C4%83c%C4%83ciuni%20la%20elaborarea%20studiului%20de%20oportunitate%20%20si%20de%20fundamentare%20pentru%20%20delegarea%20gesti.pdf",
+     "sha256": "f8fa2b472dc474c190b43a0894732c6ab55f87fc3fc3f125d48969ee6736433c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-64-2021",
+   "path": "local/bacau/racaciuni/2021/64",
+   "short": "HCL Răcăciuni nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 64/2021 privind dreptul de uz catre SC Delgaz Grid SA pe durata existentei constructiei pt.supraf. de 38,60 mp si a dreptului Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2064%20din%2027.10.2021%20privind%20dreptul%20de%20uz%20catre%20SC%20Delgaz%20Grid%20SA%20pe%20durata%20existentei%20constructiei%20pt.supraf.%20de%2038,60%20mp%20si%20a%20dreptului%20.pdf",
+     "sha256": "18a2be8614a8c5ddfb93a5df5ffb846c205ef7e69d35af6eec4ebcfb129731c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-65-2021",
+   "path": "local/bacau/racaciuni/2021/65",
+   "short": "HCL Răcăciuni nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 65/2021 privind dreptul de uz catre SC Delgaz Grid SA pe durata existentei constructiei pt.supraf. de 0,80 mp si a dreptului d Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2065%20din%2027.10.2021%20privind%20dreptul%20de%20uz%20catre%20SC%20Delgaz%20Grid%20SA%20pe%20durata%20existentei%20constructiei%20pt.supraf.%20de%200,80%20mp%20si%20a%20dreptului%20d.pdf",
+     "sha256": "4a4ddfc486c31c501c837beb01ad789506be83afc1b8a8446e3a3b719ba5fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-66-2021",
+   "path": "local/bacau/racaciuni/2021/66",
+   "short": "HCL Răcăciuni nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 66/2021 privind dreptul de uz catre SC Delgaz Grid SA pe durata existentei constructiei pt.supraf. de 8,40 mp si a dreptului Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2066%20din%2027.10.2021%20privind%20dreptul%20de%20uz%20catre%20SC%20Delgaz%20Grid%20SA%20pe%20durata%20existentei%20constructiei%20pt.supraf.%20de%208,40%20%20mp%20si%20a%20dreptului%20.pdf",
+     "sha256": "c635da755e08edc5113b92ec6bd9769322d822242b941f97913b48785c6b507c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-67-2021",
+   "path": "local/bacau/racaciuni/2021/67",
+   "short": "HCL Răcăciuni nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 67/2021 privind dreptul de uz catre SC Delgaz Grid SA pe durata existentei constructiei pt.supraf. de 16,80 mp si a dreptului Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2067%20din%2027.10.2021%20privind%20dreptul%20de%20uz%20catre%20SC%20Delgaz%20Grid%20SA%20pe%20durata%20existentei%20constructiei%20pt.supraf.%20de%2016,80%20mp%20si%20a%20dreptului%20.pdf",
+     "sha256": "ff8b83bcccf8841ab269b7169b5111dd069a9b7f8fb3fd5b0c7a234b2cdb3540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-68-2021",
+   "path": "local/bacau/racaciuni/2021/68",
+   "short": "HCL Răcăciuni nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 68/2021 privind aprobarea numărului și cuantumului burselor aferente se.I și II a anului scolar 2020-2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2068%20din%2027.10.2021%20privind%20aprobarea%20num%C4%83rului%20%C8%99i%20cuantumului%20burselor%20aferente%20se.I%20%C8%99i%20II%20a%20anului%20scolar%202020-2021.pdf",
+     "sha256": "3dc995d22336c55ae52fe8123757c3de4776ca40a08999332b8506489e5ea5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-69-2021",
+   "path": "local/bacau/racaciuni/2021/69",
+   "short": "HCL Răcăciuni nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 69/2021 privind rectificarea bugetului și modificarea listei d einvestitii pe trim.IV Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2069%20din%2027.10.2021%20privind%20rectificarea%20bugetului%20%C8%99i%20modificarea%20listei%20d%20einvestitii%20pe%20trim.IV.pdf",
+     "sha256": "2c2690e2d84ccdf76baf4f54d73f40afab81753228dddaed331b8fa79b41336a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-70-2021",
+   "path": "local/bacau/racaciuni/2021/70",
+   "short": "HCL Răcăciuni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 70/2021 privind aprobarea cererii de finantare și a devizului deneral pt. investitia Infiintare sistem de alimentare cu apă ș Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2070%20din%204.11.2021%20privind%20aprobarea%20%20cererii%20de%20finantare%20%C8%99i%20a%20devizului%20deneral%20pt.%20investitia%20Infiintare%20sistem%20de%20alimentare%20cu%20ap%C4%83%20%C8%99i.pdf",
+     "sha256": "208d7edf148a28eeadcab6d9206afb674307fc6bb12fd98f17157b456ae52679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-71-2021",
+   "path": "local/bacau/racaciuni/2021/71",
+   "short": "HCL Răcăciuni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 71/2021",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+     "sha256": "30a98d74f0b3ff2af42d0864a38bf0bee813e6c087d766ed4eb97d301c7d16d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-72-2021",
+   "path": "local/bacau/racaciuni/2021/72",
+   "short": "HCL Răcăciuni nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 72/2021 privind aprobarea cererii de finanțare și a devizului general pt. investitia Reabilitare și moderniz. infrastructura Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2072%20din%204.11.2021%20privind%20aprobarea%20cererii%20de%20finan%C8%9Bare%20%C8%99i%20a%20devizului%20general%20pt.%20investitia%20Reabilitare%20%20%C8%99i%20moderniz.%20infrastructura%20r.pdf",
+     "sha256": "010780238bf1cc711d11287de551fa0b5e0a1935f409674b8fa7367aa45cbcaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-73-2021",
+   "path": "local/bacau/racaciuni/2021/73",
+   "short": "HCL Răcăciuni nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 73/2021 privind vanzarea fără licitatie publică(directă) a terenului in suprafata de 299 mp din sat Gâșteni cu exercitarea dre Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2073%20din%2022.11.2021%20privind%20vanzarea%20f%C4%83r%C4%83%20licitatie%20public%C4%83(direct%C4%83)%20a%20terenului%20in%20suprafata%20de%20299%20mp%20din%20sat%20G%C3%A2%C8%99teni%20cu%20exercitarea%20dre.pdf",
+     "sha256": "6f20aae4df07a3651d314acab49d907d2d18a6020976c8af895851e08a974811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-74-2021",
+   "path": "local/bacau/racaciuni/2021/74",
+   "short": "HCL Răcăciuni nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 74/2021 privind execuția bugetară la data de 30.09.2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2074%20din%2022.11.2021%20privind%20execu%C8%9Bia%20bugetar%C4%83%20la%20data%20de%2030.09.2021.pdf",
+     "sha256": "75494cb30c54a25e34265e06084f79597a8183af2161d42c084dcbd35168cb1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-75-2021",
+   "path": "local/bacau/racaciuni/2021/75",
+   "short": "HCL Răcăciuni nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 75/2021 privind aprobarea rectificării bugetului comunei pe trim.IV 2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2075%20din%2022.11.2021%20privind%20aprobarea%20rectific%C4%83rii%20bugetului%20comunei%20pe%20trim.IV%202021.pdf",
+     "sha256": "c45af104a4331e61e8b8d525170a86917e2e4c432ef8e69342c245f935841dc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-76-2021",
+   "path": "local/bacau/racaciuni/2021/76",
+   "short": "HCL Răcăciuni nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 76/2021 privind acordarea mandatului special reprezentantului UAT Răcăciuni în ședința AGA ADIB din 22.11.2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2076%20din%2022.11.2021%20privind%20acordarea%20mandatului%20special%20reprezentantului%20UAT%20R%C4%83c%C4%83ciuni%20%C3%AEn%20%C8%99edin%C8%9Ba%20AGA%20ADIB%20din%2022.11.2021.pdf",
+     "sha256": "8e6e0ecaf98f353dbb507030f87fe5dcc089df9bbad0abf3ee4c1457c9aaf5c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-77-2021",
+   "path": "local/bacau/racaciuni/2021/77",
+   "short": "HCL Răcăciuni nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 77/2021 privind modificarea Statului de funcții a aparatului de specialitate al primarului comunei Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2077%20din%2022.11.2021%20privind%20modificarea%20Statului%20de%20func%C8%9Bii%20a%20aparatului%20de%20specialitate%20al%20primarului%20comunei.pdf",
+     "sha256": "52a6b35a26549f54ea3228741a3b802e7706add8e5749340a546223a2084212b"
     }
    ]
   },
@@ -33,6 +363,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--racaciuni-79-2021",
+   "path": "local/bacau/racaciuni/2021/79",
+   "short": "HCL Răcăciuni nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 79/2021 privind îndreptarea erorii materiale din anexa nr. 2, a) și b) la HCL nr. 57 din 30.09.2021 privind aprobarea acrtuali Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2079%20din%2023.11.2021%20privind%20%C3%AEndreptarea%20erorii%20materiale%20din%20anexa%20nr.%202,%20a)%20%C8%99i%20b)%20la%20HCL%20nr.%2057%20din%2030.09.2021%20privind%20aprobarea%20acrtuali.pdf",
+     "sha256": "baa7e4d342456c1330e5f7d6dbbf405e9c5c034dba1ac191647b1a53e60b5762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-80-2021",
+   "path": "local/bacau/racaciuni/2021/80",
+   "short": "HCL Răcăciuni nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 80/2021 privind stabilirea reprezentantului legal al UAT Răcăciuni pentru sedinta AGA CRAB din data de 6.12.2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2080%20din%2023.11.2021%20privind%20stabilirea%20reprezentantului%20legal%20al%20UAT%20R%C4%83c%C4%83ciuni%20pentru%20sedinta%20AGA%20CRAB%20din%20data%20de%206.12.2021.pdf",
+     "sha256": "b800ca1412cfd82ac3d018dc3dec9e0144321e04bfdc0f7d9b7b165a26c0033e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-81-2021",
+   "path": "local/bacau/racaciuni/2021/81",
+   "short": "HCL Răcăciuni nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 81/2021",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+     "sha256": "61b7ddfa55578983631471206dcb5f9d3c9932a14d612d37add6fc67ed60c6e5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racaciuni-82-2021",
    "path": "local/bacau/racaciuni/2021/82",
    "short": "HCL Răcăciuni nr. 82/2021",
@@ -44,6 +419,141 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/Continuare%20HCL%20nr.%2082%20din%2016.12.2021.pdf",
      "sha256": "ffe89d36b22da5e0c392acf993af1fc8555f07d0bb26c6fee82d5da6038edbaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-83-2021",
+   "path": "local/bacau/racaciuni/2021/83",
+   "short": "HCL Răcăciuni nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 83/2021 privind acordul de principiu în vederea cofinanțării investitiei Extindere retele electrice in loc.Răcăciuni-zona Stra Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2083%20din%2016.12.2021%20privind%20acordul%20de%20principiu%20%C3%AEn%20vederea%20cofinan%C8%9B%C4%83rii%20investitiei%20Extindere%20retele%20electrice%20in%20loc.R%C4%83c%C4%83ciuni-zona%20Stra.pdf",
+     "sha256": "f361d4352797bca011ff42347a5d4fc36d10b12555211a6a566e20d0686ea9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-84-2021",
+   "path": "local/bacau/racaciuni/2021/84",
+   "short": "HCL Răcăciuni nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 84/2021 privind analiza stadiului de inscriere a datelor în registrul agricol pe trim.III al anului 2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2084%20din%2016.12.2021%20privind%20analiza%20stadiului%20de%20inscriere%20a%20datelor%20%C3%AEn%20registrul%20agricol%20pe%20trim.III%20al%20anului%202021.pdf",
+     "sha256": "57c354599a93e937bd753619bcd55f72f452553137c75506754f662d4f7442bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-85-2021",
+   "path": "local/bacau/racaciuni/2021/85",
+   "short": "HCL Răcăciuni nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 85/2021 privind aprobarea rectificarii bugetului pe trim.IV al anului 2021 si modificarea listei de investitii Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2085%20din%2016.12.2021%20privind%20aprobarea%20rectificarii%20bugetului%20pe%20trim.IV%20al%20anului%202021%20si%20modificarea%20listei%20de%20investitii.pdf",
+     "sha256": "a12cf55f502e98b458bf3a34088e4621d013853c6e83f9a5f233466591f774ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-86-2021",
+   "path": "local/bacau/racaciuni/2021/86",
+   "short": "HCL Răcăciuni nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 86/2021 privind participarea com.Răcăciuni la Programul privind creșterea eficientei energetice a infrastructurii de iluminat Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2086%20din%2016.12.2021%20privind%20participarea%20com.R%C4%83c%C4%83ciuni%20la%20Programul%20privind%20cre%C8%99terea%20eficientei%20energetice%20a%20infrastructurii%20de%20iluminat%20.pdf",
+     "sha256": "83da0c50dffce95d6bc6fd3c281a5faf106660c52c03247a82861d1c1bdab5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-87-2021",
+   "path": "local/bacau/racaciuni/2021/87",
+   "short": "HCL Răcăciuni nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 87/2021 privind aprobarea indicatorilor tehnico-economici si a devizului general la investitia Extindere retea iluminat public Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2087%20din%2016.12.2021%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20si%20a%20devizului%20general%20la%20investitia%20Extindere%20retea%20iluminat%20public.pdf",
+     "sha256": "85350cdaca5e55bb99b7eb375a1d7a85588c18a92d16fc5c5090f594688f0b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-88-2021",
+   "path": "local/bacau/racaciuni/2021/88",
+   "short": "HCL Răcăciuni nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 88/2021 privind aprobarea indicatorilor tehnico-economici si a devizului general la investitia Extindere retea iluminat publi Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2088%20din%2016.12.2021%20%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20si%20a%20devizului%20general%20la%20investitia%20Extindere%20retea%20iluminat%20publi.pdf",
+     "sha256": "28692740098d293f5e6ed8e957b17493ae6e7c91523315a928f09a5572944382"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-89-2021",
+   "path": "local/bacau/racaciuni/2021/89",
+   "short": "HCL Răcăciuni nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 89/2021 privind aprobarea numărului și cuantumului burselor școlare aferente sem.I al anului scoalr 2021-202 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2089%20din%2016.12.2021%20privind%20aprobarea%20num%C4%83rului%20%C8%99i%20cuantumului%20burselor%20%C8%99colare%20aferente%20sem.I%20al%20anului%20scoalr%202021-2022.pdf",
+     "sha256": "83bdf3a2512cea3bec48b83fcf0c4d4aaeb7f62ddb52e56846102d3acf11ddf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-90-2021",
+   "path": "local/bacau/racaciuni/2021/90",
+   "short": "HCL Răcăciuni nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 90/2021 privind aprobarea solicitarii prelungirii Scrisorii de garanție nr. 87 din 2018 emisa de FNGCI MM SA IFN aferenta pr Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2090%20din%2016.12.2021%20privind%20aprobarea%20solicitarii%20prelungirii%20Scrisorii%20de%20garan%C8%9Bie%20nr.%2087%20din%202018%20emisa%20de%20FNGCI%20MM%20%20SA%20%20IFN%20aferenta%20pr.pdf",
+     "sha256": "8f566c6a2892a98699b8edeb1a2fc9528532f72f440382cfb2c73beb4d513d74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-91-2021",
+   "path": "local/bacau/racaciuni/2021/91",
+   "short": "HCL Răcăciuni nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 91/2021 privind aprobarea rectificării bugetului și modificarea listei de investiții pe trim.IV al anului 2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2091%20din%2022.12.2021%20privind%20aprobarea%20rectific%C4%83rii%20bugetului%20%C8%99i%20modificarea%20listei%20de%20investi%C8%9Bii%20pe%20trim.IV%20al%20anului%202021.pdf",
+     "sha256": "6a1983bc0d2284bf558ff3bef9f64a6f0bc38b1005ed48a6b5d924db10693501"
     }
    ]
   }

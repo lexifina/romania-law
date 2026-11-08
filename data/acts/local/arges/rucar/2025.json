@@ -3,6 +3,28 @@
 "shard": "local/arges/rucar/2025",
 "acts": [
 {
+"slug": "hcl-arges--rucar-1-2025",
+"path": "local/arges/rucar/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 1/2025 privind alegerea viceprimarului comunei Rucăr",
+"short": "HCL Rucăr nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/230562",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-2-2025",
 "path": "local/arges/rucar/2025/2",
 "kind": "local",
@@ -111,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-7-2025",
+"path": "local/arges/rucar/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 7/2025 privind desemnarea reprezentanților Consiliului Local în Consiliile de Administrație ale unităților de învățământ",
+"short": "HCL Rucăr nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/230572",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -402,6 +446,28 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-21-2025",
+"path": "local/arges/rucar/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 21/2025 privind aprobarea dezmembrării unor imobile-teren situate în comuna Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/230666",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-22-2025",
 "path": "local/arges/rucar/2025/22",
 "kind": "local",
@@ -644,6 +710,28 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-33-2025",
+"path": "local/arges/rucar/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 33/2025 privind aprobarea dezmembrării unor imobile-teren situate în comuna Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/230713",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-34-2025",
 "path": "local/arges/rucar/2025/34",
 "kind": "local",
@@ -778,6 +866,28 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-40-2025",
+"path": "local/arges/rucar/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 40/2025 privind aprobarea dezmembrării unor imobile-teren situate în comuna Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/230740",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-41-2025",
 "path": "local/arges/rucar/2025/41",
 "kind": "local",
@@ -885,6 +995,28 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-46-2025",
+"path": "local/arges/rucar/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 46/2025 privind acordarea titlului de ”CETĂȚEAN DE ONOARE” al comunei Rucăr și a unor plachete omagiale",
+"short": "HCL Rucăr nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/230810",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

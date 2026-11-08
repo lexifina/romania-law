@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/bacau/targu-ocna/2023",
+"acts": [
+{
+"slug": "hcl-bacau--targu-ocna-78-2023",
+"path": "local/bacau/targu-ocna/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 78/2023 privind modificarea HCL Târgu Ocna nr. 78 din 28.08.2023 – desemnarea reprezentanţilor CL in consiliile de administratie ale unitatilor de invatamant",
+"short": "HCL Târgu Ocna nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+"council": "bacau/targu-ocna",
+"council_name": "Consiliul Local al Orașului Târgu Ocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--targu-ocna-99-2023",
+"path": "local/bacau/targu-ocna/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 99/2023 privind modificarea elementelor de identificare ale unor bunuri care aparţin domeniului public al oraşului Tȃrgu Ocna",
+"short": "HCL Târgu Ocna nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+"council": "bacau/targu-ocna",
+"council_name": "Consiliul Local al Orașului Târgu Ocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--targu-ocna-103-2023",
+"path": "local/bacau/targu-ocna/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 103/2023 Privind aprobarea execuţiei bugetare a oraşului Târgu Ocna pe trimestrul III 2023",
+"short": "HCL Târgu Ocna nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+"council": "bacau/targu-ocna",
+"council_name": "Consiliul Local al Orașului Târgu Ocna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

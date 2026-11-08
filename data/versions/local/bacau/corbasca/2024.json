@@ -3,6 +3,36 @@
  "shard": "local/bacau/corbasca/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--corbasca-1-2024",
+   "path": "local/bacau/corbasca/2024/1",
+   "short": "HCL Corbasca nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 1/2024 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -I-2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/137777",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/137777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-10-2024",
+   "path": "local/bacau/corbasca/2024/10",
+   "short": "HCL Corbasca nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 10/2024 privind constatarea majorarii indemnizatiilor pentru functiile de demnitate publica-priamar si viceprimar al comunei Corbasca,judetul Bacau si aprobarea salariilor de bază pentru funcţionarii publici şipersonalul contractual din cadrul aparatului de specialitate al primarului comunei Corbasca, judeţul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/137786",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/137786",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-100-2024",
    "path": "local/bacau/corbasca/2024/100",
    "short": "HCL Corbasca nr. 100/2024",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-19-2024",
+   "path": "local/bacau/corbasca/2024/19",
+   "short": "HCL Corbasca nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 19/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/143305",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/143305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-2-2024",
    "path": "local/bacau/corbasca/2024/2",
    "short": "HCL Corbasca nr. 2/2024",
@@ -193,6 +238,21 @@
      "from": "2024-04-09",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/147443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-22-2024",
+   "path": "local/bacau/corbasca/2024/22",
+   "short": "HCL Corbasca nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 22/2024 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.arh.Mihail si Gavril; » din_Sat.CORBASCA,comuna CORBASCA,judetul BACAU._",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/147444",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/147444",
      "sha256": null
     }
    ]
@@ -273,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-28-2024",
+   "path": "local/bacau/corbasca/2024/28",
+   "short": "HCL Corbasca nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 28/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/147450",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/147450",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-29-2024",
    "path": "local/bacau/corbasca/2024/29",
    "short": "HCL Corbasca nr. 29/2024",
@@ -303,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-30-2024",
+   "path": "local/bacau/corbasca/2024/30",
+   "short": "HCL Corbasca nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 30/2024 privind CONFERIREA” TITLULUI DE CETATEAN DE ONOARE- AL COMUNEI CORBASCA,JUDETUL BACAU domnului_LUPU VASILE_",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/147452",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/147452",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-31-2024",
    "path": "local/bacau/corbasca/2024/31",
    "short": "HCL Corbasca nr. 31/2024",
@@ -328,6 +418,66 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/153262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-33-2024",
+   "path": "local/bacau/corbasca/2024/33",
+   "short": "HCL Corbasca nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 33/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/153263",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/153263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-34-2024",
+   "path": "local/bacau/corbasca/2024/34",
+   "short": "HCL Corbasca nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 34/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/153264",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/153264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-35-2024",
+   "path": "local/bacau/corbasca/2024/35",
+   "short": "HCL Corbasca nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 35/2024 privind aprobarea tipului de suport alimentar, precum şi a modalităţii de distribuire a acestuia elevilor şi preşcolarilor din cadrul Școlii Gimnaziale sat Corbasca,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/153265",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/153265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-36-2024",
+   "path": "local/bacau/corbasca/2024/36",
+   "short": "HCL Corbasca nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 36/2024 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -II-2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/156506",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/156506",
      "sha256": null
     }
    ]
@@ -393,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-40-2024",
+   "path": "local/bacau/corbasca/2024/40",
+   "short": "HCL Corbasca nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 40/2024 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.Nicolae » din_Sat.SCARISOARA,comuna CORBASCA,judetul BACAU._",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/156510",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/156510",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-41-2024",
    "path": "local/bacau/corbasca/2024/41",
    "short": "HCL Corbasca nr. 41/2024",
@@ -403,6 +568,21 @@
      "from": "2024-06-28",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/156511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-42-2024",
+   "path": "local/bacau/corbasca/2024/42",
+   "short": "HCL Corbasca nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 42/2024 privind aprobarea închirierii prin atribuire directa a pajistilor disponibile aflate in proprietatea privata a comunei Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/158872",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/158872",
      "sha256": null
     }
    ]
@@ -498,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-49-2024",
+   "path": "local/bacau/corbasca/2024/49",
+   "short": "HCL Corbasca nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 49/2024 privind aprobarea Devizului General si asigurarii cofinantarii de la bugetul local pentru realizarea obiectivului de investitii\"Reparatii drumuri satesti calamitate in anul 2024,comuna Corbasca,judetul Bacau\"",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/161096",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/161096",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-5-2024",
    "path": "local/bacau/corbasca/2024/5",
    "short": "HCL Corbasca nr. 5/2024",
@@ -523,6 +718,36 @@
      "from": "2024-08-06",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/161097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-51-2024",
+   "path": "local/bacau/corbasca/2024/51",
+   "short": "HCL Corbasca nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 51/2024 privind declararea de utilitate publica si inters public local a obiectivului de investitie\"CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA CORBASCA,JUDETUL BACAU\"",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/161098",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/161098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-52-2024",
+   "path": "local/bacau/corbasca/2024/52",
+   "short": "HCL Corbasca nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 52/2024 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -III-2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/163655",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/163655",
      "sha256": null
     }
    ]
@@ -558,6 +783,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-55-2024",
+   "path": "local/bacau/corbasca/2024/55",
+   "short": "HCL Corbasca nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 55/2024 privind aprobarea trecerii din domeniul public in domeniul privat al comunei Corbasca,scoaterea din functiune,casarea,demolarea si valorificarea imobilului cu numar cadastral 60403-C1 ,in suprafata de 219,40 mp,situat in intravilanulsatuluiScarisoara,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/163658",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/163658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-56-2024",
+   "path": "local/bacau/corbasca/2024/56",
+   "short": "HCL Corbasca nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 56/2024 privind aprobarea majorarii cu 10 % a salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Corbasca, judeţul Bacau.,in conformitate cu prevederuile OUG nr.53/23.05.2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/163659",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/163659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-57-2024",
    "path": "local/bacau/corbasca/2024/57",
    "short": "HCL Corbasca nr. 57/2024",
@@ -583,6 +838,21 @@
      "from": "2024-08-06",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/163661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-59-2024",
+   "path": "local/bacau/corbasca/2024/59",
+   "short": "HCL Corbasca nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 59/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/163662",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/163662",
      "sha256": null
     }
    ]
@@ -618,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-61-2024",
+   "path": "local/bacau/corbasca/2024/61",
+   "short": "HCL Corbasca nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 61/2024 privind desemnarea reprezentantilor Consiliului local al comunei Corbasca,judetul Bacau in Comisia de Evaluare si Asigurare a Calitatii (C.E.A.C) al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau,pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/168267",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168267",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-62-2024",
    "path": "local/bacau/corbasca/2024/62",
    "short": "HCL Corbasca nr. 62/2024",
@@ -628,6 +913,66 @@
      "from": "2024-11-05",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-63-2024",
+   "path": "local/bacau/corbasca/2024/63",
+   "short": "HCL Corbasca nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 63/2024 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Corbasca, judeţul Bacau, începând cu luna Iulie 2024,conform HG.nr.598/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/168269",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-64-2024",
+   "path": "local/bacau/corbasca/2024/64",
+   "short": "HCL Corbasca nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 64/2024 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.Parascheva » din_Sat.MARVILA,comuna CORBASCA,judetul BACAU._",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/168270",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-65-2024",
+   "path": "local/bacau/corbasca/2024/65",
+   "short": "HCL Corbasca nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 65/2024 privind acordarea unui sprijin financiar, din bugetul local al comunei,Bisericii ortodoxe,cu hramul‘’ Izvorul Tamaduirii ’’din_Sat.BACIOIU_,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/168271",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-66-2024",
+   "path": "local/bacau/corbasca/2024/66",
+   "short": "HCL Corbasca nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 66/2024 privind aprobarea efectuarii concediului de odihna restant,aferent anului 2023 de catre d-l primarul si viceprimarul comunei Corbasca,judetul Bacau,in timpul anului 2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/168272",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168272",
      "sha256": null
     }
    ]
@@ -658,6 +1003,36 @@
      "from": "2024-11-05",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-69-2024",
+   "path": "local/bacau/corbasca/2024/69",
+   "short": "HCL Corbasca nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 69/2024 privind aprobarea Contractului de prestari servicii sociale si Servicii Transport Beneficiari Sociali in cadrul Centrului Comunitar Integrat UAT Corbasca incheiat intre Consiliul Local al comunei Corbasca,judetul Bacau in calitate de beneficiar si Societatea Nationala de Cruce Rosie din Romania-Filiala judeteana Bacau in calitate de prestator",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/168275",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/168275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-7-2024",
+   "path": "local/bacau/corbasca/2024/7",
+   "short": "HCL Corbasca nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 7/2024 privind aprobarea actualizarii (corectarii) anexei la HCL nr_105_/_16.11._2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Corbasca, judeţul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/137783",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/137783",
      "sha256": null
     }
    ]
@@ -708,6 +1083,51 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-73-2024",
+   "path": "local/bacau/corbasca/2024/73",
+   "short": "HCL Corbasca nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 73/2024 privind aprobarea rutelor,statiilor precum si intervalul orelor de transport al microbuzelor scolare pentru anul de invatamant 2024-2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/172067",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/172067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-74-2024",
+   "path": "local/bacau/corbasca/2024/74",
+   "short": "HCL Corbasca nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 74/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/172068",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/172068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-75-2024",
+   "path": "local/bacau/corbasca/2024/75",
+   "short": "HCL Corbasca nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 75/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/172069",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/172069",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-76-2024",
    "path": "local/bacau/corbasca/2024/76",
    "short": "HCL Corbasca nr. 76/2024",
@@ -723,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--corbasca-77-2024",
+   "path": "local/bacau/corbasca/2024/77",
+   "short": "HCL Corbasca nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 77/2024 privind acordarea unui sprijin financiar, din bugetul local al comunei,pentru anul 2024-Manastirii ortodoxe,cu hramul‘’Buna Vestire’’ din_Sat.POGLET_,comuna Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/174813",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/174813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--corbasca-78-2024",
    "path": "local/bacau/corbasca/2024/78",
    "short": "HCL Corbasca nr. 78/2024",
@@ -733,6 +1168,36 @@
      "from": "2024-11-12",
      "units": 1,
      "source_url": "https://emol.ro/corbasca-bc/registru-hcl/174814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-79-2024",
+   "path": "local/bacau/corbasca/2024/79",
+   "short": "HCL Corbasca nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 79/2024 privind aprobarea modificării Actului constitutiv si Statutului Asociaţiei de Dezvoltare Intercomunitară de utilitate publică Pânceşti – Corbasca – Tătărăşti- Gaz, județul Bacău",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/174815",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/174815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-8-2024",
+   "path": "local/bacau/corbasca/2024/8",
+   "short": "HCL Corbasca nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 8/2024",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/137784",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/137784",
      "sha256": null
     }
    ]

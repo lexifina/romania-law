@@ -891,6 +891,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-41-2025",
+"path": "local/bacau/rachitoasa/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 41/2025 privind aprobarea închirierii directe a unui teren curți construcții aferent blocului nr. 2 , proprietate privată a consiliului local",
+"short": "HCL Răchitoasa nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/223818",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-42-2025",
 "path": "local/bacau/rachitoasa/2025/42",
 "kind": "local",

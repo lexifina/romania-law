@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/dofteana/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--dofteana-84-2021",
+   "path": "local/bacau/dofteana/2021/84",
+   "short": "HCL Dofteana nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 84/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--dofteana-91-2021",
+   "path": "local/bacau/dofteana/2021/91",
+   "short": "HCL Dofteana nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 91/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

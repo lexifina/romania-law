@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/barsanesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--barsanesti-63-2024",
+   "path": "local/bacau/barsanesti/2024/63",
+   "short": "HCL Bârsănești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 63/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.63-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.63-din-17.12.2024.pdf",
+     "sha256": "63ddd719f0576cba78f36a0fcd039ecfadb40dd54d091e2b7c2afe4babb4604d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-64-2024",
+   "path": "local/bacau/barsanesti/2024/64",
+   "short": "HCL Bârsănești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 64/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.64-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.64-din-17.12.2024.pdf",
+     "sha256": "4374e600513413d0772ac119d7b63cf44487a06be485198ed75088e028217ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-65-2024",
+   "path": "local/bacau/barsanesti/2024/65",
+   "short": "HCL Bârsănești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 65/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.65-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.65-din-17.12.2024.pdf",
+     "sha256": "ec0a3b318b9dd13707b1a5b06f30191176f0ab9ae15fe7c8add7e61289664101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-66-2024",
+   "path": "local/bacau/barsanesti/2024/66",
+   "short": "HCL Bârsănești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 66/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.66-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.66-din-17.12.2024.pdf",
+     "sha256": "b952986ca617ce848bae98b8532f4f695575772a4c483e85ca0d968b7544eb69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-67-2024",
+   "path": "local/bacau/barsanesti/2024/67",
+   "short": "HCL Bârsănești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 67/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.67-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.67-din-17.12.2024.pdf",
+     "sha256": "81b2b66e63e1923dc455c913bf71961c32556016d04a305cba9854436c196d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-68-2024",
+   "path": "local/bacau/barsanesti/2024/68",
+   "short": "HCL Bârsănești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 68/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.68-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2024/12/HCL-nr.68-din-17.12.2024.pdf",
+     "sha256": "17c0309935fdd0081e28da6e27e60257a89f8498595f408c696242b4aefd97f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-69-2024",
+   "path": "local/bacau/barsanesti/2024/69",
+   "short": "HCL Bârsănești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 69/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/01/HCL-nr.69-din-23.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/01/HCL-nr.69-din-23.12.2024.pdf",
+     "sha256": "c2b8815ba3c9045fd4263ca8e0103b7ac5955f48c794f631adeca043dfb8a26e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-70-2024",
+   "path": "local/bacau/barsanesti/2024/70",
+   "short": "HCL Bârsănești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 70/2024",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/01/HCL-nr.70-din-23.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/01/HCL-nr.70-din-23.12.2024.pdf",
+     "sha256": "d66f0f0ed62aaae7b4b28f495827ab7141aa3c1456b2abe83d33db7699a15d82"
+    }
+   ]
+  }
+ ]
+}

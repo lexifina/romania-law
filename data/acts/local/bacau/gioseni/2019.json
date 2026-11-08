@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/bacau/gioseni/2019",
+"acts": [
+{
+"slug": "hcl-bacau--gioseni-18-2019",
+"path": "local/bacau/gioseni/2019/18",
+"kind": "local",
+"year": "2019",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 18/2019",
+"short": "HCL Gioseni nr. 18/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-19-2019",
+"path": "local/bacau/gioseni/2019/19",
+"kind": "local",
+"year": "2019",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 19/2019",
+"short": "HCL Gioseni nr. 19/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-20-2019",
+"path": "local/bacau/gioseni/2019/20",
+"kind": "local",
+"year": "2019",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 20/2019",
+"short": "HCL Gioseni nr. 20/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-21-2019",
+"path": "local/bacau/gioseni/2019/21",
+"kind": "local",
+"year": "2019",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 21/2019",
+"short": "HCL Gioseni nr. 21/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-22-2019",
+"path": "local/bacau/gioseni/2019/22",
+"kind": "local",
+"year": "2019",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 22/2019",
+"short": "HCL Gioseni nr. 22/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-23-2019",
+"path": "local/bacau/gioseni/2019/23",
+"kind": "local",
+"year": "2019",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 23/2019",
+"short": "HCL Gioseni nr. 23/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-24-2019",
+"path": "local/bacau/gioseni/2019/24",
+"kind": "local",
+"year": "2019",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 24/2019",
+"short": "HCL Gioseni nr. 24/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gioseni-25-2019",
+"path": "local/bacau/gioseni/2019/25",
+"kind": "local",
+"year": "2019",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gioseni nr. 25/2019",
+"short": "HCL Gioseni nr. 25/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-16",
+"latest": "2019-04-16",
+"portal": "https://comunagioseni.ro/administratie/consiliul-local/hcl/?pagina=41",
+"council": "bacau/gioseni",
+"council_name": "Consiliul Local al Comunei Gioseni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

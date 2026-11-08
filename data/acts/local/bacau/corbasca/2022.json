@@ -3,6 +3,28 @@
 "shard": "local/bacau/corbasca/2022",
 "acts": [
 {
+"slug": "hcl-bacau--corbasca-1-2022",
+"path": "local/bacau/corbasca/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 1/2022 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -I-2022",
+"short": "HCL Corbasca nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/49377",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-2-2022",
 "path": "local/bacau/corbasca/2022/2",
 "kind": "local",
@@ -467,6 +489,72 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-23-2022",
+"path": "local/bacau/corbasca/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 23/2022 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -II-2022",
+"short": "HCL Corbasca nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/58300",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-24-2022",
+"path": "local/bacau/corbasca/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 24/2022 privind acordarea unui sprijin financiar, din bugetul local al comunei, Bisericii ortodoxe cu hramul « Sf.arh.MIHAIL si GAVRIL » din_Sat.VALCELE,comuna CORBASCA,judetul BACAU._",
+"short": "HCL Corbasca nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/58301",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-25-2022",
+"path": "local/bacau/corbasca/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 25/2022 privind acordarea unui sprijin financiar, din bugetul local al comunei, Parohiei ortodoxe cu hramul « Sf.arh.MIHAIL si GAVRIL » din_Sat.CORBASCA,comuna CORBASCA,judetul BACAU._",
+"short": "HCL Corbasca nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/58302",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-26-2022",
 "path": "local/bacau/corbasca/2022/26",
 "kind": "local",
@@ -530,6 +618,29 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-29-2022",
+"path": "local/bacau/corbasca/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 29/2022",
+"short": "HCL Corbasca nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/58306",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -821,6 +932,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-43-2022",
+"path": "local/bacau/corbasca/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 43/2022 privind APROBAREA CONCESIONARII PRIN LICITATIE PUBLICA A UNEI SUPRAFETE DE 2500 MP AVAND CATEGORIA DE FOLOSINTA”PASUNI”,PARTE DIN DOMENIUL PRIVAT AL COMUNEI CORBASCA,SITUAT IN T.2.P.14 PUNCT_”MASCANI” SAT BACIOIU,COMUNA CORBASCA,JUDETUL BACAU",
+"short": "HCL Corbasca nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/63323",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-44-2022",
 "path": "local/bacau/corbasca/2022/44",
 "kind": "local",
@@ -840,6 +973,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-45-2022",
+"path": "local/bacau/corbasca/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 45/2022 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -III-2022",
+"short": "HCL Corbasca nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/65523",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1085,6 +1240,72 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-57-2022",
+"path": "local/bacau/corbasca/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 57/2022 privind acordarea unui sprijin financiar, din bugetul local al comunei,Manastirii ortodoxe,cu hramul‘’Buna Vestire’’din_Sat.POGLET_,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/68888",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-58-2022",
+"path": "local/bacau/corbasca/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 58/2022 privind acordarea unui sprijin financiar, din bugetul local al comunei,Bisericii ortodoxe,cu hramul‘’Sf.DUMITRU’’din_Sat.ROGOAZA_.,Filie a Parohiei ortodoxe sat.Scarisoara,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/68889",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-59-2022",
+"path": "local/bacau/corbasca/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 59/2022 privind acordarea unui sprijin financiar, din bugetul local al comunei,Bisericii ortodoxe,cu hramul‘’ Izvorul Tamaduirii ’’din_Sat.BACIOIU_,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/68890",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-60-2022",
 "path": "local/bacau/corbasca/2022/60",
 "kind": "local",
@@ -1148,6 +1369,50 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-63-2022",
+"path": "local/bacau/corbasca/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 63/2022 privind desemnarea reprezentantilor Consiliului local al comunei Corbasca,judetul Bacau in Consiliul de Administratie al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/71664",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-64-2022",
+"path": "local/bacau/corbasca/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 64/2022 privind desemnarea unui reprezentant al Consiliului local si a unui membru supleant in cadrul Comisiei de evaluare a probei de interviu a concursului pentru ocuparea functiei de Director al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/71666",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1349,6 +1614,28 @@
 }
 },
 {
+"slug": "hcl-bacau--corbasca-74-2022",
+"path": "local/bacau/corbasca/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 74/2022 privind ALEGEREA “PRESEDINTELUI DE SEDINTA” AL CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU,PENTRU TRIMESTRUL -IV-2022",
+"short": "HCL Corbasca nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/75928",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--corbasca-75-2022",
 "path": "local/bacau/corbasca/2022/75",
 "kind": "local",
@@ -1500,6 +1787,28 @@
 "council_name": "Consiliul Local al Comunei Corbasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--corbasca-82-2022",
+"path": "local/bacau/corbasca/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 82/2022 privind desemnarea reprezentantilor Consiliului local al comunei Corbasca,judetul Bacau in Comisia de Evaluare si Asigurare a Calitatii (C.E.A.C) al Scolii Gimnaziale Corbasca,comuna Corbasca,judetul Bacau",
+"short": "HCL Corbasca nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/corbasca-bc/registru-hcl/79185",
+"council": "bacau/corbasca",
+"council_name": "Consiliul Local al Comunei Corbasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

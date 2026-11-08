@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/targu-ocna/2023",
+ "acts": [
+  {
+   "slug": "hcl-bacau--targu-ocna-103-2023",
+   "path": "local/bacau/targu-ocna/2023/103",
+   "short": "HCL Târgu Ocna nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 103/2023 Privind aprobarea execuţiei bugetare a oraşului Târgu Ocna pe trimestrul III 2023",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2023/12/HCL-nr.-103-din-29.11.2023-Privind-aprobarea-executiei-bugetare-a-orasului-Targu-Ocna-pe-trimestrul-III-2023.pdf",
+     "sha256": "d516574bb1a21bda03123b8628660b003f7fd7b22f9b4798ed1515afffdbf939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-78-2023",
+   "path": "local/bacau/targu-ocna/2023/78",
+   "short": "HCL Târgu Ocna nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 78/2023 privind modificarea HCL Târgu Ocna nr. 78 din 28.08.2023 – desemnarea reprezentanţilor CL in consiliile de administratie ale unitatilor de invatamant",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2023/11/202310091privind-modificarea-HCL-Targu-Ocna-nr.-78-din-28.08.2023-desemnarea-reprezentantilor-.pdf",
+     "sha256": "61cbfc587d102c36b9436ae77549ddf5f7ba20eed1c1ef65c3c96e3d5b56d670"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-99-2023",
+   "path": "local/bacau/targu-ocna/2023/99",
+   "short": "HCL Târgu Ocna nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 99/2023 privind modificarea elementelor de identificare ale unor bunuri care aparţin domeniului public al oraşului Tȃrgu Ocna",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2023/12/HCL-nr.-99-din-29.11.2023-privind-modificarea-elementelor-de-identificare-ale-unor-bunuri-care-apartin-domeniului-public-al-orasului-T%C8%83rgu-Ocna.pdf",
+     "sha256": "1aad616bf6d81bcd14756710e0e1be17506ab7434f49a364b991d533934f8d99"
+    }
+   ]
+  }
+ ]
+}

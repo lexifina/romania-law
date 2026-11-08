@@ -3,6 +3,95 @@
 "shard": "local/arges/rucar/2024",
 "acts": [
 {
+"slug": "hcl-arges--rucar-1-2024",
+"path": "local/arges/rucar/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 1/2024 privind aprobarea numărului maxim de asistenți personali ai persoanelor cu handicap grav pe anul 2024",
+"short": "HCL Rucăr nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172070",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-2-2024",
+"path": "local/arges/rucar/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 2/2024 privind aprobarea Planului de acțiuni sau de lucrări de interes local efectuate de beneficiarii de ajutor minim de incluziune din comuna Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172071",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-3-2024",
+"path": "local/arges/rucar/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 3/2024",
+"short": "HCL Rucăr nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172072",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--rucar-4-2024",
+"path": "local/arges/rucar/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 4/2024 privind aprobarea organigramei și a statului de funcții din cadrul Primăriei comunei Rucăr",
+"short": "HCL Rucăr nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172073",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-5-2024",
 "path": "local/arges/rucar/2024/5",
 "kind": "local",
@@ -47,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-7-2024",
+"path": "local/arges/rucar/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 7/2024 privind promovarea unor acțiuni judecătorești în vederea recuperării unor venituri nefiscale, datorate bugetului local al comunei Rucăr",
+"short": "HCL Rucăr nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172076",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-8-2024",
 "path": "local/arges/rucar/2024/8",
 "kind": "local",
@@ -66,6 +177,226 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-9-2024",
+"path": "local/arges/rucar/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 9/2024 privind aprobarea organizării procedurii de închiriere unor imobile terenuri cu destinația pășune",
+"short": "HCL Rucăr nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172084",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-10-2024",
+"path": "local/arges/rucar/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 10/2024 privind promovarea unor acțiuni judecătorești în vederea recuperării unor imobile teren din domeniul public al statului și în administrarea Romsilva",
+"short": "HCL Rucăr nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172085",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-11-2024",
+"path": "local/arges/rucar/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 11/2024 privind acordarea unui mandat special în vederea aprobării și a încheierii Actului adițional nr. 2 la Contractul de delegare prin concesiune a gestiunii activității de colectare separată și transport separat al deșeurilor municipale, sortarea și compostarea deșeurilor municipale, în Stația de Transfer Câmpulung, Zona Câmpulung nr. 002/04.01.2023",
+"short": "HCL Rucăr nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172086",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-12-2024",
+"path": "local/arges/rucar/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 12/2024 privind achiziționarea de servicii de consultanță, asistență juridică și reprezentare cu un cabinet de avocat, în vederea apărării intereselor comunei Rucăr și ale autorităților administrației publice locale din comuna Rucăr în fața instanțelor judecătorești și a altor instituții",
+"short": "HCL Rucăr nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172087",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-13-2024",
+"path": "local/arges/rucar/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 13/2024 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității de urbanism si amenajarea teritoriului",
+"short": "HCL Rucăr nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172088",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-14-2024",
+"path": "local/arges/rucar/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 14/2024 privind aprobarea bugetului de venituri și cheltuieli al comunei Rucăr pe anul 2024",
+"short": "HCL Rucăr nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172089",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-15-2024",
+"path": "local/arges/rucar/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 15/2024 privind înființarea de activități integral finanțate din venituri proprii pe lângă unitățile de învățământ preuniversitar din Comuna Rucăr",
+"short": "HCL Rucăr nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172090",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-16-2024",
+"path": "local/arges/rucar/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 16/2024 privind aprobarea prelungirii valabilității Planului Urbanistic General al comunei Rucăr",
+"short": "HCL Rucăr nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172091",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-17-2024",
+"path": "local/arges/rucar/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 17/2024 pentru a se lua act de Procesul verbal din data de 27.02.2024, întocmit de Inspectoratul pentru Situații de Urgență al Județului Argeș",
+"short": "HCL Rucăr nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172098",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-18-2024",
+"path": "local/arges/rucar/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 18/2024 privind aprobarea planului de analiză și acoperire a riscurilor la nivelul comunei Rucăr pe anul 2024",
+"short": "HCL Rucăr nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172099",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +422,116 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-20-2024",
+"path": "local/arges/rucar/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 20/2024 privind aprobarea încheierii ACORDULUI DE COOPERARE privind organizarea și exercitarea activității de urbanism și amenajarea teritoriului la nivelul UAT COMUNA RUCĂR între Asociația de Dezvoltare Intercomunitară ”Consorțiul Zonal Topoloveni” și UAT COMUNA RUCĂR",
+"short": "HCL Rucăr nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172101",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-21-2024",
+"path": "local/arges/rucar/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 21/2024 privind acordarea unui mandat special în vederea aprobării \"Strategiei județene de gestionare a deșeurilor municipale generate pe raza teritorială a județului Argeș\"",
+"short": "HCL Rucăr nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172102",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-22-2024",
+"path": "local/arges/rucar/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 22/2024 privind demararea procedurii privind scoaterea din funcțiune și casarea unor mijloace fixe aflate în domeniul public al localității, constând în mese și pergole situate în Str. Pieței, comuna Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172103",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-23-2024",
+"path": "local/arges/rucar/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 23/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+"short": "HCL Rucăr nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172104",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-24-2024",
+"path": "local/arges/rucar/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 24/2024 privind realizarea amenajamentului silvic pentru proprietatea de fond forestier apartinand Comunei Rucar",
+"short": "HCL Rucăr nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172105",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-25-2024",
 "path": "local/arges/rucar/2024/25",
 "kind": "local",
@@ -113,6 +554,95 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-26-2024",
+"path": "local/arges/rucar/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 26/2024 privind aprobarea situației financiare a SC Utilități Apă Canal Rucăr 2010 SRL pe anul 2023",
+"short": "HCL Rucăr nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172107",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-27-2024",
+"path": "local/arges/rucar/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 27/2024 privind aprobarea bugetului de venituri și cheltuieli al SC Utilități Apă Canal Rucăr 2010 SRL pe anul 2024",
+"short": "HCL Rucăr nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172108",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-28-2024",
+"path": "local/arges/rucar/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 28/2024",
+"short": "HCL Rucăr nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172109",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--rucar-29-2024",
+"path": "local/arges/rucar/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 29/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr pe anul 2024, prin utilizarea parțială a excedentului rezultat din anii anteriori",
+"short": "HCL Rucăr nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172110",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-30-2024",
 "path": "local/arges/rucar/2024/30",
 "kind": "local",
@@ -132,6 +662,28 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-31-2024",
+"path": "local/arges/rucar/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 31/2024 privind darea în administrare către Asociația Montană ”Carpați”a unui imobil teren în suprafață de 148 metri pătrați, situat în punctul ”Valea Vladului” pentru construirea unui refugiu montan de utilitate publică",
+"short": "HCL Rucăr nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172118",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +731,51 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-34-2024",
+"path": "local/arges/rucar/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 34/2024 privind extinderea obiectului de activitate al SC Utilități Apă Canal Rucăr 2010 SRL",
+"short": "HCL Rucăr nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172121",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-35-2024",
+"path": "local/arges/rucar/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 35/2024",
+"short": "HCL Rucăr nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172122",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--rucar-36-2024",
 "path": "local/arges/rucar/2024/36",
 "kind": "local",
@@ -198,6 +795,29 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-37-2024",
+"path": "local/arges/rucar/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 37/2024",
+"short": "HCL Rucăr nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172124",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -242,6 +862,50 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-40-2024",
+"path": "local/arges/rucar/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 40/2024 privind modificarea Hotărârii nr. 76/14.11.2023 privind demararea, depunerea, implementarea și sustenabilitatea proiectului ''Extindere rețea cu apă potabilă și canalizare, Comuna Rucăr, Județul Argeș'' în vederea finanțării acestuia prin Ministerul Mediului, Apelor și Pădurilor",
+"short": "HCL Rucăr nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172127",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-41-2024",
+"path": "local/arges/rucar/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 41/2024 privind modificarea Hotărârii nr. 16/20.02.2023 privind indicatorii tehnico-economici la faza de studiu de fezabilitate pentru obiectivul de investiții ''Extindere rețea cu apă potabilă și canalizare, comuna Rucăr, județul Argeș''",
+"short": "HCL Rucăr nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/172128",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

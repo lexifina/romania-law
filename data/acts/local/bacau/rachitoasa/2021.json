@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-2-2021",
+"path": "local/bacau/rachitoasa/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 2/2021",
+"short": "HCL Răchitoasa nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/33560",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-3-2021",
 "path": "local/bacau/rachitoasa/2021/3",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-5-2021",
+"path": "local/bacau/rachitoasa/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 5/2021 privind aprobarea Planului de acțiuni și lucrări ce vor fi efectuate în anul 2021 de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001 privind venitul minim garantat",
+"short": "HCL Răchitoasa nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/33563",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -246,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-14-2021",
+"path": "local/bacau/rachitoasa/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 14/2021 privind acordarea unui ajutor de urgență în baza prevederilor Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+"short": "HCL Răchitoasa nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/33574",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-15-2021",
 "path": "local/bacau/rachitoasa/2021/15",
 "kind": "local",
@@ -378,6 +445,28 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-21-2021",
+"path": "local/bacau/rachitoasa/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 21/2021 privind stabilirea mandatului reprezentantului legal al Unității Administrativ-Teritoriale comuna Răchitoasa pentru ședința Adunării Generale a Asociației de Dezvoltare Intercomunitară Bacău convocată pentru data de 25.06.2021 și pentru ședința Adunării Generale a Acționarilor a SC Compania Regională de Apă Bacău SA din 28.06.2021",
+"short": "HCL Răchitoasa nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/33581",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-22-2021",
 "path": "local/bacau/rachitoasa/2021/22",
 "kind": "local",
@@ -400,6 +489,50 @@
 }
 },
 {
+"slug": "hcl-bacau--rachitoasa-23-2021",
+"path": "local/bacau/rachitoasa/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 23/2021 privind primirea UAT Berești Bistrița în calitate de membru la Asociația de Dezvoltare Intercomunitară Bacău - ADIB și modificarea Actului Constitutiv și a Statutului acesteia",
+"short": "HCL Răchitoasa nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42436",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-24-2021",
+"path": "local/bacau/rachitoasa/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 24/2021 privind aprobarea contractului de asociere privind finanțarea activității de producție de tip rezidențial al persoanei cu handicap",
+"short": "HCL Răchitoasa nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42437",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--rachitoasa-25-2021",
 "path": "local/bacau/rachitoasa/2021/25",
 "kind": "local",
@@ -419,6 +552,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-26-2021",
+"path": "local/bacau/rachitoasa/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 26/2021 privind aprobarea Regulamentului de organizare și funcționare a Bibliotecii comunale Răchitoasa",
+"short": "HCL Răchitoasa nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42448",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -485,6 +640,28 @@
 "council_name": "Consiliul Local al Comunei Răchitoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--rachitoasa-30-2021",
+"path": "local/bacau/rachitoasa/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 30/2021 privind desemnarea reprezentanților Consiliului Local al comunei Răchitoasa, ca membrii în Consiliul de administrație al Liceului Tehnologic Răchitoasa, pentru anul școlar 2021-2022",
+"short": "HCL Răchitoasa nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/rachitoasa-bc/registru-hcl/42452",
+"council": "bacau/rachitoasa",
+"council_name": "Consiliul Local al Comunei Răchitoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

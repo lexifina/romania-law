@@ -3,6 +3,246 @@
  "shard": "local/bacau/caiuti/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--caiuti-44-2025",
+   "path": "local/bacau/caiuti/2025/44",
+   "short": "HCL Căiuți nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 44/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95-dgkWPWVlydGr8GLOdlDJFlq1TCYBNjwXP7b5mzHRnn2Z0xmTGcoUSVKfM22dqlOaTw1WC05yB4-k7NW6FyC8GSsWcaRMmMVj3rQyUOX8dujVSBfiElFwpAJAX2EGGAnOa74amtbyrbzx9eFYsqjgVpCK3HUn7kO_rzZEm36LvD4pWQg",
+     "sha256": "143331e5602d231df57d81801240eaaedf48b6cadc36cfdc37b380d0c25f6663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-45-2025",
+   "path": "local/bacau/caiuti/2025/45",
+   "short": "HCL Căiuți nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 45/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96nwasd9mxDpLgaEdYfNGWzO2b5FXwu-miBuwAmooXdarL6UTP6ek6-JIv79b6NRJw00a07D7PCeVe4XHcZL3WfK2ZxeWjhPDmtRfPzJ1NPLF7_mCOKiVzuvqujXE2KOcqBPaiGuQ_xZrcL2tdQIA7wItodwR5eixkHAVHOmfCdz4Lt5Sw",
+     "sha256": "1a3ec19c8cc0da7d74fd9fcd827275c0d77c653b968c1ae3a848c319819c4bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-46-2025",
+   "path": "local/bacau/caiuti/2025/46",
+   "short": "HCL Căiuți nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 46/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv959nGhFJnYJGsJ6wlQz0UW4mCB1e885qObfDlu7v-8_mzl8UCExjDQPLMcM4COTuyLHDSbrOEckSlKBY4Su45hquKRKvWan_RdU9YDyvoIoOBDKfAzvbwf9mQ8AOI93nVshY0Y9HBaytl5VG3Pz4qpDvwx0N7R6uG-Xkn5DaXtBVDbrI-w",
+     "sha256": "0187b306573545cb5d8f48b5ca1549f3c0f9a9b5975c50e602553e4c9e066278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-47-2025",
+   "path": "local/bacau/caiuti/2025/47",
+   "short": "HCL Căiuți nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 47/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94RoS2rZYpOYlqP2EtB4KWsPjYj-e3XNU6si5H6HkToil1PGGdO6GlSvRxIkvRw1vU16y_efrdZ92BDWgE2_-wsUFu57lxP4ZLtK3SvIxU9_R1HL2NdSyUzxQK4IAh_aMARspM3sos6AgPux16HEh2kp2XtZpTdjaGF9ocHJ-po5RB49XY",
+     "sha256": "ce90a8412e4994ca57cbf1ba2bad42c8e5bf56044731303383ff997da4663690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-48-2025",
+   "path": "local/bacau/caiuti/2025/48",
+   "short": "HCL Căiuți nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 48/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95Pxu8xrSKE0QiUmkVs3o49BsXNW6SMYwOVGni1xkJRRvSjPKQOKWd9253oL9VnJF_SYBSny5E0eRqkI5-DInhpUH7btJslaoU2pqWhlwJLAY0mTurEZ0NjOqftBRfSoB6LjktKUsbCWIn7_osM8QYOcPSJqyYZ_HKrEJWhiDDs2RGzujo",
+     "sha256": "72ce912cca5cc957af25dbe8f68eac5a1484c699cb5c0d7f5017f7893401e8bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-49-2025",
+   "path": "local/bacau/caiuti/2025/49",
+   "short": "HCL Căiuți nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 49/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96grjiyAd2Blu3JtFaSk2_EGVuNVkPDG_w0aO8hmEsa4q1y7Vh3YUUTNlhoYdfyMkVGCAqk5l07iyZqhrLh6Nr88wM3k8I3q7J8yRbqPQmqAC3WFCTmVi4Y255fjAI45WFp5JbuNitn9VRGJOfykG05SXGqXZzug9cD8b5g1d2zSk5tRRo",
+     "sha256": "0905ce3d8b239ad10d9bc0217086f0dc4c57e472e62f74b6fc5ffd3da1fd8255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-50-2025",
+   "path": "local/bacau/caiuti/2025/50",
+   "short": "HCL Căiuți nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 50/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94tfOVLj_ES2_0251BI5kI4LbnKqq4F47FRIVhxNyMOvT-6vw-UhKoFOxPlzhAZd7geNVEun1MY7YRNRLg_dJGlmbbRmtv1eFMB1pMss2F8U_ByU5O9Ixip5UThPupY-7X__dLZU85oAg6ETZE8rac3CviBfrp6UZnVvQ0NL2vNf_1_y-E",
+     "sha256": "a34c7d75d86122cbbd5dfcbdd84f23f0a7e9170d96af864f6bba6c29fba59902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-51-2025",
+   "path": "local/bacau/caiuti/2025/51",
+   "short": "HCL Căiuți nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 51/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv968F6Ew9jiDqoKlVHtxSxVe5gMfrdBZfDpAP2VEoTuXNxje6X069KTidJj63IAiGyLGzgwPFzA7sAU1QmTMUB9mzopMpsLrl0h_ZKelt7X9aFy_sjdfG0lv8ZJ5aaVp2dydba4acr_YGU2oeNsXInDcStgnubmiw87nTpmvmMkL-m2tZHY",
+     "sha256": "673275952080edb84de77e47e27fa6d5bcfcfb9eef47622a9a1a1472d9d8ab32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-52-2025",
+   "path": "local/bacau/caiuti/2025/52",
+   "short": "HCL Căiuți nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 52/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97zIEd-4S0KgatGzrkW9b-j10Tl7z1AzYQFbvyLv3n5Ezns4gcB_IjeKQdiUq6UYftd_h8ejsKmwhBKJ3vqg9RtKpysJvMrMNTmhuvuAsbho-pAj_8RP93QyXRAyrHKd665bqClIQvWguLn0MrQxgbx3UFRDNQ2bJFfVGvX3wtrtJo3zKg",
+     "sha256": "e587a7d2fd49e3504c46b63ea104fa74e6a442c78f6f354b6b0f65f2349cc086"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-53-2025",
+   "path": "local/bacau/caiuti/2025/53",
+   "short": "HCL Căiuți nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 53/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96w0XWrsf0VM-LJqrsvUjldt5SpjTdCODn362gas8aFwIzR_ojINlAs5PZYT1xoFD3UoSHLCYQaeZN2Efoybu5MwVRhkQF1oF-l8UssCkPhDl6QF4T90xf7iOiW71BKp5oyOWI7aYsxmAlnIy_mzXWwMgXgd6Pwi_Zek4IJD_EhPOlorJo",
+     "sha256": "b85c3843887668871072f1d35effcb9415ba90180b13761bce8a3dd95d2161f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-54-2025",
+   "path": "local/bacau/caiuti/2025/54",
+   "short": "HCL Căiuți nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 54/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95kXveoan4pWVUqzuThe07aXfsnZyZSEXJbiBJ1b65F-0gT3ESqNA22vPnCw_0zrlJ71C4JY3nbxbESJu5OsUgNwkJH1KTnp24TFNRkyFdpV_02Kl7eynMjc38nAgPymalVVEoGc8GChaMnRUS8smxLRytEUDE4sv1SCe5yu_lQ-z4srDU",
+     "sha256": "80d11402d72e8ef2670e05d1b60327fd607f81a5260aab3891e3016811a0b8ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-55-2025",
+   "path": "local/bacau/caiuti/2025/55",
+   "short": "HCL Căiuți nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 55/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97Eo4ML2J2UV4eJaJcPwpHZqTm2RqyfvPJ7w48r0zx2YvG2wOFlP8nXz39nL4uFMGHryRfEWIWcUOi8YrK-A4GF3lZnTPNz543qa3214y39PvT8Lh-WSbzqDt6bIMcPSwHqgbyfvrxjBUGj602XeinOrLYxeRGcJhobSvqA90-2iivWoCo",
+     "sha256": "9a5b72d79c32baecebd3303f383c7d2dfc816f97c68f0b683251a4d1d10cc969"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-56-2025",
+   "path": "local/bacau/caiuti/2025/56",
+   "short": "HCL Căiuți nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 56/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95Zs46986O9PeIFkR4ZUrSxRm-tqUK3NoJMiB9LcPQ86hGX_xesPKr09Ebd1fR_dFknlnFTM9h_Rti86qzbluFGK8bgOMhcNgl8ckuc6Tj-pYwPDCqYmUgYhv3s943SN2dWH10sxAni0zqNvNPXCbmQbne7uThZgvoz3jeWK5RYlcuRrYA",
+     "sha256": "975008c88b70fd412f9805320a37aede9740f2e59e66b3f2698dd26299955cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-57-2025",
+   "path": "local/bacau/caiuti/2025/57",
+   "short": "HCL Căiuți nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 57/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97JLSmjdTiKrTZ3jDZFTDOKxZXR4-hgatEM4dLBCvx4QrW08mtoMjguIAZzy1UbOWygsbJaUGFBp6oPJsKNG4FHxzKhnU2_e2vTehnjdpumzrBqMw4pQcoUjZ5WfNz9blP_g8GROZ-EOA6ISYydlnswfuHBJDabpnqx54--hPX40z3wODg",
+     "sha256": "6cb728baabd8b348d654a18e88ad14a7766734d87af2eacac8de2b16af9be26b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-58-2025",
+   "path": "local/bacau/caiuti/2025/58",
+   "short": "HCL Căiuți nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 58/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv953HWMTqIqP0w9LShWKPwjKTGDm7gwPS0JDcQXj-rTqtfWZOfNuo7f-lFFunVr9LFsYarvA0T5drycepwqRsG1xlqcYRgdtLPVd8DJbQkYBdwigWi07KrrnqPGFd90_j5S1wmSfoi5cuotr5ucMZaC9wLmaZESwwik9KFRYrmM1sK1Nuv4",
+     "sha256": "99c41088e42dc81d549a6f2a141ae0817bd70e12884f2cd0d7b33f834c48d5a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-59-2025",
+   "path": "local/bacau/caiuti/2025/59",
+   "short": "HCL Căiuți nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 59/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97P_9ipL9yoldWogoh-3SOs4fp2d3Kh26hNwuNr5Fni8ha36BzlcYsuLT2OOOmEUcUMGots0Fu1-CuICjpuogg-gvwOZSU6B_1iZ6Tq3EOuYovoOPzVw-dEpBL8A7yGsiZEeI4P_sNsbKSWb0jnQD6IkCAByYgRf2GrIkSC-Aaso2grTaQ",
+     "sha256": "78e30bf8cb16b8215864cd0b82f686a1672495268aefe0d3b685a22ee2eeb98d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--caiuti-591-2025",
    "path": "local/bacau/caiuti/2025/591",
    "short": "HCL Căiuți nr. 591/2025",
@@ -14,6 +254,336 @@
      "units": 1,
      "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv977yUgsV-1-tbGiaRk1JfYamYSiSyIkz02UnaWGfFOA-k_TDih9W4Dw77XCV-WWPG9tjsXZHfbrdK_atbMKkBfvrBqFxWy_urxv4cymPM6e63cmsyO2io5ksb-6EF02hJdut1zerTVuNjrQNW271RENyn0YxaD9sR76IAmRmITY4iWYNCM",
      "sha256": "1c37bd8294430d14eee26dbea99003224f8aee3afc7264c8cd1456161164ba9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-60-2025",
+   "path": "local/bacau/caiuti/2025/60",
+   "short": "HCL Căiuți nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 60/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96ldKe6WlAlrZx6f-rsqDuYzs3g9wzZjDATgwr2qQV3tgqHh7khF6SO5JD_FxNxIyiVUBIVJFf5j98Zw8VDBW4lqQlbcTJeVStXwI6OVj_pvAh-9ClK4l0FNfVXPs8i6QZCZ9TUnGk4WeUR1TIHgPNkaMflgEQnbS-C1krNJOYPtgm5UQE",
+     "sha256": "f363a637931f96ccdf572534fb1f560e6e15df14624633abdf66fb72e02fe13b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-61-2025",
+   "path": "local/bacau/caiuti/2025/61",
+   "short": "HCL Căiuți nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 61/2025 pentru Alimentare cu apă Nr: 61 (Adaugat la data 30.10.2025) Vizualizare",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95hH3aYGLQhU0t-x_mHio6G_FY0G50JheBK6tWEMOcee5GmFlYRHR75IgpQuLO49vckB1RZjSeB32yapHBlOMTEv03XP0T2tducFRfwbOYOfKOiJcWxUXlsoeXgAzZazyylz1PnQALhcuT8p2dIk_bn3jdrkWA1VaU1tzvjaOhfvyiYY-A",
+     "sha256": "056aa5d34128f45c3be8cc835ed00ebc3e39d74c3fc50392f49ea07367b10837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-62-2025",
+   "path": "local/bacau/caiuti/2025/62",
+   "short": "HCL Căiuți nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 62/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94jwsjwGl6VDRMz3GbLstaityRHetCNWULhneo0xZp8CUAA8Xc5dcFCfitEFJ_N3TzYDo-5nuhpXeAyUJGhl6c256Vc8882wAeggrNwDhAKHiY4lUDOFBBBTsu0xBaXE0Qt5zbAxX7Neh0pJlxGAHY_CVUo3B-lqbUDKWqpVmrPNBNdYL0",
+     "sha256": "bfbfa778e49ee57402ca34ace45fc5c7ea89301ad765e5ac00178b9c45777d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-63-2025",
+   "path": "local/bacau/caiuti/2025/63",
+   "short": "HCL Căiuți nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 63/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95nRkzZ_881LRHery57pzcZoaPIelCyLxh2b2Pa_KutqFoyHK4mD_qLyVmyEgSwaVfHpD7G6iQ0md3u3FxRsZfVjUUuUbMx0-TTN_UKc48i5lyEIr3xRw2GGGUiQgNwfZIHy_5pi2-V7pnCoFMfoO_EW6vfS_Z4klIs84d7OngwJ3CIXA0",
+     "sha256": "e9a18363191cdac78d7f46ab51fa1ce204cb64fe47c720565299f356774185da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-64-2025",
+   "path": "local/bacau/caiuti/2025/64",
+   "short": "HCL Căiuți nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 64/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97dvrIwZmhjnkLHLmvnnMorF5DUqHhLaPy66zDxz5O0TSu6vtIiE2yNS45yG52HyTwjAUx3VOwZX5w4KUkzEZQ_ywV3HF4M_GQqE7sN5ReGPp-gTFGaeMJHPe2-E0D89zpZJ0W1owg0SJrJzfq4isKOdF251ztesMOuZULiA4y7jS2NkF0",
+     "sha256": "3c705cc750b5a686a77883995fa2426ae810f4c5624d5ee9b12d6d29b491ea50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-65-2025",
+   "path": "local/bacau/caiuti/2025/65",
+   "short": "HCL Căiuți nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 65/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96vMtZINge527Xocp8LbwH-egtYOhy48_XRV66Occz7UDhxVV4sYEjk79ARkoj1KvPRdScRENVMirQKHJW1xnMP9ZOcskZQ0EK6WqipuiozTcssN60zwB2-0fX5b-XrNivaLsnkx5ugyzs_EPVKMNFKOwKPTr2VDJG6LT0jyOrmZ7wKVrg",
+     "sha256": "1e4550eaa1c4fc2177e419f48445d26b0b78c11242798f64cea9d0d6df07e8d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-66-2025",
+   "path": "local/bacau/caiuti/2025/66",
+   "short": "HCL Căiuți nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 66/2025 pentru finanțarea activității de protecție persoanelor cu handicap Nr: 66 (Adaugat la data 15.12.2025) Vizualizare",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96KJVS6UCN4eKJf8WsN6EjA1KNbFCle3C15rV1BM70LkNnD47ctY3ENqmOhO7JY_DEhGNEcc7H2OBvAuega9yjB7sXKCOTlnCn3CHR0n45bCF2YEeF-KiDZEsGIXhKAxyqvMWS83Rhhip51l6Cx75FsPQhYvaEWbjOZDsCL4vHC1bSCe0o",
+     "sha256": "887b3e4bfac41bf70b26b34c699b7f18b08b6fb5ffb2979b13dd0d24ab755fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-67-2025",
+   "path": "local/bacau/caiuti/2025/67",
+   "short": "HCL Căiuți nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 67/2025 pentru SC INES GRUP SRL Nr: 67 (Adaugat la data 15.12.2025) Vizualizare",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97zh2jfvBZagWfelPpcDRZz0UwMpYS_-dNX7gbWONvpt_SD-ZtuhVMyGbSOqDm5uyueZYHBHHdFAva1nSasffC8tcnPnHEeNJwej1Hgfn-wZA8Z9IQiTXfBWQa9XBbbLvgIoRKRpRVPnN5uyz9DcssWCay8eif8HMrTCXtuws6S-NCrmJ4",
+     "sha256": "47c7c1b1737361635a379719ebc1c235a43639af3b761ae345ebf8e3da1b0ed4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-68-2025",
+   "path": "local/bacau/caiuti/2025/68",
+   "short": "HCL Căiuți nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 68/2025 pentru fundamentare soluție de gestiune a activității de colectare și transport deșeuri municipale pentru 66 UATuri Nr: 68 (Adaugat la data 15.12.2025) Vizualizare",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96WyKRDof5LnvUdONsZxsD9cgXosjvSUiIeNj9tR-ijWq9C2tTHL1_RJEnQEH_ulIIZAFea1dqHnYTBjzcXycBAwJHC1V_hXSTkF7tAgy-LTQHkwBqf4e_xCVxTF4KwZjhkqSnEQGcFLyLtdAF7prdLKxtyNJLNwh7IYwGAb9Vo5kWIO5U",
+     "sha256": "040788f9b2973320d38881076e0e1530b664bda14b0323066acf3f6dcf420811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-69-2025",
+   "path": "local/bacau/caiuti/2025/69",
+   "short": "HCL Căiuți nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 69/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97HC_pIP0rPQPUJd1_n3PpezH5o455sb1HcYMVCQ4_B4_jeYgnDHenrhUcFvY1StFapPGmBBoGQALqQhrQ6WhIMi0RgQYV9WjWjpTEJL-xD2aZF82mZrx3rlA--45bqOGeZ7W9djctHmzqORyXxe0droyRaTvBrwtZFGacU9P4TDfhX62c",
+     "sha256": "18f0fc080469037e6718d78ed54a3fe9746ca95859ea2709e3524a254d107076"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-70-2025",
+   "path": "local/bacau/caiuti/2025/70",
+   "short": "HCL Căiuți nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 70/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv978Q4JGr1iGEZ-DElx5rMsLzUTBXftxrfs0OCCqzHHGcg9vKX3vSWCaX1YnZsHgYpGnkJW3LGuiD1IHG3_KFUloqlIjrQJHgMt7gI2XWMlBpryr6tidJMSGAdmGsEUr3a7AQ0daMeWIdRQI_lcN5RPeaMdD5wOxgM1pClAqta-waGhfcrA",
+     "sha256": "7b0f099bf98aafee85abda334ba12e786da8abebbb4b621d3bdc653276e26d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-71-2025",
+   "path": "local/bacau/caiuti/2025/71",
+   "short": "HCL Căiuți nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 71/2025 pentru anul 2026 Nr: 71 (Adaugat la data 15.12.2025) Vizualizare",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96Bu_gCeF2nxrUXgLBL7_paYxoNWo58oiIpWfGRMfmFiz_DENeVKNGGlvk1WDofqngWzCdXc3rrW3wsUMkJ_8rzMajxORwzPl7TYf3JwGnYp4Ehph1uki7NM08BF_0Pt-5pllA6gGua4MSgDaiCQjLOi2PTRuCgZCfz7VkzOrhHq-PhwPM",
+     "sha256": "78df085102cbcc169b5d68edd08b7e6677da40ad76515798497832cf4df1bd7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-72-2025",
+   "path": "local/bacau/caiuti/2025/72",
+   "short": "HCL Căiuți nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 72/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94qh-nMiNTTeFb4T9pm7sCy93x58731GwRL4TOYx71u1DlsYZGQq2jmWObpWjfoWgKiHcUX0uSmfRW8-FVMDSo9m_ADoyp_0A4xm3BesQ3rYy0_acj-G3hrnN_gdAMh1LN844XbEc4WDKxdn5njFxBCZymHzoLGe2nDllMyAxezRbtr-UU",
+     "sha256": "9ec70d7464802d3003adb4cfd882f33ea7b04c457bc3eedea1766d42ac0cb733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-73-2025",
+   "path": "local/bacau/caiuti/2025/73",
+   "short": "HCL Căiuți nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 73/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95vl7P2xbIU3_6B-eWo1Vq00x4IZxv-9CF1nVDFOOz-lIHCJ9OpHHoqCrhfxzxnlolL-D7qZIJ_eWaomYgmbZ8yhcN7YSEpu6UL5EKx2xxHYYzCUJ2Vp9RY4G8P3U-liWcr8xJZAb7bvqRIu6_jZupzsRB1MPkZGTdSVFbZAzjxhepjPhk",
+     "sha256": "ff265f5b87fa34467c06e8b6cf06e406cfc319c787428777dc6f2f052f297f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-74-2025",
+   "path": "local/bacau/caiuti/2025/74",
+   "short": "HCL Căiuți nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 74/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94PN5MWL73NRfRfnMslYMD3lbYmXt0TMeqlauruct6mbB3l_OjJfx-tbNwqM5Qz1AhLeg-R-2GI4eaU6qNrnD11fMumgp0wM9eEJ52eciofYuU2XCvwm0SqM0fmivMg0Iqaop_KDuGcf-oysOmc9QYXloeHb_oWcjC6dWKBf_x9k60Udtg",
+     "sha256": "88deccbb60d37c79f28bce83c581bb74933c8c78e512a07c98f285d5c035c482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-75-2025",
+   "path": "local/bacau/caiuti/2025/75",
+   "short": "HCL Căiuți nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 75/2025 pentru o persoană care împlinește 100 de ani Nr: 75 (Adaugat la data 15.12.2025) Vizualizare",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv963tyXEb6qxfn8geWikc7HX1lzXr1tHxgXq7BdTSjm1PrtbIkP3mkxz13_iiXLxIomMHVoSvrllZAEKe4FZeYtfvCZdVDWuWpRcTpv7-jrzrADX-aL2zaAzrC_ddJstP5hXP994h1W3uQ1s3y8fm3pHM_TNXm7_1P1hlcyfm7ihyYyJReE",
+     "sha256": "6f342f5c794bf3a9fdefea5cae000fda7601db0f84b117b084c068660bff7499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-76-2025",
+   "path": "local/bacau/caiuti/2025/76",
+   "short": "HCL Căiuți nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 76/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95_3Ac4Dm7BntWxyfXjv48D4qbBro7oNNG3P8j8EOAf8MC0FMKLdLwA6Qn_yAsn86NuGKGSPU_29eXyWXBxZW2TF8jfXMtdhSJvFspSTwRLjAboCKF9akGPTNZEbYhBfcn0i_TqIecgEcdNtiN09bU2rzPS_poOwewKchCKuThcov2FHlk",
+     "sha256": "d986500ae018394b1582e697e9ad4ce3af1505c660f4615b8789041818bc1f4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-77-2025",
+   "path": "local/bacau/caiuti/2025/77",
+   "short": "HCL Căiuți nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 77/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv955JQIb8bpU_7p3nlNwFgSwP3b3383q4gZjxV5dqbXtFgcZbHmyFy1EpU-xzT80as2JIMuYWpz6h2V70IH-vqPxSqmvzhw2A78KYn8d5TRMl_dbRVvCJDAAXQUxUHJ8ywXQHDTQSIcu2VGN8nCwqwR_RG0OTzrDgV5TghQgO5jEb2h_eq8",
+     "sha256": "79ed7a15912c4a36b1d1dba1d9849e29c2bf8da855f0476bd7066de82bd19ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-78-2025",
+   "path": "local/bacau/caiuti/2025/78",
+   "short": "HCL Căiuți nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 78/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97qa421HR4r1Cih7OJ6hD4YTarjbxU8zy2p6v0W-bgkTWYWcORA_VflfsYRRUk_mcK6heyrpyoiguBaJSWUY2ZGzuFP4KscHEG3F1a3UmipE4aL8H2afNE_rdPUQa4zR7Otxrc21bk-kT9XQm6eTFMPGugZc5yo7Av3Wc_K8NYsDUOOu7M",
+     "sha256": "68e52f97d064cf568275028c9be030118861e7ba380be385308376bb69446fe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-79-2025",
+   "path": "local/bacau/caiuti/2025/79",
+   "short": "HCL Căiuți nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 79/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97Gj1_dVYTye4ysmFOtCJ3pYBvUXel0Gd-1WwXSlAkISStlCDujHYX-t5mt-QoA_lLA5loRCYsmWo5OZz_KLa0jiganSy_wd1DxkA1jeEr7RsrtMxs7HjIXI2aLnW91NPoipnzx7Vk6wuTB67fn3X3Byin8ClXD7BOWvZ_vGqOW5lwyhXQ",
+     "sha256": "b5d6e55f0e2de098178d224adbc2991f143b68b1535a29f51ea0917a978cf570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-80-2025",
+   "path": "local/bacau/caiuti/2025/80",
+   "short": "HCL Căiuți nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 80/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95P4Gb6hTfvKCj99sKkmtLOPKW9dnmRichqfp3ViscekLd3ookh7YgsToFw_MdA53Pnpi5eB9feOXqmty058Y5SuAz6Eh_vZsGStZnaqYS6DS-EmvKIoo5sZjzle3YS8IlJ6jXNiRrKFdnX5cWN7nD6mg2PcinGv9wBYWiuiUPj-TsL-tM",
+     "sha256": "708e220bb309eb8719a76de0f909f27441b85f6427cb49b6dc9131df5bae3585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--caiuti-81-2025",
+   "path": "local/bacau/caiuti/2025/81",
+   "short": "HCL Căiuți nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căiuți nr. 81/2025",
+   "url": "https://www.primariacaiuti.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94DM6ESEXDYSNoeF_khA2Gglvh93OWyV4s9niVDGxF7Ql_U47Nz5se9fzemKx3IzbFzt70iO_xP-PyKwA4d-CreBm7jV8E5xlhDcm_GQKtLtqE-jwDx56KRRe9SjMuuWFGOnQi_dOW9r-w3Pldjmid-4Bg_Apqeunp7UK4eHBQ5Gi3Vvek",
+     "sha256": "e824c0b4ef362a0c8f31d1f8f22d8276f3b02e9e664415fd2c7a6d4c8ce264c8"
     }
    ]
   },

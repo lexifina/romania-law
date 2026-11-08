@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/barsanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--barsanesti-64-2025",
+   "path": "local/bacau/barsanesti/2025/64",
+   "short": "HCL Bârsănești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 64/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.64-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.64-din-24.09.2025.pdf",
+     "sha256": "fa66eac62fcf903260a75ee7157c4fd335071b6e88d1df211f1a231998b1bbaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-65-2025",
+   "path": "local/bacau/barsanesti/2025/65",
+   "short": "HCL Bârsănești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 65/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.65-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.65-din-24.09.2025.pdf",
+     "sha256": "9be4f213cdb0f930e727bf225ec318d87b0e1c438e92e57201403dc26eb4fe82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-66-2025",
+   "path": "local/bacau/barsanesti/2025/66",
+   "short": "HCL Bârsănești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 66/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.66-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.66-din-24.09.2025.pdf",
+     "sha256": "7e308d0a5e8eaaf3313303104ac23dcebbf76772a9c6d6fc9fa590cf645f0644"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-67-2025",
+   "path": "local/bacau/barsanesti/2025/67",
+   "short": "HCL Bârsănești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 67/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.67-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.67-din-24.09.2025.pdf",
+     "sha256": "eab6091b700c9ff349c2a394ab707172db54e5b43c5fbc9d875f2c35ec84beba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-68-2025",
+   "path": "local/bacau/barsanesti/2025/68",
+   "short": "HCL Bârsănești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 68/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.68-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.68-din-24.09.2025.pdf",
+     "sha256": "536e40d297314bb320456c441a09883dabeda7a48fc9fe5fd5cf1d52c7c6f8ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-71-2025",
+   "path": "local/bacau/barsanesti/2025/71",
+   "short": "HCL Bârsănești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 71/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.71-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.71-din-24.09.2025.pdf",
+     "sha256": "962f6da2c1fb0c2360a0d9d0abfed1a978323416b1dfad0a7e5f62e8756a49f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--barsanesti-72-2025",
+   "path": "local/bacau/barsanesti/2025/72",
+   "short": "HCL Bârsănești nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 72/2025",
+   "url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.72-din-24.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.72-din-24.09.2025.pdf",
+     "sha256": "6143ad43ed600a200aa1da1d987f9752925b7c3f687ffa5a6127d63513e3ba4c"
+    }
+   ]
+  }
+ ]
+}

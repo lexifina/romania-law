@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-2-2025",
+"path": "local/bacau/filipeni/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 2/2025",
+"short": "HCL Filipeni nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-15",
+"latest": "2025-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/203170",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-3-2025",
 "path": "local/bacau/filipeni/2025/3",
 "kind": "local",
@@ -113,6 +136,72 @@
 }
 },
 {
+"slug": "hcl-bacau--filipeni-7-2025",
+"path": "local/bacau/filipeni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 7/2025 privind aprobarea planului de acțiuni sau lucrări de interes local pentru anul 2025 pentru beneficiarii Legii 196/2016 privind venitul minim de incluziune cu modificările și completările ulterioare și pentru persoanele sancționate să presteze muncă în folosul comunității",
+"short": "HCL Filipeni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-15",
+"latest": "2025-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/203175",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-8-2025",
+"path": "local/bacau/filipeni/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 8/2025 privind aprobarea bugetului local consolidat al comunei Filipeni, județul Bacău pe anul 2025 și estimările pentru anii 2026-2028 și aprobarea Listei de investiții pentru anul 2025",
+"short": "HCL Filipeni nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/204451",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-9-2025",
+"path": "local/bacau/filipeni/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 9/2025 privind aprobarea dezmembrării în două loturi a imobilului - curți, construcții cu număr cadastral 60933 și trecerea acestuia din domeniul public în domeniul privat al comunei Filipeni",
+"short": "HCL Filipeni nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/204452",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--filipeni-10-2025",
 "path": "local/bacau/filipeni/2025/10",
 "kind": "local",
@@ -132,6 +221,117 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-11-2025",
+"path": "local/bacau/filipeni/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 11/2025 privind aprobarea actualizării documentației cadastrale pentru suprafața de teren aferentă imobilului strada Preot N. Cadar care aparține domeniului public al comunei Filipeni, județul Bacău",
+"short": "HCL Filipeni nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/204443",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-12-2025",
+"path": "local/bacau/filipeni/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 12/2025 privind aprobarea caiet de sarcini pentru vânzarea prin licitație publică a terenului curți construcții în suprafață de 649 m.p. și construcție în suprafață de 67,2 mp. situat în comuna Filipeni înscris în CF 60933",
+"short": "HCL Filipeni nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/204444",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-13-2025",
+"path": "local/bacau/filipeni/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 13/2025 privind modificarea bugetului de venituri și cheltuieli și a listei de investiții pe anul 2025",
+"short": "HCL Filipeni nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/208096",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-14-2025",
+"path": "local/bacau/filipeni/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 14/2025",
+"short": "HCL Filipeni nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/208107",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-15-2025",
+"path": "local/bacau/filipeni/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 15/2025 de aprobarea a proiectului, as cheltuielilor legate de proiect și a indicatorilor tehnico-economici privind proiectul „ Dezvolatrea infracstructurii educaționale/sportive, prin reconfigurarea terenului de sport Gimnazială Filipeni , județul Bacău”",
+"short": "HCL Filipeni nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/208119",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +443,380 @@
 "council_name": "Consiliul Local al Comunei Filipeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-21-2025",
+"path": "local/bacau/filipeni/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 21/2025 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2025",
+"short": "HCL Filipeni nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263087",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-22-2025",
+"path": "local/bacau/filipeni/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 22/2025 privind actualizarea Planului de Analiză si Acoperirea Riscurilor la nivelul comunei Filipeni, județul Bacău",
+"short": "HCL Filipeni nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263088",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-23-2025",
+"path": "local/bacau/filipeni/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 23/2025 privind actualizarea Planului anual și de perspectivă pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionirii situațiilor de urgență la nivelul comunei Filipeni, județul Bacău",
+"short": "HCL Filipeni nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263089",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-24-2025",
+"path": "local/bacau/filipeni/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 24/2025 privind aprobarea Proiectului Tehnic de Executie actualizat, a Devizului General actualizat, a indicatorilor tehnico-economici actualizați, precum și a noii valori aferente cheltuielilor neeligibile, finanțate din Bugetul Local, pentru realizarea obiectivului de investiții: \"CONSTRUIRE ANEXĂ CENTRALA TERMICA ȘCOALA MARĂȘTI, COMUNA FILIPENI, JUDEȚUL BACĂU\"",
+"short": "HCL Filipeni nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263121",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-25-2025",
+"path": "local/bacau/filipeni/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 25/2025 privind aprobarea Organigramei, a numărului de posturi și a Statului de funcții al personalului din cadrul aparatului de specialitate al primarului comunei Filipeni, urmare a reoganizării aparatului de specialitate a primarului comunei Filipeni",
+"short": "HCL Filipeni nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263122",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-26-2025",
+"path": "local/bacau/filipeni/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 26/2025 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Filipeni și a Serviciului Public de Asistență Socială Filipeni",
+"short": "HCL Filipeni nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263123",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-27-2025",
+"path": "local/bacau/filipeni/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 27/2025 privind modificarea bugetului de venituri și cheltuieli pe anul 2025",
+"short": "HCL Filipeni nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263124",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-28-2025",
+"path": "local/bacau/filipeni/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 28/2025 privind aprobarea contractării unui împrumut în valoare de 2 000 000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Filipeni nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263125",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-29-2025",
+"path": "local/bacau/filipeni/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 29/2025 privind aprobarea înființării Serviciului social fără personalitate juridică „Centru Comunitar Integrat în Comuna Filipeni”",
+"short": "HCL Filipeni nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263126",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-30-2025",
+"path": "local/bacau/filipeni/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 30/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC COMPANIA ROMPREST SERVICE S.A",
+"short": "HCL Filipeni nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263131",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-31-2025",
+"path": "local/bacau/filipeni/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 31/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare a operatorului SC ECO SUD SA",
+"short": "HCL Filipeni nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263132",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-32-2025",
+"path": "local/bacau/filipeni/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 32/2025 privind implementarea proiectului „Dotarea Serviciului Voluntar pentru Situații de Urgență al comunei Filipeni, județul Bacău”",
+"short": "HCL Filipeni nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263133",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-33-2025",
+"path": "local/bacau/filipeni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 33/2025 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2025",
+"short": "HCL Filipeni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263134",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-34-2025",
+"path": "local/bacau/filipeni/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 34/2025 privind aprobarea instituirii unei taxe pentru utilizarea infrastructurii publice locale, a drumurilor comunale sau forestiere ori a altor categorii de drumuri aflate în proprietea sau administrarea comunei, de către echipamente, utilaje etc, destinate obținerii de venituri, conform art. 486 al. 2 din Codul fiscal",
+"short": "HCL Filipeni nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263283",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-35-2025",
+"path": "local/bacau/filipeni/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 35/2025 privind includerea în domeniul public al comunei Filipeni a bunurilor rezultate din derularea obiectivului de investiții ”Construire Anexă Centrală Termică Școala Mărăști”, comuna Filipeni, județul Bacău și declararea acestora ca bunuri de uz și interes public local",
+"short": "HCL Filipeni nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263320",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-36-2025",
+"path": "local/bacau/filipeni/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 36/2025 privind aprobarea Regulamentului privind procedura de emitere a autorizației de funcționare a operatorilor economici care desfășoară activități comerciale, alimentație publică, prestări servicii, producție și altele pe teritoriul administrativ al comunei Filipeni",
+"short": "HCL Filipeni nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263399",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--filipeni-37-2025",
+"path": "local/bacau/filipeni/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 37/2025 privind aprobarea organigramei, a numărului de posturi și a Statului de funcții al personalului din cadrul aparatului de specialitate al primarului comunei Filipeni, urmare a reorganizării aparatului de specialitate a primarului comunei Filipeni",
+"short": "HCL Filipeni nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/filipeni-bc/registru-hcl/263404",
+"council": "bacau/filipeni",
+"council_name": "Consiliul Local al Comunei Filipeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

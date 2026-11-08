@@ -3,6 +3,51 @@
 "shard": "local/bacau/comanesti/2022",
 "acts": [
 {
+"slug": "hcl-bacau--comanesti-25-2022",
+"path": "local/bacau/comanesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 25/2022 privind aprobarea Organigramei și a Statului de funcții al Primarului Orașului Comănești și al serviciilor publice subordonate",
+"short": "HCL Comănești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--comanesti-48-2022",
+"path": "local/bacau/comanesti/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 48/2022",
+"short": "HCL Comănești nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": null,
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--comanesti-50-2022",
 "path": "local/bacau/comanesti/2022/50",
 "kind": "local",
@@ -22,6 +67,94 @@
 "council_name": "Consiliul Local al Orașului Comănești",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--comanesti-112-2022",
+"path": "local/bacau/comanesti/2022/112",
+"kind": "local",
+"year": "2022",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 112/2022 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului orașului Comănești și al serviciilor publice subordonate",
+"short": "HCL Comănești nr. 112/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--comanesti-158-2022",
+"path": "local/bacau/comanesti/2022/158",
+"kind": "local",
+"year": "2022",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 158/2022 privind modificarea statului de funcții al aparatului de specialitate al Primarului Orașului Comănești și al serviciilor publice subordonate",
+"short": "HCL Comănești nr. 158/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--comanesti-160-2022",
+"path": "local/bacau/comanesti/2022/160",
+"kind": "local",
+"year": "2022",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 160/2022 privind darea în administrare a unor bunuri mobile către Școala Gimnaziala \"LIVIU REBREANU\" Comănești",
+"short": "HCL Comănești nr. 160/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--comanesti-209-2022",
+"path": "local/bacau/comanesti/2022/209",
+"kind": "local",
+"year": "2022",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 209/2022 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului Orașului Comănești și al serviciilor publice subordonate",
+"short": "HCL Comănești nr. 209/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

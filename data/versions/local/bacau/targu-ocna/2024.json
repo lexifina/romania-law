@@ -3,6 +3,96 @@
  "shard": "local/bacau/targu-ocna/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--targu-ocna-15-2024",
+   "path": "local/bacau/targu-ocna/2024/15",
+   "short": "HCL Târgu Ocna nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 15/2024 privind modificarea elementelor de identificare ale unor bunuri care aparţin domeniului public al oraşului Tȃrgu Ocna",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2024/03/HCL-nr.-15-din-29.02.2024-privind-modificarea-elementelor-de-identificare-ale-unor-bunuri-care-apartin-domeniului-public-al-orasului-T%C8%83rgu-Ocna.pdf",
+     "sha256": "02046d37072caea37e9f9fbb4e32e3eef6b1a7c7a11bc88a3367c284cfb35c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-39-2024",
+   "path": "local/bacau/targu-ocna/2024/39",
+   "short": "HCL Târgu Ocna nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 39/2024 privind aprobarea contului anual de executie",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2024/04/HCL-nr.-39-din-25.04.2024-privind-aprobarea-contului-anual-de-executie.pdf",
+     "sha256": "498e646a3c109bab8db471c4c2e3a8c6f0a20b2f4c6b7b8fb0e1d7a3ab4fc218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-60-2024",
+   "path": "local/bacau/targu-ocna/2024/60",
+   "short": "HCL Târgu Ocna nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 60/2024 privind aprobarea execuţiei bugetare a oraşului Târgu Ocna pe trimestrul II 2024",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2024/09/HCL-nr.-60-din-29.08.2024-privind-aprobarea-executiei-bugetare-a-orasului-Targu-Ocna-pe-trimestrul-II-2024.pdf",
+     "sha256": "338a77b2ed55133d5a7cdbcd51277eca7ae9b1dfb9ae7e630c51bda48de24a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-62-2024",
+   "path": "local/bacau/targu-ocna/2024/62",
+   "short": "HCL Târgu Ocna nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 62/2024 privind aprobarea documentației de apartamentare a imobilului situat în orașul Târgu Ocna, str",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2024/11/HCL-nr.-62-din-05.09.2024-privind-aprobarea-documentatiei-de-apartamentare-a-imobilului-situat-in-orasul-Targu-Ocna-str.-Carol-I-nr.-44-48.pdf",
+     "sha256": "940e1eb575092aa4c54db4b6ea18253ada6d76b91bd2b09704e950eed46f60ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-72-2024",
+   "path": "local/bacau/targu-ocna/2024/72",
+   "short": "HCL Târgu Ocna nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 72/2024 privind parcurgerea procedurilor ȋn vederea obţinerii aprobării legale de scoatere definitivă din fondul forestier , a terenului ȋn suprafaţă de 2.800 mp",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2024/11/HCL-nr.-72-din-31.10.2024-privind-parcurgerea-procedurilor-%C8%8Bn-vederea-obtinerii-aprobarii-legale-de-scoatere-definitiva-din-fondul-forestier-a-terenului-%C8%8Bn-suprafata-de-2.800-mp.pdf",
+     "sha256": "39e8cedc183d29b2797485ab34208efcd4fa2f273322bc4184f6edbb1b033faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-82-2024",
+   "path": "local/bacau/targu-ocna/2024/82",
+   "short": "HCL Târgu Ocna nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 82/2024 Privind aprobarea execuţiei bugetare a oraşului Târgu Ocna pe trimestrul III 2024",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2025/01/HCL-nr.-82-din-28.11.2024-Privind-aprobarea-executiei-bugetare-a-orasului-Targu-Ocna-pe-trimestrul-III-2024.pdf",
+     "sha256": "1f80b746134e3598eb7d2c75accb108e8fcea04e1c404d9a5662a37d80b29ebe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--targu-ocna-95-2024",
    "path": "local/bacau/targu-ocna/2024/95",
    "short": "HCL Târgu Ocna nr. 95/2024",
@@ -14,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2025/01/HCL-nr.-95-din-19.12.2024.privind-aprobarea-taxei-speciale-de-salubrizare-aplicabila-pe-raza-administrativa-a-orasului-Targu-Ocna-2025.pdf",
      "sha256": "fc74187ea8dc39816c2000b885997d71ff92dbbf44c3499984572512710fd01f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--targu-ocna-97-2024",
+   "path": "local/bacau/targu-ocna/2024/97",
+   "short": "HCL Târgu Ocna nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 97/2024 privind modificarea elementelor de identificare ale unor bunuri care aparţin domeniului public al oraşului Tȃrgu Ocna",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2025/01/HCL-nr.-97-din-19.12.2024-privind-modificarea-elementelor-de-identificare-ale-unor-bunuri-care-apartin-domeniului-public-al-orasului-T%C8%83rgu-Ocna.pdf",
+     "sha256": "f25d53cac6faa8fa64f9a10e02be4b743111b9cf51cd2e925eeb1684ada9eb59"
     }
    ]
   }

@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/bacau/slanic-moldova/2020",
+"acts": [
+{
+"slug": "hcl-bacau--slanic-moldova-10-2020",
+"path": "local/bacau/slanic-moldova/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 10/2020",
+"short": "HCL Slănic-Moldova nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2020/05/HOTARAREA-NR.-10-DIN-31.03.2020-APROBARE-MASURI-SUPLIMENTARE-DE-COMBATERE-A-NOULUI-CORONAVIRUS.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--slanic-moldova-18-2020",
+"path": "local/bacau/slanic-moldova/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 18/2020 pentru Situații de Urgență privind obligativitatea purtării măștii de protecție în zonele aglomerate",
+"short": "HCL Slănic-Moldova nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-04",
+"latest": "2020-08-04",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2020/08/Hot%C4%83r%C3%A2rea-nr-18-din-04.08.-2020-a-Comitetului-Jude%C8%9Bean-pentru-Situa%C8%9Bii-de-Urgen%C8%9B%C4%83-privind-obligativitatea-purt%C4%83rii-m%C4%83%C8%99tii-de-protec%C8%9Bie-%C3%AEn-zonele-aglomerate.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--slanic-moldova-38-2020",
+"path": "local/bacau/slanic-moldova/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 38/2020 privind cadrul modalitatea de analiza si solutionare cereri atribuire locuinte anl",
+"short": "HCL Slănic-Moldova nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2020/07/hcl-nr.-38-din-31.03.2020-aprobare-regulament-privind-cadrul-modalitatea-de-analiza-si-solutionare-cereri-atribuire-locuinte-anl.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--slanic-moldova-71-2020",
+"path": "local/bacau/slanic-moldova/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 71/2020",
+"short": "HCL Slănic-Moldova nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2020/07/hcl-nr.-71-din-26.06.2020-aprobare-criterii-repartizare-locuinte-anl.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--slanic-moldova-72-2020",
+"path": "local/bacau/slanic-moldova/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 72/2020",
+"short": "HCL Slănic-Moldova nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2020/07/hcl-nr.-72-din-26.06.2020-aprobare-grafic-calendar-de-lucru-repartizare-locuinte-anl.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--slanic-moldova-96-2020",
+"path": "local/bacau/slanic-moldova/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Slănic-Moldova nr. 96/2020 privind aprobarea listei solicitantilor cau au acces la locuintele anl",
+"short": "HCL Slănic-Moldova nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://primariaslanicmoldova.ro/wp-content/uploads/2020/08/hotararea-nr.-96-din-31.07.2020-privind-aprobarea-listei-solicitantilor-cau-au-acces-la-locuintele-anl.pdf",
+"council": "bacau/slanic-moldova",
+"council_name": "Consiliul Local al Orașului Slănic-Moldova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

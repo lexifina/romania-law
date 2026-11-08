@@ -49,6 +49,140 @@
 }
 },
 {
+"slug": "hcl-bacau--gura-vaii-8-2026",
+"path": "local/bacau/gura-vaii/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 8/2026",
+"short": "HCL Gura Văii nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "http://www.uatcomunaguravaii.ro/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-9-2026",
+"path": "local/bacau/gura-vaii/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 9/2026",
+"short": "HCL Gura Văii nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "http://www.uatcomunaguravaii.ro/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-10-2026",
+"path": "local/bacau/gura-vaii/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 10/2026",
+"short": "HCL Gura Văii nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "http://www.uatcomunaguravaii.ro/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-12-2026",
+"path": "local/bacau/gura-vaii/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 12/2026",
+"short": "HCL Gura Văii nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "http://www.uatcomunaguravaii.ro/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-19-2026",
+"path": "local/bacau/gura-vaii/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 19/2026",
+"short": "HCL Gura Văii nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/02/HCL-19-DIN-FEB.pdf",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-21-2026",
+"path": "local/bacau/gura-vaii/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 21/2026",
+"short": "HCL Gura Văii nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/02/HCL-21-DIN-FEB.pdf",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--gura-vaii-23-2026",
 "path": "local/bacau/gura-vaii/2026/23",
 "kind": "local",
@@ -94,6 +228,28 @@
 }
 },
 {
+"slug": "hcl-bacau--gura-vaii-37-2026",
+"path": "local/bacau/gura-vaii/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 37/2026 Privind aprobarea modificării și completării HCL nr. 29 din 26 martie 2026 privind aprobarea închirierii prin procedura de licitație publică a unor terenuri, categoria pășune, aflate în domeniul privat al comunei Gura Văii, județul Bacău",
+"short": "HCL Gura Văii nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/05/HCL-37.pdf",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--gura-vaii-40-2026",
 "path": "local/bacau/gura-vaii/2026/40",
 "kind": "local",
@@ -135,6 +291,52 @@
 "council_name": "Consiliul Local al Comunei Gura Văii",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-69-2026",
+"path": "local/bacau/gura-vaii/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 69/2026",
+"short": "HCL Gura Văii nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/08/HCL-69.pdf",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-73-2026",
+"path": "local/bacau/gura-vaii/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 73/2026",
+"short": "HCL Gura Văii nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/09/HCL-73.pdf",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

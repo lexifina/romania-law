@@ -3,6 +3,51 @@
  "shard": "local/bacau/racaciuni/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--racaciuni-1-2020",
+   "path": "local/bacau/racaciuni/2020/1",
+   "short": "HCL Răcăciuni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 1/2020 privind reteaua scolara 2020-2021 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.1%20DIN%2030.01.2020%20privind%20reteaua%20scolara%202020-2021.pdf",
+     "sha256": "30e9bc78084fa80def1ca154717d6f2937dba865346f6bd980491ae6ce019da3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-10-2020",
+   "path": "local/bacau/racaciuni/2020/10",
+   "short": "HCL Răcăciuni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 10/2020 privind aprobare buget local si lista investitii 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.10%20DIN%2013.02.2020%20privind%20aprobare%20buget%20local%20si%20lista%20investitii%202020.pdf",
+     "sha256": "68e173c0da1e31b6009a9d4f9b8f1c9ea12e1d20bedfd1b0ea946d28c18878c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-11-2020",
+   "path": "local/bacau/racaciuni/2020/11",
+   "short": "HCL Răcăciuni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 11/2020 privind aprobare program anual finantari nerambursabile Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR%2011%20DIN%2013.02.2020%20privind%20aprobare%20program%20anual%20finantari%20nerambursabile.pdf",
+     "sha256": "b51bfafce4933e631e25a6e15fa6ccc3f8ba3727ce4784d18b5d04f375638291"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racaciuni-12-2020",
    "path": "local/bacau/racaciuni/2020/12",
    "short": "HCL Răcăciuni nr. 12/2020",
@@ -14,6 +59,276 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.12%20DIN%2013.02.2020%20privind%20regulamentul%20SERV.%20PUB.%20de%20salubrizare%20al%20UAT-membrii%20ADIS.pdf",
      "sha256": "d769ca72dd591a42074a23ae30de3e63965b36200e9cf5fd7b3b21a22549fb47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-13-2020",
+   "path": "local/bacau/racaciuni/2020/13",
+   "short": "HCL Răcăciuni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 13/2020",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2013%20din%2023.03.2020%20privindalocarea%20sumei%20de%20255.000%20finantari%20nerambursabile.pdf",
+     "sha256": "8eea47d47e5429122e3cbd1af6617d726390f1027e099e6015307fb1e14cbb4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-14-2020",
+   "path": "local/bacau/racaciuni/2020/14",
+   "short": "HCL Răcăciuni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 14/2020 privind solicitarea trecerii unor bunuri din dom.pub.al jud.Bacau in dom.pub.al com.Racaciuni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2014%20din%2023.03.2020%20privind%20solicitarea%20trecerii%20unor%20bunuri%20din%20dom.pub.al%20jud.Bacau%20in%20dom.pub.al%20com.Racaciuni.pdf",
+     "sha256": "9c31dbcb54bd9b1e357f629ead3ce87ea3df0ccd2b57e414c5a2dca8cf42900b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-15-2020",
+   "path": "local/bacau/racaciuni/2020/15",
+   "short": "HCL Răcăciuni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 15/2020 privind aprobarea actului aditional nr. 3 cu SC ELDACOS CON SRL Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCl%20nr.%2015%20din%2023.03.2020%20privind%20%20aprobarea%20actului%20aditional%20nr.%203%20cu%20SC%20ELDACOS%20CON%20SRL.pdf",
+     "sha256": "406635d68430459ef92b145c443cdab8b71bdf0b68ffac71ff1d809360960f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-16-2020",
+   "path": "local/bacau/racaciuni/2020/16",
+   "short": "HCL Răcăciuni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 16/2020 privind aprobarea executiei bugetare la data de 31.12.2019 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2016%20din%2023.03.2020%20privind%20aprobarea%20executiei%20bugetare%20la%20data%20de%2031.12.2019.pdf",
+     "sha256": "d563672631402409fb03f1501f11f708193347c59c4abaaf5f59ddd7cab1f7a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-17-2020",
+   "path": "local/bacau/racaciuni/2020/17",
+   "short": "HCL Răcăciuni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 17/2020 privind rectificarea bugetului si modif.listei de investii Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2017%20din%2023.03.2020%20privind%20rectificarea%20bugetului%20si%20modif.listei%20de%20investii.pdf",
+     "sha256": "7f961aa50c9d6a2680069dfa6999ed1d84461bb9177728aa547055b54f400278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-18-2020",
+   "path": "local/bacau/racaciuni/2020/18",
+   "short": "HCL Răcăciuni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 18/2020 privind stabilirea tipurilor de servicii sociale si contributii serv.ingrijire la domiciliu Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.18%20din%2023.03.2020%20privind%20stabilirea%20tipurilor%20de%20servicii%20sociale%20si%20contributii%20serv.ingrijire%20la%20dom_.pdf",
+     "sha256": "dd774d1ac85995fa6b60523aa5fd1ffc5aa1faa54f526df11329641534ef3f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-19-2020",
+   "path": "local/bacau/racaciuni/2020/19",
+   "short": "HCL Răcăciuni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 19/2020 privind modificarea si completarea statului de functii Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%20%2019%20din%2023.03.2020%20privind%20modificarea%20si%20completarea%20statului%20de%20functii.pdf",
+     "sha256": "cf6ee431a30d3963ee0f925826e8adaf43f05fdb692ee4b7d7e35d3c3305974b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-2-2020",
+   "path": "local/bacau/racaciuni/2020/2",
+   "short": "HCL Răcăciuni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 2/2020 privind planul de lucrari de interes local- Legea 416 din 2000 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.2%20DIN%2030.01.2020%20privind%20planul%20de%20lucrari%20de%20interes%20local-%20Legea%20416%20din%202000.pdf",
+     "sha256": "7d19f5671413467dbdb5532d84e9fccc0dfbab4d949870d29c211795ac1b9d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-20-2020",
+   "path": "local/bacau/racaciuni/2020/20",
+   "short": "HCL Răcăciuni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 20/2020 privind modul de desfasurare a sedintelor CL in situatii exceptionale Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2020%20din%2029.04.2020%20privind%20%20modul%20de%20desfasurare%20a%20sedintelor%20CL%20in%20situatii%20exceptionale.pdf",
+     "sha256": "e17267a67e3b042ad2d860b90007d6446adddd669872dea342ab2018662da18d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-21-2020",
+   "path": "local/bacau/racaciuni/2020/21",
+   "short": "HCL Răcăciuni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 21/2020 privind prezentarea Raportului de audit nr. 292 din 2020 si a Deciziei nr. 6 din 2020 a Curtii de conturi Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2021%20din%2029.04.2020%20privind%20prezentarea%20Raportului%20de%20audit%20nr.%20292%20din%202020%20si%20a%20Deciziei%20nr.%206%20din%202020%20a%20Curtii%20de%20conturi.pdf",
+     "sha256": "05437a0b2a1e97db61560154984a08fcdb98f0ae4bcf50104fb10c025022aeaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-22-2020",
+   "path": "local/bacau/racaciuni/2020/22",
+   "short": "HCL Răcăciuni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 22/2020 privind aprobare cotizatie ADIS Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2022%20din%2029.04.2020%20privind%20aprobare%20cotizatie%20ADIS.pdf",
+     "sha256": "c71165197c04a8c6e07ae50cb61ea4d9326dd212edf785d74bbe5b245f343ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-23-2020",
+   "path": "local/bacau/racaciuni/2020/23",
+   "short": "HCL Răcăciuni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 23/2020 privind subinchirierea imobilului ce face obiectul contractului d einchiriere nr. 2150 din 2004 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2023%20din%2029.04.2020%20privind%20%20subinchirierea%20imobilului%20%20ce%20face%20obiectul%20contractului%20d%20einchiriere%20nr.%202150%20din%202004.pdf",
+     "sha256": "99815edada577bb34982d2f4caa21bf84a20f448d452ae3f8eeb7171d7927d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-24-2020",
+   "path": "local/bacau/racaciuni/2020/24",
+   "short": "HCL Răcăciuni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 24/2020 privind aprobarea rectificarii bugetului pe trim.II Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2024%20din%2029.04.2020%20privind%20aprobarea%20rectificarii%20bugetului%20pe%20trim.II.pdf",
+     "sha256": "1b06fa7c158ff6598d526146673ec5758e8e90c9d0d33bec606e0ad9a916f861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-25-2020",
+   "path": "local/bacau/racaciuni/2020/25",
+   "short": "HCL Răcăciuni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 25/2020 privind alegerea presedintelui de sedinta pt.lunile iunie-august 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2025%20din%2020.05.2020%20privind%20alegerea%20presedintelui%20de%20sedinta%20pt.lunile%20iunie-august%202020.pdf",
+     "sha256": "27050a618d3fd3db9676ddfc0d206f9a39347869f1c049d0d9b72ddcd2aefe54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-26-2020",
+   "path": "local/bacau/racaciuni/2020/26",
+   "short": "HCL Răcăciuni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 26/2020 privind aprobarea schimbarii locatarului din contractul d einchiriere nr. 14015.01.2001 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2026%20din%2020.05.2020%20privind%20aprobarea%20schimbarii%20locatarului%20din%20contractul%20d%20einchiriere%20nr.%2014015.01.2001.pdf",
+     "sha256": "636d51085f9ab2c7ab74b161b5f473170f96b6253352ca8f819558b3fa6d09f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-27-2020",
+   "path": "local/bacau/racaciuni/2020/27",
+   "short": "HCL Răcăciuni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 27/2020 privind completarea HCL nr.1423.03.2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2027%20din%2020.05.2020%20privind%20completarea%20HCL%20nr.1423.03.2020.pdf",
+     "sha256": "4b5eafc37a99b11d2c4f11d7b12e3b39ebe21cf78809397477a65d2d431eee12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-29-2020",
+   "path": "local/bacau/racaciuni/2020/29",
+   "short": "HCL Răcăciuni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 29/2020 privind analiza stadiului de inscriere a datelor in registrul agricol Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2029%20din%2020.05.2020%20privind%20analiza%20stadiului%20%20de%20inscriere%20a%20datelor%20in%20registrul%20agricol.pdf",
+     "sha256": "0364d0c347da651a4eff4f0902a7b1385488b0ad7dd6db1a5b0963a267ea0e5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-3-2020",
+   "path": "local/bacau/racaciuni/2020/3",
+   "short": "HCL Răcăciuni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 3/2020 privind planul anual de actiune 2020 privind serviciile sociale Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.%203%20DIN%2030.01.2020%20privind%20planul%20anual%20de%20actiune%202020%20privind%20serviciile%20sociale.pdf",
+     "sha256": "aec284384d8d688d1de2ede2bd3843ad82cc74ede77ef27d0d6a6c400ff60342"
     }
    ]
   },
@@ -33,6 +348,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--racaciuni-31-2020",
+   "path": "local/bacau/racaciuni/2020/31",
+   "short": "HCL Răcăciuni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 31/2020 privind rectificarea bugetului si modificarea listei de investitii pe trim.II al anului 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2031%20din%2020.05.2020%20privind%20rectificarea%20bugetului%20si%20modificarea%20listei%20de%20investitii%20pe%20trim.II%20al%20anului%202020.pdf",
+     "sha256": "6dfe4522eefd35a10c179752007d2bd91ab4132b7f4b0e4519d92fb55b7a06a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-32-2020",
+   "path": "local/bacau/racaciuni/2020/32",
+   "short": "HCL Răcăciuni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 32/2020 privind executia bugetara la data de 31.03.2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2032%20din%2020.05.2020%20privind%20executia%20bugetara%20la%20data%20de%2031.03.2020.pdf",
+     "sha256": "9d4ce31f57e099bbd519ffec92ea704db27e9570f78ba003009c5efa18a4ac0c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racaciuni-34-2020",
    "path": "local/bacau/racaciuni/2020/34",
    "short": "HCL Răcăciuni nr. 34/2020",
@@ -44,6 +389,531 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.34%20din%2030.06.2020%20privind%20%20regulamentuyl%20referitor%20la%20conditiile%20in%20care%20se%20realizeaza%20accesul%20pe%20dom.public%20a%20retelelor%20de%20comunicatii%20e.pdf",
      "sha256": "82a3331b7b907950df5c057a3b33fc956851ec4c572e0ba2eb8114a32d3319ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-35-2020",
+   "path": "local/bacau/racaciuni/2020/35",
+   "short": "HCL Răcăciuni nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 35/2020 privind vanzarea prin licitatie publica a unui lot in suprafata de 954 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2035%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20in%20suprafata%20de%20954%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "c5b278d38442d03f5e3e3ac4f45af65dc819a6e63a5575bfd5e837fd6226e486"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-36-2020",
+   "path": "local/bacau/racaciuni/2020/36",
+   "short": "HCL Răcăciuni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 36/2020 privind vanzarea prin licitatie publica a unui lot de teren in suprafata de 944 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2036%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20de%20teren%20in%20suprafata%20de%20944%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "58d026e81a8e6357e883c00b222aeb97a578de6bbf1574562b31ed8cc95e1a6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-37-2020",
+   "path": "local/bacau/racaciuni/2020/37",
+   "short": "HCL Răcăciuni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 37/2020 privind vanzarea prin licitatie publica a unui lot de teren in suprafata de 922 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2037%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20de%20teren%20in%20suprafata%20de%20922%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "1253f7a1b84262b957719933802289efa1f74c8f6850eba12c69c1cceb3db6e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-38-2020",
+   "path": "local/bacau/racaciuni/2020/38",
+   "short": "HCL Răcăciuni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 38/2020 privind vanzarea prin licitatie publica a unui lot in suprafata de 848 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2038%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20in%20suprafata%20de%20848%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "b77f4cacb393dfc7774ab16454b109133323bdafb0309890f64d96bfaa00b6a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-39-2020",
+   "path": "local/bacau/racaciuni/2020/39",
+   "short": "HCL Răcăciuni nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 39/2020 privind vanzarea prin licitatie publica a unui lot de teren in suprafata de 886 mp situat in catun Dumbraven Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2039%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20de%20teren%20in%20suprafata%20de%20886%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "df971cb48a5034926dcdcb6eed74ee0d534eb66f7b703de4a19c321e5565b9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-4-2020",
+   "path": "local/bacau/racaciuni/2020/4",
+   "short": "HCL Răcăciuni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 4/2020 privind modificarea contributiei la econ. circulara pentru deseuri Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.4%20DIN%2030.01.2020%20privind%20modificarea%20contributiei%20la%20econ.%20circulara%20pentru%20deseuri.pdf",
+     "sha256": "182ed80840c35a8dc8fa141a478e29ec5ad5ded05437624a164ad09602f45a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-40-2020",
+   "path": "local/bacau/racaciuni/2020/40",
+   "short": "HCL Răcăciuni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 40/2020 privind vanzarea prin licitatie publica a unui lot de teren in suprafata de 803 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2040%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20de%20teren%20in%20suprafata%20de%20803%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "402c50e1f610232e14331921df4d1c686bb13c4800ee8d0c3e1c589d57495fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-41-2020",
+   "path": "local/bacau/racaciuni/2020/41",
+   "short": "HCL Răcăciuni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 41/2020 privind vanzarea prin licitatie publica a unui lot de teren in suprafata de 811 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2041%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot%20de%20teren%20in%20suprafata%20de%20811%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "3455f66e401bd85596b9044b6e1bbb8be25fce42a4bf32125620fd17a5564ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-42-2020",
+   "path": "local/bacau/racaciuni/2020/42",
+   "short": "HCL Răcăciuni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 42/2020 privind vanzarea prin licitatie publica a unui lot Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2042%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20a%20unui%20lot.pdf",
+     "sha256": "f9748c3a024a737b79bfa1add197ff56d1c775ffdd8631f1fa1380b0843bcd7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-43-2020",
+   "path": "local/bacau/racaciuni/2020/43",
+   "short": "HCL Răcăciuni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 43/2020 privind vanzarea prin licitatie publica a unui lot in suprafata de 895 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2043%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publica%20%20a%20unui%20lot%20in%20suprafata%20de%20895%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "b75c283981066deab46b49aadbfa3ddbb17c0136d9b57ca9b32e66c7a3cf9c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-44-2020",
+   "path": "local/bacau/racaciuni/2020/44",
+   "short": "HCL Răcăciuni nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 44/2020 privind vanzarea prin licitatie publice a unui lot de teren in suprafata de 562 mp situat in catun Dumbraveni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2044%20din%2030.06.2020%20privind%20vanzarea%20prin%20licitatie%20publice%20a%20unui%20lot%20de%20teren%20in%20suprafata%20de%20562%20mp%20situat%20in%20catun%20Dumbraveni.pdf",
+     "sha256": "fa1c1e19bfe699c1c4a8ea8658db604499f0045f0f65313a952b5c492085e8c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-45-2020",
+   "path": "local/bacau/racaciuni/2020/45",
+   "short": "HCL Răcăciuni nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 45/2020 privind aprobarea rectificarii bugetului si modificarea listei d einvestii pentru trim.II anul 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2045%20din%2030.06.2020%20privind%20aprobarea%20rectificarii%20bugetului%20si%20modificarea%20listei%20d%20einvestii%20pentru%20trim.II%20anul%202020.pdf",
+     "sha256": "ea747ba82b4d9904ad8bc87903666299168e3e13096c1531d17916ee7f397b42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-46-2020",
+   "path": "local/bacau/racaciuni/2020/46",
+   "short": "HCL Răcăciuni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 46/2020 privind modificarea statului de functii si a organigramei Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2046%20din%209.07.2020%20privind%20modificarea%20statului%20de%20functii%20si%20a%20organigramei.pdf",
+     "sha256": "b6698f26b98d40c5ba43e2a16860e1cb16bf832e1aae0e0e3c6da6f1a14dff98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-48-2020",
+   "path": "local/bacau/racaciuni/2020/48",
+   "short": "HCL Răcăciuni nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 48/2020 privind participarea com.Racaciuni la Programul privind sprijinirea eficientei energetice si a gestionarii inteligente Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2048%20din%209.07.2020%20privind%20%20participarea%20com.Racaciuni%20la%20Programul%20privind%20sprijinirea%20eficientei%20energetice%20si%20a%20gestionarii%20inteligente.pdf",
+     "sha256": "8a41ebd8dbcc8e75e52bab2e1a9c64cdea0d83e3dddb01ef66b617bb744650a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-49-2020",
+   "path": "local/bacau/racaciuni/2020/49",
+   "short": "HCL Răcăciuni nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 49/2020 privind aprobarea contributiei CL Răcăciuni la finanțarea activitatii de protectie a pers.cu handicap Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.49%20din%2012.08.2020%20privind%20aprobarea%20contributiei%20CL%20R%C4%83c%C4%83ciuni%20la%20finan%C8%9Barea%20activitatii%20de%20protectie%20a%20pers.cu%20handicap.pdf",
+     "sha256": "9aadafcef16ccb50ee722930aaaa26c7465c77b82e13f6b2b3875fc79bfa5693"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-5-2020",
+   "path": "local/bacau/racaciuni/2020/5",
+   "short": "HCL Răcăciuni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 5/2020 privind regulamentul procedura de vanzare bunuri domeniul privat Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.5%20DIN%2030.01.2020%20privind%20regulamentul%20procedura%20de%20vanzare%20bunuri%20domeniul%20privat.pdf",
+     "sha256": "31665f552714b71e0e08086bcd48178175ddefdabb953d8f9da2f754b9ce30d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-50-2020",
+   "path": "local/bacau/racaciuni/2020/50",
+   "short": "HCL Răcăciuni nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 50/2020",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+     "sha256": "0dba287d8c801b86e34cee7876c8bf659c395687b6ecfa10c63d14fa1b1b8e6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-51-2020",
+   "path": "local/bacau/racaciuni/2020/51",
+   "short": "HCL Răcăciuni nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 51/2020 privind acordarea burselor școlare 2019-2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2051%20din%2012.08.2020%20privind%20%20acordarea%20burselor%20%C8%99colare%202019-2020.pdf",
+     "sha256": "fa167623f4b3709f2b0f9d6585db2631071b97ccef28321f2af0a096dc792119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-52-2020",
+   "path": "local/bacau/racaciuni/2020/52",
+   "short": "HCL Răcăciuni nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 52/2020 privind modificarea anexei nr. 2 la HCL nr. 18 din 23.03.2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.52%20din%2012.08.2020%20privind%20modificarea%20anexei%20nr.%202%20la%20HCL%20nr.%2018%20din%2023.03.2020.pdf",
+     "sha256": "b5dd7282d5fea5718661e98c08de8714bcfd0d8266b3c964be7ee35ed8b7a556"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-53-2020",
+   "path": "local/bacau/racaciuni/2020/53",
+   "short": "HCL Răcăciuni nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 53/2020 privind incheierea actului aditional nr. 3 la contractul nr.3 din 2016 cu Birou Notarial Individual Andoniu Marinela Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2053%20din%2012.08.2020%20privind%20incheierea%20actului%20aditional%20nr.%203%20la%20contractul%20nr.3%20din%202016%20cu%20Birou%20Notarial%20Individual%20Andoniu%20Marinela.pdf",
+     "sha256": "c6343316bb53457fa466549c84c3eeb6699eaa211bcf3a4ea902e6fd32c211ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-54-2020",
+   "path": "local/bacau/racaciuni/2020/54",
+   "short": "HCL Răcăciuni nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 54/2020 privind rectificarea bugetului comunei Răcăciuni si modificarea listei de investitii Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.54%20din%2012.08.2020%20privind%20rectificarea%20bugetului%20comunei%20R%C4%83c%C4%83ciuni%20si%20modificarea%20listei%20de%20investitii.pdf",
+     "sha256": "4c734553bd00f97302630b4b7c445b25daf22c265d12e46bae91d6e654e1283a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-55-2020",
+   "path": "local/bacau/racaciuni/2020/55",
+   "short": "HCL Răcăciuni nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 55/2020 privind analiza stadiului de inscriere a datelor in registrul agricol Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2055%20din%2017.09.2020%20privind%20%20analiza%20stadiului%20de%20inscriere%20a%20datelor%20in%20registrul%20agricol.pdf",
+     "sha256": "439a1b5d511a7bddc652a6e76dbf262ce065c451334a743ad8b743b93ed479a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-56-2020",
+   "path": "local/bacau/racaciuni/2020/56",
+   "short": "HCL Răcăciuni nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 56/2020 privind rectificarea bgetului pentru trim.III al anului 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2056%20din%2017.09.2020%20privind%20rectificarea%20bgetului%20pentru%20trim.III%20al%20anului%202020.pdf",
+     "sha256": "2a371555d4e6504113983597b139adea9f1c8938e1bf3586f3df0e27275304b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-57-2020",
+   "path": "local/bacau/racaciuni/2020/57",
+   "short": "HCL Răcăciuni nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 57/2020 privind organizarea Comisiilor de specialitate ale CL Răcăciuni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2057%20din%2012.11.2020%20privind%20organizarea%20Comisiilor%20de%20specialitate%20ale%20CL%20R%C4%83c%C4%83ciuni.pdf",
+     "sha256": "92ba53429f074438468c3cf00841073f40e0be682b2a717a8ee4d47bb493688b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-58-2020",
+   "path": "local/bacau/racaciuni/2020/58",
+   "short": "HCL Răcăciuni nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 58/2020 privind aprobarea ROF al Consiliului local Răcăciuni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2058%20din%2012.11.2020%20privind%20aprobarea%20ROF%20al%20Consiliului%20local%20R%C4%83c%C4%83ciuni.pdf",
+     "sha256": "7084f183ea3711059bb536c4893519e0b902192d4f5cb142ee07ed1434656d97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-59-2020",
+   "path": "local/bacau/racaciuni/2020/59",
+   "short": "HCL Răcăciuni nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 59/2020 privind alegerea comisiei de numărare a voturilor și stabilirea votului secret pentru mandatul 2020-2024 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2059%20din%2012.11.2020%20privind%20alegerea%20comisiei%20de%20num%C4%83rare%20a%20voturilor%20%C8%99i%20stabilirea%20votului%20secret%20pentru%20mandatul%202020-2024.pdf",
+     "sha256": "36ff5923e827af5fdbb0aeb09367718e300c7e11c2410dd54b00ededf0164113"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-6-2020",
+   "path": "local/bacau/racaciuni/2020/6",
+   "short": "HCL Răcăciuni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 6/2020 privind strategia de dez. a serv. de salubrizare a jud",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.%206%20DIN%2030.01.2020%20privind%20strategia%20de%20dez.%20a%20serv.%20de%20salubrizare%20a%20jud.%20Bacau.pdf",
+     "sha256": "5ec6182498098c80eec4213a8f65e06ad7a2ae9144e6ae58022e05bad95a9d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-60-2020",
+   "path": "local/bacau/racaciuni/2020/60",
+   "short": "HCL Răcăciuni nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 60/2020 privind alegerea viceprimarului comunei Răcăciun Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2060%20din%2012.11.2020%20privind%20alegerea%20viceprimarului%20comunei%20R%C4%83c%C4%83ciuni.pdf",
+     "sha256": "a1b9956e7fa25180420dde8e06e1fefdb0c08a4e4fa85ee4abc427ade1193220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-61-2020",
+   "path": "local/bacau/racaciuni/2020/61",
+   "short": "HCL Răcăciuni nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 61/2020 privind desemnarea reprezentanților CL în CA al Scolii Gimnaziale Răcăciuni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2061%20din%2012.11.2020%20privind%20desemnarea%20reprezentan%C8%9Bilor%20CL%20%C3%AEn%20CA%20al%20Scolii%20Gimnaziale%20R%C4%83c%C4%83ciuni.pdf",
+     "sha256": "910e520a420efbf3426174e5f1dff6492af66764db4c0dc33fac3c7bce9b4fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-62-2020",
+   "path": "local/bacau/racaciuni/2020/62",
+   "short": "HCL Răcăciuni nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 62/2020 privind aprobarea rectificării bugetului comunei Răcăciuni și modificarea listei de investiții pentru trim.IV-2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2062%20din%2012.11.2020%20privind%20aprobarea%20rectific%C4%83rii%20bugetului%20comunei%20R%C4%83c%C4%83ciuni%20%C8%99i%20modificarea%20listei%20de%20investi%C8%9Bii%20pentru%20trim.IV-2020.pdf",
+     "sha256": "8a7b825443061b75eed3f1f8a31562c776787b780b3d36392de5e27dd9157f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-64-2020",
+   "path": "local/bacau/racaciuni/2020/64",
+   "short": "HCL Răcăciuni nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 64/2020 privind aprobarea listei de investiții prioritare , a valorilor de investiții aferente UAT Răcăciuni și a participări Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2064%20din%2012.11.2020%20privind%20aprobarea%20listei%20de%20investi%C8%9Bii%20prioritare%20,%20a%20valorilor%20de%20investi%C8%9Bii%20aferente%20UAT%20R%C4%83c%C4%83ciuni%20%C8%99i%20a%20particip%C4%83rii.pdf",
+     "sha256": "f692f839fd2deb26c55210be728bc26d96824924872c54e6a58775679589b784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-67-2020",
+   "path": "local/bacau/racaciuni/2020/67",
+   "short": "HCL Răcăciuni nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 67/2020 privind punerea la dispoziția SC CRAB SA a terenurilor aferente investițiilor din cadrul proiectului regional de dezvoltare Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2067%20din%207.12.2020%20privind%20alegerea%20pre%C8%99edintelui%20de%20%C8%99edin%C8%9B%C4%83%20a%20CL%20R%C4%83c%C4%83ciuni%20pentru%20lunile%20dec.2020,%20ian.-febr.2021.pdf",
+     "sha256": "823f94bbb9425fa294c1520e066bff89193b09a5c6268f6e756349c261f0bc9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-68-2020",
+   "path": "local/bacau/racaciuni/2020/68",
+   "short": "HCL Răcăciuni nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 68/2020 privind ROF aparatul de specialitate al primarului comunei Răcăciuni Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2068%20din%207.12.2020%20privind%20ROF%20aparatul%20de%20specialitate%20al%20primarului%20comunei%20R%C4%83c%C4%83ciuni.pdf",
+     "sha256": "51a17b1cc963fb72f70a67acfba5b137825cd6f6be62379504a781321996e66d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-7-2020",
+   "path": "local/bacau/racaciuni/2020/7",
+   "short": "HCL Răcăciuni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 7/2020 privind statul de functii si organigrama 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.7%20DIN%2030.01.2020%20privind%20statul%20de%20functii%20si%20organigrama%202020.pdf",
+     "sha256": "3fbcfe7e9bf8f820656ce17c31d681569bfd64d83ae94fcd7066e43e0b8f63df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-70-2020",
+   "path": "local/bacau/racaciuni/2020/70",
+   "short": "HCL Răcăciuni nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 70/2020 privind aprobarea execuției bugetare la data de 30 iunie 2020 Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2070%20din%207.12.2020%20privind%20aprobarea%20execu%C8%9Biei%20bugetare%20la%20data%20de%2030%20iunie%202020.pdf",
+     "sha256": "87ba02c86088e69f91787a68bd5ca1e913f71c6b4d39b6624294fe5bf33f6473"
     }
    ]
   },
@@ -119,6 +989,21 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.8%20DIN%2030.01.2020%20privind%20mod.%20tarife%20operator%20SC%20ECOSUD%20SA.pdf",
      "sha256": "fc609242ab4c40dbdd6c84ac56d9d1908ccb8a6db8da6a844ac4c5950b617891"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-9-2020",
+   "path": "local/bacau/racaciuni/2020/9",
+   "short": "HCL Răcăciuni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 9/2020",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.9%20DIN%2013.02.2020%20alegere%20presedinte%20sedinta%20CL.pdf",
+     "sha256": "90f1beabcd92364e00ea291ff4115383967c3251102fedc7fa6b3a601e731b5c"
     }
    ]
   }

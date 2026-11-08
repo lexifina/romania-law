@@ -3,6 +3,21 @@
  "shard": "local/bacau/tamasi/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--tamasi-1-2020",
+   "path": "local/bacau/tamasi/2020/1",
+   "short": "HCL Tamași nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 1/2020 privind decontarea contravalorii transportului efectuat de cadrele didactice pentru perioada decembrie 2019",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/5883",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/5883",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-10-2020",
    "path": "local/bacau/tamasi/2020/10",
    "short": "HCL Tamași nr. 10/2020",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-14-2020",
+   "path": "local/bacau/tamasi/2020/14",
+   "short": "HCL Tamași nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 14/2020 privind aprobarea închirierii pășunilor din proprietatea privată a comunei Tamași prin licitaţie publică cu strigare si închiriere directă",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6290",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6290",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-15-2020",
    "path": "local/bacau/tamasi/2020/15",
    "short": "HCL Tamași nr. 15/2020",
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-18-2020",
+   "path": "local/bacau/tamasi/2020/18",
+   "short": "HCL Tamași nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 18/2020 privind decontarea contravalorii transportului efectuat de cadrele didactice pentru perioada ianuarie și februarie 2020",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6294",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6294",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-19-2020",
    "path": "local/bacau/tamasi/2020/19",
    "short": "HCL Tamași nr. 19/2020",
@@ -148,6 +193,51 @@
      "from": "2020-03-10",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-21-2020",
+   "path": "local/bacau/tamasi/2020/21",
+   "short": "HCL Tamași nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 21/2020 privind aprobarea Actelor Adiționale nr. 8 și nr. 9 la Contratul de lucrări nr. 2665/9 din 06.03.2018 “Amenajare și extindere Școala Gimnazială 1 Tamași, Județul Bacău”",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6297",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-22-2020",
+   "path": "local/bacau/tamasi/2020/22",
+   "short": "HCL Tamași nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 22/2020 privind aprobarea actualizării Acordului de parteneriat încheia între Comuna Tamași, Județul Bacău și Direcția Generală de Asistență Socială și Protecția Copilului Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6856",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-23-2020",
+   "path": "local/bacau/tamasi/2020/23",
+   "short": "HCL Tamași nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 23/2020 privind actualizarea Devizului privind dotări mobilier și dotări PSI pentru obiectivul: \"Casa praznicală în Comuna Tamași, Județul Bacău\"",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6857",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6857",
      "sha256": null
     }
    ]
@@ -238,6 +328,21 @@
      "from": "2020-05-27",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-3-2020",
+   "path": "local/bacau/tamasi/2020/3",
+   "short": "HCL Tamași nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 3/2020 privind aprobarea Organigramei și a Statului de funcții a Comunei Tamași, Județul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/5885",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/5885",
      "sha256": null
     }
    ]
@@ -363,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-38-2020",
+   "path": "local/bacau/tamasi/2020/38",
+   "short": "HCL Tamași nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 38/2020 privind modificarea Ștatului de funcții, pentru Aparatul de specialitate al primarului Comunei Tamași, Județul BACĂU",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6872",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6872",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-39-2020",
    "path": "local/bacau/tamasi/2020/39",
    "short": "HCL Tamași nr. 39/2020",
@@ -388,6 +508,21 @@
      "from": "2020-02-12",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-40-2020",
+   "path": "local/bacau/tamasi/2020/40",
+   "short": "HCL Tamași nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 40/2020 privind decontarea contravalorii transportului efectuat de cadrele didactice",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6874",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6874",
      "sha256": null
     }
    ]
@@ -528,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-5-2020",
+   "path": "local/bacau/tamasi/2020/5",
+   "short": "HCL Tamași nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 5/2020 privind aprobarea Organigramei și a Statului de funcții a Comunei Tamași, Județul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6281",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-50-2020",
    "path": "local/bacau/tamasi/2020/50",
    "short": "HCL Tamași nr. 50/2020",
@@ -553,6 +703,36 @@
      "from": "2020-08-10",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/8998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-52-2020",
+   "path": "local/bacau/tamasi/2020/52",
+   "short": "HCL Tamași nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 52/2020 privind modificare Hcl nr.38 din 29.06.2020 referitoare a statul de funcții",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/9000",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/9000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-53-2020",
+   "path": "local/bacau/tamasi/2020/53",
+   "short": "HCL Tamași nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 53/2020 privind acordarea de sprijin financiar pentru Biserica cu hramul „Nasterea Maicii Domnului” din localitatea Tamasi, jud. Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/8999",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/8999",
      "sha256": null
     }
    ]
@@ -663,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-60-2020",
+   "path": "local/bacau/tamasi/2020/60",
+   "short": "HCL Tamași nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 60/2020 privind acceptul circulatiei de către SC ASACOM TRANS SRL pe drumurile de exploatare din Lunca Furnicari si avizarea acordului de reabilitare în vederea desfasurarii activitatii",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/9790",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/9790",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-61-2020",
    "path": "local/bacau/tamasi/2020/61",
    "short": "HCL Tamași nr. 61/2020",
@@ -673,6 +868,21 @@
      "from": "2020-09-11",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/9791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-62-2020",
+   "path": "local/bacau/tamasi/2020/62",
+   "short": "HCL Tamași nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 62/2020 privind aprobarea decontarii contravalorii transportului cadrelor didactice",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/9792",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/9792",
      "sha256": null
     }
    ]
@@ -943,6 +1153,21 @@
      "from": "2020-11-10",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/11814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-8-2020",
+   "path": "local/bacau/tamasi/2020/8",
+   "short": "HCL Tamași nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 8/2020",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/6284",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/6284",
      "sha256": null
     }
    ]

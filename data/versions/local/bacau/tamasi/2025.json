@@ -3,6 +3,21 @@
  "shard": "local/bacau/tamasi/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--tamasi-1-2025",
+   "path": "local/bacau/tamasi/2025/1",
+   "short": "HCL Tamași nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 1/2025 privind alegerea presedintelui de ședință pentru perioada februarie-aprilie 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/189667",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/189667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-10-2025",
    "path": "local/bacau/tamasi/2025/10",
    "short": "HCL Tamași nr. 10/2025",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-12-2025",
+   "path": "local/bacau/tamasi/2025/12",
+   "short": "HCL Tamași nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 12/2025 privind aprobarea efectuării concediului de odihnă restant din 2024, în cursul anului 2025, de catre Primarul și Viceprimarul Comunei Tamași",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/199612",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/199612",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-13-2025",
    "path": "local/bacau/tamasi/2025/13",
    "short": "HCL Tamași nr. 13/2025",
@@ -58,6 +88,21 @@
      "from": "2025-06-27",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/199614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-15-2025",
+   "path": "local/bacau/tamasi/2025/15",
+   "short": "HCL Tamași nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 15/2025 privind alegerea presedintelui de ședință pentru perioada lunilor mai-iulie 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/203925",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/203925",
      "sha256": null
     }
    ]
@@ -123,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-2-2025",
+   "path": "local/bacau/tamasi/2025/2",
+   "short": "HCL Tamași nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 2/2025 privind stabilirea normativelor proprii de cheltuieli pentru Primaria Comunei Tamași, serviciile publice subordonate si Consiliul Local al Comunei Tamași",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/189668",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/189668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-20-2025",
+   "path": "local/bacau/tamasi/2025/20",
+   "short": "HCL Tamași nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 20/2025 privind aprobarea închirierii prin licitație publică a unor loturi de teren aparținând domeniului public, avand destinatia de magazie, situate lângă blocul de locuințe din satul Tamași, Comuna Tamași, Județul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/207609",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-21-2025",
    "path": "local/bacau/tamasi/2025/21",
    "short": "HCL Tamași nr. 21/2025",
@@ -148,6 +223,21 @@
      "from": "2025-05-14",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-23-2025",
+   "path": "local/bacau/tamasi/2025/23",
+   "short": "HCL Tamași nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 23/2025 privind aprobarea închirierii, prin atribuire directa, a pășunilor din proprietatea privată a Comunei Tamași",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/207612",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207612",
      "sha256": null
     }
    ]
@@ -243,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-3-2025",
+   "path": "local/bacau/tamasi/2025/3",
+   "short": "HCL Tamași nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 3/2025 privind actualizarea Statului de funcții si a Organigramei pentru aparatul de specialitate al Primarului Comunei Tamași, județul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/189669",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/189669",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-30-2025",
    "path": "local/bacau/tamasi/2025/30",
    "short": "HCL Tamași nr. 30/2025",
@@ -318,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-35-2025",
+   "path": "local/bacau/tamasi/2025/35",
+   "short": "HCL Tamași nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 35/2025 privind aprobarea premierii elevilor de pe raza Comunei Tamasi, care au obținut rezultate deosebite la olimpiade si concursuri scolare",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/215772",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215772",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-36-2025",
    "path": "local/bacau/tamasi/2025/36",
    "short": "HCL Tamași nr. 36/2025",
@@ -343,6 +463,36 @@
      "from": "2025-07-23",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-38-2025",
+   "path": "local/bacau/tamasi/2025/38",
+   "short": "HCL Tamași nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 38/2025 privind alegerea presedintelui de ședință al Consiliului Local al Comunei Tamasi pentru perioada lunilor august - octombrie 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/215775",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-39-2025",
+   "path": "local/bacau/tamasi/2025/39",
+   "short": "HCL Tamași nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 39/2025 privind modificarea HCL nr.20 din 14.05.2025 privind aprobarea inchirierii prin licitație publică a unor loturi de teren aparținând domeniului public, avand destinatia de magazie, situate lângă blocul de locuințe din satul Tamași, Comuna Tamași, Județul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/221958",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/221958",
      "sha256": null
     }
    ]
@@ -573,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-53-2025",
+   "path": "local/bacau/tamasi/2025/53",
+   "short": "HCL Tamași nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 53/2025 privind aprobarea reduceri cu 100 % a sumei de 574 lei /elev/luna aferentă serviciului de catering pentru inscrierea la “Centru de zi pentru copii Tamași,,",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/228115",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/228115",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-54-2025",
    "path": "local/bacau/tamasi/2025/54",
    "short": "HCL Tamași nr. 54/2025",
@@ -603,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-56-2025",
+   "path": "local/bacau/tamasi/2025/56",
+   "short": "HCL Tamași nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 56/2025 privind alegerea presedintelui de ședință al Consiliului Local al Comunei Tamasi pentru perioada lunilor noiembrie, decembrie 2025 si ianuarie 2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/231479",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231479",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-57-2025",
    "path": "local/bacau/tamasi/2025/57",
    "short": "HCL Tamași nr. 57/2025",
@@ -613,6 +793,21 @@
      "from": "2025-11-17",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-58-2025",
+   "path": "local/bacau/tamasi/2025/58",
+   "short": "HCL Tamași nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 58/2025 privind privind desemnarea reprezentanţilor Consiliului Local al Comunei Tamaşi în Consiliul de administraţie al Şcolii Gimnaziale Chetriş, Comuna Tamaşi, Judeţul Bacău, jud. Bacau pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/231481",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231481",
      "sha256": null
     }
    ]

@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-bacau--secuieni-3-2025",
+"path": "local/bacau/secuieni/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 3/2025",
+"short": "HCL Secuieni nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-07",
+"latest": "2025-03-07",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/195412",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--secuieni-4-2025",
 "path": "local/bacau/secuieni/2025/4",
 "kind": "local",
@@ -111,6 +134,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-7-2025",
+"path": "local/bacau/secuieni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2025",
+"short": "HCL Secuieni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/200870",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -401,6 +447,73 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-21-2025",
+"path": "local/bacau/secuieni/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 21/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC ECOSUD S.A",
+"short": "HCL Secuieni nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/223910",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-22-2025",
+"path": "local/bacau/secuieni/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 22/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC COMPANIA ROMPREST SERVICE S.A",
+"short": "HCL Secuieni nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/223911",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--secuieni-23-2025",
+"path": "local/bacau/secuieni/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2025",
+"short": "HCL Secuieni nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/secuieni-bc/registru-hcl/223912",
+"council": "bacau/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

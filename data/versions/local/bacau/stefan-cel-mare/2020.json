@@ -3,6 +3,336 @@
  "shard": "local/bacau/stefan-cel-mare/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--stefan-cel-mare-10-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/10",
+   "short": "HCL Ștefan cel Mare nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 10/2020 privind aprobarea utilizarii execedentului bugetului local, in cursul anului 2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/Hotararea-nr.-10-din-17.02.2020.pdf",
+     "sha256": "7af80b68c4bfde951de941b3e1bdb565671172cd7e52cfa711db25f73431bd7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-11-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/11",
+   "short": "HCL Ștefan cel Mare nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 11/2020 privind insusirea modificarilor inervenite in inventarul domeniul public al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/Hotararea-nr.-11-din-17.02.2020.pdf",
+     "sha256": "e7664b6bc46b99eca776361bea328622057bb9995a24db6318fa73d75026ba93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-13-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/13",
+   "short": "HCL Ștefan cel Mare nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 13/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-13-din-26.02.2020.pdf",
+     "sha256": "b080ec304d1a5fca2c4fe6a1497389c0c790e8fdd57bd14f21ff822f0d94bab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-14-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/14",
+   "short": "HCL Ștefan cel Mare nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 14/2020 privind modificarea Contributiei la Economia Circulara pentru deseurile municipale deseurile din constructii si desfintari destinate a fi eliminate prin depozitare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-14-din-26.02.2020.pdf",
+     "sha256": "3ca5dbc341db2a77acf17af86525c2694b8e93a2b0545649b4706f2563fc951c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-15-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/15",
+   "short": "HCL Ștefan cel Mare nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 15/2020 privind aprobarea cotizatiei anuale la patrimoniul „Asociatiei de dezvoltare Interomunicare pentru Salubrizare Bacau”",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-15-din-26.02.2020.pdf",
+     "sha256": "ce3a0856755bb49cb49024b8f2043e9a7393b4583090cbdc258c23e136b2e4c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-16-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/16",
+   "short": "HCL Ștefan cel Mare nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 16/2020 privind aprobarea raportului de evaluare a bunurilor din domeniul public al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-16-din-26.02.2020.pdf",
+     "sha256": "9bfd24070ad444b4fbedd824d9099d9355ab135ea0090372c72ef9e01c601832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-17-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/17",
+   "short": "HCL Ștefan cel Mare nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 17/2020 privind modificarea si completarea HCL 11/17.02.2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-17-din-26.02.2020.pdf",
+     "sha256": "da0e16236a405878d39c46af789692dc43090faf851748fc6f4b741f174ade22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-18-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/18",
+   "short": "HCL Ștefan cel Mare nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 18/2020 privind analiza stadiului de inscriere a datelor in registul agricol pt",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-18-din-26.02.2020.pdf",
+     "sha256": "74adce0f2b630f0f5b4e5bbe73e49fa710002675fa76ba3c0c664ca59ccb7f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-19-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/19",
+   "short": "HCL Ștefan cel Mare nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 19/2020 privind aprobarea cotizatiei anuale la patrimoniu Asociatiei Grupul de Actiune Locala Valea Trotusului",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-19-din-23.03.2020.pdf",
+     "sha256": "b7c9267e77f9cbc18421ab29cf0fa050834ba84081475f9611e362884455ecdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-20-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/20",
+   "short": "HCL Ștefan cel Mare nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 20/2020 privind casarea mijloacelor fixe si a obiectelor de inventar aflate in patrimoniu Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-20-din-23.03.2020.pdf",
+     "sha256": "7355b9c3aa097d83c3ff4f7ba7b88f7405fce3bc4f9206689266ef10ef03d015"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-22-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/22",
+   "short": "HCL Ștefan cel Mare nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 22/2020 privind aprobarea modificarii Contractului de concesiune Servicii nr 2325/18.05.2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-22-din-23.03.2020.pdf",
+     "sha256": "be947771b2ec1d20a82005584b88b39985e9c1cad012407d16fec0993782c6e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-23-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/23",
+   "short": "HCL Ștefan cel Mare nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 23/2020 privind aprobarea modificarii Contractului de Concesiune Servicii nr 2322/19.05.2010",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-23-din-23.03.2020.pdf",
+     "sha256": "34574d1399892748612fd769e8cc9a41838a83c0d173a9e591951c39067d58c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-24-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/24",
+   "short": "HCL Ștefan cel Mare nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 24/2020 privind aprobarea achizitionarii hipoclorit",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-24-DIN-13.04.2020-.pdf",
+     "sha256": "df78a816db6460c47f4d0926315fb100777ae506f4ba80d1fe1432a4e415f77c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-25-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/25",
+   "short": "HCL Ștefan cel Mare nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 25/2020 privind rectificarea bugetului local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-25-DIN-13.04.2020-.pdf",
+     "sha256": "fc87322d73ddbf82c33725a13ced3b69362c9382f460a639e57a71e5d5efbfe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-26-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/26",
+   "short": "HCL Ștefan cel Mare nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 26/2020 privind aprobarea contului de executie bugetara pe Trim I a anului 2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-26-DIN-13.04.2020-.pdf",
+     "sha256": "f4f4490470031176dfda92705d95c955dde8b705e1965288c99fe42b5b042f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-27-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/27",
+   "short": "HCL Ștefan cel Mare nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 27/2020 privind aprobarea solicitarii prelungirii scrisorii de garantie – „Construire gradinita cu program normal , com Negoiesti, sat Stefan cel Mare, Jud Bacau”",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-27-DIN-13.04.2020-.pdf",
+     "sha256": "ef6718080ac943bc892e23dbf898a0753ff84c405a4759f843d2a8f767b535dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-28-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/28",
+   "short": "HCL Ștefan cel Mare nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 28/2020 privind aprobarea solicitarii prelungirii scrisorii de garantie „Modernizarea drumuri de interes local in comuna Stefan cel Mare, jud. Bacau”",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-28-DIN-13.04.2020-.pdf",
+     "sha256": "eda51c592d6e023a21665abd30ed17e729d26a21209a2bd413bd97c6c9a21bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-29-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/29",
+   "short": "HCL Ștefan cel Mare nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 29/2020 privind modificarea HCL 83/27.11.2019",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-29-DIN-13.04.2020-.pdf",
+     "sha256": "3ddbc83cc89cae874a093341f3744f4128ba4227829f15e80839ad85a92395d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-30-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/30",
+   "short": "HCL Ștefan cel Mare nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 30/2020 privind stabilirea contributiei anuale a Consiliului Local Stefan cel Mare la finantarea activitatii de asistenta sociala in baza costurilor medii anuale pentru persoanele cu handicap",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/06/HCL-30-din-27.05.2020.pdf",
+     "sha256": "8d0804489ac5b9a181a1d09b8adcd5079ca387c293fe25f0ff753f173e12fe6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-31-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/31",
+   "short": "HCL Ștefan cel Mare nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 31/2020 privind aprobarea implementarii proiectului „Dezvoltarea sistemului de asistenta sociala si combaterea saraciei si a incluziunii sociale”",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/06/HCL-31-din-27.05.2020.pdf",
+     "sha256": "472f6f88b07dc790fcc705fa78c182b3948d9a16c1bf369e2feeffb26f6f1dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-32-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/32",
+   "short": "HCL Ștefan cel Mare nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 32/2020 privind inscrierea in inventarul domeniului privat al Comunei Stefan cel Mare a unor bunuri imobile",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/06/HCL-32-din-27.05.2020.pdf",
+     "sha256": "7215af019fb3dac8477999b730c7b0a7e3ba7508f82ba1d7211fe8394efbbe37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-33-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/33",
+   "short": "HCL Ștefan cel Mare nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 33/2020 privind rectificarea bugetului local al Comunei Stefan cel Mare pe Trim II anul 2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/06/HCL-33-din-27.05.2020.pdf",
+     "sha256": "ff657aae28677defd1b9972810120efbc555cc11c9847e8477101645c865d041"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-34-2020",
    "path": "local/bacau/stefan-cel-mare/2020/34",
    "short": "HCL Ștefan cel Mare nr. 34/2020",
@@ -14,6 +344,156 @@
      "units": 1,
      "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/06/HCL-34-din-27.05.2020.pdf",
      "sha256": "6efb4102570ee31039029723dd3098db322056617561b36b40243debda02fc54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-36-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/36",
+   "short": "HCL Ștefan cel Mare nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 36/2020 privind modificarea bunurilor care apartin domeniului public al Comunei Stefan cel Mare. judetul Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-36-din-27.05.2020-privind-modificarea-bunurilor-care-apartin-domeniului-public-al-Comunei-Stefan-cel-Mare.-judetul-Bacau.pdf",
+     "sha256": "7f9e2d8283c5915acf0fe0afcfc8047e5549ab132225a9108be08ccefbb694e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-37-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/37",
+   "short": "HCL Ștefan cel Mare nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 37/2020 privind aprobarea limitelor zonelor de siguranta si protectie a drumurilor publice de pe raza comunei Stefan cel Mare, judetul Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-37-din-24.06.2020.pdf",
+     "sha256": "e062327b91a0eb355faadf5fb1f60b34a2448b06f5e2e78b693c381d9207a52a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-38-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/38",
+   "short": "HCL Ștefan cel Mare nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 38/2020 privind aprobarea Amenajamentului pastoral",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-38-din-24.06.2020.pdf",
+     "sha256": "bda204d9d35a50f33eebd0ad4a1a54c57508ad29e20d7e6758770e38efe85fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-39-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/39",
+   "short": "HCL Ștefan cel Mare nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 39/2020 privind aprobarea transmiterii in folosinta gratuita pe termen limitat a unor bunuri mobile",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-39-din-24.06.2020.pdf",
+     "sha256": "1adfe0765bcd0c0a4aebe07906835d516e55b328823fe51c4d489b8b092c6fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-41-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/41",
+   "short": "HCL Ștefan cel Mare nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 41/2020 privind aprobarea cotizatiei anuale la ADIB",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-41-din-22.07.2020-privind-aprobarea-cotizatiei-anuale-la-ADIB.pdf",
+     "sha256": "29f77b4de435767d1abd0d6e9d5fb77f22d9dc1428d57fd03123cf0196e65250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-42-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/42",
+   "short": "HCL Ștefan cel Mare nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 42/2020 privind aprobarea Programului de masuri de gospodarire",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.42-din-22.07.2020-privind-aprobarea-Programului-de-masuri-de-gospodarire.pdf",
+     "sha256": "f185e9c12a7c5ecddf1221533ba4bc6886dbe07471393e2fb65a86c9ca4ddbab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-43-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/43",
+   "short": "HCL Ștefan cel Mare nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 43/2020 privind acordarea premiilor si a diplomelor de fidelitate",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-43-din-22.07.2020-privind-acordarea-premiilor-si-a-diplomelor-de-fidelitate.pdf",
+     "sha256": "5fb1557848156afbc7f10267098da2624dfad2afcad6d03fc6488f4897b2b7d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-44-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/44",
+   "short": "HCL Ștefan cel Mare nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 44/2020 privind insusirea Raportului de control si a deciziei emise de Camera de Conturi Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-44-din-22.07.2020-privind-insusirea-Raportului-de-control-si-a-deciziei-emise-de-Camera-de-Conturi-Bacau.pdf",
+     "sha256": "639cab83252e321d8d204c3d7dcdb803f2035578633b45a75f66c2917002f1fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-45-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/45",
+   "short": "HCL Ștefan cel Mare nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 45/2020 privind aprobarea contului de executie bugetara trim II",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-45-din-22.07.2020-privind-aprobarea-contului-de-executie-bugetara-trim-II.pdf",
+     "sha256": "ff7ea894c4a84c2798264550bd9b943f7f2e56be5d8df6f46a0b750a44504121"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-46-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/46",
+   "short": "HCL Ștefan cel Mare nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 46/2020 privind aprobarea constituirii fondului de rezerva bugetara",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-46-din-22.07.2020-privind-aprobarea-constituirii-fondului-de-rezerva-bugetara.pdf",
+     "sha256": "82018638aa8db3a1d6145122cef9c0f938fdff74907225f96a03d3d45e04945c"
     }
    ]
   },
@@ -33,6 +513,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-49-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/49",
+   "short": "HCL Ștefan cel Mare nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 49/2020 privind aprobarea consumului lunar de carburanti",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-49-din-22.07.2020-privind-aprobarea-consumului-lunar-de-carburanti.pdf",
+     "sha256": "a0fce652dd6fcb4c4adcf340c8c1dd1975db5b9f302a57e1afa8396d5b166834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-5-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/5",
+   "short": "HCL Ștefan cel Mare nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 5/2020 privind aprobarea Planului De lucrari in vederea repartizarii orelor de munca stabilite",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-5-din-22.01.2020.pdf",
+     "sha256": "4b377a2ae6dfe3b9aa4cefded3af3857abcca1121318dc06a009197300036b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-50-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/50",
+   "short": "HCL Ștefan cel Mare nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 50/2020 privind rectificarea bugetului local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-50-din-12.08.2020-privind-rectificarea-bugetului-local-al-comunei-Stefan-cel-Mare-.pdf",
+     "sha256": "0575e8a0b891b9ed6e3193873f141927d481e22312de92ad77f4da5557f72ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-52-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/52",
+   "short": "HCL Ștefan cel Mare nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 52/2020 privind aprobarea Contractului de asociere privind finantarea activitatii de protectie de tip rezidential a persoanei cu handicap",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-52-din-26.08.2020-privind-aprobarea-Contractului-de-asociere-privind-finantarea-activitatii-de-protectie-de-tip-rezidential-a-persoanei-cu-handicap.pdf",
+     "sha256": "46234f38f99365c7b6dc6eb0600c539d3f34644f46a3583a81bf27ae1ed75a73"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-53-2020",
    "path": "local/bacau/stefan-cel-mare/2020/53",
    "short": "HCL Ștefan cel Mare nr. 53/2020",
@@ -48,6 +588,411 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-54-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/54",
+   "short": "HCL Ștefan cel Mare nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 54/2020 privind actualizarea programului anual al achizitiilor publice pentru anul 2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-54-din-26.08.2020-privind-actualizarea-programului-anual-al-achizitiilor-publice-pentru-anul-2020.pdf",
+     "sha256": "7cb563163cd2d4b92b5cd4a98480a777b99a3e0c519559d4f324d6f8c486c47f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-55-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/55",
+   "short": "HCL Ștefan cel Mare nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 55/2020 privind modificarea denumirii unitatilor de invatamant",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-55-din-26.08.2020-privind-modificarea-denumirii-unitatilor-de-invatamant.pdf",
+     "sha256": "7390f6efec1400c24e8299eec72f9a621f854d9d701f439c2d8380f425e67f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-56-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/56",
+   "short": "HCL Ștefan cel Mare nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 56/2020 privind darea in folosinta cu titlu gratuit a imobilelor din domeniu public nr. 185 si nr. 182",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-56-din-26.08.2020-privind-darea-in-folosinta-cu-titlu-gratuit-a-imobilelor-din-domeniu-public-nr.-185-si-nr.-182.pdf",
+     "sha256": "1809c4f318b2f3e010dda047148b4a4ecb10ca1c9c2b4c7af5847661158a8702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-57-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/57",
+   "short": "HCL Ștefan cel Mare nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 57/2020 privind colectarea selectiva a deseurilor",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-57-din-26.08.2020-privind-colectarea-selectiva-a-deseurilor.pdf",
+     "sha256": "1fed0964c3eacf80a49a5895ffcc65eb05c09c608b8f4a82dd8ee17c7e6a0392"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-58-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/58",
+   "short": "HCL Ștefan cel Mare nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 58/2020 privind rectificarea bugetului local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-58-din-10.09.2020-privind-rectificarea-bugetului-local-al-Comunei-Stefan-cel-Mare.pdf",
+     "sha256": "3dc9d212e32e98d380cd02bd531f9503fb05dd3ceee66e2ed497a2bce95b761c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-59-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/59",
+   "short": "HCL Ștefan cel Mare nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 59/2020 privind aprobarea organigramei si a statului de functii al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-59-din-10.09.2020-privind-aprobarea-organigramei-si-a-statului-de-functii.pdf",
+     "sha256": "ab9df4d0cb6e5fa4b9480b6ad555dad115bd8628e17ff0d5f184ff83b88a60c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-6-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/6",
+   "short": "HCL Ștefan cel Mare nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 6/2020 privind aprobarea reevaluarii activelor fixe din domeniul public si privat al Comunei",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-6-din-22.01.2020.pdf",
+     "sha256": "e03b01de5b2d63a879851d296883929fac71d9f85b4681ab80a4c0aebcfecc0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-61-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/61",
+   "short": "HCL Ștefan cel Mare nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 61/2020 privind rectificarea bugetului local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-61-din-21.09.2020-privind-rectificarea-bugetului-local-al-Comunei-Stefan-cel-Mare.pdf",
+     "sha256": "04ff1f94145c6fde297315eab4762e67321874116331a448c747c8c304b18b38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-62-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/62",
+   "short": "HCL Ștefan cel Mare nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 62/2020 privind aprobarea modificarii Organigramei si a Statului de functii",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-62-din-21.06.2020-privind-aprobarea-modificarii-Organigramei-si-a-Statului-de-functii-.pdf",
+     "sha256": "f6d6be14c6f214e0594bdaede32d0f8a3914101df95fc0de9dc38d2bf4c8bca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-64-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/64",
+   "short": "HCL Ștefan cel Mare nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 64/2020 privind aprobarea solicitarii prelungirii scrisorii de garantie din partea fondului de garantare pentru proiectul Modernizare drumuri de interes local in comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/10/HCL-nr.-64-din-21.10.2020.pdf",
+     "sha256": "e557c68f50cb32367d6ad79edf69bb777807ab205128309218d7ac70c39b0f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-65-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/65",
+   "short": "HCL Ștefan cel Mare nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 65/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-65-din-12.11.2020.pdf",
+     "sha256": "1e2c1c38e4d770b15ee84e8b08e818127221c6db06930f7f9d407e0d0076bc54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-66-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/66",
+   "short": "HCL Ștefan cel Mare nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 66/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-66-din-12.11.2020-1.pdf",
+     "sha256": "81c544412274de3a63065d7c18f07d2bb39d5e38723c89ddeb903764b53cd403"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-67-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/67",
+   "short": "HCL Ștefan cel Mare nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 67/2020 privind alegerea viceprimarului Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-67-din-12.11.2020.pdf",
+     "sha256": "33a1c474d72792df1c512f74cd1945b44526f0f69a1ecdb56509b6deffa820ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-7-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/7",
+   "short": "HCL Ștefan cel Mare nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 7/2020 privind stabilirea cuantumului drepturilor salariale de baza pentru functiile publice si",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-7-din-22.01.2020.pdf",
+     "sha256": "008cc410c8575cee721088eddb77b761af327cae73ae0a7be3fe380ea5de8766"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-72-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/72",
+   "short": "HCL Ștefan cel Mare nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 72/2020 privind alegerea presedintelui de sedinta pentru sedintele Consiliului Local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-72-din-25.11.2020-.pdf",
+     "sha256": "756b16e5c06dc83692b9259ef25e637514413497092b75814ca159c0ae511fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-73-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/73",
+   "short": "HCL Ștefan cel Mare nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 73/2020 privind desemnarea reprezentantilor in Consiliul de administratie al Scolii Gimnaziale nr. 1. Negoiesti, Comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-73-din-25.11.2020-.pdf",
+     "sha256": "3e5cc2b753d545c88804529c62a816bfef59bd4a9b7dcf932d09ed4213fc9605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-74-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/74",
+   "short": "HCL Ștefan cel Mare nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 74/2020 privind aprobarea burselor scolare si cuantumul acestora, pentru elevii inscrisi in invatamantul preuniversitar de stat din Comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-74-din-25.11.2020-.pdf",
+     "sha256": "940933eab8ce56710c053d708e7084cf1d4f1fcdcf2229e20037a5ad3bf7c4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-75-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/75",
+   "short": "HCL Ștefan cel Mare nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 75/2020 privind aprobarea contului de executie bugetara pentru Trim III al anului 2020 al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-75-din-25.11.2020-.pdf",
+     "sha256": "538a202757a7c333000e524d82844fb964df6c9cae75dcf972088bc1faff266f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-76-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/76",
+   "short": "HCL Ștefan cel Mare nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 76/2020 privind insusirea modificarilor intervenite in inventarul bunurilor care apartin domeniului public al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-76-din-25.11.2020-.pdf",
+     "sha256": "804ead0a51180fd1cf8b016866d045b40aa692e43fd4839876a6ae927ea4a212"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-77-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/77",
+   "short": "HCL Ștefan cel Mare nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 77/2020 privind aprobarea contractului de asociere privind finantarea activitatii de protectie de tip rezidential a persoanei cu handicap",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-77-din-25.11.2020-.pdf",
+     "sha256": "88503c6b682e41967b980adb6d0c72eb55897aec7fe8a74df6bcd44500b9ffa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-78-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/78",
+   "short": "HCL Ștefan cel Mare nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 78/2020 privind aprobarea Strategiei de Dezvoltare Locala a Comunei Stefan cel Mare. jud",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-78-din-25.11.2020-.pdf",
+     "sha256": "82e4edda26e595a1ac646155851031b34ff1af3d4c0e7eee6d765f380b72cb61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-79-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/79",
+   "short": "HCL Ștefan cel Mare nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 79/2020 privind aprobarea majorarii contractului de lucrari pentru obiectivul de investitii, ” Modernizare drumuri de interes local in Comuna Stefan cel Mare, jud. Bacau”",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-79-din-25.11.2020-.pdf",
+     "sha256": "5c5d58e45bd6d0edb4292202080d7aa3182783e44d3606e5cb032b00abe9f5cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-8-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/8",
+   "short": "HCL Ștefan cel Mare nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 8/2020 privind aprobarea bugetului local de venituri si cheltuieli pe anul 2020 si estimarile pentru anii 2021-2023 pentru Comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/Hotararea-nr.-08-din-17.02.2020.pdf",
+     "sha256": "18b665f3aa2cdc8fd8318f7274339b938d3534d227268db7497f6e8c06f572a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-80-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/80",
+   "short": "HCL Ștefan cel Mare nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 80/2020 privind atestarea inventarului bunurilor care apartin domeniului public al Comunei Stefan cel Mare, jud. Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-80-din-25.11.2020-.pdf",
+     "sha256": "b540e41f1d97289c8a773258a7272a6d3c3af17c48b23351a42be923bac2b7ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-81-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/81",
+   "short": "HCL Ștefan cel Mare nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 81/2020 privind aprobarea prelungirii duratei prevazute in Contractul de concesiune nr 163/12.01.2005",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-81-din-25.11.2020-.pdf",
+     "sha256": "13359d05f6c92621d92acdec38c594e82f08322d4131b49e814133ed0782793a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-82-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/82",
+   "short": "HCL Ștefan cel Mare nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 82/2020 privind aprobarea realizarii obiectivului de investitii privind „Reabilitarea termica si modernizarea Scolii Gimnaziale nr.1 Negoiesti, com., Stefan cel Mare., jud. Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-82-din-02.12.2020.pdf",
+     "sha256": "10464bf1b373ed375193dcb10f6d9891d1658015774cc138f96f081f2dc03368"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-83-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/83",
+   "short": "HCL Ștefan cel Mare nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 83/2020 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe trim IV-lea al anului 2020 Comuna Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-83-din-16.12.2020.pdf",
+     "sha256": "5367cc2071a171cf938fe6b35b70aba753ade5f392206fc2813e0aaf166d1c7d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-84-2020",
    "path": "local/bacau/stefan-cel-mare/2020/84",
    "short": "HCL Ștefan cel Mare nr. 84/2020",
@@ -59,6 +1004,111 @@
      "units": 1,
      "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-84-din-16.12.2020.pdf",
      "sha256": "7cb1e5b6b091151ae89f8ff698d73391230760aeca08486778c3d3d73ca274ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-85-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/85",
+   "short": "HCL Ștefan cel Mare nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 85/2020 privind aprobarea Regulamentului de organizare si functionare a Consiliului local al Comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-85-din-16.12.2020.pdf",
+     "sha256": "004f55a4a760f2cb34ba9ecad3f643c0a9009f1bdaca461c203e6e70fd1d949b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-86-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/86",
+   "short": "HCL Ștefan cel Mare nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 86/2020 privind aprobarea programului anual al achizitiilor publice a Comunei Stefan cel Mare, jud. Bacau, pentru anul 2021",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-86-din-16.12.2020.pdf",
+     "sha256": "918bfc60a81b09e790848d94b1ace3cbb7a10cb291969391d4e015f95349f54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-87-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/87",
+   "short": "HCL Ștefan cel Mare nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 87/2020 privind aprobarea cheltuielilor ce se vor efectua cu ocazia Sarbatorilor de iarna 2020",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-87-din-16.12.2020.pdf",
+     "sha256": "fe495ca8909cb9f7724e7ac270e4cd86941e93ed0622643acc4cf6575b824255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-88-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/88",
+   "short": "HCL Ștefan cel Mare nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 88/2020 privind aprobarea scoaterii din evidenta si trecerea intr-o evidenta separata a debitorilor nerezidenti aflati in insolvabilitate",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-88-din-16.12.2020.pdf",
+     "sha256": "0575cbe1696b1c9ea0346b39ec47ce301dfaa27294d74bd7efcdf3bc2fcb5c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-89-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/89",
+   "short": "HCL Ștefan cel Mare nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 89/2020 privind insusirea modificarilor intervenite in inventarul bunurilor care apartin domeniului public al Comunei Stefan cel Mare, jud. Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-89-din-16.12.2020.pdf",
+     "sha256": "7f112e3f003d1d6bcad6eb8ce0c8f1c8cd6db12160794c681af6dce8698491e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-9-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/9",
+   "short": "HCL Ștefan cel Mare nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 9/2020 privind aprobarea bugetului de cheltuieli pentru anul 2020 si estimarile pentru anii 2021- 2023 pentru Scoala Gimnaziala Nr1 Negoiesti",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/Hotararea-nr.-09-din-17.02.2020.pdf",
+     "sha256": "4f7c6800e4c1970b935c0cc174ae9e5392857fbf2601fa070561663fab440416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-91-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/91",
+   "short": "HCL Ștefan cel Mare nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 91/2020 privind modificarii HCL nr.49/22.07.2020 privind aprobarea consumului maxim lunar de carburanti pentru autoturismele aflate in dotarea Primariei Comunei Stefan cel Mare si a serviciilor din subordinea Consiliului Local",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-91-din-16.12.2020.pdf",
+     "sha256": "1ed531b80257f2f393449502227d5739054bf62dddce023f42487ee68e39bd22"
     }
    ]
   }

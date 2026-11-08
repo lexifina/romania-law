@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/bacau/barsanesti/2025",
+"acts": [
+{
+"slug": "hcl-bacau--barsanesti-64-2025",
+"path": "local/bacau/barsanesti/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 64/2025",
+"short": "HCL Bârsănești nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.64-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--barsanesti-65-2025",
+"path": "local/bacau/barsanesti/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 65/2025",
+"short": "HCL Bârsănești nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.65-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--barsanesti-66-2025",
+"path": "local/bacau/barsanesti/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 66/2025",
+"short": "HCL Bârsănești nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.66-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--barsanesti-67-2025",
+"path": "local/bacau/barsanesti/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 67/2025",
+"short": "HCL Bârsănești nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.67-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--barsanesti-68-2025",
+"path": "local/bacau/barsanesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 68/2025",
+"short": "HCL Bârsănești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.68-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--barsanesti-71-2025",
+"path": "local/bacau/barsanesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 71/2025",
+"short": "HCL Bârsănești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.71-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--barsanesti-72-2025",
+"path": "local/bacau/barsanesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsănești nr. 72/2025",
+"short": "HCL Bârsănești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://comunabirsanesti.ro/continut/fisiere/2025/09/P-HCL-nr.72-din-24.09.2025.pdf",
+"council": "bacau/barsanesti",
+"council_name": "Consiliul Local al Comunei Bârsănești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
