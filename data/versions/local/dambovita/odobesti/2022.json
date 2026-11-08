@@ -3,6 +3,156 @@
  "shard": "local/dambovita/odobesti/2022",
  "acts": [
   {
+   "slug": "hcl-dambovita--odobesti-23-2022",
+   "path": "local/dambovita/odobesti/2022/23",
+   "short": "HCL Odobești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 23/2022 privind aprobarea indexării impozitelor și taxelor locale, pentru anul 2003 cu rata inflației de 5,1 %",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/61854",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/61854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-37-2022",
+   "path": "local/dambovita/odobesti/2022/37",
+   "short": "HCL Odobești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 37/2022 privind punerea la dispoziție a terenurilor din cadrul ''Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dâmbovița, în perioada 2014-2020 ''",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101294",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-38-2022",
+   "path": "local/dambovita/odobesti/2022/38",
+   "short": "HCL Odobești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 38/2022 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Odobești la 30.06.2022",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101303",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-39-2022",
+   "path": "local/dambovita/odobesti/2022/39",
+   "short": "HCL Odobești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 39/2022 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligațiilor fiscale datorale bugetului local de către persoanele fizice și juridice care au calitate de contribuabili la bugetul local al comunei Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101304",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-41-2022",
+   "path": "local/dambovita/odobesti/2022/41",
+   "short": "HCL Odobești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 41/2022 privind analiza studiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități la nivelul comunei Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101306",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-42-2022",
+   "path": "local/dambovita/odobesti/2022/42",
+   "short": "HCL Odobești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 42/2022 privind alegerea președintelui de ședință al Consiliului Local",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101309",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-43-2022",
+   "path": "local/dambovita/odobesti/2022/43",
+   "short": "HCL Odobești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 43/2022 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul III al anului fiscal 2022",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101310",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-44-2022",
+   "path": "local/dambovita/odobesti/2022/44",
+   "short": "HCL Odobești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 44/2022 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul IV al anului fiscal 2022",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101312",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-45-2022",
+   "path": "local/dambovita/odobesti/2022/45",
+   "short": "HCL Odobești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 45/2022 privind aprobarea cuantumului și numărul burselor pentru anul scolar 2022-2023 pentru elevii din unitățiile de învățământ preuniversitar de stat din comuna Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101313",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-51-2022",
+   "path": "local/dambovita/odobesti/2022/51",
+   "short": "HCL Odobești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 51/2022 privind aprobarea susținerii financiare a Asociației Sportive \"Juventus Crovu\" din Comuna Odobești, județul Dâmbovița în anul 2022",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101319",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101319",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-52-2022",
    "path": "local/dambovita/odobesti/2022/52",
    "short": "HCL Odobești nr. 52/2022",

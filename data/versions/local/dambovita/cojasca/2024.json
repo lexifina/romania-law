@@ -3,6 +3,21 @@
  "shard": "local/dambovita/cojasca/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--cojasca-10-2024",
+   "path": "local/dambovita/cojasca/2024/10",
+   "short": "HCL Cojasca nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 10/2024 privind aprobarea bugetului local de venituri și cheltuieli al comunei Cojasca ,județul Dâmbovița pentru anul 2024 și estimări pentru anii 2025-2027",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68186",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68186",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-100-2024",
    "path": "local/dambovita/cojasca/2024/100",
    "short": "HCL Cojasca nr. 100/2024",
@@ -28,6 +43,381 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#89377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-11-2024",
+   "path": "local/dambovita/cojasca/2024/11",
+   "short": "HCL Cojasca nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 11/2024 privind închiderea contului de execuţie al bugetului local de venituri și cheltuieli al comunei Cojasca, județ Dâmbovița aferent trimestrului IV anul 2023",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68678",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-12-2024",
+   "path": "local/dambovita/cojasca/2024/12",
+   "short": "HCL Cojasca nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 12/2024 privind însușirea inventarului elementelor de natura activelor , datoriilor și capitalurilor proprii aparținând patrimoniului comunei Cojasca pentru anul 2023",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68937",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-13-2024",
+   "path": "local/dambovita/cojasca/2024/13",
+   "short": "HCL Cojasca nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 13/2024 privind stabilirea normativelor de cheltuieli de protocol la nivelul comunei Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#69619",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#69619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-14-2024",
+   "path": "local/dambovita/cojasca/2024/14",
+   "short": "HCL Cojasca nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 14/2024 de aprobare a proiectului și a cheltuielilor legate de proiect,, Construirea de locuinte pentru persoane varsnice vulnerabile afectate de probleme locative in Comuna Cojasca, Judetul Dambovita,,",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#70526",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#70526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-15-2024",
+   "path": "local/dambovita/cojasca/2024/15",
+   "short": "HCL Cojasca nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 15/2024 privind aprobarea contului anual de execuție pe anul 2023 al comunei Cojasca, județul Dambovita",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71703",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-16-2024",
+   "path": "local/dambovita/cojasca/2024/16",
+   "short": "HCL Cojasca nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 16/2024 privind aprobare PT, liste de cantități și a indicatorilor tehnico-economici, pentru obiectivul de investiții: ”Reamplasare loc de joacă parc biserică în Comuna cojasca, județ Dâmbovița”",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71704",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-17-2024",
+   "path": "local/dambovita/cojasca/2024/17",
+   "short": "HCL Cojasca nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 17/2024 privind aprobarea caietului de sarcini, listelor de cantități și a indicatorilor tehnico-economici, pentru obiectivul de investiții Reparații curente străzi în Comuna Cojasca, județul Dâmbovița”",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71705",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-18-2024",
+   "path": "local/dambovita/cojasca/2024/18",
+   "short": "HCL Cojasca nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 18/2024 privind aprobarea Regulamentului privind implementarea proiectului ,,Școala Socială Sportivă Cojasca,, cu Asociația FDP Protagoniști în Educație",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71706",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-19-2024",
+   "path": "local/dambovita/cojasca/2024/19",
+   "short": "HCL Cojasca nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 19/2024 privind aprobarea rectificări bugetului local de venituri și cheltuieli pe anul 2024 și validarea dispoziției nr. 120/13.02.2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71745",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-2-2024",
+   "path": "local/dambovita/cojasca/2024/2",
+   "short": "HCL Cojasca nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 2/2024 privind organizarea Consiliului Comunitar Consultativ",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68182",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-20-2024",
+   "path": "local/dambovita/cojasca/2024/20",
+   "short": "HCL Cojasca nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 20/2024 privind îndreptarea erorii materiale strecurate în Anexa nr.1 și 2 la HCL nr. 129/19.12.2023 privind reorganizarea aparatului de specialitate al primarului comunei Cojascași aprobarea organigramei și a Statului de funcții",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71709",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#71709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-21-2024",
+   "path": "local/dambovita/cojasca/2024/21",
+   "short": "HCL Cojasca nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 21/2024 privind aprobarea Regulamentului de decontare a cheltuielor de transport pentru funcționarii publici și personalul contractual din cadrul primăriei comunei Cojasca , județul Dâmbovița",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#72198",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#72198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-22-2024",
+   "path": "local/dambovita/cojasca/2024/22",
+   "short": "HCL Cojasca nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 22/2024 privind completarea Strategiei de Dezvoltare Locală pentru perioada 2021-2027 comuna Cojasca, județul Dâmbovița",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#72200",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#72200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-23-2024",
+   "path": "local/dambovita/cojasca/2024/23",
+   "short": "HCL Cojasca nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 23/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cojasca județul Dâmbovița pe anul 2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#72671",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#72671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-24-2024",
+   "path": "local/dambovita/cojasca/2024/24",
+   "short": "HCL Cojasca nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 24/2024 privind aprobarea procedurii de finanțare a Asociației FDP Protagoniști în Educație pentru implementarea proiectului ,,Școala Socială de Fotbal Cojasca,, , conform acordului de parteneriat nr. 19.789/135/22.11.2023",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73177",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-25-2024",
+   "path": "local/dambovita/cojasca/2024/25",
+   "short": "HCL Cojasca nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 25/2024 privind modificarea HCL nr.82/2023 pentru aprobarea noilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiție ”Extindere rețea de canalizare menajeră în satele Cojasca ,Fântânele și Iazu , comuna Cojasca , județul Dâmbovița ” aprobat pentru finanțare prin Programul Național de investiții ”Anghel Saligny” , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73178",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-26-2024",
+   "path": "local/dambovita/cojasca/2024/26",
+   "short": "HCL Cojasca nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 26/2024 privind alegerea preşedintelui de şedinţă în cadrul Consiliului Local Cojasca pe o perioadă de 3 luni aprilie – iunie 2024;",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73180",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-27-2024",
+   "path": "local/dambovita/cojasca/2024/27",
+   "short": "HCL Cojasca nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 27/2024 privind modificarea HCL nr.82/2023 pentru aprobarea noilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiție ”Extindere rețea de canalizare menajeră în satele Cojasca ,Fântânele și Iazu , comuna Cojasca , județul Dâmbovița ” aprobat pentru finanțare prin Programul Național de investiții ”Anghel Saligny” , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73580",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#73580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-28-2024",
+   "path": "local/dambovita/cojasca/2024/28",
+   "short": "HCL Cojasca nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 28/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-29-2024",
+   "path": "local/dambovita/cojasca/2024/29",
+   "short": "HCL Cojasca nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 29/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-3-2024",
+   "path": "local/dambovita/cojasca/2024/3",
+   "short": "HCL Cojasca nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 3/2024 privind aprobarea Raportului de evaluare a capacității de apărare împotriva incendiilor la nivelul unității administrtaiv teritoriale comuna Cojasca, județul Dâmbovița , pe anul 2023",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68183",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-30-2024",
+   "path": "local/dambovita/cojasca/2024/30",
+   "short": "HCL Cojasca nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 30/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cojasca județul Dâmbovița pe anul 2024 și validarea dispoziției nr.177/27.03.2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#74890",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#74890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-31-2024",
+   "path": "local/dambovita/cojasca/2024/31",
+   "short": "HCL Cojasca nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 31/2024 privind aprobarea documentației de avizare a lucrărilor de investiții a indicatorilor tehnico –economici și a devizului general pentru obiectivul de inverstiție,, Construire Centru medical comuna Cojasca, județul Dâmbovița precum și a sumei reprezentând categoriile de cheltuieli de la bugetul local pentru realizarea obiectivelor",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#74891",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#74891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-32-2024",
+   "path": "local/dambovita/cojasca/2024/32",
+   "short": "HCL Cojasca nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 32/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-33-2024",
+   "path": "local/dambovita/cojasca/2024/33",
+   "short": "HCL Cojasca nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 33/2024 privind aprobarea finantării Asociației Sportive Club sportiv Viitorul Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#74893",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#74893",
      "sha256": null
     }
    ]
@@ -116,6 +506,21 @@
    "versions": [
     {
      "from": "2024-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-4-2024",
+   "path": "local/dambovita/cojasca/2024/4",
+   "short": "HCL Cojasca nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 4/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-30",
      "units": 1,
      "source_url": null,
      "sha256": null
@@ -268,6 +673,21 @@
      "from": "2024-06-18",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-5-2024",
+   "path": "local/dambovita/cojasca/2024/5",
+   "short": "HCL Cojasca nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 5/2024 privind aprobarea analizei stadiului de înscrierea datelor în registrul agricol pe anul 2023",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68185",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68185",
      "sha256": null
     }
    ]
@@ -723,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-8-2024",
+   "path": "local/dambovita/cojasca/2024/8",
+   "short": "HCL Cojasca nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 8/2024 privind aprobarea Planului de acţiuni şi lucrări de interes local, ce se vor desfășura în anul 2024 cu beneficiarii de venit minim de incluziune",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68679",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68679",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-80-2024",
    "path": "local/dambovita/cojasca/2024/80",
    "short": "HCL Cojasca nr. 80/2024",
@@ -868,6 +1303,21 @@
      "from": "2024-11-19",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#85759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-9-2024",
+   "path": "local/dambovita/cojasca/2024/9",
+   "short": "HCL Cojasca nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 9/2024 privind actualizarea inventarul bunurilor care alcătuiesc domeniul privat al comunei Cojasca cu modificările și completările ulterioare",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68680",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#68680",
      "sha256": null
     }
    ]

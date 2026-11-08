@@ -3,6 +3,36 @@
  "shard": "local/dambovita/niculesti/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--niculesti-1-2021",
+   "path": "local/dambovita/niculesti/2021/1",
+   "short": "HCL Niculești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 1/2021 privind aprobarea execuţiei bugetare pe trimestrul IV al anului 2020 a bugetului local, a bugetului instituţiilor publice finanţate din venituri proprii ţi subvenţii de la bugetul local și a bugetului creditelor interne",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31719",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-14-2021",
+   "path": "local/dambovita/niculesti/2021/14",
+   "short": "HCL Niculești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 14/2021 privind aprobarea documentaţiei P.U.Z- INSTALATIE DE DISTRIBUTIE SI ALIMENTARE GPL LA AUTOVEHICULE TIP SKID, Comuna Niculesti, sat Niculesti T 16, P 7, judet Dâmbovita",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31733",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31733",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--niculesti-21-2021",
    "path": "local/dambovita/niculesti/2021/21",
    "short": "HCL Niculești nr. 21/2021",
@@ -133,6 +163,21 @@
      "from": "2021-05-27",
      "units": 1,
      "source_url": "https://emol.ro/niculesti-db/registru-hcl/31788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-3-2021",
+   "path": "local/dambovita/niculesti/2021/3",
+   "short": "HCL Niculești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 3/2021 privind însușirea Raportului de evaluare a imobilizărilor corporale cuprinse în patrimoniul public și privat al comunei Niculești la data de 31.12.2020",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31721",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31721",
      "sha256": null
     }
    ]
@@ -298,6 +343,36 @@
      "from": "2021-06-24",
      "units": 1,
      "source_url": "https://emol.ro/niculesti-db/registru-hcl/31814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-5-2021",
+   "path": "local/dambovita/niculesti/2021/5",
+   "short": "HCL Niculești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 5/2021 privind adoptarea Planului de actiuni si lucrari de interes local pentru anul 2021,, ce urmeaza a fi realizat de beneficiarii Legii 416/2001",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31723",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-9-2021",
+   "path": "local/dambovita/niculesti/2021/9",
+   "short": "HCL Niculești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 9/2021 privind includerea în domeniul public al comunei Niculești a suprafetei de teren de 3500 mp situată în T 26/1, P 76/1, nr. cadastral 73523",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31728",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31728",
      "sha256": null
     }
    ]

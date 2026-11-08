@@ -198,6 +198,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ostrov-3-2026",
+   "path": "local/constanta/ostrov/2026/3",
+   "short": "HCL Ostrov nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 3/2026 privind validarea Dispoziției nr.3/09.01.2026 pentru aprobarea acoperirii definitive din excedentul bugetului local al anilor precedenţi, a deficitului secțiunii de dezvoltare in cuantum de 1.959.246,08 lei, pe anul 2025",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/249558",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/249558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-35-2026",
+   "path": "local/constanta/ostrov/2026/35",
+   "short": "HCL Ostrov nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 35/2026",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/274154",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/274154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-37-2026",
+   "path": "local/constanta/ostrov/2026/37",
+   "short": "HCL Ostrov nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 37/2026 privind aprobarea devizului general al obiectivului de investiții ”Lucrări de așternere covor asfaltic Ostrov-Esechioi-etapa I”",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/274156",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/274156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-38-2026",
+   "path": "local/constanta/ostrov/2026/38",
+   "short": "HCL Ostrov nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 38/2026 privind aprobarea contului de executie a bugetului local al comunei Ostrov, pe cele doua sectiuni de functionare si dezvoltare aferente trimestrului întâi, al anului 2026",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/274157",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/274157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-4-2026",
+   "path": "local/constanta/ostrov/2026/4",
+   "short": "HCL Ostrov nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 4/2026 privind probarea numarului maxim al asistentilor personali ai persoanelor cu handicap ce vor fi incadrati la nivelul Primariei Ostrov pentru anul 2026",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/249559",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/249559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-40-2026",
+   "path": "local/constanta/ostrov/2026/40",
+   "short": "HCL Ostrov nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 40/2026 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialiatate al primarului comunei Ostrov, județul Constanța",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/281594",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/281594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-41-2026",
+   "path": "local/constanta/ostrov/2026/41",
+   "short": "HCL Ostrov nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 41/2026 privind atestarea apartenenței la domeniul privat al comunei Ostrov, județul Constanța a unor bunuri imobile- terenuri",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/281595",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/281595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ostrov-42-2026",
    "path": "local/constanta/ostrov/2026/42",
    "short": "HCL Ostrov nr. 42/2026",
@@ -313,6 +418,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/ostrov-ct/registru-hcl/286369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-5-2026",
+   "path": "local/constanta/ostrov/2026/5",
+   "short": "HCL Ostrov nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 5/2026 privind ajustarea tarifelor aferente Contractului nr. 3/26.03.2024 de delegare a gestiunii, prin concesiune, a serviciului de salubrizare pentru activitățile de sortare, tratare mecano-biologică și depozitare a deșeurilor municipale din județul Constanța – Lot 2 (Tortoman)",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/249560",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/249560",
      "sha256": null
     }
    ]
@@ -493,6 +613,21 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/ostrov-ct/registru-hcl/294999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-9-2026",
+   "path": "local/constanta/ostrov/2026/9",
+   "short": "HCL Ostrov nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 9/2026 privind aprobarea Metodologiei de repartizare si facturare individuala a consumului de apa inregistrat la bransamentul condominiului precum si Conventia-cadru de facturare individuala a consumurilor de apa si de canalizare",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/257182",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/257182",
      "sha256": null
     }
    ]

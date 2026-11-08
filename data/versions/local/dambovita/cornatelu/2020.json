@@ -3,6 +3,21 @@
  "shard": "local/dambovita/cornatelu/2020",
  "acts": [
   {
+   "slug": "hcl-dambovita--cornatelu-1-2020",
+   "path": "local/dambovita/cornatelu/2020/1",
+   "short": "HCL Cornățelu nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 1/2020 Privind aprobarea Planului anual de acțiuni și lucrări de interes local pentru anul 2020",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/349",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/349",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-10-2020",
    "path": "local/dambovita/cornatelu/2020/10",
    "short": "HCL Cornățelu nr. 10/2020",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-2-2020",
+   "path": "local/dambovita/cornatelu/2020/2",
+   "short": "HCL Cornățelu nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 2/2020 privind acordarea unui ajutor social persoanelor vârstnice",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/350",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/350",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-20-2020",
    "path": "local/dambovita/cornatelu/2020/20",
    "short": "HCL Cornățelu nr. 20/2020",
@@ -223,6 +253,36 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/13253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-3-2020",
+   "path": "local/dambovita/cornatelu/2020/3",
+   "short": "HCL Cornățelu nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 3/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/351",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-4-2020",
+   "path": "local/dambovita/cornatelu/2020/4",
+   "short": "HCL Cornățelu nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 4/2020 privind aprobarea contului de execuție al Consiliului Local al comunei Cornățelu pentru anul 2019",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/352",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/352",
      "sha256": null
     }
    ]

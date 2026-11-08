@@ -3,6 +3,21 @@
  "shard": "local/constanta/vulturu/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--vulturu-16-2021",
+   "path": "local/constanta/vulturu/2021/16",
+   "short": "HCL Vulturu nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 16/2021 privind aprobarea inițierii procedurii de închiriere prin atribuire directă a pășunilor disponibile aflate în domeniul privat al comunei Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43251",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43251",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-35-2021",
    "path": "local/constanta/vulturu/2021/35",
    "short": "HCL Vulturu nr. 35/2021",

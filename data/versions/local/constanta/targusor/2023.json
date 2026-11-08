@@ -3,6 +3,171 @@
  "shard": "local/constanta/targusor/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--targusor-13-2023",
+   "path": "local/constanta/targusor/2023/13",
+   "short": "HCL Târgușor nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 13/2023 privind aprobarea casării elementelor de natura activelor fixe și a materialelor de natura obiectelor de inventar din patrimoniul comunei Târgușor, județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/91502",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/91502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-15-2023",
+   "path": "local/constanta/targusor/2023/15",
+   "short": "HCL Târgușor nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 15/2023 privind asigurarea unei cantități zilnice de apă plată îmbuteliată pentru copiii până la 3 ani și femeile însărcinate sau care alăptează, din comuna Târgușor, județul Constanța, conform Hotărârii de Guvern nr. 974/ 2004",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/91504",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/91504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-16-2023",
+   "path": "local/constanta/targusor/2023/16",
+   "short": "HCL Târgușor nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 16/2023 privind aprobarea protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și Unitatea Administrativ Teritorială Târgușor, județul Constanța, având ca obiect asigurarea colaborării interinstituționale a MMSS și UAT Târgușor în cadrul proiectului ,, HUB de Servicii MMSS-SII MMSS,, ,( cod MySmis 130963)",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/91505",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/91505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-17-2023",
+   "path": "local/constanta/targusor/2023/17",
+   "short": "HCL Târgușor nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 17/2023 privind aprobarea procedurii de atribuire directa a suprafețelor de pajiști disponibile din domeniul privat al comunei Târgușor, județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/91506",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/91506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-19-2023",
+   "path": "local/constanta/targusor/2023/19",
+   "short": "HCL Târgușor nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 19/2023 privind aprobarea acordului de cooperare pentru depunerea și implementarea proiectului ”Dotare cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitare și a unităților conexe, finanțat în cadrul Planului Național de Redresare și Reziliență”",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/94672",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/94672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-20-2023",
+   "path": "local/constanta/targusor/2023/20",
+   "short": "HCL Târgușor nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 20/2023 pentru modificarea Hotărârii Consiliului local Nr. 17/23. 02. 2023 privind aprobarea procedurii de atribuire directa a suprafețelor de pajiști disponibile din domeniul privat al comunei Târgușor, județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/94673",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/94673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-23-2023",
+   "path": "local/constanta/targusor/2023/23",
+   "short": "HCL Târgușor nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 23/2023 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/102080",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/102080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-26-2023",
+   "path": "local/constanta/targusor/2023/26",
+   "short": "HCL Târgușor nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 26/2023 privind stabilirea tarifului de facturare a activității de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate din deșeurile municipale în stații de sortare, conform contractului de delegare nr. 163/11.01. 2023 și modificarea tarifelor pentru activitățile de colectare separată, transport separat și tratare a deșeurilor similare generate de către agenții economici și/sau instituțiile publice care își desfășoară activitatea în aria teritorială a comunei Târgușor, în baza contractelor de delegare a gestiunii serviciilor, nr. 164/11. 01. 2023 și nr. 163/11. 01. 2023",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/102083",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/102083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-27-2023",
+   "path": "local/constanta/targusor/2023/27",
+   "short": "HCL Târgușor nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 27/2023 privind aprobarea Contului de încheiere a exercițiului bugetar, al Unității Administrativ Teritoriale Comuna Târgușor, județul Constanța, pe trimestru I al anului 2023",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/102084",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/102084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-29-2023",
+   "path": "local/constanta/targusor/2023/29",
+   "short": "HCL Târgușor nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 29/2023 privind aprobarea bugetului local de venituri și cheltuieli rectificat și a listei de investiții rectificate, ale Consiliului Local al comunei Târgușor, județul Constanța, pe anul 2023",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/102086",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/102086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-31-2023",
+   "path": "local/constanta/targusor/2023/31",
+   "short": "HCL Târgușor nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 31/2023 privind aprobarea documentației de avizare a lucrărilor de intervenție, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiție ” Reparații și modernizare trotuare pe strada Constanței, comuna Târgușor, localitatea Târgușor, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții ” Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/106368",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/106368",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-42-2023",
    "path": "local/constanta/targusor/2023/42",
    "short": "HCL Târgușor nr. 42/2023",
@@ -118,6 +283,21 @@
      "from": "2023-10-10",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/122256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-5-2023",
+   "path": "local/constanta/targusor/2023/5",
+   "short": "HCL Târgușor nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 5/2023 privind aprobarea bugetului de venituri și cheltuieli și a listei de investiții, ale Consiliului Local al comunei Târgușor, județul Constanța, pe anul 2023",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/87805",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/87805",
      "sha256": null
     }
    ]
@@ -268,6 +448,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/134390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-6-2023",
+   "path": "local/constanta/targusor/2023/6",
+   "short": "HCL Târgușor nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 6/2023 privind aprobarea constituirii și utilizării fondului de rezervă bugetară aferent bugetului de venituri și cheltuieli al comunei Târgușor, județul Constanța, pe anul 2023",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/87806",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/87806",
      "sha256": null
     }
    ]

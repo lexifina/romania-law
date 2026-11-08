@@ -3,6 +3,21 @@
  "shard": "local/constanta/pestera/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--pestera-1-2023",
+   "path": "local/constanta/pestera/2023/1",
+   "short": "HCL Peștera nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 1/2023 privind APROBAREA UTILIZARII EXCEDENTULUI BUGETULUI LOCAL AL ANULUI 2022 PENTRU ACOPERIREA GOLULUI DE CASA AFERENT sectiunii de functionare pe anul 2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/85827",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/85827",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pestera-100-2023",
    "path": "local/constanta/pestera/2023/100",
    "short": "HCL Peștera nr. 100/2023",
@@ -138,6 +153,531 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pestera-12-2023",
+   "path": "local/constanta/pestera/2023/12",
+   "short": "HCL Peștera nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 12/2023 privind APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90171",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-15-2023",
+   "path": "local/constanta/pestera/2023/15",
+   "short": "HCL Peștera nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 15/2023 privind STABILIREA TAXEI DE SALUBRIZARE PENTRU ANUL 2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90174",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-16-2023",
+   "path": "local/constanta/pestera/2023/16",
+   "short": "HCL Peștera nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 16/2023 privind APROBAREA PROTOCOLULUI ÎNCHEIAT ÎNTRE COMUNA PEȘTERA, JUDEȚUL CONSTANȚA ȘI MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE PENTRU COLABORAREA INTERINSTITUȚIONALĂ ÎN CADRUL PROIECTULUI HUB DE SERVICII MMSS-SII MMSS COD MYSMIS 130963",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90175",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-17-2023",
+   "path": "local/constanta/pestera/2023/17",
+   "short": "HCL Peștera nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 17/2023 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/91558",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/91558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-2-2023",
+   "path": "local/constanta/pestera/2023/2",
+   "short": "HCL Peștera nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 2/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90161",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-20-2023",
+   "path": "local/constanta/pestera/2023/20",
+   "short": "HCL Peștera nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 20/2023 privind aprobarea cererii de finanțare si a valorii proiectului pentru obiectivul de investiție: „Extindere rețea de canalizare în sat Ivrinezu Mare și sat Ivrinezu Mic” în cadrul finanțării din fondurile europene aferente Ministerului Mediului, Apelor și Pădurilor în cadrul Componentei C1 - INVESTIȚIA I1. MANAGEMENTUL APEI.: “Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2000 de locuitori echivalenți, prioritizate prin Planul accelerat de conformare cu directivele europene”",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/91561",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/91561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-23-2023",
+   "path": "local/constanta/pestera/2023/23",
+   "short": "HCL Peștera nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 23/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investitie “GRADINIȚA CU PROGRAM NORMAL, CU DOUA SĂLI DE GRUPĂ, COM. PEȘTERA, JUD. CONSTANȚA” – componenta locală",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/95383",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/95383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-28-2023",
+   "path": "local/constanta/pestera/2023/28",
+   "short": "HCL Peștera nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 28/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/99946",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/99946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-3-2023",
+   "path": "local/constanta/pestera/2023/3",
+   "short": "HCL Peștera nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 3/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90162",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-30-2023",
+   "path": "local/constanta/pestera/2023/30",
+   "short": "HCL Peștera nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 30/2023 privind ÎNSUȘIREA RAPOARTELOR DE EVALUARE A PROPRIETĂȚII IMOBILIARE AFLATE ÎN PROPRIETATEA PRIVATĂ A COMUNEI PEȘTERA, JUDEȚUL CONSTANTA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/99948",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/99948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-32-2023",
+   "path": "local/constanta/pestera/2023/32",
+   "short": "HCL Peștera nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 32/2023 privind aprobarea actului actului aditional nr.1 la contractul de prestări servicii nr. 03/10.01.2023 privind achiziționarea activitățiilor de sortare, tartare mecanico-biologică și depozitarea deșeurilor municipale din comuna Pestera, județul Constanța, făra punerea la dispoziție a infrastructurii",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/99950",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/99950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-33-2023",
+   "path": "local/constanta/pestera/2023/33",
+   "short": "HCL Peștera nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 33/2023 privind STABILIREA TAXEI DE SALUBRIZARE PE ANUL 2023 PENTRU UTILIZATORII NON-CASNICI CARE ÎȘI DESFĂȘOARĂ ACTIVITATEA PE RAZA UAT COMUNA PEȘTERA, JUD.CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/99951",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/99951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-34-2023",
+   "path": "local/constanta/pestera/2023/34",
+   "short": "HCL Peștera nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 34/2023 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/100825",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/100825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-35-2023",
+   "path": "local/constanta/pestera/2023/35",
+   "short": "HCL Peștera nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 35/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/100826",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/100826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-36-2023",
+   "path": "local/constanta/pestera/2023/36",
+   "short": "HCL Peștera nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 36/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/102490",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/102490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-37-2023",
+   "path": "local/constanta/pestera/2023/37",
+   "short": "HCL Peștera nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 37/2023 privind aprobarea Cererii de finantare și a Devizului general estimativ a obiectivului de investiții ,, Extindere rețea de canalizare în sat Izvoru Mare, comuna Peștera”pentru finanțarea acestuia în cadrul Programului Național de Investiții Anghel Saligny",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/102491",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/102491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-38-2023",
+   "path": "local/constanta/pestera/2023/38",
+   "short": "HCL Peștera nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 38/2023 privind aprobarea Cererii de finantare și a Devizului general estimativ al obiectivului de investiții ,, Înlocuire țeavă apă potabilă în satul Ivrinezu Mare ” pentru finanțarea acestuia în cadrul Programului Național de Investiții Anghel Saligny",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/102492",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/102492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-4-2023",
+   "path": "local/constanta/pestera/2023/4",
+   "short": "HCL Peștera nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 4/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90163",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-43-2023",
+   "path": "local/constanta/pestera/2023/43",
+   "short": "HCL Peștera nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 43/2023 privind aprobarea delegării dreptului de depunere a Cererii de finanțare a proiectului ”Dotarea cu microbuze electrice pentru elevi a unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza județului Constanța” Componenta C15: Educație, Investiția 10: ”Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi”, finanțat din bugetul Ministerului Educației, prin Programul Național de Redresare și Reziliență către UAT Județul Constanța, Consiliul Județean Constanța",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/107332",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/107332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-49-2023",
+   "path": "local/constanta/pestera/2023/49",
+   "short": "HCL Peștera nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 49/2023 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/109045",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/109045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-5-2023",
+   "path": "local/constanta/pestera/2023/5",
+   "short": "HCL Peștera nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 5/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90164",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-50-2023",
+   "path": "local/constanta/pestera/2023/50",
+   "short": "HCL Peștera nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 50/2023 privind APROBAREA RECTIFICĂRII BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2022 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/116227",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/116227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-51-2023",
+   "path": "local/constanta/pestera/2023/51",
+   "short": "HCL Peștera nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 51/2023 privind APROBAREA RAPORTULUI DE EVALUARE A CAPACITĂȚII DE APĂRAREA ÎMPOTRIVA INCENDIILOR ÎN ANUL 2022, RESPECTIV SEMESTRUL I AL ANULUI 2023,ÎN DOMENIUL SITUAȚIILOR DE URGENȚĂ",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/116228",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/116228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-6-2023",
+   "path": "local/constanta/pestera/2023/6",
+   "short": "HCL Peștera nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 6/2023 privind APROBAREA BUGETULUI NECESAR DESFĂȘURĂRII ACTIVITĂȚILOR COMISIEI PENTRU APĂRAREA PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90165",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-61-2023",
+   "path": "local/constanta/pestera/2023/61",
+   "short": "HCL Peștera nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 61/2023 privind aprobarea modalității de calcul al tarifelor pentru activitați de tratare a deșeurilor similare generate de catre agenții economici și/sau instituții publice care își desfășoară activitatea pe raza uat Comuna Peștera",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/116238",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/116238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-64-2023",
+   "path": "local/constanta/pestera/2023/64",
+   "short": "HCL Peștera nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 64/2023 privind APROBAREA STATUTULUI COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/116876",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/116876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-68-2023",
+   "path": "local/constanta/pestera/2023/68",
+   "short": "HCL Peștera nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 68/2023 privind APROBAREA PIERDERILOR TEHNOLOGICE DIN SISTEMUL PUBLIC DE ALIMENTARE CU APĂ AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/116880",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/116880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-70-2023",
+   "path": "local/constanta/pestera/2023/70",
+   "short": "HCL Peștera nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 70/2023 privind APROBAREA RECTIFICĂRII BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/119050",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/119050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-74-2023",
+   "path": "local/constanta/pestera/2023/74",
+   "short": "HCL Peștera nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 74/2023 privind aprobarea Contractului colectiv de munca și acordul colectiv de muncă al angajaților primăriei comunei Peștera,județul Constanța, pentru perioada 2023 - 2025",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/123701",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/123701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-76-2023",
+   "path": "local/constanta/pestera/2023/76",
+   "short": "HCL Peștera nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 76/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/123703",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/123703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-83-2023",
+   "path": "local/constanta/pestera/2023/83",
+   "short": "HCL Peștera nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 83/2023 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/128857",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/128857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-84-2023",
+   "path": "local/constanta/pestera/2023/84",
+   "short": "HCL Peștera nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 84/2023 privind ATESTAREA LA DOMENIUL PRIVAT AL COMUNEI PEȘTERA A UNUI BUN IMOBIL-TEREN, SITUAT ÎN INTRAVILANUL COMUNEI PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/128858",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/128858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-85-2023",
+   "path": "local/constanta/pestera/2023/85",
+   "short": "HCL Peștera nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 85/2023 privind aprobarea Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deşeurilor sau gestionării neconforme cu ierarhia deşeurilor",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/128859",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/128859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-86-2023",
+   "path": "local/constanta/pestera/2023/86",
+   "short": "HCL Peștera nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 86/2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/128860",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/128860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-88-2023",
+   "path": "local/constanta/pestera/2023/88",
+   "short": "HCL Peștera nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 88/2023 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2023 AL CLUBULUI SPORTIV PEȘTERA, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/128862",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/128862",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pestera-89-2023",
    "path": "local/constanta/pestera/2023/89",
    "short": "HCL Peștera nr. 89/2023",
@@ -148,6 +688,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/pestera-ct/registru-hcl/134250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-9-2023",
+   "path": "local/constanta/pestera/2023/9",
+   "short": "HCL Peștera nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 9/2023 privind APROBAREA PLANULUI DE ACTIUNI/ LUCRARI DE INTERES LOCAL CE SE REALIZEAZA DE BENEFICIARII DE VENIT MINIM GARANTAT IN ANUL 2023",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/90168",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/90168",
      "sha256": null
     }
    ]

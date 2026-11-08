@@ -3,6 +3,116 @@
 "shard": "local/dambovita/ciocanesti/2024",
 "acts": [
 {
+"slug": "hcl-dambovita--ciocanesti-1-2024",
+"path": "local/dambovita/ciocanesti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2024 privind aprobarea structurii rețelei școlare pentru anul școlar 2024-2025 din localitatea Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/141506",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-4-2024",
+"path": "local/dambovita/ciocanesti/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 4/2024 privind aprobarea bugetului general centralizat al U.A.T Comuna Ciocănești pe anul 2024 și estimări pentru anii 2025-2027",
+"short": "HCL Ciocănești nr. 4/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/143076",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-6-2024",
+"path": "local/dambovita/ciocanesti/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2024 privind aprobarea Regulamentului de Organizare și Funcționare, Programul de activitate pe anul 2024, Strategia activității pe anul 2024, Raportul de activitate pe anul 2023, Calendarul Evenimentelor Social-Culturale pe anul 2024, Indicatori orientativi pentru biblioteca comunală Ciocănești, Consiliul Științific Consultativ și Programul de lucru al Bibliotecii Comunale Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 6/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/151602",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-7-2024",
+"path": "local/dambovita/ciocanesti/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2024 privind aprobarea Regulamentului și a taxelor aferente procedurii de eliberare a acordului/autorizației de funcționare persoanelorfizice autorizate, și juridice care deșfășoară activități de comercializare a produselor și serviciilor de piață în zone comerciale, zone publice sau zone destinate folosinței publice aflate pe raza Unității Administrativ-Teritorială a Comunei Ciocănești, județul Dâmbovița și a taxelor aferente acestora",
+"short": "HCL Ciocănești nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/151593",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-8-2024",
+"path": "local/dambovita/ciocanesti/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 8/2024 privind aprobarea Planului de acțiuni de interes local în vederea repartizării orelor de muncă persoanelor apte de muncă, beneficiare de ajutor social, conform Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2024",
+"short": "HCL Ciocănești nr. 8/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/151594",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-14-2024",
 "path": "local/dambovita/ciocanesti/2024/14",
 "kind": "local",

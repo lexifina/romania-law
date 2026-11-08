@@ -3,6 +3,21 @@
  "shard": "local/dambovita/runcu/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--runcu-20-2025",
+   "path": "local/dambovita/runcu/2025/20",
+   "short": "HCL Runcu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 20/2025 privind denumirea unor strazi",
+   "url": "https://emol.ro/runcu-db/registru-hcl/212435",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/212435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--runcu-23-2025",
    "path": "local/dambovita/runcu/2025/23",
    "short": "HCL Runcu nr. 23/2025",

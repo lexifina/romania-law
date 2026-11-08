@@ -3,6 +3,36 @@
  "shard": "local/dambovita/cojasca/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--cojasca-1-2025",
+   "path": "local/dambovita/cojasca/2025/1",
+   "short": "HCL Cojasca nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 1/2025 privind alegerea preşedintelui de şedinţă în cadrul Consiliului Local Cojasca pe o perioadă de 3 luni ianuarie – martie 2025;",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91413",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-10-2025",
+   "path": "local/dambovita/cojasca/2025/10",
+   "short": "HCL Cojasca nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 10/2025 privind aprobarea analizei stadiului de înscriere a datelor in registrul agricol pentru anul 2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91927",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91927",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-100-2025",
    "path": "local/dambovita/cojasca/2025/100",
    "short": "HCL Cojasca nr. 100/2025",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-11-2025",
+   "path": "local/dambovita/cojasca/2025/11",
+   "short": "HCL Cojasca nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 11/2025 privind aprobarea Planului de acţiuni şi lucrări de interes local, ce se vor desfășura în anul 2024 cu beneficiarii de venit minim de incluziune",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91928",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91928",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-110-2025",
    "path": "local/dambovita/cojasca/2025/110",
    "short": "HCL Cojasca nr. 110/2025",
@@ -273,6 +318,336 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-13-2025",
+   "path": "local/dambovita/cojasca/2025/13",
+   "short": "HCL Cojasca nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 13/2025 privind reorganizarea aparatului de specialitate al primarului comunei Cojasca , aprobarea Organigramei si a Statului de functii",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91930",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-14-2025",
+   "path": "local/dambovita/cojasca/2025/14",
+   "short": "HCL Cojasca nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 14/2025 privind actualizarea indicatorilor tehnico economici , Proiect Tehnic D etalii de execuție și Deviz general pentru obiectivul de investiție ,, Dezvoltarea infrastructurii educaționale în localitatea Iazu , comuna Cojasca, Județil Dâmbovița",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91931",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-15-2025",
+   "path": "local/dambovita/cojasca/2025/15",
+   "short": "HCL Cojasca nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 15/2025 hotarare privind stabilirea și aprobarea cotizatiei/contributiei unitatii administrat - teritoriale comuna Cojasca , judet Dambovita, datorata Asociatiei de Dezvoltare Intercomunitara ,,Management Integrat al Deșeurilor in judetul Dambovita\", pentru anul 2025, in cuantumul stabilit pentru anul 2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#92558",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#92558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-16-2025",
+   "path": "local/dambovita/cojasca/2025/16",
+   "short": "HCL Cojasca nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 16/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94410",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-17-2025",
+   "path": "local/dambovita/cojasca/2025/17",
+   "short": "HCL Cojasca nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 17/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici, pentru anul 2025, în cuantumul stabilit pentru anul 2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94411",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-18-2025",
+   "path": "local/dambovita/cojasca/2025/18",
+   "short": "HCL Cojasca nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 18/2025 privind atestarea la domeniul privat al comunei Cojasca, județul Dâmbovița a suprafeței de teren 18713 mp arabil extravilan conform NC 77035",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94757",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-19-2025",
+   "path": "local/dambovita/cojasca/2025/19",
+   "short": "HCL Cojasca nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 19/2025 privind completarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Cojasca , județul Dâmbovița cu modificările și completările ulterioare",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94759",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-2-2025",
+   "path": "local/dambovita/cojasca/2025/2",
+   "short": "HCL Cojasca nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 2/2025 privind modificarea art.1 din HCL nr.96/28.11.2024 privind acordarea de cadouri cu ocazia sărbătorilor de iarnă",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91414",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-20-2025",
+   "path": "local/dambovita/cojasca/2025/20",
+   "short": "HCL Cojasca nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 20/2025 privind aprobarea indicatorilor tehnico economici la investiția parțială drum de acces la investiția ,, Captare gospodărie apă și conducte de distribuție apă în satul Iazu , comuna Cojasca, județul Dâmbovița",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94760",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-21-2025",
+   "path": "local/dambovita/cojasca/2025/21",
+   "short": "HCL Cojasca nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 21/2025 privind aprobare regulament privind acordarea avizului Consiliului Local al comunei Cojasca , județul Dâmbovița pentru prestări servicii funerare în comuna Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94776",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-22-2025",
+   "path": "local/dambovita/cojasca/2025/22",
+   "short": "HCL Cojasca nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 22/2025 privind aprobarea bugetului local de venituri ți cheltuieli al comunei Cojasca, județul Dâmbovița pe anul 2025 estimări anii 2026-2028",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94772",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#94772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-23-2025",
+   "path": "local/dambovita/cojasca/2025/23",
+   "short": "HCL Cojasca nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 23/2025 privind aprobarea contului anual de execuție pe anul 2024 al comunei Cojasca, județul Dâmbovița",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95486",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-24-2025",
+   "path": "local/dambovita/cojasca/2025/24",
+   "short": "HCL Cojasca nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 24/2025 privind alegerea preşedintelui de şedinţă în cadrul Consiliului Local Cojasca pe o perioadă de 3 luni aprilie – iunie 2025",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95487",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-25-2025",
+   "path": "local/dambovita/cojasca/2025/25",
+   "short": "HCL Cojasca nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-26-2025",
+   "path": "local/dambovita/cojasca/2025/26",
+   "short": "HCL Cojasca nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 26/2025 cu privire la actualizarea indicatorilor tehnico-economici, Proiect tehnic, Detalii de Execuție și Deviz General pentru obiectivul de investiții: ” Dezvoltarea infrastructurii educaționale în localitatea Iazu, comuna Cojasca, județul Dâmbovița- Școala Verde",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95489",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-27-2025",
+   "path": "local/dambovita/cojasca/2025/27",
+   "short": "HCL Cojasca nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 27/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ,, Furnizare de serviciii integrate în comunitățile rurale -facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate,,",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95742",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#95742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-28-2025",
+   "path": "local/dambovita/cojasca/2025/28",
+   "short": "HCL Cojasca nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 28/2025 aprobarea validării dispoziției nr.120/27.03.2025 privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul i anul 2025 al comunei Cojasca județul Dâmbovița",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97499",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-29-2025",
+   "path": "local/dambovita/cojasca/2025/29",
+   "short": "HCL Cojasca nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 29/2025 privind revocarea HCL nr.20/28.02.2025 privind aprobarea indicatorilor tehnico- economici la investiția parțială drum de acces la investiția ,, Captare gospodărie apă și conducte de distribuție apă în satul Iazu , comuna Cojasca, județul Dâmbovița;",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97501",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-3-2025",
+   "path": "local/dambovita/cojasca/2025/3",
+   "short": "HCL Cojasca nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 3/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-30-2025",
+   "path": "local/dambovita/cojasca/2025/30",
+   "short": "HCL Cojasca nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 30/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-31-2025",
+   "path": "local/dambovita/cojasca/2025/31",
+   "short": "HCL Cojasca nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 31/2025 aprobarea principalelor manifestări culturale care se desfasoară în comuna Cojasca în anul 2025",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97503",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-32-2025",
+   "path": "local/dambovita/cojasca/2025/32",
+   "short": "HCL Cojasca nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 32/2025 privind aprobarea unui acord de parteneriat pentru implementarea proiectului ,,Școala Socială Sportivă Cojasca,, cu Asociația FDP Protagoniști în Educație si aprobarea procedurii de finanțare,",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97504",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#97504",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-34-2025",
    "path": "local/dambovita/cojasca/2025/34",
    "short": "HCL Cojasca nr. 34/2025",
@@ -358,6 +733,21 @@
      "from": "2025-05-15",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#98923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-4-2025",
+   "path": "local/dambovita/cojasca/2025/4",
+   "short": "HCL Cojasca nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 4/2025 privind aprobarea încheierii unui contract de servicii juridice pentru apărarea intereselor comunei Cojasca precum și ale autorităților administrației publice locale din comuna",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91416",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91416",
      "sha256": null
     }
    ]
@@ -513,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-5-2025",
+   "path": "local/dambovita/cojasca/2025/5",
+   "short": "HCL Cojasca nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 5/2025 privind atestarea unui autoturism model DFSK E5 L1 culoare neagră , în domeniul privat al comunei Cojasca, județul Dâmbovița;",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91417",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-50-2025",
    "path": "local/dambovita/cojasca/2025/50",
    "short": "HCL Cojasca nr. 50/2025",
@@ -658,6 +1063,21 @@
      "from": "2025-07-27",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#104834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-6-2025",
+   "path": "local/dambovita/cojasca/2025/6",
+   "short": "HCL Cojasca nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 6/2025 privind completarea și însuşirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Cojasca cu modificările și completările ulterioare",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91418",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91418",
      "sha256": null
     }
    ]
@@ -813,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-7-2025",
+   "path": "local/dambovita/cojasca/2025/7",
+   "short": "HCL Cojasca nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 7/2025 privind însușirea inventarului elementelor de natura activelor , datoriilor și capitalurilor proprii aparținând patrimoniului comunei Cojasca pentru anul 2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91924",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91924",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-70-2025",
    "path": "local/dambovita/cojasca/2025/70",
    "short": "HCL Cojasca nr. 70/2025",
@@ -963,6 +1398,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-8-2025",
+   "path": "local/dambovita/cojasca/2025/8",
+   "short": "HCL Cojasca nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 8/2025 privind aprobarea contului de execuție al exercițiului bugetar la data de 31.12.2024 al comunei Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91925",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-80-2025",
    "path": "local/dambovita/cojasca/2025/80",
    "short": "HCL Cojasca nr. 80/2025",
@@ -1108,6 +1558,21 @@
      "from": "2025-10-19",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#108190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-9-2025",
+   "path": "local/dambovita/cojasca/2025/9",
+   "short": "HCL Cojasca nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 9/2025 privind aprobarea modului de întocmire şi tinere la zi a Registrului agricol începând cu anul 2025 în format electronic",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91926",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#91926",
      "sha256": null
     }
    ]

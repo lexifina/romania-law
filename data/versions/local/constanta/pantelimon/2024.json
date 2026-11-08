@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-63-2024",
+   "path": "local/constanta/pantelimon/2024/63",
+   "short": "HCL Pantelimon nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 63/2024 privind aprobarea Statutului Comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158268",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-67-2024",
+   "path": "local/constanta/pantelimon/2024/67",
+   "short": "HCL Pantelimon nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 67/2024 privind modificarea Anexei HCL nr. 38/28.04.2023 privind aprobarea coeficienților și stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Pantelimon, pentru anul 2023",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160378",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160378",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

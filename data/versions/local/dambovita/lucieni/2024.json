@@ -438,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-89-2024",
+   "path": "local/dambovita/lucieni/2024/89",
+   "short": "HCL Lucieni nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 89/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a35c5e4bcfc57178780239804b320085acc6e03c2b36323e36d5a608e2741513"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-92-2024",
    "path": "local/dambovita/lucieni/2024/92",
    "short": "HCL Lucieni nr. 92/2024",

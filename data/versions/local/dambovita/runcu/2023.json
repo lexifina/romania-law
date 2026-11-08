@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--runcu-7-2023",
+   "path": "local/dambovita/runcu/2023/7",
+   "short": "HCL Runcu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 7/2023 privind participarea comunei Runcu, judet Dambovita la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice cu proiectul „Eficientizare energetica constructie Primarie din comuna Runcu ”",
+   "url": "https://emol.ro/runcu-db/registru-hcl/123281",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/123281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--runcu-70-2023",
    "path": "local/dambovita/runcu/2023/70",
    "short": "HCL Runcu nr. 70/2023",
@@ -268,6 +283,21 @@
      "from": "2023-08-30",
      "units": 1,
      "source_url": "https://emol.ro/runcu-db/registru-hcl/123481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-8-2023",
+   "path": "local/dambovita/runcu/2023/8",
+   "short": "HCL Runcu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 8/2023 privind încadrarea în categoria funcțională a drumurilor comunale, cu indicativul DC 131, a unui drum forestier, împărțit în doua tronsoane, declarat de interes public local, în urma preluării din domeniul public al statului şi din administrarea Ministerului Mediului, Apelor și Pădurilor, prin Regia Naţională a Pădurilor – Romsilva, în domeniul public al comunei Runcu, judeţul Dâmboviţa și în administrarea Consiliului Local al Comunei Runcu",
+   "url": "https://emol.ro/runcu-db/registru-hcl/123282",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/123282",
      "sha256": null
     }
    ]

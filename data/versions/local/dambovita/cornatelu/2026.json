@@ -3,6 +3,216 @@
  "shard": "local/dambovita/cornatelu/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--cornatelu-1-2026",
+   "path": "local/dambovita/cornatelu/2026/1",
+   "short": "HCL Cornățelu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 1/2026 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2026 în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248767",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-11-2026",
+   "path": "local/dambovita/cornatelu/2026/11",
+   "short": "HCL Cornățelu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 11/2026 privind actualizarea devizului general al obiectivului de investiții ”Renovare energetică moderată Grădinița Bolovani Deal, comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248777",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-13-2026",
+   "path": "local/dambovita/cornatelu/2026/13",
+   "short": "HCL Cornățelu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 13/2026 privind aprobarea contului de execuție al bugetului local pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/255520",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/255520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-14-2026",
+   "path": "local/dambovita/cornatelu/2026/14",
+   "short": "HCL Cornățelu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 14/2026 privind aprobarea încheierii exercițiului bugetar pe anul 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/255521",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/255521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-16-2026",
+   "path": "local/dambovita/cornatelu/2026/16",
+   "short": "HCL Cornățelu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 16/2026 privind aprobarea devizului general actualizat aferent obiectivului de investiții ”Eficientizarea sistemului de iluminat public în comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/255523",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/255523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-17-2026",
+   "path": "local/dambovita/cornatelu/2026/17",
+   "short": "HCL Cornățelu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 17/2026 privind însușirea valorii finale a investiției \"Construire și dotare dispensar uman în sat Bolovani, T 26, P 4, comuna Cornățelu, județul Dâmbovița\" și actualizarea inventarului bunurilor care aparțin domeniului privat al comunei Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/255524",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/255524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-18-2026",
+   "path": "local/dambovita/cornatelu/2026/18",
+   "short": "HCL Cornățelu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 18/2026 privind aprobarea Programului de activitate pentru anul 2026 şi a Informării privind activitatea desfăşurată în anul 2025 ale Bibliotecii comunale „Cristache Georgescu” Cornăţelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/255525",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/255525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-2-2026",
+   "path": "local/dambovita/cornatelu/2026/2",
+   "short": "HCL Cornățelu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 2/2026 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248768",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-21-2026",
+   "path": "local/dambovita/cornatelu/2026/21",
+   "short": "HCL Cornățelu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 21/2026 privind acordarea unor facilități fiscale pentru anul 2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/257699",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/257699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-22-2026",
+   "path": "local/dambovita/cornatelu/2026/22",
+   "short": "HCL Cornățelu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 22/2026 privind modificarea Hotărârii Consiliului Local al comunei Cornățelu nr. 1/28.01.2026 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2026 în cuantumul stabilit pentru anul 2025, în sensul eliminării taxei de salubrizare pentru străinașii care domiciliază în județul Dâmbovița și în afara județului, care au gospodării pe raza comunei Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/257700",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/257700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-23-2026",
+   "path": "local/dambovita/cornatelu/2026/23",
+   "short": "HCL Cornățelu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 23/2026 privind aprobarea Organigramei și a Statului de funcții pentru personalul din aparatul de specialitate al Primarului comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/260430",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/260430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-24-2026",
+   "path": "local/dambovita/cornatelu/2026/24",
+   "short": "HCL Cornățelu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 24/2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/262393",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/262393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-25-2026",
+   "path": "local/dambovita/cornatelu/2026/25",
+   "short": "HCL Cornățelu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 25/2026 privind aprobarea devizului general actualizat al obiectivului de investiții ”Renovare energetică moderată Școala Primară Sat Bolovani, comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/264931",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/264931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-26-2026",
+   "path": "local/dambovita/cornatelu/2026/26",
+   "short": "HCL Cornățelu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 26/2026 privind actualizarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investiții ”Modernizare străzi în Comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/264932",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/264932",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-27-2026",
    "path": "local/dambovita/cornatelu/2026/27",
    "short": "HCL Cornățelu nr. 27/2026",
@@ -43,6 +253,21 @@
      "from": "2026-05-13",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/264935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-3-2026",
+   "path": "local/dambovita/cornatelu/2026/3",
+   "short": "HCL Cornățelu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 3/2026 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii casnici",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248769",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248769",
      "sha256": null
     }
    ]
@@ -198,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-4-2026",
+   "path": "local/dambovita/cornatelu/2026/4",
+   "short": "HCL Cornățelu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 4/2026 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii noncasnici",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248770",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-40-2026",
    "path": "local/dambovita/cornatelu/2026/40",
    "short": "HCL Cornățelu nr. 40/2026",
@@ -298,6 +538,81 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/295426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-5-2026",
+   "path": "local/dambovita/cornatelu/2026/5",
+   "short": "HCL Cornățelu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 5/2026 privind aprobarea cotizației comunei Cornățelu datorată Asociației de Dezvoltare Intercomunitară „Management Integrat al Deșeurilor în județul Dâmbovița”, pentru anul 2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248771",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-6-2026",
+   "path": "local/dambovita/cornatelu/2026/6",
+   "short": "HCL Cornățelu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 6/2026 privind stabilirea numărului de posturi de asistent personal al persoanei cu handicap grav pentru anul 2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248772",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-7-2026",
+   "path": "local/dambovita/cornatelu/2026/7",
+   "short": "HCL Cornățelu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 7/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pentru persoanele care vor presta muncă în folosul comunității în anul 2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248773",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-8-2026",
+   "path": "local/dambovita/cornatelu/2026/8",
+   "short": "HCL Cornățelu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 8/2026 privind aprobarea „Planului de acţiuni si lucrări de interes local pe anul 2026” prevăzut de Legea nr. 196/2016 privind venitul minim de incluziune, precum și stabilirea unor situații deosebite în care pot fi acordate ajutoare de urgență",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248774",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-9-2026",
+   "path": "local/dambovita/cornatelu/2026/9",
+   "short": "HCL Cornățelu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 9/2026 privind aprobarea Programului Anual al Achizițiilor Publice pentru anul 2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/248775",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/248775",
      "sha256": null
     }
    ]

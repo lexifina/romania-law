@@ -3,6 +3,28 @@
 "shard": "local/covasna/batani/2023",
 "acts": [
 {
+"slug": "hcl-covasna--batani-4-2023",
+"path": "local/covasna/batani/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 4/2023 privind aprobarea impozitelor si taxelor locale pe anul 2023.pdf",
+"short": "HCL Bățani nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-covasna--batani-49-2023",
 "path": "local/covasna/batani/2023/49",
 "kind": "local",

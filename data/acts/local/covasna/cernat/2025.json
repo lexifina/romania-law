@@ -3,6 +3,72 @@
 "shard": "local/covasna/cernat/2025",
 "acts": [
 {
+"slug": "hcl-covasna--cernat-56-2025",
+"path": "local/covasna/cernat/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 56/2025 privind cu privire la rectificarea bugetului local pe anul 2025",
+"short": "HCL Cernat nr. 56/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/224954",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--cernat-60-2025",
+"path": "local/covasna/cernat/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 60/2025 privind cu privire la rectificarea bugetului local pe anul 2025",
+"short": "HCL Cernat nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229600",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--cernat-61-2025",
+"path": "local/covasna/cernat/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 61/2025 privind aprobarea organigramei, numărul de personal și statul de funcții al aparatului de specialitate al primarului comunei Cernat",
+"short": "HCL Cernat nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229601",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-covasna--cernat-67-2025",
 "path": "local/covasna/cernat/2025/67",
 "kind": "local",

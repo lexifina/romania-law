@@ -3,6 +3,36 @@
  "shard": "local/covasna/zagon/2021",
  "acts": [
   {
+   "slug": "hcl-covasna--zagon-21-2021",
+   "path": "local/covasna/zagon/2021/21",
+   "short": "HCL Zagon nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 21/2021 privind aprobarea regulamentului de pășunat pentru pajiștile proprietate privată a comunei Zagon și modalitatea de atribuire a pășunilor, proprietate privată a comunei Zagon, în anul 2021",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/50179",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/50179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-67-2021",
+   "path": "local/covasna/zagon/2021/67",
+   "short": "HCL Zagon nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 67/2021 privind aprobarea proiectului tehnic și a indicatorilor tehnico economici ai investiției: ”Extindere rețea de alimentare cu apă și apă uzată menajeră, sat Zagon, comuna Zagon, județul Covasna”",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/51093",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/51093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-69-2021",
    "path": "local/covasna/zagon/2021/69",
    "short": "HCL Zagon nr. 69/2021",

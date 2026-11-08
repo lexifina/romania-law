@@ -3,6 +3,50 @@
 "shard": "local/constanta/pestera/2025",
 "acts": [
 {
+"slug": "hcl-constanta--pestera-15-2025",
+"path": "local/constanta/pestera/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 15/2025 privind declararea utilității publice și de interes public local a investiției ”SISTEME INTEGRATE DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA PEȘTERA, JUDEȚUL CONSTANȚA”",
+"short": "HCL Peștera nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/195843",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-17-2025",
+"path": "local/constanta/pestera/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 17/2025 privind aprobarea ajustării a tarifelor pentru activitatea de sortare, tratare mecano- biologică și depozitare a deșeurilor municipale din u.a.t. Peștera, fără punerea la dispoziție a infrastructurii, nr. 19/ 30.04.2024",
+"short": "HCL Peștera nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/195845",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--pestera-96-2025",
 "path": "local/constanta/pestera/2025/96",
 "kind": "local",

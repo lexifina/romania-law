@@ -3,6 +3,21 @@
  "shard": "local/covasna/valea-mare/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--valea-mare-11-2025",
+   "path": "local/covasna/valea-mare/2025/11",
+   "short": "HCL Valea Mare nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 11/2025 privind aprobarea bugetului local al comunei Valea Mare, județul Covasna, pentru anul 2025",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/197561",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/197561",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--valea-mare-26-2025",
    "path": "local/covasna/valea-mare/2025/26",
    "short": "HCL Valea Mare nr. 26/2025",

@@ -3,6 +3,366 @@
  "shard": "local/dambovita/bezdead/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--bezdead-1-2026",
+   "path": "local/dambovita/bezdead/2026/1",
+   "short": "HCL Bezdead nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 1/2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/252646",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/252646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-10-2026",
+   "path": "local/dambovita/bezdead/2026/10",
+   "short": "HCL Bezdead nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 10/2026 privind aprobarea planului cadastral cu lotizarea terenului, proprietatea numitului Spânu Bogdan-Adrian, pentru care solicită dezvoltarea rețelei de energie electrică, vizat de OCPI",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257501",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-11-2026",
+   "path": "local/dambovita/bezdead/2026/11",
+   "short": "HCL Bezdead nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 11/2026 privind actualizarea indicatorilor tehnico-economici pentru proiectul ,,ÎNFIINȚARE GRĂDINIȚĂ CU PROGRAM PRELUNGIT PRIN REABILITARE, CONSOLIDARE ȘI EXTINDERE CLĂDIRE P+1, SATUL MĂGURA, COMUNA BEZDEAD, JUD. DÂMBOVIȚA”, aprobați prin Hotărârea Consiliului local al comunei Bezdead nr. 40 din 25.06.2024",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257502",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-12-2026",
+   "path": "local/dambovita/bezdead/2026/12",
+   "short": "HCL Bezdead nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 12/2026 privind aprobarea cererii de finanţare şi a cheltuielilor aferente pentru proiectul ,,ÎNFIINȚARE GRĂDINIȚĂ CU PROGRAM PRELUNGIT PRIN REABILITARE, CONSOLIDARE ȘI EXTINDERE CLĂDIRE P+1, SATUL MĂGURA, COMUNA BEZDEAD, JUD. DÂMBOVIȚA”",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257503",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-13-2026",
+   "path": "local/dambovita/bezdead/2026/13",
+   "short": "HCL Bezdead nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 13/2026 privind modificarea Hotărârii Consiliului local al comunei Bezdead nr. 83/17.12.2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii casnici, pentru anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257504",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-14-2026",
+   "path": "local/dambovita/bezdead/2026/14",
+   "short": "HCL Bezdead nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 14/2026 privind aprobarea planului anual de acțiune privind serviciile sociale acordate în anul 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257505",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-15-2026",
+   "path": "local/dambovita/bezdead/2026/15",
+   "short": "HCL Bezdead nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 15/2026 privind aprobarea cererii de finanţare şi a cheltuielilor aferente pentru proiectul ,,ÎNFIINȚARE GRĂDINIȚĂ CU PROGRAM PRELUNGIT PRIN REABILITARE, CONSOLIDARE ȘI EXTINDERE CLĂDIRE P+1, SATUL MĂGURA, COMUNA BEZDEAD, JUD. DÂMBOVIȚA”",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/261847",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/261847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-18-2026",
+   "path": "local/dambovita/bezdead/2026/18",
+   "short": "HCL Bezdead nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 18/2026 privind aprobarea Regulamentului de ocupare temporară a domeniului public și privat al comunei și desfășurare de comerț stradal în comuna Bezdead",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/263560",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/263560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-19-2026",
+   "path": "local/dambovita/bezdead/2026/19",
+   "short": "HCL Bezdead nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 19/2026 privind extinderea rețelei de energie electrică în comuna Bezdead, județul Dâmbovița, zona DJ 715",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/263561",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/263561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-2-2026",
+   "path": "local/dambovita/bezdead/2026/2",
+   "short": "HCL Bezdead nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 2/2026 privind aprobarea volumului de masă lemnoasă ce se va exploata din pădurea și pășunea împădurită a comunei Bezdead în anul 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/252647",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/252647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-22-2026",
+   "path": "local/dambovita/bezdead/2026/22",
+   "short": "HCL Bezdead nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 22/2026 privind privind aprobarea reorganizării aparatului de specialitate al primarului comunei Bezdead și modificarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/264009",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/264009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-23-2026",
+   "path": "local/dambovita/bezdead/2026/23",
+   "short": "HCL Bezdead nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 23/2026 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Bezdead, județul Dâmbovița",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/266213",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/266213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-24-2026",
+   "path": "local/dambovita/bezdead/2026/24",
+   "short": "HCL Bezdead nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 24/2026 privind execuția bugetelor pe secțiuni la data de 31.03.2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/268929",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/268929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-25-2026",
+   "path": "local/dambovita/bezdead/2026/25",
+   "short": "HCL Bezdead nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 25/2026 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2025",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/268930",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/268930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-27-2026",
+   "path": "local/dambovita/bezdead/2026/27",
+   "short": "HCL Bezdead nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 27/2026 privind aprobarea situației economico-financiare a societății PRESTĂRI SERVICII PRIMAPREST COM BEZDEAD SRL, pe anul 2025",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/268932",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/268932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-28-2026",
+   "path": "local/dambovita/bezdead/2026/28",
+   "short": "HCL Bezdead nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 28/2026 privind aprobarea NORMELOR PROCEDURALE INTERNE privind achiziția publică de servicii din categoria celor cuprinse în Anexa nr. 2 la Legea achizițiilor publice nr. 98/2016, pentru aplicarea Hotărârii Guvernului nr. 1171/2025 privind instituirea Programului naţional \"Masă sănătoasă\", în anul 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/268933",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/268933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-29-2026",
+   "path": "local/dambovita/bezdead/2026/29",
+   "short": "HCL Bezdead nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 29/2026 privind aprobarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/268939",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/268939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-30-2026",
+   "path": "local/dambovita/bezdead/2026/30",
+   "short": "HCL Bezdead nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 30/2026 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiţie ,,MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA BEZDEAD, JUDEȚUL DÂMBOVIȚA”",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/274131",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/274131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-31-2026",
+   "path": "local/dambovita/bezdead/2026/31",
+   "short": "HCL Bezdead nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 31/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/274132",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/274132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-32-2026",
+   "path": "local/dambovita/bezdead/2026/32",
+   "short": "HCL Bezdead nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 32/2026 privind aprobarea bugetului de venituri si cheltuieli pe anul 2026 al PRESTĂRI SERVICII PRIMAPREST COM BEZDEAD SRL",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/274339",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/274339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-33-2026",
+   "path": "local/dambovita/bezdead/2026/33",
+   "short": "HCL Bezdead nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 33/2026 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2026 la nivelul comunei Bezdead, județul Dâmbovița",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/274340",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/274340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-35-2026",
+   "path": "local/dambovita/bezdead/2026/35",
+   "short": "HCL Bezdead nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 35/2026 privind aprobarea valorificării masei lemnoase din UA 3A, UA 3B și UA 8 de pe terenul proprietate privată a comunei Bezdead, judeţul Dâmboviţa",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/274342",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/274342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-36-2026",
+   "path": "local/dambovita/bezdead/2026/36",
+   "short": "HCL Bezdead nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 36/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/278582",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/278582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-37-2026",
+   "path": "local/dambovita/bezdead/2026/37",
+   "short": "HCL Bezdead nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 37/2026 privind organizarea evenimentului ,,Nunta de aur” – 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/278583",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/278583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-39-2026",
    "path": "local/dambovita/bezdead/2026/39",
    "short": "HCL Bezdead nr. 39/2026",
@@ -13,6 +373,21 @@
      "from": "2026-07-14",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/278585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-4-2026",
+   "path": "local/dambovita/bezdead/2026/4",
+   "short": "HCL Bezdead nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 4/2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/252649",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/252649",
      "sha256": null
     }
    ]
@@ -298,6 +673,51 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/294769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-7-2026",
+   "path": "local/dambovita/bezdead/2026/7",
+   "short": "HCL Bezdead nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 7/2026 privind modificarea Hotărârii Consiliului local al comunei Bezdead nr. 75/12.11.2025 privind aprobarea valorificării masei lemnoase din UA 1A, UA 1B și UA 4 de pe terenul proprietate privată a comunei Bezdead, judeţul Dâmboviţa",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/252652",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/252652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-8-2026",
+   "path": "local/dambovita/bezdead/2026/8",
+   "short": "HCL Bezdead nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 8/2026 privind aprobarea componenței Consiliului Consultativ din cadrul Căminului Cultural încadrat la art. 12 alin. (2) din Regulamentul de Organizare și Funcționare al așezămintelor culturale din Comuna Bezdead, județul Dâmbovița",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257499",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-9-2026",
+   "path": "local/dambovita/bezdead/2026/9",
+   "short": "HCL Bezdead nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 9/2026 privind aprobarea contractării de servicii juridice de consultanță, de asistență și de reprezentare",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/257500",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/257500",
      "sha256": null
     }
    ]

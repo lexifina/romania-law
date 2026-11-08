@@ -3,6 +3,50 @@
 "shard": "local/constanta/silistea/2025",
 "acts": [
 {
+"slug": "hcl-constanta--silistea-3-2025",
+"path": "local/constanta/silistea/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 3/2025 privind aprobarea situației terenurilor disponibile care pot fi atribuite în folosință gratuită potrivit Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+"short": "HCL Siliștea nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/190673",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--silistea-4-2025",
+"path": "local/constanta/silistea/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 4/2025 privind aprobarea Calendarului manifestărilor cultural-artistice, sportive, educative, sociale și religioase care se vor desfăşura în comuna Siliştea în anul 2025",
+"short": "HCL Siliștea nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/190674",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--silistea-46-2025",
 "path": "local/constanta/silistea/2025/46",
 "kind": "local",

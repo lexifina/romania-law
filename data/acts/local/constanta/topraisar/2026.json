@@ -3,6 +3,72 @@
 "shard": "local/constanta/topraisar/2026",
 "acts": [
 {
+"slug": "hcl-constanta--topraisar-18-2026",
+"path": "local/constanta/topraisar/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 18/2026 privind aprobarea Regulamentului de utilizare, funcționare și exploatare stații de reîncărcare a vehiculelor electrice din Comuna Topraisar",
+"short": "HCL Topraisar nr. 18/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-09",
+"latest": "2026-06-09",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/266827",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-19-2026",
+"path": "local/constanta/topraisar/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 19/2026 privind aprobarea înfiinţării Serviciului specializat pentru gestionarea câinilor fară stăpân la nivelul comunei Topraisar, a Regulamentului privind organizarea și funcționarea acestuia, a Studiului de oportunitate și a Caietului de sarcini privind delegarea de gestiune a serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+"short": "HCL Topraisar nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-09",
+"latest": "2026-06-09",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/266828",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-21-2026",
+"path": "local/constanta/topraisar/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 21/2026 privind aprobarea bugetului local al comunei Topraisar pentru anul 2026",
+"short": "HCL Topraisar nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-09",
+"latest": "2026-06-09",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/266830",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--topraisar-23-2026",
 "path": "local/constanta/topraisar/2026/23",
 "kind": "local",

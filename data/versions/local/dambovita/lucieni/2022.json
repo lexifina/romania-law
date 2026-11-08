@@ -856,6 +856,21 @@
      "sha256": "90bed16f77b4d454acd69a03afab1ba87398138da1a4bae4a058f247688fe04d"
     }
    ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-90-2022",
+   "path": "local/dambovita/lucieni/2022/90",
+   "short": "HCL Lucieni nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 90/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0a9592369575d480c0f74f9d88c5992adb5c7646d0c11ad6accf013125c583af"
+    }
+   ]
   }
  ]
 }

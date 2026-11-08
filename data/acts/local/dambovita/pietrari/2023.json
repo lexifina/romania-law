@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-dambovita--pietrari-44-2023",
+"path": "local/dambovita/pietrari/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 44/2023 privind stabilirea impozitului pe miiloacele de transport marfa cu masa totall autorizatilegall sau mai mare de 12 tone, pentru anul2024 Consiliul local al comunei Pietrari judetul Dambovita intrunit in sedinta ordinara astazj fi ll i 25.r0.2023",
+"short": "HCL Pietrari nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/11/HOTARARE-44.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

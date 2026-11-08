@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ciocanesti/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-10-2021",
+   "path": "local/dambovita/ciocanesti/2021/10",
+   "short": "HCL Ciocănești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 10/2021 privind aprobarea Regulamentului de Organizare și Funcționare, Regulamentul privind conduita socială a utilizatorilor și angajaților bibliotecii în raport cu prevederile răspândirii SARSCOV 2, Programul de activitate pe anul 2021, Strategia activității pe anul 2021, Raportul de activitate pe anul 2020, Calendarul Evenimentelor Social-Culturale pe anul 2021, Indicatorii orientativi pentru biblioteca comunală Ciocănești, Consiliul Științific Consultativ și Programul de lucru al Bibliotecii Comunale Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/21800",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/21800",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-11-2021",
    "path": "local/dambovita/ciocanesti/2021/11",
    "short": "HCL Ciocănești nr. 11/2021",
@@ -133,6 +148,21 @@
      "from": "2021-04-20",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-2-2021",
+   "path": "local/dambovita/ciocanesti/2021/2",
+   "short": "HCL Ciocănești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 2/2021 privind stabilirea și aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru anul 2021",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/20789",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/20789",
      "sha256": null
     }
    ]
@@ -298,6 +328,21 @@
      "from": "2021-06-25",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-5-2021",
+   "path": "local/dambovita/ciocanesti/2021/5",
+   "short": "HCL Ciocănești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 5/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente 'Programului pentru Școli al României'' pentru anul școlar 2021-2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/20792",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/20792",
      "sha256": null
     }
    ]

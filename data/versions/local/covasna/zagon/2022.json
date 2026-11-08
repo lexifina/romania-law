@@ -3,6 +3,126 @@
  "shard": "local/covasna/zagon/2022",
  "acts": [
   {
+   "slug": "hcl-covasna--zagon-12-2022",
+   "path": "local/covasna/zagon/2022/12",
+   "short": "HCL Zagon nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 12/2022 privind aprobarea Strategiei de dezvoltare a serviciilor de gestionare a deșeurilor în județul Covasna",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/56860",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/56860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-14-2022",
+   "path": "local/covasna/zagon/2022/14",
+   "short": "HCL Zagon nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 14/2022 privind aprobarea cuantumului cotizației aferente comunei Zagon pentru anul 2022 în cadrul Asociației de Dezvoltare Intercomunitară „Sistem Integrat de Management al Deșeurilor în Județul Covasna”",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/56862",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/56862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-48-2022",
+   "path": "local/covasna/zagon/2022/48",
+   "short": "HCL Zagon nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 48/2022 privind aprobarea organizării Zilelor comunei Zagon în anul 2022, în perioada 16-17 Iulie 2022",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/86391",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/86391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-58-2022",
+   "path": "local/covasna/zagon/2022/58",
+   "short": "HCL Zagon nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 58/2022 privind instalarea unor indicatoare rutiere în comuna Zagon, județul Covasna",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/86414",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/86414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-59-2022",
+   "path": "local/covasna/zagon/2022/59",
+   "short": "HCL Zagon nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 59/2022 privind însușirea modificării și completarea inventarului bunurilor care aparțin domeniului public al comunei Zagon, județul Covasna",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/86415",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/86415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-61-2022",
+   "path": "local/covasna/zagon/2022/61",
+   "short": "HCL Zagon nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 61/2022 privind aprobarea solicitării prelungirii scrisorii de garanție pentru garantarea avansului proiectului: ”Extindere rețea de alimentare cu apă și apă uzată menajeră, sat Zagon, comuna Zagon, județul Covasna”",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/86417",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/86417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-62-2022",
+   "path": "local/covasna/zagon/2022/62",
+   "short": "HCL Zagon nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 62/2022 privind completarea HCL nr. 24/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 și stabilirea modului de valorificare a masei lemnoase",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/86418",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/86418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-75-2022",
+   "path": "local/covasna/zagon/2022/75",
+   "short": "HCL Zagon nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 75/2022 privind aprobarea proiectului „Dotarea și punerea în funcțiune a centrului de monitorizare în timp real a situației din Comuna Zagon și a sistemului de supraveghere a domeniului public” și participarea la Programul Național de Redresare și Reziliență, apelul de proiecte PNRR/2022/C10-Fondul local, Runda a-II-a",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/87305",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/87305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-77-2022",
    "path": "local/covasna/zagon/2022/77",
    "short": "HCL Zagon nr. 77/2022",

@@ -3,6 +3,50 @@
 "shard": "local/constanta/saligny/2025",
 "acts": [
 {
+"slug": "hcl-constanta--saligny-50-2025",
+"path": "local/constanta/saligny/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 50/2025 privind aprobarea și indexarea impozitelor și taxelor locale , precum și a taxelor speciale, pe anul 2026",
+"short": "HCL Saligny nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/211603",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-77-2025",
+"path": "local/constanta/saligny/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 77/2025 privind aprobarea Regulamentului intern privind supravegherea prin mijloace video și prelucrarea datelor cu caracter personal preluate și înregistrate în sistemul de monitorizare pin înregistrare video al Comunei Saligny, Județul Constanța",
+"short": "HCL Saligny nr. 77/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/213568",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--saligny-103-2025",
 "path": "local/constanta/saligny/2025/103",
 "kind": "local",

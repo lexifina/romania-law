@@ -3,6 +3,381 @@
  "shard": "local/dambovita/odobesti/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--odobesti-11-2021",
+   "path": "local/dambovita/odobesti/2021/11",
+   "short": "HCL Odobești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 11/2021 privind validarea Dispoziției primarului comunei Odobești nr.270/21.12.2020 pentru retificarea bugetului local al comunei Odobești în anul fiscal 2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30795",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-12-2021",
+   "path": "local/dambovita/odobesti/2021/12",
+   "short": "HCL Odobești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 12/2021 privind completarea inventarului bunurilor care alcătuiesc domeniul public al comunei Odobești, județul Dâmbovița",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30796",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-14-2021",
+   "path": "local/dambovita/odobesti/2021/14",
+   "short": "HCL Odobești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 14/2021 privind validarea Dispoziției primarului comunei Odobești nr.276/23.12.2020 pentru rectificarea bugetului local al comunei Odobești în anul fiscal 2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30798",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-17-2021",
+   "path": "local/dambovita/odobesti/2021/17",
+   "short": "HCL Odobești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 17/2021 privind aprobarea valorii investițiilor aferente UAT Comuna Odobești și participarea Consiliului Local al UAT Comuna Odobești la cofinanțarea ” Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dâmbovița, în perioada 2014-2020”",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30801",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-18-2021",
+   "path": "local/dambovita/odobesti/2021/18",
+   "short": "HCL Odobești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 18/2021 privind aprobarea Studiului de Fezabilitate pentru ”Proiectul regional de dezvoltare a infrasctructurii de apă și apă uzată în județul Dâmbovița, în perioada 2014-2020” precum și a indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30802",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-19-2021",
+   "path": "local/dambovita/odobesti/2021/19",
+   "short": "HCL Odobești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 19/2021 privind aprobarea Planului anual de evoluție a tarifelor conform rezultatelor Analizei Cost-Beneficiu pentru ”Proiectul regional de dezvoltare a infrasctructurii de apă și apă uzată în județul Dâmbovița, în perioada 2014-2020”",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30803",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-2-2021",
+   "path": "local/dambovita/odobesti/2021/2",
+   "short": "HCL Odobești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 2/2021 privind aprobarea proiectului ”Achiziționare echipamente TIC” în cadrul Programului Operațional Competitivitate (POC), Axa prioritară 2, Obiectiv specific OS 2.4. Acțiunea 2.3.3, apel de proiecte 2 și a cheltuielilor legate de aceasta",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30786",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-20-2021",
+   "path": "local/dambovita/odobesti/2021/20",
+   "short": "HCL Odobești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 20/2021 privind aprobarea documentației de urbanism PUZ pentru ”Proiectul regional de dezvoltare a infrasctructurii de apă și apă uzată în județul Dâmbovița, în perioada 2014-2020”",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30804",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-22-2021",
+   "path": "local/dambovita/odobesti/2021/22",
+   "short": "HCL Odobești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 22/2021 privind acordarea unor gratuități pe transportul public urban pentru persoanele cu handicap grav și acentuat, însoțitorilor și asistenților personali ai acestora din comuna Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30806",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-25-2021",
+   "path": "local/dambovita/odobesti/2021/25",
+   "short": "HCL Odobești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 25/2021 privind aprobarea Planului de Analiză și Acoperire a Riscurilor (PAAR) pentru comuna Odobești, județul Dâmbovița în anul 2021",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30809",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-26-2021",
+   "path": "local/dambovita/odobesti/2021/26",
+   "short": "HCL Odobești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 26/2021 privind aprobarea dezmembrării imobilului teren în suprafață de 6000 m.p. proprietate privată a comunei Odobești, înscris în Cartea Funciară nr. 70153, cu număr cadastral 70153",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30810",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-27-2021",
+   "path": "local/dambovita/odobesti/2021/27",
+   "short": "HCL Odobești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 27/2021 privind aprobarea contului anual de execuție bugetară pe anul 2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30811",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-28-2021",
+   "path": "local/dambovita/odobesti/2021/28",
+   "short": "HCL Odobești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 28/2021 privind aprobarea bugetului local al comunei Odobești pe anul 2021",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30812",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-29-2021",
+   "path": "local/dambovita/odobesti/2021/29",
+   "short": "HCL Odobești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 29/2021 privind aprobarea indexării impozitelor și taxelor locale, pentru anul 2022 cu rata inflației de 2,6%",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30813",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-3-2021",
+   "path": "local/dambovita/odobesti/2021/3",
+   "short": "HCL Odobești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 3/2021 privind validarea Dispoziției primarului comunei Odobești nr.1/04.01.2021 privind acoperirea definitivă, din excedentul bugetului local, a deficitului secțiunii de dezvoltare pe anul 2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30787",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-30-2021",
+   "path": "local/dambovita/odobesti/2021/30",
+   "short": "HCL Odobești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 30/2021 privind aprobarea înființării serviciului de iluminat public și stabilirea formei de gestiune a serviciului de iluminat public la nivelul comunei Odobești, județul Dâmbovița",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30814",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-31-2021",
+   "path": "local/dambovita/odobesti/2021/31",
+   "short": "HCL Odobești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 31/2021 privind aprobarea participării Comunei Odobești la Proiectul ”Servicii de calitate în comunitate-sprijin pentru o creștere durabilă și incluzivă a comunităților din Odobești/Dâmbovița și Ploiești, finanțat prin Programul Operațional Capital Uman 2014-2020, apel de proiecte POCU/476/4/18 Servicii sociale și socio-profesionale la nivelul comunității pentru copii și tineri",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30815",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-33-2021",
+   "path": "local/dambovita/odobesti/2021/33",
+   "short": "HCL Odobești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 33/2021 privind aprobarea Manualului de proceduri aferent serviciului social ”Centrul de zi pentru copil și familie”CONCORDIA-Odobești”, Cod 8891 CZ-C-II, în cadrul proiectului ”Servicii de calitate în comunitate-sprijin pentru o creștere durabilă și incluziva a comunităților din Odobești/Dâmvovița și Ploiești” POCU 20104-2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30817",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-35-2021",
+   "path": "local/dambovita/odobesti/2021/35",
+   "short": "HCL Odobești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 35/2021 privind aprobarea dezmembrării imobilului teren în suprafață de 1349 m.p., proprietate privată a comunei Odobești, înscris în Cartea Funciară nr.70846, cu număr cadastral 70846",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30819",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-37-2021",
+   "path": "local/dambovita/odobesti/2021/37",
+   "short": "HCL Odobești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 37/2021 privind validarea Dispoziției primarului comunei Odobești nr.134/2021 privind rectificarea bugetului local al comunei Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30821",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-38-2021",
+   "path": "local/dambovita/odobesti/2021/38",
+   "short": "HCL Odobești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 38/2021",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30822",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-4-2021",
+   "path": "local/dambovita/odobesti/2021/4",
+   "short": "HCL Odobești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 4/2021 privind aprobarea execuției bugetare pe secțiunea funcționare și secțiunea dezvoltare a bugetului local la 30.09.2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30788",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-5-2021",
+   "path": "local/dambovita/odobesti/2021/5",
+   "short": "HCL Odobești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 5/2021 privind aprobarea execuției bugetare pe secțiunea funcționare și secțiunea dezvoltare a bugetului local la 31.12.2020",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30789",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-56-2021",
+   "path": "local/dambovita/odobesti/2021/56",
+   "short": "HCL Odobești nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 56/2021 privind punerea la dispoziția proiectului „Sistem informațional pentru managementul integrat al apelor-etapa II”, dezvoltat de către Administrația Națională ”Apele Romane” a terenului pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/47796",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/47796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-6-2021",
+   "path": "local/dambovita/odobesti/2021/6",
+   "short": "HCL Odobești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 6/2021 privind aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru anul 2021",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30790",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30790",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-60-2021",
    "path": "local/dambovita/odobesti/2021/60",
    "short": "HCL Odobești nr. 60/2021",
@@ -148,6 +523,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/odobesti-db/registru-hcl/51591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-7-2021",
+   "path": "local/dambovita/odobesti/2021/7",
+   "short": "HCL Odobești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 7/2021 privind stabilirea și aprobarea cotizației comunei Odobești către Asociația de Dezvoltare Intercomunitară ” MAnagement Integrat al Deșeurilor în județul Dâmbovița”, pentru anul 2021",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/30791",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/30791",
      "sha256": null
     }
    ]

@@ -3,6 +3,138 @@
 "shard": "local/constanta/topraisar/2023",
 "acts": [
 {
+"slug": "hcl-constanta--topraisar-2-2023",
+"path": "local/constanta/topraisar/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 2/2023 privind aprobarea execuției bugetului local pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2022",
+"short": "HCL Topraisar nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/87709",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-4-2023",
+"path": "local/constanta/topraisar/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 4/2023 privind aprobarea bugetului local al comunei Topraisar pentru anul 2023",
+"short": "HCL Topraisar nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/87711",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-20-2023",
+"path": "local/constanta/topraisar/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 20/2023 privind înființarea Serviciu Public Comunitar Local de Evidență a Persoanelor Topraisar prin reorganizarea compartimentului de stare civilă",
+"short": "HCL Topraisar nr. 20/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/97462",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-31-2023",
+"path": "local/constanta/topraisar/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 31/2023 privind aprobarea participării comunei Topraisar la Programul privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu",
+"short": "HCL Topraisar nr. 31/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/101391",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-32-2023",
+"path": "local/constanta/topraisar/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 32/2023 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2024",
+"short": "HCL Topraisar nr. 32/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/101392",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-43-2023",
+"path": "local/constanta/topraisar/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 43/2023 privind aprobarea derularii Programului INDEXUL ANIMALELOR in comuna TOPRAISAR in colaborare cu Asociatia pentru Supravegherea si Protectia Animalelor IVETS – ASPA IVETS",
+"short": "HCL Topraisar nr. 43/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/110002",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--topraisar-62-2023",
 "path": "local/constanta/topraisar/2023/62",
 "kind": "local",

@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ciocanesti/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-1-2025",
+   "path": "local/dambovita/ciocanesti/2025/1",
+   "short": "HCL Ciocănești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2025 privind aprobarea structurii rețelei școlare pentru anul școlar 2025-2026 din localitatea Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/189239",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/189239",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-24-2025",
    "path": "local/dambovita/ciocanesti/2025/24",
    "short": "HCL Ciocănești nr. 24/2025",
@@ -298,6 +313,36 @@
      "from": "2026-02-18",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/243986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-6-2025",
+   "path": "local/dambovita/ciocanesti/2025/6",
+   "short": "HCL Ciocănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/193665",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/193665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-7-2025",
+   "path": "local/dambovita/ciocanesti/2025/7",
+   "short": "HCL Ciocănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici, pentru anul 2025, în comuna Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/193666",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/193666",
      "sha256": null
     }
    ]

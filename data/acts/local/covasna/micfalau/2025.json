@@ -3,6 +3,50 @@
 "shard": "local/covasna/micfalau/2025",
 "acts": [
 {
+"slug": "hcl-covasna--micfalau-14-2025",
+"path": "local/covasna/micfalau/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 14/2025 Privind aprobarea Regulamentului de Organizare și Funcționare și Regulamentului de ordine internă a aparatului de specialitate al primarului comunei Micfalău, județul Covasna Consiliul local al comunei Micfalău, județul Covasna Întrunit în ședința sa ordinară din data de 19.02.2025, Analizând Referatul de specialitate și proiectul de hotărâre inițiate de primarul comunei Micfalău privind aprobarea",
+"short": "HCL Micfalău nr. 14/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-31-2025",
+"path": "local/covasna/micfalau/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 31/2025 NR.31/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Micfalău nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-covasna--micfalau-34-2025",
 "path": "local/covasna/micfalau/2025/34",
 "kind": "local",

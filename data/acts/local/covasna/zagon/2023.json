@@ -3,6 +3,116 @@
 "shard": "local/covasna/zagon/2023",
 "acts": [
 {
+"slug": "hcl-covasna--zagon-18-2023",
+"path": "local/covasna/zagon/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 18/2023 privind înființarea și delegarea gestiunii prin concesiune a Serviciului de gestionare a câinilor fără stăpân din comuna Zagon, județul Covasna",
+"short": "HCL Zagon nr. 18/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/129436",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-23-2023",
+"path": "local/covasna/zagon/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 23/2023 privind aprobarea modificării statului de funcții al aparatului de specialitae al Primarului comunei Zagon, județul Covasna",
+"short": "HCL Zagon nr. 23/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/129444",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-34-2023",
+"path": "local/covasna/zagon/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 34/2023 privind aprobarea Strategiei de dezvoltare locală a Comunei Zagon, județul Covasna, pentru perioada 2021-2027",
+"short": "HCL Zagon nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/129499",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-49-2023",
+"path": "local/covasna/zagon/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 49/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Refacere podeț Păpăuți și 2 punți pietonale Zagon, în comuna Zagon, Județul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Zagon nr. 49/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-03",
+"latest": "2023-07-03",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/207301",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-59-2023",
+"path": "local/covasna/zagon/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 59/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Refacere podeț Păpăuți și 2 punți pietonale Zagon, în Comuna Zagon, județul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului”",
+"short": "HCL Zagon nr. 59/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/204556",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-covasna--zagon-60-2023",
 "path": "local/covasna/zagon/2023/60",
 "kind": "local",

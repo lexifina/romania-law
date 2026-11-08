@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ciocanesti/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-1-2024",
+   "path": "local/dambovita/ciocanesti/2024/1",
+   "short": "HCL Ciocănești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2024 privind aprobarea structurii rețelei școlare pentru anul școlar 2024-2025 din localitatea Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/141506",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/141506",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-14-2024",
    "path": "local/dambovita/ciocanesti/2024/14",
    "short": "HCL Ciocănești nr. 14/2024",
@@ -298,6 +313,66 @@
      "from": "2024-12-16",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/182068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-4-2024",
+   "path": "local/dambovita/ciocanesti/2024/4",
+   "short": "HCL Ciocănești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 4/2024 privind aprobarea bugetului general centralizat al U.A.T Comuna Ciocănești pe anul 2024 și estimări pentru anii 2025-2027",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/143076",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/143076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-6-2024",
+   "path": "local/dambovita/ciocanesti/2024/6",
+   "short": "HCL Ciocănești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2024 privind aprobarea Regulamentului de Organizare și Funcționare, Programul de activitate pe anul 2024, Strategia activității pe anul 2024, Raportul de activitate pe anul 2023, Calendarul Evenimentelor Social-Culturale pe anul 2024, Indicatori orientativi pentru biblioteca comunală Ciocănești, Consiliul Științific Consultativ și Programul de lucru al Bibliotecii Comunale Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/151602",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/151602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-7-2024",
+   "path": "local/dambovita/ciocanesti/2024/7",
+   "short": "HCL Ciocănești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2024 privind aprobarea Regulamentului și a taxelor aferente procedurii de eliberare a acordului/autorizației de funcționare persoanelorfizice autorizate, și juridice care deșfășoară activități de comercializare a produselor și serviciilor de piață în zone comerciale, zone publice sau zone destinate folosinței publice aflate pe raza Unității Administrativ-Teritorială a Comunei Ciocănești, județul Dâmbovița și a taxelor aferente acestora",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/151593",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/151593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-8-2024",
+   "path": "local/dambovita/ciocanesti/2024/8",
+   "short": "HCL Ciocănești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 8/2024 privind aprobarea Planului de acțiuni de interes local în vederea repartizării orelor de muncă persoanelor apte de muncă, beneficiare de ajutor social, conform Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2024",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/151594",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/151594",
      "sha256": null
     }
    ]

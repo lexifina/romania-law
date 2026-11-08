@@ -3,6 +3,141 @@
  "shard": "local/constanta/targusor/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--targusor-10-2025",
+   "path": "local/constanta/targusor/2025/10",
+   "short": "HCL Târgușor nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 10/2025 privind aprobarea Înființării serviciilor de educație timpurie complementare ca structură a unităților de învățământ cu personalitate juridică cu grupe de nivel preșcolar și/sau antepreșcolar în comuna Târgușor județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/193699",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/193699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-11-2025",
+   "path": "local/constanta/targusor/2025/11",
+   "short": "HCL Târgușor nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 11/2025 privind aprobarea bugetului local de venituri și cheltuieli și a listei de investiții, ale Consiliului Local al comunei Târgușor, județul Constanța, pe anul 2025",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/199724",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/199724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-12-2025",
+   "path": "local/constanta/targusor/2025/12",
+   "short": "HCL Târgușor nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 12/2025 privind aprobarea constituirii și utilizării fondului de rezervă bugetară aferent bugetului de venituri și cheltuieli al comunei Târgușor, județul Constanța, pe anul 2025",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/199725",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/199725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-14-2025",
+   "path": "local/constanta/targusor/2025/14",
+   "short": "HCL Târgușor nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 14/2025 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție ” Modernizare tramă stradală în comuna Târgușor, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții ” Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/199727",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/199727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-15-2025",
+   "path": "local/constanta/targusor/2025/15",
+   "short": "HCL Târgușor nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 15/2025 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție ” Reparații și modernizare trotuare pe strada Constanței, comuna Târgușor, localitatea Târgușor, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții ” Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/199728",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/199728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-17-2025",
+   "path": "local/constanta/targusor/2025/17",
+   "short": "HCL Târgușor nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 17/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/201597",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/201597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-19-2025",
+   "path": "local/constanta/targusor/2025/19",
+   "short": "HCL Târgușor nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 19/2025 privind aprobarea bugetului local de venituri și cheltuieli rectificat, și a listei de investiții, rectificate, ale Consiliului Local al comunei Târgușor, județul Constanța, pe anul 2025",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/202771",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/202771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-20-2025",
+   "path": "local/constanta/targusor/2025/20",
+   "short": "HCL Târgușor nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 20/2025 privind aprobarea bugetului local de venituri și cheltuieli, rectificat, și a listei de investiții, rectificate, ale Consiliului Local al comunei Târgușor, județul Constanța, pe anul 2025",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/208880",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/208880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-25-2025",
+   "path": "local/constanta/targusor/2025/25",
+   "short": "HCL Târgușor nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 25/2025 privind aprobarea planului anual de acțiune privind serviciile sociale administrate și/sau finanțate de la bugetul local al Consiliului Local al comunei Târgușor, județul Constanța, pentru anul 2025",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/213403",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/213403",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-27-2025",
    "path": "local/constanta/targusor/2025/27",
    "short": "HCL Târgușor nr. 27/2025",
@@ -298,6 +433,36 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/242847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-5-2025",
+   "path": "local/constanta/targusor/2025/5",
+   "short": "HCL Târgușor nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 5/2025 privind aprobarea programului de acțiuni comunitare, pentru anul 2025",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/188788",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/188788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-9-2025",
+   "path": "local/constanta/targusor/2025/9",
+   "short": "HCL Târgușor nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 9/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2025 – 2029, a Planului Local de acţiune în domeniul serviciilor sociale, precum și a Procedurii de identificare a situaţiilor de risc de separare a copiilor de părinţi şi a monitorizării situației familiilor cu copii în situație de risc și a copiilor separați de părinți, la nivelul Comunei Târgușor",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/193698",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/193698",
      "sha256": null
     }
    ]

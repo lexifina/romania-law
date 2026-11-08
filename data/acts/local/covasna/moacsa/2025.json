@@ -3,6 +3,50 @@
 "shard": "local/covasna/moacsa/2025",
 "acts": [
 {
+"slug": "hcl-covasna--moacsa-4-2025",
+"path": "local/covasna/moacsa/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 4/2025 privind aprobarea solicitării de trecere din domeniul public al Județului Covasna și din administrarea Consiliului județean Covasna în domeniul public al comunei Moacșa și în administrarea Consiliului local al Comunei Moacșa a unui microbuz electric achiziționat în cadrul proiectului \"Achiziționare de microbuze electrice pentru elevi în județul Covasna\" finanțat prin Programul Național de Redresare și Reziliență",
+"short": "HCL Moacșa nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/202479",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-5-2025",
+"path": "local/covasna/moacsa/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 5/2025 privind înscriere a datelor în registrul agricol pentru trimestrul ll al anului 2024 și a stabilirii măsurilor pentru eficientizarea acestei activități, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Moacșa nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/202480",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-covasna--moacsa-7-2025",
 "path": "local/covasna/moacsa/2025/7",
 "kind": "local",

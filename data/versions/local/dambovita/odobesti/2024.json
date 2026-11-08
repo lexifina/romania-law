@@ -3,6 +3,201 @@
  "shard": "local/dambovita/odobesti/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--odobesti-1-2024",
+   "path": "local/dambovita/odobesti/2024/1",
+   "short": "HCL Odobești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 1/2024 privind aprobarea bugetului local al comunei Odobești, județul Dâmbovița pe anul 2024",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155267",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-10-2024",
+   "path": "local/dambovita/odobesti/2024/10",
+   "short": "HCL Odobești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 10/2024 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Odobești la dfata de 31.12.2023",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155276",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-11-2024",
+   "path": "local/dambovita/odobesti/2024/11",
+   "short": "HCL Odobești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 11/2024 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru perioada 01.07.2023 - 31.12.2023",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155277",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-15-2024",
+   "path": "local/dambovita/odobesti/2024/15",
+   "short": "HCL Odobești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 15/2024",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155288",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-16-2024",
+   "path": "local/dambovita/odobesti/2024/16",
+   "short": "HCL Odobești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 16/2024",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155289",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-17-2024",
+   "path": "local/dambovita/odobesti/2024/17",
+   "short": "HCL Odobești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 17/2024",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155290",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-19-2024",
+   "path": "local/dambovita/odobesti/2024/19",
+   "short": "HCL Odobești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 19/2024 privind acordul pentru participarea Comunei Odobești la elaborarea, depunerea și implementarea proiectului ”Finanțarea bibliotecilor pentru a devenit hub-uri de dezvoltare a competențelor digitale” finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155292",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-2-2024",
+   "path": "local/dambovita/odobesti/2024/2",
+   "short": "HCL Odobești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 2/2024",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155268",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-3-2024",
+   "path": "local/dambovita/odobesti/2024/3",
+   "short": "HCL Odobești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 3/2024 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2024 pentru persoanele beneficiare de venit minim de incluziune acordat în baza Legii nr. 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155269",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-36-2024",
+   "path": "local/dambovita/odobesti/2024/36",
+   "short": "HCL Odobești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 36/2024 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Odobești la data de 30.06.2024",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/187421",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/187421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-38-2024",
+   "path": "local/dambovita/odobesti/2024/38",
+   "short": "HCL Odobești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 38/2024 privind aprobarea participării comunei Odobești, județul Dâmbovița, în cadrul ”Programului Incluziune și Demnitate Socială 2021-2027”, Prioritate: P05. Reducerea disparităților dintre copiii la risc de sărăcie și/sau excluziune socială și ceilalți copii, pentru depunerea proiectului „Servicii comunitare pentru copii și familii în vederea prevenirii separării și în vederea susținerii reintegrării în familie a copiilor proveniți din sistemul de protecție specială”",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/187423",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/187423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-39-2024",
+   "path": "local/dambovita/odobesti/2024/39",
+   "short": "HCL Odobești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 39/2024 privind aprobarea participării comunei Odobești, județul Dâmbovița, în cadrul ”Programului Incluziune și Demnitate Socială 2021-2027”, Prioritate: P05. Reducerea disparităților dintre copii la risc de sărăcie și/sau excluziune socială și ceilalți copii, pentru depunerea proiectului „Servicii comunitare pentru copii și familii în vederea prevenirii separării și în vederea susținerii reintegrării în familie a copiilor proveniți din sistemul de protecție specială”",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/187426",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/187426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-41-2024",
+   "path": "local/dambovita/odobesti/2024/41",
+   "short": "HCL Odobești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 41/2024 privind anularea dobânzilor, penalităților și al tuturor accesoriilor aferente obligațiilor bugetare principale cu scadențe anterioare datei de 31 august 2024 inclusiv, datorate bugetului local de către persoanele fizice și juridice care au calitatea de contribuabili la bugetul local al comunei Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/187428",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/187428",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-44-2024",
    "path": "local/dambovita/odobesti/2024/44",
    "short": "HCL Odobești nr. 44/2024",
@@ -298,6 +493,36 @@
      "from": "2025-06-25",
      "units": 1,
      "source_url": "https://emol.ro/odobesti-db/registru-hcl/213659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-7-2024",
+   "path": "local/dambovita/odobesti/2024/7",
+   "short": "HCL Odobești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 7/2024 privind aprobarea Regulamentului de decontare a cheltuielilor de transport între localitatea de domiciliu/reședință și localitatea unde se află locul de muncă pentru funcționarii publici și personalul contractual din cadrul apartului de specialitate al primarului comunei Odobești",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155273",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-9-2024",
+   "path": "local/dambovita/odobesti/2024/9",
+   "short": "HCL Odobești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 9/2024 privind aprobarea solicitării de trecere a imobilului „Circumscripție Sanitar veterinară” și a terenului aferent din domeniul privat al statului în domeniul privat al comunei Odobești, județul Dâmbovița",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/155275",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/155275",
      "sha256": null
     }
    ]

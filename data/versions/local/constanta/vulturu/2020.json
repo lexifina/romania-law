@@ -3,6 +3,201 @@
  "shard": "local/constanta/vulturu/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--vulturu-10-2020",
+   "path": "local/constanta/vulturu/2020/10",
+   "short": "HCL Vulturu nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 10/2020 privind rectificarea bugetului local al comunei Vulturu pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5946",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-11-2020",
+   "path": "local/constanta/vulturu/2020/11",
+   "short": "HCL Vulturu nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 11/2020 privind organizarea reţelei şcolare a unităţilor de învăţământ aflate pe raza teritorială a comunei Vulturu care vor functiona în anul şcolar 2020-2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5947",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-12-2020",
+   "path": "local/constanta/vulturu/2020/12",
+   "short": "HCL Vulturu nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 12/2020 privind stabilirea nivelurilor impozitelor si taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5948",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-14-2020",
+   "path": "local/constanta/vulturu/2020/14",
+   "short": "HCL Vulturu nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 14/2020 privind aprobarea Contului de încheiere a exerciţiului bugetar şi a Situaţiilor financiare anuale pentru anul 2019",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5950",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-15-2020",
+   "path": "local/constanta/vulturu/2020/15",
+   "short": "HCL Vulturu nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 15/2020 privind aprobarea contului de execuţie bugetară pentru trimestrul I al anului 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5951",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-16-2020",
+   "path": "local/constanta/vulturu/2020/16",
+   "short": "HCL Vulturu nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 16/2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5952",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-18-2020",
+   "path": "local/constanta/vulturu/2020/18",
+   "short": "HCL Vulturu nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 18/2020 privind aprobarea documentaţiei tehnico-economice aferentă obiectivului de investitie „REABILITAREA RETELEI DE ALIMENTARE CU APĂ, STRADA EROILOR, COMUNA VULTURU, JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5954",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-19-2020",
+   "path": "local/constanta/vulturu/2020/19",
+   "short": "HCL Vulturu nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 19/2020 privind rectificarea bugetului local al comunei Vulturu pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5955",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-20-2020",
+   "path": "local/constanta/vulturu/2020/20",
+   "short": "HCL Vulturu nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 20/2020 privind dezlipirea unui imobil teren în suprafată de 1.013 mp, situat în comuna Vulturu, str. Vasile Pârvan, nr. 1B, judeţul Constanta, aflat în domeniul privat al Unitătii Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5956",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-21-2020",
+   "path": "local/constanta/vulturu/2020/21",
+   "short": "HCL Vulturu nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 21/2020 privind rectificarea bugetului local al comunei Vulturu pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5957",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-22-2020",
+   "path": "local/constanta/vulturu/2020/22",
+   "short": "HCL Vulturu nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 22/2020 privind aprobarea contului de execuție bugetară pentru trimestrul II al anului 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/11042",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/11042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-23-2020",
+   "path": "local/constanta/vulturu/2020/23",
+   "short": "HCL Vulturu nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 23/2020 privind rectificarea bugetului local al comunei Vulturu pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/11043",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/11043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-24-2020",
+   "path": "local/constanta/vulturu/2020/24",
+   "short": "HCL Vulturu nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 24/2020 privind delegarea temporară a gestiunii serviciului de salubrizare la nivelul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/11044",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/11044",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-25-2020",
    "path": "local/constanta/vulturu/2020/25",
    "short": "HCL Vulturu nr. 25/2020",
@@ -228,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--vulturu-4-2020",
+   "path": "local/constanta/vulturu/2020/4",
+   "short": "HCL Vulturu nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 4/2020 privind aprobarea contului de execuţie bugetară pentru trimestrul IV al anului 2019",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5940",
+   "versions": [
+    {
+     "from": "2020-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5940",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-40-2020",
    "path": "local/constanta/vulturu/2020/40",
    "short": "HCL Vulturu nr. 40/2020",
@@ -298,6 +508,51 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-5-2020",
+   "path": "local/constanta/vulturu/2020/5",
+   "short": "HCL Vulturu nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 5/2020 privind aprobarea bugetului local al comunei Vulturu pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5941",
+   "versions": [
+    {
+     "from": "2020-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-8-2020",
+   "path": "local/constanta/vulturu/2020/8",
+   "short": "HCL Vulturu nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 8/2020 privind aprobarea întocmirii studiului de fezabilitate pentru realizarea obiectivului de investitie „Înființare rețea de alimentare și distribuție gaze naturale în comuna Vulturu, județul Constanța”",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5944",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-9-2020",
+   "path": "local/constanta/vulturu/2020/9",
+   "short": "HCL Vulturu nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 9/2020 privind rectificarea bugetului local al comunei Vulturu pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/5945",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/5945",
      "sha256": null
     }
    ]

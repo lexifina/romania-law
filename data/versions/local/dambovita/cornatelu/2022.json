@@ -3,6 +3,456 @@
  "shard": "local/dambovita/cornatelu/2022",
  "acts": [
   {
+   "slug": "hcl-dambovita--cornatelu-1-2022",
+   "path": "local/dambovita/cornatelu/2022/1",
+   "short": "HCL Cornățelu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 1/2022 privind aprobarea Regulamentului de autorizare și desfășurare a activităților comerciale pe raza comunei Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/47289",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/47289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-10-2022",
+   "path": "local/dambovita/cornatelu/2022/10",
+   "short": "HCL Cornățelu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 10/2022 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității financiar-contabile",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/50459",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/50459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-11-2022",
+   "path": "local/dambovita/cornatelu/2022/11",
+   "short": "HCL Cornățelu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 11/2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/50460",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/50460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-12-2022",
+   "path": "local/dambovita/cornatelu/2022/12",
+   "short": "HCL Cornățelu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 12/2022 privind aprobarea Raportului achiziţiilor publice pentru anul 2021",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55518",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-13-2022",
+   "path": "local/dambovita/cornatelu/2022/13",
+   "short": "HCL Cornățelu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 13/2022 privind aprobarea Programului de activitate pentru anul 2022 şi a Informării privind activitatea desfăşurată în anul 2021 ale Bibliotecii comunale „Cristache Georgescu” Cornăţelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55519",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-16-2022",
+   "path": "local/dambovita/cornatelu/2022/16",
+   "short": "HCL Cornățelu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 16/2022 privind aprobarea tipului, numărului și a cuantumului burselor ce se vor acorda elevilor din învățământul preuniversitar de stat la nivelul comunei Cornățelu, județul Dâmbovița, în anul școlar 2021-2022 - semestrul II",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55522",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-19-2022",
+   "path": "local/dambovita/cornatelu/2022/19",
+   "short": "HCL Cornățelu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 19/2022 privind înregistrarea UAT comuna Cornățelu, județul Dâmbovița în Sistemul național electronic de plată online a obligațiilor de plată către bugetul general consilidat, instalarea unui terminal de plată (POS), precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55525",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-2-2022",
+   "path": "local/dambovita/cornatelu/2022/2",
+   "short": "HCL Cornățelu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 2/2022 privind modificarea Hotărârii Consiliului Local Cornățelu nr. 12/31.03.2021 privind aprobarea proiectului ”Servicii de sănătate în Centrul Integrat Cornățelu”, comuna Cornățelu , județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/47290",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/47290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-20-2022",
+   "path": "local/dambovita/cornatelu/2022/20",
+   "short": "HCL Cornățelu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 20/2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55526",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-21-2022",
+   "path": "local/dambovita/cornatelu/2022/21",
+   "short": "HCL Cornățelu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 21/2022 privind validarea Dispoziției primarului nr. 61/21.03.2022 privind rectificarea bugetului local",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55527",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-22-2022",
+   "path": "local/dambovita/cornatelu/2022/22",
+   "short": "HCL Cornățelu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 22/2022 privind aprobarea indicatorilor tehnico-economici privind obiectivul ”Înființare sistem inteligent de distribuție gaze naturale în cadrul parteneriatului dintre comunele Dobra, Cornățelu, Bilciurești și Cojasca, județul Dâmbovița„ - obiectul comuna Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/55528",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/55528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-23-2022",
+   "path": "local/dambovita/cornatelu/2022/23",
+   "short": "HCL Cornățelu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 23/2022 privind aprobarea indicatorilor tehnico-economici privind obiectivul ”Înființare sistem inteligent de distribuție gaze naturale în cadrul parteneriatului dintre comunele Dobra, Cornățelu, Bilciurești și Cojasca, județul Dâmbovița„ - obiectul comuna Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/57692",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/57692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-25-2022",
+   "path": "local/dambovita/cornatelu/2022/25",
+   "short": "HCL Cornățelu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 25/2022 privind actualizarea Planului de Analiză și Acoperire a Riscurilor (PAAR) din zona de competență a Comitetului Local pentru Situații de Urgență al comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/58998",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/58998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-26-2022",
+   "path": "local/dambovita/cornatelu/2022/26",
+   "short": "HCL Cornățelu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 26/2022 privind aprobarea Convenției de colaborare între Consiliul Local Cornățelu și Societatea Națională de Cruce Roșie din România, filiala Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/58999",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/58999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-29-2022",
+   "path": "local/dambovita/cornatelu/2022/29",
+   "short": "HCL Cornățelu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 29/2022 privind stabillirea coeficienților de ierarhizare/grilei de salarizare/salariilor de baza pentru functionarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/59002",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/59002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-32-2022",
+   "path": "local/dambovita/cornatelu/2022/32",
+   "short": "HCL Cornățelu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 32/2022 privind aprobarea devizului general și a principalilor indicatori tehnico-economici ai obiectivului de investiții ”Modernizare străzi satele Corni și Alunișu, comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/60039",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/60039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-34-2022",
+   "path": "local/dambovita/cornatelu/2022/34",
+   "short": "HCL Cornățelu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 34/2022 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru semestrul I al anului 2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/62957",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/62957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-35-2022",
+   "path": "local/dambovita/cornatelu/2022/35",
+   "short": "HCL Cornățelu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 35/2022 privind stabilirea domeniilor serviciilor publice și locurilor în care persoanele care au săvârșit infracțiuni sau persoanele care au fost sancționate contravențional și care vor presta muncă neremunerată în folosul comunității, ca obligație stabilită de instanța de judecată",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/62958",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/62958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-36-2022",
+   "path": "local/dambovita/cornatelu/2022/36",
+   "short": "HCL Cornățelu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 36/2022 privind validarea Dispoziției primarului nr. 95/25.05.2022 privind rectificarea bugetului local",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/62959",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/62959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-39-2022",
+   "path": "local/dambovita/cornatelu/2022/39",
+   "short": "HCL Cornățelu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 39/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/67015",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/67015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-4-2022",
+   "path": "local/dambovita/cornatelu/2022/4",
+   "short": "HCL Cornățelu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 4/2022 privind validarea dispoziției primarului comunei Cornățelu nr. 3 din 06.01.2022 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2021",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/48286",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/48286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-40-2022",
+   "path": "local/dambovita/cornatelu/2022/40",
+   "short": "HCL Cornățelu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 40/2022 privind aprobarea completării Registrului Agricol pentru perioada 2020 - 2024, în format electronic",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/67016",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/67016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-42-2022",
+   "path": "local/dambovita/cornatelu/2022/42",
+   "short": "HCL Cornățelu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 42/2022 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Asfaltare și modernizare DC 42 Slobozia-Călugăreni, comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/67018",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/67018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-44-2022",
+   "path": "local/dambovita/cornatelu/2022/44",
+   "short": "HCL Cornățelu nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 44/2022 privind organizarea și desfășurarea pazei obiectivelor, bunurilor și valorilor și protecția persoanelor în perioada 2022 - 2024 în comuna Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/70352",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/70352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-45-2022",
+   "path": "local/dambovita/cornatelu/2022/45",
+   "short": "HCL Cornățelu nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 45/2022 privind aprobarea cererii de finanțare și devizul general pentru obiectivul de investiții ”Construire pod rutier peste parâul Ilfov, sat Bolovani, comuna Cornățelu, județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/70353",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/70353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-48-2022",
+   "path": "local/dambovita/cornatelu/2022/48",
+   "short": "HCL Cornățelu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 48/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/71489",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/71489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-49-2022",
+   "path": "local/dambovita/cornatelu/2022/49",
+   "short": "HCL Cornățelu nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 49/2022 privind aprobarea Nomenclatorului Arhivistic al documentelor de arhivă create la nivelul Consiliul Local Cornățelu și a aparatului de specialitate al primarului comunei Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/74320",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/74320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-5-2022",
+   "path": "local/dambovita/cornatelu/2022/5",
+   "short": "HCL Cornățelu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 5/2022 privind aprobarea contului de execuție al bugetului local pentru trimestrul IV al anului 2021",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/48287",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/48287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-50-2022",
+   "path": "local/dambovita/cornatelu/2022/50",
+   "short": "HCL Cornățelu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 50/2022 privind aprobarea modalității de identificare a beneficiarilor de stimulent educațional pentru copiii proveniți din familii defavorizate",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/74321",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/74321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-52-2022",
+   "path": "local/dambovita/cornatelu/2022/52",
+   "short": "HCL Cornățelu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 52/2022 privind reactualizarea Programului achizițiilor publice pentru anul 2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/76761",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/76761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-53-2022",
    "path": "local/dambovita/cornatelu/2022/53",
    "short": "HCL Cornățelu nr. 53/2022",
@@ -103,6 +553,21 @@
      "from": "2022-11-09",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/78982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-6-2022",
+   "path": "local/dambovita/cornatelu/2022/6",
+   "short": "HCL Cornățelu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 6/2022 privind aprobarea Planului de acţiuni şi lucrări de interes local pentru anul 2022 în conformitate cu dispoziţiile Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/48288",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/48288",
      "sha256": null
     }
    ]
@@ -258,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-7-2022",
+   "path": "local/dambovita/cornatelu/2022/7",
+   "short": "HCL Cornățelu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 7/2022 privind scoaterea din funcțiune, casarea și valorificarea unor mijloace fixe și obiecte de inventar",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/48289",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/48289",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-70-2022",
    "path": "local/dambovita/cornatelu/2022/70",
    "short": "HCL Cornățelu nr. 70/2022",
@@ -298,6 +778,36 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/83971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-8-2022",
+   "path": "local/dambovita/cornatelu/2022/8",
+   "short": "HCL Cornățelu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 8/2022 privind aprobarea Programului achizițiilor publice pentru anul 2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/50457",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/50457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-9-2022",
+   "path": "local/dambovita/cornatelu/2022/9",
+   "short": "HCL Cornățelu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 9/2022 privind aprobarea bugetului local pe anul 2022 și a estimărilor pentru anii 2023-2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/50458",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/50458",
      "sha256": null
     }
    ]

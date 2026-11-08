@@ -3,6 +3,72 @@
 "shard": "local/constanta/pestera/2022",
 "acts": [
 {
+"slug": "hcl-constanta--pestera-28-2022",
+"path": "local/constanta/pestera/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 28/2022 privind aprobarea burselor școlare ce se atribuie elevilor de la Școala Gimnazială nr.1 Peștera în semestrul al II-lea, an școlar 2021-2022",
+"short": "HCL Peștera nr. 28/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/82919",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-38-2022",
+"path": "local/constanta/pestera/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 38/2022 privind aprobarea obiectivului de investiție „ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE MEDIE PRESIUNE ȘI RACORDURI GAZE NATURALE ÎN COMUNA PEEȘTERA, SATELE PEȘTERA, IZVORU MARE, IVRINEZU MIC ȘI IVRINEZU MARE”",
+"short": "HCL Peștera nr. 38/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/82941",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-48-2022",
+"path": "local/constanta/pestera/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 48/2022 privind însușirea acordului de cooperare privind organizarea și exercitarea activității de audit public intern din data de 15.02.2019",
+"short": "HCL Peștera nr. 48/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/82989",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--pestera-83-2022",
 "path": "local/constanta/pestera/2022/83",
 "kind": "local",

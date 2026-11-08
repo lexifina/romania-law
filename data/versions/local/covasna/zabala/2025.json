@@ -3,6 +3,126 @@
  "shard": "local/covasna/zabala/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--zabala-13-2025",
+   "path": "local/covasna/zabala/2025/13",
+   "short": "HCL Zăbala nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 13/2025 privind modificarea și completarea Hotărârii de Consiliului Local al comunei Zăbala nr.36/2020 cu privire la delegarea gestiunii activității de gestionare a câinilor fără stăpân din comuna Zăbala",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234606",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-17-2025",
+   "path": "local/covasna/zabala/2025/17",
+   "short": "HCL Zăbala nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 17/2025 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului Național Masă Sănătoasă",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234616",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-19-2025",
+   "path": "local/covasna/zabala/2025/19",
+   "short": "HCL Zăbala nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 19/2025 privind aprobarea participării comunei Zăbala, județul Covasna, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234618",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-32-2025",
+   "path": "local/covasna/zabala/2025/32",
+   "short": "HCL Zăbala nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 32/2025",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234665",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-34-2025",
+   "path": "local/covasna/zabala/2025/34",
+   "short": "HCL Zăbala nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 34/2025 privind darea în folosinţă gratuită a imobilului ce aparţine domeniului public al Comunei Zăbala, în suprafaţă de 56,04 mp, situat în comuna Zăbala, nr.481, ap.1, jud.Covasna, către Asociaţia Culturală „ZA-NOSZ” identificat cu Cod fiscal nr.50903382",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234667",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-36-2025",
+   "path": "local/covasna/zabala/2025/36",
+   "short": "HCL Zăbala nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 36/2025 privind aprobarea Ghidului Solicitantului, a Metodologiei Generale privind regimul finanțărilor nerambursabile din fondurile locale ale comunei Zăbala, alocate pentru activități nonprofit de interes local și a Regulamentului special al finanțărilor nerambursabile pentru asociații cultural civice inclusiv criteriile specifice de selecționare și constituirea comisiei de evaluare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234669",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-37-2025",
+   "path": "local/covasna/zabala/2025/37",
+   "short": "HCL Zăbala nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 37/2025 privind aprobarea Ghidului Solicitantului, a Metodologiei Generale privind regimul finanțărilor nerambursabile din fondurile locale ale comunei Zăbala, alocate pentru activități nonprofit de interes local, culte religioase și a Regulamentului special al finanțărilor nerambursabile, inclusiv criteriile specifice de selecționare, și constituirea comisiei de evaluare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234670",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-38-2025",
+   "path": "local/covasna/zabala/2025/38",
+   "short": "HCL Zăbala nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 38/2025 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „ Construire pod peste pârâul Zăbala, în comuna Zăbala, judeţul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234671",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234671",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zabala-49-2025",
    "path": "local/covasna/zabala/2025/49",
    "short": "HCL Zăbala nr. 49/2025",
@@ -13,6 +133,21 @@
      "from": "2025-10-10",
      "units": 1,
      "source_url": "https://emol.ro/zabala-cv/registru-hcl/243214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-5-2025",
+   "path": "local/covasna/zabala/2025/5",
+   "short": "HCL Zăbala nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 5/2025 privind modificarea hotărârii consiliului local al comunei Zăbala nr.4/2021 privind constituirea Comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al unitatii administrativ-teritoriale Comuna Zăbala, Jud.Covasna",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/234598",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/234598",
      "sha256": null
     }
    ]

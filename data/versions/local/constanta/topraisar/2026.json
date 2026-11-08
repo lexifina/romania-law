@@ -3,6 +3,51 @@
  "shard": "local/constanta/topraisar/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--topraisar-18-2026",
+   "path": "local/constanta/topraisar/2026/18",
+   "short": "HCL Topraisar nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 18/2026 privind aprobarea Regulamentului de utilizare, funcționare și exploatare stații de reîncărcare a vehiculelor electrice din Comuna Topraisar",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/266827",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/266827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-19-2026",
+   "path": "local/constanta/topraisar/2026/19",
+   "short": "HCL Topraisar nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 19/2026 privind aprobarea înfiinţării Serviciului specializat pentru gestionarea câinilor fară stăpân la nivelul comunei Topraisar, a Regulamentului privind organizarea și funcționarea acestuia, a Studiului de oportunitate și a Caietului de sarcini privind delegarea de gestiune a serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/266828",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/266828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-21-2026",
+   "path": "local/constanta/topraisar/2026/21",
+   "short": "HCL Topraisar nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 21/2026 privind aprobarea bugetului local al comunei Topraisar pentru anul 2026",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/266830",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/266830",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--topraisar-23-2026",
    "path": "local/constanta/topraisar/2026/23",
    "short": "HCL Topraisar nr. 23/2026",

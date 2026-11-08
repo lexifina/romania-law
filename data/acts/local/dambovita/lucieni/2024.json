@@ -659,6 +659,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--lucieni-89-2024",
+"path": "local/dambovita/lucieni/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 89/2024",
+"short": "HCL Lucieni nr. 89/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-92-2024",
 "path": "local/dambovita/lucieni/2024/92",
 "kind": "local",

@@ -3,6 +3,21 @@
  "shard": "local/dambovita/lucieni/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--lucieni-100-2023",
+   "path": "local/dambovita/lucieni/2023/100",
+   "short": "HCL Lucieni nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 100/2023 privind aprobarea Regulamentului pentru stabilirea metodologiei cadru de atribuire a terenurilor în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#62556",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24XOoZnnZ2L8aE1.53/lZB3upgi/3ZkDkB1AAP95HGCoHGjODfr8hpa/3009",
+     "sha256": "1c7e7e0437c09a79c4756f3f854a149a76407573185188a6113ec20c272c27b9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-101-2023",
    "path": "local/dambovita/lucieni/2023/101",
    "short": "HCL Lucieni nr. 101/2023",
@@ -389,6 +404,21 @@
      "units": 1,
      "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ouzoGozG43syjo8yRDbSLusfCMudsle2/q1c7u.57PGWfxQ.YpkCu/3009",
      "sha256": "6c09572ea39a0f3fe4212c029b61ff7cbedade1ef1b5d5fc357b20f016ad2c3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-74-2023",
+   "path": "local/dambovita/lucieni/2023/74",
+   "short": "HCL Lucieni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 74/2023 privind aprobarea scutirii de majorări și penalități de întârziere pentru persoanele fizice care achită integral debitele datorate către bugetul local până la data de 31.12.2023",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#59042",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%242FORoZt5ZmxOSp2djhKux.pW0uvCISaXIxL5RpxY0talmsKqlmMJW/3009",
+     "sha256": "6f5a34f4859668ce85680d2ffa57ba90de40805f7db434c7a87f355f6c66a2c2"
     }
    ]
   },

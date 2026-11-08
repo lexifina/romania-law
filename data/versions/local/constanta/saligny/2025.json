@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-50-2025",
+   "path": "local/constanta/saligny/2025/50",
+   "short": "HCL Saligny nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 50/2025 privind aprobarea și indexarea impozitelor și taxelor locale , precum și a taxelor speciale, pe anul 2026",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/211603",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/211603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-77-2025",
+   "path": "local/constanta/saligny/2025/77",
+   "short": "HCL Saligny nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 77/2025 privind aprobarea Regulamentului intern privind supravegherea prin mijloace video și prelucrarea datelor cu caracter personal preluate și înregistrate în sistemul de monitorizare pin înregistrare video al Comunei Saligny, Județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/213568",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/213568",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

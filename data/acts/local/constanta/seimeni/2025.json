@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/constanta/seimeni/2025",
+"acts": [
+{
+"slug": "hcl-constanta--seimeni-16-2025",
+"path": "local/constanta/seimeni/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 16/2025 Privind aprobarea indicatorilor și devizului general privind cheltuielile necesare realizări documentației de urbanism ,,Actualizare Plan Urbanistic General și Regulament Local de Urbanism comuna Seimeni, județul Constanța” Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 844/20.02.2025 a primarului comunei Seimeni, în calitatea sa de inițiator; b) Raportul de specialitate al co",
+"short": "HCL Seimeni nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/03/HCL-nr.-16-din-21.02.2025.pdf",
+"council": "constanta/seimeni",
+"council_name": "Consiliul Local al Comunei Seimeni",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--seimeni-23-2025",
+"path": "local/constanta/seimeni/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 23/2025 Privind instituirea taxei speciale de emitere a avizului de oportunitate în vederea elaborării de planuri urbanistice zonale Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 1728/07.04.2025 a primarului comunei Seimeni, în calitatea sa de inițiator; b) Raportul de specialitate al compartimentului de resort din cadrul primăriei comunei Seimeni, înregistrat sub nr. 1729/07.04.2025",
+"short": "HCL Seimeni nr. 23/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/06/HCL-nr.-23-din-30.04.2025.pdf",
+"council": "constanta/seimeni",
+"council_name": "Consiliul Local al Comunei Seimeni",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--seimeni-53-2025",
+"path": "local/constanta/seimeni/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 53/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul comunei Seimeni, județul Constanța, pentru anul 2026 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 7596/24.11.2025 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul compartimentului de resort din cadrul aparatului de specialitate al primarului comunei Seimeni, înreg",
+"short": "HCL Seimeni nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/01/HCL-nr.-53-din-17.12.2025.pdf",
+"council": "constanta/seimeni",
+"council_name": "Consiliul Local al Comunei Seimeni",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

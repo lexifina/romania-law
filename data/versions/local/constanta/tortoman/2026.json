@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-7-2026",
+   "path": "local/constanta/tortoman/2026/7",
+   "short": "HCL Tortoman nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 7/2026 Privind aprobarea indicatorilor tehnico-economici și a devizului general aferente studiilor de fundamentare și a serviciilor privind actualizarea Planului Urbanistic General (PUG) și a Regulamentului Local de Urbanism (RLU) al comunei Tortoman, județ Constanta",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/266877",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/266877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-8-2026",
+   "path": "local/constanta/tortoman/2026/8",
+   "short": "HCL Tortoman nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 8/2026 PRIVIND INSUSIREA UNOR BUNURI IMOBILE TEREN NEPRODUCTIV , DRUMURI DE EXPLOATARE SI PASUNE, DE PE RAZA COMUNEI TORTOMAN, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/266878",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/266878",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

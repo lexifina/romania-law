@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Dobârlău nr. 13/2026 privind aprobarea achizitionării serviciilor juridice pentru apărarea intereselor comunei Dobârlău precum și ale autorităților administrației publice locale din comuna Dobârlău în dosarul nr.781/248/2025, faza procesuală apel
+
+HCL Dobârlău nr. 13/2026 · 1 versions, from 2026-07-31 (latest in force: 2026-07-31) · <https://emol.ro/dobarlau-cv/registru-hcl/281534>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-covasna--dobarlau-13-2026` (tags `hcl-covasna--dobarlau-13-2026/<day>`; `python tools/on.py <day> hcl-covasna--dobarlau-13-2026`).
+
+## Decisions made by hand
+
+- HCL Dobârlău nr. 13/2026: listed from Consiliul Local al Comunei Dobârlău (emol.ro); metadata only for now: no document of it is held.
+- HCL Dobârlău nr. 13/2026: dated from 31 July 2026, the day the council's register gives it as published (adopted 19 February 2026).
+- HCL Dobârlău nr. 13/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

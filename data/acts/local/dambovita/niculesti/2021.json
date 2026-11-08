@@ -3,6 +3,116 @@
 "shard": "local/dambovita/niculesti/2021",
 "acts": [
 {
+"slug": "hcl-dambovita--niculesti-1-2021",
+"path": "local/dambovita/niculesti/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 1/2021 privind aprobarea execuţiei bugetare pe trimestrul IV al anului 2020 a bugetului local, a bugetului instituţiilor publice finanţate din venituri proprii ţi subvenţii de la bugetul local și a bugetului creditelor interne",
+"short": "HCL Niculești nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31719",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-3-2021",
+"path": "local/dambovita/niculesti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 3/2021 privind însușirea Raportului de evaluare a imobilizărilor corporale cuprinse în patrimoniul public și privat al comunei Niculești la data de 31.12.2020",
+"short": "HCL Niculești nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31721",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-5-2021",
+"path": "local/dambovita/niculesti/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 5/2021 privind adoptarea Planului de actiuni si lucrari de interes local pentru anul 2021,, ce urmeaza a fi realizat de beneficiarii Legii 416/2001",
+"short": "HCL Niculești nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31723",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-9-2021",
+"path": "local/dambovita/niculesti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 9/2021 privind includerea în domeniul public al comunei Niculești a suprafetei de teren de 3500 mp situată în T 26/1, P 76/1, nr. cadastral 73523",
+"short": "HCL Niculești nr. 9/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31728",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--niculesti-14-2021",
+"path": "local/dambovita/niculesti/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Niculești nr. 14/2021 privind aprobarea documentaţiei P.U.Z- INSTALATIE DE DISTRIBUTIE SI ALIMENTARE GPL LA AUTOVEHICULE TIP SKID, Comuna Niculesti, sat Niculesti T 16, P 7, judet Dâmbovita",
+"short": "HCL Niculești nr. 14/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/niculesti-db/registru-hcl/31733",
+"council": "dambovita/niculesti",
+"council_name": "Consiliul Local al Comunei Niculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dambovita--niculesti-21-2021",
 "path": "local/dambovita/niculesti/2021/21",
 "kind": "local",

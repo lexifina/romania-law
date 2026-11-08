@@ -3,6 +3,72 @@
 "shard": "local/constanta/topraisar/2025",
 "acts": [
 {
+"slug": "hcl-constanta--topraisar-3-2025",
+"path": "local/constanta/topraisar/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 3/2025 privind aprobarea execuției bugetului local pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2024",
+"short": "HCL Topraisar nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/197592",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-18-2025",
+"path": "local/constanta/topraisar/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 18/2025 privind aprobarea bugetului local al comunei Topraisar pentru anul 2025",
+"short": "HCL Topraisar nr. 18/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/197607",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--topraisar-22-2025",
+"path": "local/constanta/topraisar/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 22/2025 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2026",
+"short": "HCL Topraisar nr. 22/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/topraisar-ct/registru-hcl/201990",
+"council": "constanta/topraisar",
+"council_name": "Consiliul Local al Comunei Topraisar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--topraisar-41-2025",
 "path": "local/constanta/topraisar/2025/41",
 "kind": "local",

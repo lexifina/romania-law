@@ -241,6 +241,21 @@
      "sha256": "2ef7f1fa3d612189a64b1ffc8a94c2b6981606a509e702d389eaa82f298ca968"
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-7-2026",
+   "path": "local/constanta/seimeni/2026/7",
+   "short": "HCL Seimeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 7/2026 Privind modificarea și completarea Hotărârii Consiliului Local al comunei Seimeni nr. 53/17.12.2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul comunei Seimeni, județul Constanța, pentru anul 2026 Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 128/14.01.2026 a primarului comunei Seimeni, ȋn calitatea sa de inițiator; b) raportul",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-7.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-7.pdf",
+     "sha256": "5a476ac34399c6e354b4797aef46b8e428b75a90584ba96cfa6a612c687d0e79"
+    }
+   ]
   }
  ]
 }

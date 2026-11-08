@@ -3,6 +3,72 @@
 "shard": "local/dambovita/ciocanesti/2025",
 "acts": [
 {
+"slug": "hcl-dambovita--ciocanesti-1-2025",
+"path": "local/dambovita/ciocanesti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2025 privind aprobarea structurii rețelei școlare pentru anul școlar 2025-2026 din localitatea Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/189239",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-6-2025",
+"path": "local/dambovita/ciocanesti/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici",
+"short": "HCL Ciocănești nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/193665",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-7-2025",
+"path": "local/dambovita/ciocanesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici, pentru anul 2025, în comuna Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/193666",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-24-2025",
 "path": "local/dambovita/ciocanesti/2025/24",
 "kind": "local",

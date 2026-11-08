@@ -3,6 +3,72 @@
 "shard": "local/dambovita/ciocanesti/2022",
 "acts": [
 {
+"slug": "hcl-dambovita--ciocanesti-11-2022",
+"path": "local/dambovita/ciocanesti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 11/2022 privind aprobarea tipului și a cuantumului burselor ce se vor acorda elevilor din învăţământul preuniversitar de stat la nivelul comunei Ciocănești, județul Dâmbovița, în anul școlar 2021 - 2022",
+"short": "HCL Ciocănești nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74259",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-14-2022",
+"path": "local/dambovita/ciocanesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 14/2022 privind indexarea impozitelor și taxele locale, precum și taxele speciale aplicabile în anul fiscal 2023, ținând cont de rata inflației de 5,1%",
+"short": "HCL Ciocănești nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74273",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-18-2022",
+"path": "local/dambovita/ciocanesti/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 18/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Ciocănești nr. 18/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74324",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-24-2022",
 "path": "local/dambovita/ciocanesti/2022/24",
 "kind": "local",

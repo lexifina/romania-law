@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--doicesti-45-2025",
+   "path": "local/dambovita/doicesti/2025/45",
+   "short": "HCL Doicești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 45/2025 privind scutirea de la plata taxei de habitat cu destinatia speciala de salubrizare a persoanelor aflate in situatiile prevazute de art.485 din Legea nr. 227/2015 privind Codul fiscal CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizand: - Proiectul de hotarare privind scutirea de la plata taxei de habitat cu destinatia speciala de salubrizare a persoanelor aflate in situatiile prevazu",
+   "url": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.45-2025-scutire-tx.habitat-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.45-2025-scutire-tx.habitat-2025.pdf",
+     "sha256": "5d8b661f7130a9ddc723b2828aa394621ea05ab3bafe0355a1dbc73048489d85"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--doicesti-61-2025",
    "path": "local/dambovita/doicesti/2025/61",
    "short": "HCL Doicești nr. 61/2025",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-61-din-27.10.2025.pdf",
      "sha256": "c432301be1a54fdfb480f6b8980f06333d860abe286aa6616f7a09a5930cba03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-74-2025",
+   "path": "local/dambovita/doicesti/2025/74",
+   "short": "HCL Doicești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 74/2025 privind modificarea HCL nr. 22/29.04.2025 privind indexarea impozitelor si taxelor locale aferente anului 2026 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -proiectul de hotărâre privind modificarea HCL nr. 22/29.04.2025 privind indexarea impozitelor si taxelor locale aferente anului 2026, înregistrat la nr. 52/20.10.2025; inițiator primarul comunei; Având în vedere: -referatu",
+   "url": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-74-din-26.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-74-din-26.11.2025.pdf",
+     "sha256": "65c976f6006f5c0e9633e28f101829912688906f7ce71856599cb6066e54390d"
     }
    ]
   }

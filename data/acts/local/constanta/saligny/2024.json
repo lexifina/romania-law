@@ -3,6 +3,116 @@
 "shard": "local/constanta/saligny/2024",
 "acts": [
 {
+"slug": "hcl-constanta--saligny-20-2024",
+"path": "local/constanta/saligny/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 20/2024 privind acordarea unui stimulent financiar pentru tinerii căsătoriți din bugetul local al comunei Saligny pe anul 2024, jud. Constanța",
+"short": "HCL Saligny nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/148623",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-21-2024",
+"path": "local/constanta/saligny/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 21/2024 privind acordarea a unui stimulent financiar pentru nou –născuți din bugetul local pe anul 2024 al Comunei Saligy, jud. Constanța",
+"short": "HCL Saligny nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/148624",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-22-2024",
+"path": "local/constanta/saligny/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 22/2024 privind acordarea sumei de 3.000 lei, net/familie din bugetul local al comunei Saligny pe anul 2024 ca premiu de fidelitate şi câte o diplomă „ DIPLOMĂ DE FIDELITATE”, pentru fiecare familie care domiciliază în comuna Saligny şi care a împlinit 50 de ani de căsătorie neîntreruptă",
+"short": "HCL Saligny nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/148625",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-23-2024",
+"path": "local/constanta/saligny/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 23/2024 privind aprobarea achiziţionării serviciilor de consultanţă, asistenţă şi reprezentare juridică în faţa instanţelor de judecată şi a instituţiilor şi organismelor cu care Primăria Comunei Saligny relaţionează , în vederea apărării intereselor Comunei Saligny, ale Consiliului Local Saligny şi ale Primarului Comunei Saligny",
+"short": "HCL Saligny nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/148626",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-32-2024",
+"path": "local/constanta/saligny/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 32/2024 privind aprobarea și indexarea impozitelor și taxelor locale ,precum și a taxelor speciale, pe anul 2025",
+"short": "HCL Saligny nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-09",
+"latest": "2024-04-09",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/150372",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--saligny-84-2024",
 "path": "local/constanta/saligny/2024/84",
 "kind": "local",

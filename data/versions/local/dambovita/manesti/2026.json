@@ -3,6 +3,231 @@
  "shard": "local/dambovita/manesti/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--manesti-1-2026",
+   "path": "local/dambovita/manesti/2026/1",
+   "short": "HCL Mănești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 1/2026 privind validarea dispoziţiei primarului comunei Mănești primarului nr.01/08.01.2025 pentru acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2025, în sumă de 921.995,64 lei, din excedentul bugetului local al anilor precedenți",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252341",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-10-2026",
+   "path": "local/dambovita/manesti/2026/10",
+   "short": "HCL Mănești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 10/2026 privind însușirea Raportului de activitate pe anul 2025, aprobarea Programului de activitate pentru anul 2026 şi Graficul de activităţi propuse pentru 2026, ale bibliotecii comunale Măneşti, judeţul Dâmboviţa",
+   "url": "https://emol.ro/manesti-db/registru-hcl/257903",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/257903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-13-2026",
+   "path": "local/dambovita/manesti/2026/13",
+   "short": "HCL Mănești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 13/2026 privind modificarea si completarea prevederilor HCL nr. 06/26.01.2026 privind stabilirea şi aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2026 in cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266435",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-14-2026",
+   "path": "local/dambovita/manesti/2026/14",
+   "short": "HCL Mănești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 14/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266436",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-15-2026",
+   "path": "local/dambovita/manesti/2026/15",
+   "short": "HCL Mănești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 15/2026 privind acordarea de facilitati pentru persoanele cu handicap grav și accentuat și a reprezentanţilor legali, pe perioada în care au în îngrijire, supraveghere şi întreţinere persoane cu handicap grav si accentuat, precum și a valorilor impozabile a clădirilor, determinate în urma aplicării prevederilor alin. (1)-(6) din OUG.9/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266437",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-16-2026",
+   "path": "local/dambovita/manesti/2026/16",
+   "short": "HCL Mănești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 16/2026 privind aprobarea actualizării, proiectului tehnic de execuție pentru obiectivul de investiții “Noi capacitati de producere a energiei electrice produse din surse regenerabile pentru autoconsum la nivelul UAT Mănești”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266438",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-17-2026",
+   "path": "local/dambovita/manesti/2026/17",
+   "short": "HCL Mănești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 17/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266439",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-18-2026",
+   "path": "local/dambovita/manesti/2026/18",
+   "short": "HCL Mănești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 18/2026 privind încheierea unui acord de parteneriat între Comuna Mănești prin Consiliul local Mănești și Asociația Națională Cultul Eroilor ”Regina Maria ” - Filiala județeană ”Mihai Viteazul” Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266440",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-19-2026",
+   "path": "local/dambovita/manesti/2026/19",
+   "short": "HCL Mănești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 19/2026 privind aprobarea dării în folosință cu titlu gratuit a imobilului reprezentând Teren Sport Mănești, din domeniul public al comunei Mănești, înscris în CF nr. 78208, nr. cadastral 78208, în favoarea ACS Academia Targoviste",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266510",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-2-2026",
+   "path": "local/dambovita/manesti/2026/2",
+   "short": "HCL Mănești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 2/2026 privind aprobarea contului anual de execuție a bugetului local al comunei Mănești pentru anul 2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252342",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-20-2026",
+   "path": "local/dambovita/manesti/2026/20",
+   "short": "HCL Mănești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 20/2026 privind aplicarea noului număr maxim de posturi stabilit pentru UAT Comuna Mănești, conform OUG nr. 7/2026 și aprobarea reorganizării, a organigramei și a statului de funcții a aparatului de specialitate al Primarului Comunei Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266511",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-21-2026",
+   "path": "local/dambovita/manesti/2026/21",
+   "short": "HCL Mănești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 21/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266512",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-22-2026",
+   "path": "local/dambovita/manesti/2026/22",
+   "short": "HCL Mănești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 22/2026 privind execuția bugetului local al comunei Mănești, județul Dâmbovița pe cele două secțiuni în trimestrul I-2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266628",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-24-2026",
+   "path": "local/dambovita/manesti/2026/24",
+   "short": "HCL Mănești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 24/2026 privind aprobarea cererii de finanțare și a cheltuielilor aferente pentru proiectul intitulat: „Lucrări de modernizare, reabilitare, extindere, dotare, autorizare funcţionare pentru Grădiniţa cu program prelungit, împrejmuire, amenajări exterioare incintă și desfiinţare corpul C2 la GRĂDINIȚA Drăgăești-Ungureni, comuna Mănești, jud. Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266630",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-25-2026",
+   "path": "local/dambovita/manesti/2026/25",
+   "short": "HCL Mănești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 25/2026 privind aprobarea cererii de finanțare și a cheltuielilor aferente pentru proiectul intitulat: „ Lucrări de modernizare, reabilitare, autorizaţie de funcţionare pentru construcţia existentă, extindere, dotări, împrejmuire, amenajări exterioare incintă și desfiinţare corpurile C3, C4 şi C6 la ŞCOALA MĂNEŞTI, comuna Măneşti, jud. Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266645",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266645",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-26-2026",
    "path": "local/dambovita/manesti/2026/26",
    "short": "HCL Mănești nr. 26/2026",
@@ -58,6 +283,21 @@
      "from": "2026-06-08",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/269438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-3-2026",
+   "path": "local/dambovita/manesti/2026/3",
+   "short": "HCL Mănești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 3/2026 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului National „Masă sănătoasă“ în anul 2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252343",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252343",
      "sha256": null
     }
    ]
@@ -213,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-4-2026",
+   "path": "local/dambovita/manesti/2026/4",
+   "short": "HCL Mănești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 4/2026 privind aprobarea metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii casnici",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252344",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252344",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-40-2026",
    "path": "local/dambovita/manesti/2026/40",
    "short": "HCL Mănești nr. 40/2026",
@@ -298,6 +553,66 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/286580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-5-2026",
+   "path": "local/dambovita/manesti/2026/5",
+   "short": "HCL Mănești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 5/2026 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii noncasnici",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252345",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-6-2026",
+   "path": "local/dambovita/manesti/2026/6",
+   "short": "HCL Mănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 6/2026 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2026 în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252346",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-7-2026",
+   "path": "local/dambovita/manesti/2026/7",
+   "short": "HCL Mănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 7/2026 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2026 în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252347",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-8-2026",
+   "path": "local/dambovita/manesti/2026/8",
+   "short": "HCL Mănești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 8/2026 privind stabilirea și aprobarea cotizaţiei comunei MĂNEȘTI, județul Dâmbovița la Asociația de Dezvoltare Intercomunitară ”Management Integrat al Deșeurilor în județul Dâmbovița”, pentru anul 2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252348",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252348",
      "sha256": null
     }
    ]

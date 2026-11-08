@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/seimeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--seimeni-33-2023",
+   "path": "local/constanta/seimeni/2023/33",
+   "short": "HCL Seimeni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 33/2023 Privind completarea Hotărârii Consiliului Local al comunei Seimeni nr. 62/16.12.2022 privind stabilirea impozitelor și taxelor locale la nivelul comunei Seimeni, județul Constanța, pentru anul 2023 Având în vedere: a) proiectul de hotărâre și referatul de aprobare nr. 1741/05.04.2023 a primarului comunei Seimeni, ȋn calitatea sa de inițiator; b) raportul compartimentului de specialitate din cadrul",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/01/HCL-nr.-33-din-27.04.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/01/HCL-nr.-33-din-27.04.2023.pdf",
+     "sha256": "f3c5be5e170c889fe9989826599e8621211c193ef2c75df5e6cba860cf9c17b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-35-2023",
+   "path": "local/constanta/seimeni/2023/35",
+   "short": "HCL Seimeni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 35/2023 Privind aprobarea Regulamentului pentru stabilirea condițiilor de exercitare a dreptului de acces pe proprietatea publică sau privată a comunei Seimeni, în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, modul de utilizare patajată a elementelor de infrastructură, precum și măsurile priv",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/01/HCL-nr.-35-din-27.04.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/01/HCL-nr.-35-din-27.04.2023.pdf",
+     "sha256": "6b8392c7dc2982eef9f157d7b900c1829aef3e8ea3030315bcd19b9e80ee44d1"
+    }
+   ]
+  }
+ ]
+}
