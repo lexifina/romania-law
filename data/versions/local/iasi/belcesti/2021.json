@@ -198,6 +198,846 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-12-2021",
+   "path": "local/iasi/belcesti/2021/12",
+   "short": "HCL Belcești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 12/2021 privind alocare fonduri în vederea amenajării și dotării centrului de vaccinare împotriva COVID-19",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33274",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-13-2021",
+   "path": "local/iasi/belcesti/2021/13",
+   "short": "HCL Belcești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 13/2021 privind revizuirea, modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr. 41",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33275",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-14-2021",
+   "path": "local/iasi/belcesti/2021/14",
+   "short": "HCL Belcești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 14/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33276",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-15-2021",
+   "path": "local/iasi/belcesti/2021/15",
+   "short": "HCL Belcești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 15/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33277",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-17-2021",
+   "path": "local/iasi/belcesti/2021/17",
+   "short": "HCL Belcești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 17/2021 privind aprobarea consumului maxim lunar de carburanți pentru vehiculele și utilajele care deservesc Primăria comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33279",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-19-2021",
+   "path": "local/iasi/belcesti/2021/19",
+   "short": "HCL Belcești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 19/2021 privind aprobarea înființării asociației sportive, de drept public, denumită ''Asociația Club Sportiv Viitorul Belcești''",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33281",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-2-2021",
+   "path": "local/iasi/belcesti/2021/2",
+   "short": "HCL Belcești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 2/2021 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Belceşti pentru anul 2020",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/22321",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/22321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-21-2021",
+   "path": "local/iasi/belcesti/2021/21",
+   "short": "HCL Belcești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 21/2021 privind modificare HCL 43/2020 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul fiscal 2021 la nivel de comună Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33283",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-22-2021",
+   "path": "local/iasi/belcesti/2021/22",
+   "short": "HCL Belcești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 22/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33284",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-23-2021",
+   "path": "local/iasi/belcesti/2021/23",
+   "short": "HCL Belcești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 23/2021 privind aderarea comunei Belcești prin Consiuliul Local Belcești la Asociația de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33285",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-25-2021",
+   "path": "local/iasi/belcesti/2021/25",
+   "short": "HCL Belcești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 25/2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33287",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-26-2021",
+   "path": "local/iasi/belcesti/2021/26",
+   "short": "HCL Belcești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 26/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33288",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-27-2021",
+   "path": "local/iasi/belcesti/2021/27",
+   "short": "HCL Belcești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 27/2021 privind aprobarea listei de investiții a comunei Belcești pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33289",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-28-2021",
+   "path": "local/iasi/belcesti/2021/28",
+   "short": "HCL Belcești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 28/2021 privind aprobarea bugetului local al comunei Belcești pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33290",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-29-2021",
+   "path": "local/iasi/belcesti/2021/29",
+   "short": "HCL Belcești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 29/2021 privind aprobarea stațiilor publice pentru traseele care tranzitează comuna Belcești, pentru cursele județene regulate de transport persoane",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33291",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-3-2021",
+   "path": "local/iasi/belcesti/2021/3",
+   "short": "HCL Belcești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 3/2021 privind organizarea rețelei școlare de învățămant preuniversitar de stat din Comuna Belcești pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/22322",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/22322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-30-2021",
+   "path": "local/iasi/belcesti/2021/30",
+   "short": "HCL Belcești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 30/2021 privind aprobarea serviciilor publice de transport local al persoanelor prin curse regulate în comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33292",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-31-2021",
+   "path": "local/iasi/belcesti/2021/31",
+   "short": "HCL Belcești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 31/2021 privind aprobarea înființării Clubului Sportiv Viitorul Belcești, având următoarea denumire ''Club Sportiv Viitorul Belcești''",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33293",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-32-2021",
+   "path": "local/iasi/belcesti/2021/32",
+   "short": "HCL Belcești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 32/2021 privind revizuirea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33294",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-33-2021",
+   "path": "local/iasi/belcesti/2021/33",
+   "short": "HCL Belcești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 33/2021 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33295",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-35-2021",
+   "path": "local/iasi/belcesti/2021/35",
+   "short": "HCL Belcești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 35/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33297",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-37-2021",
+   "path": "local/iasi/belcesti/2021/37",
+   "short": "HCL Belcești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 37/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33299",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-38-2021",
+   "path": "local/iasi/belcesti/2021/38",
+   "short": "HCL Belcești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 38/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33300",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-39-2021",
+   "path": "local/iasi/belcesti/2021/39",
+   "short": "HCL Belcești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 39/2021 privind completarea HCL nr. 30/28.04.2021 privind aprobarea serviciilor publice de transport local al persoanelor prin curse regulate în comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33301",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-4-2021",
+   "path": "local/iasi/belcesti/2021/4",
+   "short": "HCL Belcești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 4/2021 privind aprobarea Regulamentului privind darea în administrare, concesionarea sau închirierea bunurilor aparținand domeniului privat al unității administrativ teritoriale ale Comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/22323",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/22323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-40-2021",
+   "path": "local/iasi/belcesti/2021/40",
+   "short": "HCL Belcești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 40/2021 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a Comunei Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33302",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-42-2021",
+   "path": "local/iasi/belcesti/2021/42",
+   "short": "HCL Belcești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 42/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2021-2022 în școlile din comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33304",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-44-2021",
+   "path": "local/iasi/belcesti/2021/44",
+   "short": "HCL Belcești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 44/2021 privind Regulamentul de Organizare și Funcționare al aparatului de specialitate al primarului comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33306",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-45-2021",
+   "path": "local/iasi/belcesti/2021/45",
+   "short": "HCL Belcești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 45/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33307",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-47-2021",
+   "path": "local/iasi/belcesti/2021/47",
+   "short": "HCL Belcești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 47/2021 privind darea în administrare, către Administrația Națională ''Apele Române'', a unei suprafețe de teren, aflate în domeniul public al comunei Belcești, pentru implementarea proiectului WATMAN - ''Sistem informațional pentru managementul integrat al apelor - etapa II''",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33309",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-49-2021",
+   "path": "local/iasi/belcesti/2021/49",
+   "short": "HCL Belcești nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 49/2021 privind modificarea bugetului local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33311",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-5-2021",
+   "path": "local/iasi/belcesti/2021/5",
+   "short": "HCL Belcești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 5/2021 privind modificarea art.10 alin. (2) și alin. (3) din Hotărârea Consiliului Local al comunei Belcești nr. 20 din 28.02.2020 pentru aprobarea închirierii pentru perioada de 7 ani, prin atribuire directă, a suprafeței de 1582,3989 ha pășune aflată în proprietatea privată a UAT comuna Belcești, județul Iași, a Regulamentului de pășunat pentru perioada 2019-2026, a caietului de sarcini, a Contractului-cadru de închiriere precum și stabilirea taxei de pășunat și contravaloarea caietului de sarcini",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/22324",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/22324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-50-2021",
+   "path": "local/iasi/belcesti/2021/50",
+   "short": "HCL Belcești nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 50/2021 privind modificarea listei de investiții a comunei Belcești pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33312",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-51-2021",
+   "path": "local/iasi/belcesti/2021/51",
+   "short": "HCL Belcești nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 51/2021 privind completare HCL 43/2020 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul fiscal 2021 la nivel de comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/33313",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/33313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-6-2021",
+   "path": "local/iasi/belcesti/2021/6",
+   "short": "HCL Belcești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 6/2021 privind aprobarea modificării taxei special de salubrizare pentru persoanele non-casnice și pentru agenții economici în anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/22325",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/22325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-67-2021",
+   "path": "local/iasi/belcesti/2021/67",
+   "short": "HCL Belcești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 67/2021 privind rectificarea bugetului local al Primariei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62851",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-68-2021",
+   "path": "local/iasi/belcesti/2021/68",
+   "short": "HCL Belcești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 68/2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62874",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-69-2021",
+   "path": "local/iasi/belcesti/2021/69",
+   "short": "HCL Belcești nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 69/2021 privind modificarea bugetului local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62875",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-70-2021",
+   "path": "local/iasi/belcesti/2021/70",
+   "short": "HCL Belcești nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 70/2021 privind modificarea listei de investiţi a comunei Belcești pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62876",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-73-2021",
+   "path": "local/iasi/belcesti/2021/73",
+   "short": "HCL Belcești nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 73/2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62879",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-75-2021",
+   "path": "local/iasi/belcesti/2021/75",
+   "short": "HCL Belcești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 75/2021 Privind aprobarea delegării gestiunii serviciului de transport public local de persoane prin curse regulate în comuna Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62881",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-76-2021",
+   "path": "local/iasi/belcesti/2021/76",
+   "short": "HCL Belcești nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 76/2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62949",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-77-2021",
+   "path": "local/iasi/belcesti/2021/77",
+   "short": "HCL Belcești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 77/2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62950",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-78-2021",
+   "path": "local/iasi/belcesti/2021/78",
+   "short": "HCL Belcești nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 78/2021 privind modificarea bugetului local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62951",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-79-2021",
+   "path": "local/iasi/belcesti/2021/79",
+   "short": "HCL Belcești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 79/2021 privind modificarea listei de investiţi a comunei Belcești pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62952",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-8-2021",
+   "path": "local/iasi/belcesti/2021/8",
+   "short": "HCL Belcești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 8/2021 privind aprobarea actualizării și completării Programului anual de achiziții publice pe anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/22327",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/22327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-80-2021",
+   "path": "local/iasi/belcesti/2021/80",
+   "short": "HCL Belcești nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 80/2021 Privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62953",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-81-2021",
+   "path": "local/iasi/belcesti/2021/81",
+   "short": "HCL Belcești nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 81/2021 privind aprobarea tarifelor tichetelor de calatorie valabile pe mijloacele de transport local al persoanelor ale comunei Belcesti",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62954",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-82-2021",
+   "path": "local/iasi/belcesti/2021/82",
+   "short": "HCL Belcești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 82/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat, prin Act Adițional",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62961",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-86-2021",
+   "path": "local/iasi/belcesti/2021/86",
+   "short": "HCL Belcești nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 86/2021 modificarea bugetului local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62987",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-87-2021",
+   "path": "local/iasi/belcesti/2021/87",
+   "short": "HCL Belcești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 87/2021 privind modificarea art. 3 la Hotărârea consiliului local al comunei Belcești nr. 14 din 30.04.2015",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62988",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-88-2021",
+   "path": "local/iasi/belcesti/2021/88",
+   "short": "HCL Belcești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 88/2021 privind completarea Programului anual al achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62989",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-89-2021",
+   "path": "local/iasi/belcesti/2021/89",
+   "short": "HCL Belcești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 89/2021 privind aprobarea devizului general pentru obiectivul de investiții Gradinita program normal Liteni, Belcești, jud. Iași - valoare aferenta acrivităților derulate de comuna Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62990",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-90-2021",
+   "path": "local/iasi/belcesti/2021/90",
+   "short": "HCL Belcești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 90/2021 privind închheierea unui contract de întreținere iluminat public",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62991",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-91-2021",
+   "path": "local/iasi/belcesti/2021/91",
+   "short": "HCL Belcești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 91/2021 privind alocare sume pentru 1 Decembrie și sărbătorile de irnă",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62992",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-92-2021",
+   "path": "local/iasi/belcesti/2021/92",
+   "short": "HCL Belcești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 92/2021 privind aprobarea Regulamentului de acordare a sporului pentru condiții de muncă, stabilirea locurilor de muncă și a categoriilor de personal pentru familia ocupașională de funcții bugetare Administrație, Cultură și Sănătate și Asistență Socială din cadrul aparatului de specialitate al primarului comunei Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62993",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62993",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-93-2021",
    "path": "local/iasi/belcesti/2021/93",
    "short": "HCL Belcești nr. 93/2021",

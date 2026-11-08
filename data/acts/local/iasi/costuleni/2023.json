@@ -3,6 +3,73 @@
 "shard": "local/iasi/costuleni/2023",
 "acts": [
 {
+"slug": "hcl-iasi--costuleni-8-2023",
+"path": "local/iasi/costuleni/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 8/2023",
+"short": "HCL Costuleni nr. 8/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/92673",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-12-2023",
+"path": "local/iasi/costuleni/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 12/2023 pentru aprobarea Regulamentului privind buna gospodărire a comunei Costuleni",
+"short": "HCL Costuleni nr. 12/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/97946",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-24-2023",
+"path": "local/iasi/costuleni/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 24/2023 privind aprobarea Strategiei de Dezvoltare a serviciilor publice de alimentare cu apă și de canalizare la nivelul ariei delegării, pentru perioada 2023-2028",
+"short": "HCL Costuleni nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/106893",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--costuleni-54-2023",
 "path": "local/iasi/costuleni/2023/54",
 "kind": "local",

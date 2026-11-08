@@ -18,6 +18,186 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bals-11-2021",
+   "path": "local/iasi/bals/2021/11",
+   "short": "HCL Balș nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 11/2021 privind aprobarea oportunității contractării unei firme de prestări servicii de cadastru și fond funciar",
+   "url": "https://emol.ro/bals-is/registru-hcl/27534",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-12-2021",
+   "path": "local/iasi/bals/2021/12",
+   "short": "HCL Balș nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 12/2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27535",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-16-2021",
+   "path": "local/iasi/bals/2021/16",
+   "short": "HCL Balș nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 16/2021 privind aprobarea numărului asistenților personali și încheierea contractelor individuale de muncă ale acestora în anul 2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27539",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-17-2021",
+   "path": "local/iasi/bals/2021/17",
+   "short": "HCL Balș nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 17/2021 privind aprobarea Programului de activități pentru beneficiarii Legii nr. 416/2001",
+   "url": "https://emol.ro/bals-is/registru-hcl/27540",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-21-2021",
+   "path": "local/iasi/bals/2021/21",
+   "short": "HCL Balș nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 21/2021 privind contul de execuție bugetară și a indicatorilor privind execuția bugetului local la data de 31.12.2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/27571",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-23-2021",
+   "path": "local/iasi/bals/2021/23",
+   "short": "HCL Balș nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 23/2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27573",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-27-2021",
+   "path": "local/iasi/bals/2021/27",
+   "short": "HCL Balș nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 27/2021 privind aprobarea anulării creanțelor datorate și neachitate de debitori mai mici de 40 lei, aflate în sold la data de 31.12.2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/27577",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-28-2021",
+   "path": "local/iasi/bals/2021/28",
+   "short": "HCL Balș nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 28/2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27578",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-29-2021",
+   "path": "local/iasi/bals/2021/29",
+   "short": "HCL Balș nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 29/2021 privind aprobarea scoaterii din evidențele fiscale ale Primăriei Comunei Balș, a sumelor de bani reprezentând amenzi contravenționale ale debitorilor decedați",
+   "url": "https://emol.ro/bals-is/registru-hcl/27579",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-3-2021",
+   "path": "local/iasi/bals/2021/3",
+   "short": "HCL Balș nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 3/2021 privind actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 40",
+   "url": "https://emol.ro/bals-is/registru-hcl/27526",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-30-2021",
+   "path": "local/iasi/bals/2021/30",
+   "short": "HCL Balș nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 30/2021 privind aprobarea numărului și a cuanumului burselor școlare aferente anului școlar 2021-2022 pentru lunile ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie, decembrie, pentru elevii din învățământul preuniveristar de stst, la nivelul Comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/27580",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-31-2021",
+   "path": "local/iasi/bals/2021/31",
+   "short": "HCL Balș nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 31/2021 privind aprobarea oportunității demarării procedurii de investiții pentru Proiect ''Înființare Sistem de Canalizare Comuna Balș, județul Iași''",
+   "url": "https://emol.ro/bals-is/registru-hcl/27581",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27581",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bals-36-2021",
    "path": "local/iasi/bals/2021/36",
    "short": "HCL Balș nr. 36/2021",
@@ -73,6 +253,21 @@
      "from": "2021-03-25",
      "units": 1,
      "source_url": "https://emol.ro/bals-is/registru-hcl/27611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-4-2021",
+   "path": "local/iasi/bals/2021/4",
+   "short": "HCL Balș nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 4/2021 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 48/2009",
+   "url": "https://emol.ro/bals-is/registru-hcl/27527",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27527",
      "sha256": null
     }
    ]
@@ -228,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bals-5-2021",
+   "path": "local/iasi/bals/2021/5",
+   "short": "HCL Balș nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 5/2021 privind validarea Dispoziției Primarului comunei Balș nr. 278 din 21.12.2020 privind modificarea bugetului local de venitui și cheltuieli pe trimestrul IV pentru anul 2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/27528",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bals-50-2021",
    "path": "local/iasi/bals/2021/50",
    "short": "HCL Balș nr. 50/2021",
@@ -313,6 +523,51 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/bals-is/registru-hcl/27657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-7-2021",
+   "path": "local/iasi/bals/2021/7",
+   "short": "HCL Balș nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 7/2021 privind organizarea rețelei școlare a unităților de învățământ preuniveristar de stat din comuna Balș, județul Iași, pentru anul 2021-2022",
+   "url": "https://emol.ro/bals-is/registru-hcl/27530",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-8-2021",
+   "path": "local/iasi/bals/2021/8",
+   "short": "HCL Balș nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 8/2021 privind actualizarea Programului anual de achiziții publice a comunei Balș, județul Iași pentru anul 2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27531",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-9-2021",
+   "path": "local/iasi/bals/2021/9",
+   "short": "HCL Balș nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 9/2021 privind aprobarea oportunității realizării obiectivului de investiții cu denumirea ''dezmembrare în două suprafețe a Parcului de Joacă și Recreere Viitorul Tineretului din comuna Balș, sat Boureni, județul Iași''",
+   "url": "https://emol.ro/bals-is/registru-hcl/27532",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27532",
      "sha256": null
     }
    ]

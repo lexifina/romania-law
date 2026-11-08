@@ -138,6 +138,396 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-49-2022",
+   "path": "local/iasi/ciortesti/2022/49",
+   "short": "HCL Ciortești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 49/2022 privind aprobarea graficului de ședință pentru trimestrul al III - lea 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/77953",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/77953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-50-2022",
+   "path": "local/iasi/ciortesti/2022/50",
+   "short": "HCL Ciortești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 50/2022 privind aprobarea cheltuielilor de dotare cu mobilier a obiectivului de investitii \"CONSTRUIRE SI DOTARE SEDIU PRIMARIE IN SATUL CIORTESTI, COMUNA CIORTESTI, JUDETUL IASI \"",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/77954",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/77954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-60-2022",
+   "path": "local/iasi/ciortesti/2022/60",
+   "short": "HCL Ciortești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 60/2022 privind aprobarea executiei bugetului local pe trimestrul al II - lea 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98677",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-61-2022",
+   "path": "local/iasi/ciortesti/2022/61",
+   "short": "HCL Ciortești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 61/2022 privind rectificarea bugetului local etapa august 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98678",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-62-2022",
+   "path": "local/iasi/ciortesti/2022/62",
+   "short": "HCL Ciortești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 62/2022 privind însușirea rezultatului reevaluării activelor fixe aflate în patrimoniul Comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98679",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-64-2022",
+   "path": "local/iasi/ciortesti/2022/64",
+   "short": "HCL Ciortești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 64/2022 privind aprobarea atribuirii unor loturi de teren în sat Șerbeșt, comuna Ciortești , județul Iași, pentru construirea unei locuințe proprietate personală în condițiile Legii nr. 15/2003",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98681",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-66-2022",
+   "path": "local/iasi/ciortesti/2022/66",
+   "short": "HCL Ciortești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 66/2022 privind aprobarea documentației tehnico-economică, proiect tehnic și detalii de execuție, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"Modernizare prin asfaltare a drumului comunal DC 69B și drumuri sătești din satul Șerbești, comuna Ciortești, județul Iași\", aprobat prin finanțare prin programul național de investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98683",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-67-2022",
+   "path": "local/iasi/ciortesti/2022/67",
+   "short": "HCL Ciortești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 67/2022 privind aprobarea documentației tehnico-economică, proiect tehnic, detalii de execuție și caiete de sarcini, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"Modernizare drumuri de interes local în comuna Ciortești, județul Iași\", aprobat prin finanțare prin programul național de investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98684",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-68-2022",
+   "path": "local/iasi/ciortesti/2022/68",
+   "short": "HCL Ciortești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 68/2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98685",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-69-2022",
+   "path": "local/iasi/ciortesti/2022/69",
+   "short": "HCL Ciortești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 69/2022 privind aprobarea realizării obiectivului de investiții \"Construire teren de sport în sat Șerbești, comuna Ciortești, județul Iași\" și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2021-2024",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/98686",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/98686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-70-2022",
+   "path": "local/iasi/ciortesti/2022/70",
+   "short": "HCL Ciortești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 70/2022 privind aprobarea delegării gestiunii Serviciului de iluminat public al Comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99029",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-71-2022",
+   "path": "local/iasi/ciortesti/2022/71",
+   "short": "HCL Ciortești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 71/2022 privind actualizarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al primarului comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99030",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-73-2022",
+   "path": "local/iasi/ciortesti/2022/73",
+   "short": "HCL Ciortești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 73/2022 privind introducerea unui teren intravilan situat în sat Rotăria conform PUG, în T14 , P201/10 în domeniul privat al Comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99032",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-74-2022",
+   "path": "local/iasi/ciortesti/2022/74",
+   "short": "HCL Ciortești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 74/2022 privind introducerea unor bunuri în domeniul public al Comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99033",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-75-2022",
+   "path": "local/iasi/ciortesti/2022/75",
+   "short": "HCL Ciortești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 75/2022 privind rectificarea bugetului local al Comunei Ciortești pentru etapa septembrie 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99034",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-76-2022",
+   "path": "local/iasi/ciortesti/2022/76",
+   "short": "HCL Ciortești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 76/2022 privind compleatrea HCL nr. 32din 12.05.2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului și a depunerii proiectului de investiții \"Realizarew piste de biciclete în comuna Ciortești, județul Iași\" în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99035",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-77-2022",
+   "path": "local/iasi/ciortesti/2022/77",
+   "short": "HCL Ciortești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 77/2022 privind implementarea proiectului \"EXTINDERE SISTEM DE ALIMENTARE CU APA ȘI CANALIZARE IN SAT COROPCENI, COMUNA CIORTEȘTI, JUDEȚUL IAȘI\" în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99036",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-78-2022",
+   "path": "local/iasi/ciortesti/2022/78",
+   "short": "HCL Ciortești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 78/2022 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"EXTINDERE SISTEM DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN SAT COROPCENI, COMUNA CIORTEȘTI, JUDEȚUL IAȘI\" în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99037",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-79-2022",
+   "path": "local/iasi/ciortesti/2022/79",
+   "short": "HCL Ciortești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 79/2022 privind rectificarea bugetului local al comunei Ciortesti pentru etapa octombrie și actualizarea listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99338",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-80-2022",
+   "path": "local/iasi/ciortesti/2022/80",
+   "short": "HCL Ciortești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 80/2022 privind aprobarea proeictului, a cheltuielilor aferente proiectului și a depunerii proiectului \"Achiziția unui sistem de monitorizare și siguranță a spațiului public și a unui sistem inteligent de management local în comuna Ciortești, județul Iași\" în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99339",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-81-2022",
+   "path": "local/iasi/ciortesti/2022/81",
+   "short": "HCL Ciortești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 81/2022 privind aprobarea derulării Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din Comuna Ciortești în anul școlar 2022-2023 și a cheltuielilor aferente procedurii de achiziție a produselor aferente programului",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/99340",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/99340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-82-2022",
+   "path": "local/iasi/ciortesti/2022/82",
+   "short": "HCL Ciortești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 82/2022 privind rectificarea bugetului local al Comunei Ciortești pentru etapa octombrie 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/100172",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/100172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-83-2022",
+   "path": "local/iasi/ciortesti/2022/83",
+   "short": "HCL Ciortești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 83/2022 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de aimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr.2",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/100173",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/100173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-84-2022",
+   "path": "local/iasi/ciortesti/2022/84",
+   "short": "HCL Ciortești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 84/2022 privind aprobarea Caietului de Sarcini privind activitatea de captare a apei, Caietului de Sarcini privind activitatea de transport a apei, Caietului de Sarcini privind activitatea de tratare a apei, Caietului de Sarcini privind activitatea de înmagazinare a apei potabile, Caietului de Sarcini privind activitatea de distribuție a apei potabile pentru aria de operare Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/100174",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/100174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-86-2022",
+   "path": "local/iasi/ciortesti/2022/86",
+   "short": "HCL Ciortești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 86/2022 privind aproabrea graficului de ședință pentru trimestrul al IV - lea 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/100176",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/100176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-87-2022",
+   "path": "local/iasi/ciortesti/2022/87",
+   "short": "HCL Ciortești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 87/2022 privind aprobarea \"Programului de pregătire, deszapezire și combaterea poleiului pe drumurile din administratie comunei in perioada de iarna\" 15 noiembrie 2022 - 15 martie 2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/100177",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/100177",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-89-2022",
    "path": "local/iasi/ciortesti/2022/89",
    "short": "HCL Ciortești nr. 89/2022",

@@ -3,6 +3,36 @@
  "shard": "local/iasi/costuleni/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--costuleni-38-2025",
+   "path": "local/iasi/costuleni/2025/38",
+   "short": "HCL Costuleni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 38/2025 privind modificarea și completarea inventarului actualizat al bunurilor care aparțin domeniului public al comunei Costuleni, județul Iași",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/214021",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/214021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-4-2025",
+   "path": "local/iasi/costuleni/2025/4",
+   "short": "HCL Costuleni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 4/2025 privind aprobarea formei gestiunii delegate a serviciului de iluminat public, aprobarea delegării prin concesiune a serviciului de iluminat public, a regulamentului, studiului de oportunitate, a caietului de sarcini privind delegarea de gestiune a serviciului de iluminat public în comuna Costuleni, județul Iași și aprobarea achizției de servicii de consultanță în vederea organizării procedurii de concesionare a serviciului de iluminat public",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/189594",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/189594",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-70-2025",
    "path": "local/iasi/costuleni/2025/70",
    "short": "HCL Costuleni nr. 70/2025",

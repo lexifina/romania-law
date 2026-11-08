@@ -3,6 +3,96 @@
  "shard": "local/iasi/cozmesti/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--cozmesti-1-2026",
+   "path": "local/iasi/cozmesti/2026/1",
+   "short": "HCL Cozmești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 1/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/249949",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/249949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-11-2026",
+   "path": "local/iasi/cozmesti/2026/11",
+   "short": "HCL Cozmești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 11/2026 privind alegerea președintelui de ședință a Consiliului Local al Comunei Cozmești, pentru trimestrul II al anului 2026, în mandatul 2024 - 2028",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/260118",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/260118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-15-2026",
+   "path": "local/iasi/cozmesti/2026/15",
+   "short": "HCL Cozmești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 15/2026 privind aprobarea bugetului local al comunei Cozmești pe anul 2026",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/267923",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/267923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-22-2026",
+   "path": "local/iasi/cozmesti/2026/22",
+   "short": "HCL Cozmești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 22/2026 privind alegerea președintelui de ședință a Consiliului Local al Comunei Cozmești, pentru trimestrul III al anului 2026, în mandatul 2024 - 2028",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/276215",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/276215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-24-2026",
+   "path": "local/iasi/cozmesti/2026/24",
+   "short": "HCL Cozmești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 24/2026 privind darea în folosință gratuită, către Școala Profesională Cozmești, în calitate de beneficiar final, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a proiectului",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/279424",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/279424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-25-2026",
+   "path": "local/iasi/cozmesti/2026/25",
+   "short": "HCL Cozmești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 25/2026 privind aprobarea solicitării transferului proprietății de la UAT Județul Iași -Consiliul Județean Iași către UAT Comuna Cozmești a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/279425",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/279425",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cozmesti-29-2026",
    "path": "local/iasi/cozmesti/2026/29",
    "short": "HCL Cozmești nr. 29/2026",
@@ -298,6 +388,51 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/cozmesti-is/registru-hcl/297655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-6-2026",
+   "path": "local/iasi/cozmesti/2026/6",
+   "short": "HCL Cozmești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 6/2026 privind aprobarea Regulamentului de organizare și funcţionare a aparatului de specialitate al Primarului Comunei Cozmești",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/256877",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/256877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-8-2026",
+   "path": "local/iasi/cozmesti/2026/8",
+   "short": "HCL Cozmești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 8/2026 privind darea în folosință gratuită, către Școala Profesională Cozmești, în calitate de beneficiar final, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a proiectului",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/256879",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/256879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-9-2026",
+   "path": "local/iasi/cozmesti/2026/9",
+   "short": "HCL Cozmești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 9/2026 privind schimbarea denumirii unității de învățământ din Școala Profesională Cozmești în Liceul Tehnologic Cozmești",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/256880",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/256880",
      "sha256": null
     }
    ]

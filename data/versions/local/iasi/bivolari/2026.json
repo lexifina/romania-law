@@ -3,6 +3,741 @@
  "shard": "local/iasi/bivolari/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--bivolari-1-2026",
+   "path": "local/iasi/bivolari/2026/1",
+   "short": "HCL Bivolari nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 1/2026 privind luarea unor măsuri în aria de competență a Sectorului Poliției de Frontieră Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/256510",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/256510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-10-2026",
+   "path": "local/iasi/bivolari/2026/10",
+   "short": "HCL Bivolari nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 10/2026 privind actualizarea Statutului Comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/257914",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/257914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-11-2026",
+   "path": "local/iasi/bivolari/2026/11",
+   "short": "HCL Bivolari nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 11/2026 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2025, conform Anexei nr.1 care face parte integrantă din prezenta hotărâre",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263572",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-12-2026",
+   "path": "local/iasi/bivolari/2026/12",
+   "short": "HCL Bivolari nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 12/2026 privind aprobarea situațiilor financiare anuale ale comunei Bivolari, județul Iași la data de 31.12.2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263573",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-13-2026",
+   "path": "local/iasi/bivolari/2026/13",
+   "short": "HCL Bivolari nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 13/2026 privind aprobarea achiziției serviciilor pentru efectuarea unui raport de evaluare de către un evaluator autorizat ANEVAR, pentru stabilirea sumei de plată a participării, pentru un teren în suprafață de 1662 mp, înscris în cartea funciară nr.60665/19.09.2008",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263577",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-14-2026",
+   "path": "local/iasi/bivolari/2026/14",
+   "short": "HCL Bivolari nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 14/2026 privindaprobarea indicatorilor tehnico-economici aactualizați și a devizului general actualizat pentru obiectivul de investiții \" Modernizare drumuri de interes local în Comuna Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263578",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-15-2026",
+   "path": "local/iasi/bivolari/2026/15",
+   "short": "HCL Bivolari nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 15/2026 privind aprobarea achiziției serviciilor pentru elaborarea Studiului de fezabilitate și studii teren pentru obiectivul de investiții \" Extindere sisitem canalizare și sistem alimentare cu apă satele Traian și Soloneț, comuna Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263589",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-16-2026",
+   "path": "local/iasi/bivolari/2026/16",
+   "short": "HCL Bivolari nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 16/2026 privind achiziția Raportului de expertiză tehnică pentru construire trotuar în comuna Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263590",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-17-2026",
+   "path": "local/iasi/bivolari/2026/17",
+   "short": "HCL Bivolari nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 17/2026 privind achiziția serviciilor, reprezentând lucrări de revizie și reparații curente la iluminatul public din comuna Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/263591",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/263591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-18-2026",
+   "path": "local/iasi/bivolari/2026/18",
+   "short": "HCL Bivolari nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 18/2026 privind aprobarea reorganizării aparatului de specialitate al primarului, precum și a aprobării Organigramei și a statului de funcții al aparatului de specialitate a primarului comunei Bivolari, în conformitate cu OUG nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ — teritoriale",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268794",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-2-2026",
+   "path": "local/iasi/bivolari/2026/2",
+   "short": "HCL Bivolari nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 2/2026 privind reactualizarea Comitetului Local pentru Situații de Urgență al comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/256511",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/256511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-20-2026",
+   "path": "local/iasi/bivolari/2026/20",
+   "short": "HCL Bivolari nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 20/2026 privind aprobarea Bugetului local pe anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268843",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-21-2026",
+   "path": "local/iasi/bivolari/2026/21",
+   "short": "HCL Bivolari nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 21/2026 privind aprobarea achiziției de servicii de proiectare, gazduire și administrare pentru Website-ul oficial al comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268846",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-22-2026",
+   "path": "local/iasi/bivolari/2026/22",
+   "short": "HCL Bivolari nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 22/2026 privind aprobare achiziție aplicație E-mol, privind servicii de digitalizare a actelor administrative pentru Monitorul oficial local",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268847",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-23-2026",
+   "path": "local/iasi/bivolari/2026/23",
+   "short": "HCL Bivolari nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 23/2026 privind aprobare achiziție servicii de întreținere computere de birou și imprimante pentru primăria comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268855",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-24-2026",
+   "path": "local/iasi/bivolari/2026/24",
+   "short": "HCL Bivolari nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 24/2026 privind aprobare achiziție servicii de întreținere fotocopiatoare - xerox, pentru primăria comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268856",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-25-2026",
+   "path": "local/iasi/bivolari/2026/25",
+   "short": "HCL Bivolari nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 25/2026 privind aprobare achiziție carnete bonuri valorice carburanți auto",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268857",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-26-2026",
+   "path": "local/iasi/bivolari/2026/26",
+   "short": "HCL Bivolari nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 26/2026 privind aprobare achiziție servicii de verificare și încărcare stingătoare P.S.I",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268875",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-27-2026",
+   "path": "local/iasi/bivolari/2026/27",
+   "short": "HCL Bivolari nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 27/2026 privind aprobarea achiziției a 2 panouri informative",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268858",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-28-2026",
+   "path": "local/iasi/bivolari/2026/28",
+   "short": "HCL Bivolari nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 28/2026 privind aprobarea de servicii de întocmire a procedurilor operaționale și de sistem aferente proceselor și activitățiilor aparatului de specialitate al primarului comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268859",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-29-2026",
+   "path": "local/iasi/bivolari/2026/29",
+   "short": "HCL Bivolari nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 29/2026 privind aprobare achiziție materiale edilitar gospodărești, pentru primăria comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268860",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-30-2026",
+   "path": "local/iasi/bivolari/2026/30",
+   "short": "HCL Bivolari nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 30/2026 privind aprobare achiziție servicii de reparare și întreținere Buldoexcavator",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268861",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-31-2026",
+   "path": "local/iasi/bivolari/2026/31",
+   "short": "HCL Bivolari nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 31/2026 privind aprobare achiziție servicii expertiză pentru evaluarea gradului de asigurare seismică pentru clădirea C1 și C2, Școala Tabăra",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268862",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-32-2026",
+   "path": "local/iasi/bivolari/2026/32",
+   "short": "HCL Bivolari nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 32/2026 privind aprobare servicii de colectare, transport și neutralizare deșeuri de origine animală",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268863",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-33-2026",
+   "path": "local/iasi/bivolari/2026/33",
+   "short": "HCL Bivolari nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 33/2026 privind aprobare achizițiearticole de birotică și papetărie",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268864",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-35-2026",
+   "path": "local/iasi/bivolari/2026/35",
+   "short": "HCL Bivolari nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 35/2026 privind aprobare achiziție servicii pentru efectuare examene medicale salariați, medicina muncii",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268866",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-36-2026",
+   "path": "local/iasi/bivolari/2026/36",
+   "short": "HCL Bivolari nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 36/2026 privind aprobare achiziție piese și materiale pentru utilajele din dotare",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268867",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-37-2026",
+   "path": "local/iasi/bivolari/2026/37",
+   "short": "HCL Bivolari nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 37/2026 privind aprobare achiziție servicii de reparare motocositori",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268868",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-38-2026",
+   "path": "local/iasi/bivolari/2026/38",
+   "short": "HCL Bivolari nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 38/2026 privind aprobare achiziție material săditor de flori",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268869",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-4-2026",
+   "path": "local/iasi/bivolari/2026/4",
+   "short": "HCL Bivolari nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 4/2026 privind actualizarea componenței Servicului Voluntar pentru Situații de Urgență al comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/256513",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/256513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-40-2026",
+   "path": "local/iasi/bivolari/2026/40",
+   "short": "HCL Bivolari nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 40/2026 privind aprobare plată cotizație anuală a comunei Bivolari, în calitate de membru al Asociației de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și integrată în ”Țara de Sus”",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268871",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-41-2026",
+   "path": "local/iasi/bivolari/2026/41",
+   "short": "HCL Bivolari nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 41/2026 privind aprobare achiziție agregate de balastieră",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268872",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-43-2026",
+   "path": "local/iasi/bivolari/2026/43",
+   "short": "HCL Bivolari nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 43/2026 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achizția produselor aferente programului și a contractelor /acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2026-2027, la nivelul comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/268874",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/268874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-44-2026",
+   "path": "local/iasi/bivolari/2026/44",
+   "short": "HCL Bivolari nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 44/2026 privind trecerea din domeniul privat al comunei Bivolari în domeniul public al comunei Bivolari a imobilului teren în suprafață de 1,763 mp",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/272162",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/272162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-45-2026",
+   "path": "local/iasi/bivolari/2026/45",
+   "short": "HCL Bivolari nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 45/2026 privind admiterea organizării și desfășurării de către gestionarii fondurilor cinegetice a acțiunilor de alungare și de recoltare a exemplarelor de animale sălbatice care produc pagube culturilor agricole, silvice și animale domestice la nivelul comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277711",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-46-2026",
+   "path": "local/iasi/bivolari/2026/46",
+   "short": "HCL Bivolari nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 46/2026 privind aprobarea achiziției serviciilor pentru evidența tehnico-operativă a mijloacelor fixe, pentru primaria comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277712",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-47-2026",
+   "path": "local/iasi/bivolari/2026/47",
+   "short": "HCL Bivolari nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 47/2026 privind aprobarea achiziției serviciilor pentru înlocuire pompă DEF la Buldoexcavator",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277719",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-48-2026",
+   "path": "local/iasi/bivolari/2026/48",
+   "short": "HCL Bivolari nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 48/2026 privind aprobarea achiziției serviciilor de asistență și consultantă informatică-Pacgetul informatic APLxPERT",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277720",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-49-2026",
+   "path": "local/iasi/bivolari/2026/49",
+   "short": "HCL Bivolari nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 49/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009 consolidat 2021, prin Actul Adițional nr.11",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277721",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-5-2026",
+   "path": "local/iasi/bivolari/2026/5",
+   "short": "HCL Bivolari nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 5/2026 privind aprobarea Planului de lucrări și comisia de recepție a lucrărilor, în vederea implementării Legii 196/2016, privind venitul minim de incluziune",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/256514",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/256514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-50-2026",
+   "path": "local/iasi/bivolari/2026/50",
+   "short": "HCL Bivolari nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 50/2026 privind aprobarea achiziției servicilor pentru întocmirea Registrului spațiilor verzi",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277722",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-51-2026",
+   "path": "local/iasi/bivolari/2026/51",
+   "short": "HCL Bivolari nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 51/2026 privind aprobarea achiziției serviciilor de intocmire RENNS-Registrul Electronic Național al Nomenclaturilor Stradale",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277723",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-52-2026",
+   "path": "local/iasi/bivolari/2026/52",
+   "short": "HCL Bivolari nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 52/2026 privind aprobarea achiziției de plăcuțe număr pentru case și plăcuțe pentru strazi personalizate, pentru Nomenclatorul stradal al comunei Bivolari, Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/277724",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/277724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-53-2026",
+   "path": "local/iasi/bivolari/2026/53",
+   "short": "HCL Bivolari nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 53/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/279985",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/279985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-54-2026",
+   "path": "local/iasi/bivolari/2026/54",
+   "short": "HCL Bivolari nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 54/2026 privind aprobarea organigramei și a statului de funcții ale apaatului de specialitate al primarului comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/279986",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/279986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-55-2026",
+   "path": "local/iasi/bivolari/2026/55",
+   "short": "HCL Bivolari nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 55/2026 privind modificarea și completarea HCL nr.148/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/279988",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/279988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-56-2026",
+   "path": "local/iasi/bivolari/2026/56",
+   "short": "HCL Bivolari nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 56/2026 privind actualizarea programului anula de achiziții publice pe anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/279990",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/279990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-57-2026",
+   "path": "local/iasi/bivolari/2026/57",
+   "short": "HCL Bivolari nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 57/2026 privind acordarea unui stimulent în valoare de 500 de lei pentru cupluri și 300 de lei pentru persoanele vaduve care implinesc 50 de nai de la căsătorie în anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/279992",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/279992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-58-2026",
+   "path": "local/iasi/bivolari/2026/58",
+   "short": "HCL Bivolari nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 58/2026 privind aprobarea unor măsuri pentru organizarea și publicarea pe site-ul oficial al comunei Bivolari a unor informații și documente de interes public privind activitatea Primarului comunei Bivolari și a Consiliului Local al comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/279995",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/279995",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-60-2026",
    "path": "local/iasi/bivolari/2026/60",
    "short": "HCL Bivolari nr. 60/2026",
@@ -153,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-7-2026",
+   "path": "local/iasi/bivolari/2026/7",
+   "short": "HCL Bivolari nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 7/2026 privind aprobarea Strategiei de Dezvoltare Locală (SDL), a Asociției de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus, pentru perioada 2026 - 2035",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/257901",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/257901",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-70-2026",
    "path": "local/iasi/bivolari/2026/70",
    "short": "HCL Bivolari nr. 70/2026",
@@ -298,6 +1048,36 @@
      "from": "2026-10-26",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/294643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-8-2026",
+   "path": "local/iasi/bivolari/2026/8",
+   "short": "HCL Bivolari nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 8/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, pentru anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/257902",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/257902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-9-2026",
+   "path": "local/iasi/bivolari/2026/9",
+   "short": "HCL Bivolari nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 9/2026 privind aprobarea Planului de măsuri pentru gospodărirea și înfrumusețarea comunei Bivolari, județul Iași, pentru anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/257913",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/257913",
      "sha256": null
     }
    ]

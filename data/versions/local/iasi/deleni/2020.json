@@ -3,6 +3,351 @@
  "shard": "local/iasi/deleni/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--deleni-1-2020",
+   "path": "local/iasi/deleni/2020/1",
+   "short": "HCL Deleni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 1/2020 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli pentru anul 2019",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9555",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-100-2020",
+   "path": "local/iasi/deleni/2020/100",
+   "short": "HCL Deleni nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 100/2020 privind aprobarea înscrierii în domeniul public al comunei Deleni, a investiției ''Extindere rețea electrică în sat Feredeni, comuna Deleni, județul Iași''",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11399",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-101-2020",
+   "path": "local/iasi/deleni/2020/101",
+   "short": "HCL Deleni nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 101/2020 privind aprobarea înscrierii în domeniul privat al UAT comuna Deleni, a suprafeței de 1381 mp, identificată din punct de vedere cadastral în intravilan Deleni conform PUG, în T 15, parcela CC 506",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11400",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-103-2020",
+   "path": "local/iasi/deleni/2020/103",
+   "short": "HCL Deleni nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 103/2020 privind aprobarea instrumentării proiectului pentru realizarea obiectivului de investiții ''Continuare lucrări înființare distribuție gaze naturale în comuna Deleni, județul Iași''",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11402",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-104-2020",
+   "path": "local/iasi/deleni/2020/104",
+   "short": "HCL Deleni nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 104/2020 privind aprobarea documentației și a indicatorilor tehnico-economici ai proiectului de investiție 'țContinuare lucrări înființare distribuție gaze naturale în comuna Deleni, județul Iași''",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11403",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-109-2020",
+   "path": "local/iasi/deleni/2020/109",
+   "short": "HCL Deleni nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 109/2020 privind stabilirea responsabilităților organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru în vederea achiziționării produselor aferente Programului pentru școli al României în perioada 2017-2023",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11408",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-111-2020",
+   "path": "local/iasi/deleni/2020/111",
+   "short": "HCL Deleni nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 111/2020 privind aprobarea documentațiilor tehnice pentru lucrările de extindere rețea apă potabilă, sat Deleni - zona deleni Deal, str. Codrului și str. Dumbrăvii",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11418",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-112-2020",
+   "path": "local/iasi/deleni/2020/112",
+   "short": "HCL Deleni nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 112/2020 privind aprobarea documentației tehnice - Expertiza tehnică nr. 001/2020, privind starea tehnica de calitate a sistemului de distribuție redusă presiune gaze naturale din comuna Deleni, cu satele aparținătoare Maxut (fără zona Șoseaua Națională), Deleni, Slobozia, Feredeni și Poiana, județul Iași'' întocmită de către SC ALROSEL PROJECT SRL",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11419",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-113-2020",
+   "path": "local/iasi/deleni/2020/113",
+   "short": "HCL Deleni nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 113/2020 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli pentr anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11420",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-115-2020",
+   "path": "local/iasi/deleni/2020/115",
+   "short": "HCL Deleni nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 115/2020 privind aprobarea ''Strategiei de Dezvoltare Durabilă Comuna Deleni în contextul Europa 2030''",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11422",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-116-2020",
+   "path": "local/iasi/deleni/2020/116",
+   "short": "HCL Deleni nr. 116/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 116/2020 privind implementarea la nivelul comunei Deleni a Programului privind achiziționarea, în condițiile legii, de către autoritățile publice locale sau unitățile școlare preuniversitare de stat, după caz, de echipamente din domeniul tehnologiei informației - IT mobile, respectiv tablete pentru uz școlar cu acces la internet",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11423",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-117-2020",
+   "path": "local/iasi/deleni/2020/117",
+   "short": "HCL Deleni nr. 117/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 117/2020 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11426",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-119-2020",
+   "path": "local/iasi/deleni/2020/119",
+   "short": "HCL Deleni nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 119/2020 privind aprobarea indicatorilor tehnico-economici precum și a cheltuielilor aferente proiectului ''Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Deleni, județul Iași''",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11428",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-121-2020",
+   "path": "local/iasi/deleni/2020/121",
+   "short": "HCL Deleni nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 121/2020 privind rectificare buget, venituri și cheltuieli 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11433",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-122-2020",
+   "path": "local/iasi/deleni/2020/122",
+   "short": "HCL Deleni nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 122/2020 privind executare buget, venituri și cheltuieli la 30.09.2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11434",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-123-2020",
+   "path": "local/iasi/deleni/2020/123",
+   "short": "HCL Deleni nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 123/2020 privind naveta cadre didactice pentru școala Posana",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11435",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-124-2020",
+   "path": "local/iasi/deleni/2020/124",
+   "short": "HCL Deleni nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 124/2020 privind modificarea HCL 16/2019, Legea 550/2003",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11436",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-125-2020",
+   "path": "local/iasi/deleni/2020/125",
+   "short": "HCL Deleni nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 125/2020 privind contractul pentru dezăpezire și materiale antiderapant",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11437",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-126-2020",
+   "path": "local/iasi/deleni/2020/126",
+   "short": "HCL Deleni nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 126/2020 privind achiziționare teren pentru sport la Școala Porisua, comuna Deleni",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11438",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-129-2020",
+   "path": "local/iasi/deleni/2020/129",
+   "short": "HCL Deleni nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 129/2020 privind indicatori tehnico-economici after school-actualizate",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11441",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-135-2020",
+   "path": "local/iasi/deleni/2020/135",
+   "short": "HCL Deleni nr. 135/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 135/2020 privind aprobarea organizarii unor manifestari culturale in luna decembrie 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/19813",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/19813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-139-2020",
+   "path": "local/iasi/deleni/2020/139",
+   "short": "HCL Deleni nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 139/2020 privind reevaluarea activelor fixe corporale aflate in inventarul comunei Deleni, judetul Iasi",
+   "url": "https://emol.ro/deleni-is/registru-hcl/19817",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/19817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-141-2020",
+   "path": "local/iasi/deleni/2020/141",
+   "short": "HCL Deleni nr. 141/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 141/2020 privind aprobarea rectificarii Bugetului de Venituri si Cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/19819",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/19819",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--deleni-142-2020",
    "path": "local/iasi/deleni/2020/142",
    "short": "HCL Deleni nr. 142/2020",
@@ -273,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--deleni-16-2020",
+   "path": "local/iasi/deleni/2020/16",
+   "short": "HCL Deleni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 16/2020 privind aprobarea Bugetului de Venituri și Chletuieli pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9583",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--deleni-160-2020",
    "path": "local/iasi/deleni/2020/160",
    "short": "HCL Deleni nr. 160/2020",
@@ -298,6 +658,441 @@
      "from": "2020-12-17",
      "units": 1,
      "source_url": "https://emol.ro/deleni-is/registru-hcl/19839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-17-2020",
+   "path": "local/iasi/deleni/2020/17",
+   "short": "HCL Deleni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 17/2020 privind aprobarea Planului anual de actiune privind serviciile sociale administrate si finantate din bugetul Consiliului Local al comunei Deleni, judetul Iasi, conform Ordinului ministerului muncii si justitiei sociale nr.1086/2018 pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9590",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-18-2020",
+   "path": "local/iasi/deleni/2020/18",
+   "short": "HCL Deleni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 18/2020 privind aprobarea Strategiei de Dezvoltare a Serviciilor Sociale acordate la nivelul comunei Deleni, pentru perioada 2020-2030",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9589",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-19-2020",
+   "path": "local/iasi/deleni/2020/19",
+   "short": "HCL Deleni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 19/2020 privind aprobarea intocmirii Strategiei Locale in Domeniul Energiei la nivelul comunei Deleni, judetul Iasi",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9585",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-2-2020",
+   "path": "local/iasi/deleni/2020/2",
+   "short": "HCL Deleni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 2/2020 privind acoperirea deficitului bugetar din excedentul bugetului local al anilor precedenti",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9556",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-21-2020",
+   "path": "local/iasi/deleni/2020/21",
+   "short": "HCL Deleni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 21/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9591",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-22-2020",
+   "path": "local/iasi/deleni/2020/22",
+   "short": "HCL Deleni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 22/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9592",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-23-2020",
+   "path": "local/iasi/deleni/2020/23",
+   "short": "HCL Deleni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 23/2020 privind aprobarea modificarii anexei 5 a Contractului de delegare a gestiunii serviciului de salubrizare al comunei Deleni, catre SC Ecosalubris Hirlau SA , aprobata prin art. 4 a Hotararii Consiliului Local Deleni nr. 18 din 22.02.2013, modificata si completata prin Hotararii Consiliului Local Deleni nr.91 din 27.09.2017",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9584",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-24-2020",
+   "path": "local/iasi/deleni/2020/24",
+   "short": "HCL Deleni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 24/2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9586",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-25-2020",
+   "path": "local/iasi/deleni/2020/25",
+   "short": "HCL Deleni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 25/2020 privind aprobarea modificarii, prin Act aditional, a Contractului de Concesiune nr. 1/ 18.05.2011 incheiat intre UAT comuna Deleni, jud. Iasi si ASOCIATIA PROFESIONALA A CRESCATORILOR DE ANIMALE MARI , MICI SI PASARI DIN COMUNA DELENI , JUD. IASI",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9588",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-26-2020",
+   "path": "local/iasi/deleni/2020/26",
+   "short": "HCL Deleni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 26/2020 privind aprobarea infiintarii in cadrul Caminului Cultural “ Al. Tanase” Deleni a Atelierului de creatie intitulat “ Mestesuguri si Arta culinara traditionala din Casa Bunicilor”",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9593",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-27-2020",
+   "path": "local/iasi/deleni/2020/27",
+   "short": "HCL Deleni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 27/2020 privind aprobarea Studiului de fezabilitate actualizat si indicatorii tehnico economici pentru obiectivul de investitii „ÎNFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA DELENI, CU SATELE APARȚINĂTOARE MAXUT, DELENI, SLOBOZIA, FEREDENI ȘI POIANA, JUDEȚUL IAȘI",
+   "url": "https://emol.ro/deleni-is/registru-hcl/9594",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/9594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-32-2020",
+   "path": "local/iasi/deleni/2020/32",
+   "short": "HCL Deleni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 32/2020 privind modificarea și completarea Regulamentului de Organizare și Funcționare al Consiliului Local al comunei Deleni, județul Iași",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11263",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-33-2020",
+   "path": "local/iasi/deleni/2020/33",
+   "short": "HCL Deleni nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 33/2020 privind aprobarea decontării cheltuielilor privind naveta cadrelor didactice, din comuna Deleni",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11264",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-36-2020",
+   "path": "local/iasi/deleni/2020/36",
+   "short": "HCL Deleni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 36/2020 privind aprobarea cadrului legal în care se vor efectua lucrările tehnico-edilitare rețele de distribuție sau colectare aopa, energie electrica, gaze naturale, telefonie și canalizare pluvială pe raza comunei deleni, județul Iași",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11267",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-37-2020",
+   "path": "local/iasi/deleni/2020/37",
+   "short": "HCL Deleni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 37/2020 privind aprobarea Programului anual al achizițiilor publice pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11268",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-38-2020",
+   "path": "local/iasi/deleni/2020/38",
+   "short": "HCL Deleni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 38/2020 privind aprobarea actualizării Statutului Comunei Deleni, județul Iași",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11269",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-39-2020",
+   "path": "local/iasi/deleni/2020/39",
+   "short": "HCL Deleni nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 39/2020 privind luarea de act de către Consiliul Local Deleni despre Lista bunurilor de retur, proprietate publică a Comunei deleni date în administrare către operatoul SC APAVITAL SA F525",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11270",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-40-2020",
+   "path": "local/iasi/deleni/2020/40",
+   "short": "HCL Deleni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 40/2020 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11271",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-42-2020",
+   "path": "local/iasi/deleni/2020/42",
+   "short": "HCL Deleni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 42/2020 privind aprobarea raportului execuției bugetare a activității economico-financiare la primăria comunei Deleni, județul Iași, la data de 31.03.2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11273",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-43-2020",
+   "path": "local/iasi/deleni/2020/43",
+   "short": "HCL Deleni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 43/2020 privind aprobarea actualizarii indicatorilor tehnici pentru obiectivul ''Construire Alei Pietonale la Drumul Județean DJ. 281 A, în Comuna Deleni, județul Iași'', conform Dispoziției de șantier nr. 1",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11274",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-45-2020",
+   "path": "local/iasi/deleni/2020/45",
+   "short": "HCL Deleni nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 45/2020 privind aprobarea impozitelor și taxelor locale pentru anul fiscal 2021 la nivel de comună Deleni, jud. Iași",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11276",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-46-2020",
+   "path": "local/iasi/deleni/2020/46",
+   "short": "HCL Deleni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 46/2020 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11277",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-48-2020",
+   "path": "local/iasi/deleni/2020/48",
+   "short": "HCL Deleni nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 48/2020 privind aprobarea solicitării de prelungire a Scrisorii de garanție nr. IGI183300692/17.10.2018 înregistrată sub nr. 5801/18.10.2018 la Fondul de Garantare a Creditului Rural - IFN SA si aprobarea comisionului de garantare",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11308",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-49-2020",
+   "path": "local/iasi/deleni/2020/49",
+   "short": "HCL Deleni nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 49/2020 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11309",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-50-2020",
+   "path": "local/iasi/deleni/2020/50",
+   "short": "HCL Deleni nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 50/2020 privind aprobarea încheierii contractului de prestări servicii pentru depozitare deșeuri menajere și similar între comuna Deleni, județul Iași și SC SALUBRIS SA",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11310",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-52-2020",
+   "path": "local/iasi/deleni/2020/52",
+   "short": "HCL Deleni nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 52/2020 privind aprobarea STUDIULUI DE FEZABILITATE pentru ''Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020'' precum și a indicatorilor tehnico-economiciai proiectului",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11312",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-53-2020",
+   "path": "local/iasi/deleni/2020/53",
+   "short": "HCL Deleni nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 53/2020 privind aprobarea valorii investițiilor aferente UAT Comuna Deleni și a participării Consiliului Local al UAT Comuna Deleni, Județul Iași, lqa cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11313",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-55-2020",
+   "path": "local/iasi/deleni/2020/55",
+   "short": "HCL Deleni nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 55/2020 privind aprobarea plăților online a obligațiilor fiscale la bugetul local și stabilirea modului în care este suportat comisionul bancar, utilizând cardul bancar în sistemul național electronic ghiseu.ro",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11315",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-56-2020",
+   "path": "local/iasi/deleni/2020/56",
+   "short": "HCL Deleni nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 56/2020 privind implementarea proiectului ''Modernizarea infrastructurii de iluminat public în comuna Deleni, județul Iași''",
+   "url": "https://emol.ro/deleni-is/registru-hcl/11316",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/11316",
      "sha256": null
     }
    ]

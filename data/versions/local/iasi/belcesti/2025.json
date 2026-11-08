@@ -3,6 +3,66 @@
  "shard": "local/iasi/belcesti/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--belcesti-10-2025",
+   "path": "local/iasi/belcesti/2025/10",
+   "short": "HCL Belcești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 10/2025 privind aprobarea consumului maxim lunar de carburanţi pentru vehiculele şi utilajele care deservesc Primăria Comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192051",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-11-2025",
+   "path": "local/iasi/belcesti/2025/11",
+   "short": "HCL Belcești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 11/2025 privind îndreptarea erorii materiale din cuprinsul Hotărârii Consiliului Local al Comunei Belcești nr. 51/31.07.2024",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192059",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-113-2025",
+   "path": "local/iasi/belcesti/2025/113",
+   "short": "HCL Belcești nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 113/2025 privind revizuirea zonării fiscale a teritoriului UAT COMUNA BELCEȘTI",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/235602",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/235602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-114-2025",
+   "path": "local/iasi/belcesti/2025/114",
+   "short": "HCL Belcești nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 114/2025 privind aprobarea emiterii borderourilor de scădere din evidențele fiscale ale Primăriei Comunei Belcești, reprezentând avansurile nejustificate existente în evidențele Compartimentelor Contabilitate și Taxe și Impozite Locale",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/235603",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/235603",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-116-2025",
    "path": "local/iasi/belcesti/2025/116",
    "short": "HCL Belcești nr. 116/2025",
@@ -58,6 +118,21 @@
      "from": "2025-11-27",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/242864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-12-2025",
+   "path": "local/iasi/belcesti/2025/12",
+   "short": "HCL Belcești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 12/2025 privind aprobarea proiectului tehnic de execuție și a devizului general, documentație tehnică pentru obținere acorduri și avize al obiectivului de investiții ” CONSTRUIRE CENTRU COMUNITAR INTEGRAT ÎN COMUNA BELCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192060",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192060",
      "sha256": null
     }
    ]
@@ -213,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-13-2025",
+   "path": "local/iasi/belcesti/2025/13",
+   "short": "HCL Belcești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 13/2025 privind aprobarea Programul de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Belcești, județul Iași, pe anul 2025",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/196600",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/196600",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-130-2025",
    "path": "local/iasi/belcesti/2025/130",
    "short": "HCL Belcești nr. 130/2025",
@@ -298,6 +388,246 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/243204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-20-2025",
+   "path": "local/iasi/belcesti/2025/20",
+   "short": "HCL Belcești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 20/2025 privind redistribuirea suprafeței de pajiști rezervă aflată în proprietate privată a comunei Belcești, la nivelul anului 2025",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/196607",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/196607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-22-2025",
+   "path": "local/iasi/belcesti/2025/22",
+   "short": "HCL Belcești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 22/2025 privind aprobarea bugetului de venituri si cheltuieli al Comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/221939",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/221939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-3-2025",
+   "path": "local/iasi/belcesti/2025/3",
+   "short": "HCL Belcești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 3/2025 privind aprobarea planului de acțiuni/lucrări de interes local pentru anul 2025, în vederea repartizării orelor de muncă prestate lunar de către persoanele condamnate penal și obligate să presteze o muncă neremunerată în folosul comunității, de către persoanele obligate conform art. 67 din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare, dar, și pentru persoanele sancționate să presteze o muncă în folosul comunității pentru anumite fapte ce constituie contravenții",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192044",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-39-2025",
+   "path": "local/iasi/belcesti/2025/39",
+   "short": "HCL Belcești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 39/2025 privind aprobarea Strategiei de dezvoltare locală a Comunei Belcești, județul Iași, 2025-2030",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222085",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-4-2025",
+   "path": "local/iasi/belcesti/2025/4",
+   "short": "HCL Belcești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 4/2025 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă efectuate de beneficiarii de venit minim de incluziune în anul 2025",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192045",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-45-2025",
+   "path": "local/iasi/belcesti/2025/45",
+   "short": "HCL Belcești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 45/2025 privind validarea Dispoziţiei nr.167/14.05.2025 privind modificarea bugetului de venituri şi cheltuieli aferent anului 2025, trim. II",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222091",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-53-2025",
+   "path": "local/iasi/belcesti/2025/53",
+   "short": "HCL Belcești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 53/2025 privind modificarea și completarea Anexei K a Hotărârii Consiliului Local al Comunei Belcești nr. 99/18.12.2024 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul fiscal 2025 la nivel de comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222155",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-54-2025",
+   "path": "local/iasi/belcesti/2025/54",
+   "short": "HCL Belcești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 54/2025 privind aprobarea desființării unor funcții publice de execuție și a unor funcții contractuale de execuție respectiv: * funcția publică de execuție – inspector, clasa I, grad profesional asistent din cadrul compartimentului ,,Gestiunea Patrimoniului”, * funcția publică de execuție - inspector, clasa I, grad profesional superior la compartimentul ,,Casierie” * funcția publică de execuție - inspector, clasa I, grad profesional superior la compartimentul ,,Juridic” * funcția publică de execuție – consilier juridic, clasa I, grad profesional principal la compartimentul ,,Juridic” * funcția publică de execuție – referent, clasa III, grad profesional superior la compartimentul Protecția Mediului * funcția contractuală de execuție – șofer PSI la SVSU; aprobarea Organigramei si a Statului Nominal de Personal al aparatului de specialitate al primarului",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222157",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-56-2025",
+   "path": "local/iasi/belcesti/2025/56",
+   "short": "HCL Belcești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 56/2025 privind modificarea bugetului de venituri şi cheltuieli pe trim. III, anul 2025, Secțiunea Funcționare",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222159",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-6-2025",
+   "path": "local/iasi/belcesti/2025/6",
+   "short": "HCL Belcești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 6/2025 privind însușirea și aprobarea documentațiilor cadastrale a trei imobile aflate în domeniul public al Comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192047",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-62-2025",
+   "path": "local/iasi/belcesti/2025/62",
+   "short": "HCL Belcești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 62/2025",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222286",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-7-2025",
+   "path": "local/iasi/belcesti/2025/7",
+   "short": "HCL Belcești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 7/2025 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192048",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-70-2025",
+   "path": "local/iasi/belcesti/2025/70",
+   "short": "HCL Belcești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 70/2025 privind modificarea bugetului de venituri şi cheltuieli pe trim. III, anul 2025, Secțiunea Funcționare",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/222294",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/222294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-77-2025",
+   "path": "local/iasi/belcesti/2025/77",
+   "short": "HCL Belcești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 77/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/223302",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/223302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-8-2025",
+   "path": "local/iasi/belcesti/2025/8",
+   "short": "HCL Belcești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 8/2025 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr.8",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/192049",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/192049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-90-2025",
+   "path": "local/iasi/belcesti/2025/90",
+   "short": "HCL Belcești nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 90/2025 privind validarea Dispoziţiei nr. 309/10.09.2025 privind modificarea bugetului de venituri și cheltuieli aferent anului 2025, trim. III, secțiunea funcționare",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/232462",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/232462",
      "sha256": null
     }
    ]

@@ -3,6 +3,50 @@
 "shard": "local/iasi/deleni/2022",
 "acts": [
 {
+"slug": "hcl-iasi--deleni-35-2022",
+"path": "local/iasi/deleni/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 35/2022 privind impozitelor si taxelor locale pentru anul fiscal 2023 la nivel de comuna Deleni, jud. Iasi;",
+"short": "HCL Deleni nr. 35/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-03",
+"latest": "2022-05-03",
+"portal": "https://emol.ro/deleni-is/registru-hcl/59181",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-97-2022",
+"path": "local/iasi/deleni/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 97/2022 privind aprobarea Regulamentului referitor la stabilirea unor măsuri pentru gospodărirea COMUNEI DELENI, precum şi stabilirea, constatarea şi sancţionarea faptelor care constituie contravenţii",
+"short": "HCL Deleni nr. 97/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/deleni-is/registru-hcl/74292",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--deleni-115-2022",
 "path": "local/iasi/deleni/2022/115",
 "kind": "local",

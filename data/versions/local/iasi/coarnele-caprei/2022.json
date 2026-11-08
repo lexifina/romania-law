@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-9-2022",
+   "path": "local/iasi/coarnele-caprei/2022/9",
+   "short": "HCL Coarnele Caprei nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 9/2022 privind ''Construire și dezvoltare rețea de telecomunicații electronice (Tip FTTH) în comuna Coarnele Caprei, satele Coarnele Caprei, Arama, Petrosica, județul Iași''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/53030",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/53030",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-96-2022",
    "path": "local/iasi/coarnele-caprei/2022/96",
    "short": "HCL Coarnele Caprei nr. 96/2022",

@@ -3,6 +3,66 @@
  "shard": "local/iasi/ciohorani/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-10-2022",
+   "path": "local/iasi/ciohorani/2022/10",
+   "short": "HCL Ciohorăni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 10/2022 privind aprobarea bugetului de venituri şi cheltuieli al comunei Ciohorăni pentru anul 2022 și a listei investițiilor publice",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/54833",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/54833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-12-2022",
+   "path": "local/iasi/ciohorani/2022/12",
+   "short": "HCL Ciohorăni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 12/2022 pentru modificarea Hotărârii Consiliului Local al comunei Ciohorăni nr.10 /2022 privind aprobarea bugetului de venituri şi cheltuieli al comunei Ciohorăni pentru anul 2022 și a listei investițiilor publice",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/55906",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/55906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-15-2022",
+   "path": "local/iasi/ciohorani/2022/15",
+   "short": "HCL Ciohorăni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 15/2022 privind aprobarea contului anual de execuție a bugetului local al comunei Ciohorăni pentru anul 2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60974",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-19-2022",
+   "path": "local/iasi/ciohorani/2022/19",
+   "short": "HCL Ciohorăni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 19/2022 privind aprobarea Strategiei de dezvoltare locală a comunei Ciohorăni pentru perioada 2022-2027",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60978",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-54-2022",
    "path": "local/iasi/ciohorani/2022/54",
    "short": "HCL Ciohorăni nr. 54/2022",

@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--baltati-16-2024",
+   "path": "local/iasi/baltati/2024/16",
+   "short": "HCL Bălțați nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 16/2024 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2024",
+   "url": "https://emol.ro/baltati-is/registru-hcl/142667",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baltati-is/registru-hcl/142667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--baltati-99-2024",
    "path": "local/iasi/baltati/2024/99",
    "short": "HCL Bălțați nr. 99/2024",

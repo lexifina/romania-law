@@ -3,6 +3,141 @@
  "shard": "local/iasi/cucuteni/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--cucuteni-1-2023",
+   "path": "local/iasi/cucuteni/2023/1",
+   "short": "HCL Cucuteni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 1/2023 privind aprobarea ordinii de zi a şedinţei extraordinare a consiliului local din 06 ianuarie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/89087",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/89087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-10-2023",
+   "path": "local/iasi/cucuteni/2023/10",
+   "short": "HCL Cucuteni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 10/2023 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap din comuna Cucuteni , pentru semestrul II 2022 şi aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136106",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-101-2023",
+   "path": "local/iasi/cucuteni/2023/101",
+   "short": "HCL Cucuteni nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 101/2023 privind aprobarea Programul de deszăpezire în perioada de iarna 2023–2024",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165762",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-102-2023",
+   "path": "local/iasi/cucuteni/2023/102",
+   "short": "HCL Cucuteni nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 102/2023 privind aprobarea execuţiei bugetului pentru trimestrul III 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165763",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-104-2023",
+   "path": "local/iasi/cucuteni/2023/104",
+   "short": "HCL Cucuteni nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 104/2023 privind aprobarea ordinii de zi a şedinței extraordinare a consiliului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165765",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-105-2023",
+   "path": "local/iasi/cucuteni/2023/105",
+   "short": "HCL Cucuteni nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 105/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 24.10.2023 înregistrat sub nr. 8537din 24.10.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165766",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-106-2023",
+   "path": "local/iasi/cucuteni/2023/106",
+   "short": "HCL Cucuteni nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 106/2023 privind aprobarea documentației tehnico-economică (faza Pth) și a indicatorilor tehnico-economici aferenți proiectului „Reabilitare sediu primărie în comuna Cucuteni, județul Iași” aprobat pentru finanțare prin Planul National de Redresare și Reziliență",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165767",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-107-2023",
+   "path": "local/iasi/cucuteni/2023/107",
+   "short": "HCL Cucuteni nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 107/2023 privind aprobarea ordinii de zi a şedinței ordinare a consiliului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165771",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-108-2023",
+   "path": "local/iasi/cucuteni/2023/108",
+   "short": "HCL Cucuteni nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 108/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 15.11.2023 înregistrat sub nr. 8572 din 15.11.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165772",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165772",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-109-2023",
    "path": "local/iasi/cucuteni/2023/109",
    "short": "HCL Cucuteni nr. 109/2023",
@@ -168,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-12-2023",
+   "path": "local/iasi/cucuteni/2023/12",
+   "short": "HCL Cucuteni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 12/2023 privind organizarea reţelei şcolare pentru anul şcolar 2023-2024 în unitatea administrativ teritorială Cucuteni",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136108",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136108",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-120-2023",
    "path": "local/iasi/cucuteni/2023/120",
    "short": "HCL Cucuteni nr. 120/2023",
@@ -298,6 +448,1191 @@
      "from": "2024-08-13",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-13-2023",
+   "path": "local/iasi/cucuteni/2023/13",
+   "short": "HCL Cucuteni nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 13/2023 privind aprobarea execuţiei bugetului pentru trimestrul IV 2022",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136109",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-14-2023",
+   "path": "local/iasi/cucuteni/2023/14",
+   "short": "HCL Cucuteni nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 14/2023 privind propunerea a doi consilieri locali în comisia de evaluarea performanţelor profesionale ale secretarului UAT",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136110",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-15-2023",
+   "path": "local/iasi/cucuteni/2023/15",
+   "short": "HCL Cucuteni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 15/2023 privind inventarierea bunurilor materiale pe anul 2022",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136111",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-16-2023",
+   "path": "local/iasi/cucuteni/2023/16",
+   "short": "HCL Cucuteni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 16/2023 privind aprobarea Actului Adiţional nr. 1 la Actul Constitutiv și aprobarea Actului Adiţional nr. 1 la Statutul Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS, revizuite 2021",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136112",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-17-2023",
+   "path": "local/iasi/cucuteni/2023/17",
+   "short": "HCL Cucuteni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 17/2023 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136113",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-18-2023",
+   "path": "local/iasi/cucuteni/2023/18",
+   "short": "HCL Cucuteni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 18/2023 privind aprobarea ordinii de zi a şedinţei extraordinare a consiliului local din 03 februarie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136129",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-19-2023",
+   "path": "local/iasi/cucuteni/2023/19",
+   "short": "HCL Cucuteni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 19/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 31.01.2023 înregistrat sub nr. 8064 din 31.01.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136130",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-2-2023",
+   "path": "local/iasi/cucuteni/2023/2",
+   "short": "HCL Cucuteni nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 2/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 22.12.2022 înregistrat sub nr. 8659 din 22.12.2022",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/89088",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/89088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-20-2023",
+   "path": "local/iasi/cucuteni/2023/20",
+   "short": "HCL Cucuteni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 20/2023 privind aprobarea solicitării de prelungire a Scrisorii de Garantie din partea Fondului de Garantare a Creditului Rural (FGCR), pentru finanţarea obiectivului de investiţie \"Reabilitare, modernizare si dotare camin cultural in comuna Cucuteni, judetul Iasi\"",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136131",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-21-2023",
+   "path": "local/iasi/cucuteni/2023/21",
+   "short": "HCL Cucuteni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 21/2023 privind aprobarea investiției și a devizului general pentru obiectivul \" Construire hală pentru garare uilaje, atelier întreținere, magazie și arhivă în sat Cucuteni, comuna Cucuteni, județul Iași\"",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136132",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-22-2023",
+   "path": "local/iasi/cucuteni/2023/22",
+   "short": "HCL Cucuteni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 22/2023 privind adoptarea bugetului de venituri şi cheltuieli pentru anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136133",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-23-2023",
+   "path": "local/iasi/cucuteni/2023/23",
+   "short": "HCL Cucuteni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 23/2023 privind aprobarea ordinii de zi a şedinţei extraordinare a consiliului local din 14 februarie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136325",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-24-2023",
+   "path": "local/iasi/cucuteni/2023/24",
+   "short": "HCL Cucuteni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 24/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 03.02.2023 înregistrat sub nr. 8084 din 03.02.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136326",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-25-2023",
+   "path": "local/iasi/cucuteni/2023/25",
+   "short": "HCL Cucuteni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 25/2023 privind aprobarea împuternicirii UAT Județul Iași – Consiliul Județean Iași în vederea depunerii și implementării, pentru UAT Cucuteni - Consiliul Local al Comunei Cucuteni, a aplicației de finanțare pentru apelul de proiecte „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”, finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136327",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-26-2023",
+   "path": "local/iasi/cucuteni/2023/26",
+   "short": "HCL Cucuteni nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 26/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local din 28 februarie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136331",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-27-2023",
+   "path": "local/iasi/cucuteni/2023/27",
+   "short": "HCL Cucuteni nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 27/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 14.02.2023 înregistrat sub nr. 8109 din 14.02.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136332",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-28-2023",
+   "path": "local/iasi/cucuteni/2023/28",
+   "short": "HCL Cucuteni nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 28/2023 privind raportului de analiză a activităţii desfăşurată în domeniu situaţiilor de urgenţă în semestrul II 2022",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136333",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-29-2023",
+   "path": "local/iasi/cucuteni/2023/29",
+   "short": "HCL Cucuteni nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 29/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136334",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-3-2023",
+   "path": "local/iasi/cucuteni/2023/3",
+   "short": "HCL Cucuteni nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 3/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/89089",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/89089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-30-2023",
+   "path": "local/iasi/cucuteni/2023/30",
+   "short": "HCL Cucuteni nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 30/2023 privind aprobarea ordinii de zi a şedinţei extraordinare a consiliului local din 13 martie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136347",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-31-2023",
+   "path": "local/iasi/cucuteni/2023/31",
+   "short": "HCL Cucuteni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 31/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 28.02.2023 înregistrat sub nr. 8129 din 28.02.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136348",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-32-2023",
+   "path": "local/iasi/cucuteni/2023/32",
+   "short": "HCL Cucuteni nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 32/2023 privind aprobare a documentaţiei tehnico-economice (faza SF) şi a indicatorilor tehnico-economici aferenti proiectului “Inființarea sistemului de supraveghere în comuna Cucuteni, județul Iași” aprobat pentru finanțare prin Planul National de Redresare si Rezilienta",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136349",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-33-2023",
+   "path": "local/iasi/cucuteni/2023/33",
+   "short": "HCL Cucuteni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 33/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local din 28 martie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136350",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-34-2023",
+   "path": "local/iasi/cucuteni/2023/34",
+   "short": "HCL Cucuteni nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 34/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 13.03.2023 înregistrat sub nr. 8169 din 13.03.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136351",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-35-2023",
+   "path": "local/iasi/cucuteni/2023/35",
+   "short": "HCL Cucuteni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 35/2023 privind graficului de şedinţe al consiliului local pentru trimestrul II 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136352",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-36-2023",
+   "path": "local/iasi/cucuteni/2023/36",
+   "short": "HCL Cucuteni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 36/2023 privind Planul de gospodărirea și ȋnfrumusețarea comunei Cucuteni , județul Iași",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136353",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-37-2023",
+   "path": "local/iasi/cucuteni/2023/37",
+   "short": "HCL Cucuteni nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 37/2023 privind acordarea mandatului special reprezentantului UATCucuteni în AGA ADIS Iași în vederea aprobării modificării tarifelor de sortare, compostare, transfer și tratare mecano-biologică a deșeurilor aferente activităților de salubrizare din Contractul de delegare prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași,” aferen Contractului de delegare prin concesiune a operării stațiilor de transfer și a instalaţiilor de tratare a deşeurilor municipale în județul Iași nr. 371/22.05.2019, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor” din județul Iași",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136354",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-39-2023",
+   "path": "local/iasi/cucuteni/2023/39",
+   "short": "HCL Cucuteni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 39/2023 privind aprobarea Strategiei anuale de achiziții publice și a Programului anual de achiziții publice la nivelul comunei Cucuteni, județul Iași pentru anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136356",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-4-2023",
+   "path": "local/iasi/cucuteni/2023/4",
+   "short": "HCL Cucuteni nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 4/2023 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/89090",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/89090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-40-2023",
+   "path": "local/iasi/cucuteni/2023/40",
+   "short": "HCL Cucuteni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 40/2023 privind modificarea caracteristicile tehnice din anexa nr. 1 de la HCL nr.90 din 24.10.2022 privind implementarea proiectului „Achizitie autoutilitara multifunctionala pentru deszapezire in comuna Cucuteni, judetul Iasi”",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136357",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-41-2023",
+   "path": "local/iasi/cucuteni/2023/41",
+   "short": "HCL Cucuteni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 41/2023 privind rectificare bugetul local de venituri şi cheltuieli anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136358",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-42-2023",
+   "path": "local/iasi/cucuteni/2023/42",
+   "short": "HCL Cucuteni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 42/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136359",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-43-2023",
+   "path": "local/iasi/cucuteni/2023/43",
+   "short": "HCL Cucuteni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 43/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136360",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-44-2023",
+   "path": "local/iasi/cucuteni/2023/44",
+   "short": "HCL Cucuteni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 44/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local din 25 aprilie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138105",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-45-2023",
+   "path": "local/iasi/cucuteni/2023/45",
+   "short": "HCL Cucuteni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 45/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 28.03.2023 înregistrat sub nr. 8204 din 28.03.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138106",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-47-2023",
+   "path": "local/iasi/cucuteni/2023/47",
+   "short": "HCL Cucuteni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 47/2023 privind prelungirea cu 12 luni solicitarea acordului Consiliului local în vederea contractării unor linii de credite bancare până în suma maximă de 1.500.000 RON de către SC Gaz Nord Est SA",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138108",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-48-2023",
+   "path": "local/iasi/cucuteni/2023/48",
+   "short": "HCL Cucuteni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 48/2023 privind aprobarea încheierii Protocolului de colaborare dintre MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE (MMSS) si UAT Comuna Cucuteni, Judetul Iasi, privind proiectul ”HUB de servicii MMSS – SII MMSS” cod SMIS 2014+ 130963",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138109",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-49-2023",
+   "path": "local/iasi/cucuteni/2023/49",
+   "short": "HCL Cucuteni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 49/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009-consolidat 2021, prin Actul Adițional nr.3",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138110",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-5-2023",
+   "path": "local/iasi/cucuteni/2023/5",
+   "short": "HCL Cucuteni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 5/2023 privind modificarea anexei nr.1 de la HCL nr.30 din 06.04.2022 privind aprobarea depunerii proiectului “REABILITARE SEDIU PRIMARIE ÎN COMUNA CUCUTENI, JUDETUL IAȘI” în cadrul PNRR/2022, Componenta C5 – Valul Renovarii, AXA 2 – Schema de granturi pentru eficienta energetica si rezilienta in cladiri publice, Operatiunea B.1: Renovarea integrata (Consolidare seismica si renovare energetica moderata) a cladirilor publice",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/89091",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/89091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-50-2023",
+   "path": "local/iasi/cucuteni/2023/50",
+   "short": "HCL Cucuteni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 50/2023 privind aprobarea execuţiei bugetului pentru trimestrul I 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138111",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-52-2023",
+   "path": "local/iasi/cucuteni/2023/52",
+   "short": "HCL Cucuteni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 52/2023 privind aprobarea participării UAT- Comuna Cucuteni la Programul privind casarea autovehiculelor uzate \" Rabla local\" derulat în colaborare cu Administrația Fondului de Mediu",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138113",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-53-2023",
+   "path": "local/iasi/cucuteni/2023/53",
+   "short": "HCL Cucuteni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 53/2023 privind aprobarea ordinii de zi a şedinţei extraordinare a consiliului local din 17 mai 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138172",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-54-2023",
+   "path": "local/iasi/cucuteni/2023/54",
+   "short": "HCL Cucuteni nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 54/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 25.04.2023 înregistrat sub nr. 8257 din 25.04.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138173",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-55-2023",
+   "path": "local/iasi/cucuteni/2023/55",
+   "short": "HCL Cucuteni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 55/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici aferenti proiectului „Reabilitare sediu primarie în comuna Cucuteni, județul Iași” aprobat pentru finanțare prin Planul National de Redresare si Rezilienta",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138174",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-56-2023",
+   "path": "local/iasi/cucuteni/2023/56",
+   "short": "HCL Cucuteni nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 56/2023 privind aprobarea indicatorilor tehnico-economici și devizului general pentru obiecitvul de investiție: „AMENAJARE STRĂZI ÎN COMUNA CUCUTENI, JUDEȚUL IAȘI” -Etapa II",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138175",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-58-2023",
+   "path": "local/iasi/cucuteni/2023/58",
+   "short": "HCL Cucuteni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 58/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 17.05.2023 înregistrat sub nr. 8283 din 17.05.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138177",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-6-2023",
+   "path": "local/iasi/cucuteni/2023/6",
+   "short": "HCL Cucuteni nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 6/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local din 31 ianuarie 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136102",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-60-2023",
+   "path": "local/iasi/cucuteni/2023/60",
+   "short": "HCL Cucuteni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 60/2023 privind rectificare bugetul local de venituri şi cheltuieli anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/138179",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/138179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-64-2023",
+   "path": "local/iasi/cucuteni/2023/64",
+   "short": "HCL Cucuteni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 64/2023 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165692",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-65-2023",
+   "path": "local/iasi/cucuteni/2023/65",
+   "short": "HCL Cucuteni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 65/2023 privind aprobarea solicitării de acordare a Scrisorii de Garantie din partea Fondului de Garantare a Creditului Rural (FGCR), pentru finanţarea obiectivului de investiţie „Achiziție autoutilitara multifuncțională pentru deszăpezire în comuna Cucuteni, județul Iași”",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165693",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-66-2023",
+   "path": "local/iasi/cucuteni/2023/66",
+   "short": "HCL Cucuteni nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 66/2023 privind aprobarea solicitării de prelungire a Scrisorii de Garantie din partea Fondului de Garantare a Creditului Rural (FGCR), pentru finanţarea obiectivului de investiţie \"Restaurare, conservare si dotare monument istoric de clasa B – biserica de lemn “Sfanta Treime” din satul Baiceni, comuna Cucuteni, judetul Iasi\"",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165694",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-67-2023",
+   "path": "local/iasi/cucuteni/2023/67",
+   "short": "HCL Cucuteni nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 67/2023 privind actualizarea și completarea anexei nr.1 de la HCL nr.55 din 17.05.2023 pentru aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici aferenti proiectului „Reabilitare sediu primarie în comuna Cucuteni, județul Iași” aprobat pentru finanțare prin Planul National de Redresare si Rezilienta - copie",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165696",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-7-2023",
+   "path": "local/iasi/cucuteni/2023/7",
+   "short": "HCL Cucuteni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 7/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 06.01.2023 înregistrat sub nr. 8037 din 06.01.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136103",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-70-2023",
+   "path": "local/iasi/cucuteni/2023/70",
+   "short": "HCL Cucuteni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 70/2023 privind graficului de şedinţe al consiliului local pentru trimestrul III 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165708",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-72-2023",
+   "path": "local/iasi/cucuteni/2023/72",
+   "short": "HCL Cucuteni nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 72/2023 privind validarea Dispoziția Primarului comunei Cucuteni nr.83 din 27.06.2023 privind rectificarea bugetului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165710",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-74-2023",
+   "path": "local/iasi/cucuteni/2023/74",
+   "short": "HCL Cucuteni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 74/2023 privind aprobarea execuţiei bugetului pentru trimestrul II 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165712",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-76-2023",
+   "path": "local/iasi/cucuteni/2023/76",
+   "short": "HCL Cucuteni nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 76/2023 privind aprobarea ordinii de zi a şedinţei extraordinare de îndată a consiliului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165714",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-77-2023",
+   "path": "local/iasi/cucuteni/2023/77",
+   "short": "HCL Cucuteni nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 77/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 27.07.2023 înregistrat sub nr. 8385 din 27.07.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165715",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-78-2023",
+   "path": "local/iasi/cucuteni/2023/78",
+   "short": "HCL Cucuteni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 78/2023 privind revocare HCL nr.59/29.05.2023, privind aprobarea contractării unui împrumut în valoare de 1.346.274 lei, în conformitate cu prevederile art. 1 din Ordonanţa de urgenţă a Guvernului nr. 24/2023 privind unele măsuri fiscal - bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165716",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-79-2023",
+   "path": "local/iasi/cucuteni/2023/79",
+   "short": "HCL Cucuteni nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 79/2023 privind aprobarea contractării unui împrumut în valoare de 1.346.274 lei, în conformitate cu prevederile art. 1 din Ordonanţa de urgenţă a Guvernului nr. 24/2023 privind unele măsuri fiscal - bugetare destinate acordării unor împrumuturi din Trezoreria Statului, aprobată cu modificările și completări prin Legea nr.229/2023, cu modificările ulterioare",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165717",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-8-2023",
+   "path": "local/iasi/cucuteni/2023/8",
+   "short": "HCL Cucuteni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 8/2023 privind Raportul anual al primarului privind activitatea economică, socială şi de mediu",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136104",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-80-2023",
+   "path": "local/iasi/cucuteni/2023/80",
+   "short": "HCL Cucuteni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 80/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165718",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-81-2023",
+   "path": "local/iasi/cucuteni/2023/81",
+   "short": "HCL Cucuteni nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 81/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 31.07.2023 înregistrat sub nr. 8410 din 31.07.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165719",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-82-2023",
+   "path": "local/iasi/cucuteni/2023/82",
+   "short": "HCL Cucuteni nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 82/2023 privind raportului de analiză a activităţii desfăşurată în domeniu situaţiilor de urgenţă în semestrul I 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165720",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-83-2023",
+   "path": "local/iasi/cucuteni/2023/83",
+   "short": "HCL Cucuteni nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 83/2023 privind aprobarea Statutului comunei Cucuteni, județului Iași",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165721",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-84-2023",
+   "path": "local/iasi/cucuteni/2023/84",
+   "short": "HCL Cucuteni nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 84/2023 privind aprobarea Regulamentului de stabilire a metodologiei privind cadrul, modalitatea și criteriile de analiză și soluționare a cererilor de atribuire prin închiriere a apartamentelor din blocul aparținând domeniului privat al comunei, situat în satul Cucuteni",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165722",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-85-2023",
+   "path": "local/iasi/cucuteni/2023/85",
+   "short": "HCL Cucuteni nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 85/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente Programului pentru şcoli al României pentru anul şcolar 2023-2024 şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul Comunei Cucuteni, judeţul Iaşi",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165723",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-86-2023",
+   "path": "local/iasi/cucuteni/2023/86",
+   "short": "HCL Cucuteni nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 86/2023 privind rectificare bugetul local de venituri şi cheltuieli anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165724",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-87-2023",
+   "path": "local/iasi/cucuteni/2023/87",
+   "short": "HCL Cucuteni nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 87/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165748",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-88-2023",
+   "path": "local/iasi/cucuteni/2023/88",
+   "short": "HCL Cucuteni nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 88/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 22.08.2023 înregistrat sub nr. 8445 din 22.08.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165749",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-89-2023",
+   "path": "local/iasi/cucuteni/2023/89",
+   "short": "HCL Cucuteni nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 89/2023 privind graficului de şedinţe al consiliului local pentru trimestrul IV 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165750",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-9-2023",
+   "path": "local/iasi/cucuteni/2023/9",
+   "short": "HCL Cucuteni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 9/2023 privind Planul de acţiuni si lucrări de interes local, pe anul 2023, ce vor fi executate de către persoanele apte de muncă din familiile beneficiare de ajutor social, conform Legii nr.416/2001",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/136105",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/136105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-90-2023",
+   "path": "local/iasi/cucuteni/2023/90",
+   "short": "HCL Cucuteni nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 90/2023 privind aprobare listă cu priorități cuprinzând persoanele îndreptățite să beneficieze de o locuință socială",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165751",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-91-2023",
+   "path": "local/iasi/cucuteni/2023/91",
+   "short": "HCL Cucuteni nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 91/2023 privind acordare drept de acces pe domeniul public al comunei Cucuteni, în scopul instalării unui traseu de fibră optică aparținând SC Orange România SA",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165752",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-93-2023",
+   "path": "local/iasi/cucuteni/2023/93",
+   "short": "HCL Cucuteni nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 93/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021, prin Actul Adițional nr.4",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165754",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-95-2023",
+   "path": "local/iasi/cucuteni/2023/95",
+   "short": "HCL Cucuteni nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 95/2023 privind aprobarea solicitării de prelungire a Scrisorii de Garantie din partea Fondului de Garantare a Creditului Rural (FGCR), pentru finanţarea obiectivului de investiţie \"Restaurare, conservare si dotare monument istoric de clasa B – biserica de lemn “Sfanta Treime” din satul Baiceni, comuna Cucuteni, judetul Iasi\"",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165756",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-96-2023",
+   "path": "local/iasi/cucuteni/2023/96",
+   "short": "HCL Cucuteni nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 96/2023 privind prelungirea Scrisorii de Garantie din partea Fondului de Garantare a Creditului Rural (FGCR), pentru finanţarea obiectivului de investiţie „Achiziție autoutilitara multifuncțională pentru deszăpezire în comuna Cucuteni, județul Iași”",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165757",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-98-2023",
+   "path": "local/iasi/cucuteni/2023/98",
+   "short": "HCL Cucuteni nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 98/2023 privind aprobarea ordinii de zi a şedinţei ordinare a consiliului local",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165759",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-99-2023",
+   "path": "local/iasi/cucuteni/2023/99",
+   "short": "HCL Cucuteni nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 99/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 26.09.2023 înregistrat sub nr. 8500 din 26.09.2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165760",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165760",
      "sha256": null
     }
    ]

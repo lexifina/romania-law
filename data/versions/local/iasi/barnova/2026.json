@@ -3,6 +3,21 @@
  "shard": "local/iasi/barnova/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--barnova-10-2026",
+   "path": "local/iasi/barnova/2026/10",
+   "short": "HCL Bârnova nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 10/2026 privind aprobarea inițierii demersurilor necesare pentru derularea proiectului educațional «Ora de relaxare, ora cu animale- învățăm de la animale mici cum să fim oameni mari» în unitățile de învățământ din Comuna Bârnova, Judeţul Iaşi ca activitate educațională/opțională, în baza acordului unităților de învățământ",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249458",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-100-2026",
    "path": "local/iasi/barnova/2026/100",
    "short": "HCL Bârnova nr. 100/2026",
@@ -283,6 +298,1101 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/295538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-12-2026",
+   "path": "local/iasi/barnova/2026/12",
+   "short": "HCL Bârnova nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 12/2026 privind aprobarea completării art. 56 alin. 2 lit. d) al Regulamentului de organizare și funcționare a Consiliului local comunei Bârnova, județul Iasi, aprobat prin Hotărârea cu nr. 121 din 16.10.2020, modificat prin Hotărârea Consiliului Local Bârnova cu nr. 5 din 27.01.2021, cu nr. 56 din 26.04.2024 și cu nr. 158 din 12.12.2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249460",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-13-2026",
+   "path": "local/iasi/barnova/2026/13",
+   "short": "HCL Bârnova nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 13/2026 privind aprobarea modificării și completării Regulamentului Local de Urbanism aferent Planului Urbanistic General al comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249461",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-14-2026",
+   "path": "local/iasi/barnova/2026/14",
+   "short": "HCL Bârnova nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 14/2026 privind aprobarea completării art. 56 alin. 2 lit. d) al Regulamentului de organizare și funcționare a Consiliului local comunei Bârnova, județul Iasi, aprobat prin Hotărârea cu nr. 121 din 16.10.2020, modificat prin Hotărârea Consiliului Local Bârnova cu nr. 5 din 27.01.2021, cu nr. 56 din 26.04.2024 și cu nr. 158 din 12.12.2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249462",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-15-2026",
+   "path": "local/iasi/barnova/2026/15",
+   "short": "HCL Bârnova nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 15/2026 privind aprobarea alegerii unui președinte de ședință pentru perioada februarie -aprilie 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254737",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-19-2026",
+   "path": "local/iasi/barnova/2026/19",
+   "short": "HCL Bârnova nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 19/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254741",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-2-2026",
+   "path": "local/iasi/barnova/2026/2",
+   "short": "HCL Bârnova nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 2/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249450",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-22-2026",
+   "path": "local/iasi/barnova/2026/22",
+   "short": "HCL Bârnova nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 22/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții „Construire și dotări aferente pentru grădiniță în sat Vișan, comuna Bârnova, județul Iași”",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254744",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-23-2026",
+   "path": "local/iasi/barnova/2026/23",
+   "short": "HCL Bârnova nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 23/2026 privind aprobarea completării nomenclatorului stradal al comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254745",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-24-2026",
+   "path": "local/iasi/barnova/2026/24",
+   "short": "HCL Bârnova nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 24/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254746",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-25-2026",
+   "path": "local/iasi/barnova/2026/25",
+   "short": "HCL Bârnova nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 25/2026 privind aprobarea punerii la dispoziție către Asociația de Dezvoltare Intercomunitară Zona Metropolitană Iași a terenurilor proprietate publică/privată pe care va fi amplasată pista pentru bicicliști pentru realizarea obiectivului “AMENAJARE PISTE PENTRU BICICLIȘTI ÎN ZONA METROPOLITANĂ IAȘI” în cadrul „Programului de realizare a pistelor pentru biciclete” în calitate de membru al Asociației de Dezvoltare Intercomunitară Zona Metropolitană Iași",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254747",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-27-2026",
+   "path": "local/iasi/barnova/2026/27",
+   "short": "HCL Bârnova nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 27/2026 privind aprobarea facilităților de la plata taxelor și impozitelor locale pentru anul 2026 și eliminarea unor taxe speciale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258374",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-28-2026",
+   "path": "local/iasi/barnova/2026/28",
+   "short": "HCL Bârnova nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 28/2026 privind aprobarea indicatorilor cu privire la execuția bugetelor locale stabilite prin Ordinul comun MAI și MFP nr. 244/2651/2010 pentru trimestrul IV anul 2025, respectiv la data de 31.12.2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258375",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-29-2026",
+   "path": "local/iasi/barnova/2026/29",
+   "short": "HCL Bârnova nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 29/2026 privind aprobarea situațiilor financiare pentru trimestrul IV din anul 2025 (bilanț, cont de rezultat patrimonial și anexele acestuia)",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258376",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-3-2026",
+   "path": "local/iasi/barnova/2026/3",
+   "short": "HCL Bârnova nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 3/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249451",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-30-2026",
+   "path": "local/iasi/barnova/2026/30",
+   "short": "HCL Bârnova nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 30/2026 privind aprobarea introducerii în domeniul public al Comunei Bârnova a suprafeței de teren de 920 mp, lungime 220 ml, amplasată în tarlaua 0, parcela DS 491/2, 491/1, tarlaua 13 A, parcela 474/3 și stabilire destinație înființare drum public",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258377",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-31-2026",
+   "path": "local/iasi/barnova/2026/31",
+   "short": "HCL Bârnova nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 31/2026 privind aprobarea Strategiei de Dezvoltare a Serviciilor Sociale din cadrul Compartimentului Asistență Socială a Primăriei Comunei Bârnova pentru perioada 2026-2031",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258378",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-32-2026",
+   "path": "local/iasi/barnova/2026/32",
+   "short": "HCL Bârnova nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 32/2026 privind aprobarea Planului de dezvoltare privind serviciile sociale administrate și finanțate din bugetul local al comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258379",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-33-2026",
+   "path": "local/iasi/barnova/2026/33",
+   "short": "HCL Bârnova nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 33/2026 privind aprobarea Manualului de proceduri interne pentru Primăria comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258380",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-34-2026",
+   "path": "local/iasi/barnova/2026/34",
+   "short": "HCL Bârnova nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 34/2026 privind aprobarea alocării sumei de 35.000 lei din bugetul local al Consiliului local Bârnova pentru anul 2026 în trimestrul I al anului 2026 pentru asigurarea participării echipei de seniori și juniori la Campionatul Județean ediția 2025-2026 retur de campionat",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258381",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-36-2026",
+   "path": "local/iasi/barnova/2026/36",
+   "short": "HCL Bârnova nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 36/2026 privind aprobarea introducerii în domeniul public al Comunei Bârnova a suprafeței de teren de 3,2937 ha amplasată în tarlaua 24, parcela 1991/20, 1992, 1994/20, 1995/1 extravilan Comuna Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258383",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-37-2026",
+   "path": "local/iasi/barnova/2026/37",
+   "short": "HCL Bârnova nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 37/2026 privind aprobarea introducerii în domeniul public al Comunei Bârnova a suprafeței de teren de 4150 mp, lungime 820 ml, amplasată în tarlaua 24, parcela DE 1994/21, DE 1993 și stabilire destinație înființare drum public",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258384",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-38-2026",
+   "path": "local/iasi/barnova/2026/38",
+   "short": "HCL Bârnova nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 38/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258385",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-39-2026",
+   "path": "local/iasi/barnova/2026/39",
+   "short": "HCL Bârnova nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 39/2026 privind aprobarea interzicerii desfășurării activităților de jocuri de noroc în locații fizice pe raza UAT Comuna Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258386",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-40-2026",
+   "path": "local/iasi/barnova/2026/40",
+   "short": "HCL Bârnova nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 40/2026 privind aprobarea constituirii Comisiei de lucru pentru identificarea și stabilirea necesarului de lucrări de pietruire și modernizare a drumurilor publice din comuna Bârnova pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258387",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-41-2026",
+   "path": "local/iasi/barnova/2026/41",
+   "short": "HCL Bârnova nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 41/2026 privind aprobarea demarării procedurilor pentru elaborarea și depunerea unui proiect de finanțare în cadrul Programului Național „Școli Sigure și Sănătoase\", pentru realizarea obiectivului de investiții „Construire corp nou de clădire la Școala Gimnazială Bârnova, comuna Bârnova, județul Iași\"",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258388",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-42-2026",
+   "path": "local/iasi/barnova/2026/42",
+   "short": "HCL Bârnova nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 42/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263386",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-44-2026",
+   "path": "local/iasi/barnova/2026/44",
+   "short": "HCL Bârnova nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 44/2026 privind stabilirea normativelor proprii pentru consumul lunar de carburanți pentru vehiculele din dotarea Primăriei comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263388",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-45-2026",
+   "path": "local/iasi/barnova/2026/45",
+   "short": "HCL Bârnova nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 45/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263389",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-46-2026",
+   "path": "local/iasi/barnova/2026/46",
+   "short": "HCL Bârnova nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 46/2026 privind avizare PUZ “ÎNTOCMIRE PUZ ȘI RLU INTRODUCEREA PARȚIALĂ (2330 MP) DE TEREN ÎN INTRAVILAN ÎN VEDEREA CONSTRUIRII UNOR LOCUINȚE INDIVIDUALE ȘI ANEXE AFERENTE FUNCȚIUNII DE LOCUIRE\" pentru terenul în suprafață de 2330 mp, cu nr. Cadastral 70278, 68352 și 68351 beneficiar TIMOFTE-ZORILĂ LEONAȘ-GABRIEL și TIMOFTE-ZORILĂ MIHAELA-MĂDĂLINA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263390",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-47-2026",
+   "path": "local/iasi/barnova/2026/47",
+   "short": "HCL Bârnova nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 47/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263391",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-49-2026",
+   "path": "local/iasi/barnova/2026/49",
+   "short": "HCL Bârnova nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 49/2026 privind aprobarea PLANULUI de analiză și acoperire a riscurilor în Comuna Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263393",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-50-2026",
+   "path": "local/iasi/barnova/2026/50",
+   "short": "HCL Bârnova nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 50/2026 privind aprobarea fișei localității Comuna Bârnova în domeniul situațiilor de urgență pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263394",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-51-2026",
+   "path": "local/iasi/barnova/2026/51",
+   "short": "HCL Bârnova nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 51/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263395",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-52-2026",
+   "path": "local/iasi/barnova/2026/52",
+   "short": "HCL Bârnova nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 52/2026 privind aprobarea modificării organigramei și statului de funcții al aparatului de specialitate al primarului comunei Bârnova urmare a reorganizării conform prevederilor OUG nr. 7 din 25.02.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263396",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-53-2026",
+   "path": "local/iasi/barnova/2026/53",
+   "short": "HCL Bârnova nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 53/2026 privind aprobarea modificării art. 1 alin (1) al hotărârii Consiliului Local Bârnova cu nr. 39 din 13.03.2026 privind aprobarea interzicerii desfășurării activităților de jocuri de noroc în locații fizice pe raza UAT Comuna Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263397",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-54-2026",
+   "path": "local/iasi/barnova/2026/54",
+   "short": "HCL Bârnova nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 54/2026 privind aprobarea alegerii unui președinte de ședință pentru perioada mai - iulie 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267557",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-55-2026",
+   "path": "local/iasi/barnova/2026/55",
+   "short": "HCL Bârnova nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 55/2026 privind aprobarea premierii aniversare a cetățenilor care împlinesc vârsta de 90 de ani",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267558",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-56-2026",
+   "path": "local/iasi/barnova/2026/56",
+   "short": "HCL Bârnova nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 56/2026 privind aprobarea transmiterii cu titlu gratuit a drepturilor şi obligaţiilor ce decurg din Autorizaţia de construire nr. 26 din 16.04.2026, a Proiectului elaborat de SC LDM HIDRO PROJECT SRL Iaşi cu nr. 02/2025, a avizelor aferente si a devizului general pentru realizarea obiectivului “Realizare colector principal de canalizare cu funcționare gravitațională, în str. Sf Ilie, sat Vișan, comuna Bârnova, județul Iași”, către SC ApaVital SA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267559",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-57-2026",
+   "path": "local/iasi/barnova/2026/57",
+   "short": "HCL Bârnova nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 57/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267560",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-58-2026",
+   "path": "local/iasi/barnova/2026/58",
+   "short": "HCL Bârnova nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 58/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267561",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-59-2026",
+   "path": "local/iasi/barnova/2026/59",
+   "short": "HCL Bârnova nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 59/2026 privind aprobarea bugetului local de venituri și cheltuieli al comunei Bârnova pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267562",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-60-2026",
+   "path": "local/iasi/barnova/2026/60",
+   "short": "HCL Bârnova nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 60/2026 privind aprobarea Planului anual al achizițiilor publice al comunei Bârnova pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267563",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-62-2026",
+   "path": "local/iasi/barnova/2026/62",
+   "short": "HCL Bârnova nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 62/2026 privind aprobarea introducerii din domeniul privat în domeniul public al Comunei Bârnova a suprafețelor de teren după cum urmează: 5097 mp cu nr. Cadastral 77111, 639 mp amplasată în T 76, parcela CC 2804/9 și 833 mp amplasată în T 76, parcela CC 2804/8",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267565",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-64-2026",
+   "path": "local/iasi/barnova/2026/64",
+   "short": "HCL Bârnova nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 64/2026 privind aprobarea indicatorilor cu privire la execuția bugetelor locale stabilite prin Ordinul comun MAI și MFP nr. 244/2651/2010 pentru trimestrul I anul 2026, respectiv la data de 31.03.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267567",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-65-2026",
+   "path": "local/iasi/barnova/2026/65",
+   "short": "HCL Bârnova nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 65/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267568",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-66-2026",
+   "path": "local/iasi/barnova/2026/66",
+   "short": "HCL Bârnova nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 66/2026 privind aprobare introducere reglementare în cadrul Planului Urbanistic General al Comunei Bârnova a interzicerii construirii de locuințe colective în zonele destinate locuințelor individuale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267569",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-67-2026",
+   "path": "local/iasi/barnova/2026/67",
+   "short": "HCL Bârnova nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 67/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267570",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-68-2026",
+   "path": "local/iasi/barnova/2026/68",
+   "short": "HCL Bârnova nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 68/2026 privind aprobarea completării nomenclatorului stradal al comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274045",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-69-2026",
+   "path": "local/iasi/barnova/2026/69",
+   "short": "HCL Bârnova nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 69/2026 privind aprobarea situațiilor financiare pentru trimestrul I din anul 2026 (bilanț, cont de rezultat patrimonial și anexele acestuia)",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274046",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-70-2026",
+   "path": "local/iasi/barnova/2026/70",
+   "short": "HCL Bârnova nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 70/2026 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 1000 mp amplasată în tarlaua 5, parcelele A 92/1, A 93/2, VH94, L 95/2, sat Cercu, str. Marin Preda și stabilire destinatie suprafață atribuire loturi tineri potrivit Legii nr. 15/2003",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274047",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-72-2026",
+   "path": "local/iasi/barnova/2026/72",
+   "short": "HCL Bârnova nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 72/2026 privind aprobarea introducerii în domeniul public al Comunei Bârnova din domeniul privat, a suprafeței de teren de 3506 mp identificată cu nr. Cadastral 73060 amplasată în T 40 parcela 2566, 2553",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274050",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-73-2026",
+   "path": "local/iasi/barnova/2026/73",
+   "short": "HCL Bârnova nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 73/2026 privind acordare normă de hrană pentru personalul poliției locale conform prevederilor OG nr. 26/1994",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274051",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-74-2026",
+   "path": "local/iasi/barnova/2026/74",
+   "short": "HCL Bârnova nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 74/2026 privind aprobarea introducerii în domeniul public al Comunei Bârnova din domeniul privat, a suprafeței de teren de 3959 mp identificată cu nr. Cadastral 71778 amplasată în T 57 parcela 3385/6, 3382, 3381/6",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274052",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-75-2026",
+   "path": "local/iasi/barnova/2026/75",
+   "short": "HCL Bârnova nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 75/2026 privind aprobarea completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 11",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274053",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-76-2026",
+   "path": "local/iasi/barnova/2026/76",
+   "short": "HCL Bârnova nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 76/2026 privind aprobarea completării hotărârii Consiliului Loal Bârnova cu nr. 62 din 08.05.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274054",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-77-2026",
+   "path": "local/iasi/barnova/2026/77",
+   "short": "HCL Bârnova nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 77/2026 privind aprobarea implementării proiectului „Achiziție buldoexcavator pentru dotarea serviciului de gospodărire comunală, comuna Bârnova, județul Iași”",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274055",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-80-2026",
+   "path": "local/iasi/barnova/2026/80",
+   "short": "HCL Bârnova nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 80/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274058",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-81-2026",
+   "path": "local/iasi/barnova/2026/81",
+   "short": "HCL Bârnova nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 81/2026 privind aprobaree PUZ “ÎNTOCMIRE PUZ ȘI RLU INTRODUCEREA PARȚIALĂ (2330 MP) DE TEREN ÎN INTRAVILAN ÎN VEDEREA CONSTRUIRII UNOR LOCUINȚE INDIVIDUALE ȘI ANEXE AFERENTE FUNCȚIUNII DE LOCUIRE\" pentru terenul în suprafață de 2330 mp, cu nr. Cadastral 70278, 68352 și 68351 beneficiar TIMOFTE-ZORILĂ LEONAȘ-GABRIEL și TIMOFTE-ZORILĂ MIHAELA-MĂDĂLINA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274059",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-82-2026",
+   "path": "local/iasi/barnova/2026/82",
+   "short": "HCL Bârnova nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 82/2026 privind darea în folosință gratuită, de către UAT Comuna Bârnova care a delegat dreptul de depunere și implementare a proiectului către Consiliul Județean Iași, către Școala Gimnazială Bârnova a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului",
+   "url": "https://emol.ro/barnova-is/registru-hcl/279186",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/279186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-83-2026",
+   "path": "local/iasi/barnova/2026/83",
+   "short": "HCL Bârnova nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 83/2026 privind solicitarea transferului proprietății, de la UAT Județul Iași -Consiliul Județean Iași către UAT Bârnova a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie",
+   "url": "https://emol.ro/barnova-is/registru-hcl/279187",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/279187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-85-2026",
+   "path": "local/iasi/barnova/2026/85",
+   "short": "HCL Bârnova nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 85/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280520",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-86-2026",
+   "path": "local/iasi/barnova/2026/86",
+   "short": "HCL Bârnova nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 86/2026 privind aprobarea rectificării hotărârii Consiliului Local Bârnova cu nr. 62 din 08.05.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280521",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-87-2026",
+   "path": "local/iasi/barnova/2026/87",
+   "short": "HCL Bârnova nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 87/2026 privind aprobarea modificării Cap. VI art. 26 al Regulamentului de Ordine Interioară aprobat prin hotărârea Consiliului Local Bârnova cu nr. 138 din 27.09.2019",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280522",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-88-2026",
+   "path": "local/iasi/barnova/2026/88",
+   "short": "HCL Bârnova nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 88/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280523",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-89-2026",
+   "path": "local/iasi/barnova/2026/89",
+   "short": "HCL Bârnova nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 89/2026 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente Programului pentru şcoli al României pentru anul şcolar 2026-2027 şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul Comunei Bârnova, judeţul Iaşi",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280524",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-9-2026",
+   "path": "local/iasi/barnova/2026/9",
+   "short": "HCL Bârnova nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 9/2026 privind aprobarea Regulamentului pentru stabilirea cadrului organizațional de desfășurare a audiențelor și întâlnirilor cu cetățenii de către consilierii locali ai Comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249457",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-90-2026",
+   "path": "local/iasi/barnova/2026/90",
+   "short": "HCL Bârnova nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 90/2026 privind aprobarea modificării organigramei și statului de funcții al aparatului de specialitate al primarului comunei Bârnova începând cu data de 01.08.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280525",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-93-2026",
+   "path": "local/iasi/barnova/2026/93",
+   "short": "HCL Bârnova nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 93/2026 privind aprobarea modificării bugetului local de venituri și cheltuieli al comunei Bârnova pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280528",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-94-2026",
+   "path": "local/iasi/barnova/2026/94",
+   "short": "HCL Bârnova nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 94/2026 privind aprobarea completării Regulamentului de organizare și funcționare a Consiliului local comunei Bârnova, județul Iasi, aprobat prin Hotărârea cu nr. 121 din 16.10.2020, modificat prin Hotărârea Consiliului Local Bârnova cu nr. 5 din 27.01.2021, cu nr. 56 din 26.04.2024, cu nr. 158 din 12.12.2025 și cu nr. 12 și 14 din 28.01.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280529",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-95-2026",
+   "path": "local/iasi/barnova/2026/95",
+   "short": "HCL Bârnova nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 95/2026 privind aprobarea alegerii unui președinte de ședință pentru perioada august-octombrie 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/285280",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/285280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-96-2026",
+   "path": "local/iasi/barnova/2026/96",
+   "short": "HCL Bârnova nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 96/2026 privind aprobarea indicatorilor cu privire la execuția bugetelor locale stabilite prin Ordinul comun MAI și MFP nr. 244/2651/2010 pentru trimestrul II anul 2026, respectiv la data de 30.06.2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/285281",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/285281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-97-2026",
+   "path": "local/iasi/barnova/2026/97",
+   "short": "HCL Bârnova nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 97/2026 privind aprobarea documentației tehnico-economice, devizului general pentru obiectivul de investiții „Modernizare drumuri locale prin asfaltare în Comuna Bârnova, județul Iași”, caietului de sarcini și alocarea bugetară",
+   "url": "https://emol.ro/barnova-is/registru-hcl/285282",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/285282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-98-2026",
+   "path": "local/iasi/barnova/2026/98",
+   "short": "HCL Bârnova nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 98/2026 privind darea în folosință gratuită, de către UAT Comuna Bârnova care a delegat dreptul de depunere și implementare a proiectului către Consiliul Județean Iași, către Școala Gimnazială Bârnova a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului",
+   "url": "https://emol.ro/barnova-is/registru-hcl/285283",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/285283",
      "sha256": null
     }
    ]

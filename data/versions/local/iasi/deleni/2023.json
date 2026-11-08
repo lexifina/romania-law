@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-iasi--deleni-43-2023",
+   "path": "local/iasi/deleni/2023/43",
+   "short": "HCL Deleni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 43/2023 privind aprobarea impozitelor si taxelor locale pentru anul fiscal 2024 la nivel de comuna Deleni, jud. Iasi;",
+   "url": "https://emol.ro/deleni-is/registru-hcl/103065",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-is/registru-hcl/103065",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

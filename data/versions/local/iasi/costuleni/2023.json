@@ -3,6 +3,36 @@
  "shard": "local/iasi/costuleni/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--costuleni-12-2023",
+   "path": "local/iasi/costuleni/2023/12",
+   "short": "HCL Costuleni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 12/2023 pentru aprobarea Regulamentului privind buna gospodărire a comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/97946",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/97946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-24-2023",
+   "path": "local/iasi/costuleni/2023/24",
+   "short": "HCL Costuleni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 24/2023 privind aprobarea Strategiei de Dezvoltare a serviciilor publice de alimentare cu apă și de canalizare la nivelul ariei delegării, pentru perioada 2023-2028",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/106893",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/106893",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-54-2023",
    "path": "local/iasi/costuleni/2023/54",
    "short": "HCL Costuleni nr. 54/2023",
@@ -298,6 +328,21 @@
      "from": "2023-12-21",
      "units": 1,
      "source_url": "https://emol.ro/costuleni-is/registru-hcl/135335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-8-2023",
+   "path": "local/iasi/costuleni/2023/8",
+   "short": "HCL Costuleni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 8/2023",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/92673",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/92673",
      "sha256": null
     }
    ]

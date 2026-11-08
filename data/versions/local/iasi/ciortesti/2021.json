@@ -3,6 +3,36 @@
  "shard": "local/iasi/ciortesti/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--ciortesti-1-2021",
+   "path": "local/iasi/ciortesti/2021/1",
+   "short": "HCL Ciortești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 1/2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26768",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-10-2021",
+   "path": "local/iasi/ciortesti/2021/10",
+   "short": "HCL Ciortești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 10/2021 privind aprobarea execuției bugetului local pe trimestrul III 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26777",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26777",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-100-2021",
    "path": "local/iasi/ciortesti/2021/100",
    "short": "HCL Ciortești nr. 100/2021",
@@ -93,6 +123,441 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-11-2021",
+   "path": "local/iasi/ciortesti/2021/11",
+   "short": "HCL Ciortești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 11/2021 privind aprobarea execuției bugetului local pe trimestrul IV 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26778",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-12-2021",
+   "path": "local/iasi/ciortesti/2021/12",
+   "short": "HCL Ciortești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 12/2021 privind aprobarea utilizării excedentului bugetului local din anul 2020 al secțiunii de dezvoltare în anul 2021 în sumă de 1.239.992,40 lei",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26779",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-15-2021",
+   "path": "local/iasi/ciortesti/2021/15",
+   "short": "HCL Ciortești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 15/2021 privind actualizarea și modificarea anexei 12 ''Inventarul bunurilor care aparțin domeniului public al comunei Ciortești'', însușită prin HCL nr. 42/2010 și aprobată prin HG nr. 48/2007",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26791",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-16-2021",
+   "path": "local/iasi/ciortesti/2021/16",
+   "short": "HCL Ciortești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 16/2021 privind stabilirea programului de transport public local de persoane între localitățile componente ale Comunei Ciortești, necesar întocmirii Noului program de transport public județean de persoane",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26792",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-2-2021",
+   "path": "local/iasi/ciortesti/2021/2",
+   "short": "HCL Ciortești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 2/2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26769",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-20-2021",
+   "path": "local/iasi/ciortesti/2021/20",
+   "short": "HCL Ciortești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 20/2021 privind aprobarea planului de ocupare a funcțiilor publice din cadrul aparatului de specialitate al primarului comunei Ciortești, județul Iași, pentru anul 2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26803",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-21-2021",
+   "path": "local/iasi/ciortesti/2021/21",
+   "short": "HCL Ciortești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 21/2021 privind modificarea Actului Constitutiv și Statutului Asociației de Dezvoltare Intercomunitară ''Plaiurile Jijiei', prin aderarea UAT - Județul Iași prin Consiliul Județean Iași la asociație",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26804",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-23-2021",
+   "path": "local/iasi/ciortesti/2021/23",
+   "short": "HCL Ciortești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 23/2021 privind anularea din bugetul local a obligațiilor fiscale privind prescrierea la termen amenzilor contravenționale în cuantum de 115047 lei",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26806",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-24-2021",
+   "path": "local/iasi/ciortesti/2021/24",
+   "short": "HCL Ciortești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 24/2021 privind actualizarea programului de transport public local de persoane între localitățile componente ale comunei Ciortești, necesar întocmirii Noului program de transport public județean de persoane",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26807",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-26-2021",
+   "path": "local/iasi/ciortesti/2021/26",
+   "short": "HCL Ciortești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 26/2021 privind stabilirea condițiilor în care se realizează accesul pe proprietatea publică sau privată a UAT Ciortești, județul Iași, în vederea construirii instalării, întreținerii, înlocuirii ori mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26823",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-29-2021",
+   "path": "local/iasi/ciortesti/2021/29",
+   "short": "HCL Ciortești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 29/2021 privind revocarea HCL nr. 15/2021 privind actualizarea și modificarea anexei 12 ''Inventarul bunurilor care aparțin domeniului public al comunei Ciortești'', însușită prin HCL nr. 42/2010 și aprobată prin HG nr. 48/2007",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26826",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-3-2021",
+   "path": "local/iasi/ciortesti/2021/3",
+   "short": "HCL Ciortești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 3/2021 privind organizarea rețelei școlare în anul școlar 2021-2022 în comuna Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26770",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-30-2021",
+   "path": "local/iasi/ciortesti/2021/30",
+   "short": "HCL Ciortești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 30/2021 privind aprobarea execuției bugetului local pe trimestrul I 2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26844",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-32-2021",
+   "path": "local/iasi/ciortesti/2021/32",
+   "short": "HCL Ciortești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 32/2021 privind stabilirea condițiilor în care se realizează accesul pe proprietatea publică sau privată a comunei Ciortești, județul iași, în vederea construirii, instalării, întreținerii, înlocuirii ori mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26846",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-33-2021",
+   "path": "local/iasi/ciortesti/2021/33",
+   "short": "HCL Ciortești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 33/2021 privind aprobarea contractării și garantării unei finanțări rambursabile interne",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26847",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-34-2021",
+   "path": "local/iasi/ciortesti/2021/34",
+   "short": "HCL Ciortești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 34/2021 privind aprobarea bugetului local și a listei de investiții ale comunei Ciortești pe anul 2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26848",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-35-2021",
+   "path": "local/iasi/ciortesti/2021/35",
+   "short": "HCL Ciortești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 35/2021 privind aprobarea Programului anual al achizițiilor publice pe anul 2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26849",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-36-2021",
+   "path": "local/iasi/ciortesti/2021/36",
+   "short": "HCL Ciortești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 36/2021 privind aprobarea numărului și a cuantumului burselor școlare aferente anului școlar 2020-2021 pentru elevii din învățământul preuniveristar de stat, la nivelul comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26850",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-37-2021",
+   "path": "local/iasi/ciortesti/2021/37",
+   "short": "HCL Ciortești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 37/2021 privind predarea către Consiliul Județean Iași - Direcția Județeană de Administrare a Drumurilor și Podurilor Iași a amplasamentului situat în sat Coropceni, comuna Ciortești, județul Iași, în vederea executării și asigurării condițiilor obiectivului de investiții '' Modernizare drum județean Dj 244D limita județului Vaslui - Dolhești - Ciortești - Coropceni (intersecție DN 24), km. 25+500-32+800 - Km 34+800-38+693",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26851",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-39-2021",
+   "path": "local/iasi/ciortesti/2021/39",
+   "short": "HCL Ciortești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 39/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Ciortești pentru perioada 2021-2027",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26877",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-4-2021",
+   "path": "local/iasi/ciortesti/2021/4",
+   "short": "HCL Ciortești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 4/2021 privind aprobarea graficului de ședință pentru trimestrul I 2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26771",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-40-2021",
+   "path": "local/iasi/ciortesti/2021/40",
+   "short": "HCL Ciortești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 40/2021 privind aderarea comunei Ciortești la Societatea Națională de Cruce Roșie din România - Filiala Județului Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26878",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-41-2021",
+   "path": "local/iasi/ciortesti/2021/41",
+   "short": "HCL Ciortești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 41/2021 privind revizuirea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26879",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-42-2021",
+   "path": "local/iasi/ciortesti/2021/42",
+   "short": "HCL Ciortești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 42/2021 privind aprobarea actualizării ''Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ''",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26880",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-5-2021",
+   "path": "local/iasi/ciortesti/2021/5",
+   "short": "HCL Ciortești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 5/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pentru persoanele apte de muncă din familiile beneficiare cu venit minim garantat pentru anul 2021",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26772",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-6-2021",
+   "path": "local/iasi/ciortesti/2021/6",
+   "short": "HCL Ciortești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 6/2021 privind aprobarea ''Planul de pază al comunei Ciortești, județul Iași''",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26773",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-7-2021",
+   "path": "local/iasi/ciortesti/2021/7",
+   "short": "HCL Ciortești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 7/2021 privind stabilirea consumului mediu de carburant a parcului auto aflat în patrimoniul comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26774",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-8-2021",
+   "path": "local/iasi/ciortesti/2021/8",
+   "short": "HCL Ciortești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 8/2021 privind aprobarea execuției bugetului local pe trimestrul I 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26775",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-83-2021",
+   "path": "local/iasi/ciortesti/2021/83",
+   "short": "HCL Ciortești nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 83/2021 privind implementarea proiectului ”Dotarea cu o remorcă mono ax 5 tone a Serviciului de gospodărire comunală și iluminat public din cadrul aparatului de specialitate al primarului comunei Ciortești, județul Iași”",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/54634",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/54634",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-86-2021",
    "path": "local/iasi/ciortesti/2021/86",
    "short": "HCL Ciortești nr. 86/2021",
@@ -148,6 +613,21 @@
      "from": "2022-03-24",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/54640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-9-2021",
+   "path": "local/iasi/ciortesti/2021/9",
+   "short": "HCL Ciortești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 9/2021 privind aprobarea execuției bugetului local pe trimestrul II 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26776",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26776",
      "sha256": null
     }
    ]

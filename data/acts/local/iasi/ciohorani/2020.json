@@ -3,6 +3,72 @@
 "shard": "local/iasi/ciohorani/2020",
 "acts": [
 {
+"slug": "hcl-iasi--ciohorani-4-2020",
+"path": "local/iasi/ciohorani/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 4/2020 privind aprobarea cuantumului si a numărului de burse acordate elevilor din unităţile de învăţământ preuniversitar de stat de pe raza comunei Ciohorăni, pentru anul 2020",
+"short": "HCL Ciohorăni nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/3778",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-5-2020",
+"path": "local/iasi/ciohorani/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 5/2020 privind stabilirea salariilor de baza pentru funcţionarii publici şi personalul contractualdin cadrul aparatului de specialitate al primarului",
+"short": "HCL Ciohorăni nr. 5/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/3779",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-11-2020",
+"path": "local/iasi/ciohorani/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 11/2020 privind aprobarea bugetului de venituri şi cheltuieli al comunei Ciohorăni pentru anul 2020 si a listei investițiilor publice",
+"short": "HCL Ciohorăni nr. 11/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/3785",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--ciohorani-15-2020",
 "path": "local/iasi/ciohorani/2020/15",
 "kind": "local",

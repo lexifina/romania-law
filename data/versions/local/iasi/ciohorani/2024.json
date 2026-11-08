@@ -3,6 +3,126 @@
  "shard": "local/iasi/ciohorani/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-1-2024",
+   "path": "local/iasi/ciohorani/2024/1",
+   "short": "HCL Ciohorăni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 1/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Ciohorăni, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/143152",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/143152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-14-2024",
+   "path": "local/iasi/ciohorani/2024/14",
+   "short": "HCL Ciohorăni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 14/2024 privind apobarea necesitătii si oportunitătii achizitionării unor servicii de învătământ în domeniul cultural",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/162352",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/162352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-4-2024",
+   "path": "local/iasi/ciohorani/2024/4",
+   "short": "HCL Ciohorăni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 4/2024 privind aprobarea Planului de lucrări de interes local, ce se va executa de către persoanele apte de muncă beneficiare de ajutor de incluziune în anul 2024",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/143155",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/143155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-48-2024",
+   "path": "local/iasi/ciohorani/2024/48",
+   "short": "HCL Ciohorăni nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 48/2024 privind aprobarea Planul de afaceri, Strategia de tarifare aferentă planului de afaceri, formula de ajustare tarifară și strategia privind redevența precum și modificarea și completarea Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/184682",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/184682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-51-2024",
+   "path": "local/iasi/ciohorani/2024/51",
+   "short": "HCL Ciohorăni nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 51/2024 privind aprobarea achizitionării a trei autoturisme prin Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic, 2020 - 2024",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/184685",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/184685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-52-2024",
+   "path": "local/iasi/ciohorani/2024/52",
+   "short": "HCL Ciohorăni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 52/2024 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni pe anul 2024",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/184686",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/184686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-53-2024",
+   "path": "local/iasi/ciohorani/2024/53",
+   "short": "HCL Ciohorăni nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 53/2024 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/184687",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/184687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-54-2024",
+   "path": "local/iasi/ciohorani/2024/54",
+   "short": "HCL Ciohorăni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 54/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/184833",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/184833",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-55-2024",
    "path": "local/iasi/ciohorani/2024/55",
    "short": "HCL Ciohorăni nr. 55/2024",

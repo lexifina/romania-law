@@ -3,6 +3,651 @@
  "shard": "local/iasi/costesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--costesti-10-2020",
+   "path": "local/iasi/costesti/2020/10",
+   "short": "HCL Costești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 10/2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6688",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-15-2020",
+   "path": "local/iasi/costesti/2020/15",
+   "short": "HCL Costești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 15/2020 privind aprobarea actualizarii programului anual al achiziţiilor publice al comunei Costesti, judetul Iasi, pentru anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6693",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-18-2020",
+   "path": "local/iasi/costesti/2020/18",
+   "short": "HCL Costești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 18/2020 privind aprobarea execuţiei bugetului de venituri şi cheltuieli pentru trimestrul IV -SEM.II- la data de 31.12.2019",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6696",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-2-2020",
+   "path": "local/iasi/costesti/2020/2",
+   "short": "HCL Costești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 2/2020 privind validarea Dispozițiilor primarului comunei Costesti nr. 187 din 20.12.2019 şi nr.190 din 23.12.2019 pentru rectificarea bugetului de venituri si cheltuieli pe trim. IV anul 2019",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6674",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-26-2020",
+   "path": "local/iasi/costesti/2020/26",
+   "short": "HCL Costești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 26/2020 privind aprobarea rectificarii Bugetului de venituri și cheltuieli pe trim. I al anului 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6710",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-27-2020",
+   "path": "local/iasi/costesti/2020/27",
+   "short": "HCL Costești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 27/2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6717",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-28-2020",
+   "path": "local/iasi/costesti/2020/28",
+   "short": "HCL Costești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 28/2020 privind aprobarea actualizarii inventarului domeniului public al U A T Comuna Costești, judeţul Iasi, ca urmare a înscrierii în Cartea Funciară a unor drumuri şi poduri",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6718",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-29-2020",
+   "path": "local/iasi/costesti/2020/29",
+   "short": "HCL Costești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 29/2020 referitoare la actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.36",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6719",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-30-2020",
+   "path": "local/iasi/costesti/2020/30",
+   "short": "HCL Costești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 30/2020 privind aprobarea rectificarii Bugetului de venituri și cheltuieli pe trim. II al anului 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6720",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-31-2020",
+   "path": "local/iasi/costesti/2020/31",
+   "short": "HCL Costești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 31/2020 cu privire la aprobarea participarii in cadrul programului Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6721",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-32-2020",
+   "path": "local/iasi/costesti/2020/32",
+   "short": "HCL Costești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 32/2020 privind rectificarea bugetului de venituri și cheltuieli pe anul 2020, cuprinzând influente, pe trim.II și trim.IV",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8876",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-33-2020",
+   "path": "local/iasi/costesti/2020/33",
+   "short": "HCL Costești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 33/2020 privind aprobarea execuţiei bugetului de venituri şi cheltuieli pentru trimestrul I -SEM.I- la data de 31.03.2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8877",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-34-2020",
+   "path": "local/iasi/costesti/2020/34",
+   "short": "HCL Costești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 34/2020 privind aprobarea indicatorilor tehnico-economici, pentru investiția „REABILITAREA ŞI MODERNIZAREA INFRASTRUCTURII RUTIERE AFECTATA DE FENOMENELE HIDROMETEOROLOGICE PERICULOASE DIN COMUNA COSTEŞTI, JUD. IAŞI”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8878",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-35-2020",
+   "path": "local/iasi/costesti/2020/35",
+   "short": "HCL Costești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 35/2020 privind aprobarea STUDIULUI DE FEZABILITATE pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul IASI în perioada 2014 - 2020” precum și a indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8879",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-36-2020",
+   "path": "local/iasi/costesti/2020/36",
+   "short": "HCL Costești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 36/2020 privind aprobarea valorii investițiilor aferente UAT Comuna Costeşti, jud. Iaşi și a participării acesteia la cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iaşi, în perioada 2014 – 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8880",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-4-2020",
+   "path": "local/iasi/costesti/2020/4",
+   "short": "HCL Costești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 4/2020 privind aprobarea scoaterii din functiune in vederea casarii şi valorificării a unor elemente de natura activelor",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6676",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-40-2020",
+   "path": "local/iasi/costesti/2020/40",
+   "short": "HCL Costești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 40/2020 privind modificarea HCL Comuna Costești, jud. Iaşi nr. 60/01.08.2019",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8926",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-42-2020",
+   "path": "local/iasi/costesti/2020/42",
+   "short": "HCL Costești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 42/2020 privind aprobarea Actului Adițional nr. 37 la Contractul de delegare nr. 48/2009 ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8935",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-43-2020",
+   "path": "local/iasi/costesti/2020/43",
+   "short": "HCL Costești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 43/2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8936",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-44-2020",
+   "path": "local/iasi/costesti/2020/44",
+   "short": "HCL Costești nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 44/2020 privind aprobarea inceperii investitiei ”Modernizarea sistemului de iluminat poblic stradal în Comuna Costeşti, jud. Iaşi”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8937",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-45-2020",
+   "path": "local/iasi/costesti/2020/45",
+   "short": "HCL Costești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 45/2020 privind stabilirea perioadei în care se efectuează activitatea de inventariere pentru anul 2019, precum şi data până la care se face publicarea rezultatului acesteia, pe pagina de internet a U A T Comuna Costeşti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8938",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-46-2020",
+   "path": "local/iasi/costesti/2020/46",
+   "short": "HCL Costești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 46/2020 privind rectificarea Bugetului de venituri si cheltuieli pe Trim. III anul 2020 si modificarea Programului anual de investiţii pentru anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8939",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-47-2020",
+   "path": "local/iasi/costesti/2020/47",
+   "short": "HCL Costești nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 47/2020 privind modificarea HCL Comuna Costesti, jud. Iaşi nr.44/23.06.2019",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8940",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-49-2020",
+   "path": "local/iasi/costesti/2020/49",
+   "short": "HCL Costești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 49/2020 privind revocarea Hotararilor Consiliului Local Comuna Costeşti, jud. Iaşi nr. 27 şi nr. 28, ambele din data de 24.04.2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8964",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-5-2020",
+   "path": "local/iasi/costesti/2020/5",
+   "short": "HCL Costești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 5/2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6677",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-50-2020",
+   "path": "local/iasi/costesti/2020/50",
+   "short": "HCL Costești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 50/2020 privind rectificarea Bugetului de venituri si cheltuieli pe anul 2020, cuprinzând influienţe pe Trim. III şi Trim IV, si modificarea Programului anual de investiţii pentru anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8965",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-51-2020",
+   "path": "local/iasi/costesti/2020/51",
+   "short": "HCL Costești nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 51/2020 privind aprobarea execuţiei bugetului de venituri şi cheltuieli pentru trimestrul II -SEM.I- la data de 30.06.2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8966",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-52-2020",
+   "path": "local/iasi/costesti/2020/52",
+   "short": "HCL Costești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 52/2020 privind însuşirea Dispoziţiilor de şantier nr. 1 din 20.06.2019 si nr. 2 din 21.10.2019 şi aprobarea listei de dotari - echipamente medicale si mobilier specific medical- pentru obiectivul de investiție “REABILITARE CLADIRE DISPENSAR UMAN, COMUNA COSTESTI, JUDETUL IASI”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8967",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-53-2020",
+   "path": "local/iasi/costesti/2020/53",
+   "short": "HCL Costești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 53/2020 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pe Trim. III, anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/8968",
+   "versions": [
+    {
+     "from": "2020-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/8968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-54-2020",
+   "path": "local/iasi/costesti/2020/54",
+   "short": "HCL Costești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 54/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9795",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-55-2020",
+   "path": "local/iasi/costesti/2020/55",
+   "short": "HCL Costești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 55/2020 privind înfiinţarea Serviciului de Iluminat Public al comunei Costesti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9796",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-56-2020",
+   "path": "local/iasi/costesti/2020/56",
+   "short": "HCL Costești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 56/2020 privind aprobarea alocării sumei de 5.000 lei de la bugetul local, în vederea colectării selective a deşeurilor de pe raza U A T Comuna Costeşti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9797",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-58-2020",
+   "path": "local/iasi/costesti/2020/58",
+   "short": "HCL Costești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 58/2020 privind modificarea Anexei nr. 2 a HCL Comuna Costesti, jud. Iaşi nr.35/12.05.2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9799",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-59-2020",
+   "path": "local/iasi/costesti/2020/59",
+   "short": "HCL Costești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 59/2020 cu privire la neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente Programului pentru şcoli al României şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul şcolar 2020-2021, la nivelul Comunei Costești, judeţul Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9800",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-60-2020",
+   "path": "local/iasi/costesti/2020/60",
+   "short": "HCL Costești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 60/2020 privind rectificarea bugetului de venituri si cheltuieli pe anul 2020, cuprinzand influente, petrim.III si trim.IV",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9801",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-61-2020",
+   "path": "local/iasi/costesti/2020/61",
+   "short": "HCL Costești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 61/2020 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru luna octombrie 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9918",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-62-2020",
+   "path": "local/iasi/costesti/2020/62",
+   "short": "HCL Costești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 62/2020 privind modificarea HCL Comuna Costesti, jud. Iaşi nr.55/27.08.2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9919",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-63-2020",
+   "path": "local/iasi/costesti/2020/63",
+   "short": "HCL Costești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 63/2020 privind însuşirea Dispoziţiei de şantier nr. 1 din 15.06.2020 si aprobarea Actului Adiţional nr. 1, pentru obiectivul de investiție “REABILITARE MODERNIZARE ŞI EXTINDERE ȘCOALĂ GIMNAZIALĂ NR.1 COSTEŞTI –CORP B, COMUNA COSTESTI, JUDETUL IASI”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9920",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-64-2020",
+   "path": "local/iasi/costesti/2020/64",
+   "short": "HCL Costești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 64/2020 privind însuşirea Dispoziţiei de Şantier nr. 3 din 10.08.2020 si aprobarea Actului Adiţional nr. 3 a Contractului de Execuție Lucrări nr. 2416 din 19.04.2019, pentru obiectivul de investiție “REABILITARE CLADIRE DISPENSAR UMAN, COMUNA COSTESTI, JUDETUL IASI”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9921",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-65-2020",
+   "path": "local/iasi/costesti/2020/65",
+   "short": "HCL Costești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 65/2020 privind modificarea unor poziţii din Anexa nr. 1 şi Anexa nr.2 a Hotararii Consiliului Local Comuna Costesti nr. 7 din 31.01.2019",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9922",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-66-2020",
+   "path": "local/iasi/costesti/2020/66",
+   "short": "HCL Costești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 66/2020 privind aprobarea rectificarii Bugetului de venituri si cheltuieli cu influente pe trim III si trim. IV, anul 2020 si modificarea Programului anual de investiţii pentru anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/9923",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/9923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-67-2020",
+   "path": "local/iasi/costesti/2020/67",
+   "short": "HCL Costești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 67/2020 privind predarea către S C APAVITAL S A a Proiectului Tehnic , în vederea realizării lucrării de execuție , pentru obiectivul de investiție ”EXTINDERE REȚEA DISTRIBUȚIE APĂ ÎN LOCALITATEA COSTEȘTI, COMUNA COSTEȘTI, JUD. IAȘI”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/11237",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/11237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-68-2020",
+   "path": "local/iasi/costesti/2020/68",
+   "short": "HCL Costești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 68/2020 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pe Trim. IV, anul 2020 si modificarea Programului anual de investiţii pentru anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/11238",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/11238",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-69-2020",
    "path": "local/iasi/costesti/2020/69",
    "short": "HCL Costești nr. 69/2020",
@@ -13,6 +658,21 @@
      "from": "2020-11-05",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/11411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-7-2020",
+   "path": "local/iasi/costesti/2020/7",
+   "short": "HCL Costești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 7/2020 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav, incadrati cu contract de munca in comuna Costesti, jud.Iasi pentru anul 2020, conform HG nr.427/2001",
+   "url": "https://emol.ro/costesti-is/registru-hcl/6679",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/6679",
      "sha256": null
     }
    ]

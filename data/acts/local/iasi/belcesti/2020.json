@@ -3,6 +3,116 @@
 "shard": "local/iasi/belcesti/2020",
 "acts": [
 {
+"slug": "hcl-iasi--belcesti-48-2020",
+"path": "local/iasi/belcesti/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 48/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a servciilor pentru derularea măsurilor educative, pentru anul școlar 2020-2021 în școlile din comuna Belcești, județul Iași",
+"short": "HCL Belcești nr. 48/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/9997",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-51-2020",
+"path": "local/iasi/belcesti/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 51/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Belcești, județul Iași pe anul fiscal 2020 - trim. III",
+"short": "HCL Belcești nr. 51/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/22073",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-52-2020",
+"path": "local/iasi/belcesti/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 52/2020 privind aprobarea completării Programului anual de achiziții publice pe anul 2020",
+"short": "HCL Belcești nr. 52/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/22074",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-53-2020",
+"path": "local/iasi/belcesti/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 53/2020 privind instrumentarea proiectului: \"Înființarea de suprafețe împădurite pe terenuri neagricole și înființarea de perdele forestiere''",
+"short": "HCL Belcești nr. 53/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/22081",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-56-2020",
+"path": "local/iasi/belcesti/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 56/2020 privind stabilirea și organizarea comisiilor de specialitate ale Consiliului Local al comunei Belcești",
+"short": "HCL Belcești nr. 56/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/22084",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--belcesti-60-2020",
 "path": "local/iasi/belcesti/2020/60",
 "kind": "local",

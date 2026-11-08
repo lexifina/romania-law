@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--baltati-14-2025",
+   "path": "local/iasi/baltati/2025/14",
+   "short": "HCL Bălțați nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 14/2025 privind alocarea din excedentul bugetului local al anilor precedenți a sumei de 1.161.220 lei pentru finanțarea obiectivelor de investiții",
+   "url": "https://emol.ro/baltati-is/registru-hcl/190134",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baltati-is/registru-hcl/190134",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--baltati-87-2025",
    "path": "local/iasi/baltati/2025/87",
    "short": "HCL Bălțați nr. 87/2025",

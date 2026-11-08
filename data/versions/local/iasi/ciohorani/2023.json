@@ -3,6 +3,36 @@
  "shard": "local/iasi/ciohorani/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-15-2023",
+   "path": "local/iasi/ciohorani/2023/15",
+   "short": "HCL Ciohorăni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 15/2023 privind aprobarea contului anual de execuție a bugetului local al comunei Ciohorăni pentru anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/99712",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/99712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-16-2023",
+   "path": "local/iasi/ciohorani/2023/16",
+   "short": "HCL Ciohorăni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 16/2023",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/99713",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/99713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-58-2023",
    "path": "local/iasi/ciohorani/2023/58",
    "short": "HCL Ciohorăni nr. 58/2023",
@@ -178,6 +208,21 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/135269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-7-2023",
+   "path": "local/iasi/ciohorani/2023/7",
+   "short": "HCL Ciohorăni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 7/2023 privind aprobarea bugetului de venituri şi cheltuieli al comunei Ciohorăni pentru anul 2023 și a listei investițiilor publice pentru anul 2023",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/90997",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/90997",
      "sha256": null
     }
    ]

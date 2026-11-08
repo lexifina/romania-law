@@ -3,6 +3,111 @@
  "shard": "local/iasi/coarnele-caprei/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--coarnele-caprei-14-2020",
+   "path": "local/iasi/coarnele-caprei/2020/14",
+   "short": "HCL Coarnele Caprei nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 14/2020 privind aprobare proces-verbal sedinta din data de 30-01-2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10394",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-15-2020",
+   "path": "local/iasi/coarnele-caprei/2020/15",
+   "short": "HCL Coarnele Caprei nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 15/2020 privind transferul sumei din excedent la sectiunea de dezvoltare",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10395",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-16-2020",
+   "path": "local/iasi/coarnele-caprei/2020/16",
+   "short": "HCL Coarnele Caprei nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 16/2020 privind aprobarea valorii de investitie a proiectului \"Reaabilitarea , extinderea si modernizarea sediul primariei din comuna Coarnele Caprei, Judetul Iasi \"",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10396",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-17-2020",
+   "path": "local/iasi/coarnele-caprei/2020/17",
+   "short": "HCL Coarnele Caprei nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 17/2020 privind demararea procedurii de achizitionare a serviciilor auxiliare de consultanta in domeniul achizitiilor publice",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10397",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-18-2020",
+   "path": "local/iasi/coarnele-caprei/2020/18",
+   "short": "HCL Coarnele Caprei nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 18/2020 privind adoptare proces-verbal sedinta din data de 7-02-2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10398",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-19-2020",
+   "path": "local/iasi/coarnele-caprei/2020/19",
+   "short": "HCL Coarnele Caprei nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 19/2020 privind modificare indicatori economici ai proiectului \"Reabilitarea , extinderea si modernizarea sediului primariei din comuna Coarnele Caprei, Judetul Iasi",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10399",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-20-2020",
+   "path": "local/iasi/coarnele-caprei/2020/20",
+   "short": "HCL Coarnele Caprei nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 20/2020 privind aprobare proces-verbal sedinta din data de 14--02-2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10400",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10400",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-21-2020",
    "path": "local/iasi/coarnele-caprei/2020/21",
    "short": "HCL Coarnele Caprei nr. 21/2020",

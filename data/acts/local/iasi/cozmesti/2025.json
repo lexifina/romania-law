@@ -3,6 +3,50 @@
 "shard": "local/iasi/cozmesti/2025",
 "acts": [
 {
+"slug": "hcl-iasi--cozmesti-28-2025",
+"path": "local/iasi/cozmesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 28/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+"short": "HCL Cozmești nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/221373",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cozmesti-29-2025",
+"path": "local/iasi/cozmesti/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 29/2025 privind aprobarea modului de exercitare a dreptului de acces al furnizorilor de rețele de comunicații electronice pe proprietatea publică și privată a Comunei Cozmești",
+"short": "HCL Cozmești nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/221374",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--cozmesti-30-2025",
 "path": "local/iasi/cozmesti/2025/30",
 "kind": "local",

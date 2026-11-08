@@ -3,6 +3,21 @@
  "shard": "local/iasi/costuleni/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--costuleni-53-2024",
+   "path": "local/iasi/costuleni/2024/53",
+   "short": "HCL Costuleni nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 53/2024 privind anularea accesoriilor aferente obligaţiilor bugetare restante la data de 31.08.2024 datorate bugetului local",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/170557",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/170557",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-68-2024",
    "path": "local/iasi/costuleni/2024/68",
    "short": "HCL Costuleni nr. 68/2024",

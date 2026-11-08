@@ -3,6 +3,96 @@
  "shard": "local/iasi/ciohorani/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-1-2026",
+   "path": "local/iasi/ciohorani/2026/1",
+   "short": "HCL Ciohorăni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 1/2026 privind aprobarea implementării proiectului de investiții cu titlul ”Dotarea Compartimentului administrativ și gospodărire locală, cu utilaj mecanizat de curățenie în Comuna Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252394",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-10-2026",
+   "path": "local/iasi/ciohorani/2026/10",
+   "short": "HCL Ciohorăni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 10/2026 privind aprobarea dării în folosință gratuită către Școala Gimnazială Ciohorăni, pentru perioada de implementare a Proiectului, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, prin Contractul nr. 12754/19.03.2025 de furnizare echipamente digitale şi echipamente tehnologice specifice pentru laboratoarele de ştiinţe (fizică — chimie — multidisciplinar) din unităţile de învăţământ",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/263647",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/263647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-11-2026",
+   "path": "local/iasi/ciohorani/2026/11",
+   "short": "HCL Ciohorăni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 11/2026 privind aprobarea dării în folosință gratuită către Școala Gimnazială Ciohorăni, pentru perioada de implementare a Proiectului, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023- 0426, finanţat prin Planul Naţional de Redresare şi Rezilienţă - Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, Contractul nr. 3955/04.02.2025 de furnizare echipamente digitale/IT pentru cabinetele şcolare (inclusiv cabinete consiliere şi asistenţă psihopedagogică, de sprijin, logopedice şi alte terapii specifice, etc.) şi săli de sport",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/263648",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/263648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-12-2026",
+   "path": "local/iasi/ciohorani/2026/12",
+   "short": "HCL Ciohorăni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 12/2026 privind aprobarea introducerii în domeniul public al Comunei Ciohorăni a unor terenuri aferente sistemului public de canalizare al Comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/263649",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/263649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-13-2026",
+   "path": "local/iasi/ciohorani/2026/13",
+   "short": "HCL Ciohorăni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 13/2026 privind aprobarea dezlipirii unor imobile înscrise în Cartea Funciară nr.62549, Cartea funciară nr.62548 și Cartea funciară nr. 62469",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/263650",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/263650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-14-2026",
+   "path": "local/iasi/ciohorani/2026/14",
+   "short": "HCL Ciohorăni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 14/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Modernizare infrastructură rutieră în Comuna Ciohorăni, județul Iași”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/263651",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/263651",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-15-2026",
    "path": "local/iasi/ciohorani/2026/15",
    "short": "HCL Ciohorăni nr. 15/2026",
@@ -73,6 +163,21 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/284531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-2-2026",
+   "path": "local/iasi/ciohorani/2026/2",
+   "short": "HCL Ciohorăni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 2/2026 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252395",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252395",
      "sha256": null
     }
    ]
@@ -228,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-3-2026",
+   "path": "local/iasi/ciohorani/2026/3",
+   "short": "HCL Ciohorăni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 3/2026 privind aprobarea necesității si oportunității realizării obiectivului de investiții „Extindere retea gaze naturale în comuna Ciohorăni, Str. Sf. Nicolae, str. Calistrat Hogaș, str. Viișoara, jud. Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252445",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252445",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-30-2026",
    "path": "local/iasi/ciohorani/2026/30",
    "short": "HCL Ciohorăni nr. 30/2026",
@@ -298,6 +418,96 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/284551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-4-2026",
+   "path": "local/iasi/ciohorani/2026/4",
+   "short": "HCL Ciohorăni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 4/2026 privind aprobarea dării în folosință gratuită către Școala Gimnazială Ciohorăni, pentru perioada de implementare a Proiectului, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul laşi\", cod F-PNRR-Dotări-2023- 0426, finanţat prin PNRR -Componenta CIS Educaţie, LOT 1 -Materiale didactice specifice pentru dotarea laboratoarelor de ştiinţe (disciplina Fizică/Chimie/Biologie) şi -LOT 2 -Materiale didactice specifice pentru dotarea laboratoarelor de ştiinţe (disciplina Fizică/Chimie/Biologie)",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252446",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-5-2026",
+   "path": "local/iasi/ciohorani/2026/5",
+   "short": "HCL Ciohorăni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 5/2026 privind aprobarea tipului de suport alimentar precum şi modalitatea de distribuire a acestuia elevilor şi preşcolarilor din cadrul Scolii Gimaziale Ciohorăni, în anul 2026",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252447",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-6-2026",
+   "path": "local/iasi/ciohorani/2026/6",
+   "short": "HCL Ciohorăni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 6/2026",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252448",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-7-2026",
+   "path": "local/iasi/ciohorani/2026/7",
+   "short": "HCL Ciohorăni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 7/2026 privind aprobarea Raportului privind activitatea desfăşurată de către asistenţii personali ai persoanelor cu grad de handicap grav pentru semestrul II, anul 2025",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252449",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-8-2026",
+   "path": "local/iasi/ciohorani/2026/8",
+   "short": "HCL Ciohorăni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 8/2026 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/252450",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/252450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-9-2026",
+   "path": "local/iasi/ciohorani/2026/9",
+   "short": "HCL Ciohorăni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 9/2026 privind aprobarea dezlipirii imobilului cu nr. cadastral 62323 înscris în Cartea Funciară nr.62323 a comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/263646",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/263646",
      "sha256": null
     }
    ]

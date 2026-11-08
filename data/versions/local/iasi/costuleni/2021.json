@@ -3,6 +3,141 @@
  "shard": "local/iasi/costuleni/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--costuleni-1-2021",
+   "path": "local/iasi/costuleni/2021/1",
+   "short": "HCL Costuleni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 1/2021 organizarea rețelei școlare de învățământ din comuna Costuleni pe anul școlar 2021 - 2022",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20124",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-10-2021",
+   "path": "local/iasi/costuleni/2021/10",
+   "short": "HCL Costuleni nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 10/2021 privind alocarea sumei de 5000 lei pentru participarea la competițiile sportive",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20306",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-13-2021",
+   "path": "local/iasi/costuleni/2021/13",
+   "short": "HCL Costuleni nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 13/2021 Pentru modificarea Hotărârii nr. 50 din 30.07.2020 a Consiliului Local al comunei Costuleni privind modificarea și completarea inventarului domeniului privat",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20309",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-14-2021",
+   "path": "local/iasi/costuleni/2021/14",
+   "short": "HCL Costuleni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 14/2021 privind actualizarea inventarului bunurilor care aparțin domeniului privat al comunei Costuleni jud. Iaşi",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20310",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-17-2021",
+   "path": "local/iasi/costuleni/2021/17",
+   "short": "HCL Costuleni nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 17/2021 privind aprobarea Acordului de parteneriat pentru dezvoltare locală între Comuna Costuleni , FONSS – Federația Organizațiilor Neguvernamentale pentru Servicii Sociale și Asociatia Română de Literație",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/21211",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/21211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-25-2021",
+   "path": "local/iasi/costuleni/2021/25",
+   "short": "HCL Costuleni nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 25/2021 privind modificarea și completarea Regulamentului de organizare și funcționare a Serviciului social de asistență comunitară Costuleni – cod servicu social 8899CZ-PN-V",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25174",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-32-2021",
+   "path": "local/iasi/costuleni/2021/32",
+   "short": "HCL Costuleni nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 32/2021 privind aprobarea Statutului comunei Costuleni , județul Iași",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/27394",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/27394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-36-2021",
+   "path": "local/iasi/costuleni/2021/36",
+   "short": "HCL Costuleni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 36/2021 privind aprobarea indicatorilor tehnico-economici pentru UAT COSTULENI - ”Proiectul Regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iasi, în perioada 2014 - 2020”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/27398",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/27398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-52-2021",
+   "path": "local/iasi/costuleni/2021/52",
+   "short": "HCL Costuleni nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 52/2021 privind aprobarea Regulamentului de Organizare si Functionare a Consiliului Local al comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36841",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36841",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-58-2021",
    "path": "local/iasi/costuleni/2021/58",
    "short": "HCL Costuleni nr. 58/2021",
@@ -28,6 +163,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/costuleni-is/registru-hcl/39590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-6-2021",
+   "path": "local/iasi/costuleni/2021/6",
+   "short": "HCL Costuleni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 6/2021 privind stabilirea situaţiilor deosebite pentru acordarea unor ajutoare de urgenţă",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20302",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20302",
      "sha256": null
     }
    ]
@@ -183,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costuleni-7-2021",
+   "path": "local/iasi/costuleni/2021/7",
+   "short": "HCL Costuleni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 7/2021 privind la aprobarea Planului de lucrări şi activităţi ce vor fi prestate în anul 2021 , de către beneficiarii Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20303",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-70-2021",
    "path": "local/iasi/costuleni/2021/70",
    "short": "HCL Costuleni nr. 70/2021",
@@ -298,6 +463,36 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/costuleni-is/registru-hcl/45162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-8-2021",
+   "path": "local/iasi/costuleni/2021/8",
+   "short": "HCL Costuleni nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 8/2021 privind darea in administrarea Școlii Gimnaziale Costuleni a unor bunuri imobile (clădiri și terenurile aferente ) , proprietate publică a comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20304",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-9-2021",
+   "path": "local/iasi/costuleni/2021/9",
+   "short": "HCL Costuleni nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 9/2021 privind transportul public județean de persoane prin curse regulate la nivelul Comunei Costuleni, județul Iași",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20305",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20305",
      "sha256": null
     }
    ]

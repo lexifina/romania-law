@@ -3,6 +3,531 @@
  "shard": "local/iasi/barnova/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--barnova-1-2022",
+   "path": "local/iasi/barnova/2022/1",
+   "short": "HCL Bârnova nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 1/2022 privind alegerea unui preşedinte de şedinţă pentru ședințele Consiliului Local Bârnova din perioada ianuarie 2022 – martie 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49100",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-100-2022",
+   "path": "local/iasi/barnova/2022/100",
+   "short": "HCL Bârnova nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 100/2022 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a unor suprafețe de teren: 1000 mp amplasată în sat Bârnova T 69, P 3917/16, str. Barnovschi Vodă, nr. 48 695 mp amplasată în sat Vișan T 11, P L 830/2, str. Sf. Ilie, nr. 11 și 21",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69303",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-101-2022",
+   "path": "local/iasi/barnova/2022/101",
+   "short": "HCL Bârnova nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 101/2022 privind necesitatii, oportunitatii, contractarii și implementarii proiectului „Extinderea și creşterea eficienţei energetice a infrastructurii de iluminat public în comuna Bârnova, Județul Iași” și aprobarea valorii totală a obiectivului de investiție în sumă totală de 1.045.400,89 lei inclusiv TVA, din care cheltuieli eligibile în sumă de 998.796,40 lei inclusiv TVA și susţinerea cheltuielilor neeligibile ale proiectului, din bugetul local în sumă totală de 46.604,49 lei inclusiv TVA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69304",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-102-2022",
+   "path": "local/iasi/barnova/2022/102",
+   "short": "HCL Bârnova nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 102/2022 privind aprobare indicatori cu privire la executia bugetelor locale stabilite prin Ordinul comun MAI si MFP nr. 244/2651/2010 pentru tr. II, anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69305",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-103-2022",
+   "path": "local/iasi/barnova/2022/103",
+   "short": "HCL Bârnova nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 103/2022 privind aprobarea actualizării PAAP pe anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69306",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-104-2022",
+   "path": "local/iasi/barnova/2022/104",
+   "short": "HCL Bârnova nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 104/2022 privind 500 mp cu nr. cadastral 70118 amplasat în sat Vișan, teren atribuit în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, cu modificările ulterioare, prin Hotărârea Consiliului Local Bârnova cu nr. 147 din 18.10.2014 ca urmare finalizării construcţiei prin procesul verbal de recepţie/certificat de atestare a edificării construcției cu nr. 17622 din 30.09.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69307",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-107-2022",
+   "path": "local/iasi/barnova/2022/107",
+   "short": "HCL Bârnova nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 107/2022 privind aprobarea trecerii din domeniul public al Comunei Bârnova a unui număr de 3 tronsoane de drum în domeniul public al Județului Iași în vederea realizării obiectivului de investiții \"Înființarea centurii ușoare de ocolire a Municipiului Iași\"",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69310",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-108-2022",
+   "path": "local/iasi/barnova/2022/108",
+   "short": "HCL Bârnova nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 108/2022 privind aprobare suplimentare buget local de venituri și cheltuieli pe trimestrul III anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69311",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-109-2022",
+   "path": "local/iasi/barnova/2022/109",
+   "short": "HCL Bârnova nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 109/2022 privind aprobare încheiere acord de cooperare în vederea organizării evenimentului \"Piata Metropolitană, 10-11 septembrie 2022 sat Vișan\" și alocare suma pentru organizare eveniment",
+   "url": "https://emol.ro/barnova-is/registru-hcl/70091",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/70091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-110-2022",
+   "path": "local/iasi/barnova/2022/110",
+   "short": "HCL Bârnova nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 110/2022 privind aprobarea necesitatii, oportunitatii, contractarii și implementarii proiectului „Instalare puncte de acces la internet în orice spațiu public în zona sediului Primăriei și terenului de sport din comuna Bârnova, Județul Iași” și alocarea sumei de 45.000 lei pentru realizarea obiectivului",
+   "url": "https://emol.ro/barnova-is/registru-hcl/70092",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/70092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-111-2022",
+   "path": "local/iasi/barnova/2022/111",
+   "short": "HCL Bârnova nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 111/2022 privind alocare suma de 15.000 lei pentru extindere și branșament la rețeaua de gaze naturale a biseriii Parohiei satului Păun",
+   "url": "https://emol.ro/barnova-is/registru-hcl/70093",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/70093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-112-2022",
+   "path": "local/iasi/barnova/2022/112",
+   "short": "HCL Bârnova nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 112/2022 privind aprobarea actualizării PAAP pe anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/70094",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/70094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-113-2022",
+   "path": "local/iasi/barnova/2022/113",
+   "short": "HCL Bârnova nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 113/2022 privind aprobare suplimentare buget local de venituri și cheltuieli pe trimestrul III anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/70095",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/70095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-114-2022",
+   "path": "local/iasi/barnova/2022/114",
+   "short": "HCL Bârnova nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 114/2022 privind alegerea unui nou președinte de sedinta",
+   "url": "https://emol.ro/barnova-is/registru-hcl/72889",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/72889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-115-2022",
+   "path": "local/iasi/barnova/2022/115",
+   "short": "HCL Bârnova nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 115/2022 privind aprobarea instalării celor două stații de încărcare în cadrul proiectului „ACHIZITIE MICROBUZ NEPOLUANT SI PUNCTE DE REINCARCARE PENTRU VEHICULE ELECTRICE ÎN COMUNA BÂRNOVA, JUDETUL IASI” și a valoarii totale a stațiilor de încărcare în cuantum de 246.135,00 lei fără TVA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/72890",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/72890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-116-2022",
+   "path": "local/iasi/barnova/2022/116",
+   "short": "HCL Bârnova nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 116/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/72891",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/72891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-117-2022",
+   "path": "local/iasi/barnova/2022/117",
+   "short": "HCL Bârnova nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 117/2022 privind aprobarea stabilirii salariilor de bază ale funcționarilor publici, personalului angajat al Primăriei comunei Bârnova și demnitarilor începînd cu data de 1 august 2022 potrivit OUG 115 din 29 august 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/72892",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/72892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-118-2022",
+   "path": "local/iasi/barnova/2022/118",
+   "short": "HCL Bârnova nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 118/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/72893",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/72893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-119-2022",
+   "path": "local/iasi/barnova/2022/119",
+   "short": "HCL Bârnova nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 119/2022 privind mandatarea Asociatiei Metropolitana de Transport Public Iasi sa reprezinte Comuna Barnova pentru transportul public local pe raza Comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78359",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-120-2022",
+   "path": "local/iasi/barnova/2022/120",
+   "short": "HCL Bârnova nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 120/2022 privind însușirea raportului de evaluare din septembrie 2022 întocmit de către SC Trusteval SRL evaluator Nistor Loredana legitimatie nr 18197 pentru suprafața de teren de 464 mp cu nr. cadastral 70118",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78360",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-121-2022",
+   "path": "local/iasi/barnova/2022/121",
+   "short": "HCL Bârnova nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 121/2022 privind aprobarea însușirii raportului de evaluare din 30 septembrie 2022 pentru bunuri imobile aparținînd domeniului privat și public al comunei Bârnova, județul Iași întocmit de către SC Trusteval SRL evaluator Nistor Loredana legitimatie nr 18197",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78361",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-122-2022",
+   "path": "local/iasi/barnova/2022/122",
+   "short": "HCL Bârnova nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 122/2022 privind aprobare încheiere acord de cooperare în vederea organizării evenimentului sportiv \"Cupa Adventure 4x4 Iași\" în perioada 10 -13 noiembrie 2022, de către Asociația Club Sportiv Adventure 4x4 Iași și alocare suma pentru organizare eveniment",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78362",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-123-2022",
+   "path": "local/iasi/barnova/2022/123",
+   "short": "HCL Bârnova nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 123/2022 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a unor suprafețe de teren: 435 mp sat Vișan, 120 mp amplasată în sat Păun, 59 mp amplasată în sat Păun și 100 mp amplasată în sat Păun și stabilire destinație",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78363",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-124-2022",
+   "path": "local/iasi/barnova/2022/124",
+   "short": "HCL Bârnova nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 124/2022 privind punere la dispozitie terenul în suprafață de 100 mp, amplasat în sat Păun T 55, P 3319/4, proprietate privata a UAT Bârnova, în regim de folosinta gratuită pentru realizarea si exploatarea unui retranslator-R4-necesar sistemului de comunicații al Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor din cadrul Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78364",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-125-2022",
+   "path": "local/iasi/barnova/2022/125",
+   "short": "HCL Bârnova nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 125/2022 privind aprobarea modificării bugetului local de venituri si cheltuieli, pe trim. IV, anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78365",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-126-2022",
+   "path": "local/iasi/barnova/2022/126",
+   "short": "HCL Bârnova nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 126/2022 privind aprobarea revocării Hotărârii Consiliului Local Bârnova cu nr. 89 din 07.07.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78366",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-127-2022",
+   "path": "local/iasi/barnova/2022/127",
+   "short": "HCL Bârnova nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 127/2022 privind aprobarea Completării Caietului de Sarcini privind activitatea de distributie a apei potabile și Completarea Caietului de Sarcini privind activitatea de colectare a apelor uzate pentru aria de operare Barnova, jud. Iasi ARSACIS",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78367",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-129-2022",
+   "path": "local/iasi/barnova/2022/129",
+   "short": "HCL Bârnova nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 129/2022 privind aprobarea Statutului comunei Bârnova potrivit prevederilor OUG nr. 57 din 2019 privind Codul Administrativ",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78369",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-130-2022",
+   "path": "local/iasi/barnova/2022/130",
+   "short": "HCL Bârnova nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 130/2022 privind modificarea și completarea Contractului de delegare a gestiuni serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 2",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78370",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-131-2022",
+   "path": "local/iasi/barnova/2022/131",
+   "short": "HCL Bârnova nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 131/2022 privind alegerea unui nou presedinte de sedinta pentru data de 31 octombrie 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78373",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-132-2022",
+   "path": "local/iasi/barnova/2022/132",
+   "short": "HCL Bârnova nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 132/2022 privind aprobarea participării Comunei Bârnova, judetul Iasi în cadrul „Programului de realizare a pistelor pentru biciclete” în calitate de membru al Asociației de Dezvoltare Intercomunitară Zona Metropolitană Iași, aprobarea contractării finanţării obiectivului “AMENAJARE PISTE PENTRU BICICLIȘTI ÎN ZONA METROPOLITANĂ IAȘI” și aprobarea Devizului general intocmit conform HG nr. 907/2016",
+   "url": "https://emol.ro/barnova-is/registru-hcl/78374",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/78374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-133-2022",
+   "path": "local/iasi/barnova/2022/133",
+   "short": "HCL Bârnova nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 133/2022 privind aprobarea alocării sumei de 2000 lei Parohiei Sfântul Ilie Vișan 1 din satul Vișan pentru achiziție lemne",
+   "url": "https://emol.ro/barnova-is/registru-hcl/81299",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/81299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-134-2022",
+   "path": "local/iasi/barnova/2022/134",
+   "short": "HCL Bârnova nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 134/2022 privind aprobare acordare ajutoare de urgență-ajutoare încălzire locuințe pentru sezonul rece beneficiarilor de VMG",
+   "url": "https://emol.ro/barnova-is/registru-hcl/81300",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/81300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-135-2022",
+   "path": "local/iasi/barnova/2022/135",
+   "short": "HCL Bârnova nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 135/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/81301",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/81301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-136-2022",
+   "path": "local/iasi/barnova/2022/136",
+   "short": "HCL Bârnova nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 136/2022 privind aprobarea necesitatii, oportunitatii și potențialului economic al investiției „Achiziție autoutilitară de primă intervenție la incendii si alte situatii de urgenta in vederea dotării serviciului voluntar pentru situații de urgenţă al comunei Bârnova, județul Iași”, prin program PNDR 2014-2020 –GAL Colinele Iasilor - masura 7 ‚ Dezvoltare locala in zonele rurale’’",
+   "url": "https://emol.ro/barnova-is/registru-hcl/81302",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/81302",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-137-2022",
    "path": "local/iasi/barnova/2022/137",
    "short": "HCL Bârnova nr. 137/2022",
@@ -298,6 +823,1206 @@
      "from": "2023-09-11",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/83390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-16-2022",
+   "path": "local/iasi/barnova/2022/16",
+   "short": "HCL Bârnova nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 16/2022 privind aprobarea concesiunii prin licitație publică, pe o perioadă între 7 și 10 ani, a unui trup de pășune în suprafață de 11 ha din suprafața totală de 285.960 mp din satul Todirel nr. cadastral 71714, întocmire studiu de oportunitate",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49115",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-18-2022",
+   "path": "local/iasi/barnova/2022/18",
+   "short": "HCL Bârnova nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 18/2022 privind aprobarea interzicerii staționării autovehiculelor și a vehiculelor pe drumurile publice din comuna",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49117",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-19-2022",
+   "path": "local/iasi/barnova/2022/19",
+   "short": "HCL Bârnova nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 19/2022 privind acordul Consiliului Local Bârnova cu privire la participarea Comunei Bârnova, în cadrul Proiectului de investiție ”Dezvoltarea rețelei de drumuri locale din Zona Metropolitană Iași pentru decongestionarea traficului”",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49118",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-20-2022",
+   "path": "local/iasi/barnova/2022/20",
+   "short": "HCL Bârnova nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 20/2022 privind stabilirea salariului de bază/coeficientului aferent funcției pentru postul de muncitor calificat din cadrul Compartimentului Administrativ, Gospodărire, Igienizare, Pază Comunală, Întreținere și Deszăpezire Drumuri începând cu data de 1.02.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49119",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-21-2022",
+   "path": "local/iasi/barnova/2022/21",
+   "short": "HCL Bârnova nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 21/2022 privind aprobarea indicatorilor cu privire la execuția bugetelor locale, pentru trimestrul IV anul 2021, calculați la data de 31.12.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50952",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-22-2022",
+   "path": "local/iasi/barnova/2022/22",
+   "short": "HCL Bârnova nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 22/2022 privind aprobarea Situatiilor financiare pentru anul 2021 si a Raportului de performanță pentru anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50953",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-23-2022",
+   "path": "local/iasi/barnova/2022/23",
+   "short": "HCL Bârnova nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 23/2022 privind aprobarea bugetului local de venituri si cheltuieli pentru anul 2022, respectiv bugetul de venituri proprii si subventii previzionat pentru anii 2023-2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50954",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-24-2022",
+   "path": "local/iasi/barnova/2022/24",
+   "short": "HCL Bârnova nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 24/2022 privind acordarea în bani, respectiv alocație valorică zilnică în cursul anului 2022, a normei de hrană pentru personalul din cadrul Compartimentului Poliție Locală",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50955",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-25-2022",
+   "path": "local/iasi/barnova/2022/25",
+   "short": "HCL Bârnova nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 25/2022 privind aprobarea Strategiei anuale de achiziții publice pentru anul 2022 si a Planului de achiziții publice pentru anul 2022 a",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50956",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-26-2022",
+   "path": "local/iasi/barnova/2022/26",
+   "short": "HCL Bârnova nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 26/2022 privind însușire studiu de oportunitate pentru concesiune suprafața de 11000 mp pășune, constituire comisie pentru licitație, aprobare caiet de sarcini",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50957",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-28-2022",
+   "path": "local/iasi/barnova/2022/28",
+   "short": "HCL Bârnova nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 28/2022 privind aprobarea realizării unui parteneriat între Comuna Bârnova și Asociația Real Sports-Jooyridez pentru organizare eveniment Bârnova Bike Spring E-motion Ediția 1-2 aprilie 2022 și alocarea sumei de 1500 lei în acest scop",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50959",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-29-2022",
+   "path": "local/iasi/barnova/2022/29",
+   "short": "HCL Bârnova nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 29/2022 necesitatea, oportunitatea, contractarea și implementarea proiectului „Realizare stații de încărcare pentru vehicule electrice în comuna Barnova, județul Iasi”, în vederea accesarii Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități lansat de Ministerul Mediului, Apelor şi Pădurilor și aprobarea indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50960",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-3-2022",
+   "path": "local/iasi/barnova/2022/3",
+   "short": "HCL Bârnova nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 3/2022 privind aprobarea planului de acţiuni sau de lucrări de interes local pentru anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49102",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-30-2022",
+   "path": "local/iasi/barnova/2022/30",
+   "short": "HCL Bârnova nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 30/2022 privind aprobarea completarii nomenclatorului stradal al Comunei Bârnova motivat de faptul că sunt străzi care strabat mai multe sate",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50961",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-31-2022",
+   "path": "local/iasi/barnova/2022/31",
+   "short": "HCL Bârnova nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 31/2022 privind aprobarea renunțării la nr. Cadastral, carte funciară, radiere, excludere și renunțare la cartea funciară precum și renunțare la dreptul de proprietate pentru terenul în suprafață de 500 mp cu nr. Cadastral 69222 și 500 mp cu nr. cadastral 69182 și punerea la dispoziția Comisiei Locale de Fond Funciar Bârnova în vederea punerii în posesie",
+   "url": "https://emol.ro/barnova-is/registru-hcl/50962",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/50962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-32-2022",
+   "path": "local/iasi/barnova/2022/32",
+   "short": "HCL Bârnova nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 32/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/52158",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/52158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-33-2022",
+   "path": "local/iasi/barnova/2022/33",
+   "short": "HCL Bârnova nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 33/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/52159",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/52159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-34-2022",
+   "path": "local/iasi/barnova/2022/34",
+   "short": "HCL Bârnova nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 34/2022 privind completare liste inventar domeniul public cu suprafața de teren de 200 mp T 48, P 2803/7/1 pentru amplasare statii electrice",
+   "url": "https://emol.ro/barnova-is/registru-hcl/52160",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/52160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-35-2022",
+   "path": "local/iasi/barnova/2022/35",
+   "short": "HCL Bârnova nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 35/2022 privind aprobarea suplimentării bugetului local de venituri si cheltuieli, pe trim. I, anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/53059",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/53059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-36-2022",
+   "path": "local/iasi/barnova/2022/36",
+   "short": "HCL Bârnova nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 36/2022 privind aprobare scoaterii din domeniul privat a suprafeței de teren de 871 mp amplasată în T 41, P 2607/1, 2609/1, 2610/1 pentru punerea la dispoziția Comisiei Locale de Fond Funciar Bârnova în vederea punerii în posesie",
+   "url": "https://emol.ro/barnova-is/registru-hcl/53060",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/53060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-37-2022",
+   "path": "local/iasi/barnova/2022/37",
+   "short": "HCL Bârnova nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 37/2022 privind aprobarea anexei suplimentare la bugetul inițial de venituri și cheltuieli pe anul 2022 aprobat prin Hotărârea Consiliului Local al comunei Bârnova cu nr. 23 din 11.02.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56864",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-39-2022",
+   "path": "local/iasi/barnova/2022/39",
+   "short": "HCL Bârnova nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 39/2022 privind aprobare completare liste inventar domeniul privat",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56866",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-4-2022",
+   "path": "local/iasi/barnova/2022/4",
+   "short": "HCL Bârnova nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 4/2022 privind stabilirea situaţiilor deosebite de acordare a ajutoarelor de urgenţă, de către primarul comunei Bârnova în anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49103",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-40-2022",
+   "path": "local/iasi/barnova/2022/40",
+   "short": "HCL Bârnova nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 40/2022 privind aprobarea completării listei/inventarului ce conține bunurile din domeniul public al comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56867",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-41-2022",
+   "path": "local/iasi/barnova/2022/41",
+   "short": "HCL Bârnova nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 41/2022 privind aprobarea modificării PAAP 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56868",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-42-2022",
+   "path": "local/iasi/barnova/2022/42",
+   "short": "HCL Bârnova nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 42/2022 privind aprobarea necesitatii, oportunitatii și potențialul economic al investiției „Achiziție tocător de crengi și deșeuri lemnoase in vederea dotării compartimentului de gospodărire comunală a comunei Bârnova, județul Iași”",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56869",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-43-2022",
+   "path": "local/iasi/barnova/2022/43",
+   "short": "HCL Bârnova nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 43/2022 privind aprobarea completării art. 1 al hotărârii Consiliului Local Bârnova cu nr. 99 din 28.08.2020 în sensul înscrierii nr. cadastrale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56870",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-48-2022",
+   "path": "local/iasi/barnova/2022/48",
+   "short": "HCL Bârnova nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 48/2022 privind aprobare Regulament pentru acordare vouchere de vacanță angajați Primăria comunei Bârnova pentru perioada 01 ianuarie 2022 – 31 decembrie 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56875",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-49-2022",
+   "path": "local/iasi/barnova/2022/49",
+   "short": "HCL Bârnova nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 49/2022 privind aprobarea implementării unui acord de parteneriat cu SC HD WINES SRL, pentru accesarea proiectului ’’Achiziție tocător de crengi și deșeuri lemnoase in vederea dotării compartimentului de gospodărire comunală a comunei Bârnova, județul Iași’’",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56876",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-5-2022",
+   "path": "local/iasi/barnova/2022/5",
+   "short": "HCL Bârnova nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 5/2022 privind acordarea de prestații financiare excepționale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49104",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-50-2022",
+   "path": "local/iasi/barnova/2022/50",
+   "short": "HCL Bârnova nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 50/2022 privind aprobarea rectificării poz. 7 al anexei nr. 1 din hotărârea Consiliului Local Bârnova cu nr. 20 din 27.02.2019",
+   "url": "https://emol.ro/barnova-is/registru-hcl/56877",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/56877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-51-2022",
+   "path": "local/iasi/barnova/2022/51",
+   "short": "HCL Bârnova nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 51/2022 privind alegerea unui nou presedinte de sedinta",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59741",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-52-2022",
+   "path": "local/iasi/barnova/2022/52",
+   "short": "HCL Bârnova nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 52/2022 privind modificare PAAP anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59742",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-53-2022",
+   "path": "local/iasi/barnova/2022/53",
+   "short": "HCL Bârnova nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 53/2022 privind rectificarea poz. 4 al anexei nr. 2 din hotărârea Consiliului Local Bârnova cu nr. 20 din 27.02.2019",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59743",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-54-2022",
+   "path": "local/iasi/barnova/2022/54",
+   "short": "HCL Bârnova nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 54/2022 privind aprobarea inventarierii la data de 31.12.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59744",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-55-2022",
+   "path": "local/iasi/barnova/2022/55",
+   "short": "HCL Bârnova nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 55/2022 privind aprobarea rectificării hotărârii Consiliului Local Bârnova cu nr. 39 din 31.03.2022 la art. 1",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59745",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-56-2022",
+   "path": "local/iasi/barnova/2022/56",
+   "short": "HCL Bârnova nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 56/2022 privind aprobarea indicatorilor cu privire la execuția bugetelor locale, pentru trimestrul I anul 2022, calculați la data de 31.03.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59746",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-58-2022",
+   "path": "local/iasi/barnova/2022/58",
+   "short": "HCL Bârnova nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 58/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59748",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-59-2022",
+   "path": "local/iasi/barnova/2022/59",
+   "short": "HCL Bârnova nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 59/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59749",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-6-2022",
+   "path": "local/iasi/barnova/2022/6",
+   "short": "HCL Bârnova nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 6/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49105",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-60-2022",
+   "path": "local/iasi/barnova/2022/60",
+   "short": "HCL Bârnova nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 60/2022 privind stabilirea criteriilor de acordare a ajutoarelor alimentare și produselor de igiena potrivit art. 3 alin. 1 lit c) din OUG 84 din 21.05.2020 prin Programul operaţional Ajutorarea persoanelor defavorizate – POAD",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59750",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-61-2022",
+   "path": "local/iasi/barnova/2022/61",
+   "short": "HCL Bârnova nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 61/2022 privind aprobarea modificării indicatorilor tehnico economici inițiali stabiliți prin Hotărârea Consiliului Local Bârnova cu nr. 76 din 31.08.2021 pentru implementarea proiectului ’’Achiziție utilaj multifuncțional cu accesorii lamă deszăpezire, sarăriță, perie măturat stradal în vederea dotării compartimentului de gospodărire comunală a comunei Bârnova, județul Iași’",
+   "url": "https://emol.ro/barnova-is/registru-hcl/59751",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/59751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-62-2022",
+   "path": "local/iasi/barnova/2022/62",
+   "short": "HCL Bârnova nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 62/2022 privind alegerea unui nou președinte de ședință pentru data de 13 mai 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60816",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-63-2022",
+   "path": "local/iasi/barnova/2022/63",
+   "short": "HCL Bârnova nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 63/2022 privind suplimentarea bugetului local de venituri si cheltuieli, pe trim. II",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60817",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-64-2022",
+   "path": "local/iasi/barnova/2022/64",
+   "short": "HCL Bârnova nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 64/2022 privind aprobarea reevaluării patrimoniului la fiecare 3 (trei) ani",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60818",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-65-2022",
+   "path": "local/iasi/barnova/2022/65",
+   "short": "HCL Bârnova nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 65/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60819",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-66-2022",
+   "path": "local/iasi/barnova/2022/66",
+   "short": "HCL Bârnova nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 66/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60820",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-67-2022",
+   "path": "local/iasi/barnova/2022/67",
+   "short": "HCL Bârnova nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 67/2022 privind aprobarea excluderii din noul Program de Transport județean valabil în perioada 01.01.2023-31.12.2029 a stațiilor de îmbarcare/ debarcare a călătorilor aferente traseelor județene care deservesc localitățile comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60821",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-68-2022",
+   "path": "local/iasi/barnova/2022/68",
+   "short": "HCL Bârnova nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 68/2022 privind aprobarea modificării hotărârii Consiliului Local Bârnova cu nr. 39 din 31.03.2022 si cu nr. 40 din 31.03.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60822",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-69-2022",
+   "path": "local/iasi/barnova/2022/69",
+   "short": "HCL Bârnova nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 69/2022 privind aprobarea actualizării PAAP pe anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60823",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-7-2022",
+   "path": "local/iasi/barnova/2022/7",
+   "short": "HCL Bârnova nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 7/2022 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Bârnova, începând cu data de 1.02.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/49106",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/49106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-71-2022",
+   "path": "local/iasi/barnova/2022/71",
+   "short": "HCL Bârnova nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 71/2022 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/60825",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/60825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-72-2022",
+   "path": "local/iasi/barnova/2022/72",
+   "short": "HCL Bârnova nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 72/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/61599",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/61599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-73-2022",
+   "path": "local/iasi/barnova/2022/73",
+   "short": "HCL Bârnova nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 73/2022 privind aprobarea depunerii proiectului „Achiziție sistem de monitorizare video în Comuna Bârnova, Județul Iași”, în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență al României, Componenta C10- Fondul Local, Axa I.1.2 – Mobilitate urbană verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/barnova-is/registru-hcl/61600",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/61600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-74-2022",
+   "path": "local/iasi/barnova/2022/74",
+   "short": "HCL Bârnova nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 74/2022 privind aprobare modificare buget local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63524",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-75-2022",
+   "path": "local/iasi/barnova/2022/75",
+   "short": "HCL Bârnova nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 75/2022 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente Programului pentru şcoli al României pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63525",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-76-2022",
+   "path": "local/iasi/barnova/2022/76",
+   "short": "HCL Bârnova nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 76/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63526",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-77-2022",
+   "path": "local/iasi/barnova/2022/77",
+   "short": "HCL Bârnova nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 77/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63527",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-78-2022",
+   "path": "local/iasi/barnova/2022/78",
+   "short": "HCL Bârnova nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 78/2022 privind aprobarea rectificării poziției 6 din Anexa 1 HCL nr. 20 din 27.02.2019",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63528",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-79-2022",
+   "path": "local/iasi/barnova/2022/79",
+   "short": "HCL Bârnova nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 79/2022 privind aprobarea rectificării art. 1 al Hotărârii Consiliului Local Bârnova cu nr. 39 din 31.03.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63529",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-80-2022",
+   "path": "local/iasi/barnova/2022/80",
+   "short": "HCL Bârnova nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 80/2022 privind aprobarea actualizării PAAP pe anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63530",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-81-2022",
+   "path": "local/iasi/barnova/2022/81",
+   "short": "HCL Bârnova nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 81/2022 privind aprobarea aderării la Acordul de cooperare pentru organizarea și exercitarea unor activități și participarea salariaților din structura funcțională a Comunei Bârnova la constituirea Corpurilor profesionale ale Asociației Comunelor din România",
+   "url": "https://emol.ro/barnova-is/registru-hcl/63531",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/63531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-82-2022",
+   "path": "local/iasi/barnova/2022/82",
+   "short": "HCL Bârnova nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 82/2022 privind alegerea unui nou președinte de sedinta perioada iulie -septembrie",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66431",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-83-2022",
+   "path": "local/iasi/barnova/2022/83",
+   "short": "HCL Bârnova nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 83/2022 privind aprobarea modificării bugetului local de venituri si cheltuieli, pe trim. III, anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66432",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-84-2022",
+   "path": "local/iasi/barnova/2022/84",
+   "short": "HCL Bârnova nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 84/2022 privind aprobarea introducerii în domeniul public al Comunei Bârnova a unor suprafețe de teren și stabilirea destinației drum public",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66433",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-85-2022",
+   "path": "local/iasi/barnova/2022/85",
+   "short": "HCL Bârnova nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 85/2022 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a unor suprafețe de teren",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66434",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-86-2022",
+   "path": "local/iasi/barnova/2022/86",
+   "short": "HCL Bârnova nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 86/2022 privind aprobarea modificării PAAP 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66435",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-87-2022",
+   "path": "local/iasi/barnova/2022/87",
+   "short": "HCL Bârnova nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 87/2022 privind aprobarea realizării studiului de fezabilitate pentru obiectivul ”CONSTRUIRE ȘI DOTARE CRESA ÎN SAT BÂRNOVA, ÎN COMUNA BÂRNOVA, JUDEȚUL IAȘI\" în vederea finantarii prin programul PNRR –COMPONENTA C15 -educatie",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66436",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-88-2022",
+   "path": "local/iasi/barnova/2022/88",
+   "short": "HCL Bârnova nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 88/2022 privind aprobarea realizării obiectivului de investiție \"Extindere rețea energie electrică localitatea Pietrăria, str. Preot Gr. Mireuță, comuna Bârnova, județ Iași\"",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66437",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-89-2022",
+   "path": "local/iasi/barnova/2022/89",
+   "short": "HCL Bârnova nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 89/2022 privind introducerea din domeniul public în domeniul privat al UAT Bârnova a islazurilor comunale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66438",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-90-2022",
+   "path": "local/iasi/barnova/2022/90",
+   "short": "HCL Bârnova nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 90/2022 privind alocarea sumei de 6000 lei din bugetul local de venituri și cheltuieli pe anul 2022 pentru achiziția și montarea unui sistem optim de climatizare (aer condiționat)",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66439",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-91-2022",
+   "path": "local/iasi/barnova/2022/91",
+   "short": "HCL Bârnova nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 91/2022 privind aprobarea rectificării Hotarârii nr. 90 din 20.10.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/66440",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/66440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-92-2022",
+   "path": "local/iasi/barnova/2022/92",
+   "short": "HCL Bârnova nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 92/2022 privind alegerea unui nou preşedinte de şedinţă pentru ședința din data de 22.07.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/67380",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/67380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-93-2022",
+   "path": "local/iasi/barnova/2022/93",
+   "short": "HCL Bârnova nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 93/2022 privind aprobare aderare Comuna Bârnova la Acordul de cooperare nr.31 din data de 09.10.2012 și participarea funcționarilor publici din structura funcțională a Comunei Bârnova la constituirea Corpurilor profesionale ale Asociației Comunelor din România",
+   "url": "https://emol.ro/barnova-is/registru-hcl/67381",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/67381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-94-2022",
+   "path": "local/iasi/barnova/2022/94",
+   "short": "HCL Bârnova nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 94/2022 privind depunerea proiectului „PROIECT TIP – CONSTRUIRE CREȘĂ MICĂ, SAT BÂRNOVA, COMUNA BÂRNOVA, JUDEȚUL IAȘI”, a notei de fundamentare a investiției, a descrierii sumara a investiției propusă prin „PROIECT TIP – CONSTRUIRE CREȘĂ MICĂ, SAT BÂRNOVA, COMUNA BÂRNOVA, JUDEȚUL IAȘI” și a valoarii maximă eligibilă a proiectului în cuantum de 9.988.916,5692 lei fără TVA (cheltuieli eligibile), la care se adaugă TVA în valoare de 1.897.894,14 lei (cheltuieli eligibile asigurate din bugetul de stat) la care se adauga TVA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/67382",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/67382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-95-2022",
+   "path": "local/iasi/barnova/2022/95",
+   "short": "HCL Bârnova nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 95/2022 privind aprobarea Strategiei de dezvoltare a serviciilor de educație timpurie antepreșcolară în Comuna Bârnova, județul Iași, pentru perioada 2022 – 2030",
+   "url": "https://emol.ro/barnova-is/registru-hcl/67383",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/67383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-96-2022",
+   "path": "local/iasi/barnova/2022/96",
+   "short": "HCL Bârnova nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 96/2022 privind punerea la dispoziție a terenului cu nr. cadastral 73060, cu suprafață de 3.506 mp, situat în intravilanul localității Bârnova, județul Iași pentru construire creșă în Sat Bârnova, Comuna Bârnova, județul Iași, prin proiectul „PROIECT TIP – CONSTRUIRE CREȘĂ MICĂ, SAT BÂRNOVA, COMUNA BÂRNOVA, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/barnova-is/registru-hcl/67384",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/67384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-97-2022",
+   "path": "local/iasi/barnova/2022/97",
+   "short": "HCL Bârnova nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 97/2022 privind achiziționarea serviciului de consultanță și asistență juridică, în domeniul fondului funciar",
+   "url": "https://emol.ro/barnova-is/registru-hcl/67385",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/67385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-98-2022",
+   "path": "local/iasi/barnova/2022/98",
+   "short": "HCL Bârnova nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 98/2022 privind aprobare revocare hotărârea Consiliului Local Bârnova cu nr. 81 din 9.06.2022 aderare Comuna Bârnova la Acordul de cooperare nr. 31 din data de 09.10.2012 și participarea funcționarilor publici din structura funcțională a Comunei Bârnova la constituirea Corpurilor profesionale ale Asociației Comunelor din România",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69301",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-99-2022",
+   "path": "local/iasi/barnova/2022/99",
+   "short": "HCL Bârnova nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 99/2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/69302",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/69302",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/iasi/belcesti/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--belcesti-1-2023",
+   "path": "local/iasi/belcesti/2023/1",
+   "short": "HCL Belcești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 1/2023 privind aprobarea bugetului local al comunei Belcești pentru anul 2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90634",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-10-2023",
+   "path": "local/iasi/belcesti/2023/10",
+   "short": "HCL Belcești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 10/2023 privind aprobarea împuternicirii UAT Județul Iași - Consiliul Județean Iași în vederea depunerii și implementării pentru UAT Belcești - Consiliul Local al Comunei Belcești a aplicației de finanțare pentru apelul de proiecte dotarea cu mobilier materiale didactice si echipamente digitale a unităților de învățământ preuniversitar si a unitatilor conexe finanțat prin PNNR-Componența C 15 - Educație",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90643",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90643",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-100-2023",
    "path": "local/iasi/belcesti/2023/100",
    "short": "HCL Belcești nr. 100/2023",
@@ -13,6 +43,321 @@
      "from": "2024-05-20",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/156749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-17-2023",
+   "path": "local/iasi/belcesti/2023/17",
+   "short": "HCL Belcești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 17/2023 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: ” Reabilitare și modernizare drumuri sătești afectate de fenomene hidrometeorologice periculoase în comuna Belcești, județul Iași”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121129",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-18-2023",
+   "path": "local/iasi/belcesti/2023/18",
+   "short": "HCL Belcești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 18/2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121130",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-2-2023",
+   "path": "local/iasi/belcesti/2023/2",
+   "short": "HCL Belcești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 2/2023 privind aprobarea planului de lucrări de interes local pentru repartizarea orelor de muncă persoanelor beneficiare de prevederile legii nr. 416/2001 în anul 2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90635",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-24-2023",
+   "path": "local/iasi/belcesti/2023/24",
+   "short": "HCL Belcești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 24/2023 privind aprobarea proiectului și devizului general al obiectivului de investiții ”Actualizare rest lucrări necesare finalizare împrejmuire campus școlar Comuna Belcești în vederea recepționării lucrării”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121136",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-26-2023",
+   "path": "local/iasi/belcesti/2023/26",
+   "short": "HCL Belcești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 26/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Renovare energetica moderata Primăria Belcești (Corp B ), Sat Belcești, Comuna Belcești, Jud. Iași”, aprobat pentru finanțare prin Programul Național de Redresare si Reziliență, Componenta 10 – Fondul local, Investiția I3 - Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121138",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-27-2023",
+   "path": "local/iasi/belcesti/2023/27",
+   "short": "HCL Belcești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 27/2023 privind aprobare a depunerii proiectului „CONSTRUIRE CENTRU COMUNITAR INTEGRAT ÎN COMUNA BELCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121139",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-3-2023",
+   "path": "local/iasi/belcesti/2023/3",
+   "short": "HCL Belcești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 3/2023 privind organizarea rețelei scolare de invatamant din comuna Belcești pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90636",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-30-2023",
+   "path": "local/iasi/belcesti/2023/30",
+   "short": "HCL Belcești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 30/2023 privind aprobarea realizarii obiectivului de investitii – Proiect „INFIINTARE TEREN DE SPORT IN COMUNA BELCESTI, JUDETUL IASI’’ si a cofinatarii Proiectului prin Programul Judetean de Dezvoltare Economico-Sociala Iasi pentru perioada 2021-2024",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121142",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-31-2023",
+   "path": "local/iasi/belcesti/2023/31",
+   "short": "HCL Belcești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 31/2023 privind aprobarea indicatorilor proiectului „Extinderea și creşterea eficienţei energetice a infrastructurii de iluminat public în comuna Belcești, Județul Iași”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121143",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-34-2023",
+   "path": "local/iasi/belcesti/2023/34",
+   "short": "HCL Belcești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 34/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Belcești, județul Iași, referitor la colaborarea instituțională în cadrul proiectului ,,HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121171",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-37-2023",
+   "path": "local/iasi/belcesti/2023/37",
+   "short": "HCL Belcești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 37/2023 privind aprobarea menținerii Comunei Belcești, Județul Iași, la Noul Parteneriat de tip LEADER/DLRC al Asociației ”Grupul de Acţiune Locală Microregiunea Belcești-Focuri”, care va implementa viitoarea Strategie de Dezvoltare Locală 2023-2027 finanțată în cadrul Planului Strategic PS 2023-2027",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121174",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-4-2023",
+   "path": "local/iasi/belcesti/2023/4",
+   "short": "HCL Belcești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 4/2023 privind aprobarea planului de actiuni/lucrari de interes local pentru anul 2023 in vederea repartizarii orelor de munca prestate lunar de catre persoanele condamnate penal si obligate să presteze o munca neremunerata in folosul comunitatii de catre persoanele obligate conform art. 67 din Legea 272/2004 privind protectia si promovarea drepturilor copilului republicata, cu modificarle si completarile ulterioare dar si pentru persoanele sanctionate sa presteze o munca in folosul comunitatii pentru anumite fapte ce consttituie contraventii",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90637",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-42-2023",
+   "path": "local/iasi/belcesti/2023/42",
+   "short": "HCL Belcești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 42/2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121179",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-48-2023",
+   "path": "local/iasi/belcesti/2023/48",
+   "short": "HCL Belcești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 48/2023 privind actualizarea devizului general pentru obiectivul de investiții EXTINDERE SISTEM DE CANALIZARE IN LOCALITATEA SATU NOU, COMUNA BELCESTI, JUDETUL IASI” , aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121185",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-5-2023",
+   "path": "local/iasi/belcesti/2023/5",
+   "short": "HCL Belcești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 5/2023 privind aprobarea consumului maxim lunar de carburant pentru vehiculele primariei",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90638",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-51-2023",
+   "path": "local/iasi/belcesti/2023/51",
+   "short": "HCL Belcești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 51/2023 privind reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: ” Reabilitare și modernizare drumuri sătești afectate de fenomene hidrometeorologice periculoase în comuna Belcești, județul Iași”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/121188",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/121188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-55-2023",
+   "path": "local/iasi/belcesti/2023/55",
+   "short": "HCL Belcești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 55/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului și a contractelor / acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2023 – 2024 în școlile din comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156630",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-7-2023",
+   "path": "local/iasi/belcesti/2023/7",
+   "short": "HCL Belcești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 7/2023 privind aprobarea actului aditional nr. 1 la actul constittiv ce aprobarea actului aditional nr. 1 al statutului Asociatiei Regionale a serviciilor de apă canal Iași - ARSACIS , revizuite 2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90640",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-74-2023",
+   "path": "local/iasi/belcesti/2023/74",
+   "short": "HCL Belcești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 74/2023 privind aprobarea valorii finale a obiectivului de investiții ”Teren sport multifunctional Campus VM Craiu” în urma finalizării lucrărilor",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156669",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-79-2023",
+   "path": "local/iasi/belcesti/2023/79",
+   "short": "HCL Belcești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 79/2023 privind validarea Dispoziţiei nr.417/03.11.2023 privind modificarea bugetului de venituri şi cheltuieli al comunei Belceşti pe anul 2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156718",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-80-2023",
+   "path": "local/iasi/belcesti/2023/80",
+   "short": "HCL Belcești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 80/2023 privind validarea Dispoziţiei nr.436/21.11.2023 privind modificarea bugetului de venituri şi cheltuieli al comunei Belceşti pe anul 2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156719",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156719",
      "sha256": null
     }
    ]
@@ -148,6 +493,21 @@
      "from": "2024-05-20",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/156727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-9-2023",
+   "path": "local/iasi/belcesti/2023/9",
+   "short": "HCL Belcești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 9/2023 privind declararea unor imobile bunuri de uz si interes public",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90642",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90642",
      "sha256": null
     }
    ]
