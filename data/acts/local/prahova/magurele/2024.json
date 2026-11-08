@@ -3,6 +3,50 @@
 "shard": "local/prahova/magurele/2024",
 "acts": [
 {
+"slug": "hcl-prahova--magurele-7-2024",
+"path": "local/prahova/magurele/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 7/2024 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2024, ce vor fi executate de către beneficiarii Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+"short": "HCL Măgurele nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/142968",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-18-2024",
+"path": "local/prahova/magurele/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 18/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Măgurele, județul Prahova pentru anul școlar 2024-2025",
+"short": "HCL Măgurele nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-19",
+"latest": "2024-03-19",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/148210",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--magurele-51-2024",
 "path": "local/prahova/magurele/2024/51",
 "kind": "local",

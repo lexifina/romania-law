@@ -3,6 +3,726 @@
  "shard": "local/prahova/paulesti/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--paulesti-1-2021",
+   "path": "local/prahova/paulesti/2021/1",
+   "short": "HCL Păulești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 1/2021 privind aprobarea utilizării excedentului anilor precedenți pentru acoperirea definitivă a deficitului secțiunii de funcționare a bugetului local, la sfârșitul exercitiului bugetar al anului 2020",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27174",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-10-2021",
+   "path": "local/prahova/paulesti/2021/10",
+   "short": "HCL Păulești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 10/2021 privind stabilirea normativului de cheltuieli pentru consumul lunar de carburanți pentru autoturismele Primăriei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27192",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-100-2021",
+   "path": "local/prahova/paulesti/2021/100",
+   "short": "HCL Păulești nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 100/2021 privind aprobarea rectificării bugetului local al comunei Păulești, luna iulie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47893",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-101-2021",
+   "path": "local/prahova/paulesti/2021/101",
+   "short": "HCL Păulești nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 101/2021 privind aprobarea premierii elevilor din cadrul Scolii Gimnaziale Toma T.Socolescu, comuna Păulești, care au obținut rezultate deosebite la învățătură, în anul școlar 2020-2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47894",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-102-2021",
+   "path": "local/prahova/paulesti/2021/102",
+   "short": "HCL Păulești nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 102/2021 privind aprobarea PUZ – Restructurare urbanistică parțială, cartier Magnolia",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47901",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-103-2021",
+   "path": "local/prahova/paulesti/2021/103",
+   "short": "HCL Păulești nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 103/2021 privind aprobarea Procedurii privind reglementarea acordării eșalonării la plată pentru creanțele bugetare restante datorate la bugetul local",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47902",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-104-2021",
+   "path": "local/prahova/paulesti/2021/104",
+   "short": "HCL Păulești nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 104/2021 privind anularea accesoriilor în cazul obligațiilor bugetare restante, la 31 martie 2021, datorate bugetului local al comunei Păulești de către persoanele fizice",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47903",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-105-2021",
+   "path": "local/prahova/paulesti/2021/105",
+   "short": "HCL Păulești nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 105/2021 privind modificarea și completarea HCL Păulești nr.114/2016 privind instituirea taxei speciale de salubrizare",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47904",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-106-2021",
+   "path": "local/prahova/paulesti/2021/106",
+   "short": "HCL Păulești nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 106/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47905",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-107-2021",
+   "path": "local/prahova/paulesti/2021/107",
+   "short": "HCL Păulești nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 107/2021 privind aprobarea modelului cadru de contract privind constituirea unui drept de superficie (pentru terenurile ce vor fi atribuite în baza legii nr.15/2003)",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47906",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-108-2021",
+   "path": "local/prahova/paulesti/2021/108",
+   "short": "HCL Păulești nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 108/2021 privind instituirea, administrarea și încasarea taxei speciale pentru eliberarea plăcuțelor de înmatriculare a mopedelor, tramvaielor, troleibuzelor, tractoarelor agricole sau forestiere",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47907",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-109-2021",
+   "path": "local/prahova/paulesti/2021/109",
+   "short": "HCL Păulești nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 109/2021 privind însușirea documentației tehnice de dezmembrare a terenului cu nr.cad.30907 ce face parte din domeniul privat al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47908",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-11-2021",
+   "path": "local/prahova/paulesti/2021/11",
+   "short": "HCL Păulești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 11/2021 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Păuleşti începând cu anul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27193",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-110-2021",
+   "path": "local/prahova/paulesti/2021/110",
+   "short": "HCL Păulești nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 110/2021 privind rectificarea bugetului local al comunei Păulești, luna august 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47909",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-113-2021",
+   "path": "local/prahova/paulesti/2021/113",
+   "short": "HCL Păulești nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 113/2021 privind aprobarea Acordului de înfrăţire şi cooperare între Unitatea Administrativ-Teritorială Comuna Păuleşti, judeţul Prahova din România şi Comuna Ruseștii Noi, Raionul Ialoveni, din Republica Moldova",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47912",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-116-2021",
+   "path": "local/prahova/paulesti/2021/116",
+   "short": "HCL Păulești nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 116/2021 privind aprobarea documentației PUZ-Extindere intravilan, ridicare restricție construire și parcelare teren",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47915",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-117-2021",
+   "path": "local/prahova/paulesti/2021/117",
+   "short": "HCL Păulești nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 117/2021 privind aprobarea Caietului de sarcini pentru lucrări de „Deszăpezire iarna 2020-2021, întreținere curentă pe timp de iarnă a drumurilor comunale,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47916",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-118-2021",
+   "path": "local/prahova/paulesti/2021/118",
+   "short": "HCL Păulești nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 118/2021 privind modificarea și completarea HCL Păulești nr.11/2021,privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47917",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-119-2021",
+   "path": "local/prahova/paulesti/2021/119",
+   "short": "HCL Păulești nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 119/2021 privind rectificarea bugetului local al comunei Păulești, luna septembrie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47918",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-12-2021",
+   "path": "local/prahova/paulesti/2021/12",
+   "short": "HCL Păulești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 12/2021 privind încheierea unui act adițional la contractul nr.13766/9.09.2020 privind cofinanțarea lucrărilor ,,Curățenie, defrișare arbori în cimitirul Parohiei Găgeni,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27194",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-120-2021",
+   "path": "local/prahova/paulesti/2021/120",
+   "short": "HCL Păulești nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 120/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47921",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-121-2021",
+   "path": "local/prahova/paulesti/2021/121",
+   "short": "HCL Păulești nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 121/2021 privind rectificarea bugetului local, comuna Păulești, luna septembrie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47922",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-122-2021",
+   "path": "local/prahova/paulesti/2021/122",
+   "short": "HCL Păulești nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 122/2021 privind aprobarea documentației tehnico-economice pentru lucrarea Conexiune rețele de canalizare la Stația de Epurare, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47934",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-123-2021",
+   "path": "local/prahova/paulesti/2021/123",
+   "short": "HCL Păulești nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 123/2021 privind aprobarea documentației tehnico-economice pentru lucrarea Rețea de canalizare și racorduri pe str. Aluniș și str.Cireșilor, sat Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47935",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-124-2021",
+   "path": "local/prahova/paulesti/2021/124",
+   "short": "HCL Păulești nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 124/2021 privind aprobarea documentației tehnico-economice pentru lucrarea Execuție monument str.Bucegi, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47936",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-125-2021",
+   "path": "local/prahova/paulesti/2021/125",
+   "short": "HCL Păulești nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 125/2021 privind aprobarea documentației tehnice de alipire terenul cu nr.cad.28865 și nr.cad.30800",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47937",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-127-2021",
+   "path": "local/prahova/paulesti/2021/127",
+   "short": "HCL Păulești nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 127/2021 privind modificarea HCL Păulești nr.29/2021 privind aprobarea încheierii unui Acord pentru realizarea obiectivului ,,Variantă ocolitoare Păulești,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47939",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-128-2021",
+   "path": "local/prahova/paulesti/2021/128",
+   "short": "HCL Păulești nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 128/2021 privind rectificarea bugetului local al comunei Păulești, luna octombrie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47940",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-129-2021",
+   "path": "local/prahova/paulesti/2021/129",
+   "short": "HCL Păulești nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 129/2021 privind aprobarea propunerii de Reziliere sau Acceptarea angajamentului de plată, cu privire la eșalonarea redevenței la contractul de concesiune cu SC ROSAL GRUP SA",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47941",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-13-2021",
+   "path": "local/prahova/paulesti/2021/13",
+   "short": "HCL Păulești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 13/2021 privind însușirea în domeniul privat al comunei Păulești a unor suprafețe de teren",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27195",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-130-2021",
+   "path": "local/prahova/paulesti/2021/130",
+   "short": "HCL Păulești nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 130/2021 privind înscrierea suprafeței de 755 mp în inventarul bunurilor care fac parte din domeniul privat al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47942",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-132-2021",
+   "path": "local/prahova/paulesti/2021/132",
+   "short": "HCL Păulești nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 132/2021 privind aprobarea indicatorilor tehnico-economici – devizul general actualizat, conform OG nr.15/2021, la obiectivul de investiții ,,Canalizare menajeră sat Găgeni, comuna Păuleşti, judeţ Prahova,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47984",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-133-2021",
+   "path": "local/prahova/paulesti/2021/133",
+   "short": "HCL Păulești nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 133/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ,,Creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice – Scoala Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47985",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-134-2021",
+   "path": "local/prahova/paulesti/2021/134",
+   "short": "HCL Păulești nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 134/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ,,Creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice – Scoala Găgeni",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47986",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-135-2021",
+   "path": "local/prahova/paulesti/2021/135",
+   "short": "HCL Păulești nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 135/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47987",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-136-2021",
+   "path": "local/prahova/paulesti/2021/136",
+   "short": "HCL Păulești nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 136/2021 privind insușirea documentației tehnice de desmembrare teren nr.cad. 28595 (zona sala de sport scolară)",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47988",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-137-2021",
+   "path": "local/prahova/paulesti/2021/137",
+   "short": "HCL Păulești nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 137/2021 privind aprobarea devizului general la lucrarea de investiții - Modernizare drumuri și străzi în satele Păulești și Păuleștii Noi",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47989",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-138-2021",
+   "path": "local/prahova/paulesti/2021/138",
+   "short": "HCL Păulești nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 138/2021 privind aprobarea deviului general la lucrarea de investiții - Construire rețea de canalizare menajeră și pluvială în satele Păulești, Găgeni și Cocoșești, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47990",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-139-2021",
+   "path": "local/prahova/paulesti/2021/139",
+   "short": "HCL Păulești nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 139/2021 privind aprobarea devizului general la lucrarea de investiții - Construire rețea de canalizare menajeră și pluvială str.Nicoae Iorga, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47991",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-14-2021",
+   "path": "local/prahova/paulesti/2021/14",
+   "short": "HCL Păulești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 14/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local, pentru anul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27196",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-140-2021",
+   "path": "local/prahova/paulesti/2021/140",
+   "short": "HCL Păulești nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 140/2021 privind aprobarea devizului general la lucrarea de investiții - Construire racorduri individuale la rețeaua de canalizare menajeră în satul Găgeni, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47992",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-141-2021",
+   "path": "local/prahova/paulesti/2021/141",
+   "short": "HCL Păulești nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 141/2021 privind aprobarea deviului general la lucrarea de investiții – Construire poduri și podețe în satul Păulești, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47993",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-142-2021",
+   "path": "local/prahova/paulesti/2021/142",
+   "short": "HCL Păulești nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 142/2021 privind aprobarea deviului general la lucrarea de investiții – Modernizare Stație de epurare, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47994",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-143-2021",
+   "path": "local/prahova/paulesti/2021/143",
+   "short": "HCL Păulești nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 143/2021 privind rectificarea bugetului local al comunei Păulești, luna octombrie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47995",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-146-2021",
+   "path": "local/prahova/paulesti/2021/146",
+   "short": "HCL Păulești nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 146/2021 privind aprobarea indicatorilor tehnico-economici – devizul general actualizat, conform OG nr.15/2021, la obiectivul de investiții ,,Extindere, modernizare și dotare sediu primărie, desființare construcții existente, împrejmuire, refacere alei pietonale și carosabile , amenajare peisagistică,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47998",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-147-2021",
+   "path": "local/prahova/paulesti/2021/147",
+   "short": "HCL Păulești nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 147/2021 privind însuşirea documentaţiei tehnice de alipire a terenurilor cu nr.cad.30993 și nr.cad. 31031 ce fac parte domeniul privat al comunei Păuleşti",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47999",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-148-2021",
+   "path": "local/prahova/paulesti/2021/148",
+   "short": "HCL Păulești nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 148/2021 privind modificarea art.1. din HCL Păulești nr.20/2020 privind retragerea dreptului de folosinta asupra terenului atribuit în baza prevederilor Legii nr.15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, republicată",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48000",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-149-2021",
+   "path": "local/prahova/paulesti/2021/149",
+   "short": "HCL Păulești nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 149/2021 privind aprobarea devizului general la lucrarea de investiții – Construire conductă de aducțiune și gospodărire de apă rezervor DN 1 Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/48001",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48001",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-151-2021",
    "path": "local/prahova/paulesti/2021/151",
    "short": "HCL Păulești nr. 151/2021",
@@ -133,6 +853,21 @@
      "from": "2021-11-24",
      "units": 1,
      "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-16-2021",
+   "path": "local/prahova/paulesti/2021/16",
+   "short": "HCL Păulești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 16/2021 privind aprobarea devizului general, actualizat, la lucrarea de investiții ,,Extindere, modernizare și dotare sediu Primărie, desființare construcții existente, împrejmuire, refacere alei pietonale și carosabile, amenajare peisagistică,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27198",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27198",
      "sha256": null
     }
    ]
@@ -288,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--paulesti-17-2021",
+   "path": "local/prahova/paulesti/2021/17",
+   "short": "HCL Păulești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 17/2021 privind însușirea rezultatului inventarierii masei impozabile, pentru anul fiscal 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27199",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27199",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--paulesti-170-2021",
    "path": "local/prahova/paulesti/2021/170",
    "short": "HCL Păulești nr. 170/2021",
@@ -298,6 +1048,906 @@
      "from": "2021-12-24",
      "units": 1,
      "source_url": "https://emol.ro/paulesti-ph/registru-hcl/48025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-19-2021",
+   "path": "local/prahova/paulesti/2021/19",
+   "short": "HCL Păulești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 19/2021 privind aprobarea Procedurii-cadru privind vânzarea imobilelor (teren și/sau construcții) din domeniul privat al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27184",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-2-2021",
+   "path": "local/prahova/paulesti/2021/2",
+   "short": "HCL Păulești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 2/2021 privind aprobarea Listei de investiții, provizorie, pe anul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27175",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-21-2021",
+   "path": "local/prahova/paulesti/2021/21",
+   "short": "HCL Păulești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 21/2021 privind modificarea și completarea HCL Păulești nr.2/6.01.2021 privind aprobarea Listei provizorii de investiții pe anul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27276",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-22-2021",
+   "path": "local/prahova/paulesti/2021/22",
+   "short": "HCL Păulești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 22/2021 privind încheierea exercițiului bugetar al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27407",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-23-2021",
+   "path": "local/prahova/paulesti/2021/23",
+   "short": "HCL Păulești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 23/2021 privind atestarea apartenenței la domeniul public al comunei Păulești a imobilelor C.F.nr.30152 și C.F.nr.30225",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27408",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-24-2021",
+   "path": "local/prahova/paulesti/2021/24",
+   "short": "HCL Păulești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 24/2021 privind atestarea apartenenței la domeniul privat al comunei Păulești a imobilelor C.F.nr.30273 și C.F.nr.28157",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27409",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-25-2021",
+   "path": "local/prahova/paulesti/2021/25",
+   "short": "HCL Păulești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 25/2021 privind aprobarea documentației tehnico economice la lucrarea ,,Trotuar DJ 102, sistem de evacuare ape pluviale,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27410",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-26-2021",
+   "path": "local/prahova/paulesti/2021/26",
+   "short": "HCL Păulești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 26/2021 privind aprobarea documentației tehnico economice la lucrarea ,,Rețea canalizare și racorduri individuale str.Carol Davila,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27411",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-27-2021",
+   "path": "local/prahova/paulesti/2021/27",
+   "short": "HCL Păulești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 27/2021 privind înscrierea în inventarul bunurilor aflate în domeniului prival al comunei Păulești a suprafetei de 100 mp, nr.cad.30350",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27412",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-28-2021",
+   "path": "local/prahova/paulesti/2021/28",
+   "short": "HCL Păulești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 28/2021 privind organizarea și funcționarea rețelei școlare, preuniversitare de stat, precum și a celor particulare acreditate, pe raza comunei Păulești, județul Prahova, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27413",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-29-2021",
+   "path": "local/prahova/paulesti/2021/29",
+   "short": "HCL Păulești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 29/2021 privind aprobarea unui acord pentru realizarea obiectivului de investiții ,,Variantă ocolitoare Păulești,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27438",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-3-2021",
+   "path": "local/prahova/paulesti/2021/3",
+   "short": "HCL Păulești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 3/2021 privind modificarea și completarea HCL Păulești nr.111/2020 privind stabilirea stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27176",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-30-2021",
+   "path": "local/prahova/paulesti/2021/30",
+   "short": "HCL Păulești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 30/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27439",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-31-2021",
+   "path": "local/prahova/paulesti/2021/31",
+   "short": "HCL Păulești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 31/2021 privind modificarea prețului la apa potabilă livrată în comuna Păuleşti",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27440",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-32-2021",
+   "path": "local/prahova/paulesti/2021/32",
+   "short": "HCL Păulești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 32/2021 privind aprobarea obiectivului de investiții ,,Amenajare parc-zona loturilor de casă, comuna Păulești, satele Păulești și Găgeni,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27441",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-33-2021",
+   "path": "local/prahova/paulesti/2021/33",
+   "short": "HCL Păulești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 33/2021 privind aprobarea documentatiei: ÎNTOCMIRE PUZ - schimbare destinație teren cu suprafață de 1335 mp din ,,SUBZONĂ LOCUINȚE INDIVIDUALE ÎN SUBZONĂ LOCUINȚE COLECTIVE și MODIFICARE REGLEMENTĂRI URBANISTICE PENTRU AMPLASARE BLOC LOCUINȚE ȘI AMENAJARE DRUM ACCES (Sst=2500 mp)",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27442",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-34-2021",
+   "path": "local/prahova/paulesti/2021/34",
+   "short": "HCL Păulești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 34/2021 privind aprobarea documentației PUZ – Schimbare parțială destinație teren din zonă locuințe colective în zonă locuințe individuale și reparcelare teren, modificare parțială tramă stradală și relocare parțială spații verzi și agrement, cu menținerea suprafeței (Sstdud.=42794 mp)",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27443",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-35-2021",
+   "path": "local/prahova/paulesti/2021/35",
+   "short": "HCL Păulești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 35/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27444",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-36-2021",
+   "path": "local/prahova/paulesti/2021/36",
+   "short": "HCL Păulești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 36/2021 privind documentației tehnico-economice pentru ,, Scurgere ape pluviale și asigurare trafic pietonal pe str. Grădiniței, str.Bisericii și str.Principatelor, sat Cocoșești, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27445",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-37-2021",
+   "path": "local/prahova/paulesti/2021/37",
+   "short": "HCL Păulești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 37/2021 privind însușirea documentației tehnice de alipire terenuri (9 loturi la De 793)",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27447",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-38-2021",
+   "path": "local/prahova/paulesti/2021/38",
+   "short": "HCL Păulești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 38/2021 privind aprobarea ROF Consiliul Local Păulești, revizuit martie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27446",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-39-2021",
+   "path": "local/prahova/paulesti/2021/39",
+   "short": "HCL Păulești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 39/2021 privind aprobarea Regulamentului privind înregistrarea, evidența, radierea vehiculelor lente care nu se supun înmatriculării în comuna Păulești, județ Prahova",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27451",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-4-2021",
+   "path": "local/prahova/paulesti/2021/4",
+   "short": "HCL Păulești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 4/2021 privind modificarea componenței Comisiei nr.1 din cadrul Consiliului Local Păulești, mandatul 2020-2024",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27186",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-40-2021",
+   "path": "local/prahova/paulesti/2021/40",
+   "short": "HCL Păulești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 40/2021 privind aprobarea cuantumului și numărului burselor școlare ce se vor acorda elevilor din unitățile de învățământ preuniversitar de stat din comuna Păulești, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27452",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-41-2021",
+   "path": "local/prahova/paulesti/2021/41",
+   "short": "HCL Păulești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 41/2021 privind acceptarea donației suprafeței de 606 mp teren, nr.cad.20808, cu destinația ulterioară de drum public",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27453",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-42-2021",
+   "path": "local/prahova/paulesti/2021/42",
+   "short": "HCL Păulești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 42/2021 privind acceptarea donației suprafeței totale de 302 mp teren nr.cad. 28289 și nr.cad.30330, cu destinația ulterioară de drum public",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27454",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-43-2021",
+   "path": "local/prahova/paulesti/2021/43",
+   "short": "HCL Păulești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 43/2021 privind aprobarea numărului de posturi de asistenți personali în cadrul Primăriei Păulești, anul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27456",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-5-2021",
+   "path": "local/prahova/paulesti/2021/5",
+   "short": "HCL Păulești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 5/2021 privind aprobarea Planului de acțiuni sau de lucrări pentru persoanele majore, beneficiare de Legea 416/2001",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27187",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-52-2021",
+   "path": "local/prahova/paulesti/2021/52",
+   "short": "HCL Păulești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 52/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27465",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-53-2021",
+   "path": "local/prahova/paulesti/2021/53",
+   "short": "HCL Păulești nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 53/2021 privind aprobarea bugetului local al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27466",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-54-2021",
+   "path": "local/prahova/paulesti/2021/54",
+   "short": "HCL Păulești nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 54/2021 privind aprobarea Programului anual privind regimul finanţărilor nerambursabile din fondurile bugetului local al Comunei Păuleşti alocate pentru activităţi nonprofit",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27467",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-55-2021",
+   "path": "local/prahova/paulesti/2021/55",
+   "short": "HCL Păulești nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 55/2021 privind aprobarea măsurilor pentru bugetarea participativă în anul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27448",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-57-2021",
+   "path": "local/prahova/paulesti/2021/57",
+   "short": "HCL Păulești nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 57/2021 privind aprobarea Caietului de sarcini pentru ,,Reparatii și întreținere în sistemul de iluminat public și instalații electrice în clădirile proprietate publică comuna Păulești, județul Prahova,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27450",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-6-2021",
+   "path": "local/prahova/paulesti/2021/6",
+   "short": "HCL Păulești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 6/2021 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică in comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27188",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-61-2021",
+   "path": "local/prahova/paulesti/2021/61",
+   "short": "HCL Păulești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 61/2021 privind revocarea HCL Păulești nr.84/2014 privind privind trecerea din domeniul privat în domeniul public al comunei Păulești, a terenului în suprafață de 798 mp, nr.cad.27242",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27471",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-62-2021",
+   "path": "local/prahova/paulesti/2021/62",
+   "short": "HCL Păulești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 62/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27472",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-64-2021",
+   "path": "local/prahova/paulesti/2021/64",
+   "short": "HCL Păulești nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 64/2021 privind însușirea suprafeței de 100 mp, situată în extravilanul comunei Păulești, Tarla 29 Parcela A 756, în domeniul privat al comunei",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27474",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-67-2021",
+   "path": "local/prahova/paulesti/2021/67",
+   "short": "HCL Păulești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 67/2021 privind înscrierea în inventarul bunurilor care aparțin domeniului privat al comunei Păulești a terenului în suprafață de 2738 mp, nr.cad. 28657",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47835",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-68-2021",
+   "path": "local/prahova/paulesti/2021/68",
+   "short": "HCL Păulești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 68/2021 privind aprobarea documentaţiei tehnico economice la lucrarea de investitii ,,Construire conductă de aducțiune și gospodărire apă, Rezervor DN 1 – Păulești,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47836",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-7-2021",
+   "path": "local/prahova/paulesti/2021/7",
+   "short": "HCL Păulești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 7/2021 privind aprobarea nr.de posturi pentru asistentii personali ai persoanelor cu handicap grav, pentru aul 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27189",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-72-2021",
+   "path": "local/prahova/paulesti/2021/72",
+   "short": "HCL Păulești nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 72/2021 privind modificarea Organigramei și a Statului de Funcții în cadrul Primăriei Comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47840",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-73-2021",
+   "path": "local/prahova/paulesti/2021/73",
+   "short": "HCL Păulești nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 73/2021 privind aprobarea Strategiei de dezvoltare a Comunei Păulești, județ Prahova, peentru perioada 2021-2027",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47841",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-76-2021",
+   "path": "local/prahova/paulesti/2021/76",
+   "short": "HCL Păulești nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 76/2021 privind aprobarea rectificării bugetului local, luna iunie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47844",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-77-2021",
+   "path": "local/prahova/paulesti/2021/77",
+   "short": "HCL Păulești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 77/2021 privind înscrierea în inventarul bunurilor care aparțin domeniului privat al comunei Păulești, a terenului în suprafață de 1191 mp situat în intravilanul satului Păulești Tarla 21 Parcela A 2565",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47863",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-79-2021",
+   "path": "local/prahova/paulesti/2021/79",
+   "short": "HCL Păulești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 79/2021 privind aprobarea documentației tehnico-economică pentru lucrarea de investitii ,,Modernizare DE 741/101, comuna Păulești,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47865",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-8-2021",
+   "path": "local/prahova/paulesti/2021/8",
+   "short": "HCL Păulești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 8/2021 privind aprobarea majorării taxelor și impozitelor locale, cu 300%, pentru terenurile/clădirile neîngrijite",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27190",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-82-2021",
+   "path": "local/prahova/paulesti/2021/82",
+   "short": "HCL Păulești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 82/2021 privind însușirea raportului de evaluare, în vederea stabilirii valorii de piață, a terenului în suprafață de 755 mp, nr.cad.30800",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47868",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-83-2021",
+   "path": "local/prahova/paulesti/2021/83",
+   "short": "HCL Păulești nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 83/2021 privind înfiintarea şi organizarea Serviciului Public Comunitar Local de Evidenţă a Persoanelor al comunei Păulești, jud. Prahova",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47869",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-84-2021",
+   "path": "local/prahova/paulesti/2021/84",
+   "short": "HCL Păulești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 84/2021 privind înscrierea unor bunuri imobile care aparțin domeniului privat al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47870",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-85-2021",
+   "path": "local/prahova/paulesti/2021/85",
+   "short": "HCL Păulești nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 85/2021 privind aprobarea desmembrării suprafeței de 4700 mp teren situat în extravilanul comunei Păulești, tarla 2 Parcela 340, nr.cad.22837",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47871",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-86-2021",
+   "path": "local/prahova/paulesti/2021/86",
+   "short": "HCL Păulești nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 86/2021 privind aprobarea documentației tehnice de alipire a unui nr.de 42 imobile (terenuri), situate în Tarla 16 Parcela 2188, comuna Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47872",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-87-2021",
+   "path": "local/prahova/paulesti/2021/87",
+   "short": "HCL Păulești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 87/2021 privind modificarea componenței Comisiei pentru activitati economico – financiare, agricultura, amenajarea teritoriului, urbanism, protectia mediului, turism, din cadrul Consiliului Local Păulești, în mandatul 2020-2024",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47873",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-88-2021",
+   "path": "local/prahova/paulesti/2021/88",
+   "short": "HCL Păulești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 88/2021 privind aprobarea rectificării bugetului local al comunei Păulești, luna iulie 2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47874",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-89-2021",
+   "path": "local/prahova/paulesti/2021/89",
+   "short": "HCL Păulești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 89/2021",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47875",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-9-2021",
+   "path": "local/prahova/paulesti/2021/9",
+   "short": "HCL Păulești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 9/2021 privind aprobarea Organigramei și a Statului de funcții la nivelul Primăriei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/27191",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/27191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-92-2021",
+   "path": "local/prahova/paulesti/2021/92",
+   "short": "HCL Păulești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 92/2021 privind trecerea suprafeței totale de 10924 mp teren din domeniul privat al comunei Păulești în domeniul public al comunei Păulești",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47885",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-93-2021",
+   "path": "local/prahova/paulesti/2021/93",
+   "short": "HCL Păulești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 93/2021 privind stabilirea unui termen limită de competare a cererilor depuse în baza prevederilor Legii nr.15/2003, republicată, modificată și completată",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47886",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-94-2021",
+   "path": "local/prahova/paulesti/2021/94",
+   "short": "HCL Păulești nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 94/2021 privind însușirea documentației tehnice de desmembrare a terenului în suprafață de 4700 mp, nr.cad.22837",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47887",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-95-2021",
+   "path": "local/prahova/paulesti/2021/95",
+   "short": "HCL Păulești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 95/2021 privind retragerea dreptului de folosinta asupra terenului atribuit în baza prevederilor Legii nr.15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, republicată",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47888",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--paulesti-99-2021",
+   "path": "local/prahova/paulesti/2021/99",
+   "short": "HCL Păulești nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Păulești nr. 99/2021 privind aprobarea studiului de fezabilitate pentru licrarea ,,Extindere retele electrice de distributie în comuna Păulești, str.Toma T.Socolescu,,",
+   "url": "https://emol.ro/paulesti-ph/registru-hcl/47892",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paulesti-ph/registru-hcl/47892",
      "sha256": null
     }
    ]

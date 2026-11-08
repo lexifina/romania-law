@@ -3,6 +3,906 @@
  "shard": "local/prahova/plopu/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--plopu-1-2022",
+   "path": "local/prahova/plopu/2022/1",
+   "short": "HCL Plopu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 1/2022 privind APROBAREA DECONTULUI NAVETEI CADRELOR DIDACTICE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/47950",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/47950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-10-2022",
+   "path": "local/prahova/plopu/2022/10",
+   "short": "HCL Plopu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 10/2022 privind APROBAREA DECONTULUI NAVETEI CADRELOR DIDACTICE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51108",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-11-2022",
+   "path": "local/prahova/plopu/2022/11",
+   "short": "HCL Plopu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 11/2022 privind APROBAREA BUGETULUI LOCAL",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51109",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-12-2022",
+   "path": "local/prahova/plopu/2022/12",
+   "short": "HCL Plopu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 12/2022 privind APROBAREA UTILIZARII EXCEDENTULUI BUGETAR ANUAL",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51110",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-13-2022",
+   "path": "local/prahova/plopu/2022/13",
+   "short": "HCL Plopu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 13/2022 privind APROBAREA UNUI CONTRACT DE DONATIE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51111",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-14-2022",
+   "path": "local/prahova/plopu/2022/14",
+   "short": "HCL Plopu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 14/2022 privind APROBAREA PLANULUI ANUAL DE ACTIUNI PRIVIND SERVICIILE SOCIALE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51112",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-15-2022",
+   "path": "local/prahova/plopu/2022/15",
+   "short": "HCL Plopu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 15/2022 privind APROBAREA FONDURILOR NECESARE PENTRU PLATA AJUTORULUI PENTRU INCALZIRE SI A SUPLIMENTULUI PENTRU ENERGIE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51113",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-16-2022",
+   "path": "local/prahova/plopu/2022/16",
+   "short": "HCL Plopu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 16/2022 privind APROBAREA UNEI SUME DIN BUGETUL LOCAL REPREZENTAND NORMA DE HRANA, AFERENTA ANULUI 2022, PENTRU POLITIA LOCALA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51114",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-17-2022",
+   "path": "local/prahova/plopu/2022/17",
+   "short": "HCL Plopu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 17/2022 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55070",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-18-2022",
+   "path": "local/prahova/plopu/2022/18",
+   "short": "HCL Plopu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 18/2022 privind RECTIFICAREA BUGETULUI LOCAL",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55071",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-19-2022",
+   "path": "local/prahova/plopu/2022/19",
+   "short": "HCL Plopu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 19/2022 privind APROBAREA DECONTULUI NAVETEI CADRELOR DIDACTICE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55072",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-2-2022",
+   "path": "local/prahova/plopu/2022/2",
+   "short": "HCL Plopu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 2/2022 privind APROBAREA SALARIILOR DE BAZA PERSONALULUI PRIMARIEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/47951",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/47951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-20-2022",
+   "path": "local/prahova/plopu/2022/20",
+   "short": "HCL Plopu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 20/2022 privind MODIFICAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.13 DIN 11.02.2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55073",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-21-2022",
+   "path": "local/prahova/plopu/2022/21",
+   "short": "HCL Plopu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 21/2022 privind APROBAREA CUANTUMULUI LUNAR AL BURSELOR ACORDATE ELEVILOR DIN INVATAMANTUL PREUNIVERSITAR DE STAT",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55074",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-22-2022",
+   "path": "local/prahova/plopu/2022/22",
+   "short": "HCL Plopu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 22/2022 privind APROBAREA FONDURILOR NECESARE PENTRU PLATA AJUTORULUI DE INCALZIRE A LOCUINTEI SI A SUPLIMENTULUI PENTRU ENERGIE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55075",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-23-2022",
+   "path": "local/prahova/plopu/2022/23",
+   "short": "HCL Plopu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 23/2022 privind APROBAREA PROGRAMULUI ANUAL DE ACHIZITII PUBLICE PE ANUL 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55076",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-24-2022",
+   "path": "local/prahova/plopu/2022/24",
+   "short": "HCL Plopu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 24/2022 privind INFIINTAREA UNUI CENTRU PENTRU APORT VOLUNTAR",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55077",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-25-2022",
+   "path": "local/prahova/plopu/2022/25",
+   "short": "HCL Plopu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 25/2022 privind APROBAREA REGULAMENTULUI DE GESTIONARE A DESEURILOR PROVENITE DIN CONTRUCTII SI DEMOLARI",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55078",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-26-2022",
+   "path": "local/prahova/plopu/2022/26",
+   "short": "HCL Plopu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 26/2022 privind ASOCIEREA COMUNEI PLOPU CU UAT JUDETUL PRAHOVA SI CU LOCALITATI DIN JUDETUL PRAHOVA IN VEDEREA CONSTITUIRII ASOCIATIEI DE DEZVOLTARE INTERCOMUNITARA „TINUTUL VINULUI”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55079",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-27-2022",
+   "path": "local/prahova/plopu/2022/27",
+   "short": "HCL Plopu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 27/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55080",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-28-2022",
+   "path": "local/prahova/plopu/2022/28",
+   "short": "HCL Plopu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 28/2022 privind APROBAREA INTOCMIRII DOCUMENTATIEI PENTRU REACTUALIZARE PUG SI RLU ALE COMUNEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55081",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-29-2022",
+   "path": "local/prahova/plopu/2022/29",
+   "short": "HCL Plopu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 29/2022 privind COMPLETAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.2 DIN 14.01.2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55082",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-3-2022",
+   "path": "local/prahova/plopu/2022/3",
+   "short": "HCL Plopu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 3/2022 privind APROBAREA FONDURILOR NECESARE ACORDARII AJUTORULUI PENTRU INCALZIRE SI A SUPLIMENTULUI PENTRU ENERGIE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/47952",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/47952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-31-2022",
+   "path": "local/prahova/plopu/2022/31",
+   "short": "HCL Plopu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 31/2022 privind APROBAREA DEPUNERII UNUI PROIECT IN CADRUL PNRR/2022/C5/B.1/1, OPERATIUNEA B.1",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55886",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-32-2022",
+   "path": "local/prahova/plopu/2022/32",
+   "short": "HCL Plopu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 32/2022 privind ORGANIZAREA RETELEI SCOLARE IN ANUL SCOLAR 2022 – 2023 LA NIVELUL COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59381",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-33-2022",
+   "path": "local/prahova/plopu/2022/33",
+   "short": "HCL Plopu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 33/2022 privind APROBAREA DECONTULUI NAVETEI CADRELOR DIDACTICE PENTRU LUNA MARTIE/ 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59382",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-34-2022",
+   "path": "local/prahova/plopu/2022/34",
+   "short": "HCL Plopu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 34/2022 privind APROBAREA FONDURILOR NECESARE PENTRU PLATA AJUTORULUI DE INCALZIRE A LOCUINTEI SI/ SAU A SUPLIMENTULUI PENTRU ENERGIE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59383",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-35-2022",
+   "path": "local/prahova/plopu/2022/35",
+   "short": "HCL Plopu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 35/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59384",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-36-2022",
+   "path": "local/prahova/plopu/2022/36",
+   "short": "HCL Plopu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 36/2022 privind Aprobarea cererii de finanțare și a devizului general estimativ, pentru obiectivul de investiții “MODERNIZARE SI EXTINDERE RETEA DISTRIBUTIE GAZE NATURALE IN SATUL HȂRSA, COMUNA PLOPU, JUDETUL PRAHOVA”, prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59385",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-37-2022",
+   "path": "local/prahova/plopu/2022/37",
+   "short": "HCL Plopu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 37/2022 privind APROBAREA STRUCTURII ORGANIZATORICE A PRIMARIEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59386",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-38-2022",
+   "path": "local/prahova/plopu/2022/38",
+   "short": "HCL Plopu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 38/2022 privind Modificarea hotararii consiliului local Plopu nr.27 din 16.03.2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59395",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-39-2022",
+   "path": "local/prahova/plopu/2022/39",
+   "short": "HCL Plopu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 39/2022 privind APROBAREA CONSUMULUI LUNAR DE CARBURANTI PENTRU DOUA AUTOVEHICULE ALE PRIMARIEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59396",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-4-2022",
+   "path": "local/prahova/plopu/2022/4",
+   "short": "HCL Plopu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 4/2022 privind MODIFICAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.36 DIN 22.04.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/47953",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/47953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-40-2022",
+   "path": "local/prahova/plopu/2022/40",
+   "short": "HCL Plopu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 40/2022 privind APROBAREA CONTRACTULUI DE SPONSORIZARE NR.24/22.03.2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59436",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-41-2022",
+   "path": "local/prahova/plopu/2022/41",
+   "short": "HCL Plopu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 41/2022 privind RECTIFICAREA BUGETULUI LOCAL",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59437",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-42-2022",
+   "path": "local/prahova/plopu/2022/42",
+   "short": "HCL Plopu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 42/2022 privind APROBAREA SITUATIILOR FINANCIARE ANUALE INTOCMITE LA 31.12.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59438",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-43-2022",
+   "path": "local/prahova/plopu/2022/43",
+   "short": "HCL Plopu nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 43/2022 privind APROBAREA CONTULUI DE EXECUTIE LA NIVELUL TRIMESTRULUI I/ 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59439",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-44-2022",
+   "path": "local/prahova/plopu/2022/44",
+   "short": "HCL Plopu nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 44/2022 privind Stabilirea impozitelor şi taxelor locale pentru anul fiscal 2023 la nivelul unitatii administrativ – teritoriale a comunei Plopu, judetul Prahova",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59440",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-45-2022",
+   "path": "local/prahova/plopu/2022/45",
+   "short": "HCL Plopu nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 45/2022 privind APLICAREA INDICELUI RATEI DE INFLATIE LA REDEVENTA PRECIZATA IN CONTRACTUL NR.195 DIN 29.03.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/59441",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/59441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-46-2022",
+   "path": "local/prahova/plopu/2022/46",
+   "short": "HCL Plopu nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 46/2022 privind APROBAREA DECONTULUI NAVETEI CADRELOR DIDACTICE PENTRU LUNA APRILIE/ 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/60230",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/60230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-47-2022",
+   "path": "local/prahova/plopu/2022/47",
+   "short": "HCL Plopu nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 47/2022 privind Aprobarea proiectului „Sistem inteligent de management local în Comuna Plopu, județul Prahova” și a cheltuielilor aferente, în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență al României, Componenta C10 - Fondul Local",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/60231",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/60231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-48-2022",
+   "path": "local/prahova/plopu/2022/48",
+   "short": "HCL Plopu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 48/2022 privind aprobarea participării din cadrul Planului național de redresare și reziliență în cadrul apelului de proiecte ,,COMPONENTA 10 - Fondul Local în cadrul Planului Național de Redresare și Reziliență (PNRR),, cu proiectul: „Actualizarea si elaborarea în format GIS a Planului Urbanistic General al comunei Plopu, judetul Prahova”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/60232",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/60232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-49-2022",
+   "path": "local/prahova/plopu/2022/49",
+   "short": "HCL Plopu nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 49/2022 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/64031",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/64031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-5-2022",
+   "path": "local/prahova/plopu/2022/5",
+   "short": "HCL Plopu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 5/2022 privind ACORDAREA UNUI MANDAT SPECIAL PRIMARULUI COMUNEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/49120",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/49120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-50-2022",
+   "path": "local/prahova/plopu/2022/50",
+   "short": "HCL Plopu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 50/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/64526",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/64526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-51-2022",
+   "path": "local/prahova/plopu/2022/51",
+   "short": "HCL Plopu nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 51/2022 privind APROBAREA DECONTULUI NAVETEI CADRELOR DIDACTICE AFERENT LUNII IULIE/ 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69439",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-52-2022",
+   "path": "local/prahova/plopu/2022/52",
+   "short": "HCL Plopu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 52/2022 privind REVOCAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.45 ADOPTATA LA DATA DE 29/04/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69440",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-53-2022",
+   "path": "local/prahova/plopu/2022/53",
+   "short": "HCL Plopu nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 53/2022 privind APROBAREA ACTULUI ADITIONAL NR.9 LA CONTRACTUL DE LUCRARI NR.3349 DIN 16/05/2018",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69441",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-54-2022",
+   "path": "local/prahova/plopu/2022/54",
+   "short": "HCL Plopu nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 54/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69442",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-55-2022",
+   "path": "local/prahova/plopu/2022/55",
+   "short": "HCL Plopu nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 55/2022 privind APROBAREA FONDURILOR NECESARE ACORDARII SUPLIMENTULUI PENTRU COMBUSTIBILI SOLIZI SAU LICHIZI, AFERENTE LUNII IULIE/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69443",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-56-2022",
+   "path": "local/prahova/plopu/2022/56",
+   "short": "HCL Plopu nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 56/2022 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69444",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-57-2022",
+   "path": "local/prahova/plopu/2022/57",
+   "short": "HCL Plopu nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 57/2022 privind RECTIFICAREA BUGETULUI LOCAL SI ESTIMARI PENRU ANII 2023 - 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/69445",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/69445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-58-2022",
+   "path": "local/prahova/plopu/2022/58",
+   "short": "HCL Plopu nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 58/2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/71975",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/71975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-59-2022",
+   "path": "local/prahova/plopu/2022/59",
+   "short": "HCL Plopu nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 59/2022 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/71976",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/71976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-6-2022",
+   "path": "local/prahova/plopu/2022/6",
+   "short": "HCL Plopu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 6/2022 privind APROBAREA ACTULUI ADITIONAL NR.2 LA CONTRACTUL DE CONCESIUNE NR.2.486/29.03.2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/49121",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/49121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-60-2022",
+   "path": "local/prahova/plopu/2022/60",
+   "short": "HCL Plopu nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 60/2022 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL PLOPU PENTRU LUNILE OCTOMBRIE, NOIEMBRIE SI DECEMBRIE/ 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/73811",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/73811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-61-2022",
+   "path": "local/prahova/plopu/2022/61",
+   "short": "HCL Plopu nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 61/2022 privind STABILIREA IMPOZITELOR SI TAXELOR LOCALE PENTRU ANUL 2023",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/73812",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/73812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-63-2022",
+   "path": "local/prahova/plopu/2022/63",
+   "short": "HCL Plopu nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 63/2022 privind APROBAREA FONDURILOR NECESARE ACORDARII SUPLIMENTULUI PENTRU COMBUSTIBILI SOLIZI SAU LICHIZI AFERENTE LUNII AUGUST/ 2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/73814",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/73814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-64-2022",
+   "path": "local/prahova/plopu/2022/64",
+   "short": "HCL Plopu nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 64/2022 privind RECTIFICAREA BUGETULUI LOCAL SI ESTIMARI PENRU ANII 2023 - 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/73815",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/73815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-65-2022",
+   "path": "local/prahova/plopu/2022/65",
+   "short": "HCL Plopu nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 65/2022 privind ACTUALIZAREA STRATEGIEI DE DEZVOLTARE DURABILA A COMUNEI PLOPU PENTRU PERIOADA 2021 - 2027",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/73816",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/73816",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-66-2022",
    "path": "local/prahova/plopu/2022/66",
    "short": "HCL Plopu nr. 66/2022",
@@ -58,6 +958,21 @@
      "from": "2022-09-26",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/73820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-7-2022",
+   "path": "local/prahova/plopu/2022/7",
+   "short": "HCL Plopu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 7/2022 privind APROBAREA ERATEI LA HOTARAREA CONSILIULUI LOCAL PLOPU NR.7 DIN 31.01.2022",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51067",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51067",
      "sha256": null
     }
    ]
@@ -213,6 +1128,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-8-2022",
+   "path": "local/prahova/plopu/2022/8",
+   "short": "HCL Plopu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 8/2022 privind RECTIFICAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.77 DIN 18.10.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51068",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51068",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-80-2022",
    "path": "local/prahova/plopu/2022/80",
    "short": "HCL Plopu nr. 80/2022",
@@ -298,6 +1228,21 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/85699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-9-2022",
+   "path": "local/prahova/plopu/2022/9",
+   "short": "HCL Plopu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 9/2022 privind RECTIFICAREA HOTARARII CONSILIULUI LOCAL PLOPU NR.79 DIN 18.10.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/51069",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/51069",
      "sha256": null
     }
    ]

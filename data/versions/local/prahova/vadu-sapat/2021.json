@@ -3,6 +3,171 @@
  "shard": "local/prahova/vadu-sapat/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--vadu-sapat-1-2021",
+   "path": "local/prahova/vadu-sapat/2021/1",
+   "short": "HCL Vadu Săpat nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 1/2021 privind acoperirea definitivă a deficitului Secțiunii de dezvoltare a anului 2020 și stabilirea excedentului anilor precedenți",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/19600",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/19600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-10-2021",
+   "path": "local/prahova/vadu-sapat/2021/10",
+   "short": "HCL Vadu Săpat nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 10/2021 privind actualizarea Inventarului bunurilor care aparțin domeniului public al comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41294",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-11-2021",
+   "path": "local/prahova/vadu-sapat/2021/11",
+   "short": "HCL Vadu Săpat nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 11/2021 privind aprobarea modificării statutului de funcții și a organigramei aparatului de specialitate al primarului comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41295",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-12-2021",
+   "path": "local/prahova/vadu-sapat/2021/12",
+   "short": "HCL Vadu Săpat nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 12/2021 privind aprobarea Planului anual de perfecționare profesională a funcținarilor publici din cadrul aparatului de specialitate al primarului, pentru 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41296",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-13-2021",
+   "path": "local/prahova/vadu-sapat/2021/13",
+   "short": "HCL Vadu Săpat nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 13/2021 privind aprobarea modificării statutului de funcții și a organigramei aparatului de specialitate al primarului comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41297",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-14-2021",
+   "path": "local/prahova/vadu-sapat/2021/14",
+   "short": "HCL Vadu Săpat nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 14/2021 privind aprobarea bugetului local al comunei Vadu Sapat, județul Prahova, pentru anul 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41304",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-15-2021",
+   "path": "local/prahova/vadu-sapat/2021/15",
+   "short": "HCL Vadu Săpat nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 15/2021 privind aprobarea Programului investițiilor publice pe anul 2021 al comunei Vadu Sapat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41305",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-16-2021",
+   "path": "local/prahova/vadu-sapat/2021/16",
+   "short": "HCL Vadu Săpat nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 16/2021 privind aprobarea utilizării excedentului anilor precedenți, în suma de 1.147.900 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41306",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-17-2021",
+   "path": "local/prahova/vadu-sapat/2021/17",
+   "short": "HCL Vadu Săpat nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 17/2021 privind aprobarea de burse școlare pentru elevii de la cursurile cu frecventa din unitatea de învățământ preuniversitar de stat, Școala Gimnazială Vadu Săpat, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41307",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-18-2021",
+   "path": "local/prahova/vadu-sapat/2021/18",
+   "short": "HCL Vadu Săpat nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 18/2021 privind reorganizarea rețelei școlare pentru anul școlar 2021-2022 la nivelul comunei Vadu Sapat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41308",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-2-2021",
+   "path": "local/prahova/vadu-sapat/2021/2",
+   "short": "HCL Vadu Săpat nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 2/2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/19602",
+   "versions": [
+    {
+     "from": "2021-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/19602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-20-2021",
    "path": "local/prahova/vadu-sapat/2021/20",
    "short": "HCL Vadu Săpat nr. 20/2021",
@@ -298,6 +463,66 @@
      "from": "2021-09-28",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-4-2021",
+   "path": "local/prahova/vadu-sapat/2021/4",
+   "short": "HCL Vadu Săpat nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 4/2021 privind aprobarea Planului de acțiuni și lucrări de interes local al beneficiarilor prevederilor Legii nr. 416/2001, pentru anul 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/19604",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/19604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-5-2021",
+   "path": "local/prahova/vadu-sapat/2021/5",
+   "short": "HCL Vadu Săpat nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 5/2021 privind stabilirea unor situații deosebite în vederea acordării unor ajutoare de urgență, pe anul 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/19605",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/19605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-6-2021",
+   "path": "local/prahova/vadu-sapat/2021/6",
+   "short": "HCL Vadu Săpat nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 6/2021 privind aprobarea Raportului privind monitorizarea activității asistenților personali, pe semestrul II, anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/19606",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/19606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-7-2021",
+   "path": "local/prahova/vadu-sapat/2021/7",
+   "short": "HCL Vadu Săpat nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 7/2021 privind alegerea președintelui de ședință pentru perioada februarie-aprilie 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41291",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41291",
      "sha256": null
     }
    ]

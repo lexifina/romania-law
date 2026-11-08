@@ -3,6 +3,21 @@
  "shard": "local/prahova/magureni/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--magureni-1-2026",
+   "path": "local/prahova/magureni/2026/1",
+   "short": "HCL Măgureni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 1/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educațive aferente Programului pentru școli al României, pentru anii școlari 2026-2027, 2027-2028, 2028-2029",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/253624",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/253624",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-10-2026",
    "path": "local/prahova/magureni/2026/10",
    "short": "HCL Măgureni nr. 10/2026",
@@ -238,6 +253,36 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/294753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-3-2026",
+   "path": "local/prahova/magureni/2026/3",
+   "short": "HCL Măgureni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 3/2026 privind aprobarea locației pentru amplasarea bustului lui Drăghici Cantacuzino în curtea Bisericii Ortodoxe Sfânta Treime Măgureni I",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/253626",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/253626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-5-2026",
+   "path": "local/prahova/magureni/2026/5",
+   "short": "HCL Măgureni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 5/2026 privind aprobarea prelungirii duratei Contractului nr. 1884/15.04.2025 de delegare a gestiunii activitîții de colectare și transport și transfer a deșeurilor municipale în zonele 2 - Boldețti Scăeni și 6 - Valea Doftanei pentru o perioadă de 1 an",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/256915",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/256915",
      "sha256": null
     }
    ]

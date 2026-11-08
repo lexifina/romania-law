@@ -3,6 +3,126 @@
  "shard": "local/prahova/olari/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--olari-1-2024",
+   "path": "local/prahova/olari/2024/1",
+   "short": "HCL Olari nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 1/2024 privind aprobarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/olari-ph/registru-hcl/143211",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/143211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-10-2024",
+   "path": "local/prahova/olari/2024/10",
+   "short": "HCL Olari nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 10/2024 Proiect de hotarare privind aprobarea rectificarii bugetului local",
+   "url": "https://emol.ro/olari-ph/registru-hcl/158913",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/158913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-12-2024",
+   "path": "local/prahova/olari/2024/12",
+   "short": "HCL Olari nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 12/2024 privind aprobarea obiectivului ” Construire cladire vestiare în Comuna Olari, sat Olari, Sos. DS 352, Tarla 9, Parcela 620, județul Prahova”, a indicatorilor tehnico-economici aferenti si a devizului general",
+   "url": "https://emol.ro/olari-ph/registru-hcl/158915",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/158915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-13-2024",
+   "path": "local/prahova/olari/2024/13",
+   "short": "HCL Olari nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 13/2024 privind aprobarea reorganizarii aparatului de specialitate al primarului Comunei Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/163162",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/163162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-14-2024",
+   "path": "local/prahova/olari/2024/14",
+   "short": "HCL Olari nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 14/2024 privind stabilirea coeficientilor pentru stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Olari, judeţul Prahova",
+   "url": "https://emol.ro/olari-ph/registru-hcl/163163",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/163163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-15-2024",
+   "path": "local/prahova/olari/2024/15",
+   "short": "HCL Olari nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 15/2024 privind stabilirea salariilor de bază, pentru funcționarii publici și personalul contractual din aparatul propriu al primarului",
+   "url": "https://emol.ro/olari-ph/registru-hcl/163164",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/163164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-16-2024",
+   "path": "local/prahova/olari/2024/16",
+   "short": "HCL Olari nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 16/2024 privind aprobarea rectificarii bugetului local",
+   "url": "https://emol.ro/olari-ph/registru-hcl/165162",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/165162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-17-2024",
+   "path": "local/prahova/olari/2024/17",
+   "short": "HCL Olari nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 17/2024 privind privind aprobarea modificarii si completarii Regulamentului de organizare şi funcţionare a aparatului de specialitate al primarului",
+   "url": "https://emol.ro/olari-ph/registru-hcl/165163",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/165163",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-18-2024",
    "path": "local/prahova/olari/2024/18",
    "short": "HCL Olari nr. 18/2024",
@@ -183,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-3-2024",
+   "path": "local/prahova/olari/2024/3",
+   "short": "HCL Olari nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 3/2024 privind aprobarea excedentului bugetar al anului 2023 si utilizarea lui in anul 2024 ca sursa de finantare a cheltuielilor sectiunii de dezvoltare",
+   "url": "https://emol.ro/olari-ph/registru-hcl/143213",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/143213",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-30-2024",
    "path": "local/prahova/olari/2024/30",
    "short": "HCL Olari nr. 30/2024",
@@ -298,6 +433,96 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/183914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-4-2024",
+   "path": "local/prahova/olari/2024/4",
+   "short": "HCL Olari nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 4/2024 privind stabilirea activităţilor pentru executarea sanctiunii prestarii munca in folosul comunităţii, pe raza UAT Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/156040",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/156040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-5-2024",
+   "path": "local/prahova/olari/2024/5",
+   "short": "HCL Olari nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 5/2024 privind aprobarea pentru aprobarea indicatorilor tehnico- economici a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizati şi a devizului general/devizului general actualizat pentru obiectivul de investiții ”Construire, reconstruire şi modernizare drumuri locale comuna Olari, judetul Prahova”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny, precum şi a sumei reprezentȃnd categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/olari-ph/registru-hcl/156041",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/156041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-6-2024",
+   "path": "local/prahova/olari/2024/6",
+   "short": "HCL Olari nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 6/2024",
+   "url": "https://emol.ro/olari-ph/registru-hcl/156042",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/156042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-7-2024",
+   "path": "local/prahova/olari/2024/7",
+   "short": "HCL Olari nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2024 privind aprobarea planului anual de actiune privind serviciile sociale pentru anul 2024, la nivelul comunei Olari, administrate și finantate din bugetul Consiliului Local al comunei Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/156043",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/156043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-8-2024",
+   "path": "local/prahova/olari/2024/8",
+   "short": "HCL Olari nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 8/2024 privind aprobarea Planului de actiuni sau de lucrari de interes local pentru repartizarea orelor de munca efectuate de beneficiarii de venit minim de incluziune in anul 2024",
+   "url": "https://emol.ro/olari-ph/registru-hcl/156044",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/156044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-9-2024",
+   "path": "local/prahova/olari/2024/9",
+   "short": "HCL Olari nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 9/2024 privind aprobarea planului anual de actiune privind serviciile sociale pentru anul 2024, la nivelul comunei Olari, administrate și finantate din bugetul Consiliului Local al comunei Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/156045",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/156045",
      "sha256": null
     }
    ]

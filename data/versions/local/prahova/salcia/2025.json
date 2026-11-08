@@ -3,6 +3,21 @@
  "shard": "local/prahova/salcia/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--salcia-1-2025",
+   "path": "local/prahova/salcia/2025/1",
+   "short": "HCL Salcia nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 1/2025 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunilor de functionare și dezvoltare,pentru anul 2024",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/187901",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/187901",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--salcia-11-2025",
    "path": "local/prahova/salcia/2025/11",
    "short": "HCL Salcia nr. 11/2025",
@@ -133,6 +148,21 @@
      "from": "2025-09-25",
      "units": 1,
      "source_url": "https://emol.ro/salcia-ph/registru-hcl/225169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-2-2025",
+   "path": "local/prahova/salcia/2025/2",
+   "short": "HCL Salcia nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 2/2025 prinvind aprobarea rețelei școlare a unitatilor de învatamant preuniversitar de stat, la nivelul comunei Salcia,județul Prahova pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/187902",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/187902",
      "sha256": null
     }
    ]
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--salcia-3-2025",
+   "path": "local/prahova/salcia/2025/3",
+   "short": "HCL Salcia nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 3/2025 privind aprobarea închirierii prin licitație publică a pajistilor din proprietatea publica a comunei Salcia, aprobarea Studiului de oportunitate privind închirierea,aprobarea Regulamentului procedurii de licitatie, Documentatiei de atribuire, aprobarea Caietului de sarcini-cerintele minime de calificare ale ofertantilor, Contractului de inchiriere-model cadru",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/194748",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/194748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--salcia-30-2025",
    "path": "local/prahova/salcia/2025/30",
    "short": "HCL Salcia nr. 30/2025",
@@ -298,6 +343,66 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/salcia-ph/registru-hcl/245092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-4-2025",
+   "path": "local/prahova/salcia/2025/4",
+   "short": "HCL Salcia nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 4/2025 de aprobarea Regulamentului privind stabilirea unor masuri pentru gospodărirea comunei Salcia,județul Prahova",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/194749",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/194749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-6-2025",
+   "path": "local/prahova/salcia/2025/6",
+   "short": "HCL Salcia nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 6/2025 privind aprobarea bugetului local al comunei Salcia,județul Prahova , pe anul 2025",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/198857",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/198857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-8-2025",
+   "path": "local/prahova/salcia/2025/8",
+   "short": "HCL Salcia nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 8/2025 privind aprobarea ”Planului de acțiuni sau lucrari de interes local, care va fi realizat în anul 2025 de către beneficiarii venitului minim de incluziune",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/198859",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/198859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-9-2025",
+   "path": "local/prahova/salcia/2025/9",
+   "short": "HCL Salcia nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 9/2025 privind aprobarea acordului de participare a comunei Salcia în cadrul Programului-pilot ”Rabla pentru Sobe”",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/201665",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/201665",
      "sha256": null
     }
    ]

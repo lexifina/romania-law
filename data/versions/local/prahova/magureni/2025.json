@@ -3,6 +3,141 @@
  "shard": "local/prahova/magureni/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--magureni-1-2025",
+   "path": "local/prahova/magureni/2025/1",
+   "short": "HCL Măgureni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 1/2025 privind aprobarea implementării proiectului Dotare cu plotter pentru Primăria comunei Măgureni, județul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191513",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-12-2025",
+   "path": "local/prahova/magureni/2025/12",
+   "short": "HCL Măgureni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 12/2025 privind aprobarea utilizării integrale a excedentului bugetar constituit la data de 31.12.2024",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200252",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-13-2025",
+   "path": "local/prahova/magureni/2025/13",
+   "short": "HCL Măgureni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 13/2025 privind aprobarea bugetului local și a listei de investitii pentru anul 2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200253",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-14-2025",
+   "path": "local/prahova/magureni/2025/14",
+   "short": "HCL Măgureni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 14/2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200254",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-17-2025",
+   "path": "local/prahova/magureni/2025/17",
+   "short": "HCL Măgureni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 17/2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/208548",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/208548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-18-2025",
+   "path": "local/prahova/magureni/2025/18",
+   "short": "HCL Măgureni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 18/2025 privind aprobarea Strategiei de Dezvoltare Locală a serviciilor sociale pentru perioada 2025-2030 la nivelul comunei Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/208559",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/208559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-19-2025",
+   "path": "local/prahova/magureni/2025/19",
+   "short": "HCL Măgureni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 19/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al comunei Măgureni pentru anul 2025, în baza Legii nr. 292/2011",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/208560",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/208560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-20-2025",
+   "path": "local/prahova/magureni/2025/20",
+   "short": "HCL Măgureni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 20/2025 stabilirea agenților economici, care vor fi cuprinși în programul de aprovizionare cu produse alimentare ce urmează a fi distribuite rationalizat populației de pe raza UAT Comuna Măgureni,în caz de război",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/208561",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/208561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-22-2025",
+   "path": "local/prahova/magureni/2025/22",
+   "short": "HCL Măgureni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 22/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului -Furnizarea de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de baza eficiente și de calitate",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/217458",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/217458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-23-2025",
    "path": "local/prahova/magureni/2025/23",
    "short": "HCL Măgureni nr. 23/2025",
@@ -258,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-4-2025",
+   "path": "local/prahova/magureni/2025/4",
+   "short": "HCL Măgureni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 4/2025 privind instalarea unor bariere pentru limitarea accesului pe unele drumuri de exploatare de pe raza comunei Magureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191570",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191570",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-40-2025",
    "path": "local/prahova/magureni/2025/40",
    "short": "HCL Măgureni nr. 40/2025",
@@ -298,6 +448,81 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/245033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-5-2025",
+   "path": "local/prahova/magureni/2025/5",
+   "short": "HCL Măgureni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 5/2025 privind aprobarea retragerii comunei Magureni, judetul Prahova din Asociatia de Dezvoltare Intercomunitara \"Parteneriatul pentru Managementul Apei Prahova\"",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191571",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-6-2025",
+   "path": "local/prahova/magureni/2025/6",
+   "short": "HCL Măgureni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 6/2025 privind necesitatea infiintarii unei platforme pentru depozitarea deseurilor inerte din comuna Magureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191572",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-7-2025",
+   "path": "local/prahova/magureni/2025/7",
+   "short": "HCL Măgureni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2025 privind aprobarea inchirierii prin procedura de licitatie publica a spatiului cu destinatia activitati comerciale/servicii situat in cladirea din centrul satului Magureni, str. primariei, nr. 980, inscris in Cartea Funciara nr. 24258 - C1- U2 Magureni, judetul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191573",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-8-2025",
+   "path": "local/prahova/magureni/2025/8",
+   "short": "HCL Măgureni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/193016",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/193016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-9-2025",
+   "path": "local/prahova/magureni/2025/9",
+   "short": "HCL Măgureni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 9/2025 privind realizarea unui foraj de apa potabila in zona Valea Boului, comuna Magureni, judetul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200182",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200182",
      "sha256": null
     }
    ]

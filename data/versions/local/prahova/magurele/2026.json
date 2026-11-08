@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-9-2026",
+   "path": "local/prahova/magurele/2026/9",
+   "short": "HCL Măgurele nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 9/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2026, ce vor fi executate de către beneficiarii Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254837",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254837",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

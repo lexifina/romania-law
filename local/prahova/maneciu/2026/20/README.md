@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Măneciu nr. 20/2026 privind emiterea acordului pentru includerea în Programul național de investiții „DEMOLARE CORP C1 SI CONSTRUIRE GRĂDINIȚA CU PROGRAM NORMAL "CĂSUȚA MAGICĂ", COMUNA MĂNECIU „ inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”
+
+HCL Măneciu nr. 20/2026 · 1 versions, from 2026-05-18 (latest in force: 2026-05-18) · <https://emol.ro/maneciu-ph/registru-hcl/267273>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--maneciu-20-2026` (tags `hcl-prahova--maneciu-20-2026/<day>`; `python tools/on.py <day> hcl-prahova--maneciu-20-2026`).
+
+## Decisions made by hand
+
+- HCL Măneciu nr. 20/2026: listed from Consiliul Local al Comunei Măneciu (emol.ro); metadata only for now: no document of it is held.
+- HCL Măneciu nr. 20/2026: dated from 18 May 2026, the day the council's register gives it as published (adopted 11 May 2026).
+- HCL Măneciu nr. 20/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

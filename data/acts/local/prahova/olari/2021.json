@@ -3,6 +3,94 @@
 "shard": "local/prahova/olari/2021",
 "acts": [
 {
+"slug": "hcl-prahova--olari-1-2021",
+"path": "local/prahova/olari/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 1/2021 Proiect de hotarare privind aprobarea privind aprobarea reţelei scolare a unitatilor de invatamant preuniversitar de stat pentru anul scolar 2021-2022 din Comuna Olari, initiat de primar ;",
+"short": "HCL Olari nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-22",
+"latest": "2021-03-22",
+"portal": "https://emol.ro/olari-ph/registru-hcl/21374",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-2-2021",
+"path": "local/prahova/olari/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 2/2021 privind privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului local al comunei Olari, initiat de primar;",
+"short": "HCL Olari nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-22",
+"latest": "2021-03-22",
+"portal": "https://emol.ro/olari-ph/registru-hcl/21375",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-3-2021",
+"path": "local/prahova/olari/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 3/2021 privind reorganizarea Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Olari, judeţul Prahova",
+"short": "HCL Olari nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-22",
+"latest": "2021-03-22",
+"portal": "https://emol.ro/olari-ph/registru-hcl/21376",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-4-2021",
+"path": "local/prahova/olari/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 4/2021 privind aprobarea planului de actiuni sau de lucrari de interes local pentru repartizarea orelor de munca persoanelor majore apte de munca, beneficiare ale Legii 416/2001, legea venitului minim garantat, cu modificari si completari, pentru anul 2021 , initiat de primar ;",
+"short": "HCL Olari nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-22",
+"latest": "2021-03-22",
+"portal": "https://emol.ro/olari-ph/registru-hcl/21377",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--olari-6-2021",
 "path": "local/prahova/olari/2021/6",
 "kind": "local",

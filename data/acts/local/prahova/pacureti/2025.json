@@ -313,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-prahova--pacureti-15-2025",
+"path": "local/prahova/pacureti/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 15/2025 privind aprobarea Strategiei de dezvoltare durabilă a com. Păcureți Judeţului Prahova pentru perioada 2021-2027",
+"short": "HCL Păcureți nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#94013",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--pacureti-16-2025",
 "path": "local/prahova/pacureti/2025/16",
 "kind": "local",
@@ -1091,6 +1113,28 @@
 "from": "2025-10-16",
 "latest": "2025-10-16",
 "portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#107272",
+"council": "prahova/pacureti",
+"council_name": "Consiliul Local al Comunei Păcureți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--pacureti-51-2025",
+"path": "local/prahova/pacureti/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 51/2025 PHCLprivind aprobarea amenajării unui parc și loc de joacă pentru copii în localitatea Pacureti",
+"short": "HCL Păcureți nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-16",
+"latest": "2025-10-16",
+"portal": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#107273",
 "council": "prahova/pacureti",
 "council_name": "Consiliul Local al Comunei Păcureți",
 "flags": {

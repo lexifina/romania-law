@@ -3,6 +3,81 @@
  "shard": "local/prahova/olari/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--olari-1-2025",
+   "path": "local/prahova/olari/2025/1",
+   "short": "HCL Olari nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 1/2025 pentru aprobarea indicatorilor economici pentru obiectivul Elaborare Plan Urbanistic General şi Regulament Local de Urbanism, Comuna Olari, județul Prahova",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199273",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-10-2025",
+   "path": "local/prahova/olari/2025/10",
+   "short": "HCL Olari nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 10/2025 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Olari, pe anul 2025, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199549",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-11-2025",
+   "path": "local/prahova/olari/2025/11",
+   "short": "HCL Olari nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 11/2025 privind aprobarea planului anual de actiune privind serviciile sociale pentru anul 2025, la nivelul comunei Olari, administrate și finantate din bugetul Consiliului Local al comunei Olari",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199550",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-12-2025",
+   "path": "local/prahova/olari/2025/12",
+   "short": "HCL Olari nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 12/2025 privind aprobarea Planului de actiuni sau de lucrari de interes local pentru repartizarea orelor de munca efectuate de beneficiarii de venit minim de incluziune in anul 2025, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199551",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-14-2025",
+   "path": "local/prahova/olari/2025/14",
+   "short": "HCL Olari nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 14/2025 privind aprobarea Raportului privind activitatea desfasurata de asistentii personali ai perosanelor cu handicap grav, pe semestrul II al anului 2024",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199553",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-15-2025",
    "path": "local/prahova/olari/2025/15",
    "short": "HCL Olari nr. 15/2025",
@@ -73,6 +148,21 @@
      "from": "2025-07-18",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/216726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-2-2025",
+   "path": "local/prahova/olari/2025/2",
+   "short": "HCL Olari nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 2/2025 privind aprobarea cofinantarii pentru obiectivul Elaborare Plan Urbanistic General si Regulament Local de Urbanism, Comuna Olari, judetul Prahova, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199274",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199274",
      "sha256": null
     }
    ]
@@ -228,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-3-2025",
+   "path": "local/prahova/olari/2025/3",
+   "short": "HCL Olari nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 3/2025 Privind acordarea de către consiliul local a unui mandat special cu drept de vot, pentru reprezentarea instituției ȋn Adunarea Generală a Asociației de Dezvoltare Intercomunitară „ Parteneriatul pentru Managementul Deşeurilor – Prahova” , pentru a vota procedura de negociere fără publicare prealabilă a contractului „Delegearea prin concesiune a gestiunii activitații de colectare, transport şi transfer a deşeurilor municipale ȋn zonele: 2-Boldesti Scăeni şi 6-Valea Doftanei",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199275",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199275",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-30-2025",
    "path": "local/prahova/olari/2025/30",
    "short": "HCL Olari nr. 30/2025",
@@ -298,6 +403,96 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/244160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-4-2025",
+   "path": "local/prahova/olari/2025/4",
+   "short": "HCL Olari nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 4/2025 privind aprobarea excedentului bugetar al anului 2024 si utilizarea lui in anul 2025 ca sursa de finantare a cheltuielilor sectiunii de dezvoltare, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199543",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-5-2025",
+   "path": "local/prahova/olari/2025/5",
+   "short": "HCL Olari nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 5/2025 privind aprobarea bugetului local pentru anul 2025, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199544",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-6-2025",
+   "path": "local/prahova/olari/2025/6",
+   "short": "HCL Olari nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 6/2025",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199545",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-7-2025",
+   "path": "local/prahova/olari/2025/7",
+   "short": "HCL Olari nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2025 privind aprobarea indicatorilor economici pentru obiectivul „Executie trotuare,podete si extindere iluminat public in Comuna Olari, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199546",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-8-2025",
+   "path": "local/prahova/olari/2025/8",
+   "short": "HCL Olari nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 8/2025 privind aprobarea rectificarii bugetului local, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199547",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-9-2025",
+   "path": "local/prahova/olari/2025/9",
+   "short": "HCL Olari nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 9/2025 privind modificarea si completarea organigramei si a statului de funcţii pentru aparatul de specialitate al primarului comunei Olari, initiat de primar ;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199548",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199548",
      "sha256": null
     }
    ]

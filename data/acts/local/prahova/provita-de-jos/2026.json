@@ -3,6 +3,28 @@
 "shard": "local/prahova/provita-de-jos/2026",
 "acts": [
 {
+"slug": "hcl-prahova--provita-de-jos-9-2026",
+"path": "local/prahova/provita-de-jos/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 9/2026 privind modificarea tarifelor pentru serviciul de salubrizare și ajustarea lunară a taxei speciale de salubrizare pentru anul 2026",
+"short": "HCL Provița de Jos nr. 9/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-20",
+"latest": "2026-04-20",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/262388",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--provita-de-jos-16-2026",
 "path": "local/prahova/provita-de-jos/2026/16",
 "kind": "local",

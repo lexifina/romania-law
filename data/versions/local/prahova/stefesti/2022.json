@@ -3,6 +3,111 @@
  "shard": "local/prahova/stefesti/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--stefesti-1-2022",
+   "path": "local/prahova/stefesti/2022/1",
+   "short": "HCL Ștefești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 1/2022 privind reîntregirea excedentului anului precedent cu sumele repartizare din acesta în cursul anului 2021 pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53339",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-12-2022",
+   "path": "local/prahova/stefesti/2022/12",
+   "short": "HCL Ștefești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 12/2022 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare întocmite la 31.12.2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78074",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-13-2022",
+   "path": "local/prahova/stefesti/2022/13",
+   "short": "HCL Ștefești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 13/2022 privind rectificarea bugetului local inițiat pe anul 2022 și estimări pentru anii 2023-2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78075",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-14-2022",
+   "path": "local/prahova/stefesti/2022/14",
+   "short": "HCL Ștefești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 14/2022 privind aprobarea propunerii rețelei școlare la nivelul comunei Ștefești județul Prahov pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78076",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-15-2022",
+   "path": "local/prahova/stefesti/2022/15",
+   "short": "HCL Ștefești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 15/2022 privind aprobarea disponibilității terenurilor care aparțin domeniului public al comunei Ștefești în scopul realizării proiectului ''Înfințare rețea inteligentă de distribuție gaze naturale în județul Prahova-comunele Aluniș, Bertea, Cocorăști Mislii, Dumbrăvești, Ștefești, Vărbilău Valcănești și orașul Slănic '' în cadrul Programului Operațional Infrastructură Mare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78077",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-17-2022",
+   "path": "local/prahova/stefesti/2022/17",
+   "short": "HCL Ștefești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 17/2022 privind aprobarea contului de execuție al bugetului local pe trimestrul I al anului 2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78087",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-18-2022",
+   "path": "local/prahova/stefesti/2022/18",
+   "short": "HCL Ștefești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 18/2022 privind indexarea impozitelor și taxelor locale, cu rata inflației pentru anul 2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78088",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-19-2022",
    "path": "local/prahova/stefesti/2022/19",
    "short": "HCL Ștefești nr. 19/2022",
@@ -13,6 +118,21 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-2-2022",
+   "path": "local/prahova/stefesti/2022/2",
+   "short": "HCL Ștefești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 2/2022 privind aprobarea Raportului de activitate desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53340",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53340",
      "sha256": null
     }
    ]
@@ -168,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-3-2022",
+   "path": "local/prahova/stefesti/2022/3",
+   "short": "HCL Ștefești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 3/2022 privind aprobarea Planului local de acțiune în domeniul seriviilor sociale pentru anul 2022, la nivelul comunei Ștefești, județul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53341",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53341",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-30-2022",
    "path": "local/prahova/stefesti/2022/30",
    "short": "HCL Ștefești nr. 30/2022",
@@ -298,6 +433,66 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-4-2022",
+   "path": "local/prahova/stefesti/2022/4",
+   "short": "HCL Ștefești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 4/2022 privind înființarea serviciului pentru gestionarea câinilor fără stăpân în comuna Ștefești și stabilirea modalității de gestiune a acestuia",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53342",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-7-2022",
+   "path": "local/prahova/stefesti/2022/7",
+   "short": "HCL Ștefești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 7/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53345",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-8-2022",
+   "path": "local/prahova/stefesti/2022/8",
+   "short": "HCL Ștefești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 8/2022 privind utilizarea execentului pe anul 2022 al bugetului local",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53782",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-9-2022",
+   "path": "local/prahova/stefesti/2022/9",
+   "short": "HCL Ștefești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 9/2022 privind aprobarea bugetului local inițial pe anul 2022 și estimări pentru anii 2023-2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53783",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53783",
      "sha256": null
     }
    ]

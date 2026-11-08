@@ -3,6 +3,411 @@
  "shard": "local/prahova/stefesti/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--stefesti-1-2023",
+   "path": "local/prahova/stefesti/2023/1",
+   "short": "HCL Ștefești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 1/2023 privind reintregirea exedentului anului precedent cu sumele repartizate din acesta in cursul anului 2022 pentru finantarea cheltuielilor sectiunii de dezvoltare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/85336",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/85336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-10-2023",
+   "path": "local/prahova/stefesti/2023/10",
+   "short": "HCL Ștefești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 10/2023 privind utilizarea excedentului pe anul 2022 al bugetului",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88090",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-11-2023",
+   "path": "local/prahova/stefesti/2023/11",
+   "short": "HCL Ștefești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 11/2023 privind aprobarea bugetului local initial pe anul 2023 si estimari pentru anii 2024-2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88091",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-13-2023",
+   "path": "local/prahova/stefesti/2023/13",
+   "short": "HCL Ștefești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 13/2023 privind aprobarea propunerii rețelei școlare la nivelul comunei Stefesti județul Prahova pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/91878",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/91878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-14-2023",
+   "path": "local/prahova/stefesti/2023/14",
+   "short": "HCL Ștefești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 14/2023 privind aprobarea Raportului de activitate desfasurata de asistentii personali ai personelor cu handicap grav pentru semestrul II al anului 2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/91879",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/91879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-15-2023",
+   "path": "local/prahova/stefesti/2023/15",
+   "short": "HCL Ștefești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 15/2023 privind aprobarea Programului de masuri pentru prevenirea si combaterea marginalizarii sociale , pentru anul 2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/91880",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/91880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-16-2023",
+   "path": "local/prahova/stefesti/2023/16",
+   "short": "HCL Ștefești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 16/2023 privind darea in folosinta a suprafetei de 4305 mp respectiv 654 mp teren intravilan si dreptul de a dispune in mod gratuit pentru organizare de santier, in vederea executiei lucrarilor pentru obiectivul ,, Infiintare retea inteligenta de distributie gaze naturale in judetul Prahova-comunele Cocorastii Mislii, Valcanesti, Cosminele, Dumbravesti, Varbilau,Alunis, Stefesti, Bertea si orasul Slanic’’",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/91881",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/91881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-17-2023",
+   "path": "local/prahova/stefesti/2023/17",
+   "short": "HCL Ștefești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 17/2023 privind aprobarea Regu;amentului privind nomenclatura stradala si adresa",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/91882",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/91882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-18-2023",
+   "path": "local/prahova/stefesti/2023/18",
+   "short": "HCL Ștefești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 18/2023 privind participarea UAT Stefesti la proiectul ,, Scoli Motivante Adaptate Ritmului Tehnologic-PH-SMART",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/91883",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/91883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-19-2023",
+   "path": "local/prahova/stefesti/2023/19",
+   "short": "HCL Ștefești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 19/2023 privind rectificarea bugetului local pe anul 2023 si estimari pentru anii 2024-2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/94559",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/94559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-2-2023",
+   "path": "local/prahova/stefesti/2023/2",
+   "short": "HCL Ștefești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 2/2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/85337",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/85337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-20-2023",
+   "path": "local/prahova/stefesti/2023/20",
+   "short": "HCL Ștefești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 20/2023 privind aprobarea Regulamentului de organizare si functionare al compartimentului de asistenta sociala in cadrul aparatului de specialitate al primarului comunei Stefesti, judetul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/98337",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/98337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-21-2023",
+   "path": "local/prahova/stefesti/2023/21",
+   "short": "HCL Ștefești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 21/2023 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/98338",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/98338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-22-2023",
+   "path": "local/prahova/stefesti/2023/22",
+   "short": "HCL Ștefești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 22/2023 privind marcarea si exploatarea de material lemnos din islazurile comunale",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/98339",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/98339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-24-2023",
+   "path": "local/prahova/stefesti/2023/24",
+   "short": "HCL Ștefești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 24/2023 privind aprobarea contului de execuţie al bugetului local pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/104042",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/104042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-25-2023",
+   "path": "local/prahova/stefesti/2023/25",
+   "short": "HCL Ștefești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 25/2023 privind indexarea impozitelor si taxelor locale, cu rata inflatiei pentru anul 2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/104043",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/104043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-28-2023",
+   "path": "local/prahova/stefesti/2023/28",
+   "short": "HCL Ștefești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 28/2023 privind aprobarea contului anual de execuţie al bugetului local si a situatiilor financiare intocmite la 31.12.2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/106340",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/106340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-29-2023",
+   "path": "local/prahova/stefesti/2023/29",
+   "short": "HCL Ștefești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 29/2023 privind aprobarea modificarii organigramei si a statului de functiial aparatului de specialitate al Primarului comunei Stefesti",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/106341",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/106341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-3-2023",
+   "path": "local/prahova/stefesti/2023/3",
+   "short": "HCL Ștefești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 3/2023 privind acordarea unui stimulent financiar pentru nou-născuti",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88083",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-31-2023",
+   "path": "local/prahova/stefesti/2023/31",
+   "short": "HCL Ștefești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 31/2023 privind marcarea materialului lemnos in vederea curatirii domeniului public si privat de vegetatie forestiera,si exploatarea acestuia",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/106343",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/106343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-33-2023",
+   "path": "local/prahova/stefesti/2023/33",
+   "short": "HCL Ștefești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 33/2023 privind adoptarea Nomenclatorului stradal al comunei Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/111639",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/111639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-35-2023",
+   "path": "local/prahova/stefesti/2023/35",
+   "short": "HCL Ștefești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 35/2023 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/111641",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/111641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-36-2023",
+   "path": "local/prahova/stefesti/2023/36",
+   "short": "HCL Ștefești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 36/2023 privind modificarea HCL nr.22 din 19.05.2022 pentru înlocuirea unei activități în cadrul proiectului „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei STEFESTI” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/111642",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/111642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-37-2023",
+   "path": "local/prahova/stefesti/2023/37",
+   "short": "HCL Ștefești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2023 privind aprobarea Raportului de activitate desfasurata de asistentii personali ai personelor cu handicap grav pentru semestrul I al anului 2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/115705",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/115705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-39-2023",
+   "path": "local/prahova/stefesti/2023/39",
+   "short": "HCL Ștefești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 39/2023 privind aprobarea contului de execuţie al bugetului local pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/115707",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/115707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-4-2023",
+   "path": "local/prahova/stefesti/2023/4",
+   "short": "HCL Ștefești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 4/2023 privind aprobarea Planului local de actiune in domeniul serviciilor sociale pentru anul 2023, la nivelul comunei Stefesti, judetul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88084",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-40-2023",
+   "path": "local/prahova/stefesti/2023/40",
+   "short": "HCL Ștefești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 40/2023 privind aprobarea virarilor de credite in cadrul capitolelor bugetare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/115708",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/115708",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-41-2023",
    "path": "local/prahova/stefesti/2023/41",
    "short": "HCL Ștefești nr. 41/2023",
@@ -288,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-6-2023",
+   "path": "local/prahova/stefesti/2023/6",
+   "short": "HCL Ștefești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 6/2023 privind aprobarea tarifelor pentru activitățile specifice serviciului desalubritateși acordarea unui mandat special reprezentantului comunei Stefesti în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”Parteneriatul pentru managementul deşeurilor Prahova”",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88086",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88086",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-60-2023",
    "path": "local/prahova/stefesti/2023/60",
    "short": "HCL Ștefești nr. 60/2023",
@@ -298,6 +718,21 @@
      "from": "2024-02-26",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/135406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-7-2023",
+   "path": "local/prahova/stefesti/2023/7",
+   "short": "HCL Ștefești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 7/2023 privind înregistrarea Comunei Stefesti , în Sistemul Național Electronic de Plată Online a taxelor și impozitelor",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88087",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88087",
      "sha256": null
     }
    ]

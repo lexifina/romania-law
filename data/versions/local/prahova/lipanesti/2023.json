@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/lipanesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-prahova--lipanesti-1-2023",
+   "path": "local/prahova/lipanesti/2023/1",
+   "short": "HCL Lipănești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 1/2023 Acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#38811",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#38811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-10-2023",
+   "path": "local/prahova/lipanesti/2023/10",
+   "short": "HCL Lipănești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 10/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-11-2023",
+   "path": "local/prahova/lipanesti/2023/11",
+   "short": "HCL Lipănești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 11/2023 Aprobarea Protocolului de colaborare între Ministerul Muncii si Solidarității Sociale (MMSS) și Unitatea Administrativ-Teritorială Cândești, județul Neamț, având ca obiect asigurarea colaborării interinstituționale a MMSS cu UAT Cândești în cadrul proiectului ”HUB de Servicii MMSS -Sll MMSS”, Cod MySmis 130963",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42849",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-12-2023",
+   "path": "local/prahova/lipanesti/2023/12",
+   "short": "HCL Lipănești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 12/2023 Aprobarea valorii cotizației anuale și plății cotizației pentru anul 2023 către Asociația de Dezvoltare Intercomunitară ”Protecția animalelor Neamț”",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42850",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-13-2023",
+   "path": "local/prahova/lipanesti/2023/13",
+   "short": "HCL Lipănești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 13/2023 Aprobarea aderării Comunei Cândești, județul Neamț, prin Consiliul Local al Comunei Cândești la parteneriatul LEADER reprezentat de Asociația ”Drumurile Bistriței” în scopul implementării Strategiei de Dezvoltare Locala cu finanțare prin PNS 2023 – 2027",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42851",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-14-2023",
+   "path": "local/prahova/lipanesti/2023/14",
+   "short": "HCL Lipănești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 14/2023 Aprobarea contului de încheiere a exercițiului bugetar pentru trimestrul IV al anului 2022",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#44743",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#44743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-15-2023",
+   "path": "local/prahova/lipanesti/2023/15",
+   "short": "HCL Lipănești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 15/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#44744",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#44744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-16-2023",
+   "path": "local/prahova/lipanesti/2023/16",
+   "short": "HCL Lipănești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 16/2023 Acordarea unui mandat special",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#46634",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#46634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-17-2023",
+   "path": "local/prahova/lipanesti/2023/17",
+   "short": "HCL Lipănești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 17/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#46635",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#46635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-19-2023",
+   "path": "local/prahova/lipanesti/2023/19",
+   "short": "HCL Lipănești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 19/2023 Alegerea președintelui de ședință",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50230",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-2-2023",
+   "path": "local/prahova/lipanesti/2023/2",
+   "short": "HCL Lipănești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 2/2023 Aprobarea Programului de acțiuni privind salubrizarea şi igienizarea localității",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40207",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-20-2023",
+   "path": "local/prahova/lipanesti/2023/20",
+   "short": "HCL Lipănești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 20/2023 Aprobarea contului de încheiere a exercițiului bugetar pentru trimestrul I al anului 2023",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50237",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-21-2023",
+   "path": "local/prahova/lipanesti/2023/21",
+   "short": "HCL Lipănești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 21/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50232",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-23-2023",
+   "path": "local/prahova/lipanesti/2023/23",
+   "short": "HCL Lipănești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 23/2023 Modificarea art.2 al Hotărârii nr.28/11.08.2022",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50235",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#50235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-24-2023",
+   "path": "local/prahova/lipanesti/2023/24",
+   "short": "HCL Lipănești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 24/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52168",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-25-2023",
+   "path": "local/prahova/lipanesti/2023/25",
+   "short": "HCL Lipănești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 25/2023 Aprobarea participării în cadrul proiectului „Microbuze electrice pentru elevi la nivelul județului Neamț” și a cheltuielilor legate de acest proiect",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52170",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-26-2023",
+   "path": "local/prahova/lipanesti/2023/26",
+   "short": "HCL Lipănești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 26/2023 Aprobarea participării la Programul finanțat prin Planul Național de Redresare și Reziliență din Componenta C15 Educație precum si aprobarea proiectului cu denumirea ”DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE A ȘCOLII GIMNAZIALE COMUNA CÂNDEȘTI, JUDEȚUL NEAMȚ”",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52171",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-27-2023",
+   "path": "local/prahova/lipanesti/2023/27",
+   "short": "HCL Lipănești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 27/2023 Înființarea şi delegarea gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din comuna Cândești",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52172",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-28-2023",
+   "path": "local/prahova/lipanesti/2023/28",
+   "short": "HCL Lipănești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 28/2023 Aprobarea tarifelor de sortare, tratare-mărunțire, colectare separată și transport separat al deșeurilor comunale şi al deșeurilor similare – fracția rezidual şi fracția reciclabil, în vederea asigurării serviciului public de salubrizare pe raza comunei Cândești, județul Neamț",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52353",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#52353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-29-2023",
+   "path": "local/prahova/lipanesti/2023/29",
+   "short": "HCL Lipănești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 29/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#53645",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#53645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-3-2023",
+   "path": "local/prahova/lipanesti/2023/3",
+   "short": "HCL Lipănești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 3/2023 Aprobarea planului de acțiuni şi a lucrărilor de interes local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40208",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-30-2023",
+   "path": "local/prahova/lipanesti/2023/30",
+   "short": "HCL Lipănești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 30/2023 Aprobarea proiectului ,,Centru Comunitar Integrat în CÂNDEȘTI”",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#53746",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#53746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-32-2023",
+   "path": "local/prahova/lipanesti/2023/32",
+   "short": "HCL Lipănești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 32/2023 Aprobarea indicatorilor tehnico-economici ai obiectivului de investiție ”Construire teren de sport în sat Bărcănești, comuna Cândești, județul Neamț”",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#53851",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#53851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-33-2023",
+   "path": "local/prahova/lipanesti/2023/33",
+   "short": "HCL Lipănești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 33/2023 Alegerea președintelui de ședință",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55030",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-34-2023",
+   "path": "local/prahova/lipanesti/2023/34",
+   "short": "HCL Lipănești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 34/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55031",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-35-2023",
+   "path": "local/prahova/lipanesti/2023/35",
+   "short": "HCL Lipănești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 35/2023 Acordarea de premii şi diplome de fidelitate cuplurilor din comuna Cândești care aniversează 50 de ani de căsătorie",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55033",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-36-2023",
+   "path": "local/prahova/lipanesti/2023/36",
+   "short": "HCL Lipănești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 36/2023 Organizarea manifestării culturale „Festivalul de vară Cândești”",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55035",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-37-2023",
+   "path": "local/prahova/lipanesti/2023/37",
+   "short": "HCL Lipănești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 37/2023 Completarea inventarului bunurilor din domeniul privat al comunei CÂNDEŞTI",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55036",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-38-2023",
+   "path": "local/prahova/lipanesti/2023/38",
+   "short": "HCL Lipănești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 38/2023 Aprobarea neasumării responsabilității organizării si derulării procedurilor de atribuirea contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55352",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#55352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-39-2023",
+   "path": "local/prahova/lipanesti/2023/39",
+   "short": "HCL Lipănești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 39/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58794",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-4-2023",
+   "path": "local/prahova/lipanesti/2023/4",
+   "short": "HCL Lipănești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 4/2023 Aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al comunei Cândești pentru anul 2023",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40209",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-40-2023",
+   "path": "local/prahova/lipanesti/2023/40",
+   "short": "HCL Lipănești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 40/2023 Preluarea în folosință gratuită a unor echipamente de precolectare a deșeurilor menajere",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58796",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-41-2023",
+   "path": "local/prahova/lipanesti/2023/41",
+   "short": "HCL Lipănești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 41/2023 Aprobarea programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58797",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-42-2023",
+   "path": "local/prahova/lipanesti/2023/42",
+   "short": "HCL Lipănești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 42/2023 Aprobarea rezilierii unui contract de finanțare",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58927",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#58927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-43-2023",
+   "path": "local/prahova/lipanesti/2023/43",
+   "short": "HCL Lipănești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 43/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#60765",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#60765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-44-2023",
+   "path": "local/prahova/lipanesti/2023/44",
+   "short": "HCL Lipănești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 44/2023 Aprobarea devizului general actualizat al investiției ”Modernizare drumuri de interes local în comuna Cândești, județul Neamț” rest de decontat",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#60768",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#60768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-45-2023",
+   "path": "local/prahova/lipanesti/2023/45",
+   "short": "HCL Lipănești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 45/2023 Alegerea președintelui de ședință",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62012",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-46-2023",
+   "path": "local/prahova/lipanesti/2023/46",
+   "short": "HCL Lipănești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 46/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62013",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-47-2023",
+   "path": "local/prahova/lipanesti/2023/47",
+   "short": "HCL Lipănești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 47/2023 Aprobarea organigramei aparatului de specialitate al primarului",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62014",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-48-2023",
+   "path": "local/prahova/lipanesti/2023/48",
+   "short": "HCL Lipănești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 48/2023 Aprobarea salariilor pentru aparatul de specialitate al primarului",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62015",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-49-2023",
+   "path": "local/prahova/lipanesti/2023/49",
+   "short": "HCL Lipănești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 49/2023 Aprobarea contului de încheiere a exercițiului bugetar pentru trimestrul Iii al anului 2023",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62458",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#62458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-5-2023",
+   "path": "local/prahova/lipanesti/2023/5",
+   "short": "HCL Lipănești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 5/2023 Modificarea organigramei şi statului de funcții a aparatului de specialitate al primarului comunei Cândești , județul Neamț , instituțiilor și serviciilor publice de sub autoritatea consiliului local al comunei Cândești",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40210",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-50-2023",
+   "path": "local/prahova/lipanesti/2023/50",
+   "short": "HCL Lipănești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 50/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64788",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-51-2023",
+   "path": "local/prahova/lipanesti/2023/51",
+   "short": "HCL Lipănești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 51/2023 Alocarea unei sume pentru achiziţionarea de cadouri pentru copiii din instituţiile de învățământ ale comunei Cândești",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64791",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-52-2023",
+   "path": "local/prahova/lipanesti/2023/52",
+   "short": "HCL Lipănești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 52/2023 Alocarea unei sume pentru acoperirea cheltuielilor prilejuite de datinile și obiceiurile de Anul Nou",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64793",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-53-2023",
+   "path": "local/prahova/lipanesti/2023/53",
+   "short": "HCL Lipănești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 53/2023 Acordarea unui mandat special reprezentantului legal al Comunei Cândești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Protecția Animalelor Neamț”",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64794",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-54-2023",
+   "path": "local/prahova/lipanesti/2023/54",
+   "short": "HCL Lipănești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 54/2023 Stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64798",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#64798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-55-2023",
+   "path": "local/prahova/lipanesti/2023/55",
+   "short": "HCL Lipănești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 55/2023 Rectificarea bugetului local",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#66082",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#66082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-6-2023",
+   "path": "local/prahova/lipanesti/2023/6",
+   "short": "HCL Lipănești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 6/2023 Stabilirea salariilor de bază pentru funcțiile publice, precum şi pentru personalul contractual din cadrul aparatului de specialitate al primarului și din serviciile publice din subordinea comunei Cândești",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40212",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-7-2023",
+   "path": "local/prahova/lipanesti/2023/7",
+   "short": "HCL Lipănești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 7/2023 Aprobarea bugetului local pe anul 2023",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40213",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#40213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-8-2023",
+   "path": "local/prahova/lipanesti/2023/8",
+   "short": "HCL Lipănești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 8/2023 Alegerea președintelui de ședință",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42844",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--lipanesti-9-2023",
+   "path": "local/prahova/lipanesti/2023/9",
+   "short": "HCL Lipănești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 9/2023 Aprobarea Planului de analiză şi acoperire a riscurilor teritoriale din comuna Cândești",
+   "url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42846",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#42846",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

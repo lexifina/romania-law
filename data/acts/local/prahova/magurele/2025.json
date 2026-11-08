@@ -3,6 +3,50 @@
 "shard": "local/prahova/magurele/2025",
 "acts": [
 {
+"slug": "hcl-prahova--magurele-4-2025",
+"path": "local/prahova/magurele/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 4/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025, ce vor fi executate de către beneficiarii Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+"short": "HCL Măgurele nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-12",
+"latest": "2025-02-12",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/190555",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-7-2025",
+"path": "local/prahova/magurele/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 7/2025 privind transferul autoturismului DACIA DUSTER ORANGE cu nr. înmatriculare PH 99 CLM de la Serviciul public de apă și canalizare al comunei Măgurele, către Comuna Măgurele - Primărie şi transferul autoturismului OPEL MOKKA cu nr. de înmatriculare PH 22 HSY de la Comuna Măgurele - Primărie către Serviciul public de apă și canalizare al comunei Măgurele",
+"short": "HCL Măgurele nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-12",
+"latest": "2025-02-12",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/190558",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--magurele-28-2025",
 "path": "local/prahova/magurele/2025/28",
 "kind": "local",

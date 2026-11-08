@@ -3,6 +3,696 @@
  "shard": "local/prahova/rafov/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--rafov-1-2024",
+   "path": "local/prahova/rafov/2024/1",
+   "short": "HCL Râfov nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 1/2024 privind aprobarea organizarii retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza teritoriala a Comunei Rafov , pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/140060",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/140060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-10-2024",
+   "path": "local/prahova/rafov/2024/10",
+   "short": "HCL Râfov nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 10/2024 privind aprobarea modificariidenumirii obiectivului de investitii \"construire sistem de distributie gaze naturale , inclusiv racord la SNT si SRM pentru Comuna Rafov, Judetul Prahova\" aprobat pentru finantare prin programul national de investitii \" Anghel Saligny\" si actualizarea indicatorilor tehnico-economici aferenti obiectivului de investitii",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147740",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-11-2024",
+   "path": "local/prahova/rafov/2024/11",
+   "short": "HCL Râfov nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 11/2024 privind aprobarea listei de investitii provizorie pentru anul 2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147845",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-12-2024",
+   "path": "local/prahova/rafov/2024/12",
+   "short": "HCL Râfov nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 12/2024 privind aprobarea cotizatiei anuale a Comunei Rafov, in calitate de membru al Asociatiei de dezvoltare intercomunitara \"Parteneriatul pentru managementul deseurilor Prahova\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147846",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-13-2024",
+   "path": "local/prahova/rafov/2024/13",
+   "short": "HCL Râfov nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 13/2024 privind stabilirea destinatiei excedentului bugetar la data de 31.12.2023",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147948",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-14-2024",
+   "path": "local/prahova/rafov/2024/14",
+   "short": "HCL Râfov nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 14/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Rafov, Jud Prahova pentru anul 2024 si estimari pentru anii 2025-2027",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147949",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-16-2024",
+   "path": "local/prahova/rafov/2024/16",
+   "short": "HCL Râfov nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 16/2024 privind aprobarea planului anual al achizitiilor publice pe 2024 si a strategiei anuale de achizitii publice",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147951",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-17-2024",
+   "path": "local/prahova/rafov/2024/17",
+   "short": "HCL Râfov nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 17/2024 privind aprobarea strategiei de dezvoltare a serviciilor sociale la nivelul Comunei Rafov, Judetul Prahova , pentru perioada 2024-2029 si a planului anual de actiune privind serviciile sociale stabilite la nivelul Comunei Rafov, Judetul Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147952",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-19-2024",
+   "path": "local/prahova/rafov/2024/19",
+   "short": "HCL Râfov nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 19/2024 privind actualizarea domeniul privat al Comunei Rafov , Judetul Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147954",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-2-2024",
+   "path": "local/prahova/rafov/2024/2",
+   "short": "HCL Râfov nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 2/2024 privind aprobarea rapoartelor de activitate ale asistentilor personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147732",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-21-2024",
+   "path": "local/prahova/rafov/2024/21",
+   "short": "HCL Râfov nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 21/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Rafov, Jud Prahova, pentru anul 2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161297",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-22-2024",
+   "path": "local/prahova/rafov/2024/22",
+   "short": "HCL Râfov nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 22/2024 privind aprobarea alocarii unei finantari pentru extinderea imprejmuirii terenului aferent scolii primare din Satul Malaiesti, Com Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161298",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-23-2024",
+   "path": "local/prahova/rafov/2024/23",
+   "short": "HCL Râfov nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 23/2024 privind participarea la programul vizand sisteme de alimentare cu apa, canalizare si epurare a apelor uzate pentru proiectul \"Infiintare sistem canalizarea menajera in Comuna Rafov, satele Buda si Palanca, Judetul Prahova \"aprobarea indicatorilor tehnico-economici si a cofinantarii",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161326",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-24-2024",
+   "path": "local/prahova/rafov/2024/24",
+   "short": "HCL Râfov nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 24/2024 privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii \"Construire de racorduri canalizare menajera \" Sat Malaiesti , Sat Rafov, Sat Antofiloaia, Sat Moara Domneasca, Sat Buchilasi si sat Goga, Comuna Rafov, Judetul Prahova \"aprobat pentru finantare prin programul national de investitii \"Anghel saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea abiectivului",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161327",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-26-2024",
+   "path": "local/prahova/rafov/2024/26",
+   "short": "HCL Râfov nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 26/2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161329",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-27-2024",
+   "path": "local/prahova/rafov/2024/27",
+   "short": "HCL Râfov nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 27/2024 privind aprobarea planului urbanistic zonal-introducere partiala teren in intravilan(S=2199 mp) pentru zona sport si agrement si schimbare destinatie teren (S7035 mp) din zona spatii verzi echipare tehnico-edilitara, cai de comunicatie in zona de sport si agrement (Sstud=26523 mp) si a regulamentului local de urbanism aferent acestuia",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161381",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-3-2024",
+   "path": "local/prahova/rafov/2024/3",
+   "short": "HCL Râfov nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 3/2024 privind aprobarea numarului maxim de posturi de asistenti personali(insotitori) pentru persoanele cu handicap",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147733",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-31-2024",
+   "path": "local/prahova/rafov/2024/31",
+   "short": "HCL Râfov nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 31/2024 privind introducerea in domeniul public a sistemului public de alimentare cu apa in Comuna Rafov , Judetul Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161589",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-34-2024",
+   "path": "local/prahova/rafov/2024/34",
+   "short": "HCL Râfov nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 34/2024 privind aprobarea organigramei si a statului de functii din cadrul primariei comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161592",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-35-2024",
+   "path": "local/prahova/rafov/2024/35",
+   "short": "HCL Râfov nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 35/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii: \" Amenajare intersectie DJ 101D si DJ 139, Comuna Rafov , Jud Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161593",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-36-2024",
+   "path": "local/prahova/rafov/2024/36",
+   "short": "HCL Râfov nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 36/2024 privind aprobarea actualizarii indicatorilor economici , a devizului general si valoarea cofinantarii pentru obiectivul \" Construire pista pentru biciclete in Comuna Rafov, sat Buda si Sat Palanca , Judetul Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161594",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-37-2024",
+   "path": "local/prahova/rafov/2024/37",
+   "short": "HCL Râfov nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 37/2024 privind aprobarea contului de executie al bugetului local al Comunei Rafov pe cele doua sectiuni pe Trim I , anul 2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161595",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-38-2024",
+   "path": "local/prahova/rafov/2024/38",
+   "short": "HCL Râfov nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 38/2024 privind aprobarea bugetului de venturi si cheltuieli al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161596",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-39-2024",
+   "path": "local/prahova/rafov/2024/39",
+   "short": "HCL Râfov nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 39/2024 privind revocarea HCL27/9.04.2024 pentru aprobarea Planului Urbanistic Zonal",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161597",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-4-2024",
+   "path": "local/prahova/rafov/2024/4",
+   "short": "HCL Râfov nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 4/2024 privind aprobarea planului de actiuni si lucrari de interes local in anul 2024 pentru beneficiarii Legii 196/2016 , privind venitul minim de incluziune",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147734",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-40-2024",
+   "path": "local/prahova/rafov/2024/40",
+   "short": "HCL Râfov nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 40/2024 privind atribuirea unei suprafete de teren , in folosinta gratuita in vederea construirii unei locuinte proprietate personala ,in baza Legii 15/2003",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161598",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-41-2024",
+   "path": "local/prahova/rafov/2024/41",
+   "short": "HCL Râfov nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 41/2024 privind atribuirea unei suprafete de teren , in folosinta gratuita, in vederea construirii unei locuinte proprietate personala, in baza Legii 15/2005",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161599",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-43-2024",
+   "path": "local/prahova/rafov/2024/43",
+   "short": "HCL Râfov nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 43/2024 privind aprobarea sponsorizarii asociatiei sportive athletico Rfaov in anul 2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/161601",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/161601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-46-2024",
+   "path": "local/prahova/rafov/2024/46",
+   "short": "HCL Râfov nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 46/2024 privind aprobarea indicatorilor tehnico-economici rezultati in urma elaborarii proiectului tehnic pentru proiectul tehnic \"Dotare centru de zi-amnajare loc de joaca\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/169879",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/169879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-50-2024",
+   "path": "local/prahova/rafov/2024/50",
+   "short": "HCL Râfov nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 50/2024 privind stabilirea situatiilor deosebite si criteriile in baza carora se pot acorda ajutoare de urgenta din bugetul local",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/170326",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/170326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-51-2024",
+   "path": "local/prahova/rafov/2024/51",
+   "short": "HCL Râfov nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 51/2024 privind aprobarea achizitionarii unui autoturism pentru buna desfasurare a activitatii institutiei",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/170327",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/170327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-52-2024",
+   "path": "local/prahova/rafov/2024/52",
+   "short": "HCL Râfov nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 52/2024 privind alegerea presedintelui de sedinta pentru lunile august-septembrie",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/170328",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/170328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-57-2024",
+   "path": "local/prahova/rafov/2024/57",
+   "short": "HCL Râfov nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 57/2024 privind aprobarea regulamentului de acordare a titlului de \"cetatean de onoare al comunei Rafov\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172361",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-58-2024",
+   "path": "local/prahova/rafov/2024/58",
+   "short": "HCL Râfov nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 58/2024 privind revocarea HCL 43/17.05.2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172362",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-6-2024",
+   "path": "local/prahova/rafov/2024/6",
+   "short": "HCL Râfov nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 6/2024 privind aprobarea materiei impozabile pentru anul 2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147736",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-60-2024",
+   "path": "local/prahova/rafov/2024/60",
+   "short": "HCL Râfov nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 60/2024 privind aprobarea actualizarii strategiei locale de dezvoltare durabila pentru perioada 2021-2027, Comuna Rafov, Judetul Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172364",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-61-2024",
+   "path": "local/prahova/rafov/2024/61",
+   "short": "HCL Râfov nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 61/2024 privind aprobarea actualizarii planului anual al achizitiilor publice 2024 si a strategiei anuale de achizitii publice",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172365",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-62-2024",
+   "path": "local/prahova/rafov/2024/62",
+   "short": "HCL Râfov nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 62/2024 privind aprobarea depunerii cererii de finantare si implementarea proiectului \" Dotare cu echipamente remorca si cositoare pentru gospodarirea comunei",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172366",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-63-2024",
+   "path": "local/prahova/rafov/2024/63",
+   "short": "HCL Râfov nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 63/2024 privind aprobarea indicatorilor tehnico-economice , a devizului general , a proiectului tehnic de executie pentru obiectivul de investitie : construire sala de festivitati culturale si expozitii (centru de informare ), imprejmuire , bransamente si utilitati\"- sat Buchilasi, Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172367",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-64-2024",
+   "path": "local/prahova/rafov/2024/64",
+   "short": "HCL Râfov nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 64/2024 privind modificarea anexei la Hotararea nr.13 din 12.02.2024 privind stabilirea destinatiei excedentului bugetar la data de 31.12.2023",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172368",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-65-2024",
+   "path": "local/prahova/rafov/2024/65",
+   "short": "HCL Râfov nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 65/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Rafov, Jud Prahova pentru anul 2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/172369",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/172369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-66-2024",
+   "path": "local/prahova/rafov/2024/66",
+   "short": "HCL Râfov nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 66/2024",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/177119",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/177119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-67-2024",
+   "path": "local/prahova/rafov/2024/67",
+   "short": "HCL Râfov nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 67/2024 privind instituirea unor masuri fiscale si aprobarea procedurii de anulare a accesoriilor aferente obligatiilo rbugetare principale restante la data de 31.08.2024 inclusiv , datorate bugetului local de catre contribuabilii de pe baza administrativ-teritoriala a Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/177120",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/177120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-7-2024",
+   "path": "local/prahova/rafov/2024/7",
+   "short": "HCL Râfov nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 7/2024 privind stabilirea salariilor de baza aferente functiilor din cadrul familiei ocupationale \" administratie\" utilizate pentru functionarii publici si personalul contractual din aparatul de specialitate al primarului Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147737",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-70-2024",
+   "path": "local/prahova/rafov/2024/70",
+   "short": "HCL Râfov nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 70/2024 privind aprobarea indicatorilor tehnico-economici actualizati, a devizului general actualizat si a cofinantarii -reprezentand categoriile de cheltuieli finantate de la bugetul local pentru obiectivul de investitii: \" Infiintare sistem canalizare menajera in Comuna Rafov, Sat Sicrita, Judetul Prahova\" aprobat pentru finantare prin programul national de investiti \" Anghel Saligny\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/177123",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/177123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-72-2024",
+   "path": "local/prahova/rafov/2024/72",
+   "short": "HCL Râfov nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 72/2024 privind acordul pentru scoaterea de definitiva circuitul agricol a unei suprafete de teren extravilan , proprietatea privata a Comunei rafov, situata in T53, PS 345",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/177125",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/177125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-73-2024",
    "path": "local/prahova/rafov/2024/73",
    "short": "HCL Râfov nr. 73/2024",
@@ -103,6 +793,21 @@
      "from": "2024-11-04",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/187319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-8-2024",
+   "path": "local/prahova/rafov/2024/8",
+   "short": "HCL Râfov nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 8/2024 privind aprobarea incheierii prin atribuire directa a suprafetelor de pasune , ramase neocupate , din comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147738",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147738",
      "sha256": null
     }
    ]
@@ -253,6 +958,21 @@
      "from": "2025-01-20",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/187380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-9-2024",
+   "path": "local/prahova/rafov/2024/9",
+   "short": "HCL Râfov nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 9/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/147739",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/147739",
      "sha256": null
     }
    ]

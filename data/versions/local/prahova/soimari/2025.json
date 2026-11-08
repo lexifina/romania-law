@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/soimari/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--soimari-1-2025",
+   "path": "local/prahova/soimari/2025/1",
+   "short": "HCL Șoimari nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 1/2025 privind revizuirea ROF CL",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#93123",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#93123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-10-2025",
+   "path": "local/prahova/soimari/2025/10",
+   "short": "HCL Șoimari nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 10/2025 privind aprobarea bugetului local pe 2025 si estimari 2026-2028",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96929",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-11-2025",
+   "path": "local/prahova/soimari/2025/11",
+   "short": "HCL Șoimari nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 11/2025 privind acordarea de sprijin in achizitionarea de aparate pentru incalzirea locuintelor",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96930",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-12-2025",
+   "path": "local/prahova/soimari/2025/12",
+   "short": "HCL Șoimari nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 12/2025 privind aprobarea organigramei si statului de functii 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97542",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-13-2025",
+   "path": "local/prahova/soimari/2025/13",
+   "short": "HCL Șoimari nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 13/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale 2025-2030",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97543",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-14-2025",
+   "path": "local/prahova/soimari/2025/14",
+   "short": "HCL Șoimari nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 14/2025 privind aprobarea planului anual de actiune servicii sociale 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97544",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-15-2025",
+   "path": "local/prahova/soimari/2025/15",
+   "short": "HCL Șoimari nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 15/2025 privind aprobarea regulamentului cadru pentru acordarea ajutoarelor de urgenta",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97545",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-16-2025",
+   "path": "local/prahova/soimari/2025/16",
+   "short": "HCL Șoimari nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 16/2025 privind aprobarea planului de actiuni si lucrari de interes local persoane beneficiare de VMI 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97546",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-17-2025",
+   "path": "local/prahova/soimari/2025/17",
+   "short": "HCL Șoimari nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 17/2025 privind indexarea taxelor si impozitelor locale 2026",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97547",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-18-2025",
+   "path": "local/prahova/soimari/2025/18",
+   "short": "HCL Șoimari nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 18/2025 privind acordarea unui mandat special Primarului",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97548",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#97548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-19-2025",
+   "path": "local/prahova/soimari/2025/19",
+   "short": "HCL Șoimari nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 19/2025 privind aprobarea proiectului Digitalizarea in beneficiul cetateanului",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#99160",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#99160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-2-2025",
+   "path": "local/prahova/soimari/2025/2",
+   "short": "HCL Șoimari nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 2/2025 privind aprobarea ROF al aparatului de specialitate al primarului",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#93125",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#93125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-20-2025",
+   "path": "local/prahova/soimari/2025/20",
+   "short": "HCL Șoimari nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 20/2025 privind nominalizarea operatorilor economici din reteaua comerciala a Comunei Soimari",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#99161",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#99161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-21-2025",
+   "path": "local/prahova/soimari/2025/21",
+   "short": "HCL Șoimari nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 21/2025 privind aprobarea indicatorilor tehnico economici Construire pod zona zapodia",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#99162",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#99162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-22-2025",
+   "path": "local/prahova/soimari/2025/22",
+   "short": "HCL Șoimari nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 22/2025 aprobare cont executie trim I 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#100114",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#100114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-24-2025",
+   "path": "local/prahova/soimari/2025/24",
+   "short": "HCL Șoimari nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 24/2025 plata sumeleor chetuieli transportcadre dodactice lunile lunile iunie, iulie august 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102033",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-25-2025",
+   "path": "local/prahova/soimari/2025/25",
+   "short": "HCL Șoimari nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 25/2025 hcl privind aprobarea programului de actiune comunitara la uat soimari",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102034",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-26-2025",
+   "path": "local/prahova/soimari/2025/26",
+   "short": "HCL Șoimari nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 26/2025 hcl privind reorganizarea echipei mobile violenta domestica",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102035",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-27-2025",
+   "path": "local/prahova/soimari/2025/27",
+   "short": "HCL Șoimari nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 27/2025 hcl privind aprobarea colaborarii interinstitutionale",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102036",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#102036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-28-2025",
+   "path": "local/prahova/soimari/2025/28",
+   "short": "HCL Șoimari nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 28/2025 CL nr. 28 din 16.07.2025 privind rectificarea bugetului local 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107573",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-29-2025",
+   "path": "local/prahova/soimari/2025/29",
+   "short": "HCL Șoimari nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 29/2025 CL nr. 29 din 16.07.2025 privind plata transport cadre didactice pe sept. si oct. 2024",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107574",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-3-2025",
+   "path": "local/prahova/soimari/2025/3",
+   "short": "HCL Șoimari nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 3/2025 privind aprobarea Statutului comunei Soimari, judetul Prahova",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#93126",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#93126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-30-2025",
+   "path": "local/prahova/soimari/2025/30",
+   "short": "HCL Șoimari nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 30/2025 CL nr. 30 din 28.08.2025 privind rectificarea bugetului local 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107575",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-31-2025",
+   "path": "local/prahova/soimari/2025/31",
+   "short": "HCL Șoimari nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 31/2025 CL nr. 31 din 28.08.2025 privind aprobarea contului de executie trim II 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107577",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-32-2025",
+   "path": "local/prahova/soimari/2025/32",
+   "short": "HCL Șoimari nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 32/2025 CL nr. 32 din 28.08.2025 privind plata transport cadre didactice pe noi. si dec. 2024",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107578",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#107578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-33-2025",
+   "path": "local/prahova/soimari/2025/33",
+   "short": "HCL Șoimari nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 33/2025 privind rectificarea bugetului local 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110754",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-34-2025",
+   "path": "local/prahova/soimari/2025/34",
+   "short": "HCL Șoimari nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 34/2025 privind stabilirea impozitelor si taxelor locale 2026",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110755",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-35-2025",
+   "path": "local/prahova/soimari/2025/35",
+   "short": "HCL Șoimari nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 35/2025 privind aprobarea devizului general actualizat dupa licitatie aferent investitiei modernizare drumuri de interes local Soimari",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110756",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-36-2025",
+   "path": "local/prahova/soimari/2025/36",
+   "short": "HCL Șoimari nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 36/2025 HCL 36 DIN 25.11.2025 privind aprobarea Devizului general actualizat si a indicatorilor tehnico-economici actualizati conform Legii 141 din 2025 aferent investitiei modernizare drumuri de inter",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110784",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#110784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-5-2025",
+   "path": "local/prahova/soimari/2025/5",
+   "short": "HCL Șoimari nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 5/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-6-2025",
+   "path": "local/prahova/soimari/2025/6",
+   "short": "HCL Șoimari nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 6/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-7-2025",
+   "path": "local/prahova/soimari/2025/7",
+   "short": "HCL Șoimari nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 7/2025 privind aprobarea contului de executie trim IV 2024",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96926",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-8-2025",
+   "path": "local/prahova/soimari/2025/8",
+   "short": "HCL Șoimari nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 8/2025 privind proiectul de buget 2025 si estimari 2026-2028",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96927",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-9-2025",
+   "path": "local/prahova/soimari/2025/9",
+   "short": "HCL Șoimari nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 9/2025 privind aprobarea organigramei 2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96928",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#96928",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

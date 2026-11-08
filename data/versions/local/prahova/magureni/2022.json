@@ -3,6 +3,261 @@
  "shard": "local/prahova/magureni/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--magureni-1-2022",
+   "path": "local/prahova/magureni/2022/1",
+   "short": "HCL Măgureni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 1/2022 privind organizarea rețelei unităților de învățământ preuniversitar de stat din comuna Măgureni, județul Prahova pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66658",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-11-2022",
+   "path": "local/prahova/magureni/2022/11",
+   "short": "HCL Măgureni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 11/2022 privind completarea inventarului bunurilor aparținând domeniului public al Comunei Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66817",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-12-2022",
+   "path": "local/prahova/magureni/2022/12",
+   "short": "HCL Măgureni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 12/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiție „Reabilitare și Modernizare DJ145 km 3+820 m, comuna Măgureni, Județul Prahova”",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66818",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-13-2022",
+   "path": "local/prahova/magureni/2022/13",
+   "short": "HCL Măgureni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 13/2022 privind aprobarea planului de acțiuni sau de lucrări de interes local care va fi realizat în anul 2022 de către beneficiarii venitului minim garantat",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66819",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-15-2022",
+   "path": "local/prahova/magureni/2022/15",
+   "short": "HCL Măgureni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 15/2022 privind repartizarea sumelor alocate în bugetul local al anului 2022 pentru finanțarea unităților de cult din comuna Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66853",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-16-2022",
+   "path": "local/prahova/magureni/2022/16",
+   "short": "HCL Măgureni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 16/2022 privind trecerea parterului centrului multifuncțional în suprafață construită de 197 m.p. din domeniul public al comunei Măgureni în domeniul privat al localității",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66854",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-19-2022",
+   "path": "local/prahova/magureni/2022/19",
+   "short": "HCL Măgureni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 19/2022 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe anul 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66896",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-2-2022",
+   "path": "local/prahova/magureni/2022/2",
+   "short": "HCL Măgureni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 2/2022 privind înregistrarea unității administrativ-teritoriale Comuna Măgureni în Sistemul Național Electronic de Plată online a taxelor și impozitelor (SNEP) utilizând cardul bancar",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66659",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-20-2022",
+   "path": "local/prahova/magureni/2022/20",
+   "short": "HCL Măgureni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 20/2022 privind complementarea inventarului bunurilor aparținând domeniului public al Comunei Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66897",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-21-2022",
+   "path": "local/prahova/magureni/2022/21",
+   "short": "HCL Măgureni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 21/2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66898",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-22-2022",
+   "path": "local/prahova/magureni/2022/22",
+   "short": "HCL Măgureni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 22/2022 privind aprobarea PUZ - SCHIMBARE DESTINAȚIE TEREN DIN ZONĂ UNITĂȚI INDUSTRIALE ÎN ZONĂ SPORT ȘI AGREMENT (S=27978 mp), RIDICARE RESTRICȚIE DE CONSTRUIRE (S=20744 mp) ȘI AMENAJARE DRUM ACCES (Sst=53729) - com. Măgureni, NC 23143 (tarla T24, parcela Np 534); NC 22337 (tarla T 42, parcela Cc 521); NC 22393 (tarla T42, parcela A 522/1); NC 22351 (tarla 42, parcela Cc 521, A 522); NC 23164 (tarla T 42, parcela Cc521); NC 21174 (tarla T 42, parcela Cc 521); str. Filipești (DC 116A); str. Florian (DC 526); De 527",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66899",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-24-2022",
+   "path": "local/prahova/magureni/2022/24",
+   "short": "HCL Măgureni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 24/2022 privind rectificarea bugetului local de venituri si cheltuieli si a listei de investitii pe anul 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89725",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-26-2022",
+   "path": "local/prahova/magureni/2022/26",
+   "short": "HCL Măgureni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 26/2022 privind aprobarea participarii Comunei Magureni la Programul privind cresterea eficentei energetice a infrastructurii de iluminat public si a devizului general estimativ pentru Proiectul\" Cresterea eficentei energetice a infrastructurii de iluminat public in Comuna Magureni, Judetul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89767",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-27-2022",
+   "path": "local/prahova/magureni/2022/27",
+   "short": "HCL Măgureni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 27/2022 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul “Cresterea eficientei energetice a infrastructurii de iluminat public in comuna Magureni, judetul Prahova”, finantat prin programul privind cresterea eficientei energetice a infrastructurii de iluminat public respectiv acordul privind asigurarea si sustinerea contributiei financiare aferente cheltuielilor implementarii proiectului si care nu sunt finantate de AFM",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89768",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-28-2022",
+   "path": "local/prahova/magureni/2022/28",
+   "short": "HCL Măgureni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 28/2022 privind modificarea HCL nr. 36/23.11.2021 privind aprobarea incheierii Actului aditional nr. 1 la Contractul de concesiune incheiat intre Consiliulul local al Comunei Magureni si Sc Jovila Construct SRL PLoiesti",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89865",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-30-2022",
+   "path": "local/prahova/magureni/2022/30",
+   "short": "HCL Măgureni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 30/2022 privind rectificarea bugetului local de venituri si cheltuieli si a listei de investitii pe anul 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89863",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-31-2022",
+   "path": "local/prahova/magureni/2022/31",
+   "short": "HCL Măgureni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 31/2022 privind aprobarea alocarii unei sume din bugetul local pentru organizarea sarbatorii “Targul de toamna Magureni 2022”, in zilele de 22-23 octombrie 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89862",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89862",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-32-2022",
    "path": "local/prahova/magureni/2022/32",
    "short": "HCL Măgureni nr. 32/2022",
@@ -118,6 +373,21 @@
      "from": "2023-02-10",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/89911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-4-2022",
+   "path": "local/prahova/magureni/2022/4",
+   "short": "HCL Măgureni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 4/2022 privind aprobarea bugetului local și a listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66661",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66661",
      "sha256": null
     }
    ]
@@ -273,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-5-2022",
+   "path": "local/prahova/magureni/2022/5",
+   "short": "HCL Măgureni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 5/2022 privind aprobarea utilizării integrale a excedentului bugetar constituit la data de 31.12.2021",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66662",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66662",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-50-2022",
    "path": "local/prahova/magureni/2022/50",
    "short": "HCL Măgureni nr. 50/2022",
@@ -298,6 +583,21 @@
      "from": "2023-02-13",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/90049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-8-2022",
+   "path": "local/prahova/magureni/2022/8",
+   "short": "HCL Măgureni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2022 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe anul 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66814",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66814",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/prahova/scorteni/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--scorteni-1-2025",
+   "path": "local/prahova/scorteni/2025/1",
+   "short": "HCL Scorțeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 1/2025 privind incheierea exercitiului bugetar al anului 2024",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/186416",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/186416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-10-2025",
+   "path": "local/prahova/scorteni/2025/10",
+   "short": "HCL Scorțeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 10/2025 privind alegerea viceprimarului comunei Scorteni, pentru mandatul 2024-2028",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/195984",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/195984",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--scorteni-100-2025",
    "path": "local/prahova/scorteni/2025/100",
    "short": "HCL Scorțeni nr. 100/2025",
@@ -43,6 +73,306 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/scorteni-ph/registru-hcl/245290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-11-2025",
+   "path": "local/prahova/scorteni/2025/11",
+   "short": "HCL Scorțeni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 11/2025 privind aprobarea PROIECTULUI: „Investiții în soluții software și echipamente TIC de ultimă generație pentru digitalizarea Comunei Scorțeni”, proiect derulat prin Programul Regional Sud-Muntenia 2021-2027, in cadrul obiectivului Specific RSO 1.2 “Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al companiilor, al organizațiilor de cercetare și al autorităților publice”",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198407",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-12-2025",
+   "path": "local/prahova/scorteni/2025/12",
+   "short": "HCL Scorțeni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 12/2025 privind aprobarea indicatorilor tehnico – economici ai obiectivului de investitii „AMENAJARE TROTUARE, RIGOLE BETONATE PENTRU SCURGEREA APEI SI PODETE DE ACCES IN CENTRUL SATULUI MISLEA, COMUNA SCORTENI”",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198408",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-13-2025",
+   "path": "local/prahova/scorteni/2025/13",
+   "short": "HCL Scorțeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 13/2025 \"Proiectare și execuție Amenajare rigole betonate pentru scurgerea apei 70 ml, în Comuna Scorțeni, sat Bordenii Mari, str. Runcu, zona Cimitir și 70 ml în Comuna Scorțeni, sat Bordenii Mici, str. Republicii, zona Cimitir - documentații tehnice\"",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198409",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-14-2025",
+   "path": "local/prahova/scorteni/2025/14",
+   "short": "HCL Scorțeni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 14/2025 pentru aprobarea efectuarii unor lucrari de reparații",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198410",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-15-2025",
+   "path": "local/prahova/scorteni/2025/15",
+   "short": "HCL Scorțeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 15/2025 privind aprobarea obiectivului de investitii \" Dotare SPCLEP Scorteni cu echipamente IT \"",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198411",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-16-2025",
+   "path": "local/prahova/scorteni/2025/16",
+   "short": "HCL Scorțeni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 16/2025 privind aprobarea achiziţionării de servicii de consultanţă juridică şi de reprezentare a intereselor Comunei Scorteni – prin Primar si a Consiliului Local al comunei Scorteni, in litigiile celor doua institutii",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198412",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-18-2025",
+   "path": "local/prahova/scorteni/2025/18",
+   "short": "HCL Scorțeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 18/2025 privind obiectivului de investitii „Reabilitare Scoala Bordenii Mari, Corp A – montare tamplarie PVC”",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198414",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-21-2025",
+   "path": "local/prahova/scorteni/2025/21",
+   "short": "HCL Scorțeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 21/2025 privind aprobarea criteriilor pentru acordarea ajutoarelor de urgenta in anul 2025",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198417",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-24-2025",
+   "path": "local/prahova/scorteni/2025/24",
+   "short": "HCL Scorțeni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 24/2025 privind aprobarea bugetului local al comunei Scorteni si al bugetului institutiilor finantate partial din venituri proprii si subventii, pe anul 2025 si estimari pentru anii 2026 - 2028",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/198420",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/198420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-28-2025",
+   "path": "local/prahova/scorteni/2025/28",
+   "short": "HCL Scorțeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 28/2025 privind aprobarea devizului general si a indicatorilor tehnico-economici după semnarea contractului de lucrări privind obiectivul de investitie I.1.4 - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete la nivel local/metropolitan; in cadrul UAT SCORTENI, jud. PRAHOVA",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/206482",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/206482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-30-2025",
+   "path": "local/prahova/scorteni/2025/30",
+   "short": "HCL Scorțeni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 30/2025 privind aprobarea intocmirii “Registrului local al spațiilor verzi” al comunei Scorteni, judetul Prahova",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/206484",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/206484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-34-2025",
+   "path": "local/prahova/scorteni/2025/34",
+   "short": "HCL Scorțeni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 34/2025 privind aprobarea contului de executie al bugetului local si al bugetului institutiilor publice finantate din venituri proprii si subventii din bugetul local, pe anul 2024",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/208082",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/208082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-36-2025",
+   "path": "local/prahova/scorteni/2025/36",
+   "short": "HCL Scorțeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 36/2025 privind aprobarea procurarii de carti si diplome pentru premierea elevilor din unitatile scolare de pe raza Comunei Scorteni la sfarsitul anului scolar 2024 – 2025",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/208084",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/208084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-37-2025",
+   "path": "local/prahova/scorteni/2025/37",
+   "short": "HCL Scorțeni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 37/2025 privind achizitonarea unui autoturism nou plug-in hibrid pentru dotarea Primariei Scorteni, prin Programul AFM",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/208085",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/208085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-4-2025",
+   "path": "local/prahova/scorteni/2025/4",
+   "short": "HCL Scorțeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 4/2025 privind utilizarea excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar 2024, in vederea finantarii in anul 2025 a unor obiective de investitii",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/195978",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/195978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-41-2025",
+   "path": "local/prahova/scorteni/2025/41",
+   "short": "HCL Scorțeni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 41/2025 privind alocarea unei sume din bugetul local, pentru achizitonarea unui autoturism nou plug-in hibrid pentru dotarea Primariei Scorteni, prin Programul AFM",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/211213",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/211213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-46-2025",
+   "path": "local/prahova/scorteni/2025/46",
+   "short": "HCL Scorțeni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 46/2025 privind aprobarea proiectului și a cheltuielilor legate de proiectul „Investiții în soluții software și echipamente TIC de ultimă generație pentru digitalizarea Comunei Scorțeni”",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/214144",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/214144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-6-2025",
+   "path": "local/prahova/scorteni/2025/6",
+   "short": "HCL Scorțeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 6/2025 privind aprobarea planului anual de actiuni sau de lucrari de interes local care se efectueaza de beneficiarii Legii nr.196/2016 privind venitul minim de incluziune, cu modificarile si competarile ulterioare",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/195980",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/195980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-75-2025",
+   "path": "local/prahova/scorteni/2025/75",
+   "short": "HCL Scorțeni nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 75/2025 privind actualizarea devizului general si a indicatorilor tehnico- economici prin majorarea cotei TVA la 21% pentru obiectivul de investitii: ” I.4 – Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de planificare urbană in cadrul UAT SCORTENI, jud. PRAHOVA”",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/232591",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/232591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-76-2025",
+   "path": "local/prahova/scorteni/2025/76",
+   "short": "HCL Scorțeni nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 76/2025 privind actualizarea devizului general si a indicatorilor tehnico- economici prin majorarea cotei TVA la 21% pentru obiectivul de investitii: ”I.1.4 - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete la nivel local/metropolitan; in cadrul UAT SCORTENI, jud. PRAHOVA”",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/232592",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/232592",
      "sha256": null
     }
    ]
@@ -148,6 +478,21 @@
      "from": "2025-12-10",
      "units": 1,
      "source_url": "https://emol.ro/scorteni-ph/registru-hcl/238131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--scorteni-9-2025",
+   "path": "local/prahova/scorteni/2025/9",
+   "short": "HCL Scorțeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 9/2025",
+   "url": "https://emol.ro/scorteni-ph/registru-hcl/195983",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scorteni-ph/registru-hcl/195983",
      "sha256": null
     }
    ]

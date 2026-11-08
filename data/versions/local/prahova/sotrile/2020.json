@@ -3,6 +3,306 @@
  "shard": "local/prahova/sotrile/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--sotrile-1-2020",
+   "path": "local/prahova/sotrile/2020/1",
+   "short": "HCL Șotrile nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 1/2020 privind validarea dispoziției primarului nr.378 din 23.12.2019 privind aprobarea rectificării bugetului local pentru anul 2019",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4851",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-10-2020",
+   "path": "local/prahova/sotrile/2020/10",
+   "short": "HCL Șotrile nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 10/2020 privind stabilirea locurilor destinate pentru desfășurarea adunărilor publice și actualizarea Comisiei locale de avizare a cererilor de organizare a adunărilor publice în comuna Șotrile, județul Prahova",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4860",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-11-2020",
+   "path": "local/prahova/sotrile/2020/11",
+   "short": "HCL Șotrile nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 11/2020 privind aprobarea numărului și a cuantumului burselor de ajutor social acordate elevilor din învațamântul preuniversitar de stat de la Scoala Gimnazială, comuna Șotrile pentru anul 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4861",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-12-2020",
+   "path": "local/prahova/sotrile/2020/12",
+   "short": "HCL Șotrile nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 12/2020 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședintă la locul dec muncă și de la locul de muncă în localitatea de resedință pentru anul 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4862",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-13-2020",
+   "path": "local/prahova/sotrile/2020/13",
+   "short": "HCL Șotrile nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 13/2020 privind aprobarea modelului cadru de ACORD pentru lucrări de branșament/racord executate pe domeniul public la infrastructura edilitar gospodărească existentă",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4863",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-14-2020",
+   "path": "local/prahova/sotrile/2020/14",
+   "short": "HCL Șotrile nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 14/2020 privind aprobarea modificării Actului constitutiv și a statutului ADI de utilități publice pentru serviciul de alimentare cu apă și de canalizare ,, Măgura”",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4864",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-17-2020",
+   "path": "local/prahova/sotrile/2020/17",
+   "short": "HCL Șotrile nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 17/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4954",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-18-2020",
+   "path": "local/prahova/sotrile/2020/18",
+   "short": "HCL Șotrile nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 18/2020 privind aprobarea contului anual de execuție a bugetului local la data de 31 decembrie 2019",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4955",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-19-2020",
+   "path": "local/prahova/sotrile/2020/19",
+   "short": "HCL Șotrile nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 19/2020 privind aprobarea situațiilor financiare anuale ale comunei Șotrile pe anul 2019",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4956",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-2-2020",
+   "path": "local/prahova/sotrile/2020/2",
+   "short": "HCL Șotrile nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 2/2020 privind validarea dispozitiei primarului nr.1 din 08.01.2020 privind aprobarea acoperirii definitive din excedentul bugetului local al deficitului sectiunii de funcționare si secțiunii de dezvoltare al bugetului local din 2019",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4852",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-20-2020",
+   "path": "local/prahova/sotrile/2020/20",
+   "short": "HCL Șotrile nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 20/2020 privind stabilirea impozitelor și taxelor locale, precum și taxelor speciale pentru anul 2021",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4957",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-21-2020",
+   "path": "local/prahova/sotrile/2020/21",
+   "short": "HCL Șotrile nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 21/2020 privind îndreptarea erorii materiale din cuprinsul Hotărârii consiliului local nr. 49 din 6 noiembrie 2019 privind aprobarea structurii organizatorice și a statului de funcții ale comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4958",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-22-2020",
+   "path": "local/prahova/sotrile/2020/22",
+   "short": "HCL Șotrile nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 22/2020 privind aprobarea dezlipirii/dezmembrării unui imobil aparținând domeniului privat al comunei Șotrile, în suprafață 34393 ha, punct ”pe Lunca 2 ”, în două, situat în extravilanul satului Lunca-Mare, comuna Șotrile, județul Prahova, înscris în Cartea Funciară nr. 21407 Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4959",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-23-2020",
+   "path": "local/prahova/sotrile/2020/23",
+   "short": "HCL Șotrile nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 23/2020 privind aprobarea modului de întocmire a registrului agricol al comunei Șotrile pentru perioada 2020-2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4960",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-24-2020",
+   "path": "local/prahova/sotrile/2020/24",
+   "short": "HCL Șotrile nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 24/2020 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4961",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-25-2020",
+   "path": "local/prahova/sotrile/2020/25",
+   "short": "HCL Șotrile nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 25/2020 privind stabilirea unor măsuri pe linia bunei gospodăriri, păstrarea curățeniei, respectarea normelor de igienă și înfrumusețarea comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4962",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-26-2020",
+   "path": "local/prahova/sotrile/2020/26",
+   "short": "HCL Șotrile nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 26/2020 privind organizarea și desfășurarea păsunatului animalelor pentru 2020-2021, pe pășunile aflate în domeniul privat al comunei Șotrile, rămase libere după procedura atribuirii directe și a licitației publice",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4963",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-3-2020",
+   "path": "local/prahova/sotrile/2020/3",
+   "short": "HCL Șotrile nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 3/2020 privind aprobarea modificării structurii organizatorice și a statului de funcții ale comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4853",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-39-2020",
+   "path": "local/prahova/sotrile/2020/39",
+   "short": "HCL Șotrile nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 39/2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10014",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-4-2020",
+   "path": "local/prahova/sotrile/2020/4",
+   "short": "HCL Șotrile nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 4/2020 privind stabilire salarii pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4854",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4854",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-40-2020",
    "path": "local/prahova/sotrile/2020/40",
    "short": "HCL Șotrile nr. 40/2020",
@@ -153,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--sotrile-5-2020",
+   "path": "local/prahova/sotrile/2020/5",
+   "short": "HCL Șotrile nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 5/2020 privind aprobarea Planului de acțiuni pentru incluziunea minorității rome, pentru comunitățile de romi din comuna Șotrile, pentru anul 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4855",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4855",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-50-2020",
    "path": "local/prahova/sotrile/2020/50",
    "short": "HCL Șotrile nr. 50/2020",
@@ -298,6 +613,66 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/sotrile-ph/registru-hcl/13150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-6-2020",
+   "path": "local/prahova/sotrile/2020/6",
+   "short": "HCL Șotrile nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 6/2020 privind aprobarea Planului de acțiuni desfășurate în anul 2020, în vederea acordării ajutorului social la nivelul comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4856",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-7-2020",
+   "path": "local/prahova/sotrile/2020/7",
+   "short": "HCL Șotrile nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 7/2020 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat pentru anul 2020-2021 la nivelul comunei Șotrile, județul Prahova",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4857",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-8-2020",
+   "path": "local/prahova/sotrile/2020/8",
+   "short": "HCL Șotrile nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 8/2020 privind aprobarea utilizării în anul 2020 a excedentului anual al bugetului local la încheierea exercițiului bugetar aferent anului 2019",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4858",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-9-2020",
+   "path": "local/prahova/sotrile/2020/9",
+   "short": "HCL Șotrile nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 9/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 și estimările pentru anul 2021-2023",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4859",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4859",
      "sha256": null
     }
    ]

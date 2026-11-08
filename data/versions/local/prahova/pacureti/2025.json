@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--pacureti-15-2025",
+   "path": "local/prahova/pacureti/2025/15",
+   "short": "HCL Păcureți nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 15/2025 privind aprobarea Strategiei de dezvoltare durabilă a com. Păcureți Judeţului Prahova pentru perioada 2021-2027",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#94013",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#94013",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--pacureti-16-2025",
    "path": "local/prahova/pacureti/2025/16",
    "short": "HCL Păcureți nr. 16/2025",
@@ -673,6 +688,21 @@
      "from": "2025-10-16",
      "units": 1,
      "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#107272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-51-2025",
+   "path": "local/prahova/pacureti/2025/51",
+   "short": "HCL Păcureți nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 51/2025 PHCLprivind aprobarea amenajării unui parc și loc de joacă pentru copii în localitatea Pacureti",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#107273",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#107273",
      "sha256": null
     }
    ]

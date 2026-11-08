@@ -3,6 +3,381 @@
  "shard": "local/prahova/stefesti/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--stefesti-1-2025",
+   "path": "local/prahova/stefesti/2025/1",
+   "short": "HCL Ștefești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 1/2025 privind reintregirea exedentului anului precedent cu sumele repartizate din acesta in cursul anului 2024 pentru finantarea cheltuielilor sectiunii de dezvoltare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/186127",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/186127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-11-2025",
+   "path": "local/prahova/stefesti/2025/11",
+   "short": "HCL Ștefești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 11/2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/196707",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/196707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-13-2025",
+   "path": "local/prahova/stefesti/2025/13",
+   "short": "HCL Ștefești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 13/2025 privind utilizarea excedentului pe anul 2025 al bugetului local",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/198963",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/198963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-14-2025",
+   "path": "local/prahova/stefesti/2025/14",
+   "short": "HCL Ștefești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 14/2025 privind aprobarea bugetului local initial pe anul 2025 si estimari pentru anii 2026-2028",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/198964",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/198964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-16-2025",
+   "path": "local/prahova/stefesti/2025/16",
+   "short": "HCL Ștefești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 16/2025 privind aprobarea acordului de participare a Comunei Stefesti in cadrul Programului privind acordarea de sprijin in vederea achizitionarii de aparate pentru incalzirea locuintelor, pentru localitatile in zona montana",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/201458",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/201458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-18-2025",
+   "path": "local/prahova/stefesti/2025/18",
+   "short": "HCL Ștefești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 18/2025 privind stabilirea rețelei pentru desfacerea produselor ce urmează a fi distribuite raționalizat populației în situații deosebite prevazute de lege",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/202009",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/202009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-19-2025",
+   "path": "local/prahova/stefesti/2025/19",
+   "short": "HCL Ștefești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 19/2025 privind aderarea la Acordul de cooperare privind organizarea și exercitarea activității de amenajare a teritoriului și urbanismului încheiat cu Filiala Județeană Prahova A.Co.R",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/204384",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/204384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-2-2025",
+   "path": "local/prahova/stefesti/2025/2",
+   "short": "HCL Ștefești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 2/2025 privind aprobarea Raportului de activitate desfasurata de asistentii personali ai personelor cu handicap grav pentru semestrul II al anului 2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/186128",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/186128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-20-2025",
+   "path": "local/prahova/stefesti/2025/20",
+   "short": "HCL Ștefești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 20/2025 privind aprobarea contractarii de servicii juridice de consultanta, de asistenta si/sau reprezentare juridica pentru autoritatile si institutiile publice ale Comunei Stefesti, judetul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/204385",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/204385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-21-2025",
+   "path": "local/prahova/stefesti/2025/21",
+   "short": "HCL Ștefești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 21/2025 privind aprobarea contului de executie al bugetului local pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/204386",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/204386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-22-2025",
+   "path": "local/prahova/stefesti/2025/22",
+   "short": "HCL Ștefești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 22/2025 privind indexarea impozitelor si taxelor locale, cu rata inflatiei pentru anul 2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/204387",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/204387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-23-2025",
+   "path": "local/prahova/stefesti/2025/23",
+   "short": "HCL Ștefești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 23/2025 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Primarului comunei Stefesti",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/208128",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/208128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-24-2025",
+   "path": "local/prahova/stefesti/2025/24",
+   "short": "HCL Ștefești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 24/2025 privind aprobarea contului anual de execuţie a bugetului local pe anul 2024 şi a situaţiilor financiare anuale întocmite la data de 31.12.2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/208129",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/208129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-25-2025",
+   "path": "local/prahova/stefesti/2025/25",
+   "short": "HCL Ștefești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 25/2025 privind aprobarea devizului general pentru obiectivul “Modernizare Monumentul Eroilor” Comuna Stefesti",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/208130",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/208130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-26-2025",
+   "path": "local/prahova/stefesti/2025/26",
+   "short": "HCL Ștefești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 26/2025 privind aprobarea modificarii parțiale și completarea Regulamentului Local de Urbanism aferent documentației Plan Urbanistic General al Comunei Ștefești, aprobat prin HCL nr. 30/29.08.2013",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/208729",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/208729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-28-2025",
+   "path": "local/prahova/stefesti/2025/28",
+   "short": "HCL Ștefești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 28/2025 privind aprobarea actualizarii indicatorilor tehnico- economici și a devizului general, precum și a sumei reprezentând cheltuieli finanțate de la bugetul local pentru realizarea obiectivului pentru obiectivul de investiții ”Modernizare drumuri locale, Comuna Ștefești, județul Prahova”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny''",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/213077",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/213077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-29-2025",
+   "path": "local/prahova/stefesti/2025/29",
+   "short": "HCL Ștefești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 29/2025 privind aprobarea finalizarii și recepționarii lucrărilor pentru obiectivul de investitii ”Modernizare drum local Pirvulescu, Comuna Ștefești, județul Prahova”",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/213078",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/213078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-3-2025",
+   "path": "local/prahova/stefesti/2025/3",
+   "short": "HCL Ștefești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 3/2025 privind acordarea unui stimulent financiar pentru nou-născuti",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/188548",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/188548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-31-2025",
+   "path": "local/prahova/stefesti/2025/31",
+   "short": "HCL Ștefești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 31/2025 privind aprobarea Planului local de actiune in domeniul serviciilor sociale pentru anul 2025, la nivelul comunei Stefesti, judetul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/213080",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/213080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-32-2025",
+   "path": "local/prahova/stefesti/2025/32",
+   "short": "HCL Ștefești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 32/2025 aprobarea actualizarii a devizului general, precum și a sumei reprezentând cheltuieli finanțate de la bugetul local pentru realizarea obiectivului pentru obiectivul de investiții ”Construire trotuare in Comuna Stefesti, judetul Prahova”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny,,",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/213081",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/213081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-33-2025",
+   "path": "local/prahova/stefesti/2025/33",
+   "short": "HCL Ștefești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 33/2025 privind aprobarea contului de executie al bugetului local pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/218429",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/218429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-34-2025",
+   "path": "local/prahova/stefesti/2025/34",
+   "short": "HCL Ștefești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 34/2025 privind aprobarea Raportului de activitate desfasurata de asistentii personali ai personelor cu handicap grav pentru semestrul I al anului 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/218430",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/218430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-35-2025",
+   "path": "local/prahova/stefesti/2025/35",
+   "short": "HCL Ștefești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 35/2025 privind aprobarea devizului general pentru obiectivul “Modernizare Gazon Baza Sportiva”",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/218431",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/218431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-36-2025",
+   "path": "local/prahova/stefesti/2025/36",
+   "short": "HCL Ștefești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 36/2025 privind aprobarea rectificarii bugetului local pe anul 2025 si estimari pentru anii 2026-2028",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/218432",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/218432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-37-2025",
+   "path": "local/prahova/stefesti/2025/37",
+   "short": "HCL Ștefești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 37/2025 privind aprobarea devizului general pentru obiectivul “Modernizare unitati de invatamant",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/218433",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/218433",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-38-2025",
    "path": "local/prahova/stefesti/2025/38",
    "short": "HCL Ștefești nr. 38/2025",
@@ -28,6 +403,21 @@
      "from": "2025-08-29",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/223907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-4-2025",
+   "path": "local/prahova/stefesti/2025/4",
+   "short": "HCL Ștefești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 4/2025 privind aprobarea numarului maxim de posturi pentru asistentii personali ai persoanelor cu handicap grav pentru anul 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/188549",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/188549",
      "sha256": null
     }
    ]
@@ -183,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-5-2025",
+   "path": "local/prahova/stefesti/2025/5",
+   "short": "HCL Ștefești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 5/2025 privind utilizarea excedentului pe anul 2025 al bugetului local",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/188550",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/188550",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-50-2025",
    "path": "local/prahova/stefesti/2025/50",
    "short": "HCL Ștefești nr. 50/2025",
@@ -298,6 +703,66 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/244331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-6-2025",
+   "path": "local/prahova/stefesti/2025/6",
+   "short": "HCL Ștefești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 6/2025 privind aprobarea Programului de masuri pentru prevenirea si combaterea marginalizarii sociale , pentru anul 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/193526",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/193526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-7-2025",
+   "path": "local/prahova/stefesti/2025/7",
+   "short": "HCL Ștefești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 7/2025 privind aprobarea Planului local de actiune in domeniul serviciilor sociale pentru anul 2025, la nivelul comunei Stefesti, judetul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/193527",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/193527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-8-2025",
+   "path": "local/prahova/stefesti/2025/8",
+   "short": "HCL Ștefești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 8/2025 privind aprobarea PROGRAMULUI DE ACŢIUNE COMUNITARĂ la nivelul Comunei Stefesti, Judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/193528",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/193528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-9-2025",
+   "path": "local/prahova/stefesti/2025/9",
+   "short": "HCL Ștefești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 9/2025 privind aprobarea domeniilor serviciilor publice si a locurilor in care vor fi prestate activitati in folosul comunitatii de catre persoanele fizice/minorii care au fost condamnate sau pentru care Instanta de judecata a dispus prestarea unei activitati in folosul comunitatii",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/193529",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/193529",
      "sha256": null
     }
    ]

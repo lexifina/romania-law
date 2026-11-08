@@ -3,6 +3,336 @@
  "shard": "local/prahova/soimari/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--soimari-1-2022",
+   "path": "local/prahova/soimari/2022/1",
+   "short": "HCL Șoimari nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 1/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-10-2022",
+   "path": "local/prahova/soimari/2022/10",
+   "short": "HCL Șoimari nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 10/2022 Privind adoptarea bugetului local de venituri si cheltuieli al comunei Soimari pe anul 2022 si estimari pe anii 2023-2025",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14895",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-11-2022",
+   "path": "local/prahova/soimari/2022/11",
+   "short": "HCL Șoimari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 11/2022 Privind organizarea reţelei scolare a unităţilor de învăţământ preuniversitar de stat , pentru anul scolar 2022-2023,la nivelul comunei Soimari, judetul Prahova",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#16471",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#16471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-12-2022",
+   "path": "local/prahova/soimari/2022/12",
+   "short": "HCL Șoimari nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 12/2022 plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari, judetul Prahova si se deplaseaza din alte localitati pentru luna februarie 2022,",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#16472",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#16472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-13-2022",
+   "path": "local/prahova/soimari/2022/13",
+   "short": "HCL Șoimari nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 13/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-14-2022",
+   "path": "local/prahova/soimari/2022/14",
+   "short": "HCL Șoimari nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 14/2022 Privind rectificarea bugetului local de venituri si cheltuieli al comunei Soimari pe anul 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#16482",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#16482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-15-2022",
+   "path": "local/prahova/soimari/2022/15",
+   "short": "HCL Șoimari nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 15/2022 privind aprobarea încheierii unui acord de parteneriat între Unitatea Administrativ Teritorială Comuna Soimari și Unităţile Administrativ Teritoriale Judetul Prahova, Chiojdeanca, Salcia, Apostolache, Gornet Cricov, Tătaru, Sângeru, în vederea includerii în Programul Național de Investiții ”Anghel Saligny”",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#18333",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#18333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-16-2022",
+   "path": "local/prahova/soimari/2022/16",
+   "short": "HCL Șoimari nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 16/2022 aprobarea cererii de finantare prin programul National de investitii \"Anghel Saligny\"Infiintare retea inteligenta de distributie gaze naturale in judetul Prahova",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#18366",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#18366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-17-2022",
+   "path": "local/prahova/soimari/2022/17",
+   "short": "HCL Șoimari nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 17/2022 pentru modificarea si completarea art.1 alin.(2) lit. a) al Hotararii Consiliului Local Soimari nr. 8 din 10.02.2022 privind utilizarea excedentului bugetului local, în cursul anului 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20064",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-18-2022",
+   "path": "local/prahova/soimari/2022/18",
+   "short": "HCL Șoimari nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 18/2022 privind indexarea impozitelor si taxelor locale,pentru anul 2023",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20144",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-19-2022",
+   "path": "local/prahova/soimari/2022/19",
+   "short": "HCL Șoimari nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 19/2022 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari, judetul Prahova si se deplaseaza din alte localitati pentru luna martie 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20147",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-2-2022",
+   "path": "local/prahova/soimari/2022/2",
+   "short": "HCL Șoimari nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 2/2022 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari,judetul Prahova si se deplaseaza din alte localitati pentru luna decembrie 2021",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#13208",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#13208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-20-2022",
+   "path": "local/prahova/soimari/2022/20",
+   "short": "HCL Șoimari nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 20/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-21-2022",
+   "path": "local/prahova/soimari/2022/21",
+   "short": "HCL Șoimari nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 21/2022 aprobarea inființării Centrului Cultural educațional Șoimari",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20271",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-22-2022",
+   "path": "local/prahova/soimari/2022/22",
+   "short": "HCL Șoimari nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 22/2022 aprobarea Studiului de fezabilitate,indicatorilor tehnico-economici,strategiei de tarifare si cofinantarii obiectivului de investitie din localitatea Soimari prevazut in cadrul „Proiectului regional de dezvoltare a infrastructurii de apa si apa uzata din judetul Prahova, in perioada 2014-2020”",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20643",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#20643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-23-2022",
+   "path": "local/prahova/soimari/2022/23",
+   "short": "HCL Șoimari nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 23/2022 plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari, judetul Prahova si se deplaseaza din alte localitati pentru luna aprilie 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21728",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-24-2022",
+   "path": "local/prahova/soimari/2022/24",
+   "short": "HCL Șoimari nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 24/2022 privind aprobarea cuantumului minim si numarului burselor scolare pentru elevii Scolii Gimnaziale,”Minerva Alexandrescu “comuna Soimari, judetul Prahova,semestrul II al anului scolar 2021-2022,",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21734",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-25-2022",
+   "path": "local/prahova/soimari/2022/25",
+   "short": "HCL Șoimari nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 25/2022 aprobarea executarii obiectivului de investitie “Modernizare drumuri de interes local in comuna Soimari, judetul Prahova –strada “Morii”prin asfaltare",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21735",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-26-2022",
+   "path": "local/prahova/soimari/2022/26",
+   "short": "HCL Șoimari nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 26/2022 privind aprobarea executarii obiectivului de investitie “Modernizare drumuri de interes local in comuna Soimari, judetul Prahova –strada “Breajen”prin asfaltare",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21736",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#21736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-27-2022",
+   "path": "local/prahova/soimari/2022/27",
+   "short": "HCL Șoimari nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 27/2022 Privind rectificarea bugetului local de venituri si cheltuieli al comunei Soimari, pe anul 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#22032",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#22032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-28-2022",
+   "path": "local/prahova/soimari/2022/28",
+   "short": "HCL Șoimari nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 28/2022 privind aprobarea proiectului ,,Instalare sistem de supraveghere si monotorizare a domeniului public in Comuna Soimari, judetul Prahova”, a cheltuielilor legate de proiect si depunerea acestuia in cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#22271",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#22271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-29-2022",
+   "path": "local/prahova/soimari/2022/29",
+   "short": "HCL Șoimari nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 29/2022 Proiect de hotarare privind infiintarea si delegarea gestiunii Serviciului de canalizare al comunei Soimari",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#22707",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#22707",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--soimari-3-2022",
    "path": "local/prahova/soimari/2022/3",
    "short": "HCL Șoimari nr. 3/2022",
@@ -78,6 +408,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--soimari-34-2022",
+   "path": "local/prahova/soimari/2022/34",
+   "short": "HCL Șoimari nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 34/2022 PLATA TRANSPORT CADRE DIDACTITE IULIE 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#28087",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#28087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-35-2022",
+   "path": "local/prahova/soimari/2022/35",
+   "short": "HCL Șoimari nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 35/2022 NOMINALIZARE OPERATORI ECONOMICI",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#28088",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#28088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--soimari-4-2022",
    "path": "local/prahova/soimari/2022/4",
    "short": "HCL Șoimari nr. 4/2022",
@@ -88,6 +448,81 @@
      "from": "2022-01-31",
      "units": 1,
      "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#13756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-5-2022",
+   "path": "local/prahova/soimari/2022/5",
+   "short": "HCL Șoimari nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 5/2022 privind aprobarea Planului anual de actiune privind serviciile sociale acordate la nivelul comunei Soimari, judet Prahova pentru anul 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14135",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-6-2022",
+   "path": "local/prahova/soimari/2022/6",
+   "short": "HCL Șoimari nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 6/2022 privind aprobarea planului de actiuni si lucrări de interes local pentru anul 2022 ce se vor executa de către persoanele apte de munca,beneficiare ajutorului social conform legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14161",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-7-2022",
+   "path": "local/prahova/soimari/2022/7",
+   "short": "HCL Șoimari nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 7/2022 plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari, judetul Prahova si se deplaseaza din alte localitati pentru luna ianuarie 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14196",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-8-2022",
+   "path": "local/prahova/soimari/2022/8",
+   "short": "HCL Șoimari nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 8/2022 Privind utilizarea excedentului bugetului local, în cursul anului 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14266",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-9-2022",
+   "path": "local/prahova/soimari/2022/9",
+   "short": "HCL Șoimari nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 9/2022 Pentru aprobarea organigramei şi a statului de functii din cadrul aparatului de specialitate al primarului comunei Soimari pentru anul 2022",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14290",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#14290",
      "sha256": null
     }
    ]

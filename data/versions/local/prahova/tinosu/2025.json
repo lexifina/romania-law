@@ -3,6 +3,51 @@
  "shard": "local/prahova/tinosu/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--tinosu-1-2025",
+   "path": "local/prahova/tinosu/2025/1",
+   "short": "HCL Tinosu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 1/2025 privind acoperirea definitivă a deficitului secţiunii de dezvoltare, rezultat la finalul anului 2024, din excedentul bugetar al anilor precedenţi",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/186016",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/186016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-16-2025",
+   "path": "local/prahova/tinosu/2025/16",
+   "short": "HCL Tinosu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 16/2025 privind rectificarea bugetului local al comunei Tinosu pe anul 2025 şi estimări pentru anii 2026-2028",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/208828",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/208828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-22-2025",
+   "path": "local/prahova/tinosu/2025/22",
+   "short": "HCL Tinosu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 22/2025 pentru modificarea Hotărârii Consiliului Local nr. 8/24.03.2025 privind reportarea şi utilizarea excedentului anual al bugetului local rezultat la 31.12.2024, în anul 2025",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/218643",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/218643",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--tinosu-23-2025",
    "path": "local/prahova/tinosu/2025/23",
    "short": "HCL Tinosu nr. 23/2025",
@@ -258,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--tinosu-4-2025",
+   "path": "local/prahova/tinosu/2025/4",
+   "short": "HCL Tinosu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 4/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Tinosu, judeţul Prahova, pentru anul 2025",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/195109",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/195109",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--tinosu-40-2025",
    "path": "local/prahova/tinosu/2025/40",
    "short": "HCL Tinosu nr. 40/2025",
@@ -298,6 +358,36 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/tinosu-ph/registru-hcl/245606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-8-2025",
+   "path": "local/prahova/tinosu/2025/8",
+   "short": "HCL Tinosu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 8/2025 privind reportarea şi utilizarea excedentului anual al bugetului local rezultat la 31.12.2024, în anul 2025",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/198442",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/198442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-9-2025",
+   "path": "local/prahova/tinosu/2025/9",
+   "short": "HCL Tinosu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 9/2025 privind aprobarea bugetului local al comunei Tinosu pe anul 2025 şi a estimărilor pentru anii 2026-2028",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/198443",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/198443",
      "sha256": null
     }
    ]

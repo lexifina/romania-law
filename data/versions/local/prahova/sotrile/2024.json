@@ -3,6 +3,21 @@
  "shard": "local/prahova/sotrile/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--sotrile-36-2024",
+   "path": "local/prahova/sotrile/2024/36",
+   "short": "HCL Șotrile nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 36/2024 privind anularea unor obligatii fiscale locale, principale si accesorii",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/171153",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/171153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-44-2024",
    "path": "local/prahova/sotrile/2024/44",
    "short": "HCL Șotrile nr. 44/2024",

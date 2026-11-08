@@ -3,6 +3,501 @@
  "shard": "local/prahova/provita-de-jos/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--provita-de-jos-1-2024",
+   "path": "local/prahova/provita-de-jos/2024/1",
+   "short": "HCL Provița de Jos nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 1/2024 privind alegerea Președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190354",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-10-2024",
+   "path": "local/prahova/provita-de-jos/2024/10",
+   "short": "HCL Provița de Jos nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 10/2024 privind aprobarea Planului pentru asigurarea cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență în anul 2024 la nivelul comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190363",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-11-2024",
+   "path": "local/prahova/provita-de-jos/2024/11",
+   "short": "HCL Provița de Jos nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 11/2024 privind aprobarea Planului de lucrări de interes local la nivelul comunei Provița de Jos pe anul 2024, a listei cuprinzând persoanele apte de muncă ce urmează să efectueze lucrările de interes local și a listei cuprinzând beneficiarii de venit minim de incluziune",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190364",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-12-2024",
+   "path": "local/prahova/provita-de-jos/2024/12",
+   "short": "HCL Provița de Jos nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 12/2024 privind modificarea structurii funcționale în cadrul Primăriei comunei Provița de Jos cu încadrarea în numărul maxim de posturi aprobat",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190365",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-13-2024",
+   "path": "local/prahova/provita-de-jos/2024/13",
+   "short": "HCL Provița de Jos nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 13/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190366",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-14-2024",
+   "path": "local/prahova/provita-de-jos/2024/14",
+   "short": "HCL Provița de Jos nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 14/2024 privind aprobarea achiziționării unor servicii de consultanță, de asistență și de reprezentare juridică și servicii de executare silită",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190367",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-15-2024",
+   "path": "local/prahova/provita-de-jos/2024/15",
+   "short": "HCL Provița de Jos nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 15/2024 privind aprobarea situației financiare a comunei Provița de Jos pentru trimestrul al IV-lea, anul 2023",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190407",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-16-2024",
+   "path": "local/prahova/provita-de-jos/2024/16",
+   "short": "HCL Provița de Jos nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 16/2024 privind aprobarea rectificării bugetului local al comunei Provița de Jos, ediția martie 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190408",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-17-2024",
+   "path": "local/prahova/provita-de-jos/2024/17",
+   "short": "HCL Provița de Jos nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 17/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190409",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-18-2024",
+   "path": "local/prahova/provita-de-jos/2024/18",
+   "short": "HCL Provița de Jos nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 18/2024 privind modificarea și actualizarea HCL nr.20/13.04.2022 cu privire la aprobarea demarării procedurilor în vederea trecerii drumului forestier DAF Drăgăneasa (D142/parțial), din domeniul public al statului și administrarea Regiei Naționale a Pădurilor Romsilva, în domeniul public al comunei Provița de Jos și administrarea Consiliului Local al comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190410",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-19-2024",
+   "path": "local/prahova/provita-de-jos/2024/19",
+   "short": "HCL Provița de Jos nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 19/2024 privind inventarierea unor bunuri imobile în domeniul privat al comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190411",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-2-2024",
+   "path": "local/prahova/provita-de-jos/2024/2",
+   "short": "HCL Provița de Jos nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 2/2024 privind privire la aprobarea contului de încheiere a exercițiului bugetar al comunei Provița de Jos pentru anul 2023",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190355",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-20-2024",
+   "path": "local/prahova/provita-de-jos/2024/20",
+   "short": "HCL Provița de Jos nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 20/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190412",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-21-2024",
+   "path": "local/prahova/provita-de-jos/2024/21",
+   "short": "HCL Provița de Jos nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 21/2024 privind aprobarea actualizării indicatorilor tehnico-economici, a devizului și a listei cu drumuri- faza DTAC la obiectivul de investiții: „Lucrări de modernizare a 54 de drumuri comunale și sătești din comuna Provița de Jos, județul Prahova”, depus prin Programul național de investiții Anghel Saligny",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190413",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-22-2024",
+   "path": "local/prahova/provita-de-jos/2024/22",
+   "short": "HCL Provița de Jos nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 22/2024 privind aprobarea indicatorilor tehnico-economici și a devizelor generale- faza DTAC ale Proiectului: ,,Renovare și eficientizare energetică Școala Gimnazială, comuna Provița de Jos, județul Prahova” finanțat prin PNRR/2022/C10/I.3-Componenta C10",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190414",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-24-2024",
+   "path": "local/prahova/provita-de-jos/2024/24",
+   "short": "HCL Provița de Jos nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 24/2024 privind completarea Hotărârii nr.23/27.03.2024 cu privire la implementarea Programului național ,,Masă sănătoasă” la nivelul Școlii Gimnaziale, comuna Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190418",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-25-2024",
+   "path": "local/prahova/provita-de-jos/2024/25",
+   "short": "HCL Provița de Jos nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 25/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190430",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-26-2024",
+   "path": "local/prahova/provita-de-jos/2024/26",
+   "short": "HCL Provița de Jos nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 26/2024 privind aprobarea modificărilor prevăzute în Memoriul justificativ pentru obiectivul de investiții: „Lucrări de modernizare a 54 de drumuri comunale și sătești din comuna Provița de Jos, județul Prahova”, depus prin Programul național de investiții Anghel Saligny",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190431",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-27-2024",
+   "path": "local/prahova/provita-de-jos/2024/27",
+   "short": "HCL Provița de Jos nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 27/2024 privind alegerea Președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190479",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-28-2024",
+   "path": "local/prahova/provita-de-jos/2024/28",
+   "short": "HCL Provița de Jos nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 28/2024 privind aprobarea situației financiare a comunei Provița de Jos pentru trimestrul I anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190480",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-29-2024",
+   "path": "local/prahova/provita-de-jos/2024/29",
+   "short": "HCL Provița de Jos nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 29/2024 privind aprobarea rectificării bugetului local al comunei Provița de Jos, ediția mai 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190481",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-3-2024",
+   "path": "local/prahova/provita-de-jos/2024/3",
+   "short": "HCL Provița de Jos nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 3/2024 privind utilizarea excedentului bugetar al anilor precedenți în anul bugetar 2024 la nivelul comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190356",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-30-2024",
+   "path": "local/prahova/provita-de-jos/2024/30",
+   "short": "HCL Provița de Jos nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 30/2024 privind asocierea comunei Provița de Jos și a județului Prahova în vederea realizării unor obiective de interes public: ,,Lucrări de modernizare și consolidare DS 385 și refacere pod punct Baicu”",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190482",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-31-2024",
+   "path": "local/prahova/provita-de-jos/2024/31",
+   "short": "HCL Provița de Jos nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 31/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190483",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-32-2024",
+   "path": "local/prahova/provita-de-jos/2024/32",
+   "short": "HCL Provița de Jos nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 32/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190484",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-33-2024",
+   "path": "local/prahova/provita-de-jos/2024/33",
+   "short": "HCL Provița de Jos nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 33/2024 privind aprobarea rectificării bugetului local al comunei Provița de Jos, ediția iunie 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190485",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-34-2024",
+   "path": "local/prahova/provita-de-jos/2024/34",
+   "short": "HCL Provița de Jos nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 34/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190486",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-35-2024",
+   "path": "local/prahova/provita-de-jos/2024/35",
+   "short": "HCL Provița de Jos nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 35/2024 privind aprobarea rectificării bugetului local al comunei Provița de Jos, ediția iulie 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190489",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-38-2024",
+   "path": "local/prahova/provita-de-jos/2024/38",
+   "short": "HCL Provița de Jos nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 38/2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190492",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-39-2024",
+   "path": "local/prahova/provita-de-jos/2024/39",
+   "short": "HCL Provița de Jos nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 39/2024 privind alegerea Președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190529",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-4-2024",
+   "path": "local/prahova/provita-de-jos/2024/4",
+   "short": "HCL Provița de Jos nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 4/2024 privind alocarea fondurilor pentru naveta cadrelor didactice și personalului didactic auxiliar care funcționează la Școala Gimnazială, comuna Provița de Jos la nivelul comunei Provița de Jos pentru anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190357",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-40-2024",
+   "path": "local/prahova/provita-de-jos/2024/40",
+   "short": "HCL Provița de Jos nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 40/2024 privind aprobarea situației financiare a comunei Provița de Jos pentru trimestrul II anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190530",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-41-2024",
+   "path": "local/prahova/provita-de-jos/2024/41",
+   "short": "HCL Provița de Jos nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 41/2024 privind aprobarea rectificării bugetului local al comunei Provița de Jos, ediția august 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190531",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190531",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--provita-de-jos-42-2024",
    "path": "local/prahova/provita-de-jos/2024/42",
    "short": "HCL Provița de Jos nr. 42/2024",
@@ -118,6 +613,21 @@
      "from": "2024-11-19",
      "units": 1,
      "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-5-2024",
+   "path": "local/prahova/provita-de-jos/2024/5",
+   "short": "HCL Provița de Jos nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 5/2024 privind modificarea HCL nr.67/20.12.2023 și aprobarea Regulamentului privind modalitatea de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație“ din aparatul de specialitate al primarilor comunelor și al instituțiilor și serviciilor publice de interes local, înființate în subordinea, coordonarea sau sub autoritatea consiliilor locale din comune",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190358",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190358",
      "sha256": null
     }
    ]
@@ -273,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--provita-de-jos-6-2024",
+   "path": "local/prahova/provita-de-jos/2024/6",
+   "short": "HCL Provița de Jos nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 6/2024 privind aprobarea bugetului local al comunei Provița de Jos pe anul 2024, a estimărilor pentru anii 2025-2027 și a obiectivelor de investiții pe anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190359",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190359",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--provita-de-jos-60-2024",
    "path": "local/prahova/provita-de-jos/2024/60",
    "short": "HCL Provița de Jos nr. 60/2024",
@@ -298,6 +823,51 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/193182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-7-2024",
+   "path": "local/prahova/provita-de-jos/2024/7",
+   "short": "HCL Provița de Jos nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 7/2024 privind organizarea rețelei școlare pentru anul școlar 2024-2025 la nivelul comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190360",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-8-2024",
+   "path": "local/prahova/provita-de-jos/2024/8",
+   "short": "HCL Provița de Jos nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 8/2024 privind trecerea unor bunuri imobile din domeniul privat în domeniul public al comunei Provița de Jos, județul Prahova",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190361",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-9-2024",
+   "path": "local/prahova/provita-de-jos/2024/9",
+   "short": "HCL Provița de Jos nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 9/2024 privind reactualizarea Planului de Analiză și Acoperire a Riscurilor a comunei Provița de Jos pentru anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190362",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190362",
      "sha256": null
     }
    ]

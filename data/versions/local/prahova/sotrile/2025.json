@@ -3,6 +3,51 @@
  "shard": "local/prahova/sotrile/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--sotrile-14-2025",
+   "path": "local/prahova/sotrile/2025/14",
+   "short": "HCL Șotrile nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 14/2025 privind participarea Comunei Șotrile, în calitate de solicitant UAT, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană, finanțat din Fondul pentru mediu",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/201537",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/201537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-19-2025",
+   "path": "local/prahova/sotrile/2025/19",
+   "short": "HCL Șotrile nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 19/2025 privind aprobarea măsuri completare registrul agricol pentru perioada 2025-2029",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/208424",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/208424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-3-2025",
+   "path": "local/prahova/sotrile/2025/3",
+   "short": "HCL Șotrile nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 3/2025 privind însuşirea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Șotrile, judeţul Prahova, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale, ȋncheiat ȋntre Filiala Județeană Prahova a Asociației Comunelor din România şi Comuna Șotrile, județul Prahova",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/194075",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/194075",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-43-2025",
    "path": "local/prahova/sotrile/2025/43",
    "short": "HCL Șotrile nr. 43/2025",
@@ -253,6 +298,21 @@
      "from": "2026-03-31",
      "units": 1,
      "source_url": "https://emol.ro/sotrile-ph/registru-hcl/244601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-6-2025",
+   "path": "local/prahova/sotrile/2025/6",
+   "short": "HCL Șotrile nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 6/2025 privind aprobarea indicatorilor economici și a cofinanțării investiției, privind actualizarea Planului Urbanistic General al comunei Sotrile, judetul Prahova si al Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/194078",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/194078",
      "sha256": null
     }
    ]

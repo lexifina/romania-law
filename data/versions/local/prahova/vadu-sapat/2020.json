@@ -3,6 +3,351 @@
  "shard": "local/prahova/vadu-sapat/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--vadu-sapat-1-2020",
+   "path": "local/prahova/vadu-sapat/2020/1",
+   "short": "HCL Vadu Săpat nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 1/2020 privind acoperirea definitivă a deficitului secțiunii de dezvoltare a anului 2019 și stabilirea excedentului anilor precedenți",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2534",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-10-2020",
+   "path": "local/prahova/vadu-sapat/2020/10",
+   "short": "HCL Vadu Săpat nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 10/2020 privind aprobarea utilizării excedentului anilor precedenți în sumă de 749,280",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2543",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-11-2020",
+   "path": "local/prahova/vadu-sapat/2020/11",
+   "short": "HCL Vadu Săpat nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 11/2020 privind actualizarea devizului și a inducatorilor economici privind investiția „ Inființărare rețea canalizare și stație de epurare nouă” în comuna Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2544",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-12-2020",
+   "path": "local/prahova/vadu-sapat/2020/12",
+   "short": "HCL Vadu Săpat nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 12/2020 privind actualizarea cofinațării obiectivului de investiție „ Înființare rețea canalizare și stație de epurare noua ” în comuna Vadu Săpat , județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2545",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-13-2020",
+   "path": "local/prahova/vadu-sapat/2020/13",
+   "short": "HCL Vadu Săpat nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 13/2020 privind modificarea Regulamentului de Organizare și Funcționare a Consilului Local al Comunei Vadu Săpat , județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2546",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-14-2020",
+   "path": "local/prahova/vadu-sapat/2020/14",
+   "short": "HCL Vadu Săpat nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 14/2020 privind aprobarea rectificării bugetului local al comunei Vadu Săpat , pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16105",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-15-2020",
+   "path": "local/prahova/vadu-sapat/2020/15",
+   "short": "HCL Vadu Săpat nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 15/2020 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții (DALI) aferenă obiectivului ”REFACERE PODET DALAT DRUM LOCAL ȘI REFACERE PRAG DE FUND, ZONA HULA, SAT UNGURENI, COMUNA VADU SAPAT”, și a principalilor indicatori tehnico-economici",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16106",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-16-2020",
+   "path": "local/prahova/vadu-sapat/2020/16",
+   "short": "HCL Vadu Săpat nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 16/2020 privind aprobarea rectificării bugetului local al comunei Vadu Săpat, pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16114",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-17-2020",
+   "path": "local/prahova/vadu-sapat/2020/17",
+   "short": "HCL Vadu Săpat nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 17/2020 privind aprobarea ”Strategiei de dezvoltare a serviciilor sociale la nivelul Primăriei comunei Vadu Săpat, în perioada 2020-2029",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16115",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-18-2020",
+   "path": "local/prahova/vadu-sapat/2020/18",
+   "short": "HCL Vadu Săpat nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 18/2020 privind aprobarea Planului anual de dezvoltare a serviciilor sociale furnizate de Compartimentul Autoritate tutelară, pentru anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16119",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-19-2020",
+   "path": "local/prahova/vadu-sapat/2020/19",
+   "short": "HCL Vadu Săpat nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 19/2020 privind punerea la dispoziția proiectului ”Sprijin pentru pregătirea Aplicației de Finanțare și a documentațiilor de atribuire pentru Proiectul Regional de dezvoltare a infrastructurii de apă și apă uzată din județul Prahova, în perioada 2014-2020” a terenurilor necesare executării investiției aferente comunei Vadu Săpat",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16120",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-2-2020",
+   "path": "local/prahova/vadu-sapat/2020/2",
+   "short": "HCL Vadu Săpat nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 2/2020 privind aprobarea raportului privind monitorizarea activității asistenților personali, pe semestru II, anul 2019",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2535",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-20-2020",
+   "path": "local/prahova/vadu-sapat/2020/20",
+   "short": "HCL Vadu Săpat nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 20/2020 privind actualizarea nomenclaturii stradale din comuna Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16116",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-21-2020",
+   "path": "local/prahova/vadu-sapat/2020/21",
+   "short": "HCL Vadu Săpat nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 21/2020 privind aprobarea Regulamentului privind concesionarea bunurilor imobile ce aparțin domeniului public sau privat al Comunei Vadu Săpat",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16117",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-22-2020",
+   "path": "local/prahova/vadu-sapat/2020/22",
+   "short": "HCL Vadu Săpat nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 22/2020 privind aprobarea procedurii de concesionare prin licitație publică a unui număr de 84 terenuri aflate în domeniul privat al comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16118",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-23-2020",
+   "path": "local/prahova/vadu-sapat/2020/23",
+   "short": "HCL Vadu Săpat nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 23/2020 privind aprobarea rectiicării bugetului local al comunei Vadu Săpat, pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16121",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-24-2020",
+   "path": "local/prahova/vadu-sapat/2020/24",
+   "short": "HCL Vadu Săpat nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 24/2020 privind mandatarea Primarului comunei Vadu Săpat pentru votarea și semnarea Actului adițional nr. 2 la Contractul nr. 259/18.02.2019",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16122",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-25-2020",
+   "path": "local/prahova/vadu-sapat/2020/25",
+   "short": "HCL Vadu Săpat nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 25/2020 privind modificarea Programului investițiilor publice pe anul 2020 al comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16123",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-27-2020",
+   "path": "local/prahova/vadu-sapat/2020/27",
+   "short": "HCL Vadu Săpat nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 27/2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16125",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-29-2020",
+   "path": "local/prahova/vadu-sapat/2020/29",
+   "short": "HCL Vadu Săpat nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 29/2020 privind asocierea comunei Vadu Săpat cu județul Prahova în vederea realizării obiectivului de interes public ”Înființare rețea canalizare și stație de epurare nouă - comuna Vadu Săpat”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16134",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-3-2020",
+   "path": "local/prahova/vadu-sapat/2020/3",
+   "short": "HCL Vadu Săpat nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 3/2020 privind stabilirea unor situații deosebite în vederea acordării unor ajutoare de urgență, pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2536",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-30-2020",
+   "path": "local/prahova/vadu-sapat/2020/30",
+   "short": "HCL Vadu Săpat nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 30/2020 privind aprobarea rectificării bugetului local al comunei Vadu Săpat, pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16135",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-31-2020",
+   "path": "local/prahova/vadu-sapat/2020/31",
+   "short": "HCL Vadu Săpat nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 31/2020 privind modificarea Programului investițiilor publice pe anul 2020 al comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16136",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16136",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-32-2020",
    "path": "local/prahova/vadu-sapat/2020/32",
    "short": "HCL Vadu Săpat nr. 32/2020",
@@ -118,6 +463,21 @@
      "from": "2020-10-28",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-4-2020",
+   "path": "local/prahova/vadu-sapat/2020/4",
+   "short": "HCL Vadu Săpat nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 4/2020 privind aprobarea planului de acțiuni și lucrări de interes local al beneficiarilor prevederilor Legii nr. 416/2001, pentru anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2537",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2537",
      "sha256": null
     }
    ]
@@ -298,6 +658,66 @@
      "from": "2020-12-29",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-6-2020",
+   "path": "local/prahova/vadu-sapat/2020/6",
+   "short": "HCL Vadu Săpat nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 6/2020 privind reorganizarea rețelei școlare pentru anul școlar 2020-2021 la nivelul comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2539",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-7-2020",
+   "path": "local/prahova/vadu-sapat/2020/7",
+   "short": "HCL Vadu Săpat nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 7/2020 privind reactualizarea coeficienților de salarizare , a cuantumului salariilor de bază și a altor drepturi salariale pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Vadu Săpat",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2540",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-8-2020",
+   "path": "local/prahova/vadu-sapat/2020/8",
+   "short": "HCL Vadu Săpat nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 8/2020 privind aprobarea bugetului local al comunei Vadu Săpat , județul Prahova, pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2541",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-9-2020",
+   "path": "local/prahova/vadu-sapat/2020/9",
+   "short": "HCL Vadu Săpat nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 9/2020 privind aprobarea Programului investițiilor publice pe anul 2020 al comunei Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2542",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2542",
      "sha256": null
     }
    ]

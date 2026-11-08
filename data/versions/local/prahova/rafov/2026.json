@@ -3,6 +3,96 @@
  "shard": "local/prahova/rafov/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--rafov-1-2026",
+   "path": "local/prahova/rafov/2026/1",
+   "short": "HCL Râfov nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 1/2026 privind atestarea domeniului public al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252112",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-11-2026",
+   "path": "local/prahova/rafov/2026/11",
+   "short": "HCL Râfov nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 11/2026",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254238",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-12-2026",
+   "path": "local/prahova/rafov/2026/12",
+   "short": "HCL Râfov nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 12/2026 privind aprobarea proiectului tehnic a indicatorilor tehnico-economici și a devizului general pentri investiția \" Înființare sistem canalizare menajeră în comuna Râfov, satele Buda și Palanca, Județul Prahova\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254239",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-13-2026",
+   "path": "local/prahova/rafov/2026/13",
+   "short": "HCL Râfov nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 13/2026 privind actualizarea indicatorilor tehnico-economici-anexa 2.2.A. a devizului general și a cofinanțării pentru realizarea obiectivului de investiții \" Înființare canalizare menajeră în comuna Râfov, Sat Sicrita, Jud. Prahova\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254240",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-15-2026",
+   "path": "local/prahova/rafov/2026/15",
+   "short": "HCL Râfov nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 15/2026 privind",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254242",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-16-2026",
+   "path": "local/prahova/rafov/2026/16",
+   "short": "HCL Râfov nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 16/2026 privind aprobarea revocarii Hotararii de Consiliu Local Râfov Nr. 69/17.10.2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254243",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254243",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-19-2026",
    "path": "local/prahova/rafov/2026/19",
    "short": "HCL Râfov nr. 19/2026",
@@ -168,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-3-2026",
+   "path": "local/prahova/rafov/2026/3",
+   "short": "HCL Râfov nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 3/2026 privind alegerea presedintelu de siedinta pentru lunile februarie-aprilie 2026",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252114",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252114",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-30-2026",
    "path": "local/prahova/rafov/2026/30",
    "short": "HCL Râfov nr. 30/2026",
@@ -298,6 +403,81 @@
      "from": "2026-07-13",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/277804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-4-2026",
+   "path": "local/prahova/rafov/2026/4",
+   "short": "HCL Râfov nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 4/2026 privind aprobarea raportului de activitate al asistentilor personali ai persoanelor cu handicap grav pe semestrul al II lea",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252115",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-5-2026",
+   "path": "local/prahova/rafov/2026/5",
+   "short": "HCL Râfov nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 5/2026 privind aprobarea materiei impozabile pentru anul 2026",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252116",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-6-2026",
+   "path": "local/prahova/rafov/2026/6",
+   "short": "HCL Râfov nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 6/2026 privind aprobarea initierii procedurii pentru extinderea iluminatului stradal pe drumul comunal DC 83 si montarea indicatoarelor rutiere intre satele Buda si Sicrita , Judetul Prahova",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252117",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-7-2026",
+   "path": "local/prahova/rafov/2026/7",
+   "short": "HCL Râfov nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 7/2026 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor si a contractelor /acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative aferente programului pentru scoli al Romaniei pentru unitatilede invatamant din Comuna Râfov, in anii scolari 2026-2027,2027-2028, 2028-2029",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252118",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-8-2026",
+   "path": "local/prahova/rafov/2026/8",
+   "short": "HCL Râfov nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 8/2026 privind aprobarea planului de actiuni si lucrari de interes local in anul 2026 pentru beneficiarii Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252119",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252119",
      "sha256": null
     }
    ]

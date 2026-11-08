@@ -3,6 +3,831 @@
  "shard": "local/prahova/plopu/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--plopu-1-2025",
+   "path": "local/prahova/plopu/2025/1",
+   "short": "HCL Plopu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 1/2025 privind ACOPERIREA DEFINITIVA DIN EXCEDENTUL BUGETULUI LOCAL PE ANUL 2024 A DEFICITULUI SECTIUNII DE DEZVOLTARE IN SUMA DE 138628.67 LEI",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/186336",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/186336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-10-2025",
+   "path": "local/prahova/plopu/2025/10",
+   "short": "HCL Plopu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 10/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194772",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-11-2025",
+   "path": "local/prahova/plopu/2025/11",
+   "short": "HCL Plopu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 11/2025 privind APROBAREA FONDURILOR NECESARE ACORDARII AJUTORULUI SI SUPLIMENTULUI PENTRU INCALZIREA LOCUINTEI",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194773",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-12-2025",
+   "path": "local/prahova/plopu/2025/12",
+   "short": "HCL Plopu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 12/2025 privind APROBAREA PLANULUI ANUAL DE ACTIUNI PRIVIND SERVICIILE SOCIALE ADMINISTRATE SI FINANTATE DIN BUGETUL LOCAL AL CONSILIULUI LOCAL AL COMUNEI PLOPU, PENTRU ANUL 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194774",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-13-2025",
+   "path": "local/prahova/plopu/2025/13",
+   "short": "HCL Plopu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 13/2025 privind APROBAREA NUMARULUI MAXIM DE POSTURI ALOCATE FUNCTIEI DE ASISTENT PERSONAL AL PERSOANEI CU HANDICAP GRAV CU ASISTENT PERSONAL, PENTRU ANUL 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194775",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-14-2025",
+   "path": "local/prahova/plopu/2025/14",
+   "short": "HCL Plopu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 14/2025 privind APROBAREA REGULAMENTULUI PRIVIND PREMIEREA SPORTIVILOR PENTRU PERFORMANTE DEOSEBITE OBTINUTE LA ACTIUNI SPORTIVE INTERNATIONALE SI NATIONALE OFICIALE",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194776",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-15-2025",
+   "path": "local/prahova/plopu/2025/15",
+   "short": "HCL Plopu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 15/2025 privind MODIFICAREA ANEXEI LA HOTARAREA NR.4 ADOPTATA DE CONSILIUL LOCAL AL COMUNEI PLOPU LA DATA DE 27/01/2025 REPREZENTAND “LISTA PROVIZORIE A OBIECTIVELOR DE INVESTITII, PE ANUL 2025”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194777",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-16-2025",
+   "path": "local/prahova/plopu/2025/16",
+   "short": "HCL Plopu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 16/2025 privind APROBAREA BUGETULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PE ANUL 2025, ESTIMARII PENTRU ANII 2026 – 2028 SI A LISTEI DE INVESTITII",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/197918",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/197918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-17-2025",
+   "path": "local/prahova/plopu/2025/17",
+   "short": "HCL Plopu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 17/2025 privind UTILIZAREA EXCEDENTULUI ANUAL AL BUGETULUI LOCAL AL COMUNEI PLOPU REZULTAT LA INCHEIEREA EXERCITIULUI BUGETAR AL ANULUI 2024, IN SUMA DE 593636,24 LEI",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/197919",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/197919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-2-2025",
+   "path": "local/prahova/plopu/2025/2",
+   "short": "HCL Plopu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 2/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/186337",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/186337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-20-2025",
+   "path": "local/prahova/plopu/2025/20",
+   "short": "HCL Plopu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 20/2025 privind APROBAREA PROGRAMULUI DE APROVIZIONARE CU PRODUSE AGROALIMENTARE CE URMEAZA SA FIE DISTRIBUITE RATIONALIZAT POPULATIEI COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/197922",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/197922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-22-2025",
+   "path": "local/prahova/plopu/2025/22",
+   "short": "HCL Plopu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 22/2025 privind RECTIFICAREA BUGETULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PE ANUL 2025, ESTIMARII PENTRU ANII 2026 – 2028 SI A LISTEI DE INVESTITII",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/197924",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/197924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-23-2025",
+   "path": "local/prahova/plopu/2025/23",
+   "short": "HCL Plopu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 23/2025 privind Aprobarea Documentaţiei tehnico-economice faza STUDIU DE FEZABILITATE (S.F.) și a indicatorilor tehnico-economici ai obiectivului de investiţii din cadrul proiectului cu titlul „Plopu Digital - Comună Inteligentă - Platformă digitală pentru servicii publice eficiente și transparente“ finanțat în cadrul Programul Regional SUD-MUNTENIA 2021-2027, Prioritatea 1 - „O regiune competitivă prin inovare, digitalizare și întreprinderi dinamice”, Operațiunea PRSM/ID/1/1/1.2/B - „PRSM/ID/1/1/1.2/B – „Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al organizațiilor de cercetare și al autorităților publice, prin investiții în dezvoltarea infrastructurii, serviciilor și echipamentelor IT relevante și necesare”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/203597",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/203597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-24-2025",
+   "path": "local/prahova/plopu/2025/24",
+   "short": "HCL Plopu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 24/2025 privind Aprobarea Documentaţiei tehnico-economice faza PROIECT TEHNIC (P.T.) și a indicatorilor tehnico-economici ai obiectivului de investiţii din cadrul proiectului cu titlul „Plopu Digital - Comună Inteligentă - Platformă digitală pentru servicii publice eficiente și transparente“ finanțat în cadrul Programul Regional SUD-MUNTENIA 2021-2027, Prioritatea 1 - „O regiune competitivă prin inovare, digitalizare și întreprinderi dinamice”, Operațiunea PRSM/ID/1/1/1.2/B - „PRSM/ID/1/1/1.2/B – „Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al organizațiilor de cercetare și al autorităților publice, prin investiții în dezvoltarea infrastructurii, serviciilor și echipamentelor IT relevante și necesare”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/217600",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/217600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-26-2025",
+   "path": "local/prahova/plopu/2025/26",
+   "short": "HCL Plopu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 26/2025 privind Stabilirea impozitelor si taxelor locale, pentru anul 2026, la nivelul unitatii administrativ-teritoriale a comunei Plopu, judetul Prahova si aprobarea Regulamentului-cadru privind majorarea cu pana la 500% a impozitului pe cladire si a impozitului pe teren pentru cladirile si terenurile neingrijite situate in intravilanul comunei Plopu",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/204223",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/204223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-29-2025",
+   "path": "local/prahova/plopu/2025/29",
+   "short": "HCL Plopu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 29/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/204226",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/204226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-3-2025",
+   "path": "local/prahova/plopu/2025/3",
+   "short": "HCL Plopu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 3/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/186338",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/186338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-30-2025",
+   "path": "local/prahova/plopu/2025/30",
+   "short": "HCL Plopu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 30/2025 privind APROBAREA SITUATIILOR FINANCIARE ANUALE LA DATA DE 31.12.2024",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/210542",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/210542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-32-2025",
+   "path": "local/prahova/plopu/2025/32",
+   "short": "HCL Plopu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 32/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/210544",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/210544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-33-2025",
+   "path": "local/prahova/plopu/2025/33",
+   "short": "HCL Plopu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 33/2025 privind MODIFICAREA STRUCTURII ORGANIZATORICE A PRIMARIEI COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/210545",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/210545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-34-2025",
+   "path": "local/prahova/plopu/2025/34",
+   "short": "HCL Plopu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 34/2025 privind Aprobarea Actului adiƫional nr.6, înregistrat sub numãrul 3858/05.05.2025, la contractul de lucrãri nr.7696/21.08.2023 privind execuția lucrărilor obiectivului de investiții: “CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE ȘCOALA, SAT NISIPOASA, COMUNA PLOPU”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/210546",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/210546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-35-2025",
+   "path": "local/prahova/plopu/2025/35",
+   "short": "HCL Plopu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 35/2025 privind Aprobarea Actului adiƫional nr.6, înregistrat sub numãrul 3857/05.05.2025, la contractul de lucrãri nr.7697/21.08.2023 privind execuția lucrărilor obiectivului de investiții: “CLĂDIRILE PUBLICE – GRĂDINIȚA CU PROGRAM NORMAL, COMUNA PLOPU, SAT PLOPU, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/210547",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/210547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-39-2025",
+   "path": "local/prahova/plopu/2025/39",
+   "short": "HCL Plopu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 39/2025 privind APROBAREA FONDURILOR NECESARE ACORDARII AJUTORULUI SI/ SAU SUPLIMENTULUI PENTRU INCALZIREA LOCUINTEI",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/210550",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/210550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-4-2025",
+   "path": "local/prahova/plopu/2025/4",
+   "short": "HCL Plopu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 4/2025 privind APROBAREA LISTEI PROVIZORII A OBIECTIVELOR DE INVESTITII, PE ANUL 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/188673",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/188673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-40-2025",
+   "path": "local/prahova/plopu/2025/40",
+   "short": "HCL Plopu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 40/2025 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PENTRU LUNILE IULIE, AUGUST SI SEPTEMBRIE ALE ANULUI 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215696",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-42-2025",
+   "path": "local/prahova/plopu/2025/42",
+   "short": "HCL Plopu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 42/2025 privind Aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Plopu, judetul Prahova",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215698",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-43-2025",
+   "path": "local/prahova/plopu/2025/43",
+   "short": "HCL Plopu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 43/2025 privind Aprobarea indicatorilor tehnico-economici si a devizului general actualizat pentru obiectivul de investitii “MODERNIZARE SI EXTINDERE RETEA DISTRIBUTIE GAZE NATURALE IN SATUL HARSA, COMUNA PLOPU, JUDETUL PRAHOVA”, finantat prin Programul National de Investitii \"Anghel Saligny\"",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215699",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-45-2025",
+   "path": "local/prahova/plopu/2025/45",
+   "short": "HCL Plopu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 45/2025 privind Rezilierea contractului de finantare nr.159/GES/23.11.2023, incheiat de UAT Comuna Plopu cu Administratia Fondului pentru Mediu, pentru obiectivul de investitii “STATII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE COMUNA PLOPU, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215701",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-46-2025",
+   "path": "local/prahova/plopu/2025/46",
+   "short": "HCL Plopu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 46/2025 privind Sterilizarea animalelor caini si pisici fara stapan, inclusiv capturarea cainilor comunitari identificati pe teritoriul UAT Comuna Plopu, judetul Prahova, pentru adoptia sau transferul acestora la adaposturile autorizate",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215702",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-47-2025",
+   "path": "local/prahova/plopu/2025/47",
+   "short": "HCL Plopu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 47/2025 privind Abrogarea Hotararii Consiliului Local Plopu nr.43 adoptata la data de 30.06.2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215796",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-48-2025",
+   "path": "local/prahova/plopu/2025/48",
+   "short": "HCL Plopu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 48/2025 privind Aprobarea Studiului de fezabilitate actualizat, a indicatorilor tehnico-economici actualizati si a Devizului general actualizat pentru obiectivul de investitii “MODERNIZARE SI EXTINDERE RETEA DISTRIBUTIE GAZE NATURALE IN SATUL HARSA, COMUNA PLOPU, JUDETUL PRAHOVA”, finantat prin Programul National de Investitii \"Anghel Saligny”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/215797",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/215797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-49-2025",
+   "path": "local/prahova/plopu/2025/49",
+   "short": "HCL Plopu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 49/2025 privind RECTIFICAREA BUGETULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PE ANUL 2025, ESTIMARII PENTRU ANII 2026 – 2028 SI A LISTEI DE INVESTITII",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/217372",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/217372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-5-2025",
+   "path": "local/prahova/plopu/2025/5",
+   "short": "HCL Plopu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 5/2025 privind STABILIREA SALARIILOR DE BAZA PENTRU PERSONALUL CONTRACTUAL GUARD, MUNCITOR NECALIFICAT SI MUNCITOR CALIFICAT DIN CADRUL FAMILIEI OCUPATIONALE “ADMINISTRATIE” SI PERSONALUL CONTRACTUAL DIN CADRUL FAMILIEI OCUPATIONALE “ASISTENTA SOCIALA” AI PRIMARIEI COMUNEI PLOPU, INCEPAND CU DATA DE 01.01.2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/188674",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/188674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-51-2025",
+   "path": "local/prahova/plopu/2025/51",
+   "short": "HCL Plopu nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 51/2025 privind Aprobarea indicatorilor tehnico-economici si a Devizului general actualizat, urmare incheierii contractului de servicii: proiectare si executie lucrari pentru obiectivul de investitii “MODERNIZARE SI EXTINDERE RETEA DISTRIBUTIE GAZE NATURALE IN SATUL HARSA, COMUNA PLOPU, JUDETUL PRAHOVA”, finantat prin Programul National de Investitii \"Anghel Saligny”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/218520",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/218520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-52-2025",
+   "path": "local/prahova/plopu/2025/52",
+   "short": "HCL Plopu nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 52/2025 privind Aprobarea modificarii si completarii Hotararii nr.49 adoptata de Consiliul Local al comunei Plopu la data de 24.06.2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223191",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-53-2025",
+   "path": "local/prahova/plopu/2025/53",
+   "short": "HCL Plopu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 53/2025 privind Aprobarea actului aditional nr.2, inregistrat in evidenta subscrisei sub nr.6170 din 01.08.2025, la contractul de lucrari nr.8851 din 27.09.2023 privind executie lucrari, inclusiv procurare si montaj dotari, pentru obiectivul de investitii «CONSOLIDARE, MODERNIZARE, REABILITARE, CRESTEREA EFICIENTEI ENERGETICE SI DOTARE – SCOALA CU CLASELE I – VIII, COMUNA PLOPU, JUDETUL PRAHOVA»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223192",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-54-2025",
+   "path": "local/prahova/plopu/2025/54",
+   "short": "HCL Plopu nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 54/2025 privind Aprobarea actului aditional nr.7, inregistrat in evidenta subscrisei sub nr.6216 din 01.08.2025, la contractul de lucrari nr.7696 din 21.08.2023 privind executie lucrari pentru obiectivul de investitii «CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE – SCOALA, SAT NISIPOASA, COMUNA PLOPU, JUDETUL PRAHOVA»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223193",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-55-2025",
+   "path": "local/prahova/plopu/2025/55",
+   "short": "HCL Plopu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 55/2025 privind Aprobarea actului aditional nr.7, inregistrat in evidenta subscrisei sub nr.6229 din 01.08.2025, la contractul de lucrari nr.7697 din 21.08.2023 privind executie lucrari pentru obiectivul de investitii «CLADIRILE PUBLICE – GRADINITA CU PROGRAM NORMAL, COMUNA PLOPU, SAT PLOPU, JUDETUL PRAHOVA»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223194",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-56-2025",
+   "path": "local/prahova/plopu/2025/56",
+   "short": "HCL Plopu nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 56/2025 privind Aprobarea actului aditional nr.4, inregistrat in evidenta subscrisei sub nr.6171 din 01.08.2025, la contractul de servicii nr.4221 din 28.04.2023 privind servicii de proiectare pentru «ACTUALIZARE A PLANULUI URBANISTIC GENERAL AL COMUNEI PLOPU, JUDETUL PRAHOVA», pentru proiectul: «Actualizare si elaborarea in format GIS a Planului Urbanistic General al comunei Plopu, judetul Prahova»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223195",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-57-2025",
+   "path": "local/prahova/plopu/2025/57",
+   "short": "HCL Plopu nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 57/2025 privind Aprobarea actului aditional nr.3, inregistrat in evidenta subscrisei sub nr.6215 din 01.08.2025, la contractul de lucrari nr.7470 din 08.08.2023 privind executia lucrarilor de extindere si modernizare pentru obiectivul de investitii «REABILITARE SI MODERNIZARE DRUMURI LOCALE SI COMUNALE DIN SATELE PLOPU SI NISIPOASA, COMUNA PLOPU, JUDETUL PRAHOVA»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223196",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-58-2025",
+   "path": "local/prahova/plopu/2025/58",
+   "short": "HCL Plopu nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 58/2025 privind Aprobarea actului aditional nr.3, inregistrat in evidenta subscrisei sub nr.6169 din 01.08.2025, la contractul nr.4480 din 31.05.2024 privind Servicii de proiectare, asistenta tehnica din partea proiectantului si executie lucrari pentru realizarea obiectivului de investitii: «EXTINDERE SISTEM DE ALIMENTARE CU APA SI SISTEM DE CANALIZARE IN SATELE HARSA SI GALMEIA, COMUNA PLOPU, JUDETUL PRAHOVA»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223197",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-59-2025",
+   "path": "local/prahova/plopu/2025/59",
+   "short": "HCL Plopu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 59/2025 privind Aprobarea actului aditional nr.1, inregistrat in evidenta subscrisei sub nr.6287 din 05.08.2025, la contractul de servicii nr.9736/ 2610 din 26.10.2023 privind servicii de consultanta pentru intocmirea documentatiei in vederea depunerii proiectului pentru «Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice» - primaria comunei Plopu",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223198",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-6-2025",
+   "path": "local/prahova/plopu/2025/6",
+   "short": "HCL Plopu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 6/2025 privind Aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici si a Devizului general pentru obiectivul de investitii “MODERNIZARE SI EXTINDERE RETEA DISTRIBUTIE GAZE NATURALE IN SATUL HARSA, COMUNA PLOPU, JUDETUL PRAHOVA”, finantat prin Programul National de Investitii \"Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/197938",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/197938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-60-2025",
+   "path": "local/prahova/plopu/2025/60",
+   "short": "HCL Plopu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 60/2025 privind Aprobarea actului aditional nr.1, inregistrat in evidenta subscrisei sub nr.6288 din 05.08.2025, la contractul de servicii nr.2100 din 29.02.2024 privind servicii de consultanta in vederea elaborarii cererii de finantare nerambursabila si anexele acesteia pentru proiectul «IMBUNATATIREA CALITATII APEI POTABILE IN COMUNA PLOPU, JUDETUL PRAHOVA»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223199",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-61-2025",
+   "path": "local/prahova/plopu/2025/61",
+   "short": "HCL Plopu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 61/2025 privind Aprobarea actului aditional nr.2, inregistrat in evidenta subscrisei sub nr.6172 din 01.08.2025, la contractul de servicii nr.6140 din 05.08.2024 privind «TRANSPUNEREA PLANULUI URBANISTIC GENERAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, IN FORMAT GIS»",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/223200",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/223200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-62-2025",
+   "path": "local/prahova/plopu/2025/62",
+   "short": "HCL Plopu nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 62/2025 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PENTRU LUNILE OCTOMBRIE, NOIEMBRIE SI DECEMBRIE ALE ANULUI 2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/225592",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/225592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-63-2025",
+   "path": "local/prahova/plopu/2025/63",
+   "short": "HCL Plopu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 63/2025 privind MODIFICAREA STRUCTURII ORGANIZATORICE A PRIMARIEI COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/225593",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/225593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-64-2025",
+   "path": "local/prahova/plopu/2025/64",
+   "short": "HCL Plopu nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 64/2025 privind Aprobarea proiectului: “STATII DE AUTOBUZ SMART PENTRU TRANSPORTUL PUBLIC DURABIL IN COMUNA PLOPU”",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/225594",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/225594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-65-2025",
+   "path": "local/prahova/plopu/2025/65",
+   "short": "HCL Plopu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 65/2025 privind Aprobarea includerii in inventarul apartinand domeniului privat al UAT comuna Plopu, judetul Prahova, a terenului in suprafata de 7.309 m.p. situat in comuna Plopu, sat Galmeia, tarla 42, parcela Cc 1969/2, cu nr. cadastral 25423",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/225595",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/225595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-66-2025",
+   "path": "local/prahova/plopu/2025/66",
+   "short": "HCL Plopu nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 66/2025 privind Atestarea unui bun imobil reprezentand drum, inscris in cartea funciara nr.25545 a comunei Plopu, care facand parte din inventarul bunurilor imobile alcatuind domeniul public al UAT comuna Plopu, judetul Prahova",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/225596",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/225596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-67-2025",
+   "path": "local/prahova/plopu/2025/67",
+   "short": "HCL Plopu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 67/2025 privind Aprobarea Acordului de ocupare temporara a unei suprafete de teren de 2 m.p. din terenul apartinand domeniului public al comunei Plopu, situata in zona parcarii publice din satul Plopu, str. Principala, nr.186 pentru amplasarea unui terminal automat de depozitare si livrare colete (locker EASYBOX)",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/225597",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/225597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-68-2025",
+   "path": "local/prahova/plopu/2025/68",
+   "short": "HCL Plopu nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 68/2025 privind RECTIFICAREA BUGETULUI LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, PE ANUL 2025, ESTIMARII PENTRU ANII 2026 – 2028 SI A LISTEI DE INVESTITII",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/229811",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/229811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-69-2025",
+   "path": "local/prahova/plopu/2025/69",
+   "short": "HCL Plopu nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 69/2025 privind Aprobarea Registrului local al spatiilor verzi la nivelul comunei Plopi, judetul Prahova",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/229812",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/229812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-7-2025",
+   "path": "local/prahova/plopu/2025/7",
+   "short": "HCL Plopu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 7/2025 privind MODIFICAREA HOTARARII NR.73 ADOPTATA DE CONSILIUL LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA, LA DATA DE 07.11.2024",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194769",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-70-2025",
+   "path": "local/prahova/plopu/2025/70",
+   "short": "HCL Plopu nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 70/2025",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/229813",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/229813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-71-2025",
    "path": "local/prahova/plopu/2025/71",
    "short": "HCL Plopu nr. 71/2025",
@@ -133,6 +958,21 @@
      "from": "2025-11-27",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/238150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-8-2025",
+   "path": "local/prahova/plopu/2025/8",
+   "short": "HCL Plopu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 8/2025 privind APROBAREA TAXEI DE INCHIRIERE SI A REGULAMENTULUI PRIVIND MODALITATEA DE INCHIRIERE A UTILAJULUI BULDOEXCAVATOR DIN PATRIMONIUL PRIMARIEI COMUNEI PLOPU, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/194770",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/194770",
      "sha256": null
     }
    ]

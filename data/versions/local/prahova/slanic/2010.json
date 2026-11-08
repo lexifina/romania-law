@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/slanic/2010",
+ "acts": [
+  {
+   "slug": "hcl-prahova--slanic-60-2010",
+   "path": "local/prahova/slanic/2010/60",
+   "short": "HCL Slănic nr. 60/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 60/2010 privind aprobarea Regulamentului de organizare si functionare al Aparatului de specialitate al Primarului orașului Slănic",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/Hot%20reg%20nou.doc",
+     "sha256": "9e187cc3d60508af93ed5f941da0131282f719e89fbe9a608fe1f26fb1f766f0"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,111 @@
  "shard": "local/prahova/salcia/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--salcia-1-2023",
+   "path": "local/prahova/salcia/2023/1",
+   "short": "HCL Salcia nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 1/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunilor de functionare ți dezvoltare,pentru anul 2022",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/86048",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/86048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-10-2023",
+   "path": "local/prahova/salcia/2023/10",
+   "short": "HCL Salcia nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 10/2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/91655",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/91655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-12-2023",
+   "path": "local/prahova/salcia/2023/12",
+   "short": "HCL Salcia nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 12/2023 prinvind aprobarea rețelei școlare a unitatilor de învatamant preuniversitar de stat, la nivelul comunei Salcia,județul Prahova",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/99452",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/99452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-13-2023",
+   "path": "local/prahova/salcia/2023/13",
+   "short": "HCL Salcia nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 13/2023 pentru validarea unor dispoziții ale primarului comunei Salcia privind rectificarea bugetului local pe anul 2023, emise prin autorizarea data de Consiliul local cu Hotărârea nr.4/30.01.2023 privind aprobarea bugetului local al comunei Salcia, pe anul 2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/99453",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/99453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-14-2023",
+   "path": "local/prahova/salcia/2023/14",
+   "short": "HCL Salcia nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 14/2023 privind aprobarea ”Planului anual de perfectionare profesională a funcționarilor publici și personalului contractual din cadrul aparartului de specialitate al primarului comunei Salcia,județul Prahova pentru anul 2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/99454",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/99454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-15-2023",
+   "path": "local/prahova/salcia/2023/15",
+   "short": "HCL Salcia nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 15/2023 privind aprobarea ”Planului de acțiuni sau lucrari de interes local, care va fi realizat în anul 2023 de către beneficiarii venitului minim garantat",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/99455",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/99455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-16-2023",
+   "path": "local/prahova/salcia/2023/16",
+   "short": "HCL Salcia nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 16/2023 privind aprobarea aplicarii prevederilor art.76 alin.(4) punctul i) din Codul Fiscal de acordare a unor drepturi salariatilor din cadrul aparatului de specialitate al primarului comunei Salcia,județul Prahova",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/99456",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/99456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--salcia-17-2023",
    "path": "local/prahova/salcia/2023/17",
    "short": "HCL Salcia nr. 17/2023",
@@ -298,6 +403,96 @@
      "from": "2024-02-15",
      "units": 1,
      "source_url": "https://emol.ro/salcia-ph/registru-hcl/132453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-4-2023",
+   "path": "local/prahova/salcia/2023/4",
+   "short": "HCL Salcia nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 4/2023 privind aprobarea bugetului local al comunei Salcia,județul Prahova , pe anul 2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/87362",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/87362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-5-2023",
+   "path": "local/prahova/salcia/2023/5",
+   "short": "HCL Salcia nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 5/2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/87363",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/87363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-6-2023",
+   "path": "local/prahova/salcia/2023/6",
+   "short": "HCL Salcia nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 6/2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/87364",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/87364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-7-2023",
+   "path": "local/prahova/salcia/2023/7",
+   "short": "HCL Salcia nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 7/2023",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/91652",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/91652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-8-2023",
+   "path": "local/prahova/salcia/2023/8",
+   "short": "HCL Salcia nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 8/2023 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru solutionarea situatiilor particulare indentificare la nivelul localitatii Salcia pe linia completării registrului agricol și care nu sunt reglementate de norme",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/91653",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/91653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-9-2023",
+   "path": "local/prahova/salcia/2023/9",
+   "short": "HCL Salcia nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 9/2023 privind aprobarea execuției bugetare pe sectiunea de funcționare și sectiunea de dezvoltare ale bugetului local al comunei Salcia, în trimestrul al IV-lea/2022",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/91654",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/91654",
      "sha256": null
     }
    ]

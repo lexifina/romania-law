@@ -3,6 +3,1011 @@
  "shard": "local/prahova/vadu-sapat/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--vadu-sapat-1-2025",
+   "path": "local/prahova/vadu-sapat/2025/1",
+   "short": "HCL Vadu Săpat nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 1/2025 privind acoperirea definitiva a deficitului Sectiunii de Dezvoltare a anului 2024 si stabilirea excedentului anilor precedenti",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/186118",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/186118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-10-2025",
+   "path": "local/prahova/vadu-sapat/2025/10",
+   "short": "HCL Vadu Săpat nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 10/2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/197238",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/197238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-11-2025",
+   "path": "local/prahova/vadu-sapat/2025/11",
+   "short": "HCL Vadu Săpat nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 11/2025 privind stabilirea spatiului necesar pentru colectarea separata a deseurilor de hartie si carton, sticla, materiale plastic si materiale textile, colectate de la locuitorii comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/197239",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/197239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-12-2025",
+   "path": "local/prahova/vadu-sapat/2025/12",
+   "short": "HCL Vadu Săpat nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 12/2025 privind aprobarea Planului anual de perfectionare profesionala a functionarilor publici din cadrul aparatului de specialitate al primarului, pentru anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/197240",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/197240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-13-2025",
+   "path": "local/prahova/vadu-sapat/2025/13",
+   "short": "HCL Vadu Săpat nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 13/2025 privind aprobarea bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/198629",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/198629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-14-2025",
+   "path": "local/prahova/vadu-sapat/2025/14",
+   "short": "HCL Vadu Săpat nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 14/2025 privind aprobarea Programului investitiilor publice pe anul 2025 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/198630",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/198630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-15-2025",
+   "path": "local/prahova/vadu-sapat/2025/15",
+   "short": "HCL Vadu Săpat nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 15/2025 privind aprobarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/198631",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/198631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-16-2025",
+   "path": "local/prahova/vadu-sapat/2025/16",
+   "short": "HCL Vadu Săpat nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 16/2025 privind aprobarea Programului de aprovizionare cu produse agroalimentare ce urmeaza a fi distribuite rationalizat populatiei localitatii Vadu Sapat, in caz de mobilizare sau razboi",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/198632",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/198632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-17-2025",
+   "path": "local/prahova/vadu-sapat/2025/17",
+   "short": "HCL Vadu Săpat nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 17/2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/198633",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/198633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-18-2025",
+   "path": "local/prahova/vadu-sapat/2025/18",
+   "short": "HCL Vadu Săpat nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 18/2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/202290",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/202290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-19-2025",
+   "path": "local/prahova/vadu-sapat/2025/19",
+   "short": "HCL Vadu Săpat nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 19/2025 privind aprobarea completarii Strategiei de dezvoltare locala a comunei Vadu Sapat pentru perioada 2021-2027",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/205880",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/205880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-20-2025",
+   "path": "local/prahova/vadu-sapat/2025/20",
+   "short": "HCL Vadu Săpat nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 20/2025 privind aprobarea documentaţiei tehnico-economică faza Studiu de fezabilitate și Proiect tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții „Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al operatorilor economici și al autorităților publice, prin investiții în dezvoltarea infrastructurii, serviciilor și echipamentelor IT relevante și necesare la nivelul comunei Vadu Sapat, județul Prahova”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/205881",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/205881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-21-2025",
+   "path": "local/prahova/vadu-sapat/2025/21",
+   "short": "HCL Vadu Săpat nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 21/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect „Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al operatorilor economici și al autorităților publice, prin investiții în dezvoltarea infrastructurii, serviciilor și echipamentelor IT relevante și necesare la nivelul comunei Vadu Sapat, județul Prahova”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/205882",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/205882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-24-2025",
+   "path": "local/prahova/vadu-sapat/2025/24",
+   "short": "HCL Vadu Săpat nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 24/2025 privind dezmembrarea imobilului cu nr. cadastral 25391, in suprafata de 11695 mp, situat in com. Vadu Sapat, sat Ungureni, T 75, Cc 2280",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/205885",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/205885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-25-2025",
+   "path": "local/prahova/vadu-sapat/2025/25",
+   "short": "HCL Vadu Săpat nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 25/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/205886",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/205886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-26-2025",
+   "path": "local/prahova/vadu-sapat/2025/26",
+   "short": "HCL Vadu Săpat nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 26/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general ai obiectivului de investiții Grădiniță cu program normal, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/205887",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/205887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-27-2025",
+   "path": "local/prahova/vadu-sapat/2025/27",
+   "short": "HCL Vadu Săpat nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 27/2025 privind alegerea presedintelui de sedinta pentru perioada MAI 2025 - IULIE 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210594",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-28-2025",
+   "path": "local/prahova/vadu-sapat/2025/28",
+   "short": "HCL Vadu Săpat nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 28/2025 privind aprobarea Planului Anual de Actiune privind serviciile sociale pentru anul 2025, la nivelul comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210595",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-29-2025",
+   "path": "local/prahova/vadu-sapat/2025/29",
+   "short": "HCL Vadu Săpat nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 29/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210596",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-3-2025",
+   "path": "local/prahova/vadu-sapat/2025/3",
+   "short": "HCL Vadu Săpat nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 3/2025 privind stabilirea unor situatii deosebite in vederea acordarii unor ajutoare de urgenta, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/192253",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/192253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-30-2025",
+   "path": "local/prahova/vadu-sapat/2025/30",
+   "short": "HCL Vadu Săpat nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 30/2025 privind modificarea Programului investitiilor publice pe anul 2025 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210597",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-31-2025",
+   "path": "local/prahova/vadu-sapat/2025/31",
+   "short": "HCL Vadu Săpat nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 31/2025 privind modificarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210598",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-32-2025",
+   "path": "local/prahova/vadu-sapat/2025/32",
+   "short": "HCL Vadu Săpat nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 32/2025 privind aprobarea procedurii de concesionare prin licitatie publica a unui teren intravilan, proprietatea UAT Vadu Sapat, categorie de folosinta arabil, in suprafata de 4880 mp situat in T 75, p 2280/26, Nr. Cadastral 25356",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210599",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-34-2025",
+   "path": "local/prahova/vadu-sapat/2025/34",
+   "short": "HCL Vadu Săpat nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 34/2025 privind modificarea art.6 din HCL nr.25/28.04.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului„Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/210601",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/210601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-35-2025",
+   "path": "local/prahova/vadu-sapat/2025/35",
+   "short": "HCL Vadu Săpat nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 35/2025 privind aprobarea modificarii statului de functii si a organigramei aparatului de specialitate al primarului comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/212789",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/212789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-36-2025",
+   "path": "local/prahova/vadu-sapat/2025/36",
+   "short": "HCL Vadu Săpat nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 36/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214033",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-37-2025",
+   "path": "local/prahova/vadu-sapat/2025/37",
+   "short": "HCL Vadu Săpat nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 37/2025 privind modificarea Programului investitiilor publice pe anul 2025 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214034",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-38-2025",
+   "path": "local/prahova/vadu-sapat/2025/38",
+   "short": "HCL Vadu Săpat nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 38/2025 privind modificarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214035",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-39-2025",
+   "path": "local/prahova/vadu-sapat/2025/39",
+   "short": "HCL Vadu Săpat nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 39/2025 privind includerea în domeniul public al comunei Vadu Sapat, ca urmare a recepției, a investiţiei „EXTINDERE RETELE DE CANALIZARE IN SATUL UNGURENI, COMUNA VADU SAPAT, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214036",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-4-2025",
+   "path": "local/prahova/vadu-sapat/2025/4",
+   "short": "HCL Vadu Săpat nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 4/2025 privind aprobarea Planului de actiuni si lucrari de interes local al beneficiarilor de ajutor social, pentru anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/192254",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/192254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-40-2025",
+   "path": "local/prahova/vadu-sapat/2025/40",
+   "short": "HCL Vadu Săpat nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 40/2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214037",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-41-2025",
+   "path": "local/prahova/vadu-sapat/2025/41",
+   "short": "HCL Vadu Săpat nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 41/2025 privind aprobarea principalilor indicatori tehnico-economici si a Devizului general aferent obiectivului „EXECUTIE SANTURI SI RIGOLE DS 22, COMUNA VADU SAPAT, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214038",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-42-2025",
+   "path": "local/prahova/vadu-sapat/2025/42",
+   "short": "HCL Vadu Săpat nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 42/2025 privind modificarea componentei echipelor Seviciului Voluntar pentru Situatii de Urgenta, la nivelul Comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214039",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-43-2025",
+   "path": "local/prahova/vadu-sapat/2025/43",
+   "short": "HCL Vadu Săpat nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 43/2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214040",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-44-2025",
+   "path": "local/prahova/vadu-sapat/2025/44",
+   "short": "HCL Vadu Săpat nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 44/2025 privind revocarea Hotararii Consiliului Local nr. 32/29.05.2025 privind aprobarea procedurii de concesionare prin licitatie publica a unui teren intravilan, proprietatea UAT Vadu Sapat, categorie de folosinta arabil, in suprafata de 4880 mp situat in T 75, p 2280/26, Nr. Cadastral 25356",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/214041",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/214041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-45-2025",
+   "path": "local/prahova/vadu-sapat/2025/45",
+   "short": "HCL Vadu Săpat nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 45/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/218104",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/218104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-46-2025",
+   "path": "local/prahova/vadu-sapat/2025/46",
+   "short": "HCL Vadu Săpat nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 46/2025 privind modificarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/218105",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/218105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-47-2025",
+   "path": "local/prahova/vadu-sapat/2025/47",
+   "short": "HCL Vadu Săpat nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 47/2025 privind modificarea Programului investitiilor publice pe anul 2025 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/218106",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/218106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-48-2025",
+   "path": "local/prahova/vadu-sapat/2025/48",
+   "short": "HCL Vadu Săpat nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 48/2025 privind actualizarea devizului general la finalizarea lucrarilor de executie pentru obiectivul „EXTINDERE RETELE DE CANALIZARE IN SATUL UNGURENI, COMUNA VADU SAPAT, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/218107",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/218107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-49-2025",
+   "path": "local/prahova/vadu-sapat/2025/49",
+   "short": "HCL Vadu Săpat nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 49/2025 privind aprobarea Raportului privind monitorizarea activitatii asistentilor personali, pe semestrul I, anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/218108",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/218108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-5-2025",
+   "path": "local/prahova/vadu-sapat/2025/5",
+   "short": "HCL Vadu Săpat nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 5/2025 privind aprobarea Raportului privind monitorizarea activitatii asistentilor personali, pe semestrul II, anul 2024",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/192255",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/192255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-50-2025",
+   "path": "local/prahova/vadu-sapat/2025/50",
+   "short": "HCL Vadu Săpat nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 50/2025 privind modificarea pozitiei nr.28 din Inventarul bunurilor care aparțin domeniului public al comunei Vadu Sapat, însușit prin Hotărârea Consiliului local nr. 5/27.02.2007 și atestat în Anexa nr. 2, la Hotărârea Guvernului nr. 744/2007 pentru modificarea si completarea Hotararii Guvernului nr. 1.359/2001 privind atestarea domeniului public al judetului Prahova, precum si al municipiilor,oraselor si comunelor din judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/218109",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/218109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-51-2025",
+   "path": "local/prahova/vadu-sapat/2025/51",
+   "short": "HCL Vadu Săpat nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 51/2025 pentru modificarea HCL 26/28.04.2025 privind aprobarea indicatoriilor tehnico-economici si a devizului general ai obiectivului de investiții Gradinita cu program normal, comuna Vadu Sapat inclus la finantare in Programul national de investitii “Scoli sigure si sanatoase”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223100",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-52-2025",
+   "path": "local/prahova/vadu-sapat/2025/52",
+   "short": "HCL Vadu Săpat nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 52/2025 privind alegerea presedintelui de sedinta pentru perioada AUGUST 2025 - OCTOMBRIE 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223105",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-53-2025",
+   "path": "local/prahova/vadu-sapat/2025/53",
+   "short": "HCL Vadu Săpat nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 53/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223106",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-54-2025",
+   "path": "local/prahova/vadu-sapat/2025/54",
+   "short": "HCL Vadu Săpat nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 54/2025 privind revocarea Hotararii Consiliului Local nr. 50/24.07.2025 privind modificarea pozitiei nr.28 din Inventarul bunurilor care aparțin domeniului public al comunei Vadu Sapat, însușit prin Hotărârea Consiliului local nr. 5/27.02.2007 și atestat în Anexa nr. 2, la Hotărârea Guvernului nr. 744/2007 pentru modificarea si completarea Hotararii Guvernului nr. 1.359/2001 privind atestarea domeniului public al judetului Prahova, precum si al municipiilor,oraselor si comunelor din judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223107",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-55-2025",
+   "path": "local/prahova/vadu-sapat/2025/55",
+   "short": "HCL Vadu Săpat nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 55/2025 privind recompensarea elevilor pentru rezultate şcolare deosebite",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223108",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-56-2025",
+   "path": "local/prahova/vadu-sapat/2025/56",
+   "short": "HCL Vadu Săpat nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 56/2025 privind dezmembrarea imobilului cu nr. cadastral 25210 situat in com. Vadu Sapat, sat Ungureni, T 13",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223109",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-57-2025",
+   "path": "local/prahova/vadu-sapat/2025/57",
+   "short": "HCL Vadu Săpat nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 57/2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/223110",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/223110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-6-2025",
+   "path": "local/prahova/vadu-sapat/2025/6",
+   "short": "HCL Vadu Săpat nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 6/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Asfaltare strazi de interes local in comuna Vadu Sapat, judetul Prahova”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/192256",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/192256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-60-2025",
+   "path": "local/prahova/vadu-sapat/2025/60",
+   "short": "HCL Vadu Săpat nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 60/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/226002",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/226002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-61-2025",
+   "path": "local/prahova/vadu-sapat/2025/61",
+   "short": "HCL Vadu Săpat nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 61/2025 privind modificarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/226003",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/226003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-62-2025",
+   "path": "local/prahova/vadu-sapat/2025/62",
+   "short": "HCL Vadu Săpat nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 62/2025 privind modificarea Programului investitiilor publice pe anul 2025 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/226004",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/226004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-63-2025",
+   "path": "local/prahova/vadu-sapat/2025/63",
+   "short": "HCL Vadu Săpat nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 63/2025 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici la obiectivul de investiție “EXTINDERE RETELE ELECTRICE IN COMUNA VADU SAPAT, ZONA CARTIER NOU, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/226005",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/226005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-64-2025",
+   "path": "local/prahova/vadu-sapat/2025/64",
+   "short": "HCL Vadu Săpat nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 64/2025 privind actualizarea taxei speciale de salubrizare instituite pe raza comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/226006",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/226006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-67-2025",
+   "path": "local/prahova/vadu-sapat/2025/67",
+   "short": "HCL Vadu Săpat nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 67/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/229988",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/229988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-68-2025",
+   "path": "local/prahova/vadu-sapat/2025/68",
+   "short": "HCL Vadu Săpat nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 68/2025 privind modificarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/229989",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/229989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-69-2025",
+   "path": "local/prahova/vadu-sapat/2025/69",
+   "short": "HCL Vadu Săpat nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 69/2025 privind modificarea Programului investitiilor publice pe anul 2025 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/229990",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/229990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-7-2025",
+   "path": "local/prahova/vadu-sapat/2025/7",
+   "short": "HCL Vadu Săpat nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 7/2025 privind introducerea in Programul Naţional de investiţii \"Şcoli sigure şi sănătoase\" a obiectivului -Grădiniță cu program normal, comuna Vadu Sapat",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/193378",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/193378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-70-2025",
+   "path": "local/prahova/vadu-sapat/2025/70",
+   "short": "HCL Vadu Săpat nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 70/2025 privind alegerea presedintelui de sedinta pentru perioada OCTOMBRIE 2025 - DECEMBRIE 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/231378",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/231378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-72-2025",
+   "path": "local/prahova/vadu-sapat/2025/72",
+   "short": "HCL Vadu Săpat nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 72/2025 privind actualizarea pozitiei nr. 28 din Inventarul bunurilor care aparțin domeniului public al comunei Vadu Sapat, însușit prin Hotărârea Consiliului local nr. 5/27.02.2007 și atestat în Anexa nr. 2, la Hotărârea Guvernului nr. 744/2007 pentru modificarea si completarea Hotararii Guvernului nr. 1.359/2001 privind atestarea domeniului public al judetului Prahova, precum si al municipiilor,oraselor si comunelor din judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/231380",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/231380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-73-2025",
+   "path": "local/prahova/vadu-sapat/2025/73",
+   "short": "HCL Vadu Săpat nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 73/2025 privind aprobarea trecerii din domeniul public în domeniul privat al comunei Vadu Sapat a imobilului teren, în suprafaţă de 4880 mp, situat in Tarla 75, parcela 2280/26, nr.cadastral 25356",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/231381",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/231381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-74-2025",
+   "path": "local/prahova/vadu-sapat/2025/74",
+   "short": "HCL Vadu Săpat nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 74/2025 privind inventarierea in domeniul privat al UAT Comuna Vadu Sapat a terenului situat in Tarla 75, parcela 2280/26, nr. cadastral 25356, in suprafaţă de 4880 mp din comuna Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/231382",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/231382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-75-2025",
+   "path": "local/prahova/vadu-sapat/2025/75",
+   "short": "HCL Vadu Săpat nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 75/2025 privind inventarierea in domeniul privat al UAT Comuna Vadu a terenului situat in Tarla 78, parcela 2320/1, numar cadastral 22436, in suprafata de 112.550 mp din comuna Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/231383",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/231383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-76-2025",
+   "path": "local/prahova/vadu-sapat/2025/76",
+   "short": "HCL Vadu Săpat nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 76/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/231384",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/231384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-77-2025",
+   "path": "local/prahova/vadu-sapat/2025/77",
+   "short": "HCL Vadu Săpat nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 77/2025 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/234508",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/234508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-78-2025",
+   "path": "local/prahova/vadu-sapat/2025/78",
+   "short": "HCL Vadu Săpat nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 78/2025 privind modificarea utilizarii excedentului anilor precedenti , in suma de 1.852.270 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/234509",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/234509",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-79-2025",
    "path": "local/prahova/vadu-sapat/2025/79",
    "short": "HCL Vadu Săpat nr. 79/2025",
@@ -13,6 +1018,21 @@
      "from": "2025-11-20",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/234510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-8-2025",
+   "path": "local/prahova/vadu-sapat/2025/8",
+   "short": "HCL Vadu Săpat nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 8/2025 privind alegerea presedintelui de sedinta pentru perioada FEBRUARIE 2025 - APRILIE 2025",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/197236",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/197236",
      "sha256": null
     }
    ]
@@ -163,6 +1183,21 @@
      "from": "2025-12-16",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/236962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-9-2025",
+   "path": "local/prahova/vadu-sapat/2025/9",
+   "short": "HCL Vadu Săpat nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 9/2025 privind dezmembrarea imobilului cu nr. cadastral 25237 situat in com. Vadu Sapat, sat Ungureni, T 76, Cc 2288, Dr. 2288",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/197237",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/197237",
      "sha256": null
     }
    ]

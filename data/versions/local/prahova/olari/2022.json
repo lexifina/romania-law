@@ -3,6 +3,81 @@
  "shard": "local/prahova/olari/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--olari-1-2022",
+   "path": "local/prahova/olari/2022/1",
+   "short": "HCL Olari nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 1/2022 privind aprobarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/olari-ph/registru-hcl/52610",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/52610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-10-2022",
+   "path": "local/prahova/olari/2022/10",
+   "short": "HCL Olari nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 10/2022 privind aprobarea Planului anual de actiune privind serviciile Sociale administrate și finantate din bugetul consiliului local, pentru anul 2022, la nivelul comunei Olari, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/61241",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/61241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-11-2022",
+   "path": "local/prahova/olari/2022/11",
+   "short": "HCL Olari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 11/2022 privind aprobarea planului de actiuni sau de lucrari de interes local pentru repartizarea orelor de munca persoanelor majore apte de munca, beneficiare ale Legii 416/2001, legea venitului minim garantat, cu modificari si completari, pentru anul 2022, initiat de primar ;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/61242",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/61242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-12-2022",
+   "path": "local/prahova/olari/2022/12",
+   "short": "HCL Olari nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 12/2022 Privind acordarea de catre consiliul local a unui mandat special cu drept de vot, unui consilier local pentru reprezentarea institutiei in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara „ Parteneriatul pentru Managementul Apei – Prahova” , pentru a vota modificarea/actualizarea si revizuirea Statutului si a Actului Constitutiv ale Asociatiei, prin incheierea de acte aditionale",
+   "url": "https://emol.ro/olari-ph/registru-hcl/63368",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/63368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-14-2022",
+   "path": "local/prahova/olari/2022/14",
+   "short": "HCL Olari nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 14/2022 privind acordarea de catre consiliul local a unui mandat special cu drept de vot, unui reprezentant al institutiei in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara „ Parteneriatul pentru Managementul Apei – Prahova” , pentru a vota aprobarea Studiului de Fezabilitate, Indicatorii Tehnico Economici, Strategia de Tarifare si Cofinantarea Obiectivului de Investitii, din cadrul „Proiectului Regional de dezvoltare a infrastructurii de apa si apa uzata din Judetul Prahova”, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/63370",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/63370",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-15-2022",
    "path": "local/prahova/olari/2022/15",
    "short": "HCL Olari nr. 15/2022",
@@ -73,6 +148,21 @@
      "from": "2022-08-31",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/80018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-2-2022",
+   "path": "local/prahova/olari/2022/2",
+   "short": "HCL Olari nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 2/2022 privind aprobarea utilizarii excedentului bugetar din anul 2021, ca sursa de finantare a cheltuielilor sectiunii de dezvoltare, in anul 2022",
+   "url": "https://emol.ro/olari-ph/registru-hcl/52611",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/52611",
      "sha256": null
     }
    ]
@@ -228,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-3-2022",
+   "path": "local/prahova/olari/2022/3",
+   "short": "HCL Olari nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 3/2022 privind acordarea de catre consiliul local a unui mandat special cu drept de vot, unui consilier local pentru reprezentarea institutiei in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara „ Parteneriatul pentru Managementul Deseurilor – Prahova”",
+   "url": "https://emol.ro/olari-ph/registru-hcl/52612",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/52612",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-30-2022",
    "path": "local/prahova/olari/2022/30",
    "short": "HCL Olari nr. 30/2022",
@@ -298,6 +403,66 @@
      "from": "2023-03-07",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/93767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-4-2022",
+   "path": "local/prahova/olari/2022/4",
+   "short": "HCL Olari nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 4/2022 privind aprobarea reţelei scolare a unitatilor de invatamant preuniversitar de stat pentru anul scolar 2022-2023 din Comuna Olari, initiat de primar",
+   "url": "https://emol.ro/olari-ph/registru-hcl/52613",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/52613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-6-2022",
+   "path": "local/prahova/olari/2022/6",
+   "short": "HCL Olari nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 6/2022 privind aprobarea rectificarii bugetului local, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/61237",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/61237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-8-2022",
+   "path": "local/prahova/olari/2022/8",
+   "short": "HCL Olari nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 8/2022 privind acordarea de catre consiliul local a unui mandat special cu drept de vot, unui consilier local in vederea aprobarii Statutului Adunarii Generale a Asociatiilor- Asociatiei de Dezvoltare Intercomunitara „ Parteneriatul pentru Managementul Deseurilor – Prahova”, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/61239",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/61239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-9-2022",
+   "path": "local/prahova/olari/2022/9",
+   "short": "HCL Olari nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 9/2022 privind aprobarea Strategiei de dezvoltare a serviciilor sociale, pentru perioada 2022-2027, la nivelul Comunei Olari, judetul Prahova, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/61240",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/61240",
      "sha256": null
     }
    ]

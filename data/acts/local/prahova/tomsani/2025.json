@@ -3,6 +3,28 @@
 "shard": "local/prahova/tomsani/2025",
 "acts": [
 {
+"slug": "hcl-prahova--tomsani-29-2025",
+"path": "local/prahova/tomsani/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 29/2025 privind aprobarea documentaţiei urbanistice “Actualizarea Planului Urbanistic General Comuna Tomsani, judeţul Prahova şi a Regulamentului Local de Urbanism aferent”",
+"short": "HCL Tomșani nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/tomsani-ph/registru-hcl/214202",
+"council": "prahova/tomsani",
+"council_name": "Consiliul Local al Comunei Tomșani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--tomsani-50-2025",
 "path": "local/prahova/tomsani/2025/50",
 "kind": "local",

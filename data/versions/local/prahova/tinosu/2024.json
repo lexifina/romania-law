@@ -3,6 +3,66 @@
  "shard": "local/prahova/tinosu/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--tinosu-31-2024",
+   "path": "local/prahova/tinosu/2024/31",
+   "short": "HCL Tinosu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 31/2024 privind includerea în domeniul public al comunei Tinosu, ca urmare a recepţiei, a investiţiei „Înfiinţare reţea de canalizare şi staţie de epurare ape uzate menajere în satele Tinosu, Pisculeşti şi Predeşti, comuna Tinosu, judeţul Prahova”",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/164978",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/164978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-32-2024",
+   "path": "local/prahova/tinosu/2024/32",
+   "short": "HCL Tinosu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 32/2024",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/164979",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/164979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-34-2024",
+   "path": "local/prahova/tinosu/2024/34",
+   "short": "HCL Tinosu nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 34/2024",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/164981",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/164981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--tinosu-36-2024",
+   "path": "local/prahova/tinosu/2024/36",
+   "short": "HCL Tinosu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tinosu nr. 36/2024 privind rectificarea bugetului local al comunei Tinosu pe anul 2024 şi estimări pentru anii 2025-2027",
+   "url": "https://emol.ro/tinosu-ph/registru-hcl/165633",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tinosu-ph/registru-hcl/165633",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--tinosu-38-2024",
    "path": "local/prahova/tinosu/2024/38",
    "short": "HCL Tinosu nr. 38/2024",

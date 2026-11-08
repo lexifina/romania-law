@@ -3,6 +3,116 @@
 "shard": "local/prahova/sotrile/2022",
 "acts": [
 {
+"slug": "hcl-prahova--sotrile-7-2022",
+"path": "local/prahova/sotrile/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 7/2022 privind aprobarea utilizării în anul 2022 a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar aferent anului 2021",
+"short": "HCL Șotrile nr. 7/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/51153",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-8-2022",
+"path": "local/prahova/sotrile/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 8/2022 privind aprobarea bugetului de venituri si cheltuieli pe anul 2022 si estimarile pentru anii 2023-2025",
+"short": "HCL Șotrile nr. 8/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/51154",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-16-2022",
+"path": "local/prahova/sotrile/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 16/2022 privind modificarea taxei speciale pentru utilizatorii – beneficiari ai serviciului de salubrizare din comunei Șotrile, care nu au încheiat contract de prestări – servicii cu operatorul de salubrizare",
+"short": "HCL Șotrile nr. 16/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/54951",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-22-2022",
+"path": "local/prahova/sotrile/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 22/2022 privind inițierea demersurilor de actualizare a Planului Urbanistic General al comunei Șotrile precum și a Regulamentului local de Urbanism aferent acestuia",
+"short": "HCL Șotrile nr. 22/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/61653",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-30-2022",
+"path": "local/prahova/sotrile/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 30/2022 privind aprobarea Planului de integritate, aferent Strategiei Naționale Anticorupție, ciclul strategic 2021-2025",
+"short": "HCL Șotrile nr. 30/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-08",
+"latest": "2022-06-08",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/62884",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-56-2022",
 "path": "local/prahova/sotrile/2022/56",
 "kind": "local",

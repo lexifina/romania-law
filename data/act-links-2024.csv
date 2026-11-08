@@ -510,15 +510,15 @@ legea-38-2024,oug-104-2020,approves,,2024-09-21,,Proiect de Lege pentru aprobare
 legea-18-2024,oug-131-2020,rejects,,2025-01-26,,Proiect de Lege pentru respingerea O.U.G. nr. 131/2020,,,bill file; title,1
 legea-46-2024,oug-153-2020,rejects,,2024-04-19,,Proiect de Lege pentru respingerea O.U.G. nr. 153/2020,,,bill file; title,1
 legea-158-2024,oug-7-2020,rejects,,2024-06-19,,Proiect de Lege pentru respingerea O.U.G. nr. 7/2020,,,bill file; title,1
-legea-95-2024,oug-24-2020,approves,,2024-05-21,,Proiect de Lege pentru aprobarea O.U.G. nr. 24/2020,,,bill file; title,1
 legea-117-2024,oug-166-2020,rejects,,2025-01-18,,Proiect de Lege pentru respingerea O.U.G. nr. 166/2020,,,bill file; title,1
+legea-95-2024,oug-24-2020,approves,,2024-05-21,,Proiect de Lege pentru aprobarea O.U.G. nr. 24/2020,,,bill file; title,1
 legea-178-2024,oug-22-2021,approves,,2024-04-19,,Proiect de Lege pentru aprobarea O.U.G. nr. 22/2021,,,bill file; title,1
 legea-149-2024,oug-56-2021,approves,,2024-07-22,,Proiect de Lege pentru aprobarea O.U.G. nr. 56/2021,,,bill file; title,1
 legea-133-2024,oug-57-2021,approves,,2024-05-21,,Proiect de Lege pentru aprobarea O.U.G. nr. 57/2021,,,bill file; title,1
 legea-134-2024,oug-83-2021,approves,,2024-06-25,,Proiect de Lege pentru aprobarea O.U.G. nr. 83/2021,,,bill file; title,1
 legea-256-2024,oug-117-2021,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 117/2021,,,bill file; title,1
-legea-179-2024,oug-19-2021,approves,,2024-06-15,,Proiect de Lege pentru aprobarea O.U.G. nr. 19/2021,,,bill file; title,1
 legea-320-2024,oug-170-2020,approves,,2022-11-04,,Proiect de Lege pentru aprobarea O.U.G. nr. 170/2020,,,bill file; title,1
+legea-179-2024,oug-19-2021,approves,,2024-06-15,,Proiect de Lege pentru aprobarea O.U.G. nr. 19/2021,,,bill file; title,1
 legea-32-2024,oug-199-2020,approves,,2024-04-22,,Proiect de Lege pentru aprobarea O.U.G. nr. 199/2020,,,bill file; title,1
 legea-110-2024,legea-212-2015,amends,,2023-09-22,,Proiect de Lege pentru modificarea L. nr. 212/2015,,,bill file; title,1
 legea-36-2024,oug-12-2022,approves,,2023-12-09,,Proiect de Lege pentru aprobarea O.U.G. nr. 12/2022,,,bill file; title,1
@@ -1019,6 +1019,7 @@ hcl-alba--alba-iulia-14-2024,hcl-alba--alba-iulia-4-2024,amends,,,,privind modif
 hcl-alba--alba-iulia-339-2024,hcl-alba--alba-iulia-3-2024,amends,,,,privind modificarea si completarea hotararii nr. 3/2024,,,title,0
 hcl-alba--cugir-269-2024,hcl-alba--cugir-213-2018,amends,,,,pentru modificarea hcl nr. 213/2018,,,title,0
 hcl-alba--cugir-280-2024,hcl-alba--cugir-255-2024,amends,,,,privind completarea hcl nr.255/2024,,,title,0
+hcl-alba--sebes-38-2024,hcl-alba--sebes-378-2023,amends,,,,privind modificarea si completarea hcl nr.378/2023,,,title,0
 hcl-arad--apateu-47-2024,hcl-arad--apateu-34-2024,amends,,,,privind modificarea hcl nr. 34/2024,,,title,0
 hcl-arad--apateu-57-2024,hcl-arad--apateu-17-1999,amends,,,,privind completarea anexei la hotararea consiliului local al comunei apateu nr.17/1999,,,title,0
 hcl-arad--apateu-83-2024,hcl-arad--apateu-17-1999,amends,,,,privind completarea anexei la hotararea consiliului local al comunei apateu nr.17/1999,,,title,0
@@ -1135,34 +1136,59 @@ hcl-cluj--turda-60-2024,hcl-cluj--turda-31-2024,amends,,,,privind modificarea si
 hcl-cluj--turda-226-2024,hcl-cluj--turda-37-2024,amends,,,,privind modificarea articolului 1 la hcl nr. 37 din 28.03.2024,,,title,0
 hcl-cluj--turda-243-2024,hcl-cluj--turda-156-2002,amends,,,,privind modificarea si completarea anexei la hcl nr. 156/2002,,,title,0
 hcl-constanta--adamclisi-52-2024,hcl-constanta--adamclisi-46-2024,amends,,,,privind modificarea hotararii consiliului local al comunei adamclisi nr. 46 din 15.11.2024,,,title,0
+hcl-constanta--aliman-40-2024,hcl-constanta--aliman-50-2023,amends,,,,privind modificarea hotararii consiliului local aliman nr. 50 din 31 octombrie 2023,,,title,0
 hcl-constanta--aliman-60-2024,hcl-constanta--aliman-34-2024,amends,,,,privind modificarea hotararii consiliului local aliman nr. 34 din 30 aprilie 2024,,,title,0
 hcl-constanta--aliman-72-2024,hcl-constanta--aliman-68-2024,amends,,,,privind modificarea hotararii consiliului local al comunei aliman nr. 68 din 18 noiembrie 2024,,,title,0
 hcl-constanta--castelu-124-2024,hcl-constanta--castelu-44-2024,amends,,,,privind modificarea pozitiei nr. 22 din anexa- taxe speciale si taxe locale din hcl nr. 44 din 26 aprilie 2024,,,title,0
+hcl-constanta--crucea-43-2024,hcl-constanta--crucea-39-2024,revokes,,,,privind revocarea hotararii nr.39/2024,,,title,0
+hcl-constanta--crucea-58-2024,hcl-constanta--crucea-15-2024,corrects,,,,"privind indreptarea erorii materiale de la art.1, punctul e) din hotararea consiliului local nr.15 din 21.02.2024",,,title,0
+hcl-constanta--crucea-68-2024,hcl-constanta--crucea-35-2024,corrects,,,,privind indreptarea erorii materiale de la articolul 5 si articolul 6 din hotararea consiliului local nr.35din 22.04.202,,,title,0
 hcl-constanta--negru-voda-42-2024,hcl-constanta--negru-voda-33-2024,amends,,,,privind modificarea hotararii consiliului local al orasului negru voda nr.33 din 22 mai 2024,,,title,0
+hcl-constanta--ostrov-52-2024,hcl-constanta--ostrov-70-2023,amends,,,,privind modificarea hcl 43/21.08.2024 privind aprobarea actualizarii hcl nr 70 din 17.10.2023,,,title,0
 hcl-constanta--poarta-alba-144-2024,hcl-constanta--poarta-alba-83-2024,revokes,,,,privind revocarea hotararii consiliului local nr. 83 din 24.07.2024,,,title,0
 hcl-constanta--techirghiol-214-2024,hcl-constanta--techirghiol-12-2015,amends,,,,privind modificarea si completarea hotararii de consiliu local nr. 12/2015,,,title,0
 hcl-constanta--techirghiol-217-2024,hcl-constanta--techirghiol-58-2023,amends,,,,privind modificarea si completarea hotararii de consiliu local nr. 58/2023,,,title,0
+hcl-constanta--topraisar-32-2024,hcl-constanta--topraisar-73-2023,amends,,,,privind completarea hotararii consiliului local al comunei topraisar nr. 73 din 21.11.2023,,,title,0
 hcl-constanta--vulturu-47-2024,hcl-constanta--vulturu-36-2024,amends,,,,privind modificarea si completarea hotararii consiliului local al comunei vulturu nr. 36 din 15.10.2024,,,title,0
+hcl-covasna--aita-mare-46-2024,hcl-covasna--aita-mare-9-2024,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului local aita mare nr.9/2024,,,title,0
+hcl-covasna--aita-mare-57-2024,hcl-covasna--aita-mare-9-2024,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului local aita mare nr.9/2024,,,title,0
+hcl-covasna--aita-mare-70-2024,hcl-covasna--aita-mare-9-2024,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului local aita mare nr.9/2024,,,title,0
 hcl-covasna--aita-mare-88-2024,hcl-covasna--aita-mare-49-2024,amends,,,,pentru modificarea hotararii consiliului local aita mare nr.49/2024,,,title,0
 hcl-covasna--aita-mare-91-2024,hcl-covasna--aita-mare-9-2024,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului local aita mare nr.9/2024,,,title,0
 hcl-covasna--aita-mare-100-2024,hcl-covasna--aita-mare-9-2024,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului local aita mare nr.9/2024,,,title,0
+hcl-covasna--zagon-21-2024,hcl-covasna--zagon-51-2023,amends,,,,privind modificarea hcl nr. 51/2023,,,title,0
+hcl-covasna--zagon-27-2024,hcl-covasna--zagon-18-2024,revokes,,,,privind revocarea hotararii consiliului local nr. 18/2024,,,title,0
+hcl-covasna--zagon-34-2024,hcl-covasna--zagon-60-2023,amends,,,,privind modificarea hotararii consiliului local al comunei zagon nr. 60/2023,,,title,0
+hcl-covasna--zagon-36-2024,hcl-covasna--zagon-62-2023,amends,,,,privind modificarea hotararii consiliului local al comunei zagon nr. 62/2023,,,title,0
+hcl-covasna--zagon-37-2024,hcl-covasna--zagon-61-2023,amends,,,,privind modificarea hotararii consiliului local al comunei zagon nr. 61/2023,,,title,0
+hcl-covasna--zagon-43-2024,hcl-covasna--zagon-21-2024,amends,,,,privind modificarea hcl nr. 21/2024,,,title,0
 hcl-covasna--zagon-71-2024,hcl-covasna--zagon-43-2024,amends,,,,privind modificarea hcl nr. 43/2024,,,title,0
+hcl-dambovita--cojasca-25-2024,hcl-dambovita--cojasca-82-2023,amends,,,,privind modificarea hcl nr.82/2023,,,title,0
+hcl-dambovita--cojasca-27-2024,hcl-dambovita--cojasca-82-2023,amends,,,,privind modificarea hcl nr.82/2023,,,title,0
 hcl-dambovita--cojasca-73-2024,hcl-dambovita--cojasca-83-2023,amends,,,,privind modificarea hcl nr.83/2023,,,title,0
 hcl-dambovita--fieni-26-2024,hcl-dambovita--fieni-143-2021,amends,,,,privind modificarea hcl nr. 143 din 16.12.2021,,,title,0
 hcl-dambovita--fieni-100-2024,hcl-dambovita--fieni-90-2024,amends,,,,privind modificarea si completarea hotararii consiliului local fieni nr. 90 din 28.08.2024,,,title,0
 hcl-dambovita--gaesti-27-2024,hcl-dambovita--gaesti-43-2023,amends,,,,privind modificarea hotararii consiliului local gaesti nr.43/2023,,,title,0
 hcl-dambovita--gaesti-41-2024,hcl-dambovita--gaesti-95-2018,amends,,,,privind modificarea hotararii consiliului local gaesti nr. 95/2018,,,title,0
 hcl-dambovita--runcu-89-2024,hcl-dambovita--runcu-32-2024,amends,,,,privind modificarea hotararii consiliului local runcu nr.32/2024,,,title,0
+hcl-dambovita--sotanga-139-2024,hcl-dambovita--sotanga-57-2024,amends,,,,privind modificarea hotararii consiliului local nr. 57 din 30.04.2024,,,title,0
 hcl-dambovita--ulmi-180-2024,hcl-dambovita--ulmi-63-2023,amends,,,,pentru modificarea hcl nr.63/2023,,,title,0
+hcl-dambovita--vulcana-bai-37-2024,hcl-dambovita--vulcana-bai-99-2023,amends,,,,privind modificarea anexelor nr. 1 si nr. 2 la hotararea consiliului local nr. 99/2023,,,title,0
 hcl-dolj--plenita-43-2024,hcl-dolj--plenita-28-2012,amends,,,,privind modificarea anexei la hcl plenita nr. 28/2012,,,title,0
+hcl-galati--beresti-meria-25-2024,hcl-galati--beresti-meria-11-2023,amends,,,,privind modificarea si completarea anexei 2 din hcl nr.11 din 27.02.2023,,,title,0
+hcl-galati--beresti-meria-52-2024,hcl-galati--beresti-meria-41-2024,amends,,,,privind modificarea anexei nr.2 la hcl nr.41 din 30.07.2024,,,title,0
 hcl-galati--beresti-meria-77-2024,hcl-galati--beresti-meria-58-2024,amends,,,,privind modificarea hcl nr.58 din 31.10.2024,,,title,0
+hcl-galati--brahasesti-35-2024,hcl-galati--brahasesti-113-2023,amends,,,,privind modificarea anexei nr.1 la hcl nr.113 din 21.12.2023,,,title,0
+hcl-galati--brahasesti-58-2024,hcl-galati--brahasesti-113-2023,amends,,,,privind modificarea anexei nr.1 la hcl nr.113 din 21.12.2023,,,title,0
 hcl-galati--corni-60-2024,hcl-galati--corni-57-2024,amends,,,,pentru modificarea si completarea hotararii consiliului local al comunei corni nr. 57 din 29.11.2024,,,title,0
+hcl-galati--ivesti-55-2024,hcl-galati--ivesti-21-2024,amends,,,,privind modificarea si completarea h.c.l nr.21 din 12.03.2024,,,title,0
 hcl-galati--ivesti-101-2024,hcl-galati--ivesti-33-2024,amends,,,,privind modificarea si completarea h.c.l.nr.33 din 10.04.2024,,,title,0
 hcl-galati--ivesti-106-2024,hcl-galati--ivesti-85-2024,amends,,,,privind modificarea si completarea h.c.l.nr.85 din 25.09.2024,,,title,0
 hcl-galati--ivesti-109-2024,hcl-galati--ivesti-21-2024,amends,,,,privind modificarea si completarea h.c.l nr.21 din 12.03.2024,,,title,0
 hcl-giurgiu--varasti-70-2024,hcl-giurgiu--varasti-45-2024,amends,,,,privind modificarea hotararii consiliului local varasti nr.45 din 19.09.2024,,,title,0
 hcl-giurgiu--varasti-72-2024,hcl-giurgiu--varasti-47-2024,amends,,,,privind modificarea anexei nr.3 la hotararea consiliului local varasti nr.47 din 19.09.2024,,,title,0
 hcl-giurgiu--varasti-79-2024,hcl-giurgiu--varasti-18-2012,revokes,,,,privind revocarea hotararii consiliului local varasti nr.18 din 10.04.2012,,,title,0
+hcl-gorj--bustuchin-50-2024,hcl-gorj--bustuchin-24-2012,amends,,,,"privind completarea anexei la protocolul de predare primire, aprobat prin hcl nr. 24 din 31 august 2012",,,title,0
 hcl-gorj--novaci-61-2024,hcl-gorj--novaci-36-2024,amends,,,,privind modificarea hotararii consiliului local novaci nr. 36 din 29.04.2024,,,title,0
 hcl-gorj--novaci-63-2024,hcl-gorj--novaci-125-2023,amends,,,,privind modificarea hotararii consiliului local novaci nr. 125 din 07.12.2023,,,title,0
 hcl-gorj--novaci-71-2024,hcl-gorj--novaci-122-2023,amends,,,,privind modificarea si completarea hotararii consiliului local nr. 122 din 28.11.2023,,,title,0
@@ -1171,6 +1197,8 @@ hcl-gorj--novaci-101-2024,hcl-gorj--novaci-95-2024,amends,,,,privind modificarea
 hcl-gorj--novaci-105-2024,hcl-gorj--novaci-41-2024,amends,,,,privind modificarea hotararii consiliului local novaci nr. 41 din 29.04.2024,,,title,0
 hcl-gorj--novaci-118-2024,hcl-gorj--novaci-107-2024,amends,,,,privind modificarea hotararii consiliului local nr. 107 din 07.11.2024,,,title,0
 hcl-gorj--novaci-132-2024,hcl-gorj--novaci-100-2024,amends,,,,privind modificarea hotararii consiliului local nr. 100 din 07.11.2024,,,title,0
+hcl-harghita--sarmas-74-2024,hcl-harghita--sarmas-49-2024,corrects,,,,privind indreptarea erorii materiale strecurate in cuprinsul art 3 al hotararii consiliului local sarmas nr. 49/2024,,,title,0
+hcl-hunedoara--bacia-50-2024,hcl-hunedoara--bacia-43-2024,amends,,,,privind modificarea hcl nr. 43/2024,,,title,0
 hcl-hunedoara--deva-11-2024,hcl-hunedoara--deva-323-2021,amends,,,,pentru modificarea anexei la hotararea consiliului local nr.323/2021,,,title,0
 hcl-hunedoara--deva-12-2024,hcl-hunedoara--deva-259-2018,amends,,,,pentru modificarea hotararii consiliului local nr.259/2018,,,title,0
 hcl-hunedoara--deva-13-2024,hcl-hunedoara--deva-67-2021,amends,,,,pentru modificarea hotararii consiliului local nr. 67/2021,,,title,0
@@ -1200,6 +1228,7 @@ hcl-hunedoara--deva-346-2024,hcl-hunedoara--deva-189-2023,amends,,,,pentru modif
 hcl-hunedoara--deva-347-2024,hcl-hunedoara--deva-231-2024,amends,,,,pentru modificarea hotararii consiliului local nr.231/2024,,,title,0
 hcl-hunedoara--deva-351-2024,hcl-hunedoara--deva-301-2024,amends,,,,pentru modificarea anexei la hotararea consiliului local nr.301/2024,,,title,0
 hcl-hunedoara--deva-358-2024,hcl-hunedoara--deva-392-2021,amends,,,,pentru modificarea hotararii consiliului local nr.392/2021,,,title,0
+hcl-hunedoara--gurasada-13-2024,hcl-hunedoara--gurasada-6-2024,amends,,,,privind modificarea hcl nr.6/2024,,,title,0
 hcl-hunedoara--gurasada-32-2024,hcl-hunedoara--gurasada-3-2024,amends,,,,privind modificarea hcl nr.3/2024,,,title,0
 hcl-hunedoara--hunedoara-31-2024,hcl-hunedoara--hunedoara-245-2023,amends,,,,privind modificarea hotararii consiliului local nr. 245/2023,,,title,0
 hcl-hunedoara--hunedoara-43-2024,hcl-hunedoara--hunedoara-3-2024,corrects,,,,privind indreptarea erorii materiale din hotararea consiliului local al municipiului hunedoara nr. 3/2024,,,title,0
@@ -1251,33 +1280,64 @@ hcl-hunedoara--hunedoara-441-2024,hcl-hunedoara--hunedoara-497-2023,amends,,,,pe
 hcl-hunedoara--hunedoara-483-2024,hcl-hunedoara--hunedoara-409-2024,amends,,,,pentru modificarea hotararii consiliului local nr. 409/2024,,,title,0
 hcl-hunedoara--hunedoara-484-2024,hcl-hunedoara--hunedoara-45-2022,amends,,,,pentru modificarea si completarea hotararii consiliului local nr. 45/2022,,,title,0
 hcl-hunedoara--lunca-cernii-de-jos-39-2024,hcl-hunedoara--lunca-cernii-de-jos-38-2024,amends,,,,privind modificarea si completarea art. 1 si art. 2 din hotararea nr. 38/2024,,,title,0
+hcl-hunedoara--luncoiu-de-jos-10-2024,hcl-hunedoara--luncoiu-de-jos-103-2023,amends,,,,privind modificare si completarea hotararii consiliului local nr. 103/2023,,,title,0
+hcl-hunedoara--luncoiu-de-jos-12-2024,hcl-hunedoara--luncoiu-de-jos-102-2023,revokes,,,,privind revocarea hotararii consiliului local al comunei luncoiu de jos nr. 102 din 28.12.2023,,,title,0
+hcl-hunedoara--luncoiu-de-jos-75-2024,hcl-hunedoara--luncoiu-de-jos-70-2024,amends,,,,privind modificarea si completarea hotararii nr. 70 din 26.09.2024,,,title,0
 hcl-hunedoara--luncoiu-de-jos-96-2024,hcl-hunedoara--luncoiu-de-jos-12-2023,amends,,,,privind modificarea si completarea hotararii consiliului local nr. 12 din 30.01.2023,,,title,0
 hcl-hunedoara--toplita-36-2024,hcl-hunedoara--toplita-33-2024,amends,,,,privind modificarea anexei nr. 1 la hcl nr. 33/2024,,,title,0
 hcl-hunedoara--zam-15-2024,hcl-hunedoara--zam-7-2024,amends,,,,privind modificarea si completarea hcl zam nr. 7/2024,,,title,0
 hcl-ialomita--balaciu-67-2024,hcl-ialomita--balaciu-8-2024,amends,,,,pentru modificarea hotararii consiliului local balaciu nr.8 din 08.02.2024,,,title,0
 hcl-ialomita--balaciu-75-2024,hcl-ialomita--balaciu-8-2024,amends,,,,pentru modificarea hotararii consiliului local balaciu nr.8 din 08.02.2024,,,title,0
+hcl-ialomita--ciulnita-39-2024,hcl-ialomita--ciulnita-29-2024,revokes,,,,privind revocarea hotararii consiliului local nr.29/2024,,,title,0
+hcl-ialomita--ciulnita-78-2024,hcl-ialomita--ciulnita-55-2024,amends,,,,privind modificarea hotararii consiliului local nr.55/2024,,,title,0
+hcl-ialomita--ciulnita-79-2024,hcl-ialomita--ciulnita-60-2024,revokes,,,,privind revocarea hotararii consiliului local nr.60/2024,,,title,0
 hcl-ialomita--ciulnita-122-2024,hcl-ialomita--ciulnita-82-2024,revokes,,,,privind revocarea hotararii consiliului local nr. 82/2024,,,title,0
 hcl-ialomita--ciulnita-123-2024,hcl-ialomita--ciulnita-90-2024,amends,,,,privind modificarea hotararii consiliului local nr. 90/2024,,,title,0
 hcl-ialomita--ciulnita-127-2024,hcl-ialomita--ciulnita-108-2024,amends,,,,privind modificarea hotararii consiliului local nr.108/2024,,,title,0
 hcl-ialomita--ciulnita-129-2024,hcl-ialomita--ciulnita-92-2024,revokes,,,,privind revocarea hotararii consiliului local nr. 92/2024,,,title,0
+hcl-ialomita--facaeni-4-2024,hcl-ialomita--facaeni-73-2023,revokes,,,,privind revocarea hcl nr. 73/2023,,,title,0
+hcl-ialomita--facaeni-16-2024,hcl-ialomita--facaeni-3-2024,amends,,,,privind modificarea anexei nr. 2 din hotararea consiliului local nr. 3 / 2024,,,title,0
+hcl-ialomita--facaeni-42-2024,hcl-ialomita--facaeni-35-2024,revokes,,,,privind revocarea hcl nr. 35/2024,,,title,0
+hcl-ialomita--facaeni-43-2024,hcl-ialomita--facaeni-34-2024,revokes,,,,privind revocarea hcl nr. 34/2024,,,title,0
 hcl-ialomita--grivita-88-2024,hcl-ialomita--grivita-68-2024,amends,,,,privind modificarea hcl nr.68/2024,,,title,0
 hcl-ialomita--scanteia-57-2024,hcl-ialomita--scanteia-44-2024,repeals,,,,privind abrogarea hcl nr. 44/2024,,,title,0
+hcl-iasi--aroneanu-66-2024,hcl-iasi--aroneanu-137-2023,amends,,,,"privind completarea inventarului domeniului privat al comunei aroneanu, judetul iasi, aprobat prin hotararea consiliului",,,title,0
 hcl-iasi--baltati-106-2024,hcl-iasi--baltati-90-2024,amends,,,,privind modificarea anexei la hotararea consiliului local nr. 90 din 26.09.2024,,,title,0
 hcl-iasi--ciohorani-74-2024,hcl-iasi--ciohorani-30-2024,amends,,,,privind modificarea anexei la hotararea consiliului local al comunei ciohorani nr.30 /2024,,,title,0
 hcl-iasi--dumesti-59-2024,hcl-iasi--dumesti-56-2024,amends,,,,privind modificarea hotararii consiliului local al comunei dumesti nr. 56 din 06.11.2024,,,title,0
+hcl-iasi--erbiceni-35-2024,hcl-iasi--erbiceni-118-2023,amends,,,,privind modificare hcl nr. 118/2023,,,title,0
+hcl-iasi--erbiceni-68-2024,hcl-iasi--erbiceni-82-2023,amends,,,,privind modificare hcl nr. 82/2023,,,title,0
 hcl-iasi--erbiceni-83-2024,hcl-iasi--erbiceni-65-2024,revokes,,,,privind revocarea hcl nr. 65/2024,,,title,0
+hcl-iasi--grozesti-4-2024,hcl-iasi--grozesti-3-2024,amends,,,,privind modificarea si completarea anexei nr.1 si anexei nr.2 din hotararea consiliului local grozesti nr.3 din 9.02.202,,,title,0
+hcl-iasi--grozesti-8-2024,hcl-iasi--grozesti-45-2023,amends,,,,privind modificarea hcl nr.45 din 29.11.2023,,,title,0
+hcl-iasi--grozesti-9-2024,hcl-iasi--grozesti-56-2023,amends,,,,privind modificarea si completarea hcl nr. 56 din 29.12.2023,,,title,0
+hcl-iasi--grozesti-31-2024,hcl-iasi--grozesti-24-2021,amends,,,,privind modificarea hotararii consiliului local grozesti nr.24 din 27.05.2021,,,title,0
+hcl-iasi--ion-neculce-22-2024,hcl-iasi--ion-neculce-33-2022,amends,,,,"privind modificarea prevederilor art. 1, art. 2 si art. 3 din h.c.l nr. 33 din 20.04.2022",,,title,0
+hcl-iasi--ion-neculce-79-2024,hcl-iasi--ion-neculce-124-2023,amends,,,,privind modificarea si completarea art.3 si art.7 din hotararea consiliului local nr. 124 din 26.10.2023,,,title,0
+hcl-iasi--ion-neculce-81-2024,hcl-iasi--ion-neculce-69-2024,amends,,,,privind modificarea si completarea art. 2 din hotararea consiliului local nr. 69 din 19.08.2024,,,title,0
 hcl-iasi--lungani-46-2024,hcl-iasi--lungani-34-2024,amends,,,,privind modificarea art. 6 din anexa nr. 1 la hcl nr. 34 din 27/09/2024,,,title,0
+hcl-iasi--miroslovesti-35-2024,hcl-iasi--miroslovesti-27-2024,revokes,,,,privind revocarea hcl nr 27 din 29.02.2024,,,title,0
 hcl-iasi--mogosesti-22-2024,hcl-iasi--mogosesti-17-2023,amends,,,,privind modificarea hotararii consiliului local mogosesti nr. 17 din 14.02.2023,,,title,0
 hcl-iasi--mogosesti-56-2024,hcl-iasi--mogosesti-53-2024,amends,,,,pentru modificarea si completarea hotararii consiliului local mogosesti nr. 53 din 27.09.2024,,,title,0
 hcl-iasi--plugari-75-2024,hcl-iasi--plugari-54-2024,amends,,,,privind modificarea si completarea hotararii consiliului local nr.54 din 30 septembrie 2024,,,title,0
+hcl-iasi--prisacani-43-2024,hcl-iasi--prisacani-26-2024,amends,,,,privind modificarea hcl prisacani nr.26 din 30.04.2024,,,title,0
+hcl-iasi--prisacani-67-2024,hcl-iasi--prisacani-35-2024,revokes,,,,privind revocarea hcl prisacani nr.35 din 30.04.2024,,,title,0
 hcl-iasi--prisacani-99-2024,hcl-iasi--prisacani-78-2024,amends,,,,privind completarea hcl prisacani nr. 78 din 25.10.2024,,,title,0
 hcl-iasi--prisacani-100-2024,hcl-iasi--prisacani-79-2024,amends,,,,privind modificarea hcl prisacani nr. 79 din 25.10.2024,,,title,0
 hcl-iasi--prisacani-101-2024,hcl-iasi--prisacani-80-2024,amends,,,,privind modificarea hcl prisacani nr. 80 din 25.10.2024,,,title,0
 hcl-iasi--rachiteni-39-2024,hcl-iasi--rachiteni-32-2024,amends,,,,privind completarea si modificarea hcl nr. 32 din 08 noiembrie 2024,,,title,0
 hcl-iasi--ruginoasa-69-2024,hcl-iasi--ruginoasa-8-2024,amends,,,,privind modificarea hotararii consiliului local nr. 8 din 09.02.2024,,,title,0
 hcl-iasi--sipote-155-2024,hcl-iasi--sipote-60-2021,amends,,,,privind completarea anexei la hotararea consiliului local sipote nr 60 din 31 mai 2021,,,title,0
+hcl-iasi--tansa-11-2024,hcl-iasi--tansa-42-2023,revokes,,,,privind revocarea hcl nr. 42 din 23.06.2023,,,title,0
 hcl-iasi--tansa-60-2024,hcl-iasi--tansa-58-2024,revokes,,,,privind revocarea hotararii consiliului local nr.58 din 28.11.2024,,,title,0
+hcl-iasi--targu-frumos-32-2024,hcl-iasi--targu-frumos-24-2019,amends,,,,pentru modificarea hotararii nr. 24 din 28.02.2019,,,title,0
 hcl-iasi--tibanesti-121-2024,hcl-iasi--tibanesti-43-2023,amends,,,,"privind modificarea hotararii consiliului local tibanesti, nr.43/2023",,,title,0
+hcl-iasi--valea-lupului-189-2024,hcl-iasi--valea-lupului-161-2024,amends,,,,privind modificarea si completarea h.c.l nr.161 din 10.10.2024,,,title,0
+hcl-iasi--valea-seaca-3-2024,hcl-iasi--valea-seaca-13-2023,amends,,,,privind modificarea si completarea anexei nr. 1 la hotararea nr. 13 din 27.03.2023,,,title,0
+hcl-ilfov--clinceni-42-2024,hcl-ilfov--clinceni-32-2008,revokes,,,,privind revocarea hotararii consiliului local nr. 32/2008,,,title,0
+hcl-ilfov--cornetu-37-2024,hcl-ilfov--cornetu-61-2023,amends,,,,privind modificarea anexei nr.1 la hotararea consiliului local al comunei cornetu nr.61 din 31.07.2023,,,title,0
+hcl-ilfov--cornetu-38-2024,hcl-ilfov--cornetu-60-2023,amends,,,,privind modificarea anexei nr.1 la hotararea consiliului local al comunei cornetu nr.60 din 31.07.2023,,,title,0
+hcl-ilfov--cornetu-72-2024,hcl-ilfov--cornetu-58-2019,amends,,,,"privind modificarea hotararii consiliului local al comunei cornetu, judetul ilfov, nr.58/2019",,,title,0
 hcl-ilfov--cornetu-100-2024,hcl-ilfov--cornetu-95-2024,amends,,,,privind completarea hotararii consiliului local al comunei cornetu nr.95 din 20.12.2024,,,title,0
 hcl-ilfov--otopeni-41-2024,hcl-ilfov--otopeni-8-2024,amends,,,,pentru modificarea si completarea hotararii consiliului local nr. 8 din 31.01.2024,,,title,0
 hcl-ilfov--peris-70-2024,hcl-ilfov--peris-43-2024,amends,,,,privind modificarea si completarea art.3 din hcl nr.43 din 29 iulie 2024,,,title,0
@@ -1480,19 +1540,31 @@ hcj-vaslui-184-2024,hcj-vaslui-154-2024,amends,,,,pentru modificarea pozitiei nr
 hcj-vaslui-186-2024,hcj-vaslui-91-2023,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului judetean vaslui nr.91/2023,,,title,0
 hcj-vaslui-187-2024,hcj-vaslui-92-2023,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului judetean vaslui nr.92/2023,,,title,0
 hcj-vaslui-188-2024,hcj-vaslui-93-2023,amends,,,,pentru modificarea anexei nr.2 la hotararea consiliului judetean vaslui nr.93/2023,,,title,0
+hcl-maramures--ardusat-3-2024,hcl-maramures--ardusat-44-2023,amends,,,,privind modificarea anexei 1 si 2 din hcl nr. 44 din 29.11.2023,,,title,0
 hcl-maramures--farcasa-53-2024,hcl-maramures--farcasa-37-2024,amends,,,,privind modificarea hotararii consiliului local al comunei farcasa nr. 37 din 9 octombrie 2024,,,title,0
 hcl-maramures--farcasa-55-2024,hcl-maramures--farcasa-10-2018,amends,,,,privind modificarea hotararii consiliului local al comunei farcasa nr.10 din 27 martie 2018,,,title,0
 hcl-maramures--giulesti-28-2024,hcl-maramures--giulesti-63-2017,amends,,,,privind modificarea si completarea hcl nr. 63/2017,,,title,0
+hcl-maramures--grosi-2-2024,hcl-maramures--grosi-83-2023,amends,,,,privind modificarea art. 1 si 2 ale hotararii consiliului local cu nr. 83 din 27.09.2023,,,title,0
 hcl-mehedinti--cujmir-33-2024,hcl-mehedinti--cujmir-23-2024,amends,,,,privind modificarea hotararii consiliului local al comunei cujmir nr. 23 din 24.09.2024,,,title,0
+hcl-mehedinti--grozesti-20-2024,hcl-mehedinti--grozesti-6-2023,amends,,,,pentru modificarea hcl nr. 6 din 31.01.2023,,,title,0
+hcl-mehedinti--grozesti-27-2024,hcl-mehedinti--grozesti-14-2024,amends,,,,privind modificarea hcl nr. 14 din 08.02.2024,,,title,0
+hcl-mehedinti--grozesti-54-2024,hcl-mehedinti--grozesti-36-2024,amends,,,,privind modificarea si completarea hcl nr.36 din 28.06.2024,,,title,0
 hcl-mehedinti--grozesti-71-2024,hcl-mehedinti--grozesti-65-2024,amends,,,,privind modificarea hcl nr.65 din 16.10.2024,,,title,0
 hcl-mehedinti--grozesti-76-2024,hcl-mehedinti--grozesti-71-2024,amends,,,,privind modificarea hcl nr.71 din 06.11.2024,,,title,0
 hcl-mehedinti--ilovat-42-2024,hcl-mehedinti--ilovat-21-2024,amends,,,,privind modificarea si completarea hcl nr. 21/2024,,,title,0
 hcl-mehedinti--vanju-mare-45-2024,hcl-mehedinti--vanju-mare-31-2024,revokes,,,,privind revocarea hcl nr.31/2024,,,title,0
+hcl-mures--albesti-5-2024,hcl-mures--albesti-35-2023,revokes,,,,pentru revocarea hotararii consiliului local albesti nr.35 din 20.07.2023,,,title,0
 hcl-mures--albesti-62-2024,hcl-mures--albesti-37-2024,amends,,,,privind modificarea hotararii consiliului local albesti nr.37/2024,,,title,0
 hcl-mures--albesti-63-2024,hcl-mures--albesti-55-2024,amends,,,,pentru modificarea prevederilor art.2 din hotararea consiliului local al comunei albesti nr.55 din 26.11.2024,,,title,0
+hcl-mures--chiheru-de-jos-36-2024,hcl-mures--chiheru-de-jos-30-2024,amends,,,,privind modificarea si completarea hcl nr. 30 din 27.06.2024,,,title,0
+hcl-mures--chiheru-de-jos-37-2024,hcl-mures--chiheru-de-jos-31-2024,amends,,,,privind modificarea si completarea hcl nr. 31 din 27.06.2024,,,title,0
 hcl-neamt--bodesti-87-2024,hcl-neamt--bodesti-101-2023,amends,,,,privind modificarea art. 4 din hotararea consiliului local nr. 101 din 29.11.2023,,,title,0
 hcl-neamt--bodesti-89-2024,hcl-neamt--bodesti-101-2023,amends,,,,privind modificarea art. 4 din hotararea consiliului local nr. 101 din 29.11.2023,,,title,0
+hcl-neamt--gadinti-11-2024,hcl-neamt--gadinti-42-2023,amends,,,,privind modificarea si completarea hotararii consiliului local nr.42/2023,,,title,0
+hcl-neamt--gadinti-20-2024,hcl-neamt--gadinti-42-2023,amends,,,,privind modificarea si completarea anexei la hotararea consiliului local nr.42/2023,,,title,0
 hcl-neamt--gadinti-64-2024,hcl-neamt--gadinti-54-2024,amends,,,,privind modificarea si completarea hotararii consiliului local nr.54/2024,,,title,0
+hcl-neamt--ion-creanga-12-2024,hcl-neamt--ion-creanga-137-2023,amends,,,,privind modificarea h.c.l nr.137 din 20.11.2023,,,title,0
+hcl-neamt--ion-creanga-59-2024,hcl-neamt--ion-creanga-49-2024,amends,,,,privind modificarea h.c.l nr. 49 din 27.06.2024,,,title,0
 hcl-neamt--ion-creanga-82-2024,hcl-neamt--ion-creanga-77-2024,amends,,,,privind modificarea si completarea hcl nr. 77 din 19.09.2024,,,title,0
 hcl-neamt--roman-55-2024,hcl-neamt--roman-111-2023,amends,,,,privind modificarea h.c.l nr.111 din 31.05.2023,,,title,0
 hcl-neamt--roman-154-2024,hcl-neamt--roman-153-2024,amends,,,,privind modificarea hotararii consiliului local al municipiului roman nr. 153 din 19.06.2024,,,title,0
@@ -1503,11 +1575,24 @@ hcl-neamt--roman-291-2024,hcl-neamt--roman-194-2021,amends,,,,privind modificare
 hcl-neamt--roman-292-2024,hcl-neamt--roman-213-2024,amends,,,,privind modificarea hcl nr. 213 din 19.09.2024,,,title,0
 hcl-neamt--roman-307-2024,hcl-neamt--roman-25-2016,amends,,,,privind modificarea anexei nr. 3 la hotararea consiliului local nr. 25 din 28.01.2016,,,title,0
 hcl-neamt--savinesti-55-2024,hcl-neamt--savinesti-48-2022,amends,,,,privind modificarea h.c.l nr. 48 din 20.09.2022,,,title,0
+hcl-neamt--secuieni-17-2024,hcl-neamt--secuieni-24-2023,amends,,,,privind modificarea si completarea hotararii consiliului local nr.24 din 28.02.2023,,,title,0
+hcl-neamt--secuieni-28-2024,hcl-neamt--secuieni-41-2023,amends,,,,privind modificarea si completarea hotararii consiliului local nr.41 din 04.04.2023,,,title,0
+hcl-neamt--secuieni-47-2024,hcl-neamt--secuieni-24-2023,amends,,,,privind modificarea si completarea hotararii consiliului local nr.24 din 28.02.2023,,,title,0
 hcl-neamt--secuieni-82-2024,hcl-neamt--secuieni-62-2024,amends,,,,privind modificarea si completarea hotararii consiliului local nr.62 din 26.09.2024,,,title,0
+hcl-neamt--tarcau-7-2024,hcl-neamt--tarcau-81-2020,amends,,,,privind modificarea si completarea hotararii consiliului local nr. 81 din 21.10.2020,,,title,0
 hcl-neamt--tarcau-65-2024,hcl-neamt--tarcau-50-2024,amends,,,,privind modificarea si completarea hcl nr. 50 din 27 septembrie 2024,,,title,0
 hcl-neamt--tarcau-69-2024,hcl-neamt--tarcau-81-2022,amends,,,,privind modificarea si completarea hotararii consiliului local al comunei tarcau nr. 81 din 9 decembrie 2022,,,title,0
 hcl-neamt--tarcau-75-2024,hcl-neamt--tarcau-43-2024,amends,,,,privind modificarea si completarea hotararii consiliului local al comunei tarcau nr. 43 din 19.08.2024,,,title,0
+hcl-neamt--timisesti-3-2024,hcl-neamt--timisesti-115-2023,amends,,,,pentru modificarea hotararii nr. 115 din 14 decembrie 2023,,,title,0
+hcl-neamt--timisesti-11-2024,hcl-neamt--timisesti-37-2022,amends,,,,pentru modificarea hotararii nr. 37 din 31.05.2022,,,title,0
+hcl-neamt--timisesti-12-2024,hcl-neamt--timisesti-103-2023,amends,,,,pentru modificarea hotararii nr. 103 din 29 noiembrie 2023,,,title,0
+hcl-neamt--timisesti-19-2024,hcl-neamt--timisesti-90-2023,corrects,,,,pentru indreptarea unei erori materiale strecurate in hotararea nr. 90 din 31.10.2023,,,title,0
+hcl-neamt--timisesti-20-2024,hcl-neamt--timisesti-91-2023,corrects,,,,pentru indreptarea unei erori materiale strecurate in hotararea nr. 91 din 31.10.2023,,,title,0
+hcl-neamt--timisesti-35-2024,hcl-neamt--timisesti-21-2018,amends,,,,pentru modificarea hotararii nr. 21 din 27.03.2018,,,title,0
+hcl-neamt--timisesti-64-2024,hcl-neamt--timisesti-1-2024,amends,,,,pentru modificarea hotararii nr. 1 din 9 ianuarie 2024,,,title,0
+hcl-neamt--timisesti-77-2024,hcl-neamt--timisesti-29-2024,amends,,,,pentru modificarea hotararii nr. 29 din 29.02.2024,,,title,0
 hcl-neamt--timisesti-111-2024,hcl-neamt--timisesti-89-2024,amends,,,,pentru modificarea hotararii nr. 89 din 21.10.2024,,,title,0
+hcl-neamt--tupilati-10-2024,hcl-neamt--tupilati-42-2023,amends,,,,privind modificarea hcl tupilati nr. 42/2023,,,title,0
 hcl-neamt--tupilati-30-2024,hcl-neamt--tupilati-20-2024,revokes,,,,privind revocarea hcl tupilati nr. 20/2024,,,title,0
 hcl-olt--milcov-29-2024,hcl-olt--milcov-16-2024,amends,,,,privind modificarea si completarea hotararii consiliului local milcov nr. 16 din 29.03.2024,,,title,0
 hcl-olt--milcov-32-2024,hcl-olt--milcov-1-2024,amends,,,,privind modificarea si completarea hotararii consiliului local milcov nr. 01 din 30.01.2024,,,title,0

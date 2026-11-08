@@ -3,6 +3,291 @@
  "shard": "local/prahova/magurele/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--magurele-11-2023",
+   "path": "local/prahova/magurele/2023/11",
+   "short": "HCL Măgurele nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 11/2023 privind transferul autoturismului DACIA DUSTER Nr. inmatriculare PH 99 CLM de la Politia Locala la Serviciul public de apa și canalizare al comunei Magurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/88661",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/88661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-15-2023",
+   "path": "local/prahova/magurele/2023/15",
+   "short": "HCL Măgurele nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 15/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Măgurele, județul Prahova pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93206",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-16-2023",
+   "path": "local/prahova/magurele/2023/16",
+   "short": "HCL Măgurele nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 16/2023 privind aprobarea și implementarea proiectului ,,DOTAREA CU ECHIPAMENTE TIC A ȘCOLII GIMNAZIALE COMUNA MĂGURELE, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93207",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-19-2023",
+   "path": "local/prahova/magurele/2023/19",
+   "short": "HCL Măgurele nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 19/2023 privind implementarea proiectului „AMENAJARE LOC DE JOACĂ SAT COADA MALULUI, COMUNA MĂGURELE, JUDEŢUL PRAHOVA’’ Măsura 3.2/6B – ”Dezvoltarea locală a satelor”, SDL GAL VALEA TELEAJENULUI",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93210",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-20-2023",
+   "path": "local/prahova/magurele/2023/20",
+   "short": "HCL Măgurele nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 20/2023",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93211",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-21-2023",
+   "path": "local/prahova/magurele/2023/21",
+   "short": "HCL Măgurele nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 21/2023 privind stabilirea consumului mediu de carburanţi pentru autoturismul OPEL MOKKA 1,384 primit prin transfer cu titlu gratuit de la Consiliul Județean Prahova pentru dotarea Poliției Locale Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93212",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-22-2023",
+   "path": "local/prahova/magurele/2023/22",
+   "short": "HCL Măgurele nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 22/2023 privind acceptarea unei donații de către comuna Măgurele a unei sponsorizări din partea Direcției Silvice Prahova",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93213",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-23-2023",
+   "path": "local/prahova/magurele/2023/23",
+   "short": "HCL Măgurele nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 23/2023 privind privind aprobarea majorării taxei/tarifului de închiriere pentru buldoexcavatorul multifuncţional, aflat în patrimoniul Comunei Măgurele, județul Prahova",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/93214",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/93214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-28-2023",
+   "path": "local/prahova/magurele/2023/28",
+   "short": "HCL Măgurele nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 28/2023 privind aprobarea listei documentelor de interes public produse și/sau gestionate de Primăria comunei Măgurele conform Legii nr. 544/2001 privind liberul acces la informațiile de interes public și implementarea Procedurii Operaționale PO – APL – 03",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/97057",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/97057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-3-2023",
+   "path": "local/prahova/magurele/2023/3",
+   "short": "HCL Măgurele nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 3/2023 privind aprobarea protocolului de colaborare între Ministerul Muncii și Solidarității Prahova(MMSS) și comuna Măgurele, județul Prahova având ca obiect asigurarea colaborării interinstituționale MMSS și comuna Măgurele în cadrul proiectului \"HUB de servicii MMSS-SII MMSS, Cod MySmis 130963\"",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/88170",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/88170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-32-2023",
+   "path": "local/prahova/magurele/2023/32",
+   "short": "HCL Măgurele nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 32/2023",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/102342",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/102342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-33-2023",
+   "path": "local/prahova/magurele/2023/33",
+   "short": "HCL Măgurele nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 33/2023 privind aprobarea participării COMUNEI MĂGURELE la „Programul privind casarea autovehiculelor uzate”",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/102343",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/102343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-34-2023",
+   "path": "local/prahova/magurele/2023/34",
+   "short": "HCL Măgurele nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 34/2023 privind stabilirea unor măsuri cu privire la salariile de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Măgurele, județul Prahova și din Serviciile publice din subordinea Consiliului Local al comunei Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/102344",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/102344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-35-2023",
+   "path": "local/prahova/magurele/2023/35",
+   "short": "HCL Măgurele nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 35/2023 privind aprobarea participării COMUNEI MĂGURELE, JUDEŢUL PRAHOVA la parteneriatul LEADER cu denumirea: ,,Parteneriatul pentru Dezvoltarea Zonei GAL Valea Teleajenului”",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/102345",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/102345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-4-2023",
+   "path": "local/prahova/magurele/2023/4",
+   "short": "HCL Măgurele nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 4/2023 Privind aprobarea înregistrării Comunei Măgurele în Sistemul Naţional Electronic de Plată a Taxelor şi Impozitelor utilizând Cardul Bancar",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/88654",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/88654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-41-2023",
+   "path": "local/prahova/magurele/2023/41",
+   "short": "HCL Măgurele nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 41/2023 privind aprobarea studiului de fezabilitate, documentația tehnico-economică și a indicatorilor tehnico-economici pentru obiectivul de investiții ”CENTRU DE COLECTARE SELECTIVĂ A DEȘEURILOR PRIN APORT VOLUNTAR ÎN COMUNA MĂGURELE JUDEȚUL PRAHOVA”, finanțat prin PNRR, Componenta 3- Managementul deșeurilor, Investiția I.1- Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipal la nivel de județ sau la nivel de oraș/comune/ Subinvestiția I.1A- Înființarea de centre de colectare prin aport voluntar",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/109909",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/109909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-44-2023",
+   "path": "local/prahova/magurele/2023/44",
+   "short": "HCL Măgurele nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 44/2023 privind privind aprobarea studiului de fezabilitate, documentația tehnico-economică și a indicatorilor tehnico-economici pentru obiectivul de investiții „CONSTRUIRE PISTE PENTRU BICICLETE ÎN COMUNA MĂGURELE, JUDEȚUL PRAHOVA ŞI REALIZAREA A DOUĂ STAŢII DE REÎNCĂRCARE VEHICULE ELECTRICE’’, finanțat prin programul ,,Planul Național de Redresare și Reziliență, Componenta 10 – Fondul Local” , Apel de proiecte PNRR/2022/C10, Investiția I.1 – Mobilitate urbană durabilă, Subinvestiția I.1.4 - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete la nivel local/metropolitan şi I.1.3-Asigurarea infrastructurii pentru transportul verde – puncte de reîncărcare vehicule electrice, aprobat prin Ordinul M.D.L.PA nr. 999/10.05.2022",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/111672",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/111672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-54-2023",
+   "path": "local/prahova/magurele/2023/54",
+   "short": "HCL Măgurele nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 54/2023 privind transferul fără plată a Minibuzului FIAT DUCATO cu Nr. înmatriculare PH 90 CLM de la Primăria Comunei Măgurele către Asociaţia Sportivă Voinţa 2015 Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/114942",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/114942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-6-2023",
+   "path": "local/prahova/magurele/2023/6",
+   "short": "HCL Măgurele nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 6/2023 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2023, ce vor fi executate de către beneficarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/88656",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/88656",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magurele-62-2023",
    "path": "local/prahova/magurele/2023/62",
    "short": "HCL Măgurele nr. 62/2023",
@@ -118,6 +403,21 @@
      "from": "2023-11-07",
      "units": 1,
      "source_url": "https://emol.ro/magurele-ph/registru-hcl/128115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-7-2023",
+   "path": "local/prahova/magurele/2023/7",
+   "short": "HCL Măgurele nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 7/2023 privind aprobarea bugetului local al comunei Măgurele pe anul 2023",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/88657",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/88657",
      "sha256": null
     }
    ]
@@ -268,6 +568,21 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/magurele-ph/registru-hcl/133975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-8-2023",
+   "path": "local/prahova/magurele/2023/8",
+   "short": "HCL Măgurele nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 8/2023 privind aprobarea Regulamentului privind acordarea de premii/ recompense materiale elevilor care au obţinut rezultate deosebite –premiul I, II , III si menţiune sau medalii /diplome de excelenţă la faza judeţeana, naţionala a olimpiadelor şcolare / concursurilor/ competiţiilor sportive pentru anul 2023",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/88658",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/88658",
      "sha256": null
     }
    ]

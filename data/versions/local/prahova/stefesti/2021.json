@@ -3,6 +3,321 @@
  "shard": "local/prahova/stefesti/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--stefesti-1-2021",
+   "path": "local/prahova/stefesti/2021/1",
+   "short": "HCL Ștefești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 1/2021 privind reintregirea excedentului anului precedent cu sumele repartizate din acesta în cursul anului 2020 pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25832",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-10-2021",
+   "path": "local/prahova/stefesti/2021/10",
+   "short": "HCL Ștefești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 10/2021 privind modernizarea și extinderea iluminatului public în comuna Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25841",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-12-2021",
+   "path": "local/prahova/stefesti/2021/12",
+   "short": "HCL Ștefești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 12/2021 privind alegerea președintelui de ședință pentru următoarele 3 (trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25843",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-13-2021",
+   "path": "local/prahova/stefesti/2021/13",
+   "short": "HCL Ștefești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 13/2021 privind aprobarea bugetului local inițial pe anul 2021 și estimări pentru anii 2022-2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25869",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-14-2021",
+   "path": "local/prahova/stefesti/2021/14",
+   "short": "HCL Ștefești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 14/2021 privind utilizarea excedentului pe anul 2021 al bugetului local",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25870",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-15-2021",
+   "path": "local/prahova/stefesti/2021/15",
+   "short": "HCL Ștefești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 15/2021 privind aprobarea contului de execuție al bugetului local pe trimestrul I al anului 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25871",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-16-2021",
+   "path": "local/prahova/stefesti/2021/16",
+   "short": "HCL Ștefești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 16/2021 privind indexarea impozitelor și taxelor locale, pentru anul 2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25872",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-17-2021",
+   "path": "local/prahova/stefesti/2021/17",
+   "short": "HCL Ștefești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 17/2021 privind aprobarea numărului de burse școlare și a cuantumului unei burse pentru elevii din unitatea de învățământ preuniversitar de stat din comuna Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25873",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-18-2021",
+   "path": "local/prahova/stefesti/2021/18",
+   "short": "HCL Ștefești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 18/2021 privind privind aprobarea contului anual de execuţie al bugetului local si a situatiilor financiare intocmite la 31.12.2020",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/26870",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/26870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-19-2021",
+   "path": "local/prahova/stefesti/2021/19",
+   "short": "HCL Ștefești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 19/2021 privind marcarea de material lemnos in islaz pct.,,Vulpea’’",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/26871",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/26871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-2-2021",
+   "path": "local/prahova/stefesti/2021/2",
+   "short": "HCL Ștefești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 2/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2021, ce vor fi executate de către beneficiarii de ajutor social, conform Legii 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25833",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-20-2021",
+   "path": "local/prahova/stefesti/2021/20",
+   "short": "HCL Ștefești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 20/2021 privind trasformarea unui post de natura contractuala, aprobarea organigramei si a statului de functii al aparatului de specialitate al Primarului comunei Stefesti pe anul 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/26872",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/26872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-23-2021",
+   "path": "local/prahova/stefesti/2021/23",
+   "short": "HCL Ștefești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 23/2021 privind rectificarea bugetului local inițial pe anul 2021 și estimări pentru anii 2022-2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41192",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-24-2021",
+   "path": "local/prahova/stefesti/2021/24",
+   "short": "HCL Ștefești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 24/2021 privind aprobarea contului de execuție al bugetului local pe trimestrul II al anului 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41193",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-25-2021",
+   "path": "local/prahova/stefesti/2021/25",
+   "short": "HCL Ștefești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 25/2021 privind aprobarea Raportului de activitate desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul I al anului 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41194",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-26-2021",
+   "path": "local/prahova/stefesti/2021/26",
+   "short": "HCL Ștefești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 26/2021 privind aprobarea și modificarea inventarului bunurilor ce aparțin domeniului privat al comunei Stefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41195",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-28-2021",
+   "path": "local/prahova/stefesti/2021/28",
+   "short": "HCL Ștefești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 28/2021 privind rectificarea bugetului local inițial pe anul 2021 și estimări pentru anii 2022-2024",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41262",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-29-2021",
+   "path": "local/prahova/stefesti/2021/29",
+   "short": "HCL Ștefești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 29/2021 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții „MODERNIZARE DRUMURI LOCALE - COMUNA ȘTEFEȘTI”",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41263",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-3-2021",
+   "path": "local/prahova/stefesti/2021/3",
+   "short": "HCL Ștefești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 3/2021 privind aprobarea propunerii rețelei școlare la nivelul comunei Ștefești județul Prahova pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25834",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-30-2021",
+   "path": "local/prahova/stefesti/2021/30",
+   "short": "HCL Ștefești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 30/2021 privind actualizarea indicatorilor tehnico-economici a obiectivul de investiții „MODERNIZARE DRUM LOCAL PÎRVULESCU”, comuna Ștefești, județul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41264",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-32-2021",
+   "path": "local/prahova/stefesti/2021/32",
+   "short": "HCL Ștefești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 32/2021 privind acordarea mandatului special reprezentantului legal al comunei Ștefești pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deșeurilor Prahova” Acceptarea Angajamentului de Plata cu privire la eșalonarea redeventei, propus de către SC ROSAL GRUP SA, la Contractul de Delegare prin Concesiune a Gestiunii Activității de Colectare, Transport și Transfer a Deșeurilor Municipale în Zonele 2 - Boldești Scăeni și 6 - Valea Doftanei, nr. 1792/13023 din 13.09.2016, în urma ședinței Adunarii Generala a Asociaților din data de 14.09.2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53280",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-33-2021",
    "path": "local/prahova/stefesti/2021/33",
    "short": "HCL Ștefești nr. 33/2021",
@@ -103,6 +418,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-4-2021",
+   "path": "local/prahova/stefesti/2021/4",
+   "short": "HCL Ștefești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 4/2021 privind acordarea unui stimulent financiar pentru nou-născuți",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25835",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25835",
      "sha256": null
     }
    ]
@@ -258,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-5-2021",
+   "path": "local/prahova/stefesti/2021/5",
+   "short": "HCL Ștefești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 5/2021 privind aprobarea numărului maxim de posturi pentru asistenții personali ai persoanelor cu handicap grav pentru anul 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25836",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25836",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-50-2021",
    "path": "local/prahova/stefesti/2021/50",
    "short": "HCL Ștefești nr. 50/2021",
@@ -298,6 +643,66 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-6-2021",
+   "path": "local/prahova/stefesti/2021/6",
+   "short": "HCL Ștefești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 6/2021 privind aprobarea Programului de măsuri pentru prevenirea și combaterea marginalizării sociale, pentru anul 2021",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25837",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-7-2021",
+   "path": "local/prahova/stefesti/2021/7",
+   "short": "HCL Ștefești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 7/2021 privind aprobarea Planului local de acțiune în domeniul serviciilor sociale pentru anul 2021, la nivelul comunei Ștefești, județul Prahova",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25838",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-8-2021",
+   "path": "local/prahova/stefesti/2021/8",
+   "short": "HCL Ștefești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 8/2021 privind modificarea Regulamentului de Organizare și Funcționare a terenului de sport cu gazon sintetic",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25839",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-9-2021",
+   "path": "local/prahova/stefesti/2021/9",
+   "short": "HCL Ștefești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 9/2021 privind aprobarea Regulamentului de Organizare și Funcționare a Bazei Sportive Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25840",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25840",
      "sha256": null
     }
    ]

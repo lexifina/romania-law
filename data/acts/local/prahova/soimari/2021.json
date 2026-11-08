@@ -3,6 +3,50 @@
 "shard": "local/prahova/soimari/2021",
 "acts": [
 {
+"slug": "hcl-prahova--soimari-26-2021",
+"path": "local/prahova/soimari/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 26/2021 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari,judetul Prahova si se deplaseaza din alte localitati pentru luna iunie 2021",
+"short": "HCL Șoimari nr. 26/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-22",
+"latest": "2021-07-22",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#218",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-27-2021",
+"path": "local/prahova/soimari/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 27/2021 rectificarea bugetului local pe anul 2021",
+"short": "HCL Șoimari nr. 27/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-22",
+"latest": "2021-07-22",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#573",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--soimari-28-2021",
 "path": "local/prahova/soimari/2021/28",
 "kind": "local",
@@ -22,6 +66,228 @@
 "council_name": "Consiliul Local al Comunei Șoimari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-29-2021",
+"path": "local/prahova/soimari/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 29/2021 rectificarea bugetului local pe anul 2021",
+"short": "HCL Șoimari nr. 29/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#2815",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-30-2021",
+"path": "local/prahova/soimari/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 30/2021 pentru placheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari,judetul Prahova si se deplaseaza din alte localitati pentru luna iulie 2021",
+"short": "HCL Șoimari nr. 30/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#2816",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-31-2021",
+"path": "local/prahova/soimari/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 31/2021 aprobare indicatori tehnico-economici Infiintare retea inteligenta gaze naturale in comunele:Soimari,Chiojdeanca,Salcia,Apostolache,Gornet Cricov, Tataru, Sangeru",
+"short": "HCL Șoimari nr. 31/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#3067",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-32-2021",
+"path": "local/prahova/soimari/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 32/2021 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari,judetul Prahova si se deplaseaza din alte localitati pentru luna august 2021",
+"short": "HCL Șoimari nr. 32/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#4304",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-33-2021",
+"path": "local/prahova/soimari/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 33/2021 rectificarea bugetului local pe anul 2021",
+"short": "HCL Șoimari nr. 33/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#4789",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-34-2021",
+"path": "local/prahova/soimari/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 34/2021 actualizarea indicatorilor tehnico-economici pentru obiectivul de investitii\"Construire Pod peste paraul Lopatna, zona Magura, lucrari conexe si organizare de santier in comuna Soimari, judetul Prahova",
+"short": "HCL Șoimari nr. 34/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#6617",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-35-2021",
+"path": "local/prahova/soimari/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 35/2021 privind actualizarea cofinantarii obiectivului de investitii\"Construire Pod peste paraul Lopatna, zona Magura, lucrari conexe si organizare de santier in comuna Soimari, judetul Prahova\"",
+"short": "HCL Șoimari nr. 35/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#6618",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-36-2021",
+"path": "local/prahova/soimari/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 36/2021 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari,judetul Prahova si se deplaseaza din alte localitati pentru luna septembrie 2021",
+"short": "HCL Șoimari nr. 36/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#6758",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-37-2021",
+"path": "local/prahova/soimari/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 37/2021",
+"short": "HCL Șoimari nr. 37/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": null,
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--soimari-38-2021",
+"path": "local/prahova/soimari/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 38/2021",
+"short": "HCL Șoimari nr. 38/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": null,
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -135,6 +401,50 @@
 }
 },
 {
+"slug": "hcl-prahova--soimari-45-2021",
+"path": "local/prahova/soimari/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 45/2021 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice si personalul auxiliar care isi desfasoara activitatea la unitatile de invatamant din comuna Soimari,judetul Prahova si se deplaseaza din alte localitati pentru luna ocotmbrie 2021",
+"short": "HCL Șoimari nr. 45/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#8762",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-46-2021",
+"path": "local/prahova/soimari/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 46/2021 Privind rectificarea bugetului local de venituri si cheltuieli al comunei Soimari pe anul 2021",
+"short": "HCL Șoimari nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#8807",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--soimari-47-2021",
 "path": "local/prahova/soimari/2021/47",
 "kind": "local",
@@ -216,6 +526,50 @@
 "from": "2021-12-16",
 "latest": "2021-12-16",
 "portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#10164",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-51-2021",
+"path": "local/prahova/soimari/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 51/2021 Privind rectificarea bugetului local de venituri si cheltuieli al comunei Soimari pe anul 2021 Vazand :",
+"short": "HCL Șoimari nr. 51/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#10884",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--soimari-52-2021",
+"path": "local/prahova/soimari/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 52/2021 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2021",
+"short": "HCL Șoimari nr. 52/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#11236",
 "council": "prahova/soimari",
 "council_name": "Consiliul Local al Comunei Șoimari",
 "flags": {

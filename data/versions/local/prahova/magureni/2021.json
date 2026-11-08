@@ -3,6 +3,231 @@
  "shard": "local/prahova/magureni/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--magureni-1-2021",
+   "path": "local/prahova/magureni/2021/1",
+   "short": "HCL Măgureni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 1/2021 privind Acoperirea definitiva a deficitului sectiunii de dezvoltare din excedentul bugetului local al anilor precedenti",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/26326",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/26326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-10-2021",
+   "path": "local/prahova/magureni/2021/10",
+   "short": "HCL Măgureni nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2021 privind aprobarea bugetului local și a listei de investiții pentru anul 2021",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40812",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-11-2021",
+   "path": "local/prahova/magureni/2021/11",
+   "short": "HCL Măgureni nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 11/2021 privind aprobarea actualizării tarifelor cuprinse în Actul Adițional nr. 8 la Contractul nr. 1792/13.09.2016 de delegare prin concesiune a gestiunii activității de colectare, transport și transfer a deșeurilor municipale în zonele 2-Boldești Scăeni și 6-Valea Doftanei",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40813",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-12-2021",
+   "path": "local/prahova/magureni/2021/12",
+   "short": "HCL Măgureni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 12/2021",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40815",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-13-2021",
+   "path": "local/prahova/magureni/2021/13",
+   "short": "HCL Măgureni nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 13/2021 privind aprobarea utilizării integrale a excedentului bugetar constituit la data de 31.12.2020",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40814",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-14-2021",
+   "path": "local/prahova/magureni/2021/14",
+   "short": "HCL Măgureni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 14/2021 privind repartizarea sumelor alocate in bugetul local al anului 2021 pentru finantarea unitatilor de cult din comuna Magureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40817",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-15-2021",
+   "path": "local/prahova/magureni/2021/15",
+   "short": "HCL Măgureni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 15/2021 privind aprobarea cuantumului burselor scolare care se acorda elevilor Scolii Gimnaziale Magureni, judetul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40818",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-16-2021",
+   "path": "local/prahova/magureni/2021/16",
+   "short": "HCL Măgureni nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 16/2021 privind completarea art.11 Alte Taxe locale din Anexa HCL nr.31/22.12.2020 privind stabilirea impozitelor si taxelor locale pentru anul 2020",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40819",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-18-2021",
+   "path": "local/prahova/magureni/2021/18",
+   "short": "HCL Măgureni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 18/2021 privind acordarea unui mandat special Primarului comunei Măgureni, județul Prahova în Asociația de Dezvoltare Intercomunitară ,,Parteneriatul pentru Managementul Apei Prahova,,",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40821",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-19-2021",
+   "path": "local/prahova/magureni/2021/19",
+   "short": "HCL Măgureni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 19/2021 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiții ,,Amenajare trotuare, pistă biciclete, rigole, parcări în comuna Măgureni, județul Prahova,,",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40822",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-2-2021",
+   "path": "local/prahova/magureni/2021/2",
+   "short": "HCL Măgureni nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 2/2021 privind organizarea rețelei școlare din comuna Măgureni, județul Prahova pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/18083",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/18083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-20-2021",
+   "path": "local/prahova/magureni/2021/20",
+   "short": "HCL Măgureni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 20/2021 privind rectificarea bugetului local de venituri si cheltuieli al anului 2021",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40823",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-21-2021",
+   "path": "local/prahova/magureni/2021/21",
+   "short": "HCL Măgureni nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 21/2021 privind aprobarea Regulamentului de organizare și funcționare al Clubului Pensionarilor din Comuna Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40824",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-22-2021",
+   "path": "local/prahova/magureni/2021/22",
+   "short": "HCL Măgureni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 22/2021 privind alegerea președintelui de ședință pentru lunile septembrie, octombrie și noiembrie 2021",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40825",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-24-2021",
+   "path": "local/prahova/magureni/2021/24",
+   "short": "HCL Măgureni nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 24/2021 privind aderarea comunei Măgureni la Acordul de cooperare pentru organizarea și exercitarea funcției de audit public intern",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40827",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40827",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-25-2021",
    "path": "local/prahova/magureni/2021/25",
    "short": "HCL Măgureni nr. 25/2021",
@@ -73,6 +298,21 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/40832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-3-2021",
+   "path": "local/prahova/magureni/2021/3",
+   "short": "HCL Măgureni nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 3/2021 privind aprobarea indicatorilor tehnico-economici, precum și a cheltuielilor aferente proiectului „Asigurarea accesului elevilor comunei Măgureni, județul Prahova, la procesul de învățare în mediul on-line prin achiziționarea de tablete”",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/18084",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/18084",
      "sha256": null
     }
    ]
@@ -228,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-4-2021",
+   "path": "local/prahova/magureni/2021/4",
+   "short": "HCL Măgureni nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 4/2021 privind aprobarea planului de acțiuni sau de lucrări de interes local care va fi realizat în anul 2021 de către beneficiarii venitului minim garantat",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40786",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40786",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-40-2021",
    "path": "local/prahova/magureni/2021/40",
    "short": "HCL Măgureni nr. 40/2021",
@@ -298,6 +553,51 @@
      "from": "2022-07-25",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/66657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-6-2021",
+   "path": "local/prahova/magureni/2021/6",
+   "short": "HCL Măgureni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 6/2021 privind aprobarea alocării din bugetul local a sumei de 3000 lei ce reprezintă cadouri oferite cu ocazia zilei de 8 Martie",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40788",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-8-2021",
+   "path": "local/prahova/magureni/2021/8",
+   "short": "HCL Măgureni nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2021 privind îmbunătățirea activității de informare și participarea efectivă a cetățenilor comunei Măgureni la viața administrației locale",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40799",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-9-2021",
+   "path": "local/prahova/magureni/2021/9",
+   "short": "HCL Măgureni nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 9/2021 privind montarea unor limitatoare de viteză în zonele cu potențial ridicat de circulație rutieră și pietonală din comuna Măgureni, județul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/40800",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/40800",
      "sha256": null
     }
    ]

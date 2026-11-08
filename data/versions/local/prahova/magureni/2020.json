@@ -3,6 +3,66 @@
  "shard": "local/prahova/magureni/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--magureni-1-2020",
+   "path": "local/prahova/magureni/2020/1",
+   "short": "HCL Măgureni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 1/2020 privind acoperirea definitiva a deficitului sectiunii de dezvoltare din excedentul bugetului local al anilor precedenti",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8387",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-11-2020",
+   "path": "local/prahova/magureni/2020/11",
+   "short": "HCL Măgureni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 11/2020 privind repartizarea de sume pentru finațarea unităților de cult din comuna Măgureni în anul 2020",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17611",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-12-2020",
+   "path": "local/prahova/magureni/2020/12",
+   "short": "HCL Măgureni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 12/2020 privind completarea inventarului bunurilor aparținând domeniului privat al comunei Măgureni",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17612",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-13-2020",
+   "path": "local/prahova/magureni/2020/13",
+   "short": "HCL Măgureni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 13/2020 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții pe anul 2020",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/17613",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/17613",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-14-2020",
    "path": "local/prahova/magureni/2020/14",
    "short": "HCL Măgureni nr. 14/2020",
@@ -88,6 +148,21 @@
      "from": "2020-07-30",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/17677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-2-2020",
+   "path": "local/prahova/magureni/2020/2",
+   "short": "HCL Măgureni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 2/2020 privind organizarea retelei scolare din comuna Magureni, judetul Prahova pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8398",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8398",
      "sha256": null
     }
    ]
@@ -243,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-3-2020",
+   "path": "local/prahova/magureni/2020/3",
+   "short": "HCL Măgureni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 3/2020 privind modificarea si completarea Hotararii Consiliului local al comunei Magureni nr.61/29.09.2008",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8399",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8399",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-30-2020",
    "path": "local/prahova/magureni/2020/30",
    "short": "HCL Măgureni nr. 30/2020",
@@ -298,6 +388,81 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/17832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-4-2020",
+   "path": "local/prahova/magureni/2020/4",
+   "short": "HCL Măgureni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 4/2020 privind acordarea ajutoarelor de urgenta familiilor sau persoanelor singure aflate in situatii deosebite",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8402",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-5-2020",
+   "path": "local/prahova/magureni/2020/5",
+   "short": "HCL Măgureni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 5/2020 privind aprobarea planului de actiuni sau lucrari de interes local care va fi realizat in anul 2020 de catre beneficiarii venitului minim garantat",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8403",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-6-2020",
+   "path": "local/prahova/magureni/2020/6",
+   "short": "HCL Măgureni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 6/2020 privind aprobarea bugetului local si a listei de investitii pentru anul 2020",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8404",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-7-2020",
+   "path": "local/prahova/magureni/2020/7",
+   "short": "HCL Măgureni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2020 privind aprobarea alocarii din bugetul local a sumei de 3300 lei ce reprezinta cadouri oferite angajatelor cu ocazia zilei de 8 Martie",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8405",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-9-2020",
+   "path": "local/prahova/magureni/2020/9",
+   "short": "HCL Măgureni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 9/2020 privind aprobarea utilizarii integrale a excedentului bugetar constituit la data de 31.12.2019",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/8407",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/8407",
      "sha256": null
     }
    ]

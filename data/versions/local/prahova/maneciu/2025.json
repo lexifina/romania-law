@@ -3,6 +3,666 @@
  "shard": "local/prahova/maneciu/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--maneciu-10-2025",
+   "path": "local/prahova/maneciu/2025/10",
+   "short": "HCL Măneciu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 10/2025 privind actualizarea indicatorilor economico - financiari pentru proiectul -,, Aducțiune apa în sistem gravitațional din sursele Grohotiș - Bobu în comuna Măneciu , județul Prahova’’",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/196059",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/196059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-11-2025",
+   "path": "local/prahova/maneciu/2025/11",
+   "short": "HCL Măneciu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 11/2025 privind actualizarea indicatorilor economico - financiari ai proiectului - „Îmbunătăţirea eficienţei energetice în cadrul Colegiului Ferdinand I, Comuna Măneciu, judeţul Prahova”, finanţat în cadrul Planului național de redresare și reziliență, Componenta 10 – Fondul Local, I.3 – Reabilitarea moderată a clădirilor publice pentru a îmbunătăţi serviciile publice la nivelul unităţilor administrativ – teritoriale, Titlul apel: PNRR/2022/C10/I3, Runda 2",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/196060",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/196060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-12-2025",
+   "path": "local/prahova/maneciu/2025/12",
+   "short": "HCL Măneciu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 12/2025 privind actualizarea indicatorilor economico - financiari pentru proiectul - \"Centru de colectare selectivă a deșeurilor prin aport voluntar în comuna Măneciu , județul Prahova\"",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/196061",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/196061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-13-2025",
+   "path": "local/prahova/maneciu/2025/13",
+   "short": "HCL Măneciu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 13/2025 pentru completarea și modificarea Anexei la Hotărârea Consiliului Local al comunei Măneciu, judeţul Prahova nr. 58 din 14.10.2024 privind aprobarea contractării şi garantării unei finanțări rambursabile interne în valoare de 5.241.005,96 lei",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/197051",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/197051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-14-2025",
+   "path": "local/prahova/maneciu/2025/14",
+   "short": "HCL Măneciu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 14/2025 privind aprobarea contului de execuţie aferent anului bugetar 2024 al bugetului local al comunei Măneciu şi al Clubului Sportiv Comunal Măneciu - sursa 2G - finanţat din venituri proprii şi subvenţii de la bugetul local",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198049",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-15-2025",
+   "path": "local/prahova/maneciu/2025/15",
+   "short": "HCL Măneciu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 15/2025 privind aprobarea contului de execuţie aferent anului bugetar 2024 al bugetului de venituri şi cheltuieli al activităţilor extrabugetare-sursa 2E",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198050",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-16-2025",
+   "path": "local/prahova/maneciu/2025/16",
+   "short": "HCL Măneciu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 16/2025 privind utilizarea excedentului anual al bugetului local rezultat la 31.12.2024",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198051",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-17-2025",
+   "path": "local/prahova/maneciu/2025/17",
+   "short": "HCL Măneciu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 17/2025 privind aprobarea bugetului local al comunei Măneciu pe anul 2025 şi estimări pe anii 2026-2028",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198052",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-18-2025",
+   "path": "local/prahova/maneciu/2025/18",
+   "short": "HCL Măneciu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 18/2025 privind aprobarea bugetului de venituri şi cheltuieli al activităţilor extrabugetare - sursa 2E pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198053",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-19-2025",
+   "path": "local/prahova/maneciu/2025/19",
+   "short": "HCL Măneciu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 19/2025 privind aprobarea bugetului de venituri si cheltuieli al SC APA CANAL MANECIU SRL pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198054",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-20-2025",
+   "path": "local/prahova/maneciu/2025/20",
+   "short": "HCL Măneciu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 20/2025 privind atestarea inventarului bunurilor care aparţin domeniului public al comunei Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198055",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-21-2025",
+   "path": "local/prahova/maneciu/2025/21",
+   "short": "HCL Măneciu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 21/2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198056",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-22-2025",
+   "path": "local/prahova/maneciu/2025/22",
+   "short": "HCL Măneciu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 22/2025 privind trecerea construcției „ Pod Crăcâcea” din domeniul public în domeniul privat al comunei și aprobarea desființării acesteia",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198057",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-23-2025",
+   "path": "local/prahova/maneciu/2025/23",
+   "short": "HCL Măneciu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 23/2025 privind aprobarea planului de dezvoltare a serviciilor sociale la nivelul comunei Măneciu, județul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198058",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-24-2025",
+   "path": "local/prahova/maneciu/2025/24",
+   "short": "HCL Măneciu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 24/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198059",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-25-2025",
+   "path": "local/prahova/maneciu/2025/25",
+   "short": "HCL Măneciu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 25/2025 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor al comunei Măneciu, judeţul Prahova, pentru anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198060",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-26-2025",
+   "path": "local/prahova/maneciu/2025/26",
+   "short": "HCL Măneciu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 26/2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198061",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-27-2025",
+   "path": "local/prahova/maneciu/2025/27",
+   "short": "HCL Măneciu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 27/2025 privind aprobarea Programului de aprovizionare cu produse alimentare și nealimentare ce urmeză a fi distribuite raţionalizat populaţiei comunei Măneciu, judeţul Prahova în caz de mobilizare sau război valabil în perioada 2025-2028",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/198062",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/198062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-28-2025",
+   "path": "local/prahova/maneciu/2025/28",
+   "short": "HCL Măneciu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 28/2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/199527",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/199527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-29-2025",
+   "path": "local/prahova/maneciu/2025/29",
+   "short": "HCL Măneciu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 29/2025 privind aprobarea participării la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/201663",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/201663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-30-2025",
+   "path": "local/prahova/maneciu/2025/30",
+   "short": "HCL Măneciu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 30/2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/202577",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/202577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-31-2025",
+   "path": "local/prahova/maneciu/2025/31",
+   "short": "HCL Măneciu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 31/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe trimestrul I /2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/204730",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/204730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-32-2025",
+   "path": "local/prahova/maneciu/2025/32",
+   "short": "HCL Măneciu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 32/2025 privind indexarea cu rata inflaţiei a impozitelor şi taxelor locale pentru anul 2026 la nivelul comunei Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/204731",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/204731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-33-2025",
+   "path": "local/prahova/maneciu/2025/33",
+   "short": "HCL Măneciu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 33/2025 privind darea în folosinţă gratuită a unui bun aparţinând domeniului privat al Unităţii administrativ-teritoriale Comuna Măneciu, judeţul Prahova către SC APĂ CANAL-MĂNECIU SRL",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/204732",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/204732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-34-2025",
+   "path": "local/prahova/maneciu/2025/34",
+   "short": "HCL Măneciu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 34/2025 privind aprobarea rectificării cărţilor funciare nr. 22629 şi nr. 22630 ale Comunei Măneciu, sat Cheia, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/204733",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/204733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-35-2025",
+   "path": "local/prahova/maneciu/2025/35",
+   "short": "HCL Măneciu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 35/2025 privind aprobarea Planului Anual de acţiune privind serviciile sociale furnizate de Compartimentul serviciu social, asistenţă socială şi autoritate tutelară din cadrul aparatului de specialitate al primarului comunei Măneciu, pentru anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/204734",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/204734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-38-2025",
+   "path": "local/prahova/maneciu/2025/38",
+   "short": "HCL Măneciu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 38/2025 privind rectificarea bugetului local al comunei Măneciu pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/206303",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/206303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-39-2025",
+   "path": "local/prahova/maneciu/2025/39",
+   "short": "HCL Măneciu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 39/2025 privind aprobarea Bugetului creditelor interne al comunei Măneciu pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/206304",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/206304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-4-2025",
+   "path": "local/prahova/maneciu/2025/4",
+   "short": "HCL Măneciu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 4/2025 privind pentru revocarea parţială a Hotărârii Consiliului Local nr. 74 din 18.12.2024 privind stabilirea taxelor și impozitelor locale pentru anul 2025, la nivelul comunei Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/188610",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/188610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-40-2025",
+   "path": "local/prahova/maneciu/2025/40",
+   "short": "HCL Măneciu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 40/2025 privind aprobarea documentației: \"PLAN URBANISTIC ZONAL (PUZ) – RIDICARE INTERDICȚIE TEMPORARĂ DE CONSTRUIRE (S=10000 mp), PARCELARE TEREN ȘI STABILIRE REGLEMENTĂRI URBANISTICE PENTRU ZONĂ MIXTĂ DE LOCUINȚE/INSTITUȚII ȘI SERVICII/TURISM ȘI AMENAJARE DRUM ACCES (S stud.=12342 mp)\"",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/211249",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/211249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-41-2025",
+   "path": "local/prahova/maneciu/2025/41",
+   "short": "HCL Măneciu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 41/2025 privind modificarea Hotărârii Consiliului Local nr. 40/18.07.2024 referitoare la înfiinţarea Asociaţiei „Organizaţia de Management al Destinaţiei Turistice Cheia Măneciu – OMD Cheia Măneciu”",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/211250",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/211250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-43-2025",
+   "path": "local/prahova/maneciu/2025/43",
+   "short": "HCL Măneciu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 43/2025 privind rectificarea bugetului de credite interne al comunei Maneciu",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/215173",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/215173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-44-2025",
+   "path": "local/prahova/maneciu/2025/44",
+   "short": "HCL Măneciu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 44/2025 privind rectificarea bugetului local al comunei Măneciu pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/215174",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/215174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-46-2025",
+   "path": "local/prahova/maneciu/2025/46",
+   "short": "HCL Măneciu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 46/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe trimestrul II /2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/218595",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/218595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-47-2025",
+   "path": "local/prahova/maneciu/2025/47",
+   "short": "HCL Măneciu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 47/2025 pentru validarea Dispoziţiei primarului comunei Maneciu nr. 285/16.07.2025 privind rectificarea bugetului local al comunei Măneciu pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/218596",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/218596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-49-2025",
+   "path": "local/prahova/maneciu/2025/49",
+   "short": "HCL Măneciu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 49/2025 privind trecerea imobilului teren intravilan în suprafaţă de 481 mp, tarlaua 68, parcelele Cc 4749/1, 4749/2 sat Gheaba, înscris în cartea funciară a localităţii sub nr. 23130 din domeniul privat al comunei Măneciu în domeniul public al comunei Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/222750",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/222750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-52-2025",
+   "path": "local/prahova/maneciu/2025/52",
+   "short": "HCL Măneciu nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 52/2025 privind rectificarea bugetului local al comunei Măneciu pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/224896",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/224896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-53-2025",
+   "path": "local/prahova/maneciu/2025/53",
+   "short": "HCL Măneciu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 53/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ”furnizare de servicii integrate în comunitățile rurale- facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/224897",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/224897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-55-2025",
+   "path": "local/prahova/maneciu/2025/55",
+   "short": "HCL Măneciu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 55/2025 privind rectificarea bugetului local al comunei Măneciu pe anul 2025, cu privire la modificarea alocaţiilor bugetare ale unităţilor de învăţământ",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/225911",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/225911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-56-2025",
+   "path": "local/prahova/maneciu/2025/56",
+   "short": "HCL Măneciu nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 56/2025 privind atestarea inventarului bunurilor care aparţin domeniului public al comunei Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/228482",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/228482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-57-2025",
+   "path": "local/prahova/maneciu/2025/57",
+   "short": "HCL Măneciu nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 57/2025 privind implementarea proiectului cu titlul AMENAJARE PIAȚĂ DE INTERES LOCAL MĂNECIU, COMUNA MĂNECIU, JUDEȚUL PRAHOVA",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/228483",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/228483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-59-2025",
+   "path": "local/prahova/maneciu/2025/59",
+   "short": "HCL Măneciu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 59/2025 privind rectificarea bugetului de venituri si cheltuieli al SC APA CANAL MANECIU SRL pe anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/228485",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/228485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-6-2025",
+   "path": "local/prahova/maneciu/2025/6",
+   "short": "HCL Măneciu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 6/2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/191796",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/191796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-60-2025",
+   "path": "local/prahova/maneciu/2025/60",
+   "short": "HCL Măneciu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 60/2025 privind modificarea Hotărârii Consiliului Local al comunei Măneciu nr. 53/ 15.09.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/228486",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/228486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-61-2025",
    "path": "local/prahova/maneciu/2025/61",
    "short": "HCL Măneciu nr. 61/2025",
@@ -298,6 +958,21 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/244310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-9-2025",
+   "path": "local/prahova/maneciu/2025/9",
+   "short": "HCL Măneciu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 9/2025 privind aprobarea unor măsuri pentru implementarea Programului Naţional „Masă sănătoasă” pentru preşcolarii şi elevii din cadrul Şcolii Gimnaziale Măneciu, sat Măneciu- Pămînteni, comuna Măneciu, judeţul Prahova în anul 2025",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/193426",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/193426",
      "sha256": null
     }
    ]

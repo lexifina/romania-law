@@ -3,6 +3,21 @@
  "shard": "local/prahova/pacureti/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--pacureti-1-2023",
+   "path": "local/prahova/pacureti/2023/1",
+   "short": "HCL Păcureți nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 1/2023 PROIECTE SEDINT AORDINARA 27.01.2023",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#41575",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#41575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--pacureti-10-2023",
    "path": "local/prahova/pacureti/2023/10",
    "short": "HCL Păcureți nr. 10/2023",
@@ -148,6 +163,36 @@
      "from": "2023-11-07",
      "units": 1,
      "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#63625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-2-2023",
+   "path": "local/prahova/pacureti/2023/2",
+   "short": "HCL Păcureți nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 2/2023 proiect retea scolara , presedinte sedinta , rectificare buget",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#43738",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#43738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--pacureti-3-2023",
+   "path": "local/prahova/pacureti/2023/3",
+   "short": "HCL Păcureți nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păcureți nr. 3/2023 Privind aprobarea D.A.L.I , a indicatorilor tehnico-economici si a devizului general aferent obiectivului de investiții ,,Modernizare drumuri de interes local si drum comunal , in satele Păcureți , Matița,Bărzila, Curmătura si Slavu ,Comuna Păcureţi , jud. Prahova’’,precum si aprobarea cheltuielilor finantate de la bugetul local",
+   "url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#46274",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://pacureti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2780#46274",
      "sha256": null
     }
    ]

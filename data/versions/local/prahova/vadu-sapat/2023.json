@@ -3,6 +3,636 @@
  "shard": "local/prahova/vadu-sapat/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--vadu-sapat-1-2023",
+   "path": "local/prahova/vadu-sapat/2023/1",
+   "short": "HCL Vadu Săpat nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 1/2023 privind acoperirea definitiva a deficitului Sectiunii de Dezvoltare a anului 2022 si stabilirea excedentului anilor precedenti",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94132",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-10-2023",
+   "path": "local/prahova/vadu-sapat/2023/10",
+   "short": "HCL Vadu Săpat nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 10/2023 privind privind aprobarea Planului de actiuni si lucrari de interes local al beneficiarilor prevederilor Legii nr 416/2001, pentru anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94161",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-11-2023",
+   "path": "local/prahova/vadu-sapat/2023/11",
+   "short": "HCL Vadu Săpat nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 11/2023 privind privind stabilirea unor situatii deosebite in vederea acordarii unor ajutoare de urgenta, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94162",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-12-2023",
+   "path": "local/prahova/vadu-sapat/2023/12",
+   "short": "HCL Vadu Săpat nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 12/2023 privind privind aprobarea Raportului privind monitorizarea activitatii asistentilor personali, pe semestrul II, anul 2022",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94163",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-13-2023",
+   "path": "local/prahova/vadu-sapat/2023/13",
+   "short": "HCL Vadu Săpat nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 13/2023 privind reorganizarea retelei scolare pentru anul scolar 2023-2024 la nivelul comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94164",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-14-2023",
+   "path": "local/prahova/vadu-sapat/2023/14",
+   "short": "HCL Vadu Săpat nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 14/2023 privind aprobarea investitiei EXTINDERE RETELE DE CANALIZARE IN SATELE VADU SAPAT SI GHINOAICA, COMUNA VADU SAPAT, JUDETUL PRAHOVA, a documentatiei tehnico economice, a devizului general si a principalilor indicatori tehnico-economici",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94165",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-15-2023",
+   "path": "local/prahova/vadu-sapat/2023/15",
+   "short": "HCL Vadu Săpat nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 15/2023 privind aprobarea depunerii cererii de finanțare aferentă obiectivului de investiții: “EXTINDERE RETELE DE CANALIZARE IN SATELE VADU SĂPAT ȘI GHINOAICA, COMUNA VADU SĂPAT, JUDETUL PRAHOVA” în cadrul Programului Național de Redresare și Reziliență, Componenta C1 – Managementul apei, Axa de investitii I.2 – Colectarea apelor uzate în aglomerările mai mici de 2000 de l.e. care împiedică atingerea unei stări bune a corpurilor de apă și / sau afectează arii naturale protejate",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94166",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-16-2023",
+   "path": "local/prahova/vadu-sapat/2023/16",
+   "short": "HCL Vadu Săpat nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 16/2023 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94167",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-17-2023",
+   "path": "local/prahova/vadu-sapat/2023/17",
+   "short": "HCL Vadu Săpat nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 17/2023 privind modificarea Programului investitiilor publice pe anul 2023 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94168",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-18-2023",
+   "path": "local/prahova/vadu-sapat/2023/18",
+   "short": "HCL Vadu Săpat nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 18/2023 privind actualizare PLAN URBANISTIC GENERAL SI REGULAMENT LOCAL DE URBANISM COMUNA VADU SAPAT, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94169",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-19-2023",
+   "path": "local/prahova/vadu-sapat/2023/19",
+   "short": "HCL Vadu Săpat nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 19/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii şi Solidarității Sociale (MMSS) și Unitatea Administrativă Vadu Sapat județul Prahova având ca obiect asigurarea colaborării interinstituționale MMSS și UAT Vadu Sapat în cadrul proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94170",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-2-2023",
+   "path": "local/prahova/vadu-sapat/2023/2",
+   "short": "HCL Vadu Săpat nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 2/2023 privind aprobarea utilizarii excedentului anilor precedenti, in suma de 1.248.000,00 lei",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94153",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-20-2023",
+   "path": "local/prahova/vadu-sapat/2023/20",
+   "short": "HCL Vadu Săpat nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 20/2023 privind RECTIFICAREA BUGETULUI LOCAL PE ANUL 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/96068",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/96068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-21-2023",
+   "path": "local/prahova/vadu-sapat/2023/21",
+   "short": "HCL Vadu Săpat nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 21/2023 privind alegerea presedintelui de sedinta pentru perioada APRILIE 2023 - IUNIE 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106651",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-22-2023",
+   "path": "local/prahova/vadu-sapat/2023/22",
+   "short": "HCL Vadu Săpat nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 22/2023 privind aprobarea modificarii statului de functii si a organigramei aparatului de specialitate al primarului comunei Vadu Sapat, judetul Prahova;",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106652",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-23-2023",
+   "path": "local/prahova/vadu-sapat/2023/23",
+   "short": "HCL Vadu Săpat nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 23/2023 privind aprobarea Planului anual de perfectionare profesionala a functionarilor publici din cadrul aparatului de specialitate al primarului, pentru anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106653",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-24-2023",
+   "path": "local/prahova/vadu-sapat/2023/24",
+   "short": "HCL Vadu Săpat nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 24/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106654",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-25-2023",
+   "path": "local/prahova/vadu-sapat/2023/25",
+   "short": "HCL Vadu Săpat nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 25/2023 privind includerea în domeniul public al comunei Vadu Sapat, ca urmare a recepției, a investiţiei „Foraj Put de Mare Adancime (Construire Foraj, Aductiune, Imprejmuire si Lucrari Conexe), Satul Ungureni, Comuna Vadu Sapat, Judetul Prahova”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106655",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-26-2023",
+   "path": "local/prahova/vadu-sapat/2023/26",
+   "short": "HCL Vadu Săpat nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 26/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106656",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-27-2023",
+   "path": "local/prahova/vadu-sapat/2023/27",
+   "short": "HCL Vadu Săpat nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 27/2023 privind reactualizarea coeficientilor de salarizare, a cuantumului salariilor de baza si a altor drepturi salariale pentru personalul din cadrul aparatului de specialitate al Primarului comunei Vadu Sapat, judetul Prahova;",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106657",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-28-2023",
+   "path": "local/prahova/vadu-sapat/2023/28",
+   "short": "HCL Vadu Săpat nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 28/2023 privind aderarea ca membru la PARTENERIATUL DE DEZVOLTARE DURABILA TINUTURILE BUDUREASCA",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106697",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-29-2023",
+   "path": "local/prahova/vadu-sapat/2023/29",
+   "short": "HCL Vadu Săpat nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 29/2023 privind aprobarea modificării caracteristicilor tehnice pentru tractorul din cadrul proiectului „DOTAREA CU UTILAJE A COMUNEI VADU SĂPAT, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106698",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-3-2023",
+   "path": "local/prahova/vadu-sapat/2023/3",
+   "short": "HCL Vadu Săpat nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 3/2023 privind aprobarea bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94154",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-30-2023",
+   "path": "local/prahova/vadu-sapat/2023/30",
+   "short": "HCL Vadu Săpat nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 30/2023 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106699",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-31-2023",
+   "path": "local/prahova/vadu-sapat/2023/31",
+   "short": "HCL Vadu Săpat nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 31/2023 privind aprobarea contului anual de execuție a bugetului local al comunei Vadu Sapat pe anul 2022",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106700",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-32-2023",
+   "path": "local/prahova/vadu-sapat/2023/32",
+   "short": "HCL Vadu Săpat nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 32/2023 privind aprobarea Statutului Comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106701",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-33-2023",
+   "path": "local/prahova/vadu-sapat/2023/33",
+   "short": "HCL Vadu Săpat nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 33/2023 privind actualizarea Devizului general aferent obiectivului „AMENAJARE SANTURI SI RIGOLE” , COMUNA VADU SAPAT, JUDETUL PRAHOVA",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106702",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-34-2023",
+   "path": "local/prahova/vadu-sapat/2023/34",
+   "short": "HCL Vadu Săpat nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 34/2023 privind aprobarea cererii prin care se solicita transferul bunurilor imobile aferente circumscriptiei sanitar veterinare, din domeniul privat al statului in domeniul privat al UAT Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106703",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-36-2023",
+   "path": "local/prahova/vadu-sapat/2023/36",
+   "short": "HCL Vadu Săpat nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 36/2023 privind aprobarea Planului Anual de Actiune privind serviciile sociale pentru anul 2023, la nivelul comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106705",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-37-2023",
+   "path": "local/prahova/vadu-sapat/2023/37",
+   "short": "HCL Vadu Săpat nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 37/2023 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/110794",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/110794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-38-2023",
+   "path": "local/prahova/vadu-sapat/2023/38",
+   "short": "HCL Vadu Săpat nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 38/2023 privind aprobarea actualizarii principalilor indicatori tehnico-economici aferenti obiectivului „EXTINDERE RETELE DE CANALIZARE IN SATUL UNGURENI, COMUNA VADU SAPAT, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/110795",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/110795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-39-2023",
+   "path": "local/prahova/vadu-sapat/2023/39",
+   "short": "HCL Vadu Săpat nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 39/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/110796",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/110796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-4-2023",
+   "path": "local/prahova/vadu-sapat/2023/4",
+   "short": "HCL Vadu Săpat nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 4/2023 privind privind aprobarea Programului investitiilor publice pe anul 2023 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94155",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-40-2023",
+   "path": "local/prahova/vadu-sapat/2023/40",
+   "short": "HCL Vadu Săpat nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 40/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/110797",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/110797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-41-2023",
+   "path": "local/prahova/vadu-sapat/2023/41",
+   "short": "HCL Vadu Săpat nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 41/2023 privind alegerea presedintelui de sedinta pentru perioada IULIE 2023 - SEPTEMBRIE 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/113194",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/113194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-42-2023",
+   "path": "local/prahova/vadu-sapat/2023/42",
+   "short": "HCL Vadu Săpat nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 42/2023 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/113195",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/113195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-43-2023",
+   "path": "local/prahova/vadu-sapat/2023/43",
+   "short": "HCL Vadu Săpat nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 43/2023 privind modificarea Programului investitiilor publice pe anul 2023 al comunei Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/113196",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/113196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-44-2023",
+   "path": "local/prahova/vadu-sapat/2023/44",
+   "short": "HCL Vadu Săpat nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 44/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/113197",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/113197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-45-2023",
+   "path": "local/prahova/vadu-sapat/2023/45",
+   "short": "HCL Vadu Săpat nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 45/2023 privind aprobarea Raportului privind monitorizarea activitatii asistentilor personali, pe semestrul I, anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/113198",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/113198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-46-2023",
+   "path": "local/prahova/vadu-sapat/2023/46",
+   "short": "HCL Vadu Săpat nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 46/2023 privind aprobarea participării comunei Vadu Săpat în cadrul PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ (PNRR), Pilonul VI. Politici pentru noua generație, Componenta C15: Educație, apelul de proiecte Construirea și dezvoltarea unei rețele-pilot de școli verzi",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/115666",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/115666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-48-2023",
+   "path": "local/prahova/vadu-sapat/2023/48",
+   "short": "HCL Vadu Săpat nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 48/2023 privind aprobarea rectificarii bugetului local al comunei Vadu Sapat, judetul Prahova, pe anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/115938",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/115938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-5-2023",
+   "path": "local/prahova/vadu-sapat/2023/5",
+   "short": "HCL Vadu Săpat nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 5/2023 privindprivind aprobarea actualizarii Studiului de Fezabilitate aferent obiectivului „EXTINDERE RETELE DE CANALIZARE IN SATUL UNGURENI, COMUNA VADU SAPAT, JUDETUL PRAHOVA” , a devizului general estimativ si a principalilor indicatori tehnico-economici",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94156",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94156",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-52-2023",
    "path": "local/prahova/vadu-sapat/2023/52",
    "short": "HCL Vadu Săpat nr. 52/2023",
@@ -118,6 +748,21 @@
      "from": "2023-11-28",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/124826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-6-2023",
+   "path": "local/prahova/vadu-sapat/2023/6",
+   "short": "HCL Vadu Săpat nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 6/2023 privind privind cofinanţărea obiectivului de investiţie „EXTINDERE RETELE DE CANALIZARE IN SATUL UNGURENI, COMUNA VADU SAPAT, JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94157",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94157",
      "sha256": null
     }
    ]
@@ -273,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-7-2023",
+   "path": "local/prahova/vadu-sapat/2023/7",
+   "short": "HCL Vadu Săpat nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 7/2023 privind privind insusirea Rapoartelor de evaluare avand ca obiect bunuri proprietatea publica si privata a UAT Vadu Sapat, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94158",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-70-2023",
    "path": "local/prahova/vadu-sapat/2023/70",
    "short": "HCL Vadu Săpat nr. 70/2023",
@@ -298,6 +958,21 @@
      "from": "2024-01-12",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/137405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-9-2023",
+   "path": "local/prahova/vadu-sapat/2023/9",
+   "short": "HCL Vadu Săpat nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 9/2023 privind privind alegerea presedintelui de sedinta pentru perioada IANUARIE 2023 - MARTIE 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94160",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94160",
      "sha256": null
     }
    ]

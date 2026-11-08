@@ -3,6 +3,471 @@
  "shard": "local/prahova/manesti/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--manesti-1-2026",
+   "path": "local/prahova/manesti/2026/1",
+   "short": "HCL Mănești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 1/2026 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare la data de 31.12.2025 din excedentul bugetului local al anilor precedenți",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/249719",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/249719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-10-2026",
+   "path": "local/prahova/manesti/2026/10",
+   "short": "HCL Mănești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 10/2026 privind aprobarea Organigramei şi a Ștatului de funcţii ale aparatului de specialitate al Primarului comunei Mănești, județul Prahova",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254474",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-11-2026",
+   "path": "local/prahova/manesti/2026/11",
+   "short": "HCL Mănești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 11/2026 privind mandatarea reprezentantului comunei Mănești, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze retragerea comunei Berceni din cadrul Asociației",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254475",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-12-2026",
+   "path": "local/prahova/manesti/2026/12",
+   "short": "HCL Mănești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 12/2026 privind acordarea dreptului de utilizare zona drumului, uz și servitute de trecere către ENGIE ROMÂNIA SA",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254476",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-13-2026",
+   "path": "local/prahova/manesti/2026/13",
+   "short": "HCL Mănești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 13/2026 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2025",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254477",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-14-2026",
+   "path": "local/prahova/manesti/2026/14",
+   "short": "HCL Mănești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 14/2026 privind neasumarea responsabilității organizării și derularii procedurilor de atribuire a contractelor /acordurilor -cadru pentru achizitia produselor aferente programului si a contractelor/acorsurilor cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254478",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-15-2026",
+   "path": "local/prahova/manesti/2026/15",
+   "short": "HCL Mănești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 15/2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254479",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-16-2026",
+   "path": "local/prahova/manesti/2026/16",
+   "short": "HCL Mănești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 16/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pentru persoanele apte de muncă din familiile beneficiare de venit minim de incluziune pentru anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254480",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-17-2026",
+   "path": "local/prahova/manesti/2026/17",
+   "short": "HCL Mănești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 17/2026 privind reorganizarea Serviciului Voluntar în Situații de Urgență și aprobarea Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254481",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-18-2026",
+   "path": "local/prahova/manesti/2026/18",
+   "short": "HCL Mănești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 18/2026 privind aprobarea prelungirii Contractului cde delegare a gestiunii activității de colectare, transport și transfer a deșeurilor municipale pentru zona 2 -Boldești Scăeni și zona6- Valea Doftanei nr.1884/15.04.2025",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/262200",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/262200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-19-2026",
+   "path": "local/prahova/manesti/2026/19",
+   "short": "HCL Mănești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 19/2026 privind aprobarea dezmembrării terenului intravilan în suprafață totală de 7198 mp aflat în T5 P627",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/262201",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/262201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-2-2026",
+   "path": "local/prahova/manesti/2026/2",
+   "short": "HCL Mănești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 2/2026 privind utilizarea excedentului bugetului anului 2025 în anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/249720",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/249720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-21-2026",
+   "path": "local/prahova/manesti/2026/21",
+   "short": "HCL Mănești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 21/2026 privind alegerea președintelui de ședință pentru lunile mai 2026-iulie 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/264269",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/264269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-22-2026",
+   "path": "local/prahova/manesti/2026/22",
+   "short": "HCL Mănești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 22/2026 privind aprobarea actualizării domeniului public cu drumuri de exploatare și canale existente pe raza comunei Mănești",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/264270",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/264270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-23-2026",
+   "path": "local/prahova/manesti/2026/23",
+   "short": "HCL Mănești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 23/2026 privind stabilirea condițiilor de acordare a dreptului de utilizare, acces și amplasarea construcțiilor și instalațiilor în zona drumurilor publice către ENGIE ROMANIA S.A",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/264271",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/264271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-24-2026",
+   "path": "local/prahova/manesti/2026/24",
+   "short": "HCL Mănești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 24/2026 privind aprobarea bugetului local al comunei Măneşti, Judetul Prahova pentru anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/265926",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/265926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-25-2026",
+   "path": "local/prahova/manesti/2026/25",
+   "short": "HCL Mănești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 25/2026 privind aprobarea Programul Anual al Achizițiilor Publice și al Planului Anual de investiții al comunei Mănești , județul Prahova pentru anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/265927",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/265927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-26-2026",
+   "path": "local/prahova/manesti/2026/26",
+   "short": "HCL Mănești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 26/2026 privind utilizarea excedentul bugetar al anului 2025 in anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/265928",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/265928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-27-2026",
+   "path": "local/prahova/manesti/2026/27",
+   "short": "HCL Mănești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 27/2026 privind modificarea HCL nr.19 din 25.03.2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/265929",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/265929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-28-2026",
+   "path": "local/prahova/manesti/2026/28",
+   "short": "HCL Mănești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 28/2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/265930",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/265930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-29-2026",
+   "path": "local/prahova/manesti/2026/29",
+   "short": "HCL Mănești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 29/2026 privind modificarea bugetului local al comunei Măneşti, judetul Prahova pe anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/266004",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/266004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-3-2026",
+   "path": "local/prahova/manesti/2026/3",
+   "short": "HCL Mănești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 3/2026 privind privind aprobarea listei de investiții provizorie aferentă anului 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/249721",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/249721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-30-2026",
+   "path": "local/prahova/manesti/2026/30",
+   "short": "HCL Mănești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 30/2026 privind aprobarea modificarii Organigramei şi a Ștatului de funcţii ale aparatului de specialitate al Primarului comunei Mănești, județul Prahova",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/266005",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/266005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-31-2026",
+   "path": "local/prahova/manesti/2026/31",
+   "short": "HCL Mănești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 31/2026 privind - aprobarea Regulamentului cadru pentru atribuirea terenurilor în baza Legii nr. 15/2003, republicată, privind sprijinul acordat tinerilor pentru construirea unei locuinţe în comuna Mănești, Județul Prahova",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/266006",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/266006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-32-2026",
+   "path": "local/prahova/manesti/2026/32",
+   "short": "HCL Mănești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 32/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2026 şi stabilirea măsurilor pentru eficientizarea acestei activităţi pe trimestrul II 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271806",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-33-2026",
+   "path": "local/prahova/manesti/2026/33",
+   "short": "HCL Mănești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 33/2026 privind rectificarea bugetului local al Comunei Mănești, judetul Prahova, pe anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271807",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-34-2026",
+   "path": "local/prahova/manesti/2026/34",
+   "short": "HCL Mănești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 34/2026 privind modificarea si completarea Programului Anual al Achizițiilor Publice si al Planului Anual de Investiții al comunei Mănești pentru anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271808",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-35-2026",
+   "path": "local/prahova/manesti/2026/35",
+   "short": "HCL Mănești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 35/2026 privind acordarea unui mandat reprezentantului legal al unității administrativ teritoriale în Adunarea Generală a Asociației, în vederea exprimării votului pentru aprobarea Strategiei de operaționalizare a serviciului de transport public local",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271809",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-36-2026",
+   "path": "local/prahova/manesti/2026/36",
+   "short": "HCL Mănești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 36/2026 privind utilizarea excedentul bugetar al anului 2025 in anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271810",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-37-2026",
+   "path": "local/prahova/manesti/2026/37",
+   "short": "HCL Mănești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 37/2026 privind schimbarea destinației imobilului situat în jud. Prahova, com. Mănești, sat Mănești, str. Principală, nr. 187, identificat cu nr. cadastral 28766, aparținând domeniului public al comunei Mănești, din imobil cu destinație activități didactice în imobil cu destinație de clădire administrativă",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271811",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-38-2026",
+   "path": "local/prahova/manesti/2026/38",
+   "short": "HCL Mănești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 38/2026 privind implementarea proiectului „EXTINDERE SISTEM DE SUPRAVEGHERE VIDEO INTELIGENT SI SECURIZARE SEDII ADMINISTRATIVE” COMUNA MĂNEȘTI, JUDEȚ PRAHOVA",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/271812",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/271812",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--manesti-39-2026",
    "path": "local/prahova/manesti/2026/39",
    "short": "HCL Mănești nr. 39/2026",
@@ -13,6 +478,21 @@
      "from": "2026-06-02",
      "units": 1,
      "source_url": "https://emol.ro/manesti-ph/registru-hcl/271813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-4-2026",
+   "path": "local/prahova/manesti/2026/4",
+   "short": "HCL Mănești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 4/2026 privind aprobarea suportului alimentar acordat preșcolarilor si elevilor în cadrul Programului naţional \"Masă sănătoasă\" în anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/249722",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/249722",
      "sha256": null
     }
    ]
@@ -168,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--manesti-5-2026",
+   "path": "local/prahova/manesti/2026/5",
+   "short": "HCL Mănești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 5/2026 privind alegerea președintelui de ședință pentru lunile februarie 2026-aprilie 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254469",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254469",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--manesti-50-2026",
    "path": "local/prahova/manesti/2026/50",
    "short": "HCL Mănești nr. 50/2026",
@@ -298,6 +793,51 @@
      "from": "2026-10-06",
      "units": 1,
      "source_url": "https://emol.ro/manesti-ph/registru-hcl/292141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-6-2026",
+   "path": "local/prahova/manesti/2026/6",
+   "short": "HCL Mănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 6/2026 privind aprobarea planului anual de acțiune privind serviciile sociale acordate la nivelul comunei mănești , județul prahova pentru anul 2026",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254470",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-7-2026",
+   "path": "local/prahova/manesti/2026/7",
+   "short": "HCL Mănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 7/2026 privind aprobarea devizului general actualizat și indicatorii tehnico-economici pentru obiectivul „REALIZARE SISTEM DE CANALIZARE ȘI STAȚIE DE EPURARE A APELOR UZATE ÎN SATUL MĂNEȘTI ȘI SATELE: BĂLTIȚA, GURA CRIVĂȚULUI, COADA IZVORULUI ȘI ZALHANAUA DIN COMUNA MĂNEȘTI, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254471",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-9-2026",
+   "path": "local/prahova/manesti/2026/9",
+   "short": "HCL Mănești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 9/2026 privind aprobarea dezmembrării terenului intravilan în suprafață totală de 231 mp, aflat în T 6, Parcela CC 648/1 în două loturi",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254473",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254473",
      "sha256": null
     }
    ]
