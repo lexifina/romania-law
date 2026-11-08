@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-20-2024",
+   "path": "local/iasi/erbiceni/2024/20",
+   "short": "HCL Erbiceni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 20/2024 privind acordare 5.000 lei ajutor de urgenta Gurduza Zaharia",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149563",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149563",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-21-2024",
    "path": "local/iasi/erbiceni/2024/21",
    "short": "HCL Erbiceni nr. 21/2024",
@@ -283,6 +298,21 @@
      "from": "2024-07-03",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-25-2024",
+   "path": "local/iasi/erbiceni/2024/25",
+   "short": "HCL Erbiceni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 25/2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149577",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149577",
      "sha256": null
     }
    ]
@@ -388,6 +418,21 @@
      "from": "2024-03-21",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-32-2024",
+   "path": "local/iasi/erbiceni/2024/32",
+   "short": "HCL Erbiceni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 32/2024 privind acordare ajutor de urgenta 5000 lei Mirica petronela",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168916",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168916",
      "sha256": null
     }
    ]

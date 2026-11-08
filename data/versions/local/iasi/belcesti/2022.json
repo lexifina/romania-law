@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-19-2022",
+   "path": "local/iasi/belcesti/2022/19",
+   "short": "HCL Belcești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 19/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90366",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90366",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-2-2022",
    "path": "local/iasi/belcesti/2022/2",
    "short": "HCL Belcești nr. 2/2022",
@@ -373,6 +388,21 @@
      "from": "2022-03-31",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-21-2022",
+   "path": "local/iasi/belcesti/2022/21",
+   "short": "HCL Belcești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 21/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90368",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90368",
      "sha256": null
     }
    ]
@@ -453,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-27-2022",
+   "path": "local/iasi/belcesti/2022/27",
+   "short": "HCL Belcești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 27/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90383",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90383",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-28-2022",
    "path": "local/iasi/belcesti/2022/28",
    "short": "HCL Belcești nr. 28/2022",
@@ -468,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-29-2022",
+   "path": "local/iasi/belcesti/2022/29",
+   "short": "HCL Belcești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 29/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90385",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90385",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-3-2022",
    "path": "local/iasi/belcesti/2022/3",
    "short": "HCL Belcești nr. 3/2022",
@@ -478,6 +538,51 @@
      "from": "2022-02-09",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-30-2022",
+   "path": "local/iasi/belcesti/2022/30",
+   "short": "HCL Belcești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 30/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90386",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-31-2022",
+   "path": "local/iasi/belcesti/2022/31",
+   "short": "HCL Belcești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 31/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90387",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-32-2022",
+   "path": "local/iasi/belcesti/2022/32",
+   "short": "HCL Belcești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 32/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90388",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90388",
      "sha256": null
     }
    ]
@@ -573,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-39-2022",
+   "path": "local/iasi/belcesti/2022/39",
+   "short": "HCL Belcești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 39/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90421",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90421",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-4-2022",
    "path": "local/iasi/belcesti/2022/4",
    "short": "HCL Belcești nr. 4/2022",
@@ -588,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-40-2022",
+   "path": "local/iasi/belcesti/2022/40",
+   "short": "HCL Belcești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 40/2022 privind aprobare dezmembrare imobile",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90422",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90422",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-41-2022",
    "path": "local/iasi/belcesti/2022/41",
    "short": "HCL Belcești nr. 41/2022",
@@ -598,6 +733,66 @@
      "from": "2022-05-31",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-42-2022",
+   "path": "local/iasi/belcesti/2022/42",
+   "short": "HCL Belcești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 42/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90424",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-43-2022",
+   "path": "local/iasi/belcesti/2022/43",
+   "short": "HCL Belcești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 43/2022 privind acordarea unui sprijin financiar parohiei Adormirea Maicii Domnului, Tansa",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90425",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-44-2022",
+   "path": "local/iasi/belcesti/2022/44",
+   "short": "HCL Belcești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 44/2022 privind acordarea unui sprijin financiar parohiei Sf. Arh. Mihail și Gavril, Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90426",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-45-2022",
+   "path": "local/iasi/belcesti/2022/45",
+   "short": "HCL Belcești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 45/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90427",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90427",
      "sha256": null
     }
    ]
@@ -678,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-50-2022",
+   "path": "local/iasi/belcesti/2022/50",
+   "short": "HCL Belcești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 50/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90515",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90515",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-51-2022",
    "path": "local/iasi/belcesti/2022/51",
    "short": "HCL Belcești nr. 51/2022",
@@ -703,6 +913,21 @@
      "from": "2022-06-30",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-53-2022",
+   "path": "local/iasi/belcesti/2022/53",
+   "short": "HCL Belcești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 53/2022 privind aprobare presedinti sedinta",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90518",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90518",
      "sha256": null
     }
    ]
@@ -738,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-56-2022",
+   "path": "local/iasi/belcesti/2022/56",
+   "short": "HCL Belcești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 56/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90521",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90521",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-57-2022",
    "path": "local/iasi/belcesti/2022/57",
    "short": "HCL Belcești nr. 57/2022",
@@ -748,6 +988,36 @@
      "from": "2022-07-22",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-58-2022",
+   "path": "local/iasi/belcesti/2022/58",
+   "short": "HCL Belcești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 58/2022 privind aprobarea proiectului si devizului general al obiectivului de investiție actualizarea lucrărilor pentru grădinița Ulmi, comuna Belcești în vederea obținerii avizului ISU și receptionarea lucrarilor si demolare corp scoala veche",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90523",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-59-2022",
+   "path": "local/iasi/belcesti/2022/59",
+   "short": "HCL Belcești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 59/2022 privind modificarea art. 2 din Hotărârea Consiliului Local al Comunei Belcești nr. 48/13.07.2018",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90524",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90524",
      "sha256": null
     }
    ]
@@ -768,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-60-2022",
+   "path": "local/iasi/belcesti/2022/60",
+   "short": "HCL Belcești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 60/2022 privind modificarea art. 1 la Hotărâreea Consiliului Local al Comunei Belcești nr. 20 din 31.03.2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90525",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-61-2022",
    "path": "local/iasi/belcesti/2022/61",
    "short": "HCL Belcești nr. 61/2022",
@@ -783,6 +1068,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-62-2022",
+   "path": "local/iasi/belcesti/2022/62",
+   "short": "HCL Belcești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 62/2022 privind actualizare deviz pentru obiectivul de investiții Campus Școlar - Liceu Tehnologic VM Craiu sat Belcești, comuna Belcești, județul Iași",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90527",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-63-2022",
+   "path": "local/iasi/belcesti/2022/63",
+   "short": "HCL Belcești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 63/2022 privind aprobarea lucrărilor de întreținere fără afectarea elementelor structurale ale clădirii administrative Primăria veche",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90528",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-64-2022",
+   "path": "local/iasi/belcesti/2022/64",
+   "short": "HCL Belcești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 64/2022 privind scoaterea din funcțiune si casare a unor obiecte de inventar ale UAT Belcești în urma inventarierii anuale la 31.12.2021",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90529",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-65-2022",
+   "path": "local/iasi/belcesti/2022/65",
+   "short": "HCL Belcești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 65/2022 privind numire reprezentant în comisia de concurs Directori Școli",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90530",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90530",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-66-2022",
    "path": "local/iasi/belcesti/2022/66",
    "short": "HCL Belcești nr. 66/2022",
@@ -793,6 +1138,51 @@
      "from": "2023-09-15",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-67-2022",
+   "path": "local/iasi/belcesti/2022/67",
+   "short": "HCL Belcești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 67/2022",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90543",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-68-2022",
+   "path": "local/iasi/belcesti/2022/68",
+   "short": "HCL Belcești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 68/2022 privind numire reprezentant al Consiliul Local în Consiliul de Administrație și în Comisia de Evaluare și Asigurarea Calității a Școlii Gimnaziale Liteni",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90544",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-69-2022",
+   "path": "local/iasi/belcesti/2022/69",
+   "short": "HCL Belcești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 69/2022 privind numire reprezentanți ai Consiliului Local în Consiliul de Administrație și în Comisia de Evaluare și Asigurarea Calității a Școlii Gimnaziale Ruși",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90545",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90545",
      "sha256": null
     }
    ]
@@ -823,6 +1213,21 @@
      "from": "2023-09-15",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-71-2022",
+   "path": "local/iasi/belcesti/2022/71",
+   "short": "HCL Belcești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 71/2022 privind aprobare dezmembrare imobile",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90547",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90547",
      "sha256": null
     }
    ]
@@ -883,6 +1288,21 @@
      "from": "2023-09-15",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/90551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-76-2022",
+   "path": "local/iasi/belcesti/2022/76",
+   "short": "HCL Belcești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 76/2022 privind acordarea unui sprijin financiar parohiei Sf. Arh. Mihail și Gavril Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/90564",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/90564",
      "sha256": null
     }
    ]

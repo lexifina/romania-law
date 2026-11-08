@@ -245,6 +245,29 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-12-2023",
+"path": "local/iasi/erbiceni/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 12/2023",
+"short": "HCL Erbiceni nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/106784",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-13-2023",
 "path": "local/iasi/erbiceni/2023/13",
 "kind": "local",
@@ -2178,6 +2201,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-101-2023",
+"path": "local/iasi/erbiceni/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 101/2023 privind desemnare reprezentanti CL la Scoala Erbiceni",
+"short": "HCL Erbiceni nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/140634",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

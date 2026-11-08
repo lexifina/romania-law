@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-2-2025",
+"path": "local/iasi/ciortesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 2/2025 privind mandatarea Primarului comunei Ciortești, pentru semnarea la notar a alipirii a două imobile identificate cu NC61383, respectiv cu NC 61243, situate în intravilanul comunei Ciortești, județul Iași",
+"short": "HCL Ciortești nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208731",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-3-2025",
+"path": "local/iasi/ciortesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 3/2025 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+"short": "HCL Ciortești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208732",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-4-2025",
 "path": "local/iasi/ciortesti/2025/4",
 "kind": "local",
@@ -91,6 +135,94 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-7-2025",
+"path": "local/iasi/ciortesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 7/2025 privind aprobarea cheltuielilor pentru activitățile culturale ale cursurilor pentru Fanfara de copii Ciortești - Dolhești",
+"short": "HCL Ciortești nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208736",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-8-2025",
+"path": "local/iasi/ciortesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 8/2025 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociației de Dezvoltare Intercomunitară ''Parteneri în Investiții''",
+"short": "HCL Ciortești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208737",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-9-2025",
+"path": "local/iasi/ciortesti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 9/2025 privind actualizarea obligațiilor financiare rezultate din ''Acordul de cooperare'' cu Asociația Comunelor din România nr. 31 din 09.10.2012",
+"short": "HCL Ciortești nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208741",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-10-2025",
+"path": "local/iasi/ciortesti/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 10/2025 privind alegerea președintelui de ședință pentru următoarele trei luni",
+"short": "HCL Ciortești nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208742",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-11-2025",
 "path": "local/iasi/ciortesti/2025/11",
 "kind": "local",
@@ -132,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-13-2025",
+"path": "local/iasi/ciortesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 13/2025 privind actualizarea Statutului Comunei Ciortești, județul Iași",
+"short": "HCL Ciortești nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208746",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-19-2025",
+"path": "local/iasi/ciortesti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 19/2025 privind aprobarea graficului de ședință pentru trimestrul al II-lea 2025",
+"short": "HCL Ciortești nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208753",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +553,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-26-2025",
+"path": "local/iasi/ciortesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 26/2025 privind alegerea președintelui de ședință pentru următoarele trei luni",
+"short": "HCL Ciortești nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208779",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-27-2025",
 "path": "local/iasi/ciortesti/2025/27",
 "kind": "local",
@@ -484,6 +682,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-32-2025",
+"path": "local/iasi/ciortesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 32/2025 privind rezilierea contractului de inchiriere pentru suprafetele de pajisti aflate in domeniul privat al comunei Ciortesti nr.15 din 12.05.2017",
+"short": "HCL Ciortești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/217759",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -616,6 +836,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-39-2025",
+"path": "local/iasi/ciortesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 39/2025 privind aprobarea Studiului de fundamentare a deciziei de concesionare conform cu Ghidul Solicitantului si aplicatia de finantare, a serviciului de utilitate publica de distributie a gazelor naturale in comuna Ciortesti, judetul Iasi in cadrul proiectului „Infiintare retea de distributie gaze naturale in comunele Ciortesti, Dobrovat si Scanteia din judetul Iasi”",
+"short": "HCL Ciortești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/217780",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1477,6 +1719,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-79-2025",
+"path": "local/iasi/ciortesti/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 79/2025 privind numirea a doi consilieri locali reprezentanti in cadrul Consiliul de Administratie, respectiv un reprezentant în cadrul Comisiei de Evaluare și Asigurare a Calitatii pentru Scoala Gimnazială Ciortesti, în anul școlar 2025-2026",
+"short": "HCL Ciortești nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/251120",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-80-2025",
 "path": "local/iasi/ciortesti/2025/80",
 "kind": "local",
@@ -1496,6 +1760,29 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-81-2025",
+"path": "local/iasi/ciortesti/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 81/2025",
+"short": "HCL Ciortești nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/251326",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1629,6 +1916,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-88-2025",
+"path": "local/iasi/ciortesti/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 88/2025 privind alegerea presedintelui de sedinta pentru perioada octombrie 2025 – decembrie 2025",
+"short": "HCL Ciortești nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/251339",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

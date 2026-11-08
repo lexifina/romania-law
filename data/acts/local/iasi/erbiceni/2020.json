@@ -1106,6 +1106,28 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-51-2020",
+"path": "local/iasi/erbiceni/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 51/2020 privind scoaterea din evidenta contabila a unor debite",
+"short": "HCL Erbiceni nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14252",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-52-2020",
 "path": "local/iasi/erbiceni/2020/52",
 "kind": "local",
@@ -1147,6 +1169,72 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-54-2020",
+"path": "local/iasi/erbiceni/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 54/2020 privind aprobarea încheierii contractelor de prestări servicii artistice",
+"short": "HCL Erbiceni nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-23",
+"latest": "2020-06-23",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14259",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-55-2020",
+"path": "local/iasi/erbiceni/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 55/2020 privind stabilirea modului de întocmire și ținere la zi a Registrului Agricol al comunei Erbiceni",
+"short": "HCL Erbiceni nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-23",
+"latest": "2020-06-23",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14260",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-56-2020",
+"path": "local/iasi/erbiceni/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 56/2020 privind încadrarea pe zone fiscal a comunei Erbiceni",
+"short": "HCL Erbiceni nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-23",
+"latest": "2020-06-23",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14261",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1258,6 +1346,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-62-2020",
+"path": "local/iasi/erbiceni/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 62/2020 privind acordarea unui ajutor financiar pentru familiile cu nou-născuți",
+"short": "HCL Erbiceni nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14269",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1415,6 +1525,28 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-70-2020",
+"path": "local/iasi/erbiceni/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 70/2020 privind alegerea președintelui de ședință a Consiliului Local Erbiceni pentru luna septembrie 2020",
+"short": "HCL Erbiceni nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14282",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-71-2020",
 "path": "local/iasi/erbiceni/2020/71",
 "kind": "local",
@@ -1456,6 +1588,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-73-2020",
+"path": "local/iasi/erbiceni/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 73/2020 privind modificarea Regulamentului de Ordine Interioară și Regulamentul de Organizare și Funcționare din data de 10.09/2020 al primarului comunei Erbiceni",
+"short": "HCL Erbiceni nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/14285",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1566,6 +1720,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-79-2020",
+"path": "local/iasi/erbiceni/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 79/2020 privind alegerea președintelui de ședință",
+"short": "HCL Erbiceni nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/16999",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

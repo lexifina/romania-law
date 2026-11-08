@@ -48,6 +48,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-12-2024",
+   "path": "local/iasi/fantanele/2024/12",
+   "short": "HCL Fântânele nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 12/2024 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local - Fântânele din data de 18.03.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/149950",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/149950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-13-2024",
+   "path": "local/iasi/fantanele/2024/13",
+   "short": "HCL Fântânele nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 13/2024 privind aprobarea modificării bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/149951",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/149951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-14-2024",
+   "path": "local/iasi/fantanele/2024/14",
+   "short": "HCL Fântânele nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 14/2024 privind aprobarea tipului de suport alimentar acordat elevilor din cadrul unității de învățământ preuniversitar de stat ''Școala Profesională Fântânele'' în anul școlar 2023-2024 în cadrul Programului Național ''Masă Sănătoasă''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/149952",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/149952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-15-2024",
+   "path": "local/iasi/fantanele/2024/15",
+   "short": "HCL Fântânele nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 15/2024 privind reglementarea acordării ajutoarelor de înmormântare la nivelul Unității Administrativ - Teritoariale comuna Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/149953",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/149953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-16-2024",
+   "path": "local/iasi/fantanele/2024/16",
+   "short": "HCL Fântânele nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 16/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 29.03.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/150858",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/150858",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-17-2024",
    "path": "local/iasi/fantanele/2024/17",
    "short": "HCL Fântânele nr. 17/2024",
@@ -73,6 +148,21 @@
      "from": "2024-04-05",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/150860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-19-2024",
+   "path": "local/iasi/fantanele/2024/19",
+   "short": "HCL Fântânele nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 19/2024 privind modificarea statului de funcții și al organigramei aparatului de specialitate a primarului comunei Fântânele, județul Iași și înființarea unei funcții publice în cadrul compartimentului taxe și impozite locale",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/150861",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/150861",
      "sha256": null
     }
    ]
@@ -108,6 +198,141 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-21-2024",
+   "path": "local/iasi/fantanele/2024/21",
+   "short": "HCL Fântânele nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 21/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 30.04.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/155160",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/155160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-22-2024",
+   "path": "local/iasi/fantanele/2024/22",
+   "short": "HCL Fântânele nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 22/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 6",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/155161",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/155161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-23-2024",
+   "path": "local/iasi/fantanele/2024/23",
+   "short": "HCL Fântânele nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 23/2024 privind stadiul de înscriere a datelor în Registrul Agricol al comunei Fântânele, județul Iași, pentru trimestrul IV al anului 2023 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/155162",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/155162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-24-2024",
+   "path": "local/iasi/fantanele/2024/24",
+   "short": "HCL Fântânele nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 24/2024 privind scoaterea din domeniu public al comunei Fântânele, județul Iași a imobilului Dispensar Uman Fântânele, din comuna Fântânele înscris în CF nr. 60174",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/155163",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/155163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-25-2024",
+   "path": "local/iasi/fantanele/2024/25",
+   "short": "HCL Fântânele nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 25/2024 privind aprobarea modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024, trimestrul II",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/155164",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/155164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-26-2024",
+   "path": "local/iasi/fantanele/2024/26",
+   "short": "HCL Fântânele nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 26/2024 privind aprobarea ordinii de zi al ședinței ordinare a Consiliului Local - Fântânele din data de 23.05.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157196",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-27-2024",
+   "path": "local/iasi/fantanele/2024/27",
+   "short": "HCL Fântânele nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 27/2024 privind aprobarea cumpărării unui teren intravilan în suprafață de 2746 mp situat în comuna Fântânele, județul Iași, înscris în CF nr. 60479, nr. topo: 60476 și a unui teren intravilan în suprafață de 1400 mp situat în comuna Fântânele, județul Iași, înscris în CF nr. 60456, nr. topo 60456",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157197",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-28-2024",
+   "path": "local/iasi/fantanele/2024/28",
+   "short": "HCL Fântânele nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 28/2024 privind darea în administrarea Școlii Profesionale Fântânele, județul Iași, unitate cu personalitate juridică, a imobilului - construcție ”Grădinița cu program normal 2”, proprietatea publică a comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157198",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-29-2024",
+   "path": "local/iasi/fantanele/2024/29",
+   "short": "HCL Fântânele nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 29/2024 privind aprobarea devizului general al obiectivului de investiție Rest actualizat Amenajarea grupurilor sanitare și asigurarea cu utilități a acestora la școala profesională Fântânele - corp B, comuna Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157199",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157199",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-3-2024",
    "path": "local/iasi/fantanele/2024/3",
    "short": "HCL Fântânele nr. 3/2024",
@@ -123,6 +348,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-30-2024",
+   "path": "local/iasi/fantanele/2024/30",
+   "short": "HCL Fântânele nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 30/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, în cadrul Programului pentru școli al României, pentru anul 2024-2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157200",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-31-2024",
+   "path": "local/iasi/fantanele/2024/31",
+   "short": "HCL Fântânele nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 31/2024 privind „APROBAREA DOCUMENTAȚIEI TEHNICO-ECONOMICE ȘI A INDICATORILOR TEHNICO-ECONOMICI”",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157201",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-32-2024",
+   "path": "local/iasi/fantanele/2024/32",
+   "short": "HCL Fântânele nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 32/2024 privind PENTRU IMPLEMENTAREA PROIECTULUI „Sistem de colectare și valorificare a gunoiului de grajd în comuna Fântânele, județul Iași”",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/157202",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/157202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-33-2024",
+   "path": "local/iasi/fantanele/2024/33",
+   "short": "HCL Fântânele nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 33/2024 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/159026",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/159026",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-34-2024",
    "path": "local/iasi/fantanele/2024/34",
    "short": "HCL Fântânele nr. 34/2024",
@@ -133,6 +418,51 @@
      "from": "2024-06-13",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/159027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-35-2024",
+   "path": "local/iasi/fantanele/2024/35",
+   "short": "HCL Fântânele nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 35/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 27.06.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/160807",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/160807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-36-2024",
+   "path": "local/iasi/fantanele/2024/36",
+   "short": "HCL Fântânele nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 36/2024 privind stabilirea datelor de ședință pentru trimestrul III Iulie - August - Septembrie - 2024 și stabilirea președintelui de ședință",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/160808",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/160808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-37-2024",
+   "path": "local/iasi/fantanele/2024/37",
+   "short": "HCL Fântânele nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 37/2024 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024, trim. II",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/160809",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/160809",
      "sha256": null
     }
    ]
@@ -198,6 +528,126 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-41-2024",
+   "path": "local/iasi/fantanele/2024/41",
+   "short": "HCL Fântânele nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 41/2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/160813",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/160813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-42-2024",
+   "path": "local/iasi/fantanele/2024/42",
+   "short": "HCL Fântânele nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 42/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 31.07.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164783",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-43-2024",
+   "path": "local/iasi/fantanele/2024/43",
+   "short": "HCL Fântânele nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 43/2024 privind stabilirea datelor de ședință pentru trimestrul III Aprilie-Mai-Iunie -2024 și stabilirea președintelui de ședință",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164784",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-44-2024",
+   "path": "local/iasi/fantanele/2024/44",
+   "short": "HCL Fântânele nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 44/2024 privind aprobarea execuției bugetare aferente trimestrului II anul 2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164785",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-45-2024",
+   "path": "local/iasi/fantanele/2024/45",
+   "short": "HCL Fântânele nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 45/2024 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024, trim II",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164786",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-46-2024",
+   "path": "local/iasi/fantanele/2024/46",
+   "short": "HCL Fântânele nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 46/2024 privind modificarea statului de funcții și al organigramei aparatului de specialitate al primarului comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164787",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-47-2024",
+   "path": "local/iasi/fantanele/2024/47",
+   "short": "HCL Fântânele nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 47/2024 privind organizarea și desfășurarea Festivalului regional de folclor ''Fântâna Dorului'' Ediția III și sărbătorirea Ziua Comunei Fântânele, județul Iași din data de 08.09.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164788",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-48-2024",
+   "path": "local/iasi/fantanele/2024/48",
+   "short": "HCL Fântânele nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 48/2024 privind acordarea unui ajutor material și financiar de urgență unei persoane cu risc de marginalizare socială pentru construirea unui spațiue de locuit",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/164789",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/164789",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-49-2024",
    "path": "local/iasi/fantanele/2024/49",
    "short": "HCL Fântânele nr. 49/2024",
@@ -243,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-51-2024",
+   "path": "local/iasi/fantanele/2024/51",
+   "short": "HCL Fântânele nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 51/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 31.07.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/167707",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/167707",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-52-2024",
    "path": "local/iasi/fantanele/2024/52",
    "short": "HCL Fântânele nr. 52/2024",
@@ -253,6 +718,96 @@
      "from": "2024-08-30",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/167708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-53-2024",
+   "path": "local/iasi/fantanele/2024/53",
+   "short": "HCL Fântânele nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 53/2024 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024, trim. III",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/167709",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/167709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-54-2024",
+   "path": "local/iasi/fantanele/2024/54",
+   "short": "HCL Fântânele nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 54/2024 privind transmiterea în folosință gratuită a unor spații excedentare de la Centrul de Zi Fântânele pe perioada anului școlar 2024 - 2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/167710",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/167710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-55-2024",
+   "path": "local/iasi/fantanele/2024/55",
+   "short": "HCL Fântânele nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 55/2024 privind aprobarea ordinii de zi al ședinței extraordinare a Consiliului Local Fântânele din data de 13.09.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/170756",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/170756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-56-2024",
+   "path": "local/iasi/fantanele/2024/56",
+   "short": "HCL Fântânele nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 56/2024 privind aprobarea unui număr de patru autoturisme prin Programul Rabla Plus, aprobarea cheltuielilor necesare și completarea listei de investiții pentru anul 2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/170757",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/170757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-57-2024",
+   "path": "local/iasi/fantanele/2024/57",
+   "short": "HCL Fântânele nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 57/2024 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024, trimestrul III",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/170758",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/170758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-58-2024",
+   "path": "local/iasi/fantanele/2024/58",
+   "short": "HCL Fântânele nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 58/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 26.09.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/170764",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/170764",
      "sha256": null
     }
    ]
@@ -303,6 +858,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-61-2024",
+   "path": "local/iasi/fantanele/2024/61",
+   "short": "HCL Fântânele nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 61/2024 privind stabilirea domeniilor, serviciilor publice și locurile în care contravenienții vor presta activități în folosul comunității",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/170767",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/170767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-62-2024",
+   "path": "local/iasi/fantanele/2024/62",
+   "short": "HCL Fântânele nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 62/2024 privind aprobarea ordinii de zi a ședinței extraordinare cu convocare de îndată a Consiliului Local Fântânele din data de 16.10.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/174912",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/174912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-63-2024",
+   "path": "local/iasi/fantanele/2024/63",
+   "short": "HCL Fântânele nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 63/2024 privind aprobarea proiectului „EXTINDERE LA ȘCOALA PROFESIONALĂ DIN COMUNA FÂNTÂNELE, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/174913",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/174913",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-64-2024",
    "path": "local/iasi/fantanele/2024/64",
    "short": "HCL Fântânele nr. 64/2024",
@@ -318,6 +918,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-65-2024",
+   "path": "local/iasi/fantanele/2024/65",
+   "short": "HCL Fântânele nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 65/2024 privind aprobarea ordinii de zi al ședinței ordinare a Consiliului Local-Fântânele din data de 31.10.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/175096",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/175096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-66-2024",
+   "path": "local/iasi/fantanele/2024/66",
+   "short": "HCL Fântânele nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 66/2024 privind stabilirea datelor de ședință pentru trimestrul IV: Noiembrie-Decembrie-2024 și stabilirea președintelui de ședință",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/175097",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/175097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-67-2024",
+   "path": "local/iasi/fantanele/2024/67",
+   "short": "HCL Fântânele nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 67/2024 privind organizarea comisiilor de specialitate ale consiliului local Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/175098",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/175098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-68-2024",
+   "path": "local/iasi/fantanele/2024/68",
+   "short": "HCL Fântânele nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 68/2024 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local - Fântânele, din data de 06.11.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/176596",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/176596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-69-2024",
+   "path": "local/iasi/fantanele/2024/69",
+   "short": "HCL Fântânele nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 69/2024 privind desemnarea reprezentanților Consiliului Local al comunei Fântânele, județul Iași, în cadrul Consiliului de administrație al Școlii Profesionale Fântânele pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/176597",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/176597",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-7-2024",
    "path": "local/iasi/fantanele/2024/7",
    "short": "HCL Fântânele nr. 7/2024",
@@ -328,6 +1003,21 @@
      "from": "2024-03-28",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/141567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-70-2024",
+   "path": "local/iasi/fantanele/2024/70",
+   "short": "HCL Fântânele nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 70/2024 privind aprobarea trecerii din domeniul privat în domeniul public al comunei Fântânele, jud. Iași, a terenului în suprafață de 3017 mp identificat conform CF nr. 60213 și a clădirii în suprafață de 217 mp (60213-C1), necesare realizării obiectivului de investiții ''Centru Comunitar Integrat în comuna Fântânele, județul Iași'' și declararea acestuia ca fiind de interes public și utilitate publică locală",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/176598",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/176598",
      "sha256": null
     }
    ]
@@ -363,6 +1053,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-73-2024",
+   "path": "local/iasi/fantanele/2024/73",
+   "short": "HCL Fântânele nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 73/2024 privind alegerea viceprimarului comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/176601",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/176601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-74-2024",
+   "path": "local/iasi/fantanele/2024/74",
+   "short": "HCL Fântânele nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 74/2024 privind actualizarea prevederilor aprobate în Hotărârea nr. 63/16.10.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/176602",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/176602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-75-2024",
+   "path": "local/iasi/fantanele/2024/75",
+   "short": "HCL Fântânele nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 75/2024 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Fântânele din data de 18.11.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/180014",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/180014",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-76-2024",
    "path": "local/iasi/fantanele/2024/76",
    "short": "HCL Fântânele nr. 76/2024",
@@ -378,6 +1113,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-77-2024",
+   "path": "local/iasi/fantanele/2024/77",
+   "short": "HCL Fântânele nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 77/2024 privind aprobarea modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2024, trim IV",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/180018",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/180018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-78-2024",
+   "path": "local/iasi/fantanele/2024/78",
+   "short": "HCL Fântânele nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 78/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Fântânele din data de 29.11.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/180019",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/180019",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-79-2024",
    "path": "local/iasi/fantanele/2024/79",
    "short": "HCL Fântânele nr. 79/2024",
@@ -388,6 +1153,21 @@
      "from": "2024-12-03",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/180020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-8-2024",
+   "path": "local/iasi/fantanele/2024/8",
+   "short": "HCL Fântânele nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 8/2024 privind aprobarea ordinii de zi al ședinței ordinare a Consiliului Local - Fântânele din data de 26.02.2024",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/144944",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/144944",
      "sha256": null
     }
    ]
@@ -538,6 +1318,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/185854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-9-2024",
+   "path": "local/iasi/fantanele/2024/9",
+   "short": "HCL Fântânele nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 9/2024 privind modificarea și completarea Anexei la Hotărârea nr. 3/28.01.2021 (revizuirea Regulamentului de organizare și funcționare a Consiliului local Fântânele, județul Iași)",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/144945",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/144945",
      "sha256": null
     }
    ]

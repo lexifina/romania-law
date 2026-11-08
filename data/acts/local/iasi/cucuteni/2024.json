@@ -3,6 +3,50 @@
 "shard": "local/iasi/cucuteni/2024",
 "acts": [
 {
+"slug": "hcl-iasi--cucuteni-1-2024",
+"path": "local/iasi/cucuteni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 1/2024 privind aprobare ordinea de zi",
+"short": "HCL Cucuteni nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175639",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-2-2024",
+"path": "local/iasi/cucuteni/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 2/2024 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 19.12.2023 înregistrat sub nr. 8666 din 19.12.2023",
+"short": "HCL Cucuteni nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175640",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-3-2024",
 "path": "local/iasi/cucuteni/2024/3",
 "kind": "local",
@@ -69,6 +113,117 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-6-2024",
+"path": "local/iasi/cucuteni/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 6/2024 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap din comuna Cucuteni , pentru semestrul II 2023 şi aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2024",
+"short": "HCL Cucuteni nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175644",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-7-2024",
+"path": "local/iasi/cucuteni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 7/2024 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175645",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-8-2024",
+"path": "local/iasi/cucuteni/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 8/2024",
+"short": "HCL Cucuteni nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175646",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-9-2024",
+"path": "local/iasi/cucuteni/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 9/2024 privind ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+"short": "HCL Cucuteni nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175647",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-10-2024",
+"path": "local/iasi/cucuteni/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 10/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr.5",
+"short": "HCL Cucuteni nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175648",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-11-2024",
 "path": "local/iasi/cucuteni/2024/11",
 "kind": "local",
@@ -113,6 +268,116 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-13-2024",
+"path": "local/iasi/cucuteni/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 13/2024 privind aprobare ordinea de zi",
+"short": "HCL Cucuteni nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175651",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-14-2024",
+"path": "local/iasi/cucuteni/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 14/2024 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 30.01.2024 înregistrat sub nr. 8039 din 30.01.2024",
+"short": "HCL Cucuteni nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175652",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-15-2024",
+"path": "local/iasi/cucuteni/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 15/2024 privind adoptarea bugetului de venituri şi cheltuieli pentru anul 2024",
+"short": "HCL Cucuteni nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175653",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-16-2024",
+"path": "local/iasi/cucuteni/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 16/2024 privind aprobare ordinea de zi",
+"short": "HCL Cucuteni nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175679",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-17-2024",
+"path": "local/iasi/cucuteni/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 17/2024 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 12.02.2024 înregistrat sub nr. 8069 din 12.02.2024",
+"short": "HCL Cucuteni nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175680",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-18-2024",
 "path": "local/iasi/cucuteni/2024/18",
 "kind": "local",
@@ -132,6 +397,73 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-19-2024",
+"path": "local/iasi/cucuteni/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 19/2024 privind Planul de acţiuni/lucrări de interes local pentru anul 2024 cuprinzând acţiunile/lucrările care pot fi realizate cu ajutorul persoanelor majore apte de muncă beneficiare ale prevederilor Legii nr.196/2016 privind venitul minim de incluziune (VMI) şi al persoanelor obligate să efectueze muncă în folosul comunităţii",
+"short": "HCL Cucuteni nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175682",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-20-2024",
+"path": "local/iasi/cucuteni/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 20/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+"short": "HCL Cucuteni nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175683",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-21-2024",
+"path": "local/iasi/cucuteni/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 21/2024",
+"short": "HCL Cucuteni nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175684",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -245,6 +577,51 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-27-2024",
+"path": "local/iasi/cucuteni/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 27/2024 privind iniţierea închirieri prin atribuire directă a suprafeţei de păşune proprietatea privată a UAT Cucuteni",
+"short": "HCL Cucuteni nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175691",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-28-2024",
+"path": "local/iasi/cucuteni/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 28/2024",
+"short": "HCL Cucuteni nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175692",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-29-2024",
 "path": "local/iasi/cucuteni/2024/29",
 "kind": "local",
@@ -264,6 +641,50 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-30-2024",
+"path": "local/iasi/cucuteni/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 30/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175694",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-31-2024",
+"path": "local/iasi/cucuteni/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 31/2024 privind aprobarea mutării temporare a sediului Primăriei comunei Cucuteni și Consiliul Local în birourile din Căminul Cultural situat în satul Cucuteni, comuna Cucuteni, județul Iași",
+"short": "HCL Cucuteni nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175695",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +732,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-34-2024",
+"path": "local/iasi/cucuteni/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 34/2024 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175723",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-35-2024",
 "path": "local/iasi/cucuteni/2024/35",
 "kind": "local",
@@ -352,6 +795,50 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-37-2024",
+"path": "local/iasi/cucuteni/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 37/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175726",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-38-2024",
+"path": "local/iasi/cucuteni/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 38/2024 privind darea în folosință gratuită, către Parohia Băiceni a Biserici de lemn Sf Treime din satul Băiceni, comuna Cucuteni",
+"short": "HCL Cucuteni nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175727",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +908,96 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-42-2024",
+"path": "local/iasi/cucuteni/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 42/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr.6",
+"short": "HCL Cucuteni nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175734",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-43-2024",
+"path": "local/iasi/cucuteni/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 43/2024",
+"short": "HCL Cucuteni nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175735",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-44-2024",
+"path": "local/iasi/cucuteni/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 44/2024 privind iniţierea închirieri prin atribuire directă a suprafeţei de 12,07 ha păşune proprietatea privată a UAT Cucuteni",
+"short": "HCL Cucuteni nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175736",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-45-2024",
+"path": "local/iasi/cucuteni/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 45/2024",
+"short": "HCL Cucuteni nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175737",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-46-2024",
 "path": "local/iasi/cucuteni/2024/46",
 "kind": "local",
@@ -443,6 +1020,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-47-2024",
+"path": "local/iasi/cucuteni/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 47/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175739",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-48-2024",
 "path": "local/iasi/cucuteni/2024/48",
 "kind": "local",
@@ -462,6 +1061,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-49-2024",
+"path": "local/iasi/cucuteni/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 49/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175741",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -553,6 +1174,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-54-2024",
+"path": "local/iasi/cucuteni/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 54/2024 privind majorarea cu 10% a salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Cucuteni, începând cu 1 iunie 2024",
+"short": "HCL Cucuteni nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175749",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-55-2024",
 "path": "local/iasi/cucuteni/2024/55",
 "kind": "local",
@@ -594,6 +1237,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-57-2024",
+"path": "local/iasi/cucuteni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 57/2024 privind aprobarea actualizarii indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „AMENAJARE STRĂZI ÎN COMUNA CUCUTENI, JUDEȚUL IAȘI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului ca urmare a atribuirii contractului de executie lucrari si a intocmirii Dispozitiei de santier nr. 1",
+"short": "HCL Cucuteni nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175763",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -641,6 +1306,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-60-2024",
+"path": "local/iasi/cucuteni/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 60/2024 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175770",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-61-2024",
 "path": "local/iasi/cucuteni/2024/61",
 "kind": "local",
@@ -660,6 +1347,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-62-2024",
+"path": "local/iasi/cucuteni/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 62/2024 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap din comuna Cucuteni , pentru semestrul I 2024",
+"short": "HCL Cucuteni nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175772",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -708,6 +1417,29 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-65-2024",
+"path": "local/iasi/cucuteni/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 65/2024",
+"short": "HCL Cucuteni nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175775",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-66-2024",
 "path": "local/iasi/cucuteni/2024/66",
 "kind": "local",
@@ -727,6 +1459,72 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-67-2024",
+"path": "local/iasi/cucuteni/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 67/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175777",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-68-2024",
+"path": "local/iasi/cucuteni/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 68/2024 privind aprobarea introducerii în domeniul public al comunei a unor drumuri comunale și vicinale",
+"short": "HCL Cucuteni nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175778",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-69-2024",
+"path": "local/iasi/cucuteni/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 69/2024 privind îndreptarea erorii material cuprinse în HCL nr. 54/27.08.2013",
+"short": "HCL Cucuteni nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175779",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -774,6 +1572,161 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-72-2024",
+"path": "local/iasi/cucuteni/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 72/2024 privind Planul de afaceri, Strategia de tarifare aferentă planului de afaceri, formula de ajustare tarifară și strategia privind redevența, privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021 prin Act adițional",
+"short": "HCL Cucuteni nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175787",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-73-2024",
+"path": "local/iasi/cucuteni/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 73/2024",
+"short": "HCL Cucuteni nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175788",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-74-2024",
+"path": "local/iasi/cucuteni/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 74/2024 privind aprobarea modificării și completării HCL nr.68 din 23.08.2024 privind introducerii în domeniul public al comunei a unor drumuri comunale și vicinale",
+"short": "HCL Cucuteni nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175789",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-75-2024",
+"path": "local/iasi/cucuteni/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 75/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/175790",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-76-2024",
+"path": "local/iasi/cucuteni/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 76/2024 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/177081",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-77-2024",
+"path": "local/iasi/cucuteni/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 77/2024 privind alegerea Comisiilor pe domenii de specialitate",
+"short": "HCL Cucuteni nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/177082",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-78-2024",
+"path": "local/iasi/cucuteni/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 78/2024 privind alegerea viceprimarului Comunei Cucuteni",
+"short": "HCL Cucuteni nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/177083",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-79-2024",
 "path": "local/iasi/cucuteni/2024/79",
 "kind": "local",
@@ -793,6 +1746,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-80-2024",
+"path": "local/iasi/cucuteni/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 80/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/177085",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -837,6 +1812,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-83-2024",
+"path": "local/iasi/cucuteni/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 83/2024 privind aprobarea unui sprijin financiar de la bugetul local pentru Parohia \"Sf Împărați Constantin și Elena\" din satul Săcărești, comuna Cucuteni, jude Iași",
+"short": "HCL Cucuteni nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/177802",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

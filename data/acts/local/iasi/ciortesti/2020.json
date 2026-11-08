@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-2-2020",
+"path": "local/iasi/ciortesti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 2/2020",
+"short": "HCL Ciortești nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7892",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-3-2020",
 "path": "local/iasi/ciortesti/2020/3",
 "kind": "local",
@@ -44,6 +67,116 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-4-2020",
+"path": "local/iasi/ciortesti/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 4/2020 privind reorganizarea rețelei școlare în anul școlar 2020-2021 în comuna Ciortesti, judetul Iasi",
+"short": "HCL Ciortești nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7894",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-5-2020",
+"path": "local/iasi/ciortesti/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 5/2020 privind aprobarea graficului de şedinţă pentru trimestrul I 2020",
+"short": "HCL Ciortești nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7895",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-6-2020",
+"path": "local/iasi/ciortesti/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 6/2020 privind aprobarea documentației tehnico-economice pentru investiția „CONSTRUIRE SI DOTARE SEDIU PRIMARIE IN SAT CIORTEȘTI, COMUNA CIORTESTI, JUDETUL IASI”",
+"short": "HCL Ciortești nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7896",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-7-2020",
+"path": "local/iasi/ciortesti/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 7/2020 privind aprobarea Planului de acțiuni și lucrări de intereslocal pentru persoanele apte de muncă din familiile beneficiare cu venit minim garantat pentru anul 2020",
+"short": "HCL Ciortești nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7897",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-8-2020",
+"path": "local/iasi/ciortesti/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 8/2020 privind revocarea Hotărârea Consiliului Local al Comunei Ciortesti nr.109/2019 privind darea in folosinta gratuita a unei suprafete de 2 m.p. din cadrul sediului Primariei noi, pozitia nr.45 din HCL nr.10/2018 privind modificarea si completarea anexei 12 ”Inventarul bunurilor care apartin domeniului public al comunei Ciortesti”, insusita prin HCL nr.42/2010 si aprobata prin HG nr.48/2007",
+"short": "HCL Ciortești nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7906",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +202,183 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-10-2020",
+"path": "local/iasi/ciortesti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 10/2020 privind aprobarea Programului anual al achiziţiilor publice pe anul 2020",
+"short": "HCL Ciortești nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7908",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-11-2020",
+"path": "local/iasi/ciortesti/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 11/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+"short": "HCL Ciortești nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7909",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-12-2020",
+"path": "local/iasi/ciortesti/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 12/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+"short": "HCL Ciortești nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7910",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-13-2020",
+"path": "local/iasi/ciortesti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 13/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+"short": "HCL Ciortești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7911",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-14-2020",
+"path": "local/iasi/ciortesti/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 14/2020 privind modificarea și actualizarea HCL nr.88/2019 privind aprobarea structurii organizatorice si a statului de functii al personalului din cadrul aparatului de specialitate al primarului comunei Ciortesti, judetul Iasi",
+"short": "HCL Ciortești nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7912",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-15-2020",
+"path": "local/iasi/ciortesti/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 15/2020 privind aprobarea documentației tehnico-economice pentru investiția „REABILITAREA DRUMURILOR AFECTATE DE PAGUBELE PRODUSE IN URMA CALAMITATILOR IN SATUL DELENI, COMUNA CIORTESTI, JUDETUL IASI\"",
+"short": "HCL Ciortești nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7913",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-16-2020",
+"path": "local/iasi/ciortesti/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 16/2020",
+"short": "HCL Ciortești nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7914",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-17-2020",
+"path": "local/iasi/ciortesti/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 17/2020 privind actualizarea componenţei Serviciului Voluntar pentru Situaţii de Urgenţă al Comunei Ciortești",
+"short": "HCL Ciortești nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7915",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-18-2020",
 "path": "local/iasi/ciortesti/2020/18",
 "kind": "local",
@@ -88,6 +398,50 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-19-2020",
+"path": "local/iasi/ciortesti/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 19/2020 privind actualizarea indicatorilor tehnico - economici pentru obiectivul de investitie ”Sistem de alimentare cu apa in sat Rotaria, comuna Ciortesti, judetul Iasi”",
+"short": "HCL Ciortești nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7917",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-20-2020",
+"path": "local/iasi/ciortesti/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 20/2020 privind punerea la dispozitia ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Iași” a terenurilor pentru constructia/extinderea/reabilitarea noilor investitii aferente acestuia",
+"short": "HCL Ciortești nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7918",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +467,50 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-22-2020",
+"path": "local/iasi/ciortesti/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 22/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciortești nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7920",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-23-2020",
+"path": "local/iasi/ciortesti/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 23/2020 privind aprobarea indicatorilor tehnico - economici pentru obiectivul de investitie faza SF ”Înființare și dotare centru medico-social în comuna Ciortești, județul Iași”",
+"short": "HCL Ciortești nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7921",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-24-2020",
 "path": "local/iasi/ciortesti/2020/24",
 "kind": "local",
@@ -132,6 +530,226 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-25-2020",
+"path": "local/iasi/ciortesti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 25/2020 privind mandatarea Primarului comunei Ciortesti, pentru semnarea la notar a dezmembrarii suprafeței de 36 m.p, din imobilului identificat cu NC 61597 în suprafața totală de 4165 m.p. situat în sat Ciortesti, comuna Ciortesti",
+"short": "HCL Ciortești nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7923",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-26-2020",
+"path": "local/iasi/ciortesti/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 26/2020 privind aprobarea regulamentului de prestarea de activităţilor în folosul comunităţii de către persoanele care au săvârşit infracţiuni sau persoanele care au fost sancționate contravențional vor presta muncă neremunerată în folosul comunităţii, ca obligaţie stabilită de către instanţa de judecată",
+"short": "HCL Ciortești nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7924",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-27-2020",
+"path": "local/iasi/ciortesti/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 27/2020 privind aprobarea concesionarii prin licitaţie publică a terenului in suprafata de 36m.p., situat in P1165, T52, sat Ciortești, comuna Ciortesti, aflat in proprietatea publică a comunei Ciortesti",
+"short": "HCL Ciortești nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7925",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-28-2020",
+"path": "local/iasi/ciortesti/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 28/2020 privind actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.36",
+"short": "HCL Ciortești nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7936",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-29-2020",
+"path": "local/iasi/ciortesti/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 29/2020 privind acordarea mandatului special reprezentantului UAT Ciortesti în AGA ADIS Iași în vederea votării ”împotrivă” a modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor din județul Iași”",
+"short": "HCL Ciortești nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7937",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-30-2020",
+"path": "local/iasi/ciortesti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 30/2020 privind aprobarea participarii in cadrul programului Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public",
+"short": "HCL Ciortești nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7938",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-31-2020",
+"path": "local/iasi/ciortesti/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 31/2020 privind actualizarea indicatorilor tehnico-economice ai obiectivului de investiții „REABILITAREA DRUMURILOR AFECTATE DE PAGUBELE PRODUSE IN URMA CALAMITATILOR IN SATUL DELENI, COMUNA CIORTESTI, JUDETUL IASI\"",
+"short": "HCL Ciortești nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7939",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-32-2020",
+"path": "local/iasi/ciortesti/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 32/2020 privind aprobarea graficului de şedinţă pentru trimestrul al II-lea 2020",
+"short": "HCL Ciortești nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7940",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-33-2020",
+"path": "local/iasi/ciortesti/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 33/2020 privind aprobarea SUDIULUI DE FEZABILITATE pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014 - 2020” precum și a indicatorilor tehnico-economici ai proiectului",
+"short": "HCL Ciortești nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7941",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-34-2020",
+"path": "local/iasi/ciortesti/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 34/2020 privind aprobarea valorii investițiilor aferente UAT Ciortești și a participării Consiliului Local al Comunei Ciortești la cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014– 2020",
+"short": "HCL Ciortești nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/7942",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +775,139 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-36-2020",
+"path": "local/iasi/ciortesti/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 36/2020 privind actualizarea indicatorilor tehnico - economici pentru obiectivul de investitie „REABILITARE, MODERNIZARE SI DOTARE CAMIN CULTURAL, SAT CIORTESTI, COMUNA CIORTESTI, JUDETUL IASI”, și suplimentarea din bugetul local a sumelor necesare actualizarii contractului de finantare nr. CO760CN00021712400494 din data de 07.05.2018",
+"short": "HCL Ciortești nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26723",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-37-2020",
+"path": "local/iasi/ciortesti/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 37/2020 privind aprobarea Normelor procedurale interne pentru contractarea și/sau garantarea de finanțări rambursabile pentru Unitatea administrativ-teritorială comuna Ciortești",
+"short": "HCL Ciortești nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26724",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-38-2020",
+"path": "local/iasi/ciortesti/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 38/2020 privind aprobarea contractării şi garantării unei finanțări rambursabile interne în valoare de 3.000.000 lei",
+"short": "HCL Ciortești nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26725",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-39-2020",
+"path": "local/iasi/ciortesti/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 39/2020 privind depunerea de către Unitatea Administrativ Teritorială Ciorteşti a unei candidaturi pentru participarea ca partener in cadrul unui proiect finantat prin Programul Operaţional Capital Uman 2014 – 2020, Componentă 1 - Apel : POCU/784/6/24/ Operațiune compozită OS 6.2, OS 6.3, Program pilot de stimulare a participării la educație a copiilor cu părinți plecați la muncă în străinătate",
+"short": "HCL Ciortești nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26726",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-40-2020",
+"path": "local/iasi/ciortesti/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 40/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciortești nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26727",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-41-2020",
+"path": "local/iasi/ciortesti/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 41/2020",
+"short": "HCL Ciortești nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26728",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-42-2020",
 "path": "local/iasi/ciortesti/2020/42",
 "kind": "local",
@@ -179,6 +930,205 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-43-2020",
+"path": "local/iasi/ciortesti/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 43/2020 privind anularea accesoriilor aferente obligaţiilor bugetare principale restante la data de 31 martie 2020",
+"short": "HCL Ciortești nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26730",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-44-2020",
+"path": "local/iasi/ciortesti/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 44/2020",
+"short": "HCL Ciortești nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26731",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-45-2020",
+"path": "local/iasi/ciortesti/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 45/2020 privind valorificarea prin transfer fara plata a centralei termice din cadrul patrimoniului UAT Ciortesti, catre Parohia Adormirii Maicii Domnului din sat Coropceni, comuna Ciortesti, judetul Iași",
+"short": "HCL Ciortești nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26732",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-46-2020",
+"path": "local/iasi/ciortesti/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 46/2020 privind aprobarea proiectului ”Echipamente din domeniul tehnologiei informației-IT mobile, respectiv tablete pentru uz școlar cu acces la internet, precum și a altor echipamente/dispozitive electronice necesare desfășurării activității didactice în mediul on-line pentru Școala Ciortesti, din comuna Ciortesti, judetul Iasi, a indicatorilor tehnico-economici pentru această investiție precum și a cheltuielilor aferente proiectului",
+"short": "HCL Ciortești nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26733",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-47-2020",
+"path": "local/iasi/ciortesti/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 47/2020 privind aprobarea inceperii investitiei si a indicatorilor tehnico-economici ai documentației de avizare a lucrarilor de interventie pentru investiția”MODERNIZAREA ȘI EFICIENTIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL ÎN COMUNA CIORTEȘTI, JUDEȚUL IAȘI",
+"short": "HCL Ciortești nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26734",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-48-2020",
+"path": "local/iasi/ciortesti/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 48/2020 privind aprobarea atribuirii de loturi de teren în sat Șerbești, comuna Ciortești, pentru construirea unei locuinte proprietate personala pentru tinerii din comuna Ciortesti în conditiile Legii. Nr.15/2003",
+"short": "HCL Ciortești nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26735",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-49-2020",
+"path": "local/iasi/ciortesti/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 49/2020 privind aprobarea lucrărilor de reparații a clădirii Grădinița din sat Deleni, str.Grădiniței, nr.1, poziție nr.49 din anexa HCL nr.90/2018 privind modificarea ”Inventarului bunurilor care aparțin domeniului public al comunei Ciortești”, în vederea realizării de activități extrașcolare",
+"short": "HCL Ciortești nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26736",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-50-2020",
+"path": "local/iasi/ciortesti/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 50/2020 de aprobare a Actului Adițional nr. 37 la Contractul de delegare nr. 48/2009 ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+"short": "HCL Ciortești nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26737",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-51-2020",
+"path": "local/iasi/ciortesti/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 51/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciortești nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26738",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-52-2020",
 "path": "local/iasi/ciortesti/2020/52",
 "kind": "local",
@@ -198,6 +1148,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-53-2020",
+"path": "local/iasi/ciortesti/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 53/2020 privind aprobarea cofinantarii pentru Scoala Gimnazială Ciortești, în vederea depunerii unui proiect finantat prin Programul Operaţional Capital Uman 2014 – 2020, Componentă 1 - Apel : POCU/784/6/24/ Operațiune compozită OS 6.2, OS 6.3, Program pilot de stimulare a participării la educație a copiilor cu părinți plecați la muncă în străinătate",
+"short": "HCL Ciortești nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/26740",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

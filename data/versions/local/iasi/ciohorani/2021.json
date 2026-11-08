@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-10-2021",
+   "path": "local/iasi/ciohorani/2021/10",
+   "short": "HCL Ciohorăni nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 10/2021 privind aprobarea anulării creantelor fiscale reprezentând amenzi contavenționale datorate de debitorii decedați",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/23609",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/23609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-11-2021",
    "path": "local/iasi/ciohorani/2021/11",
    "short": "HCL Ciohorăni nr. 11/2021",
@@ -43,6 +58,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/23612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-13-2021",
+   "path": "local/iasi/ciohorani/2021/13",
+   "short": "HCL Ciohorăni nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 13/2021 privind alegerea presedintelui de sedintă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/23611",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/23611",
      "sha256": null
     }
    ]
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-21-2021",
+   "path": "local/iasi/ciohorani/2021/21",
+   "short": "HCL Ciohorăni nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 21/2021 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/26883",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/26883",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-22-2021",
    "path": "local/iasi/ciohorani/2021/22",
    "short": "HCL Ciohorăni nr. 22/2021",
@@ -243,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-27-2021",
+   "path": "local/iasi/ciohorani/2021/27",
+   "short": "HCL Ciohorăni nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 27/2021 privind alegerea presedintelui de ședintă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/28990",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/28990",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-28-2021",
    "path": "local/iasi/ciohorani/2021/28",
    "short": "HCL Ciohorăni nr. 28/2021",
@@ -303,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-31-2021",
+   "path": "local/iasi/ciohorani/2021/31",
+   "short": "HCL Ciohorăni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 31/2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/32134",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/32134",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-32-2021",
    "path": "local/iasi/ciohorani/2021/32",
    "short": "HCL Ciohorăni nr. 32/2021",
@@ -313,6 +388,51 @@
      "from": "2021-07-27",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/32135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-33-2021",
+   "path": "local/iasi/ciohorani/2021/33",
+   "short": "HCL Ciohorăni nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 33/2021 privind alegerea presedintelui de ședintă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/32136",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/32136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-34-2021",
+   "path": "local/iasi/ciohorani/2021/34",
+   "short": "HCL Ciohorăni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 34/2021 privind privind desemnarea reprezentantului Consiliului Local Ciohorăni în Consiliul de administrație al Școlii Gimnaziale Ciohorăni pentru anul şcolar 2021-2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/37580",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/37580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-35-2021",
+   "path": "local/iasi/ciohorani/2021/35",
+   "short": "HCL Ciohorăni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 35/2021 privind stabilirea unor măsuri în vederea urmăririi modului de ducere la îndeplinire de către ordonatorul principal de credite a măsurilor dispuse de Camera de Conturi Iasi prin Decizia nr.84/2018 si Decizia nr.80/2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/37581",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/37581",
      "sha256": null
     }
    ]
@@ -373,6 +493,21 @@
      "from": "2021-09-22",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/37585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-4-2021",
+   "path": "local/iasi/ciohorani/2021/4",
+   "short": "HCL Ciohorăni nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 4/2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/23502",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/23502",
      "sha256": null
     }
    ]
@@ -528,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-5-2021",
+   "path": "local/iasi/ciohorani/2021/5",
+   "short": "HCL Ciohorăni nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 5/2021 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/23503",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/23503",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-50-2021",
    "path": "local/iasi/ciohorani/2021/50",
    "short": "HCL Ciohorăni nr. 50/2021",
@@ -673,6 +823,21 @@
      "from": "2021-12-14",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/45436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-6-2021",
+   "path": "local/iasi/ciohorani/2021/6",
+   "short": "HCL Ciohorăni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 6/2021 privind alegerea presedintelui de sedinţă pentru sedinta ordinară a Consiliului local Ciohorăni din data de 28.01.2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/23504",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/23504",
      "sha256": null
     }
    ]

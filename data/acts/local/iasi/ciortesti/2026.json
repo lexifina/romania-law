@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-7-2026",
+"path": "local/iasi/ciortesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 7/2026 privind aprobarea inchirierii prin licitatie publica a terenului extravilan in suprafata de 80.745 mp, avand numarul cadastral 61929, aflat in domeniul privat al Comunei Ciortesti, judetul Iasi, situat in comuna Ciortesti, judetul Iasi",
+"short": "HCL Ciortești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/252995",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-8-2026",
 "path": "local/iasi/ciortesti/2026/8",
 "kind": "local",
@@ -553,6 +575,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-27-2026",
+"path": "local/iasi/ciortesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 27/2026 privind aprobarea rezilierii contractului de închiriere nr.11C din 20.03.2024 privind spațiu din imobilul inregistrat cu NC 60379-C1, în suprafață de 63,48 m.p. situat în comuna Ciortești sat Șerbești, judțul Iași, cu destinația ”FARMACIE”",
+"short": "HCL Ciortești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/272236",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-28-2026",
 "path": "local/iasi/ciortesti/2026/28",
 "kind": "local",
@@ -616,6 +660,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-31-2026",
+"path": "local/iasi/ciortesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 31/2026 privind aprobarea actului adițional nr.1 la contractul de închiriere nr.40 din 13.05.2022 pentru suplimentarea suprafeței de pajiște",
+"short": "HCL Ciortești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/272240",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -861,6 +927,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-43-2026",
+"path": "local/iasi/ciortesti/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 43/2026 privind vanzarea lotului de teren situat in intravilanul satului Deleni, comuna Ciortesti, judetul Iasi, identificat cu numarul cadastral 60345 lot de teren atribuit pentru construirea unei locuinte proprietate personala",
+"short": "HCL Ciortești nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/278971",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-44-2026",
 "path": "local/iasi/ciortesti/2026/44",
 "kind": "local",
@@ -1100,6 +1188,29 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-55-2026",
+"path": "local/iasi/ciortesti/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 55/2026",
+"short": "HCL Ciortești nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/292491",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

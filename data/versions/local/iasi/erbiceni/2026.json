@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-105-2026",
+   "path": "local/iasi/erbiceni/2026/105",
+   "short": "HCL Erbiceni nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 105/2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/284659",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/284659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-106-2026",
    "path": "local/iasi/erbiceni/2026/106",
    "short": "HCL Erbiceni nr. 106/2026",
@@ -228,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-113-2026",
+   "path": "local/iasi/erbiceni/2026/113",
+   "short": "HCL Erbiceni nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 113/2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/291671",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/291671",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-114-2026",
    "path": "local/iasi/erbiceni/2026/114",
    "short": "HCL Erbiceni nr. 114/2026",
@@ -318,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-12-2026",
+   "path": "local/iasi/erbiceni/2026/12",
+   "short": "HCL Erbiceni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 12/2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/254657",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/254657",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-120-2026",
    "path": "local/iasi/erbiceni/2026/120",
    "short": "HCL Erbiceni nr. 120/2026",
@@ -343,6 +388,21 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/291679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-122-2026",
+   "path": "local/iasi/erbiceni/2026/122",
+   "short": "HCL Erbiceni nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 122/2026 privind acordare ajutor de urgenta Roman Valerica",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/291680",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/291680",
      "sha256": null
     }
    ]
@@ -843,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-21-2026",
+   "path": "local/iasi/erbiceni/2026/21",
+   "short": "HCL Erbiceni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 21/2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/254666",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/254666",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-22-2026",
    "path": "local/iasi/erbiceni/2026/22",
    "short": "HCL Erbiceni nr. 22/2026",
@@ -1113,6 +1188,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-39-2026",
+   "path": "local/iasi/erbiceni/2026/39",
+   "short": "HCL Erbiceni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 39/2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/266905",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/266905",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-4-2026",
    "path": "local/iasi/erbiceni/2026/4",
    "short": "HCL Erbiceni nr. 4/2026",
@@ -1123,6 +1213,21 @@
      "from": "2026-01-30",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/251555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-40-2026",
+   "path": "local/iasi/erbiceni/2026/40",
+   "short": "HCL Erbiceni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 40/2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/266906",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/266906",
      "sha256": null
     }
    ]
@@ -1198,6 +1303,21 @@
      "from": "2026-05-11",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/268124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-46-2026",
+   "path": "local/iasi/erbiceni/2026/46",
+   "short": "HCL Erbiceni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 46/2026 privind alocarea sumei de 76.000 lei din bugetul Comunei Erbiceni aferent anului 2026 , pentru achizitionarea placutelor de identificare stradala cu numele strazilor si numerele administrative pentru imobilele din comuna Erbiceni , judetul Iasi",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/268125",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/268125",
      "sha256": null
     }
    ]
@@ -1743,6 +1863,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-8-2026",
+   "path": "local/iasi/erbiceni/2026/8",
+   "short": "HCL Erbiceni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 8/2026 privind revocarea art.3 din Hotararea Consiliului Local al comunei Erbiceni nr. 97/03.11.2025 privind concesionarea unei suprafete de 2000 mp teren situat in loc. Erbiceni , com. Erbiceni , apartinand domeniului privat al UAT Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/251559",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/251559",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-80-2026",
    "path": "local/iasi/erbiceni/2026/80",
    "short": "HCL Erbiceni nr. 80/2026",
@@ -2038,6 +2173,21 @@
      "from": "2026-07-31",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/281706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-99-2026",
+   "path": "local/iasi/erbiceni/2026/99",
+   "short": "HCL Erbiceni nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 99/2026 privind aprobarea concesionarii directe a unui spatiu apartinand UAT COMUNA ERBICENI din spatiul comun al blocului de locuinte , in suprafata de 31.88 mp in vederea desfasurarii activitatii medicale",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/281707",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/281707",
      "sha256": null
     }
    ]

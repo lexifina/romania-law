@@ -1854,6 +1854,28 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-85-2022",
+"path": "local/iasi/erbiceni/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 85/2022 privind desemnarea a doi reprezentanti al CL Erbiceni in Consiliul de Administratie a Scolii Gimnaziale „ C. Erbiceanu „",
+"short": "HCL Erbiceni nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/87494",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-86-2022",
 "path": "local/iasi/erbiceni/2022/86",
 "kind": "local",
@@ -2053,6 +2075,28 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-95-2022",
+"path": "local/iasi/erbiceni/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 95/2022 privind modificarea HCL nr. 97/23.09.2022 privind desemnarea a doi reprezentanti ai CL Erbiceni in Consiliul de Administratie al Scolii Gimnaziale „ C. Erbiceanu „ Erbiceni",
+"short": "HCL Erbiceni nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/87510",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-96-2022",
 "path": "local/iasi/erbiceni/2022/96",
 "kind": "local",
@@ -2138,6 +2182,29 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-100-2022",
+"path": "local/iasi/erbiceni/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 100/2022",
+"short": "HCL Erbiceni nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/87515",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2358,6 +2425,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-111-2022",
+"path": "local/iasi/erbiceni/2022/111",
+"kind": "local",
+"year": "2022",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 111/2022 privind desemnarea unui administrator special in cadrul procedurii insolventei SC GIOSPODARUL ERBICENI SRL",
+"short": "HCL Erbiceni nr. 111/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/87579",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

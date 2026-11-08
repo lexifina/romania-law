@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-13-2024",
+   "path": "local/iasi/costesti/2024/13",
+   "short": "HCL Costești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 13/2024 privind aprobarea decontării și a modalității de decontare, a cheltuielilor de transport pentru funcționarii publici și personalul contractual, din cadrul aparatului de specialitate al primarului Comuna Costești, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/143042",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/143042",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-14-2024",
    "path": "local/iasi/costesti/2024/14",
    "short": "HCL Costești nr. 14/2024",
@@ -868,6 +883,21 @@
      "from": "2024-10-23",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/173511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-63-2024",
+   "path": "local/iasi/costesti/2024/63",
+   "short": "HCL Costești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 63/2024 privind aprobarea perioadei de funcționare în anul 2024, a cazanului pentru producerea de țuică aflat in administrarea Comunei Costesti, jud. Iaşi si desemnarea personalului care sa raspunda de activitatea desfasurata la cazan, precum si de incasarea tarif/cazan stabilită prin H C L 79/2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/173512",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/173512",
      "sha256": null
     }
    ]

@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-18-2025",
+   "path": "local/iasi/costesti/2025/18",
+   "short": "HCL Costești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 18/2025",
+   "url": "https://emol.ro/costesti-is/registru-hcl/209647",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/209647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-19-2025",
+   "path": "local/iasi/costesti/2025/19",
+   "short": "HCL Costești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 19/2025",
+   "url": "https://emol.ro/costesti-is/registru-hcl/209648",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/209648",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-2-2025",
    "path": "local/iasi/costesti/2025/2",
    "short": "HCL Costești nr. 2/2025",
@@ -343,6 +373,21 @@
      "from": "2025-08-01",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/219738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-32-2025",
+   "path": "local/iasi/costesti/2025/32",
+   "short": "HCL Costești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 32/2025",
+   "url": "https://emol.ro/costesti-is/registru-hcl/222129",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/222129",
      "sha256": null
     }
    ]
@@ -603,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-49-2025",
+   "path": "local/iasi/costesti/2025/49",
+   "short": "HCL Costești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 49/2025 privind aprobarea perioadei de funcționare în anul 2025, a cazanului pentru producerea de țuică aflat în administrarea Comunei Costesti, jud. Iaşi si desemnarea personalului care să răspundă de activitatea desfășurată la cazan, precum si de încasarea tarif/cazan stabilită prin H C L nr.72/2024",
+   "url": "https://emol.ro/costesti-is/registru-hcl/239201",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/239201",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-5-2025",
    "path": "local/iasi/costesti/2025/5",
    "short": "HCL Costești nr. 5/2025",
@@ -763,6 +823,21 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/243732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-6-2025",
+   "path": "local/iasi/costesti/2025/6",
+   "short": "HCL Costești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 6/2025 privind închirierea pajiştelor prin atribuire directă, aflate în proprietatea privată a U A T Comuna Costeşti, jud. Iaşi, rămase disponibile în urma verificării încărcăturii de animale/ha/contract",
+   "url": "https://emol.ro/costesti-is/registru-hcl/200359",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/200359",
      "sha256": null
     }
    ]

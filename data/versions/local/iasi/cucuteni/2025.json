@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-15-2025",
+   "path": "local/iasi/cucuteni/2025/15",
+   "short": "HCL Cucuteni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 15/2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/196472",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/196472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-16-2025",
+   "path": "local/iasi/cucuteni/2025/16",
+   "short": "HCL Cucuteni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 16/2025 privind rezilierea unui contract de închiriere",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/196473",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/196473",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-17-2025",
    "path": "local/iasi/cucuteni/2025/17",
    "short": "HCL Cucuteni nr. 17/2025",
@@ -178,6 +208,81 @@
      "from": "2025-03-25",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/202085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-2-2025",
+   "path": "local/iasi/cucuteni/2025/2",
+   "short": "HCL Cucuteni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 2/2025 privind desemnarea preşedintelui de şedinţă",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/192797",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/192797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-20-2025",
+   "path": "local/iasi/cucuteni/2025/20",
+   "short": "HCL Cucuteni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 20/2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/202086",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/202086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-21-2025",
+   "path": "local/iasi/cucuteni/2025/21",
+   "short": "HCL Cucuteni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 21/2025 privind iniţierea închirieri prin atribuire directă a suprafeţei de 134 ha păşune proprietatea privată a UAT Cucuteni",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/202087",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/202087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-22-2025",
+   "path": "local/iasi/cucuteni/2025/22",
+   "short": "HCL Cucuteni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 22/2025 privind însușirea Cererii ferme de concesionare și aprobarea achiziției serviciilor de specialitate în vederea elaborării studiului de oportunitate, caietului de sarcini, precum și a documentației necesare privind concesionarea, prin licitație publică, a unor terenuri aparținând domeniului privat al comunei Cucuteni, județul Iași",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/202088",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/202088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-23-2025",
+   "path": "local/iasi/cucuteni/2025/23",
+   "short": "HCL Cucuteni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 23/2025 privind aprobarea planurilor pentru asigurarea cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/202089",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/202089",
      "sha256": null
     }
    ]
@@ -258,6 +363,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-29-2025",
+   "path": "local/iasi/cucuteni/2025/29",
+   "short": "HCL Cucuteni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 29/2025 privind desemnarea preşedintelui de şedinţă",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/206280",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/206280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-3-2025",
+   "path": "local/iasi/cucuteni/2025/3",
+   "short": "HCL Cucuteni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 3/2025 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap din comuna Cucuteni , pentru semestrul II 2024 şi aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/192799",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/192799",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-30-2025",
    "path": "local/iasi/cucuteni/2025/30",
    "short": "HCL Cucuteni nr. 30/2025",
@@ -273,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-31-2025",
+   "path": "local/iasi/cucuteni/2025/31",
+   "short": "HCL Cucuteni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 31/2025 privind aprobarea actualizării devizului general rezultat în urma aplicării clauzelor de ajustare a prețurilor în vederea suplimentării sumelor din contractului de execuție pentru obiectivul de investiții „AMENAJARE STRĂZI ÎN COMUNA CUCUTENI, JUDEȚUL IAȘI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/206282",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/206282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-32-2025",
    "path": "local/iasi/cucuteni/2025/32",
    "short": "HCL Cucuteni nr. 32/2025",
@@ -283,6 +433,21 @@
      "from": "2025-05-09",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/208236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-33-2025",
+   "path": "local/iasi/cucuteni/2025/33",
+   "short": "HCL Cucuteni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 33/2025 privind iniţierea închirieri prin atribuire directă a suprafeţei de 95,70 ha păşune proprietatea privată a UAT Cucuteni",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/208237",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/208237",
      "sha256": null
     }
    ]
@@ -378,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-4-2025",
+   "path": "local/iasi/cucuteni/2025/4",
+   "short": "HCL Cucuteni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 4/2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/192801",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/192801",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-40-2025",
    "path": "local/iasi/cucuteni/2025/40",
    "short": "HCL Cucuteni nr. 40/2025",
@@ -468,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-46-2025",
+   "path": "local/iasi/cucuteni/2025/46",
+   "short": "HCL Cucuteni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 46/2025 privind desemnarea preşedintelui de şedinţă",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/221403",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/221403",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-47-2025",
    "path": "local/iasi/cucuteni/2025/47",
    "short": "HCL Cucuteni nr. 47/2025",
@@ -478,6 +673,21 @@
      "from": "2025-07-29",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/221404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-48-2025",
+   "path": "local/iasi/cucuteni/2025/48",
+   "short": "HCL Cucuteni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 48/2025 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap din comuna Cucuteni , pentru semestrul I 2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/221405",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/221405",
      "sha256": null
     }
    ]
@@ -663,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-6-2025",
+   "path": "local/iasi/cucuteni/2025/6",
+   "short": "HCL Cucuteni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 6/2025 privind Planul de acţiuni/lucrări de interes local pentru anul 2025 cuprinzând acţiunile/lucrările care pot fi realizate cu ajutorul persoanelor majore apte de muncă beneficiare ale prevederilor Legii nr.196/2016 privind venitul minim de incluziune (VMI) şi al persoanelor obligate să efectueze muncă în folosul comunităţii",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/192805",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/192805",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-60-2025",
    "path": "local/iasi/cucuteni/2025/60",
    "short": "HCL Cucuteni nr. 60/2025",
@@ -813,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-7-2025",
+   "path": "local/iasi/cucuteni/2025/7",
+   "short": "HCL Cucuteni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 7/2025",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/192806",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/192806",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-70-2025",
    "path": "local/iasi/cucuteni/2025/70",
    "short": "HCL Cucuteni nr. 70/2025",
@@ -873,6 +1113,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-74-2025",
+   "path": "local/iasi/cucuteni/2025/74",
+   "short": "HCL Cucuteni nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 74/2025 privind desemnarea preşedintelui de şedinţă",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/235962",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/235962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-75-2025",
    "path": "local/iasi/cucuteni/2025/75",
    "short": "HCL Cucuteni nr. 75/2025",
@@ -898,6 +1153,21 @@
      "from": "2025-10-28",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/235964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-77-2025",
+   "path": "local/iasi/cucuteni/2025/77",
+   "short": "HCL Cucuteni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 77/2025 privind înființarea unui post de asistent medical comunitar și un post de consilier școlar, precum și actualizarea organigramei, a statului de funcții ale aparatului de specialitate al primarului comunei Cucuteni",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/235965",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/235965",
      "sha256": null
     }
    ]
@@ -943,6 +1213,21 @@
      "from": "2025-01-28",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/192807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-80-2025",
+   "path": "local/iasi/cucuteni/2025/80",
+   "short": "HCL Cucuteni nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 80/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru Comuna Cucuteni-Compartiment asistență socială",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/235968",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/235968",
      "sha256": null
     }
    ]

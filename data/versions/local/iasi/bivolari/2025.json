@@ -228,6 +228,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-112-2025",
+   "path": "local/iasi/bivolari/2025/112",
+   "short": "HCL Bivolari nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 112/2025 privind aprobarea bugetului proiectului \" Dotare parc în sat Solonet, Comuna Bivolari, județul Iași\" ca urmare a modificării cotei TVA la 21%, aplicată cheltuielilor rest de decontare la 01.08.2025 conform Legii nr. 141/2025/25.07.2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/226740",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/226740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-113-2025",
+   "path": "local/iasi/bivolari/2025/113",
+   "short": "HCL Bivolari nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 113/2025 privind rectificare buget local, pe anul 2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230201",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-114-2025",
+   "path": "local/iasi/bivolari/2025/114",
+   "short": "HCL Bivolari nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 114/2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230212",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-115-2025",
+   "path": "local/iasi/bivolari/2025/115",
+   "short": "HCL Bivolari nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 115/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERESC LOCALM ÎN COMUNA BIVOLARI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230214",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230214",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-116-2025",
    "path": "local/iasi/bivolari/2025/116",
    "short": "HCL Bivolari nr. 116/2025",
@@ -238,6 +298,51 @@
      "from": "2025-09-30",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/234700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-117-2025",
+   "path": "local/iasi/bivolari/2025/117",
+   "short": "HCL Bivolari nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 117/2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230215",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-118-2025",
+   "path": "local/iasi/bivolari/2025/118",
+   "short": "HCL Bivolari nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 118/2025 privind scoaterea la licitație piblică, în vederea concesionării unor bunuri care aparțin inventarului Domeniului privat al comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230217",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-119-2025",
+   "path": "local/iasi/bivolari/2025/119",
+   "short": "HCL Bivolari nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 119/2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230218",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230218",
      "sha256": null
     }
    ]
@@ -258,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-120-2025",
+   "path": "local/iasi/bivolari/2025/120",
+   "short": "HCL Bivolari nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 120/2025 privind închirierea prin licitație publică și aprobarea documentației de atribuire prin licitație publică a unei Camere din cadrul Căminului Cultural Bivolari, în suprafață de 16 mp",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/230219",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/230219",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-121-2025",
    "path": "local/iasi/bivolari/2025/121",
    "short": "HCL Bivolari nr. 121/2025",
@@ -268,6 +388,21 @@
      "from": "2025-10-31",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/235565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-122-2025",
+   "path": "local/iasi/bivolari/2025/122",
+   "short": "HCL Bivolari nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 122/2025 privind desemnarea reprezentanțiilor Consiliului Local al Comunei Bivolari în Consiliul de administrație al Școlii Gimnazaile Bivolari, comuna Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/235566",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/235566",
      "sha256": null
     }
    ]
@@ -373,6 +508,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/240951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-13-2025",
+   "path": "local/iasi/bivolari/2025/13",
+   "short": "HCL Bivolari nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 13/2025 privind aprobarea închirierii și a documentației de atribuire prin licitație publică aunui teren intravilan în suprafață de 30 mp, situat în sat Bivolari aflat în inventarul domeniului public al comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/196405",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/196405",
      "sha256": null
     }
    ]
@@ -528,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-14-2025",
+   "path": "local/iasi/bivolari/2025/14",
+   "short": "HCL Bivolari nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 14/2025 privind aprobarea concesionării prin licitație publică și a documentației de atribuire aunor suprafețe de teren, proprietate privată a comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/196406",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/196406",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-140-2025",
    "path": "local/iasi/bivolari/2025/140",
    "short": "HCL Bivolari nr. 140/2025",
@@ -658,6 +823,21 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/252204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-15-2025",
+   "path": "local/iasi/bivolari/2025/15",
+   "short": "HCL Bivolari nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 15/2025 privind scoaterea la licitație publică, în vederea concesionării și aprobarea întocmirii documentației pentru concesionarea următoarelor imobile : Clădiri administrative ( fost sediu CAP-vechi) în suprafață de 225 mp și teren intravilan în suprafață de 670 mp situate în Tarlaua 53, Parcela 2494. 2491, 2492, nr. cadastral 63493",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/196408",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/196408",
      "sha256": null
     }
    ]
@@ -978,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-35-2025",
+   "path": "local/iasi/bivolari/2025/35",
+   "short": "HCL Bivolari nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 35/2025 privind scoaterea la licitație publică și intocmirea documentației pentru vânzare imobil teren în suprafață de 426 mp, nr. cadastral 66291, aflat în inventarul domeniului privat al comunei Bivolari, conform anexei nr.1 care este parte integrantă din prezenta hotărăre",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/202625",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/202625",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-36-2025",
    "path": "local/iasi/bivolari/2025/36",
    "short": "HCL Bivolari nr. 36/2025",
@@ -1078,6 +1273,36 @@
      "from": "2025-03-20",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/206812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-42-2025",
+   "path": "local/iasi/bivolari/2025/42",
+   "short": "HCL Bivolari nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 42/2025 privind aprobarea concesionării prin licitație publică și a documentației de atribuire a terenului intravilan în suprafață de 670 mp și a Clădirii în suprafață de 170 mp, proprietate privată a comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/206813",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/206813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-43-2025",
+   "path": "local/iasi/bivolari/2025/43",
+   "short": "HCL Bivolari nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 43/2025 privind aprobarea vânzării și a prețului de vânzare a terenului în suprafață de 426 mp, aflate în intravilanul domeniului privat al comunei Bivolari, situat în intravilanul comunei Bivolari, T.53, parcela 1( 2503/1)",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/206814",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/206814",
      "sha256": null
     }
    ]
@@ -1693,6 +1918,21 @@
      "from": "2025-06-27",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/219533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-81-2025",
+   "path": "local/iasi/bivolari/2025/81",
+   "short": "HCL Bivolari nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 81/2025 privind acordarea sprijin financiar pentru parahiile din comuna Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/219534",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/219534",
      "sha256": null
     }
    ]

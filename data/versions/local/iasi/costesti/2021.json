@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-15-2021",
+   "path": "local/iasi/costesti/2021/15",
+   "short": "HCL Costești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 15/2021 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile APRILIE, MAI şi IUNIE 2021",
+   "url": "https://emol.ro/costesti-is/registru-hcl/21646",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/21646",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-16-2021",
    "path": "local/iasi/costesti/2021/16",
    "short": "HCL Costești nr. 16/2021",
@@ -438,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-35-2021",
+   "path": "local/iasi/costesti/2021/35",
+   "short": "HCL Costești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 35/2021 privind aprobarea achizitionării de plăcuţe privind denumiri ale străzilor şi nunere atribuite imobilelor din intravilanul Comuna Costeşti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/26079",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/26079",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-36-2021",
    "path": "local/iasi/costesti/2021/36",
    "short": "HCL Costești nr. 36/2021",
@@ -463,6 +493,21 @@
      "from": "2021-05-27",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/26081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-38-2021",
+   "path": "local/iasi/costesti/2021/38",
+   "short": "HCL Costești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 38/2021",
+   "url": "https://emol.ro/costesti-is/registru-hcl/26082",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/26082",
      "sha256": null
     }
    ]
@@ -588,6 +633,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-46-2021",
+   "path": "local/iasi/costesti/2021/46",
+   "short": "HCL Costești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 46/2021 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile iulie, august şi septembrie 2021",
+   "url": "https://emol.ro/costesti-is/registru-hcl/31523",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/31523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-47-2021",
+   "path": "local/iasi/costesti/2021/47",
+   "short": "HCL Costești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 47/2021 privind numirea persoanei care va ţine şi va opera la zi Registrul de evidenţă a datoriei publice locale, precum şi în Registrul de evidenţă a garanţiilor publice locale ale U A T Comuna Costeşti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/31524",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/31524",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-48-2021",
    "path": "local/iasi/costesti/2021/48",
    "short": "HCL Costești nr. 48/2021",
@@ -688,6 +763,21 @@
      "from": "2021-06-28",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/31530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-54-2021",
+   "path": "local/iasi/costesti/2021/54",
+   "short": "HCL Costești nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 54/2021",
+   "url": "https://emol.ro/costesti-is/registru-hcl/31531",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/31531",
      "sha256": null
     }
    ]
@@ -823,6 +913,21 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/32690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-63-2021",
+   "path": "local/iasi/costesti/2021/63",
+   "short": "HCL Costești nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 63/2021 privind aprobarea vânzării cu drept de preempţiune a suprafeţei de 520 m2 teren situat în Tarlaua 62, Parcela 1636/1-intravilanul comunei Costeşti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/32691",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/32691",
      "sha256": null
     }
    ]
@@ -1078,6 +1183,21 @@
      "from": "2021-10-21",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/41435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-8-2021",
+   "path": "local/iasi/costesti/2021/8",
+   "short": "HCL Costești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 8/2021 privind desemnarea a doi consilieri locali care vor face parte din Comisia de evaluare a performanțelor profesionale individuale ale secretarului general al unității administrativ – teritoriale Comuna Costesti, Județul Iași, pentru anul 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/19528",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/19528",
      "sha256": null
     }
    ]

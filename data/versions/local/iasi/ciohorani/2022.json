@@ -3,6 +3,21 @@
  "shard": "local/iasi/ciohorani/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-1-2022",
+   "path": "local/iasi/ciohorani/2022/1",
+   "short": "HCL Ciohorăni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 1/2022 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Ciohorăni, pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50866",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50866",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-10-2022",
    "path": "local/iasi/ciohorani/2022/10",
    "short": "HCL Ciohorăni nr. 10/2022",
@@ -13,6 +28,21 @@
      "from": "2022-03-28",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/54833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-11-2022",
+   "path": "local/iasi/ciohorani/2022/11",
+   "short": "HCL Ciohorăni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 11/2022 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/54834",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/54834",
      "sha256": null
     }
    ]
@@ -33,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-13-2022",
+   "path": "local/iasi/ciohorani/2022/13",
+   "short": "HCL Ciohorăni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 13/2022 privind desemnarea reprezentantului Consiliului Local Ciohorăni în cadrul comisiei de evaluarea a probei de interviu, pentru ocuparea funcției de director la Școala Gimnazială Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/55907",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/55907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-14-2022",
+   "path": "local/iasi/ciohorani/2022/14",
+   "short": "HCL Ciohorăni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 14/2022 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/55908",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/55908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-15-2022",
    "path": "local/iasi/ciohorani/2022/15",
    "short": "HCL Ciohorăni nr. 15/2022",
@@ -48,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-16-2022",
+   "path": "local/iasi/ciohorani/2022/16",
+   "short": "HCL Ciohorăni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 16/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60975",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-17-2022",
+   "path": "local/iasi/ciohorani/2022/17",
+   "short": "HCL Ciohorăni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 17/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60976",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-18-2022",
+   "path": "local/iasi/ciohorani/2022/18",
+   "short": "HCL Ciohorăni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 18/2022 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60977",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60977",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-19-2022",
    "path": "local/iasi/ciohorani/2022/19",
    "short": "HCL Ciohorăni nr. 19/2022",
@@ -58,6 +163,576 @@
      "from": "2022-05-13",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-2-2022",
+   "path": "local/iasi/ciohorani/2022/2",
+   "short": "HCL Ciohorăni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 2/2022 privind aprobarea Planului de lucrări de interes local, ce se va executa de către beneficiarii de ajutor social în anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50867",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-20-2022",
+   "path": "local/iasi/ciohorani/2022/20",
+   "short": "HCL Ciohorăni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 20/2022 privind aprobarea depunerii proiectului „Achiziție microbuz nepoluant și punct de reîncărcare pentru vehicule electrice în Comuna Ciohorăni, Judetul Iași” în cadrul apelurilor de proiecte PNRR/2022/C10, componenta 10 - Fondul local, Investitia 1.1 Mobilitate urbană durabilă, I1.1 - Înnoirea parcului de vehicule destinate transportului public (achiziția de vehicule nepoluante)",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60979",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-21-2022",
+   "path": "local/iasi/ciohorani/2022/21",
+   "short": "HCL Ciohorăni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 21/2022 privind aprobarea depunerii proiectului „Achiziție sistem de monitorizare video în Comuna Ciohorăni, Județul Iași” în cadrul apelurilor de proiecte PNRR/2022/C10, Componenta C10- Fondul Local, Investitia I.1 Mobilitate Urbană, Subinvestitia I.1.2 Asigurarea infrastructurii pentru transportul verde - ITS/alte infrastructuri TIC",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/60980",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/60980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-22-2022",
+   "path": "local/iasi/ciohorani/2022/22",
+   "short": "HCL Ciohorăni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 22/2022 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al comunei Ciohorăni, pentru trimestrul I anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63671",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-23-2022",
+   "path": "local/iasi/ciohorani/2022/23",
+   "short": "HCL Ciohorăni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 23/2022 pentru modificarea Anexei la Hotărârea Consiliului Local al comunei Ciohorăni nr.23 /2021 privind aprobarea Regulamentului de organizare si funcționare a Consiliului Local al comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63672",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-24-2022",
+   "path": "local/iasi/ciohorani/2022/24",
+   "short": "HCL Ciohorăni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 24/2022 privind aprobarea modificării soluțiilor tehnice prevăzute în documentatia tehnică nr.2/2009 faza Pth+ De pentru realizarea obiectivului de investitii ” Construire baza sportivă, sat Ciohorăni, comuna Ciohorăni”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63673",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-25-2022",
+   "path": "local/iasi/ciohorani/2022/25",
+   "short": "HCL Ciohorăni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 25/2022 privind neasumarea organizării și derulării procedurilor de atribuire a contractelor pentru achiziția produselor și a contractelor pentru derularea măsurilor educative prevăzute în cadrul Programului pentru școli al României, în anul școlar 2022-2023",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63674",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-26-2022",
+   "path": "local/iasi/ciohorani/2022/26",
+   "short": "HCL Ciohorăni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 26/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63675",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-27-2022",
+   "path": "local/iasi/ciohorani/2022/27",
+   "short": "HCL Ciohorăni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 27/2022 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63676",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-28-2022",
+   "path": "local/iasi/ciohorani/2022/28",
+   "short": "HCL Ciohorăni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 28/2022 privind aprobarea necesității si oportunității realizării obiectivului de investiții „Extindere rețea alimentare cu apă, în comuna Ciohorăni, jud. Iași, L - 5570 m ( Str. Calistrat Hogaș - 1750 m, Str.M. Sadoveanu - 750 m, Str. Mitropolit Visarion Puiu - 2100 m, Str. Sf. Nicolae - 270 m , Str. Viișoara- 400 m, Str. Siliștei -300 m) ”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63677",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-29-2022",
+   "path": "local/iasi/ciohorani/2022/29",
+   "short": "HCL Ciohorăni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 29/2022 privind aprobarea depunerii proiectului „Achiziție microbuz nepoluant și punct de reîncărcare pentru vehicule electrice în Comuna Ciohorăni, Judetul Iași” în cadrul apelurilor de proiecte PNRR/2022/C10, componenta 10 - Fondul local, Investitia 1.1 Mobilitate urbană durabilă, I1.1 - Înnoirea parcului de vehicule destinate transportului public (achiziția de vehicule nepoluante)",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/63678",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/63678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-3-2022",
+   "path": "local/iasi/ciohorani/2022/3",
+   "short": "HCL Ciohorăni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 3/2022 privind validarea modificării adusă bugetului de venituri si cheltuieli al comunei Ciohorăni prin dispoziția primarului nr.506/2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50868",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-30-2022",
+   "path": "local/iasi/ciohorani/2022/30",
+   "short": "HCL Ciohorăni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 30/2022 privind aprobarea bugetului actualizat pentru proiectul „Achiziție tractor pentru comuna Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/71499",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/71499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-31-2022",
+   "path": "local/iasi/ciohorani/2022/31",
+   "short": "HCL Ciohorăni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 31/2022 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/71500",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/71500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-32-2022",
+   "path": "local/iasi/ciohorani/2022/32",
+   "short": "HCL Ciohorăni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 32/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/71501",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/71501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-33-2022",
+   "path": "local/iasi/ciohorani/2022/33",
+   "short": "HCL Ciohorăni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 33/2022 privind aprobarea indicatorilor tehnico-economici actualizați și asigurarea cofinanțării pentru obiectivul de investiţii „Reabilitare termică, refacere instalții electrice, refacere parțială a finisajelor, amenajare exterioară la Școala Gimnazială Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81410",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-34-2022",
+   "path": "local/iasi/ciohorani/2022/34",
+   "short": "HCL Ciohorăni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 34/2022 privind aprobarea solicitării de prelungire a Scrisorii de garantie pentru restituirea avansului, emisă de către Fondul National de Garantare a Creditelor pentru Intreprinderile Mici si Mijlocii SA-IFN (FNGCIMM SA-IFN) în vederea garantării avansului pentru proiectul “Proiect integrat privind realizarea investițiilor: modernizare drumuri interioare în comuna Ciohorăni, construire gradiniță în comuna Ciohorăni, construire centru de îngrijire bătrâni în comuna Ciohorăni, achiziționare utilaje de intervenții la incendii pentru serviciul voluntar pentru situații de urgență în comuna Ciohorăni, dotare cămin cultural în comuna Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81411",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-35-2022",
+   "path": "local/iasi/ciohorani/2022/35",
+   "short": "HCL Ciohorăni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 35/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni pe anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81412",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-36-2022",
+   "path": "local/iasi/ciohorani/2022/36",
+   "short": "HCL Ciohorăni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 36/2022 pentru completarea anexei nr.1 la Hotărârea Consiliului Local Ciohorăni nr.30/2011 privind aprobarea listei situațiilor deosebite care justifică acordarea ajutoarelor de urgenţă, altele decât cele datorate calamităţilor naturale, incendiilor, accidentelor",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81413",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-37-2022",
+   "path": "local/iasi/ciohorani/2022/37",
+   "short": "HCL Ciohorăni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 37/2022 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81414",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-38-2022",
+   "path": "local/iasi/ciohorani/2022/38",
+   "short": "HCL Ciohorăni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 38/2022 privind desemnarea reprezentantului Consiliului Local Ciohorăni în Consiliul de administrație al Școlii Gimnaziale Ciohorăni pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81420",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-39-2022",
+   "path": "local/iasi/ciohorani/2022/39",
+   "short": "HCL Ciohorăni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 39/2022 privind desemnarea reprezentantului Consiliului Local al comunei Ciohorăni și a membrului supleant în cadrul comisiei de evaluarea a probei de interviu, pentru ocuparea funcției de director la Școala Gimnazială Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81421",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-4-2022",
+   "path": "local/iasi/ciohorani/2022/4",
+   "short": "HCL Ciohorăni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 4/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50869",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-40-2022",
+   "path": "local/iasi/ciohorani/2022/40",
+   "short": "HCL Ciohorăni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 40/2022 privind aprobarea desființării funcției contractuale de execuție vacante de consilier gradul I",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81422",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-41-2022",
+   "path": "local/iasi/ciohorani/2022/41",
+   "short": "HCL Ciohorăni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 41/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni pe anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81423",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-42-2022",
+   "path": "local/iasi/ciohorani/2022/42",
+   "short": "HCL Ciohorăni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 42/2022 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81424",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-43-2022",
+   "path": "local/iasi/ciohorani/2022/43",
+   "short": "HCL Ciohorăni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 43/2022 privind validarea modificărilor aduse bugetului de venituri si cheltuieli al comunei Ciohorăni prin Dispoziția primarului nr.311/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81450",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-44-2022",
+   "path": "local/iasi/ciohorani/2022/44",
+   "short": "HCL Ciohorăni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 44/2022 privind alegerea presedintelui de ședință",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81451",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-45-2022",
+   "path": "local/iasi/ciohorani/2022/45",
+   "short": "HCL Ciohorăni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 45/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81452",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-46-2022",
+   "path": "local/iasi/ciohorani/2022/46",
+   "short": "HCL Ciohorăni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 46/2022 privind aprobarea achizitionării unei remorci",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81453",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-47-2022",
+   "path": "local/iasi/ciohorani/2022/47",
+   "short": "HCL Ciohorăni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 47/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni pe anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/81454",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/81454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-48-2022",
+   "path": "local/iasi/ciohorani/2022/48",
+   "short": "HCL Ciohorăni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 48/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni pe anul 2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/84936",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-49-2022",
+   "path": "local/iasi/ciohorani/2022/49",
+   "short": "HCL Ciohorăni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 49/2022 privind aprobarea implementării proiectului ”Amenajare spatiu de joacă pentru copii în comuna Ciohorăni, judetul Iasi ”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/84937",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-5-2022",
+   "path": "local/iasi/ciohorani/2022/5",
+   "short": "HCL Ciohorăni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 5/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50870",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-50-2022",
+   "path": "local/iasi/ciohorani/2022/50",
+   "short": "HCL Ciohorăni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 50/2022 privind alegerea președintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/84938",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-51-2022",
+   "path": "local/iasi/ciohorani/2022/51",
+   "short": "HCL Ciohorăni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 51/2022 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 2",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/84939",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-52-2022",
+   "path": "local/iasi/ciohorani/2022/52",
+   "short": "HCL Ciohorăni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 52/2022 privind aprobarea introducerii în domeniul privat al comunei Ciohorăni a bunurilor dobândite în cadrul proiectului “Achizitie tractor pentru comuna Ciohorăni, județul Iași ”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/84940",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-53-2022",
+   "path": "local/iasi/ciohorani/2022/53",
+   "short": "HCL Ciohorăni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 53/2022 privind aprobarea introducerii în domeniul privat al comunei Ciohorăni a bunurilor dobândite în cadrul proiectului “Reabilitare termică, refacere instalții electrice, refacere parțială a finisajelor, amenajare exterioară la Școala Gimnazială Ciohorăni, judetul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/84941",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84941",
      "sha256": null
     }
    ]
@@ -148,6 +823,21 @@
      "from": "2023-09-19",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/84947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-6-2022",
+   "path": "local/iasi/ciohorani/2022/6",
+   "short": "HCL Ciohorăni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 6/2022",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50871",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50871",
      "sha256": null
     }
    ]
@@ -303,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-7-2022",
+   "path": "local/iasi/ciohorani/2022/7",
+   "short": "HCL Ciohorăni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 7/2022 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50872",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50872",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-70-2022",
    "path": "local/iasi/ciohorani/2022/70",
    "short": "HCL Ciohorăni nr. 70/2022",
@@ -358,6 +1063,36 @@
      "from": "2023-02-21",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/90990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-8-2022",
+   "path": "local/iasi/ciohorani/2022/8",
+   "short": "HCL Ciohorăni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 8/2022 privind aprobarea cererii de finanțare corectată si a devizului general estimativ pentru obiectivul de investiții ,,Modernizare infrastructură rutieră în comuna Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50873",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-9-2022",
+   "path": "local/iasi/ciohorani/2022/9",
+   "short": "HCL Ciohorăni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 9/2022 privind aprobarea cererii de finanțare corectată și a devizului general estimativ pentru obiectivul de investiții ,, Refacere drum și consolidare ravenă în comuna Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/50874",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/50874",
      "sha256": null
     }
    ]

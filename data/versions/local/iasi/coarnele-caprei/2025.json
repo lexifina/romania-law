@@ -3,6 +3,21 @@
  "shard": "local/iasi/coarnele-caprei/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--coarnele-caprei-1-2025",
+   "path": "local/iasi/coarnele-caprei/2025/1",
+   "short": "HCL Coarnele Caprei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 1/2025 privind aprobare proces-verbal al ședinței din data de 15.12.2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191629",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191629",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-10-2025",
    "path": "local/iasi/coarnele-caprei/2025/10",
    "short": "HCL Coarnele Caprei nr. 10/2025",
@@ -13,6 +28,21 @@
      "from": "2025-02-10",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-11-2025",
+   "path": "local/iasi/coarnele-caprei/2025/11",
+   "short": "HCL Coarnele Caprei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 11/2025 privind aprobare proces-verbal al ședinței din data de 31.01.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/196027",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/196027",
      "sha256": null
     }
    ]
@@ -63,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-15-2025",
+   "path": "local/iasi/coarnele-caprei/2025/15",
+   "short": "HCL Coarnele Caprei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 15/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/196031",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/196031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-16-2025",
+   "path": "local/iasi/coarnele-caprei/2025/16",
+   "short": "HCL Coarnele Caprei nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 16/2025 privind aprobare proces-verbal al ședinței din data de 28.02.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201533",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-17-2025",
    "path": "local/iasi/coarnele-caprei/2025/17",
    "short": "HCL Coarnele Caprei nr. 17/2025",
@@ -73,6 +133,21 @@
      "from": "2025-04-03",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-18-2025",
+   "path": "local/iasi/coarnele-caprei/2025/18",
+   "short": "HCL Coarnele Caprei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 18/2025 privind aprobare proces-verbal al ședinței din data de 27.03.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201540",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201540",
      "sha256": null
     }
    ]
@@ -108,6 +183,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-20-2025",
+   "path": "local/iasi/coarnele-caprei/2025/20",
+   "short": "HCL Coarnele Caprei nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 20/2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201545",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-21-2025",
+   "path": "local/iasi/coarnele-caprei/2025/21",
+   "short": "HCL Coarnele Caprei nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 21/2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201546",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/201546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-22-2025",
+   "path": "local/iasi/coarnele-caprei/2025/22",
+   "short": "HCL Coarnele Caprei nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 22/2025 privind aprobare proces-verbal al ședinței din data de 31.03.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205876",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-23-2025",
+   "path": "local/iasi/coarnele-caprei/2025/23",
+   "short": "HCL Coarnele Caprei nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 23/2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205877",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205877",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-24-2025",
    "path": "local/iasi/coarnele-caprei/2025/24",
    "short": "HCL Coarnele Caprei nr. 24/2025",
@@ -118,6 +253,201 @@
      "from": "2025-05-05",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-25-2025",
+   "path": "local/iasi/coarnele-caprei/2025/25",
+   "short": "HCL Coarnele Caprei nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 25/2025 privind rectificare buget pe trim. II-2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205879",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/205879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-26-2025",
+   "path": "local/iasi/coarnele-caprei/2025/26",
+   "short": "HCL Coarnele Caprei nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 26/2025 privind aprobare proces-verbal al ședinței din data de 29.04.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208421",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-27-2025",
+   "path": "local/iasi/coarnele-caprei/2025/27",
+   "short": "HCL Coarnele Caprei nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 27/2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208432",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-28-2025",
+   "path": "local/iasi/coarnele-caprei/2025/28",
+   "short": "HCL Coarnele Caprei nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 28/2025 privind achiziționarea de flori anuale și perene, de conifere și trandafiri",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208433",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-29-2025",
+   "path": "local/iasi/coarnele-caprei/2025/29",
+   "short": "HCL Coarnele Caprei nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 29/2025 privind aprobarea unei sume necesare pentru ''Comemorarea Eroilor Neamului''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208434",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-3-2025",
+   "path": "local/iasi/coarnele-caprei/2025/3",
+   "short": "HCL Coarnele Caprei nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 3/2025 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă beneficiarilor venitului minim de incluziune Coarnele Caprei, județul Iași pentru anul 2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191631",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-30-2025",
+   "path": "local/iasi/coarnele-caprei/2025/30",
+   "short": "HCL Coarnele Caprei nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 30/2025 privind aprobarea acreditării Compartimentului de Asistență socială din cadrul aparatului de specialitate al Primarului comunei Coarnele Caprei, Județul Iași",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208435",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-31-2025",
+   "path": "local/iasi/coarnele-caprei/2025/31",
+   "short": "HCL Coarnele Caprei nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 31/2025 privind rectificare buget pe trim. II - 2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208436",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-32-2025",
+   "path": "local/iasi/coarnele-caprei/2025/32",
+   "short": "HCL Coarnele Caprei nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 32/2025 privind neasumarea responsabilității derulării Programului pentru școli al Românei pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208437",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/208437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-33-2025",
+   "path": "local/iasi/coarnele-caprei/2025/33",
+   "short": "HCL Coarnele Caprei nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 33/2025 privind aprobare proces-verbal al ședinței din data de 16.05.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211901",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-34-2025",
+   "path": "local/iasi/coarnele-caprei/2025/34",
+   "short": "HCL Coarnele Caprei nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 34/2025 privind aprobarea completării Strategiei de dezvoltare locala perioada 2021-2027 a unității administrativ teritoriale Coarnele Caprei, Județul Iași",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211928",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-35-2025",
+   "path": "local/iasi/coarnele-caprei/2025/35",
+   "short": "HCL Coarnele Caprei nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 35/2025 privind rectificare buget pe trim. II-2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211929",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-36-2025",
+   "path": "local/iasi/coarnele-caprei/2025/36",
+   "short": "HCL Coarnele Caprei nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 36/2025 privind desemnarea procedurilor pentru închirierea prin licitație publică a unui spațiu proprietate publică a comunei Coarnele Caprei în suprafață de 65, 58 mp în vederea desfășurării activității de kinetoterapie și fizioterapie",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211930",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/211930",
      "sha256": null
     }
    ]
@@ -163,6 +493,21 @@
      "from": "2025-10-08",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/217778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-4-2025",
+   "path": "local/iasi/coarnele-caprei/2025/4",
+   "short": "HCL Coarnele Caprei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 4/2025 privind aprobarea Agendei culturale a comunei Coarnele Caprei, județul Iași pentru anul 2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191632",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191632",
      "sha256": null
     }
    ]
@@ -333,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-50-2025",
+   "path": "local/iasi/coarnele-caprei/2025/50",
+   "short": "HCL Coarnele Caprei nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 50/2025 privind aprobarea rezilierii contractului de concesiune 3241/19.07.2021 încheiat cu SC GOLDEXO Grup Coarnele Caprei S.R.L pentru suprafața de 2788 mp reprezentând teren situat în intravilanul comunei Nr. carte funciară 62327",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/217861",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/217861",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-51-2025",
    "path": "local/iasi/coarnele-caprei/2025/51",
    "short": "HCL Coarnele Caprei nr. 51/2025",
@@ -343,6 +703,66 @@
      "from": "2025-10-08",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/217868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-52-2025",
+   "path": "local/iasi/coarnele-caprei/2025/52",
+   "short": "HCL Coarnele Caprei nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 52/2025 privind aprobarea procesului-verbal al ședinței din data de 11.07.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234766",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-53-2025",
+   "path": "local/iasi/coarnele-caprei/2025/53",
+   "short": "HCL Coarnele Caprei nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 53/2025 privind retragerea din Acordul de cooperare nr. 400 din 02. iulie 2014 pentru exercitarea funcției de audit public intern în sistem de cooperare din cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234767",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-54-2025",
+   "path": "local/iasi/coarnele-caprei/2025/54",
+   "short": "HCL Coarnele Caprei nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 54/2025 privind exercitarea funcției de audit public intern în sistem de cooperare în cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234768",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-55-2025",
+   "path": "local/iasi/coarnele-caprei/2025/55",
+   "short": "HCL Coarnele Caprei nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 55/2025 privind rectificare buget pe trim. III-2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234769",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234769",
      "sha256": null
     }
    ]
@@ -363,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-57-2025",
+   "path": "local/iasi/coarnele-caprei/2025/57",
+   "short": "HCL Coarnele Caprei nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 57/2025 privind aprobare proces-verbal al ședinței din data de 22.08.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229105",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-58-2025",
    "path": "local/iasi/coarnele-caprei/2025/58",
    "short": "HCL Coarnele Caprei nr. 58/2025",
@@ -373,6 +808,21 @@
      "from": "2025-10-08",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-59-2025",
+   "path": "local/iasi/coarnele-caprei/2025/59",
+   "short": "HCL Coarnele Caprei nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 59/2025 privind concesionarea prin licitație publică a terenurilor proprietate publică (domeniu public) al comunei Coarnele Caprei în suprafață de 9,0555 ha situat în sat Arama, comuna Coarnele Caprei, județul Iași, nr. CF 65129 nr. cadastral 65129",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229107",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229107",
      "sha256": null
     }
    ]
@@ -393,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-60-2025",
+   "path": "local/iasi/coarnele-caprei/2025/60",
+   "short": "HCL Coarnele Caprei nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 60/2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229108",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229108",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-61-2025",
    "path": "local/iasi/coarnele-caprei/2025/61",
    "short": "HCL Coarnele Caprei nr. 61/2025",
@@ -403,6 +868,111 @@
      "from": "2025-10-08",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-62-2025",
+   "path": "local/iasi/coarnele-caprei/2025/62",
+   "short": "HCL Coarnele Caprei nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 62/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229110",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-63-2025",
+   "path": "local/iasi/coarnele-caprei/2025/63",
+   "short": "HCL Coarnele Caprei nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 63/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229111",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/229111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-64-2025",
+   "path": "local/iasi/coarnele-caprei/2025/64",
+   "short": "HCL Coarnele Caprei nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 64/2025 privind aprobare proces-verbal al ședinței din data de 15.09.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234507",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-65-2025",
+   "path": "local/iasi/coarnele-caprei/2025/65",
+   "short": "HCL Coarnele Caprei nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 65/2025 privind revocarea Hotărârii nr. 59/15.09.2025 privind concesionarea suprafeței de teren de 9, 0555 ha, aparținând domeniului public",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234512",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-66-2025",
+   "path": "local/iasi/coarnele-caprei/2025/66",
+   "short": "HCL Coarnele Caprei nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 66/2025 privind revocarea Hotărârii nr. 60/15.09.2025 privind concesionarea suprafeței de teren de 2788 mp, aparținând domeniului public",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234513",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-67-2025",
+   "path": "local/iasi/coarnele-caprei/2025/67",
+   "short": "HCL Coarnele Caprei nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 67/2025 privind numirea ca reprezentant al Consiliului Local Coarnele Caprei, Județul Iași în comisia pentru evaluarea și asigurarea calității în unitățile de învățământ, pentru anul de învățământ 2025/2026",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234514",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-68-2025",
+   "path": "local/iasi/coarnele-caprei/2025/68",
+   "short": "HCL Coarnele Caprei nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 68/2025 privind numirea ca reprezentanți ai Consiliului Local Coarnele Caprei, județul Iași în Consiliul de Administrație al unității de învățământ Școala Profesională Coarnele Caprei, pentru anul de învățământ 2025-2026",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234515",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234515",
      "sha256": null
     }
    ]
@@ -733,6 +1303,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/286767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-9-2025",
+   "path": "local/iasi/coarnele-caprei/2025/9",
+   "short": "HCL Coarnele Caprei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 9/2025 privind diminuarea taxei speciale de salubrizare cu 50% pentru gosopăriile (cetățenii) care nu poate să ajungă mașina de colectare a gunoiului menajer",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191637",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191637",
      "sha256": null
     }
    ]

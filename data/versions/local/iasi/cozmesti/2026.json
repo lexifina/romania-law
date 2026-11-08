@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cozmesti-10-2026",
+   "path": "local/iasi/cozmesti/2026/10",
+   "short": "HCL Cozmești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 10/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general pentru obiectivul de investiții „CONSTRUIRE SALĂ DE SPORT ȘCOLARĂ ȘI TEREN MULTIFUNCȚIONAL ÎN COMUNA COZMEȘTI, JUDEȚUL IAȘI” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ, precum și pentru aprobarea sumei pentru cofinanțarea investiției din bugetul local",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/258039",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/258039",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cozmesti-11-2026",
    "path": "local/iasi/cozmesti/2026/11",
    "short": "HCL Cozmești nr. 11/2026",
@@ -28,6 +43,51 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/cozmesti-is/registru-hcl/260118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-12-2026",
+   "path": "local/iasi/cozmesti/2026/12",
+   "short": "HCL Cozmești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 12/2026 privind nominalizarea a doi consilieri locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei pe anul 2025",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/260119",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/260119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-13-2026",
+   "path": "local/iasi/cozmesti/2026/13",
+   "short": "HCL Cozmești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 13/2026 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Comunei Cozmești ca urmare a reorganizării",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/262928",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/262928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-14-2026",
+   "path": "local/iasi/cozmesti/2026/14",
+   "short": "HCL Cozmești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 14/2026 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionării situațiilor de urgență pe anul 2026",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/262929",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/262929",
      "sha256": null
     }
    ]
@@ -48,6 +108,111 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cozmesti-16-2026",
+   "path": "local/iasi/cozmesti/2026/16",
+   "short": "HCL Cozmești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 16/2026 privind înființarea Centrului Comunitar Integrat în sat Cozmești, comuna Cozmești, județul Iași",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/267924",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/267924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-17-2026",
+   "path": "local/iasi/cozmesti/2026/17",
+   "short": "HCL Cozmești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 17/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2026 – 2027 la nivelul comunei Cozmești",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/272538",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/272538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-18-2026",
+   "path": "local/iasi/cozmesti/2026/18",
+   "short": "HCL Cozmești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 18/2026 privind alocarea bugetară necesară desfășurării activităților culturale a cursurilor pentru Fanfara de copii Cozmești",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/272539",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/272539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-19-2026",
+   "path": "local/iasi/cozmesti/2026/19",
+   "short": "HCL Cozmești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 19/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru Primăria comunei Cozmești - Compartimentul asistență socială și licențierea serviciului social ,,Centru Comunitar Integrat”",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/272540",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/272540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-2-2026",
+   "path": "local/iasi/cozmesti/2026/2",
+   "short": "HCL Cozmești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 2/2026 privind aprobarea Planului de acțiuni și lucrări de interes local care vor fi prestate în anul 2026 de către beneficiarii de Venit minim de incluziune conform Legii nr. 196/2016, care au obligaţia de a presta ore de muncă în folosul comunității",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/249950",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/249950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-20-2026",
+   "path": "local/iasi/cozmesti/2026/20",
+   "short": "HCL Cozmești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 20/2026 privind aprobarea indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiție: „Stații de reîncărcare pentru vehicule electrice finanțate prin PNRR în comuna Cozmești, județul Iași”",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/276213",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/276213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-21-2026",
+   "path": "local/iasi/cozmesti/2026/21",
+   "short": "HCL Cozmești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 21/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 11",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/276214",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/276214",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cozmesti-22-2026",
    "path": "local/iasi/cozmesti/2026/22",
    "short": "HCL Cozmești nr. 22/2026",
@@ -58,6 +223,21 @@
      "from": "2026-07-08",
      "units": 1,
      "source_url": "https://emol.ro/cozmesti-is/registru-hcl/276215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-23-2026",
+   "path": "local/iasi/cozmesti/2026/23",
+   "short": "HCL Cozmești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 23/2026 privind aprobarea documentației de atribuire pentru delegarea activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, în cadrul Sistemului de Management Integrat al Deșeurilor din județul Iași, cu excepția municipiului Iași",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/279423",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/279423",
      "sha256": null
     }
    ]
@@ -93,6 +273,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cozmesti-26-2026",
+   "path": "local/iasi/cozmesti/2026/26",
+   "short": "HCL Cozmești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 26/2026 privind interzicerea desfășurării activităților de jocuri de noroc pe teritoriul comunei Cozmești, județul Iași",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/280907",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/280907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-27-2026",
+   "path": "local/iasi/cozmesti/2026/27",
+   "short": "HCL Cozmești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 27/2026 privind validarea Dispoziției Primarului Comunei Cozmești nr. 160 din 23.06.2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/280908",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/280908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-28-2026",
+   "path": "local/iasi/cozmesti/2026/28",
+   "short": "HCL Cozmești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 28/2026 privind implementarea proiectului „MODERNIZARE INFRASTRUCTURĂ PENTRU EVENIMENTE CULTURALE ÎN COMUNA COZMEȘTI”",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/280909",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/280909",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cozmesti-29-2026",
    "path": "local/iasi/cozmesti/2026/29",
    "short": "HCL Cozmești nr. 29/2026",
@@ -103,6 +328,21 @@
      "from": "2026-08-12",
      "units": 1,
      "source_url": "https://emol.ro/cozmesti-is/registru-hcl/280910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-3-2026",
+   "path": "local/iasi/cozmesti/2026/3",
+   "short": "HCL Cozmești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 3/2026 privind stabilirea cuantumului chiriei pentru terenurile și pășunile închiriate, a redevenţei terenurilor concesionate ale comunei Cozmești, cuantumul chiriei pentru locuințele sociale închiriate, pentru anul 2026, în conformitate cu indicele de inflaţie",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/249951",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/249951",
      "sha256": null
     }
    ]
@@ -258,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cozmesti-4-2026",
+   "path": "local/iasi/cozmesti/2026/4",
+   "short": "HCL Cozmești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 4/2026 privind aprobarea Regulamentului propriu cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale Consiliului local al comunei Cozmești",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/249952",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/249952",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cozmesti-40-2026",
    "path": "local/iasi/cozmesti/2026/40",
    "short": "HCL Cozmești nr. 40/2026",
@@ -393,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cozmesti-5-2026",
+   "path": "local/iasi/cozmesti/2026/5",
+   "short": "HCL Cozmești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 5/2026 privind aprobarea proiectului, a indicatorilor tehnico-economici actualizați și a cheltuielilor proiectului pentru obiectivul de investiții „CONSTRUIRE SALĂ DE SPORT ȘCOLARĂ ȘI TEREN MULTIFUNCȚIONAL ÎN COMUNA COZMEȘTI, JUDEȚUL IAȘI” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/251993",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/251993",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cozmesti-6-2026",
    "path": "local/iasi/cozmesti/2026/6",
    "short": "HCL Cozmești nr. 6/2026",
@@ -403,6 +673,21 @@
      "from": "2026-03-11",
      "units": 1,
      "source_url": "https://emol.ro/cozmesti-is/registru-hcl/256877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cozmesti-7-2026",
+   "path": "local/iasi/cozmesti/2026/7",
+   "short": "HCL Cozmești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 7/2026 privind aprobarea Regulamentului pentru acordarea, modificarea, suspendarea sau încetarea beneficiilor sociale, în cadrul Compartimentului de Asistență socială al comunei Cozmești, județul Iași",
+   "url": "https://emol.ro/cozmesti-is/registru-hcl/256878",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-is/registru-hcl/256878",
      "sha256": null
     }
    ]

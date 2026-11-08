@@ -3,6 +3,36 @@
  "shard": "local/iasi/ciohorani/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-1-2020",
+   "path": "local/iasi/ciohorani/2020/1",
+   "short": "HCL Ciohorăni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 1/2020 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Ciohorăni, pentru anul şcolar 2020-2021",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3775",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-10-2020",
+   "path": "local/iasi/ciohorani/2020/10",
+   "short": "HCL Ciohorăni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 10/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii„Modernizare infrastructură rutieră în comuna Ciohorăni, judetul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3784",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3784",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-11-2020",
    "path": "local/iasi/ciohorani/2020/11",
    "short": "HCL Ciohorăni nr. 11/2020",
@@ -13,6 +43,51 @@
      "from": "2020-02-20",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-12-2020",
+   "path": "local/iasi/ciohorani/2020/12",
+   "short": "HCL Ciohorăni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 12/2020 privind reorganizarea Serviciului Voluntar pentru Situatii de Urgenţă al comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3786",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-13-2020",
+   "path": "local/iasi/ciohorani/2020/13",
+   "short": "HCL Ciohorăni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 13/2020 privind aprobarea modificării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3787",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-14-2020",
+   "path": "local/iasi/ciohorani/2020/14",
+   "short": "HCL Ciohorăni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 14/2020 privind declararea de uz si interes public local a imobilui realizat în cadrul proiectului de investitii \" Construire sediu de primărie în regim P+E ”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3788",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3788",
      "sha256": null
     }
    ]
@@ -48,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-2-2020",
+   "path": "local/iasi/ciohorani/2020/2",
+   "short": "HCL Ciohorăni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 2/2020 privind aprobarea Planului de lucrări de interes local, ce se va executa de către beneficiarii de ajutor social în anul 2020",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3776",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-3-2020",
+   "path": "local/iasi/ciohorani/2020/3",
+   "short": "HCL Ciohorăni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 3/2020 privind actualizarea Planului de Analiză şi Acoperire a Riscurilor pe teritoriul comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3777",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3777",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-4-2020",
    "path": "local/iasi/ciohorani/2020/4",
    "short": "HCL Ciohorăni nr. 4/2020",
@@ -73,6 +178,21 @@
      "from": "2020-01-31",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-6-2020",
+   "path": "local/iasi/ciohorani/2020/6",
+   "short": "HCL Ciohorăni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 6/2020 privind aprobarea modificării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.33",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3780",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3780",
      "sha256": null
     }
    ]
@@ -163,6 +283,21 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-7-2020",
+   "path": "local/iasi/ciohorani/2020/7",
+   "short": "HCL Ciohorăni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 7/2020 privind aprobarea modificării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3781",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3781",
      "sha256": null
     }
    ]
@@ -318,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-8-2020",
+   "path": "local/iasi/ciohorani/2020/8",
+   "short": "HCL Ciohorăni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 8/2020 privind aprobarea documentatiei tehnico-economice, faza proiect tehnic de executie, si a devizului general actualizat, după încheierea contractelor de achizitie, pentru obiectivulde investitie “Construire și dotare dispensar medical în localitatea Ciohorăni, comuna Ciohorăni, județul Iași”",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3782",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3782",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-80-2020",
    "path": "local/iasi/ciohorani/2020/80",
    "short": "HCL Ciohorăni nr. 80/2020",
@@ -343,6 +493,21 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-9-2020",
+   "path": "local/iasi/ciohorani/2020/9",
+   "short": "HCL Ciohorăni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 9/2020 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3783",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3783",
      "sha256": null
     }
    ]

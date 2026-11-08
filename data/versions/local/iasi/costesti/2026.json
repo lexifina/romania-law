@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-19-2026",
+   "path": "local/iasi/costesti/2026/19",
+   "short": "HCL Costești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 19/2026 privind aprobarea documentaţiei de atribuire pentru vânzarea prin licitaţie publică a imobilului în suprafață de 994 mp, identificat cu Carte funciară nr. 61102 Costești şi imobilul în suprafață de 67 mp, identificat cu Carte funciară nr.61104 Costești, aflate în domeniul privat al UAT Comuna Costeşti, județul Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/262005",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/262005",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-2-2026",
    "path": "local/iasi/costesti/2026/2",
    "short": "HCL Costești nr. 2/2026",
@@ -348,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-31-2026",
+   "path": "local/iasi/costesti/2026/31",
+   "short": "HCL Costești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 31/2026",
+   "url": "https://emol.ro/costesti-is/registru-hcl/282955",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/282955",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-32-2026",
    "path": "local/iasi/costesti/2026/32",
    "short": "HCL Costești nr. 32/2026",
@@ -418,6 +448,21 @@
      "from": "2026-09-03",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/282962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-37-2026",
+   "path": "local/iasi/costesti/2026/37",
+   "short": "HCL Costești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 37/2026 privind desemnarea a doi consilieri locali care vor face parte din Comisia de evaluare a performanțelor profesionale individuale ale secretarului general al unității administrativ – teritoriale Comuna Costesti, județul Iași",
+   "url": "https://emol.ro/costesti-is/registru-hcl/282960",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/282960",
      "sha256": null
     }
    ]
@@ -778,6 +823,21 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/297451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-6-2026",
+   "path": "local/iasi/costesti/2026/6",
+   "short": "HCL Costești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 6/2026 privind aprobarea închirierii pășunii, prin atribuire directă, aflată în proprietatea privată a U A T Comuna Costeşti, jud. Iaşi, rămasă disponibilă în urma verificării încărcăturii de animale/ha/contract și prelungirea duratei contractelor de închiriere a pășunii, care expiră în cursul anului 2026",
+   "url": "https://emol.ro/costesti-is/registru-hcl/257345",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/257345",
      "sha256": null
     }
    ]

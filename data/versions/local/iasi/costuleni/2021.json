@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costuleni-11-2021",
+   "path": "local/iasi/costuleni/2021/11",
+   "short": "HCL Costuleni nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 11/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20307",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-12-2021",
+   "path": "local/iasi/costuleni/2021/12",
+   "short": "HCL Costuleni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 12/2021 privind revizuirea, modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr. 41",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20308",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20308",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-13-2021",
    "path": "local/iasi/costuleni/2021/13",
    "short": "HCL Costuleni nr. 13/2021",
@@ -63,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costuleni-15-2021",
+   "path": "local/iasi/costuleni/2021/15",
+   "short": "HCL Costuleni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 15/2021 privind iniţierea procedurii de închiriere , prin licitatie publică , a suprafeței de 17,0342 ha păşune comunală – proprietate publică a comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/21209",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/21209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-16-2021",
+   "path": "local/iasi/costuleni/2021/16",
+   "short": "HCL Costuleni nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 16/2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/21210",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/21210",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-17-2021",
    "path": "local/iasi/costuleni/2021/17",
    "short": "HCL Costuleni nr. 17/2021",
@@ -73,6 +133,126 @@
      "from": "2021-03-25",
      "units": 1,
      "source_url": "https://emol.ro/costuleni-is/registru-hcl/21211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-18-2021",
+   "path": "local/iasi/costuleni/2021/18",
+   "short": "HCL Costuleni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 18/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local Costuleni, pentru trimestrul II al anului 2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/21212",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/21212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-19-2021",
+   "path": "local/iasi/costuleni/2021/19",
+   "short": "HCL Costuleni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 19/2021 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2021 și a estimărilor pentru anii 2022- 2024",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/22734",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/22734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-2-2021",
+   "path": "local/iasi/costuleni/2021/2",
+   "short": "HCL Costuleni nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 2/2021 privind validarea rectificării bugetului local conform Dispoziției nr. 236/21.12.2020 a primarului comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20125",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-20-2021",
+   "path": "local/iasi/costuleni/2021/20",
+   "short": "HCL Costuleni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 20/2021 privind contractarea de servicii de proiectare DTAC ( Documentație Tehnică pentru obținerea autorizației ) și PTH ( Proiect Tehnic ) pentru obiectivul de investiție ,, Construire teren de sport în sat Cozia , comuna Costuleni, județul Iași ”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/22735",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/22735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-21-2021",
+   "path": "local/iasi/costuleni/2021/21",
+   "short": "HCL Costuleni nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 21/2021 privind contractarea de servicii de proiectare DTAC ( Documentație Tehnică pentru obținerea autorizației de construcție ) și PTH ( Proiect Tehnic ) pentru obiectivul de investiție ,, Construire teren de sport în sat Covasna , comuna Costuleni, județul Iași",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/22736",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/22736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-22-2021",
+   "path": "local/iasi/costuleni/2021/22",
+   "short": "HCL Costuleni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 22/2021 privind revizuirea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași – ARSACIS",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/23505",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/23505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-23-2021",
+   "path": "local/iasi/costuleni/2021/23",
+   "short": "HCL Costuleni nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 23/2021 privind aprobarea încheierii unui acord de parteneriat între Comuna Costuleni și Comuna Comarna în vederea elaborării și implementării proiectului “CONSTRUIREA REȚELEI INTELIGENTE DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE COSTULENI și COMARNA ”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/23506",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/23506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-24-2021",
+   "path": "local/iasi/costuleni/2021/24",
+   "short": "HCL Costuleni nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 24/2021 privind aprobarea implementării proiectului de investiţie: Studiu de fezabilitate „Infiintare sistem de distribuţie gaze naturale în Comuna Costuleni , județul Iași”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/23507",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/23507",
      "sha256": null
     }
    ]
@@ -93,6 +273,111 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costuleni-26-2021",
+   "path": "local/iasi/costuleni/2021/26",
+   "short": "HCL Costuleni nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 26/2021 privind modificarea Anexei nr.1 a Hotărârii Consiliului Local nr, 38/25.02.2021 cu privire la aprobarea organigramei Primăriei comunei Costuleni și aprobarea organigramei și a Statului de funcții ale Serviciului de asistență comunitară",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25175",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-27-2021",
+   "path": "local/iasi/costuleni/2021/27",
+   "short": "HCL Costuleni nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 27/2021 privind validarea rectificării bugetului local conform Dispoziţiei nr. 72/ 13.05.2021 a primarului comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25176",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-28-2021",
+   "path": "local/iasi/costuleni/2021/28",
+   "short": "HCL Costuleni nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 28/2021 privind contractarea de servicii de culegere a datelor din teren privind situația numerelor administrative ale imobilelor/gospodariilor aflate pe raza localitatilor din componenta comunei Costuleni, judetul Iasi precum și servicii de implementare a unui sistem de evidență grafică unică a adreselor , care va permite vizualizarea într-o hartă electronică a numerelor administrative aferente imobilelor, alături de străzi și limite administrative, , servicii de analiza, import de date cartografice si realizare harta electronica (GIS) și pregatire date pentru export RENNS si CONRENA",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25177",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-29-2021",
+   "path": "local/iasi/costuleni/2021/29",
+   "short": "HCL Costuleni nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 29/2021 privind modificarea componenței Structurii Comunitare Consultative a comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25178",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-3-2021",
+   "path": "local/iasi/costuleni/2021/3",
+   "short": "HCL Costuleni nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 3/2021 alocarea din bugetul local al comunei Costuleni a sumei de 40 000 lei necesară pentru reeditarea lucrării ” Monografia comunei Costuleni ”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20126",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-30-2021",
+   "path": "local/iasi/costuleni/2021/30",
+   "short": "HCL Costuleni nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 30/2021 privind aprobarea aderării Comunei Costuleni la Asociația de Dezvoltare Intercomunitară “Zona Metropolitană Iași“",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25179",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-31-2021",
+   "path": "local/iasi/costuleni/2021/31",
+   "short": "HCL Costuleni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 31/2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/25180",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/25180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-32-2021",
    "path": "local/iasi/costuleni/2021/32",
    "short": "HCL Costuleni nr. 32/2021",
@@ -103,6 +388,51 @@
      "from": "2021-06-24",
      "units": 1,
      "source_url": "https://emol.ro/costuleni-is/registru-hcl/27394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-33-2021",
+   "path": "local/iasi/costuleni/2021/33",
+   "short": "HCL Costuleni nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 33/2021 privind rectificarea bugetului local de venituri și cheltuieli , anul 2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/27395",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/27395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-34-2021",
+   "path": "local/iasi/costuleni/2021/34",
+   "short": "HCL Costuleni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 34/2021 cu privire la neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului în școli și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Costuleni pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/27396",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/27396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-35-2021",
+   "path": "local/iasi/costuleni/2021/35",
+   "short": "HCL Costuleni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 35/2021 privind aprobarea documentației tehnico-economice pentru obiectivul de investiție ,, Construire teren de sport în sat Covasna , comuna Costuleni, județul Iași \"",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/27397",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/27397",
      "sha256": null
     }
    ]
@@ -123,6 +453,261 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costuleni-37-2021",
+   "path": "local/iasi/costuleni/2021/37",
+   "short": "HCL Costuleni nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 37/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local Costuleni, pentru trimestrul III al anului 2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/30898",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/30898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-38-2021",
+   "path": "local/iasi/costuleni/2021/38",
+   "short": "HCL Costuleni nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 38/2021 privind implementarea proiectului \" Achiziționarea de utilaje pentru dotarea serviciilor de gospodărire locală la nivelul comunei Costuleni , județul Iași ”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/30899",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/30899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-39-2021",
+   "path": "local/iasi/costuleni/2021/39",
+   "short": "HCL Costuleni nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 39/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local Costuleni, pentru ședința ordinară din data de 22.07.2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/31006",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/31006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-4-2021",
+   "path": "local/iasi/costuleni/2021/4",
+   "short": "HCL Costuleni nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 4/2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20127",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-40-2021",
+   "path": "local/iasi/costuleni/2021/40",
+   "short": "HCL Costuleni nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 40/2021 privind includerea în domeniul privat al comunei Costuleni, jud. Iași a unui bun imobil –clădire locuințe și anexe - ”Blocul Specialistului ”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/31007",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/31007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-41-2021",
+   "path": "local/iasi/costuleni/2021/41",
+   "short": "HCL Costuleni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 41/2021 pentru completarea Anexei nr. 2 la Hotărârea Consiliului Local nr. 3/30.01.2020 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale de execuție din cadrul Aparatului de specialitate al Primarului",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/31008",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/31008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-42-2021",
+   "path": "local/iasi/costuleni/2021/42",
+   "short": "HCL Costuleni nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 42/2021 privind aprobarea constituirii „ASOCIAŢIEI DE DEZVOLTARE INTERCOMUNITARĂ GAZ-3”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/31009",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/31009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-43-2021",
+   "path": "local/iasi/costuleni/2021/43",
+   "short": "HCL Costuleni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 43/2021 privind darea în folosinţă gratuită a unui spaţiu din cadrul Primăriei comunei Costuleni ”Asociaţiei de Dezvoltare Intercomunitară GAZ-3”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/31010",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/31010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-44-2021",
+   "path": "local/iasi/costuleni/2021/44",
+   "short": "HCL Costuleni nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 44/2021 privind probarea Regulamentului propriu cuprinzand măsurile metodologice, organizatorice, termenele si circulația proiectelor de hotărâri ale Consiliului local al comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/32964",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/32964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-45-2021",
+   "path": "local/iasi/costuleni/2021/45",
+   "short": "HCL Costuleni nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 45/2021 pentru modificarea Art. 1 (a conținutului Anexei nr. 1) si a Art. 2 la Hotărârea Consiliului Local Costuleni nr. 90 din 30.12.2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul de investiții cu titlul ”Schimbare destinație din Gradinița in Centru Comunitar Integrat in sat Covasna, comuna Costuleni, județul Iași” in vederea finanțării acestuia in cadrul Programului Operațional Regional 2014-2020, POR/725/8/1/Operațiunea 8.1.B: Centre comunitare integrate",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/32965",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/32965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-46-2021",
+   "path": "local/iasi/costuleni/2021/46",
+   "short": "HCL Costuleni nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 46/2021 pentru modificarea Art. 3 din Hotărârea Consiliului Local Costuleni nr. 38 din 12.07.2021 privind implementarea proiectului “ACHIZIȚIONAREA DE UTILAJE PENTRU DOTAREA SERVICIILOR DE GOSPODĂRIRE LOCALĂ LA NIVELUL COMUNEI COSTULENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/32966",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/32966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-47-2021",
+   "path": "local/iasi/costuleni/2021/47",
+   "short": "HCL Costuleni nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 47/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/33782",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/33782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-48-2021",
+   "path": "local/iasi/costuleni/2021/48",
+   "short": "HCL Costuleni nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 48/2021 privind aprobarea proiectului de investiții cu titlul „Consolidarea capacității unităților de învățământ preuniversitar de stat în vederea gestionării situației de pandemie generată de virusul SARS-COV-2”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/33783",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/33783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-49-2021",
+   "path": "local/iasi/costuleni/2021/49",
+   "short": "HCL Costuleni nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 49/2021 privind aprobarea dezmembrării unui imobil - teren în suprafață de 9035 mp din domeniul privat al comunei Costuleni, situat în intravilanul satului Cozia, com. Costuleni, jud. Iași",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36026",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-5-2021",
+   "path": "local/iasi/costuleni/2021/5",
+   "short": "HCL Costuleni nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 5/2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/20128",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/20128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-50-2021",
+   "path": "local/iasi/costuleni/2021/50",
+   "short": "HCL Costuleni nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 50/2021 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții :” Construire teren sport în sat Cozia , com . Costuleni, jud. Iași ”",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36027",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-51-2021",
+   "path": "local/iasi/costuleni/2021/51",
+   "short": "HCL Costuleni nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 51/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36028",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36028",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costuleni-52-2021",
    "path": "local/iasi/costuleni/2021/52",
    "short": "HCL Costuleni nr. 52/2021",
@@ -133,6 +718,81 @@
      "from": "2021-09-30",
      "units": 1,
      "source_url": "https://emol.ro/costuleni-is/registru-hcl/36841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-53-2021",
+   "path": "local/iasi/costuleni/2021/53",
+   "short": "HCL Costuleni nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 53/2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru obiectivul de investiție \"Modernizare drumuri de interes local în comuna Costuleni , județul Iași”, în vederea includerii la finantare prin Programul naţional de investiţii \"Anghel Saligny\"",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36842",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-54-2021",
+   "path": "local/iasi/costuleni/2021/54",
+   "short": "HCL Costuleni nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 54/2021 privind desemnarea reprezentantului Consiliului Local al comunei Costuleni în Consiliul de administraţie al Şcolii Gimnaziale Costuleni pentru anul școlar 2021- 2022",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36843",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-55-2021",
+   "path": "local/iasi/costuleni/2021/55",
+   "short": "HCL Costuleni nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 55/2021 privind scăderea din evidența fiscală a unor creanțe provenite din amenzi contravenționale pentru care s-a împlinit termenul de prescripție a dreptului de a cere executare silită",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36844",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-56-2021",
+   "path": "local/iasi/costuleni/2021/56",
+   "short": "HCL Costuleni nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 56/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local Costuleni, pentru trimestrul IV al anului 2021",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36845",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-57-2021",
+   "path": "local/iasi/costuleni/2021/57",
+   "short": "HCL Costuleni nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 57/2021 privind aprobarea dezmembrării unui imobil - teren în suprafață de 26 565 mp înscris în CF nr. 60436 UAT Costuleni, proprietatea publică a comunei Costuleni",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/36846",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/36846",
      "sha256": null
     }
    ]

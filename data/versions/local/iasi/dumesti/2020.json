@@ -3,6 +3,21 @@
  "shard": "local/iasi/dumesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--dumesti-1-2020",
+   "path": "local/iasi/dumesti/2020/1",
+   "short": "HCL Dumești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 1/2020 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al comunei Dumești din lunile ianuarie-februarie anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/8969",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/8969",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-10-2020",
    "path": "local/iasi/dumesti/2020/10",
    "short": "HCL Dumești nr. 10/2020",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--dumesti-13-2020",
+   "path": "local/iasi/dumesti/2020/13",
+   "short": "HCL Dumești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 13/2020 privind alegerea președitelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile martie-aprilie anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9145",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9145",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-14-2020",
    "path": "local/iasi/dumesti/2020/14",
    "short": "HCL Dumești nr. 14/2020",
@@ -73,6 +103,51 @@
      "from": "2020-03-25",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/9147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-16-2020",
+   "path": "local/iasi/dumesti/2020/16",
+   "short": "HCL Dumești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 16/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9148",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-17-2020",
+   "path": "local/iasi/dumesti/2020/17",
+   "short": "HCL Dumești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 17/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9149",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-18-2020",
+   "path": "local/iasi/dumesti/2020/18",
+   "short": "HCL Dumești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 18/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9150",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9150",
      "sha256": null
     }
    ]
@@ -153,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--dumesti-23-2020",
+   "path": "local/iasi/dumesti/2020/23",
+   "short": "HCL Dumești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 23/2020 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului local al comunei Dumesti din lunile mai–iunie anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9158",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-24-2020",
    "path": "local/iasi/dumesti/2020/24",
    "short": "HCL Dumești nr. 24/2020",
@@ -178,6 +268,21 @@
      "from": "2020-06-26",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/9184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-26-2020",
+   "path": "local/iasi/dumesti/2020/26",
+   "short": "HCL Dumești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 26/2020 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile iulie-august anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9241",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9241",
      "sha256": null
     }
    ]
@@ -298,6 +403,21 @@
      "from": "2020-07-29",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/9248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-34-2020",
+   "path": "local/iasi/dumesti/2020/34",
+   "short": "HCL Dumești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 34/2020 privind aprobarea dezmembrării în două loturi a imobilului cu nr. cadastral 62544 denumit Pășunea Vrancea",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9249",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9249",
      "sha256": null
     }
    ]

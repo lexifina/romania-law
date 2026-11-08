@@ -3,6 +3,81 @@
  "shard": "local/iasi/coarnele-caprei/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--coarnele-caprei-1-2020",
+   "path": "local/iasi/coarnele-caprei/2020/1",
+   "short": "HCL Coarnele Caprei nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 1/2020 privind aprobarea procesului verbal al ședinței din data de 13.12.2019",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10381",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-10-2020",
+   "path": "local/iasi/coarnele-caprei/2020/10",
+   "short": "HCL Coarnele Caprei nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 10/2020 privind atribuirea în folosință gratuită a unui teren situat în incinta fostului SMA către Alpenside",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10390",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-11-2020",
+   "path": "local/iasi/coarnele-caprei/2020/11",
+   "short": "HCL Coarnele Caprei nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 11/2020 privind inițierea procedurii de realizare a obiectivului de investiție ''Proiectare și Execuție asfaltare DS-586 și DS-587 în comuna Coarnele Caprei, județul Iași''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10391",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-12-2020",
+   "path": "local/iasi/coarnele-caprei/2020/12",
+   "short": "HCL Coarnele Caprei nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 12/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10392",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-13-2020",
+   "path": "local/iasi/coarnele-caprei/2020/13",
+   "short": "HCL Coarnele Caprei nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 13/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10393",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10393",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-14-2020",
    "path": "local/iasi/coarnele-caprei/2020/14",
    "short": "HCL Coarnele Caprei nr. 14/2020",
@@ -88,6 +163,21 @@
      "from": "2020-02-14",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-2-2020",
+   "path": "local/iasi/coarnele-caprei/2020/2",
+   "short": "HCL Coarnele Caprei nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 2/2020 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă beneficiarilor legii nr. 416/2001, din localitatea Coarnele Caprei, județul Iași, pentru anul 2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10382",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10382",
      "sha256": null
     }
    ]
@@ -243,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-3-2020",
+   "path": "local/iasi/coarnele-caprei/2020/3",
+   "short": "HCL Coarnele Caprei nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 3/2020 privind instituirea și administrarea taxei speciale de salubrizare pentru persoanele casnice și non-casnice",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10383",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10383",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-30-2020",
    "path": "local/iasi/coarnele-caprei/2020/30",
    "short": "HCL Coarnele Caprei nr. 30/2020",
@@ -348,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-4-2020",
+   "path": "local/iasi/coarnele-caprei/2020/4",
+   "short": "HCL Coarnele Caprei nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 4/2020 privind aprobarea agendei culturale a comunei Coarnele Caprei, județul Iași, pentru anul 2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10384",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10384",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-40-2020",
    "path": "local/iasi/coarnele-caprei/2020/40",
    "short": "HCL Coarnele Caprei nr. 40/2020",
@@ -403,6 +523,81 @@
      "from": "2020-04-30",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-5-2020",
+   "path": "local/iasi/coarnele-caprei/2020/5",
+   "short": "HCL Coarnele Caprei nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 5/2020 privind aprobare reorganizare rețea școlară în localitate pentru anul școlar 2020/2021",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10385",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-6-2020",
+   "path": "local/iasi/coarnele-caprei/2020/6",
+   "short": "HCL Coarnele Caprei nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 6/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 33",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10386",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-7-2020",
+   "path": "local/iasi/coarnele-caprei/2020/7",
+   "short": "HCL Coarnele Caprei nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 7/2020 privind aprobarea demarării investiției pentru obiectivul ''Înființare rețea gaze naturale în comuna Coarnele Caprei, județul Iași''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10387",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-8-2020",
+   "path": "local/iasi/coarnele-caprei/2020/8",
+   "short": "HCL Coarnele Caprei nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 8/2020 privind aprobarea cuantumului și a numărului de burse acordate elevilor din învățământul preuniversitar din Șoala profesională Coarnele Caprei, județul Iași, pentru anul 2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10388",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-9-2020",
+   "path": "local/iasi/coarnele-caprei/2020/9",
+   "short": "HCL Coarnele Caprei nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 9/2020 privind aprobarea plății cheltuielilor cu naveta a cadrelor didactice din Școala profesională Coarnele Caprei, județul Iași, pentru anul 2020",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10389",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/10389",
      "sha256": null
     }
    ]

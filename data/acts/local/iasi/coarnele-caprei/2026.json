@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-11-2026",
+"path": "local/iasi/coarnele-caprei/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 11/2026 privind aprobarea Studiului de fundamentare a deciziei de concesionare conform cu Ghidul Solicitantului și aplicația de finanțare, a serviciului de utilitate publică de distribuție a gazelor naturale în comuna Coarnele Caprei, județul Iași în cadrul proiectului ''Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote și Fântânele din județul Iași''",
+"short": "HCL Coarnele Caprei nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/249850",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-12-2026",
 "path": "local/iasi/coarnele-caprei/2026/12",
 "kind": "local",

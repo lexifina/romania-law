@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-2-2024",
+"path": "local/iasi/dumesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 2/2024 privind modificarea Hotărârii Consiliului local Dumești nr. 74 din 18.12.2023 privind modificarea, începând cu anul fiscal 2024, a nivelului valorilor impozabile, impozitelor, taxelor locale și a altor taxe asimilate acestora, precum și a amenzilor prevăzute de Legea nr. 227/2015 privind Codul fiscal",
+"short": "HCL Dumești nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224410",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-3-2024",
 "path": "local/iasi/dumesti/2024/3",
 "kind": "local",
@@ -69,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-5-2024",
+"path": "local/iasi/dumesti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 5/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 5",
+"short": "HCL Dumești nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224413",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-6-2024",
 "path": "local/iasi/dumesti/2024/6",
 "kind": "local",
@@ -88,6 +132,50 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-7-2024",
+"path": "local/iasi/dumesti/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 7/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile martie - aprilie, anul 2024",
+"short": "HCL Dumești nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224415",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-8-2024",
+"path": "local/iasi/dumesti/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 8/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+"short": "HCL Dumești nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224416",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +223,94 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-11-2024",
+"path": "local/iasi/dumesti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 11/2024 privind modificarea HCL Dumești nr. 8/06.02.2023 privind aprobarea împuternicirii UAT Județul Iași - Consiliul Județean Iași în vederea depunerii și implementării, pentru UAT Dumești - Consiliul Local al comunei Dumești, a aplicației de finanțare pentru apelul de proiecte ''Dotarea cu mobilier, materiale didactice și echipamnete digitale a unităților de învățământ preuniversitar și a unităților conexe'', finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație",
+"short": "HCL Dumești nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224423",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-12-2024",
+"path": "local/iasi/dumesti/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 12/2024 privind aprobarea studiului de fundamentare a deciziei de concesionare a sistemului public de distribuție a gazelor naturale",
+"short": "HCL Dumești nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224424",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-13-2024",
+"path": "local/iasi/dumesti/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 13/2024 privind aprobarea concesionării Serviciului de distribuție a gazelor naturale din localitățile Dumești, Păușesti, Banu, Hoisești, Chilișoaia",
+"short": "HCL Dumești nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224425",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-14-2024",
+"path": "local/iasi/dumesti/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 14/2024 privind aprobarea documentației de atribuire a contractului de concesionare a sistemului public de distribuție a gazelor naturale",
+"short": "HCL Dumești nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224426",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-15-2024",
 "path": "local/iasi/dumesti/2024/15",
 "kind": "local",
@@ -154,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-16-2024",
+"path": "local/iasi/dumesti/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 16/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile mai-iunie anul 2024",
+"short": "HCL Dumești nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224428",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +399,51 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-19-2024",
+"path": "local/iasi/dumesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 19/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 6",
+"short": "HCL Dumești nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224431",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-20-2024",
+"path": "local/iasi/dumesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 20/2024",
+"short": "HCL Dumești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224432",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-21-2024",
 "path": "local/iasi/dumesti/2024/21",
 "kind": "local",
@@ -242,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-23-2024",
+"path": "local/iasi/dumesti/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 23/2024 privind aprobarea închirierii unui contract de mentenanță în vederea executării unor lucrări de reparații la instalațiile electrice aparținând comunei Dumești, județul Iași",
+"short": "HCL Dumești nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224284",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +576,28 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-27-2024",
+"path": "local/iasi/dumesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 27/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile iulie-august anul 2024",
+"short": "HCL Dumești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224288",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-28-2024",
 "path": "local/iasi/dumesti/2024/28",
 "kind": "local",
@@ -374,6 +661,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-31-2024",
+"path": "local/iasi/dumesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 31/2024 privind reorganizarea componenței Consiliului de Administrație al Clubului Sportiv Dumești",
+"short": "HCL Dumești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224292",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -506,6 +815,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-38-2024",
+"path": "local/iasi/dumesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 38/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile septembrie - octombrie 2024",
+"short": "HCL Dumești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224305",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -752,6 +1083,94 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-50-2024",
+"path": "local/iasi/dumesti/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 50/2024 privind modificarea și aprobarea Anexei 2.1 - Devizul general actualizat pentru obiectivul de investiție ''Înființare sistem de distribuție gaze naturale în comuna Dumești, județul Iași'' cuprins în Hotărârea Consiliului local Dumești nr. 48 din 15.10.2024",
+"short": "HCL Dumești nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224332",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-51-2024",
+"path": "local/iasi/dumesti/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 51/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile noiembrie-decembrie anul 2024",
+"short": "HCL Dumești nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224333",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-52-2024",
+"path": "local/iasi/dumesti/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 52/2024 privind stabilirea și organizarea comisiilor de specialitate ale Consiliului Local al comunei Dumești, județul Iași",
+"short": "HCL Dumești nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224334",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-53-2024",
+"path": "local/iasi/dumesti/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 53/2024 privind alegerea viceprimarului comunei Dumești, județul Iași",
+"short": "HCL Dumești nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224341",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-54-2024",
 "path": "local/iasi/dumesti/2024/54",
 "kind": "local",
@@ -793,6 +1212,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-56-2024",
+"path": "local/iasi/dumesti/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 56/2024 privind desemnarea a doi reprezentanți ai Consiliului local Dumești în Consiliul de Administrație al Școlii Gimnaziale Dumești și a unui reprezentant al Consiliului local Dumești în Comisia de evaluare și asigurarea calității",
+"short": "HCL Dumești nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/224396",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

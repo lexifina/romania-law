@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-6-2022",
+"path": "local/iasi/cucuteni/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 6/2022 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/50192",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-7-2022",
 "path": "local/iasi/cucuteni/2022/7",
 "kind": "local",
@@ -374,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-19-2022",
+"path": "local/iasi/cucuteni/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 19/2022 privind desemnarea unui reprezentant al Consiliului Local Cucuteni care va avea calitatea de membru în Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director din unitățile de învățământ preuniversitar de stat din comuna Cucuteni, județul Iași",
+"short": "HCL Cucuteni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/53198",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -685,6 +729,50 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-34-2022",
+"path": "local/iasi/cucuteni/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 34/2022 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/58651",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-35-2022",
+"path": "local/iasi/cucuteni/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 35/2022 privind iniţierea închirieri prin atribuire directă a suprafeţei de păşune proprietatea privată a UAT Cucuteni",
+"short": "HCL Cucuteni nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/58652",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-36-2022",
 "path": "local/iasi/cucuteni/2022/36",
 "kind": "local",
@@ -883,6 +971,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-45-2022",
+"path": "local/iasi/cucuteni/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 45/2022 privind aprobarea unui sprijin financiar de la bugetul local pentru Parohia Sf Apostoli Petru și Pavel din satul Bărbătești, comuna Cucuteni, jude Iași",
+"short": "HCL Cucuteni nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/62178",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-46-2022",
 "path": "local/iasi/cucuteni/2022/46",
 "kind": "local",
@@ -1059,6 +1169,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-54-2022",
+"path": "local/iasi/cucuteni/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 54/2022 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-26",
+"latest": "2022-07-26",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/66789",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-55-2022",
 "path": "local/iasi/cucuteni/2022/55",
 "kind": "local",
@@ -1210,6 +1342,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-62-2022",
+"path": "local/iasi/cucuteni/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 62/2022 privind desemnarea unui reprezentant al Consiliului Local Cucuteni care va avea calitatea de membru în Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director din unitățile de învățământ preuniversitar de stat din comuna Cucuteni, județul Iași",
+"short": "HCL Cucuteni nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/70278",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1430,6 +1584,29 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-73-2022",
+"path": "local/iasi/cucuteni/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 73/2022",
+"short": "HCL Cucuteni nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/82149",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1672,6 +1849,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-85-2022",
+"path": "local/iasi/cucuteni/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 85/2022 privind desemnarea preşedintelui de şedinţă",
+"short": "HCL Cucuteni nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/82198",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1959,6 +2158,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-99-2022",
+"path": "local/iasi/cucuteni/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 99/2022 privind aprobarea aderării comunei Cucuteni, județul Iași la parteneriatul Asociația Grupului de Acțiune Locală ( G.A.L.) Iași Sud-Vest, pentru perioada 2023-2027",
+"short": "HCL Cucuteni nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/82212",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

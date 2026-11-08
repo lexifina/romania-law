@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-iasi--ciohorani-2-2025",
+"path": "local/iasi/ciohorani/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 2/2025",
+"short": "HCL Ciohorăni nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/204495",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ciohorani-3-2025",
 "path": "local/iasi/ciohorani/2025/3",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Ciohorăni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-4-2025",
+"path": "local/iasi/ciohorani/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 4/2025 privind alegerea președintelui de sedinţă",
+"short": "HCL Ciohorăni nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/204497",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Ciohorăni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-7-2025",
+"path": "local/iasi/ciohorani/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 7/2025 privind alegerea președintelui de sedinţă",
+"short": "HCL Ciohorăni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/204505",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -512,6 +579,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciohorani-27-2025",
+"path": "local/iasi/ciohorani/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 27/2025 privind alegerea președintelui de sedinţă",
+"short": "HCL Ciohorăni nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/226119",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciohorani-28-2025",
 "path": "local/iasi/ciohorani/2025/28",
 "kind": "local",
@@ -667,6 +756,73 @@
 }
 },
 {
+"slug": "hcl-iasi--ciohorani-35-2025",
+"path": "local/iasi/ciohorani/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 35/2025 privind desemnarea reprezentantului Consiliului Local al comunei Ciohorăni în Consiliul de administrație al Școlii Gimnaziale Ciohorăni, pentru anul şcolar 2025-2026",
+"short": "HCL Ciohorăni nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/226140",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-36-2025",
+"path": "local/iasi/ciohorani/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 36/2025",
+"short": "HCL Ciohorăni nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/226141",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-37-2025",
+"path": "local/iasi/ciohorani/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 37/2025 privind alegerea președintelui de sedinţă",
+"short": "HCL Ciohorăni nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/226142",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciohorani-38-2025",
 "path": "local/iasi/ciohorani/2025/38",
 "kind": "local",
@@ -777,6 +933,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciohorani-43-2025",
+"path": "local/iasi/ciohorani/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 43/2025 privind desemnarea reprezentantului Consiliului Local al comunei Ciohorăni în Comisia pentru evaluarea şi asigurarea calităţii din cadrul Școlii Gimnaziale Ciohorăni, pentru anul şcolar 2025-2026",
+"short": "HCL Ciohorăni nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/235482",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciohorani-44-2025",
 "path": "local/iasi/ciohorani/2025/44",
 "kind": "local",
@@ -818,6 +996,29 @@
 "council_name": "Consiliul Local al Comunei Ciohorăni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-46-2025",
+"path": "local/iasi/ciohorani/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 46/2025",
+"short": "HCL Ciohorăni nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/235485",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

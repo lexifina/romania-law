@@ -422,6 +422,50 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-20-2025",
+"path": "local/iasi/erbiceni/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 20/2025 privind desemnare Consiliul Local Erbiceni in Consiliul de adminsitratie al clubului Sportiv Erbiceni",
+"short": "HCL Erbiceni nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/198818",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-21-2025",
+"path": "local/iasi/erbiceni/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 21/2025 privind aprobarea inchirierii disponibilului de pajisti",
+"short": "HCL Erbiceni nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/198819",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-22-2025",
 "path": "local/iasi/erbiceni/2025/22",
 "kind": "local",
@@ -1788,6 +1832,29 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-84-2025",
+"path": "local/iasi/erbiceni/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 84/2025",
+"short": "HCL Erbiceni nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/226238",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-85-2025",
 "path": "local/iasi/erbiceni/2025/85",
 "kind": "local",
@@ -2049,6 +2116,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-97-2025",
+"path": "local/iasi/erbiceni/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 97/2025 privind concesionarea unei suprafete de 2000 mp teren apartinand domeniului privat al UAT Erbiceni",
+"short": "HCL Erbiceni nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/235859",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-3-2026",
+"path": "local/iasi/bivolari/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 3/2026 privind aprobarea Planului tematic pentru instruirea Serviciului voluntar pentru situații de urgență și Planului tematic pentru instruirea personalului angajat al Primăriei comunei Bivolari , județul Iași",
+"short": "HCL Bivolari nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/256512",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-4-2026",
 "path": "local/iasi/bivolari/2026/4",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-6-2026",
+"path": "local/iasi/bivolari/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 6/2026 privind alegerea președintelui de ședință al Consiliului Local al comunei Bivolari, pentru lunile februarie, martie și aprilie 2026",
+"short": "HCL Bivolari nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/257896",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-19-2026",
+"path": "local/iasi/bivolari/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 19/2026 privind alegerea președintelui de ședință al Consiliului Local al comunei Bivolari, pentru lunile mai, iunie și iulie, 2026",
+"short": "HCL Bivolari nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/268842",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -663,6 +729,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-34-2026",
+"path": "local/iasi/bivolari/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 34/2026 privind aprobare achiziție servicii pentru participare expert în comisia de recepție la obiectivul de investiții: „Extindere Corp Școală, în vederea amenajării de grupuri sanitare în sat Bivolari, comuna Bivolari, județul Iași”",
+"short": "HCL Bivolari nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/268865",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-35-2026",
 "path": "local/iasi/bivolari/2026/35",
 "kind": "local",
@@ -751,6 +839,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-39-2026",
+"path": "local/iasi/bivolari/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 39/2026 privind aprobare achiziție servicii de consultanță în management pentru depunerea unui proiect de investiții, finanțat prin Asociația Grupul de Acțiune Locală Valea Prutului",
+"short": "HCL Bivolari nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/268870",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-40-2026",
 "path": "local/iasi/bivolari/2026/40",
 "kind": "local",
@@ -792,6 +902,28 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-42-2026",
+"path": "local/iasi/bivolari/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 42/2026 privind implementarea proiectului „Achiziția unei autoutilitare pentru îmbunătățirea serviciilor publice în comuna Bivolari, județul Iași”",
+"short": "HCL Bivolari nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/268873",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-11-2023",
+   "path": "local/iasi/ciortesti/2023/11",
+   "short": "HCL Ciortești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 11/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/104130",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/104130",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-110-2023",
    "path": "local/iasi/ciortesti/2023/110",
    "short": "HCL Ciortești nr. 110/2023",
@@ -328,6 +343,21 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/144288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-12-2023",
+   "path": "local/iasi/ciortesti/2023/12",
+   "short": "HCL Ciortești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 12/2023 privind stabilirea consumului mediu de carburant a parcului auto aflat în patrimoniul comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/104131",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/104131",
      "sha256": null
     }
    ]
@@ -498,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-17-2023",
+   "path": "local/iasi/ciortesti/2023/17",
+   "short": "HCL Ciortești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 17/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/104159",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/104159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-18-2023",
    "path": "local/iasi/ciortesti/2023/18",
    "short": "HCL Ciortești nr. 18/2023",
@@ -663,6 +708,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-28-2023",
+   "path": "local/iasi/ciortesti/2023/28",
+   "short": "HCL Ciortești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 28/2023 privind rezilierea unor contracte de închiriere pentru suprafețele de pajiști aflate în domeniul privat al comunei Ciortești",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118724",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-29-2023",
+   "path": "local/iasi/ciortesti/2023/29",
+   "short": "HCL Ciortești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 29/2023 privind aprobarea execuție bugetului local pe trimestrul I 2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118725",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118725",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-3-2023",
    "path": "local/iasi/ciortesti/2023/3",
    "short": "HCL Ciortești nr. 3/2023",
@@ -703,6 +778,51 @@
      "from": "2023-09-01",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-32-2023",
+   "path": "local/iasi/ciortesti/2023/32",
+   "short": "HCL Ciortești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 32/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2008 - consolidat 2021, prin Actul Adițional nr. 3",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118728",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-33-2023",
+   "path": "local/iasi/ciortesti/2023/33",
+   "short": "HCL Ciortești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 33/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118729",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-34-2023",
+   "path": "local/iasi/ciortesti/2023/34",
+   "short": "HCL Ciortești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 34/2023 privind aprobarea Strategia de Dezvoltare a serviciilor publice de alimentare cu apă și de canalizare în nivelul delegării, pentru perioada 2023-2028",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118730",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118730",
      "sha256": null
     }
    ]
@@ -753,6 +873,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-38-2023",
+   "path": "local/iasi/ciortesti/2023/38",
+   "short": "HCL Ciortești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 38/2023 privind rezilierea contractului de închiriere pentru suprafețele de pajiști aflate în domeniul privat al comunei Ciortești nr. 28/2019 încheiat cu doamna angelica MANGALAGIU",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118845",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-39-2023",
+   "path": "local/iasi/ciortesti/2023/39",
+   "short": "HCL Ciortești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 39/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118846",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118846",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-4-2023",
    "path": "local/iasi/ciortesti/2023/4",
    "short": "HCL Ciortești nr. 4/2023",
@@ -763,6 +913,81 @@
      "from": "2023-05-11",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/104123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-40-2023",
+   "path": "local/iasi/ciortesti/2023/40",
+   "short": "HCL Ciortești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 40/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118847",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-41-2023",
+   "path": "local/iasi/ciortesti/2023/41",
+   "short": "HCL Ciortești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 41/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118848",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-42-2023",
+   "path": "local/iasi/ciortesti/2023/42",
+   "short": "HCL Ciortești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 42/2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118849",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-43-2023",
+   "path": "local/iasi/ciortesti/2023/43",
+   "short": "HCL Ciortești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 43/2023 privind actualizarea anexei nr. 3 Regulamentul privind organizarea pășunatului și închirierea pajiștilor aparținând domeniului privat al comunei Ciortești",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118850",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-44-2023",
+   "path": "local/iasi/ciortesti/2023/44",
+   "short": "HCL Ciortești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 44/2023 privind inventarierea și stabilirea consumului autoturismului Mazda MX-30 2023 în domeniul privat al comunei Ciortești",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118851",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118851",
      "sha256": null
     }
    ]
@@ -873,6 +1098,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-51-2023",
+   "path": "local/iasi/ciortesti/2023/51",
+   "short": "HCL Ciortești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 51/2023 privind rectificarea bugetului local etapa iunie și actualizarea și completarea listei de investiții pentru anul 2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118867",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-52-2023",
    "path": "local/iasi/ciortesti/2023/52",
    "short": "HCL Ciortești nr. 52/2023",
@@ -913,6 +1153,36 @@
      "from": "2023-09-04",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-55-2023",
+   "path": "local/iasi/ciortesti/2023/55",
+   "short": "HCL Ciortești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 55/2023 privind aprobarea graficului de ședință pentru trimestrul al III-lea 2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118959",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-56-2023",
+   "path": "local/iasi/ciortesti/2023/56",
+   "short": "HCL Ciortești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 56/2023 privind rectificarea bugetului local etapa iunie și actualizarea și completarea listei de investiții pentru anul 2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118960",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118960",
      "sha256": null
     }
    ]
@@ -978,6 +1248,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-60-2023",
+   "path": "local/iasi/ciortesti/2023/60",
+   "short": "HCL Ciortești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 60/2023 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118964",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118964",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-61-2023",
    "path": "local/iasi/ciortesti/2023/61",
    "short": "HCL Ciortești nr. 61/2023",
@@ -1003,6 +1288,21 @@
      "from": "2023-09-04",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-63-2023",
+   "path": "local/iasi/ciortesti/2023/63",
+   "short": "HCL Ciortești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 63/2023 privind aprobarea costurilor cu deplasarea în tabără a Fanfarei de Copii Ciortești-Dolhești",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118979",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118979",
      "sha256": null
     }
    ]
@@ -1038,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-66-2023",
+   "path": "local/iasi/ciortesti/2023/66",
+   "short": "HCL Ciortești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 66/2023 privind alegerea președintelui de ședință pentru următoarele luni",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118988",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118988",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-67-2023",
    "path": "local/iasi/ciortesti/2023/67",
    "short": "HCL Ciortești nr. 67/2023",
@@ -1063,6 +1378,21 @@
      "from": "2023-09-04",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-69-2023",
+   "path": "local/iasi/ciortesti/2023/69",
+   "short": "HCL Ciortești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 69/2023 privind acordarea unor premii familiilor care aniversează 50 de ani de căsătorie neîntreruptă având domiciliul stabil în comuna Ciortești și elevilor cu rezultate deosebite în anul școlar 2022-2023",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/118991",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/118991",
      "sha256": null
     }
    ]
@@ -1173,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-76-2023",
+   "path": "local/iasi/ciortesti/2023/76",
+   "short": "HCL Ciortești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 76/2023 privind numirea a doi consilieri locali reprezentanți în cadrul Consiliului de Administrare respectiv în cadrul Comisiei de Evaluare a Calității pentru Școala Gimnazială Ciortești, în anul școlar 2023-2024",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/144094",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/144094",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-77-2023",
    "path": "local/iasi/ciortesti/2023/77",
    "short": "HCL Ciortești nr. 77/2023",
@@ -1243,6 +1588,21 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/144098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-81-2023",
+   "path": "local/iasi/ciortesti/2023/81",
+   "short": "HCL Ciortești nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 81/2023 privind modificarea și actualizarea art.1 din HCL Ciortești nr. 76 din 31.08.2203 privind numirea a doi consilieri locali reprezentați în cadrul Consiliului de Administrație, respectiv în cadrul Comisiei de Evaluare și Asigurarea a Calității pentru Școala Gimnazială Ciortești, în anul 2023-2024",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/144144",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/144144",
      "sha256": null
     }
    ]
@@ -1363,6 +1723,21 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/144152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-9-2023",
+   "path": "local/iasi/ciortesti/2023/9",
+   "short": "HCL Ciortești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 9/2023 privind vânzarea lotului de teren situat în intravilanul satului Șerbești , comuna Ciortești, județul Iași , identificat cu numărul cadastral 61430, lot de teren atribuit prin HCL Ciortești nr.56/2017 pentru construirea unei locuințe proprietate personală în condițiile Legii nr. 15/2003",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/104128",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/104128",
      "sha256": null
     }
    ]

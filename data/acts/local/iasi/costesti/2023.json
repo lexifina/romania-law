@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-7-2023",
+"path": "local/iasi/costesti/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 7/2023 privind alegerea preşedintelui de şedinţă ca urmare a intervenirii situaţiei prvăzută de art. 123 alin 3 din O U G nr 57/2019",
+"short": "HCL Costești nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-16",
+"latest": "2023-03-16",
+"portal": "https://emol.ro/costesti-is/registru-hcl/91665",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-8-2023",
 "path": "local/iasi/costesti/2023/8",
 "kind": "local",
@@ -490,6 +512,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-24-2023",
+"path": "local/iasi/costesti/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 24/2023 privind închirierea pajiştelor prin atribuire directă, aflate în proprietatea privată a U A T Comuna Costeşti, jud. Iaşi, rămase disponibile în urma verificării încărcăturii de animale/ha/contract",
+"short": "HCL Costești nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-16",
+"latest": "2023-03-16",
+"portal": "https://emol.ro/costesti-is/registru-hcl/95266",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-25-2023",
 "path": "local/iasi/costesti/2023/25",
 "kind": "local",
@@ -619,6 +663,28 @@
 "council_name": "Consiliul Local al Comunei Costești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costesti-31-2023",
+"path": "local/iasi/costesti/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 31/2023 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile APRILIE, MAI si IUNIE, anul 2023",
+"short": "HCL Costești nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/costesti-is/registru-hcl/101069",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -974,6 +1040,73 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-48-2023",
+"path": "local/iasi/costesti/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 48/2023",
+"short": "HCL Costești nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/costesti-is/registru-hcl/109207",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--costesti-49-2023",
+"path": "local/iasi/costesti/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 49/2023 privind aprobarea vânzării prin licitaţie publică a terenului intravilan în suprafaţă de 994 m 2 identificat cu nr. cadastral 61102 şi suprafaţa de 67 m 2 identificat cu nr. cadastral 61104, aflate în domeniul privat al comunei Costeşti, jud. Iaşi",
+"short": "HCL Costești nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/costesti-is/registru-hcl/109208",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costesti-50-2023",
+"path": "local/iasi/costesti/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 50/2023 privind aprobarea metodologiei, cuantumul maxim si situatiile deosebite pentru care se acorda ajutoare de urgenta din bugetul local in baza Legii 416/2001",
+"short": "HCL Costești nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/costesti-is/registru-hcl/109209",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-51-2023",
 "path": "local/iasi/costesti/2023/51",
 "kind": "local",
@@ -1018,6 +1151,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-53-2023",
+"path": "local/iasi/costesti/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 53/2023 privind aprobarea punerii la dispoziţie şi utilizarea unei suprafeţe de teren din domeniul public al U A T Comuna Costeşti, jud. Iaşi, pentru amplasarea organizării de şantier privind obiectivul de investiţie ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul IASI în perioada 2014 - 2020”",
+"short": "HCL Costești nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/costesti-is/registru-hcl/109212",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-54-2023",
 "path": "local/iasi/costesti/2023/54",
 "kind": "local",
@@ -1037,6 +1192,28 @@
 "council_name": "Consiliul Local al Comunei Costești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costesti-55-2023",
+"path": "local/iasi/costesti/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 55/2023 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile IULIE, AUGUST şi SEPTEMBRIE, anul 2023",
+"short": "HCL Costești nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://emol.ro/costesti-is/registru-hcl/113581",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1393,6 +1570,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-72-2023",
+"path": "local/iasi/costesti/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 72/2023 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile CTOMBRIE, NOIEMBRIE ŞI DECEMBRIE, anul 2023",
+"short": "HCL Costești nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/costesti-is/registru-hcl/125667",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-73-2023",
 "path": "local/iasi/costesti/2023/73",
 "kind": "local",
@@ -1412,6 +1611,28 @@
 "council_name": "Consiliul Local al Comunei Costești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costesti-74-2023",
+"path": "local/iasi/costesti/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 74/2023 privind aprobarea perioadei de funcționare în anul 2023, a cazanului pentru producerea de țuică aflat in administrarea Comunei Costesti, jud. Iaşi si desemnarea personalului care sa raspunda de activitatea desfasurata la cazan precum si de incasarea tarif/cazan stabilită prin H C L 96/2022",
+"short": "HCL Costești nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/costesti-is/registru-hcl/125669",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

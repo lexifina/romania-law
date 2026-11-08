@@ -723,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-51-2020",
+   "path": "local/iasi/erbiceni/2020/51",
+   "short": "HCL Erbiceni nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 51/2020 privind scoaterea din evidenta contabila a unor debite",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14252",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14252",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-52-2020",
    "path": "local/iasi/erbiceni/2020/52",
    "short": "HCL Erbiceni nr. 52/2020",
@@ -748,6 +763,51 @@
      "from": "2020-06-23",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-54-2020",
+   "path": "local/iasi/erbiceni/2020/54",
+   "short": "HCL Erbiceni nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 54/2020 privind aprobarea încheierii contractelor de prestări servicii artistice",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14259",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-55-2020",
+   "path": "local/iasi/erbiceni/2020/55",
+   "short": "HCL Erbiceni nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 55/2020 privind stabilirea modului de întocmire și ținere la zi a Registrului Agricol al comunei Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14260",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-56-2020",
+   "path": "local/iasi/erbiceni/2020/56",
+   "short": "HCL Erbiceni nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 56/2020 privind încadrarea pe zone fiscal a comunei Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14261",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14261",
      "sha256": null
     }
    ]
@@ -838,6 +898,21 @@
      "from": "2020-07-09",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-62-2020",
+   "path": "local/iasi/erbiceni/2020/62",
+   "short": "HCL Erbiceni nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 62/2020 privind acordarea unui ajutor financiar pentru familiile cu nou-născuți",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14269",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14269",
      "sha256": null
     }
    ]
@@ -963,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-70-2020",
+   "path": "local/iasi/erbiceni/2020/70",
+   "short": "HCL Erbiceni nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 70/2020 privind alegerea președintelui de ședință a Consiliului Local Erbiceni pentru luna septembrie 2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14282",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-71-2020",
    "path": "local/iasi/erbiceni/2020/71",
    "short": "HCL Erbiceni nr. 71/2020",
@@ -988,6 +1078,21 @@
      "from": "2020-09-11",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-73-2020",
+   "path": "local/iasi/erbiceni/2020/73",
+   "short": "HCL Erbiceni nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 73/2020 privind modificarea Regulamentului de Ordine Interioară și Regulamentul de Organizare și Funcționare din data de 10.09/2020 al primarului comunei Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/14285",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14285",
      "sha256": null
     }
    ]
@@ -1063,6 +1168,21 @@
      "from": "2020-09-11",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/14290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-79-2020",
+   "path": "local/iasi/erbiceni/2020/79",
+   "short": "HCL Erbiceni nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 79/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/16999",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/16999",
      "sha256": null
     }
    ]

@@ -114,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-6-2026",
+"path": "local/iasi/costesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 6/2026 privind aprobarea închirierii pășunii, prin atribuire directă, aflată în proprietatea privată a U A T Comuna Costeşti, jud. Iaşi, rămasă disponibilă în urma verificării încărcăturii de animale/ha/contract și prelungirea duratei contractelor de închiriere a pășunii, care expiră în cursul anului 2026",
+"short": "HCL Costești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/costesti-is/registru-hcl/257345",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-7-2026",
 "path": "local/iasi/costesti/2026/7",
 "kind": "local",
@@ -378,6 +400,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-19-2026",
+"path": "local/iasi/costesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 19/2026 privind aprobarea documentaţiei de atribuire pentru vânzarea prin licitaţie publică a imobilului în suprafață de 994 mp, identificat cu Carte funciară nr. 61102 Costești şi imobilul în suprafață de 67 mp, identificat cu Carte funciară nr.61104 Costești, aflate în domeniul privat al UAT Comuna Costeşti, județul Iaşi",
+"short": "HCL Costești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/costesti-is/registru-hcl/262005",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-20-2026",
 "path": "local/iasi/costesti/2026/20",
 "kind": "local",
@@ -623,6 +667,29 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-31-2026",
+"path": "local/iasi/costesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 31/2026",
+"short": "HCL Costești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/costesti-is/registru-hcl/282955",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--costesti-32-2026",
 "path": "local/iasi/costesti/2026/32",
 "kind": "local",
@@ -730,6 +797,28 @@
 "council_name": "Consiliul Local al Comunei Costești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costesti-37-2026",
+"path": "local/iasi/costesti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 37/2026 privind desemnarea a doi consilieri locali care vor face parte din Comisia de evaluare a performanțelor profesionale individuale ale secretarului general al unității administrativ – teritoriale Comuna Costesti, județul Iași",
+"short": "HCL Costești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-03",
+"latest": "2026-09-03",
+"portal": "https://emol.ro/costesti-is/registru-hcl/282960",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
