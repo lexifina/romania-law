@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-17-2023",
+   "path": "local/cluj/tureni/2023/17",
+   "short": "HCL Tureni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 17/2023 privind închirierea pajiștilor rămase neutilizate prin contractele de concesiune pe o perioadă de maxim 1 an, prin atribuire directă cu respectarea categoriei de folosință și a prevederilor documentației de închiriere inclusiv, prețul din contract",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/104339",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/104339",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-18-2023",
    "path": "local/cluj/tureni/2023/18",
    "short": "HCL Tureni nr. 18/2023",
@@ -258,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-26-2023",
+   "path": "local/cluj/tureni/2023/26",
+   "short": "HCL Tureni nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 26/2023 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/105221",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/105221",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-27-2023",
    "path": "local/cluj/tureni/2023/27",
    "short": "HCL Tureni nr. 27/2023",
@@ -333,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-31-2023",
+   "path": "local/cluj/tureni/2023/31",
+   "short": "HCL Tureni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 31/2023 privind aprobarea organizării unor activități culturale și susținerea financiară din bugetul local al comunei Tureni pe anul 2023, în limita creditelor aprobate pentru anul în curs",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/105226",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/105226",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-32-2023",
    "path": "local/cluj/tureni/2023/32",
    "short": "HCL Tureni nr. 32/2023",
@@ -393,6 +438,66 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-36-2023",
+   "path": "local/cluj/tureni/2023/36",
+   "short": "HCL Tureni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 36/2023 privind aprobarea rezultatelor inventarierii anuale a elementelor de natură activelor, datoriilor și capitalurilor proprii ale comunei Tureni pentru anul 2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112221",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-37-2023",
+   "path": "local/cluj/tureni/2023/37",
+   "short": "HCL Tureni nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 37/2023 privind aprobarea planului local de acțiune privind incluziunea cetățenilor români de etnie romă, din comuna Tureni pentru anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112222",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-38-2023",
+   "path": "local/cluj/tureni/2023/38",
+   "short": "HCL Tureni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 38/2023 privind aprobarea planului de acțiuni sau de lucrări de interes local care se vor realiza la nivelul comunei Tureni în anul 2023 de către beneficiarii de venit minim garantat",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112223",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-39-2023",
+   "path": "local/cluj/tureni/2023/39",
+   "short": "HCL Tureni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 39/2023 privind analiza de înscriere a datelor în Registrul Agricol pentru anul 2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112224",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112224",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-4-2023",
    "path": "local/cluj/tureni/2023/4",
    "short": "HCL Tureni nr. 4/2023",
@@ -403,6 +508,156 @@
      "from": "2023-02-02",
      "units": 1,
      "source_url": "https://emol.ro/tureni-cj/registru-hcl/103990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-40-2023",
+   "path": "local/cluj/tureni/2023/40",
+   "short": "HCL Tureni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 40/2023 privind actualizarea planului de analiză și acoperire a riscurilor în comuna Tureni în anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112225",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-41-2023",
+   "path": "local/cluj/tureni/2023/41",
+   "short": "HCL Tureni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 41/2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112226",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-42-2023",
+   "path": "local/cluj/tureni/2023/42",
+   "short": "HCL Tureni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 42/2023 privind alegerea președintelui de ședință pentru ședințele Consiliului Local Tureni din lunile iunie, iulie, august 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112387",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-43-2023",
+   "path": "local/cluj/tureni/2023/43",
+   "short": "HCL Tureni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 43/2023 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112388",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-44-2023",
+   "path": "local/cluj/tureni/2023/44",
+   "short": "HCL Tureni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 44/2023 cu privire la solicitarea prelungirii până la data de 03.12.2023 a scrisorii de garantare de la FNGCIMM SA IFN nr. 102/07.09.2022 în suma de 187.000 de lei în vederea garantării în procent de 100% a obligațiilor de plată a avansului de 187,000 lei din fondurile nerambursabile, în baza contractului de finanțare nerambursabilă nr. C1920074X206761307632 / 03.08.2020 și actele adiționale ulterioare în favoarea Agenției pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112389",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-45-2023",
+   "path": "local/cluj/tureni/2023/45",
+   "short": "HCL Tureni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 45/2023 privind acordarea unui mandat special reprezentantului comunei Tureni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Apa Văii Arieșului",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112390",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-46-2023",
+   "path": "local/cluj/tureni/2023/46",
+   "short": "HCL Tureni nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 46/2023 privind participarea UAT COMUNA TURENI în calitate de beneficiar al investiției în cadrul proiectului ,,Microbuze electrice pentru elevii din județul Cluj,, pentru a fi depus spre finanțare de către UAT Județul Cluj în cadrul apelului de proiecte PNRR/2023/C15/MEDU/I10 Microbuze electrice pentru elevi - Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/112400",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/112400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-47-2023",
+   "path": "local/cluj/tureni/2023/47",
+   "short": "HCL Tureni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 47/2023 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121858",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-48-2023",
+   "path": "local/cluj/tureni/2023/48",
+   "short": "HCL Tureni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 48/2023 privind aprobarea rectificării Listei de investiții a comunei Tureni pentru anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121859",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-49-2023",
+   "path": "local/cluj/tureni/2023/49",
+   "short": "HCL Tureni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 49/2023 privind aprobarea contului de execuție al bugetului local al comunei Tureni la 30 iunie 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121860",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121860",
      "sha256": null
     }
    ]
@@ -423,6 +678,156 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-50-2023",
+   "path": "local/cluj/tureni/2023/50",
+   "short": "HCL Tureni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 50/2023 privind aprobarea acordării de sprijin financiar Parohiei ortodoxe Ceanu Mic",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121861",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-51-2023",
+   "path": "local/cluj/tureni/2023/51",
+   "short": "HCL Tureni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 51/2023 privind aprobarea acordării de sprijin financiar Parohiei Reformate Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121862",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-52-2023",
+   "path": "local/cluj/tureni/2023/52",
+   "short": "HCL Tureni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 52/2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121863",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-53-2023",
+   "path": "local/cluj/tureni/2023/53",
+   "short": "HCL Tureni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 53/2023 privind însușirea acordului de cooperare cu privire la organizarea și funcționarea compartimentului dezvoltare rurală",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121864",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-54-2023",
+   "path": "local/cluj/tureni/2023/54",
+   "short": "HCL Tureni nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 54/2023 privind aprobarea modelului acordului de cooperare pentru organizarea și funcționarea compartimentului audit public intern cu majorarea contribuției",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121865",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-55-2023",
+   "path": "local/cluj/tureni/2023/55",
+   "short": "HCL Tureni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 55/2023 privind alocarea sumei de 12.000 lei din bugetul local pentru organizarea activității culturale ,,Minte sănătoasă în corp sănătos,, cu participarea copiilor de pe raza comunei Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/121866",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/121866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-56-2023",
+   "path": "local/cluj/tureni/2023/56",
+   "short": "HCL Tureni nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 56/2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/122102",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/122102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-57-2023",
+   "path": "local/cluj/tureni/2023/57",
+   "short": "HCL Tureni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 57/2023 privind alegerea președintelui de ședință pentru ședințele Consiliului Local Tureni din lunile septembrie, octombrie, noiembrie 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/122103",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/122103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-58-2023",
+   "path": "local/cluj/tureni/2023/58",
+   "short": "HCL Tureni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 58/2023 privind aprobarea închirierii prin atribuire directă a imobilului aferent spațiilor cu altă destinație decât locuință, profil comercial, aflat în imobilul situat în localitatea Comșești, nr.111, domeniu public al comunei Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/122104",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/122104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-59-2023",
+   "path": "local/cluj/tureni/2023/59",
+   "short": "HCL Tureni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 59/2023 privind aprobarea concesionării prin atribuire directă a imobilului teren aferent spațiilor cu altă destinație decât locuință, profil comercial, aflat în imobilul situat în localitatea Micești, pășunea cu denumirea populară la Ticla, domeniu privat al comunei Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/122105",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/122105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-6-2023",
    "path": "local/cluj/tureni/2023/6",
    "short": "HCL Tureni nr. 6/2023",
@@ -433,6 +838,141 @@
      "from": "2023-02-02",
      "units": 1,
      "source_url": "https://emol.ro/tureni-cj/registru-hcl/103992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-60-2023",
+   "path": "local/cluj/tureni/2023/60",
+   "short": "HCL Tureni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 60/2023 privind aprobarea Organigramei și a Statutului de funcții ale aparatului de specialitate al primarului comunei Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/122135",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/122135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-61-2023",
+   "path": "local/cluj/tureni/2023/61",
+   "short": "HCL Tureni nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 61/2023 privind neasumarea responsabilității organizării și derulării la nivel local a procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziționarea produselor și a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru Școli al României în perioada 2023-2029, precum și pentru stabilirea bugetului pentru implementarea acestuia în anul 2023-2024, adoptat prin HG NR.652/2023 publicată în Monitorul Oficial al României nr. 728/08.08.2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/122136",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/122136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-62-2023",
+   "path": "local/cluj/tureni/2023/62",
+   "short": "HCL Tureni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 62/2023 privind solicitarea prelungirii până la data de 03.03.2024 a scrisorii de garantare de la FNGCIMM SA IFN NR. 102/7.09.2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/124116",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/124116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-63-2023",
+   "path": "local/cluj/tureni/2023/63",
+   "short": "HCL Tureni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 63/2023 privind aprobarea modificării anexei 2.1 aferentă pentru obiectivul de investiții ,,MODERNIZARE DRUMURI ȘI STRĂZI ÎN COMUNA TURENI, JUDEȚUL CLUJ,, finanțat prin PNI Anghel Saligny",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/124117",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/124117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-64-2023",
+   "path": "local/cluj/tureni/2023/64",
+   "short": "HCL Tureni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 64/2023 privind privind aprobarea modificării anexei 2.2 aferentă pentru obiectivul de investiții ,,MODERNIZARE DRUMURI ȘI STRĂZI ÎN COMUNA TURENI, JUDEȚUL CLUJ,, finanțat prin PNI Anghel Saligny",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/124118",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/124118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-65-2023",
+   "path": "local/cluj/tureni/2023/65",
+   "short": "HCL Tureni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 65/2023 privind achiziția de servicii de consultanță în domeniul resurse umane",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/124119",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/124119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-66-2023",
+   "path": "local/cluj/tureni/2023/66",
+   "short": "HCL Tureni nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 66/2023 privind aprobarea rezilierii contractului de administrare nr.2387 din 30.12.2014 încheiat între UAT Tureni și Ocolul Silvic Valea Ierii SRL",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/124120",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/124120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-67-2023",
+   "path": "local/cluj/tureni/2023/67",
+   "short": "HCL Tureni nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 67/2023 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/129182",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/129182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-68-2023",
+   "path": "local/cluj/tureni/2023/68",
+   "short": "HCL Tureni nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 68/2023 privind aprobarea coeficienților de salarizare și stabilirea salariului de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/129183",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/129183",
      "sha256": null
     }
    ]

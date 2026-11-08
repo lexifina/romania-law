@@ -3,6 +3,233 @@
 "shard": "local/constanta/castelu/2023",
 "acts": [
 {
+"slug": "hcl-constanta--castelu-11-2023",
+"path": "local/constanta/castelu/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 11/2023",
+"short": "HCL Castelu nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-12-2023",
+"path": "local/constanta/castelu/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 12/2023",
+"short": "HCL Castelu nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-13-2023",
+"path": "local/constanta/castelu/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 13/2023 PRIVIND ACORDAREA UNUI AJUTOR DE URGENŢĂ ÎN SUMA DE 500 LEI, D-NEI IBRAM RUBIE, REPREZENTÂND CHELTUIELI DE ÎNMORMÂNTARE PENTRU FIUL SĂU IBRAM CERCHEZ",
+"short": "HCL Castelu nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#41496",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--castelu-14-2023",
+"path": "local/constanta/castelu/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 14/2023",
+"short": "HCL Castelu nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-15-2023",
+"path": "local/constanta/castelu/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 15/2023",
+"short": "HCL Castelu nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-16-2023",
+"path": "local/constanta/castelu/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 16/2023",
+"short": "HCL Castelu nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-17-2023",
+"path": "local/constanta/castelu/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 17/2023 PRIVIND ACORDAREA UNUI AJUTOR DE URGENŢĂ ÎN SUMA DE 500 LEI, D-NEI IACUB NERGHIZ, REPREZENTÂND CHELTUIELI DE ÎNMORMÂNTARE PENTRU MAMA SA FRĂȚILĂ NEBAT",
+"short": "HCL Castelu nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#41500",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--castelu-18-2023",
+"path": "local/constanta/castelu/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 18/2023 PRIVIND ACORDAREA UNUI AJUTOR DE URGENŢĂ ÎN SUMA DE 500 LEI, D-NEI SOIUM LEILA, REPREZENTÂND CHELTUIELI DE ÎNMORMÂNTARE PENTRU SOCRUL SĂU ȘABAN ȘABAN",
+"short": "HCL Castelu nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#41501",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--castelu-32-2023",
+"path": "local/constanta/castelu/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 32/2023",
+"short": "HCL Castelu nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-10",
+"latest": "2023-03-10",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-33-2023",
+"path": "local/constanta/castelu/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 33/2023",
+"short": "HCL Castelu nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-10",
+"latest": "2023-03-10",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--castelu-46-2023",
 "path": "local/constanta/castelu/2023/46",
 "kind": "local",
@@ -25,6 +252,29 @@
 }
 },
 {
+"slug": "hcl-constanta--castelu-47-2023",
+"path": "local/constanta/castelu/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 47/2023",
+"short": "HCL Castelu nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--castelu-48-2023",
 "path": "local/constanta/castelu/2023/48",
 "kind": "local",
@@ -44,6 +294,28 @@
 "council_name": "Consiliul Local al Comunei Castelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--castelu-49-2023",
+"path": "local/constanta/castelu/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 49/2023 PRIVIND APROBAREA VÂNZĂRII PRIN LICITAȚIE PUBLICĂ A UNUI IMOBIL – TEREN ÎN SUPRAFAŢĂ DE 1824 MP, SITUAT ÎN LOCALITATEA NISIPARI, STR. DC90, NR. 8, ÎNSCRIS ÎN CF NR. 103254 UAT CASTELU, NR. CADASTRAL 103254, PROPRIETATEA PRIVATĂ A COMUNEI CASTELU ȘI A CAIETULUI DE SARCINI",
+"short": "HCL Castelu nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#47686",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +405,29 @@
 "council_name": "Consiliul Local al Comunei Castelu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-54-2023",
+"path": "local/constanta/castelu/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 54/2023",
+"short": "HCL Castelu nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

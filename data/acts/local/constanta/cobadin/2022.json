@@ -3,6 +3,28 @@
 "shard": "local/constanta/cobadin/2022",
 "acts": [
 {
+"slug": "hcl-constanta--cobadin-1-2022",
+"path": "local/constanta/cobadin/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 1/2022 privind aprobarea numărului de posturi pentru asistenți personali ai persoanelor cu handicap grav la nivelul Primăriei Comunei Cobadin, jud. Constanța, pentru anul 2022 Consiliul Local al Comunei Cobadin, jud.Constanța, întrunit în ședința ORDINARĂ în data de 10.02.2022, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea numărului de posturi pentru asistenți personali ai persoanelor cu han",
+"short": "HCL Cobadin nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cobadin-13-2022",
 "path": "local/constanta/cobadin/2022/13",
 "kind": "local",
@@ -18,6 +40,116 @@
 "from": "2022-02-10",
 "latest": "2022-02-10",
 "portal": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-DE-APROBARE-A-EXECUTIEI-BUGETARE-PENTRU-ANUL-2021.pdf",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cobadin-60-2022",
+"path": "local/constanta/cobadin/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 60/2022 privind aprobarea participării la ”Programul (AFM) privind Cresterea eficientei energetice a infrastructurii de iluminat public” cu Proiectul'' Cresterea eficientei energetice a sistemului de iluminat public în comuna COBADIN, judetul CONSTANTA” Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 17.08.2022, Având în vedere: ✓",
+"short": "HCL Cobadin nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-17",
+"latest": "2022-08-17",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cobadin-62-2022",
+"path": "local/constanta/cobadin/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 62/2022 privind aprobarea depunerii proiectului RENOVAREA INTEGRATA A CLADIRII PUBLICE CORP C3 - SCOALA GENERALA VECHE, LOC. VIISOARA, COM. COBADIN în vederea finanțării acestuia din Planul național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C5/2/B.1/1, componenta 5 — Valul renovării, axa 2 — Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiu",
+"short": "HCL Cobadin nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-26",
+"latest": "2022-08-26",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cobadin-76-2022",
+"path": "local/constanta/cobadin/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 76/2022 privind aprobarea rectificării nr. 5 a bugetului de venituri și cheltuieli al Comunei Cobadin, judetul Constanța, aferent anului 2022 Consiliul Local al Comunei Cobadin, judetulConstanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 06.10.2022, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea rectificării nr. 5 a bugetului de venituri și cheltuieli al Comunei Cobad",
+"short": "HCL Cobadin nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-06",
+"latest": "2022-10-06",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cobadin-77-2022",
+"path": "local/constanta/cobadin/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 77/2022 privind aprobarea depunereii și participarea în cadrul proiectului <REABILITARE MODERATĂ A CLĂDIRII PUBLICE CĂMIN CULTURAL, LOCALITATEA VIIȘOARA, COMUNA COBADIN, JUDEȚUL CONSTAȚA> în vederea finanțării acestuia prin Planul Național de Redresare și Reziliență, Componenta C10 – Fond local, Investitia I.3 – Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice d",
+"short": "HCL Cobadin nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-13",
+"latest": "2022-10-13",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cobadin-89-2022",
+"path": "local/constanta/cobadin/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 89/2022 privind aprobarea rectificării nr. 7 a bugetului de venituri și cheltuieli al Comunei Cobadin, judetul Constanța, aferent anului 2022 Consiliul Local al Comunei Cobadin, judetulConstanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 24.11.2022, Având în vedere: Proiectul de Hotărâre privind aprobarea rectificării nr. 7 a bugetului de venituri și cheltuieli al Comunei Cobadin",
+"short": "HCL Cobadin nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
 "council": "constanta/cobadin",
 "council_name": "Consiliul Local al Comunei Cobadin",
 "flags": {

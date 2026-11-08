@@ -3,6 +3,1086 @@
  "shard": "local/constanta/lumina/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--lumina-1-2026",
+   "path": "local/constanta/lumina/2026/1",
+   "short": "HCL Lumina nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 1/2026 privind reîntregirea și utilizarea excedentului bugetar existent al Comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/246213",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/246213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-10-2026",
+   "path": "local/constanta/lumina/2026/10",
+   "short": "HCL Lumina nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 10/2026 privind mandatarea Primarului Comunei Lumina pentru finalizarea procedurilor de vânzare-cumpărare și de constituire a dreptului de superficie asupra unor terenuri din domeniul privat al Comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248678",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-100-2026",
+   "path": "local/constanta/lumina/2026/100",
+   "short": "HCL Lumina nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 100/2026 privind actualizarea Devizului General pentru obiectivul „Lucrari de reparatii strazi prin asfaltare, în comuna Lumina, județul Constanța”- Sat Lumina: str. Mare, Morii, Brotacei, Garii, Pelican, Liliacului, 22 Decembrie 1989, George Enescu, Luceafarului, Viorelelor",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/280255",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/280255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-101-2026",
+   "path": "local/constanta/lumina/2026/101",
+   "short": "HCL Lumina nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 101/2026 privind aprobarea rectificării nr. 4 a bugetului local al comunei Lumina pentru anul 2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/282892",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/282892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-102-2026",
+   "path": "local/constanta/lumina/2026/102",
+   "short": "HCL Lumina nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 102/2026 privind atestarea apartenentei la domeniul privat al comunei Lumina, judetul Constanta, a unei suprafete de teren",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284764",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-103-2026",
+   "path": "local/constanta/lumina/2026/103",
+   "short": "HCL Lumina nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 103/2026 privind aprobarea contului de execuţie al bugetelor de venituri si cheltuieli pe trimestrul II an 2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284765",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-104-2026",
+   "path": "local/constanta/lumina/2026/104",
+   "short": "HCL Lumina nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 104/2026 privind constatarea încetarii Contractului de concesiune nr. 10638/01.10.2014",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284766",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-105-2026",
+   "path": "local/constanta/lumina/2026/105",
+   "short": "HCL Lumina nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 105/2026 privind radierea unui bun imobil înregistrat eronat în domeniul public al comunei Lumina, județul Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284767",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-106-2026",
+   "path": "local/constanta/lumina/2026/106",
+   "short": "HCL Lumina nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 106/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția de fructe și legume proaspete, lapte și produse lactate și produse de panificație, precum și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local, aferente Programului pentru școli al României, pentru anii școlari 2026–2029",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284768",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-107-2026",
+   "path": "local/constanta/lumina/2026/107",
+   "short": "HCL Lumina nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 107/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284769",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-108-2026",
+   "path": "local/constanta/lumina/2026/108",
+   "short": "HCL Lumina nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 108/2026 privind aprobarea contractării serviciilor juridice de asistență și reprezentare pentru formularea și susținerea recursului în dosarul nr. 9637/118/2021",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284770",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-109-2026",
+   "path": "local/constanta/lumina/2026/109",
+   "short": "HCL Lumina nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 109/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284771",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-11-2026",
+   "path": "local/constanta/lumina/2026/11",
+   "short": "HCL Lumina nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 11/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248679",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-110-2026",
+   "path": "local/constanta/lumina/2026/110",
+   "short": "HCL Lumina nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 110/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284772",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-111-2026",
+   "path": "local/constanta/lumina/2026/111",
+   "short": "HCL Lumina nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 111/2026 privind acordarea unui mandat special reprezentantului Comunei Lumina în cadrul Adunării Generale a Asociaţia de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284773",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-112-2026",
+   "path": "local/constanta/lumina/2026/112",
+   "short": "HCL Lumina nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 112/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284774",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-113-2026",
+   "path": "local/constanta/lumina/2026/113",
+   "short": "HCL Lumina nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 113/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284775",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-114-2026",
+   "path": "local/constanta/lumina/2026/114",
+   "short": "HCL Lumina nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 114/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284776",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-115-2026",
+   "path": "local/constanta/lumina/2026/115",
+   "short": "HCL Lumina nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 115/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284777",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-116-2026",
+   "path": "local/constanta/lumina/2026/116",
+   "short": "HCL Lumina nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 116/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284778",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-117-2026",
+   "path": "local/constanta/lumina/2026/117",
+   "short": "HCL Lumina nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 117/2026 privind prelungirea perioadei de valabilitate a documentației de urbanism „Plan Urbanistic Zonal – PUZ stabilire reglementări urbanistice pentru construire Centru regional agricultură IPSO-Lumina, comuna Lumina, județul Constanța”, aprobată prin Hotărârea Consiliului Local al comunei Lumina nr. 99/27.08.2024",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284779",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-118-2026",
+   "path": "local/constanta/lumina/2026/118",
+   "short": "HCL Lumina nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 118/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284780",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-119-2026",
+   "path": "local/constanta/lumina/2026/119",
+   "short": "HCL Lumina nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 119/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284781",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-12-2026",
+   "path": "local/constanta/lumina/2026/12",
+   "short": "HCL Lumina nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 12/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248680",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-120-2026",
+   "path": "local/constanta/lumina/2026/120",
+   "short": "HCL Lumina nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 120/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284782",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-121-2026",
+   "path": "local/constanta/lumina/2026/121",
+   "short": "HCL Lumina nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 121/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284783",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-122-2026",
+   "path": "local/constanta/lumina/2026/122",
+   "short": "HCL Lumina nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 122/2026 privind aprobarea vânzării cu drept de preempțiune, prin negociere directă, a terenului în suprafața de 300 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Mircea cel Batran ,nr.90, Com. Lumina, jud. Constanța, înscris în CF 105980",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284784",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-123-2026",
+   "path": "local/constanta/lumina/2026/123",
+   "short": "HCL Lumina nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 123/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284785",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-124-2026",
+   "path": "local/constanta/lumina/2026/124",
+   "short": "HCL Lumina nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 124/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284786",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-125-2026",
+   "path": "local/constanta/lumina/2026/125",
+   "short": "HCL Lumina nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 125/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284787",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-126-2026",
+   "path": "local/constanta/lumina/2026/126",
+   "short": "HCL Lumina nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 126/2026 privind completarea domeniului privat al Comunei Lumina cu un Buldoexcavator și darea acestuia în administrarea Serviciului Local de Salubrizare Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284788",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-127-2026",
+   "path": "local/constanta/lumina/2026/127",
+   "short": "HCL Lumina nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 127/2026 privind aprobarea modalităților de efectuare a pazei în comuna Lumina și însușirea Planului de pază actualizat",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284789",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-128-2026",
+   "path": "local/constanta/lumina/2026/128",
+   "short": "HCL Lumina nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 128/2026 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.05.2026-30.06.2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284790",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-129-2026",
+   "path": "local/constanta/lumina/2026/129",
+   "short": "HCL Lumina nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 129/2026 privind aprobarea închirierii și stabilirea prețului minim al chiriei pentru autospeciala Mercedes-Benz Arocs, categoria N3, aflată în proprietatea comunei Lumina și în administrarea Serviciului Local de Salubrizare Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284791",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-13-2026",
+   "path": "local/constanta/lumina/2026/13",
+   "short": "HCL Lumina nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 13/2026 privind aprobarea vânzării cu drept de preempțiune, prin negociere directă, a terenului în suprafața de 938 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Navodari, nr. 76, Com. Lumina, jud. Constanța, înscris în CF 101367",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248681",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-130-2026",
+   "path": "local/constanta/lumina/2026/130",
+   "short": "HCL Lumina nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 130/2026 privind aprobarea tarifului pentru prestarea de servicii cu buldoexcavatorul CASE 580SV, cu operator și combustibil incluse, bun aflat în proprietatea privată a comunei Lumina și în administrarea Serviciului Local de Salubrizare Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/284792",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/284792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-131-2026",
+   "path": "local/constanta/lumina/2026/131",
+   "short": "HCL Lumina nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 131/2026 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare pentru finanțarea Sistemului de Management Integrat al Deșeurilor în Comuna Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/285753",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/285753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-132-2026",
+   "path": "local/constanta/lumina/2026/132",
+   "short": "HCL Lumina nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 132/2026 privind aprobarea taxelor de salubrizare incepand cu data de 01.09. 2026 pentru utilizatorii serviciului de salubrizare de pe raza UAT LUMINA",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/285754",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/285754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-133-2026",
+   "path": "local/constanta/lumina/2026/133",
+   "short": "HCL Lumina nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 133/2026 privind aprobarea alocării sumei de 75.000 lei în vederea achiziționării de auxiliare didactice pentru preșcolarii, elevii ciclului primar și gimnazial ai Școlii Gimnaziale nr. 1 Lumina și structurilor arondate",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/286959",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/286959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-134-2026",
+   "path": "local/constanta/lumina/2026/134",
+   "short": "HCL Lumina nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 134/2026 privind aprobarea alocării sumei de 19.500 lei în vederea achiziționării de materiale didactice necesare desfasurarii activitatilor instructiv-educative in Gradinita cu Program prelungit “ Luminita” din Com. Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/286960",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/286960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-135-2026",
+   "path": "local/constanta/lumina/2026/135",
+   "short": "HCL Lumina nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 135/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/286961",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/286961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-136-2026",
+   "path": "local/constanta/lumina/2026/136",
+   "short": "HCL Lumina nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 136/2026 privind aprobarea rectificării nr. 5 a bugetului local al comunei Lumina pentru anul 2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/286962",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/286962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-137-2026",
+   "path": "local/constanta/lumina/2026/137",
+   "short": "HCL Lumina nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 137/2026 privind aprobarea încheierii unui contract de asistență juridică a UAT Comuna Lumina în fața Curții de Conturi a României",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/286963",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/286963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-138-2026",
+   "path": "local/constanta/lumina/2026/138",
+   "short": "HCL Lumina nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 138/2026 privind înființarea, organizarea și funcționarea Comisiei Tehnice de Circulație a Comunei Lumina și aprobarea Regulamentului de organizare și funcționare al acesteia",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/287919",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/287919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-139-2026",
+   "path": "local/constanta/lumina/2026/139",
+   "short": "HCL Lumina nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 139/2026 privind acordarea unui mandat special reprezentantului comunei Lumina în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/287920",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/287920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-14-2026",
+   "path": "local/constanta/lumina/2026/14",
+   "short": "HCL Lumina nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 14/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248682",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-140-2026",
+   "path": "local/constanta/lumina/2026/140",
+   "short": "HCL Lumina nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 140/2026 privind nominalizarea reprezentantului Consiliului Local al Comunei Lumina și a membrului supleant în comisia de evaluare a probei de interviu constituită în cadrul concursului pentru ocuparea funcțiilor vacante de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/287921",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/287921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-141-2026",
+   "path": "local/constanta/lumina/2026/141",
+   "short": "HCL Lumina nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 141/2026 privind aprobarea rezilierii Contractului de Concesiune nr.5079/25.05.2011 si a actului aditional nr.1/29.08.2017 incheiat intre Consiliul Local Lumina in calitate de concedent si Memis Celik Onur , -in calitate de concesionar",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290881",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-142-2026",
+   "path": "local/constanta/lumina/2026/142",
+   "short": "HCL Lumina nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 142/2026 privind actualizarea Devizului General pentru obiectivul „Asfaltare strada Tulcei în comuna Lumina, județul Constanța”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290882",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-143-2026",
+   "path": "local/constanta/lumina/2026/143",
+   "short": "HCL Lumina nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 143/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Lumina în Consiliul de administrație al Liceului Teoretic „Pontus Euxinus” Lumina, precum și, după caz, în comisiile unității de învățământ în care legislația prevede reprezentarea autorității administrației publice locale, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290883",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-144-2026",
+   "path": "local/constanta/lumina/2026/144",
+   "short": "HCL Lumina nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 144/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Lumina în Comisia pentru Evaluarea și Asigurarea Calității Educației (CEAC) din cadrul Școlii Gimnaziale nr. 1 Lumina, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290884",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-145-2026",
+   "path": "local/constanta/lumina/2026/145",
+   "short": "HCL Lumina nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 145/2026 privind desemnarea a doi reprezentanți ai Consiliului Local al Comunei Lumina ca membri în Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității din cadrul Școlii Gimnaziale nr. 1 Lumina, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290885",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-146-2026",
+   "path": "local/constanta/lumina/2026/146",
+   "short": "HCL Lumina nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 146/2026 privind desemnarea a doi reprezentanți ai Consiliului Local al Comunei Lumina în Consiliul de administrație al Școlii Gimnaziale nr. 1 Lumina, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290886",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-147-2026",
+   "path": "local/constanta/lumina/2026/147",
+   "short": "HCL Lumina nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 147/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Lumina în Comisia pentru Evaluarea și Asigurarea Calității Educației (CEAC) din cadrul Grădiniței cu Program Prelungit „Luminița” Lumina, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290887",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-148-2026",
+   "path": "local/constanta/lumina/2026/148",
+   "short": "HCL Lumina nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 148/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Lumina în Consiliul de administrație al Grădiniței cu Program Prelungit „LUMINIȚA” din comuna Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290888",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-149-2026",
+   "path": "local/constanta/lumina/2026/149",
+   "short": "HCL Lumina nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 149/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Lumina în comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității, constituită la nivelul Grădiniței cu Program Prelungit „LUMINIȚA” din comuna Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290889",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-15-2026",
+   "path": "local/constanta/lumina/2026/15",
+   "short": "HCL Lumina nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 15/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248683",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-150-2026",
+   "path": "local/constanta/lumina/2026/150",
+   "short": "HCL Lumina nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 150/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290890",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-151-2026",
+   "path": "local/constanta/lumina/2026/151",
+   "short": "HCL Lumina nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 151/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290891",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-152-2026",
+   "path": "local/constanta/lumina/2026/152",
+   "short": "HCL Lumina nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 152/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290892",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-153-2026",
+   "path": "local/constanta/lumina/2026/153",
+   "short": "HCL Lumina nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 153/2026 privind aprobarea vânzării cu drept de preempţiune, prin negociere directă, a terenului în suprafaţa de 1000 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Iuliu Maniu,nr.30 C, Corn. Lumina, jud. Constanţa, înscris în CF 106576",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290893",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-154-2026",
+   "path": "local/constanta/lumina/2026/154",
+   "short": "HCL Lumina nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 154/2026 privind aprobarea vânzării cu drept de preempțiune, prin negociere directă, a terenului în suprafața de 2000 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Iuliu Maniu,nr.30 E, Com. Lumina, jud. Constanța, înscris în CF 107148",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290894",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-155-2026",
+   "path": "local/constanta/lumina/2026/155",
+   "short": "HCL Lumina nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 155/2026 privind aprobarea vânzării directe, a terenului în suprafața de 300 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Murelor ,nr.50, Com. Lumina, jud. Constanța, înscris în CF 102442",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290895",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-156-2026",
+   "path": "local/constanta/lumina/2026/156",
+   "short": "HCL Lumina nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 156/2026 privind aprobarea vânzării cu drept de preempțiune, prin negociere directă, a terenului în suprafața de 462 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Academiei,nr.4, Com. Lumina, jud. Constanța, înscris în CF 103752",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290896",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-157-2026",
+   "path": "local/constanta/lumina/2026/157",
+   "short": "HCL Lumina nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 157/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290897",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-158-2026",
+   "path": "local/constanta/lumina/2026/158",
+   "short": "HCL Lumina nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 158/2026 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Lumina nr. 257 din 19.12.2017 privind înființarea „Serviciului Local de Salubrizare Lumina”, aprobarea Studiului de oportunitate și aprobarea Regulamentului de organizare și funcționare actualizat",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290898",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-159-2026",
+   "path": "local/constanta/lumina/2026/159",
+   "short": "HCL Lumina nr. 159/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 159/2026 privind modificarea drepturilor și obligațiilor părților din Contractul de concesiune nr. 5079/25.05.2011 și încheierea Actului adițional nr. 2 la acesta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290899",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-16-2026",
+   "path": "local/constanta/lumina/2026/16",
+   "short": "HCL Lumina nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 16/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248684",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-160-2026",
+   "path": "local/constanta/lumina/2026/160",
+   "short": "HCL Lumina nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 160/2026 privind completarea inventarului bunurilor care aparțin domeniului privat al Comunei Lumina cu un tractor pe roți și darea acestuia în administrarea Serviciului Local de Salubrizare Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290900",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-161-2026",
+   "path": "local/constanta/lumina/2026/161",
+   "short": "HCL Lumina nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 161/2026 privind privind declararea de uz și interes public local a unor tronsoane din bunul imobil „Strada Trandafirilor” și aprobarea actualizării elementelor tehnice ale acesteia în vederea înscrierii în cartea funciară",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290901",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-162-2026",
+   "path": "local/constanta/lumina/2026/162",
+   "short": "HCL Lumina nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 162/2026 privind completarea HCL nr. 130/ 2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290902",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-163-2026",
+   "path": "local/constanta/lumina/2026/163",
+   "short": "HCL Lumina nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 163/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/290903",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/290903",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--lumina-164-2026",
    "path": "local/constanta/lumina/2026/164",
    "short": "HCL Lumina nr. 164/2026",
@@ -88,6 +1168,21 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/lumina-ct/registru-hcl/295068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-17-2026",
+   "path": "local/constanta/lumina/2026/17",
+   "short": "HCL Lumina nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 17/2026 privind aprobarea Metodologiei de repartizare și facturare individuală a consumului de apă înregistrat la branșamentul condominiului, precum și a Convenției-cadru de facturare individuală a consumurilor de apă și canalizare",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/254798",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/254798",
      "sha256": null
     }
    ]
@@ -243,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--lumina-18-2026",
+   "path": "local/constanta/lumina/2026/18",
+   "short": "HCL Lumina nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 18/2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/254799",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/254799",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--lumina-180-2026",
    "path": "local/constanta/lumina/2026/180",
    "short": "HCL Lumina nr. 180/2026",
@@ -298,6 +1408,81 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/lumina-ct/registru-hcl/297352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-19-2026",
+   "path": "local/constanta/lumina/2026/19",
+   "short": "HCL Lumina nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 19/2026 privind actualizarea Normării și stabilirii consumului de carburanți pentru autovehiculele care deservesc parcul auto al UAT Comuna Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/254800",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/254800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-2-2026",
+   "path": "local/constanta/lumina/2026/2",
+   "short": "HCL Lumina nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 2/2026 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.11.2025-30.11.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/248670",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/248670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-20-2026",
+   "path": "local/constanta/lumina/2026/20",
+   "short": "HCL Lumina nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 20/2026 privind aprobarea contului de execuţie al bugetelor de venituri si cheltuieli pe trimestrul IV an 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/254801",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/254801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-21-2026",
+   "path": "local/constanta/lumina/2026/21",
+   "short": "HCL Lumina nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 21/2026 privind aprobarea situatiilor financiare anuale, bilant, balanta, situatia fluxurilor de trezorerie si contul anual de executie al bugetului Comunei Lumina la 31.12.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/254802",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/254802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-22-2026",
+   "path": "local/constanta/lumina/2026/22",
+   "short": "HCL Lumina nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 22/2026 privind îndreptarea erorii materiale strecurate în cuprinsul Hotărârii Consiliului Local nr. 16/27.01.2026 și al anexei acesteia – Studiul de oportunitate",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/254803",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/254803",
      "sha256": null
     }
    ]

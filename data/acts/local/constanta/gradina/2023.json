@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-3-2023",
+"path": "local/constanta/gradina/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 3/2023 privind aprobarea bugetului local de venituri și cheltuieli, pe anul 2023",
+"short": "HCL Grădina nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/86301",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-4-2023",
 "path": "local/constanta/gradina/2023/4",
 "kind": "local",
@@ -70,6 +92,50 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-5-2023",
+"path": "local/constanta/gradina/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 5/2023 privind aprobarea bugetului de venituri și cheltuieli al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța, pe anul 2023",
+"short": "HCL Grădina nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/86303",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-6-2023",
+"path": "local/constanta/gradina/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 6/2023 privind aprobarea organigramei și a statului nominal de personal al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/86304",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-7-2023",
 "path": "local/constanta/gradina/2023/7",
 "kind": "local",
@@ -89,6 +155,50 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-8-2023",
+"path": "local/constanta/gradina/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 8/2023 privind alegerea președintelui de ședință pentru lunile februarie 2023 - aprilie 2023",
+"short": "HCL Grădina nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/92445",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-9-2023",
+"path": "local/constanta/gradina/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 9/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și Primăria Comunei Grădina, Județul Constanța, având ca obiect asigurarea colaborării interinstituționale a MMSS cu Comuna Grădina în cadrul proiectului “HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+"short": "HCL Grădina nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/92446",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -178,6 +288,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-14-2023",
+"path": "local/constanta/gradina/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 14/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/92451",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -288,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-20-2023",
+"path": "local/constanta/gradina/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 20/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/100015",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -446,6 +600,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-28-2023",
+"path": "local/constanta/gradina/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 28/2023 privind modificarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Grădina, județul Constanța și serviciilor publice din subordinea Consiliului Local al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/101857",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-29-2023",
 "path": "local/constanta/gradina/2023/29",
 "kind": "local",
@@ -465,6 +641,163 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-30-2023",
+"path": "local/constanta/gradina/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 30/2023 privind alegerea președintelui de ședință pentru lunile mai 2023 - iulie 2023",
+"short": "HCL Grădina nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105856",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-31-2023",
+"path": "local/constanta/gradina/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 31/2023",
+"short": "HCL Grădina nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105857",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--gradina-32-2023",
+"path": "local/constanta/gradina/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 32/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al Comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105858",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-33-2023",
+"path": "local/constanta/gradina/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 33/2023 privind aprobarea inventarierii patrimoniale a bunurilor ce aparţin domeniului public şi domeniului privat al comunei Grădina, judeţul Constanţa, pe anul 2022",
+"short": "HCL Grădina nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105859",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-34-2023",
+"path": "local/constanta/gradina/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 34/2023",
+"short": "HCL Grădina nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105860",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--gradina-35-2023",
+"path": "local/constanta/gradina/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 35/2023 privind aprobarea delegarii dreptului de depunere a Cererii de finanțare a proiectului „Dotarea cu microbuze electrice pentru elevi a unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța ” Componenta C15: Educație, Investiția 10: „Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi”, finanțat din bugetul Ministerului Educației, prin Programul Național de Redresare și Reziliență de către comuna Gradina, Județul Constanța, Consiliul Județean Constanța",
+"short": "HCL Grădina nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105861",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-36-2023",
+"path": "local/constanta/gradina/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 36/2023",
+"short": "HCL Grădina nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/105862",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -509,6 +842,94 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-39-2023",
+"path": "local/constanta/gradina/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 39/2023 privind aprobarea Regulamentului privind implementarea și eliberarea formularului unic al modelului card – legitimație de parcare pentru persoanele cu handicap",
+"short": "HCL Grădina nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/115276",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-40-2023",
+"path": "local/constanta/gradina/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 40/2023 privind alegerea președintelui de ședință pentru lunile august 2023 - octombrie 2023",
+"short": "HCL Grădina nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/118532",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-41-2023",
+"path": "local/constanta/gradina/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 41/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/118533",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-42-2023",
+"path": "local/constanta/gradina/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 42/2023 privind acordarea pentru anul şcolar 2023-2024 a pachetului de rechizite şcolare „Ghiozdanul meu”",
+"short": "HCL Grădina nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/118534",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

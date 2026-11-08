@@ -819,6 +819,28 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-38-2020",
+"path": "local/cluj/tureni/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 38/2020 privind actualizarea Planului de analiză și acoperire a riscurilor în comuna Tureni, în anul 2020",
+"short": "HCL Tureni nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-11",
+"latest": "2020-06-11",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10327",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--tureni-39-2020",
 "path": "local/cluj/tureni/2020/39",
 "kind": "local",
@@ -860,6 +882,28 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-41-2020",
+"path": "local/cluj/tureni/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 41/2020 privind aprobarea cuantumului și numărul unor burse acordate elevilor din învățământul preuniversitar de stat, la nivelul Comunei Tureni, în anul școlar 2019-2020, SEMESTRUL al II-lea",
+"short": "HCL Tureni nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-11",
+"latest": "2020-06-11",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10330",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -973,6 +1017,29 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-47-2020",
+"path": "local/cluj/tureni/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 47/2020",
+"short": "HCL Tureni nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-14",
+"latest": "2020-07-14",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10687",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--tureni-48-2020",
 "path": "local/cluj/tureni/2020/48",
 "kind": "local",
@@ -1036,6 +1103,72 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-51-2020",
+"path": "local/cluj/tureni/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 51/2020 privind aprobarea nomenclatorului stradal al comunei Tureni, județul Cluj",
+"short": "HCL Tureni nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10691",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--tureni-52-2020",
+"path": "local/cluj/tureni/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 52/2020 privind alocarea sumei de 12.000 lei pentru organizarea ceremoniei de sfințire a capelei mortuare din loc. Tureni",
+"short": "HCL Tureni nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10692",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--tureni-53-2020",
+"path": "local/cluj/tureni/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 53/2020 privind punerea în executare a Încheierii Civile nr. 6371/2019, definitivă, pronunțată de Judecătoria Turda, în dosarul civil nr. 5505/211/2018/a1",
+"short": "HCL Tureni nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10693",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1149,6 +1282,29 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-59-2020",
+"path": "local/cluj/tureni/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 59/2020",
+"short": "HCL Tureni nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10729",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--tureni-60-2020",
 "path": "local/cluj/tureni/2020/60",
 "kind": "local",
@@ -1193,6 +1349,75 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-62-2020",
+"path": "local/cluj/tureni/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 62/2020",
+"short": "HCL Tureni nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10732",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--tureni-63-2020",
+"path": "local/cluj/tureni/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 63/2020",
+"short": "HCL Tureni nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10733",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--tureni-64-2020",
+"path": "local/cluj/tureni/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 64/2020",
+"short": "HCL Tureni nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/10734",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--tureni-65-2020",
 "path": "local/cluj/tureni/2020/65",
 "kind": "local",
@@ -1234,6 +1459,50 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-67-2020",
+"path": "local/cluj/tureni/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 67/2020 privind aprobarea rectificării Listei de Investiții a Comunei Tureni pentru anul 2020",
+"short": "HCL Tureni nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-15",
+"latest": "2020-10-15",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/14789",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--tureni-68-2020",
+"path": "local/cluj/tureni/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 68/2020 privind aprobarea contului de execuție al bugetului local al comunei Tureni la 30 septembrie 2020",
+"short": "HCL Tureni nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-15",
+"latest": "2020-10-15",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/14790",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

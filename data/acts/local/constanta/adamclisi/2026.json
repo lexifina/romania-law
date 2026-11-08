@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-7-2026",
+"path": "local/constanta/adamclisi/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 7/2026 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/257697",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-8-2026",
 "path": "local/constanta/adamclisi/2026/8",
 "kind": "local",
@@ -155,6 +177,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-9-2026",
+"path": "local/constanta/adamclisi/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 9/2026 privind aprobarea inchirierii prin atribuire directa a suprafetei de 1543,14 ha pajiste comunala aflata in extravilan, apartinand domeniului privat al comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-11",
+"latest": "2026-10-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/264711",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

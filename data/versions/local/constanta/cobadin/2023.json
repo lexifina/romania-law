@@ -3,6 +3,21 @@
  "shard": "local/constanta/cobadin/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--cobadin-1-2023",
+   "path": "local/constanta/cobadin/2023/1",
+   "short": "HCL Cobadin nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 1/2023 privind aprobarea folosirii excedentului bugetului local al Comunei Cobadin, judetul Constanța, rezultat la încheierea exercițiului bugetar al anului 2022 Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 18.01.2023, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea folosirii excedentului bugetului local al Comunei C",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/01/HCL_18-01-2023.pdf",
+     "sha256": "e2395e8d59918cb28a99842df75e91852025a9de4f4070799cd73a8d3b2e87e1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cobadin-101-2023",
    "path": "local/constanta/cobadin/2023/101",
    "short": "HCL Cobadin nr. 101/2023",
@@ -14,6 +29,201 @@
      "units": 1,
      "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/10/HCL_02-10-2023.pdf",
      "sha256": "0f1e695aa9fc138b7fe14af1e51057d9fd205114d6c908aaad91ab5e086a39e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-108-2023",
+   "path": "local/constanta/cobadin/2023/108",
+   "short": "HCL Cobadin nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 108/2023 privind aprobarea indicatorilor tehnico-economici proiectului “Stații încărcare mașini electrice în Comuna Cobadin, Județul Constanța” - faza SF Consiliul Local al Comunei Cobadin, jud.Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 26.10.2023, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea indicatorilor tehnico-economici proiectului “Stații încărcare maș",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/11/HCL_26-10-2023.pdf",
+     "sha256": "c1c1646fa7256f6cb4fe5f0d2873d68977ecb0c407273f9b386e10931316effc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-110-2023",
+   "path": "local/constanta/cobadin/2023/110",
+   "short": "HCL Cobadin nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 110/2023 privind desemnarea reprezentanților Consiliului local al Comunei Cobadin, jud",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/11/HCL_31-10-2023.pdf",
+     "sha256": "96692f74c4876ac0aaa7df18ce45d454d39f746969e875394636a210a22d8ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-112-2023",
+   "path": "local/constanta/cobadin/2023/112",
+   "short": "HCL Cobadin nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 112/2023 privind depunerea și implementarea proiectului, aprobarea Studiului de Fezabilitate și a indicatorilor tehnico- economici pentru obiectivul de investitie “CONSTRUIRE PARC FOTOVOLTAIC 400kWp PENTRU AUTOCONSUM ” finanțat prin Planul Național Integrat în domeniul Energiei și Schimbărilor Climatice, Fondul pentru Modernizare - Sprijinirea investițiilor în noi capacități de producere a energiei electri",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/11/HCL_14-11-2023.pdf",
+     "sha256": "ca51b3d3ccf705f6f75995ffbe3a0f3f63c3c874e08b8a3a37a5dabdebb54d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-117-2023",
+   "path": "local/constanta/cobadin/2023/117",
+   "short": "HCL Cobadin nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 117/2023 privind aprobarea suplimentării valorii contractului pentru obiectivul de investiții ”Reabilitare, modernizare și construire infrastructură educațională pentru învățământul primar și gimnazial din Comuna Cobadin, județul Constanța” Cod SMIS 121213 Consiliul Local al Comunei Cobadin, jud.Constanța, întrunit în ședința EXTRAORDINARĂ – convocată în data de 27.11.2023, Având în vedere: ✓ Proiectul de",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/12/HCL_27-11-2023.pdf",
+     "sha256": "37c1cca4bfc6686b38fd2e0409b14a8e116c25e7daba1e70aa7e3d13d3aeff8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-121-2023",
+   "path": "local/constanta/cobadin/2023/121",
+   "short": "HCL Cobadin nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 121/2023 privind aprobarea modificării și completării HCL nr. 117/27.11.2023 privind aprobarea suplimentării valorii contractului pentru obiectivul de investiții ”Reabilitare, modernizare și construire infrastructură educațională pentru învățământul primar și gimnazial din Comuna Cobadin, județul Constanța” Cod SMIS 121213 Consiliul Local al Comunei Cobadin, jud.Constanța, întrunit în ședința EXTRAORDINARĂ",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/12/HCL_12-12-2023.pdf",
+     "sha256": "50ffb9425ac1ddbc5c641c2aa2a64190952ab43a5b4122a084465418f73be152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-124-2023",
+   "path": "local/constanta/cobadin/2023/124",
+   "short": "HCL Cobadin nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 124/2023 privind alegerea Președintelui de ședință pentru un mandat de 3 luni, respectiv lunile IANUARIE, FEBRUARIE și MARTIE 2024, care va conduce ședințele Consiliului Local al Comunei Cobadin, jud",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2024/02/HCL_21-12.pdf",
+     "sha256": "e557910e31dd7369000fb6760946ea7cdb9d6ba412bcca0079545c3ab8d9e4e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-19-2023",
+   "path": "local/constanta/cobadin/2023/19",
+   "short": "HCL Cobadin nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 19/2023 privind aprobarea documentației tehnico-economică și a indicatorilor tehnico-economici ai proiectului ”Sisteme individuale adecvate (SIA) de colectare și epurare a apelor uzate și sistemul de distribuție a alimentării cu apă în localitatea Negrești, comuna Cobadin, județul Constanța’’ Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/02/HCL_14-02-2023.pdf",
+     "sha256": "cbdd1dfeb0967091d317561aa4ef2ebd60cb3e278799b64554f14d582464258d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-22-2023",
+   "path": "local/constanta/cobadin/2023/22",
+   "short": "HCL Cobadin nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 22/2023 privind aprobarea indicatorilor tehnico-economici revizuți pentru realizarea investiției „REABILITARE DRUM COMUNAL DC26 CONACU” după semnarea contractului de proiectare și execuție Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 08.03.2023, Având în vedere: - Proiectul de Hotărâre privind aprobarea indicatorilor tehnico-eco",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/03/HCL_08-03-2023.pdf",
+     "sha256": "d34027ec943a30732b3f48e3dad6ffbc3bb087419adc28af45d803d9e3ed39dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-43-2023",
+   "path": "local/constanta/cobadin/2023/43",
+   "short": "HCL Cobadin nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 43/2023 privind aprobarea Strategiei de Dezvoltare Locală a comunei Cobadin, județul Constanța, pentru perioada 2023-2028 Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 24.03.2023, Având în vedere: - Proiectul de Hotărâre privind aprobarea Strategiei de Dezvoltare Locală a comunei Cobadin, județul Constanța, pentru perioada 2023-2",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/03/HCL_24-03-2023.pdf",
+     "sha256": "f9d23cd49321221636810dad236a2db5aecf07bb7ca3d5f622f366980c9ee722"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-47-2023",
+   "path": "local/constanta/cobadin/2023/47",
+   "short": "HCL Cobadin nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 47/2023 privind aprobarea modificării si completarii Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare, nr. 16 / 46300 / 05.11.2009, Anexa la Regulament Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 26.04.2023, Având in vedere: ✓ Proiectul de Hotărâre privind aprobarea modificării si c",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/05/HCL_26-04-2023.pdf",
+     "sha256": "a1e4606aa3c532316516ec439a3e5d3e91903d9ae45c5724bdd00c123c54c10d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-63-2023",
+   "path": "local/constanta/cobadin/2023/63",
+   "short": "HCL Cobadin nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 63/2023 privind aprobarea aderării Comunei Cobadin, Județul Constanța la parteneriatul ”Grup de acțiune locală Dobrogea Sud-Vest” Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 09.05.2023 Având în vedere: ✓ Proiectul de hotarare privind aprobarea aderării Comunei Cobadin, Județul Constanța la parteneriatul ”Grup de acțiune locală",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/05/HCL_09-05-2023.pdf",
+     "sha256": "52334d0fb1bb209f283c1e464e4b18cc0e76afdf8f96ca39bd2389ec9dd5b5a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-68-2023",
+   "path": "local/constanta/cobadin/2023/68",
+   "short": "HCL Cobadin nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 68/2023 privind aprobarea delegarii dreptului de depunere a Cererii de finanțare a proiectului „Dotarea cu microbuze electrice pentru elevi a unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța” Componenta C15: Educație, Investiția 10: „Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi”, finanțat din bugetul Ministerului",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/06/HCL_31-05-2023.pdf",
+     "sha256": "d888f902aad28c510983c63dc0b21ebe19a8b206d7840286eeb88f8953847765"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-96-2023",
+   "path": "local/constanta/cobadin/2023/96",
+   "short": "HCL Cobadin nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 96/2023 privind alegerea Președintelui de ședință pentru un mandat de 3 luni, respectiv lunile AUGUST, SEPTEMBRIE si OCTOMBRIE 2023, care va conduce ședințele Consiliului Local al Comunei Cobadin, judetul Constanța Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 27.07..2023",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2023/08/HCL_27-07-2023.pdf",
+     "sha256": "ec65a91201b1d6ca5599c43b20de9e826a724842ca18f873f602a4a04b140c40"
     }
    ]
   }

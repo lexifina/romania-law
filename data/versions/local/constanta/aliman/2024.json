@@ -3,6 +3,36 @@
  "shard": "local/constanta/aliman/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--aliman-1-2024",
+   "path": "local/constanta/aliman/2024/1",
+   "short": "HCL Aliman nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 1/2024 privind utilizarea excedentului bugetului local rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197102",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-10-2024",
+   "path": "local/constanta/aliman/2024/10",
+   "short": "HCL Aliman nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 10/2024 privind aprobarea rectificării bugetului local al comunei Aliman pe anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197157",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197157",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-11-2024",
    "path": "local/constanta/aliman/2024/11",
    "short": "HCL Aliman nr. 11/2024",
@@ -13,6 +43,21 @@
      "from": "2025-03-17",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/197158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-12-2024",
+   "path": "local/constanta/aliman/2024/12",
+   "short": "HCL Aliman nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 12/2024 privind scoaterea din evidențele Primăriei Comunei Aliman a unor creanțe fiscale",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197159",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197159",
      "sha256": null
     }
    ]
@@ -93,6 +138,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-18-2024",
+   "path": "local/constanta/aliman/2024/18",
+   "short": "HCL Aliman nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 18/2024 privind aprobarea rectificării bugetului local al comunei Aliman pe anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197175",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-19-2024",
+   "path": "local/constanta/aliman/2024/19",
+   "short": "HCL Aliman nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 19/2024 privind aprobarea încheierii exerciuțiului bugetar al anului 2023",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197182",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-2-2024",
+   "path": "local/constanta/aliman/2024/2",
+   "short": "HCL Aliman nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 2/2024 privind aprobarea aderării Comunei Aliman, Județul Constanța, la Asociația Grup Local Dobrogea Nord",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197103",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-20-2024",
+   "path": "local/constanta/aliman/2024/20",
+   "short": "HCL Aliman nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 20/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197183",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-21-2024",
+   "path": "local/constanta/aliman/2024/21",
+   "short": "HCL Aliman nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 21/2024 privind stabilirea situațiilor de necesitate și a altor situații deosebite în care primarul poate acorda ajutoare de urgență, conform Legii nr. 196/2016",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197184",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-22-2024",
+   "path": "local/constanta/aliman/2024/22",
+   "short": "HCL Aliman nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 22/2024 privind aprobarea repartizării unor sume de la bugetul local al comunei Aliman pentru asigurarea unor servicii de proiectare în vederea efectuării de lucrări de reparații curente la Biserica cu Hramul „Adormirea Maicii Domnului” din satul Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197185",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-23-2024",
+   "path": "local/constanta/aliman/2024/23",
+   "short": "HCL Aliman nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 23/2024 privind stabilirea cotei de consum de carburant pentru autoturimul Primăriei Comunei Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197196",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197196",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-24-2024",
    "path": "local/constanta/aliman/2024/24",
    "short": "HCL Aliman nr. 24/2024",
@@ -103,6 +253,111 @@
      "from": "2025-03-17",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/197212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-25-2024",
+   "path": "local/constanta/aliman/2024/25",
+   "short": "HCL Aliman nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 25/2024 privind modificarea regulamentului privind procedura de eliberare a avizului pentru programul de funcționare și/sau a autorizației de funcționare pentru desfășurarea activităților comerciale pe raza comunei Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197213",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-26-2024",
+   "path": "local/constanta/aliman/2024/26",
+   "short": "HCL Aliman nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 26/2024 privind aprobarea prelungirii contractului de închiriere a spațiului unde funcționează farmacia umană din cadrul clădirii Dispensarului medical Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197214",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-27-2024",
+   "path": "local/constanta/aliman/2024/27",
+   "short": "HCL Aliman nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 27/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197215",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-28-2024",
+   "path": "local/constanta/aliman/2024/28",
+   "short": "HCL Aliman nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 28/2024 privind revocarea Hotărârii Consiliului Local Aliman nr. 57 din 19 decembrie 2023 privind aprobarea unei indemnizații lunare pentru persoana adultă cu handicap „cu asistent personal” OLTEANU Constanti din satul Dunăreni",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197216",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-29-2024",
+   "path": "local/constanta/aliman/2024/29",
+   "short": "HCL Aliman nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 29/2024 privind alegerea președintelui de ședință al Consiliului Local Aliman, pentru conducerea lucrărilor ședinței ce va avea loc în data 30 aprilie 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197241",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-3-2024",
+   "path": "local/constanta/aliman/2024/3",
+   "short": "HCL Aliman nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 3/2024 privind alegerea președintelui de ședință al Consiliului Local Aliman pentru o perioadă de 3 luni (februarie 2024-aprilie 2024)",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197105",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-30-2024",
+   "path": "local/constanta/aliman/2024/30",
+   "short": "HCL Aliman nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 30/2024 privind alegerea președintelui de ședință al Consiliului Local Aliman pentru o perioadă de 3 luni (mai-iulie 2024)",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197242",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197242",
      "sha256": null
     }
    ]
@@ -138,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-33-2024",
+   "path": "local/constanta/aliman/2024/33",
+   "short": "HCL Aliman nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 33/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197254",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197254",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-34-2024",
    "path": "local/constanta/aliman/2024/34",
    "short": "HCL Aliman nr. 34/2024",
@@ -148,6 +418,21 @@
      "from": "2025-03-18",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/197255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-35-2024",
+   "path": "local/constanta/aliman/2024/35",
+   "short": "HCL Aliman nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 35/2024 privind aprobarea execuției bugetare pe trimestrul I, anul 2024, întocmită la data de 31.03.2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197260",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197260",
      "sha256": null
     }
    ]
@@ -168,6 +453,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-37-2024",
+   "path": "local/constanta/aliman/2024/37",
+   "short": "HCL Aliman nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 37/2024 privind acordarea unui mandat special reprezentantului Comunei Aliman să voteze în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197263",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-38-2024",
+   "path": "local/constanta/aliman/2024/38",
+   "short": "HCL Aliman nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 38/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197269",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-39-2024",
    "path": "local/constanta/aliman/2024/39",
    "short": "HCL Aliman nr. 39/2024",
@@ -183,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-4-2024",
+   "path": "local/constanta/aliman/2024/4",
+   "short": "HCL Aliman nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 4/2024 privind aprobarea Planului de acțiuni/lucrări de interes local aplicabil persoanelor apte de muncă beneficiare de venitul minim de incluziune din comuna Aliman, pe anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197110",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197110",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-40-2024",
    "path": "local/constanta/aliman/2024/40",
    "short": "HCL Aliman nr. 40/2024",
@@ -193,6 +523,276 @@
      "from": "2025-03-18",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/197278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-41-2024",
+   "path": "local/constanta/aliman/2024/41",
+   "short": "HCL Aliman nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 41/2024 privind revocarea Hotărârii Consiliului Local Aliman nr. 58 din 29 decembrie 2023 privind aprobarea unui post de „asistent personal” pentru persoana adultă cu handicap, IVANCIU Sandra-Maria din satul Dunăreni",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197282",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-42-2024",
+   "path": "local/constanta/aliman/2024/42",
+   "short": "HCL Aliman nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 42/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197288",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-43-2024",
+   "path": "local/constanta/aliman/2024/43",
+   "short": "HCL Aliman nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 43/2024 privind alegerea președintelui de ședință al Consiliului Local Aliman pentru o perioadă de 3 luni (august-octombrie 2024)",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197292",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-44-2024",
+   "path": "local/constanta/aliman/2024/44",
+   "short": "HCL Aliman nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 44/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197293",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-45-2024",
+   "path": "local/constanta/aliman/2024/45",
+   "short": "HCL Aliman nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 45/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197304",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-46-2024",
+   "path": "local/constanta/aliman/2024/46",
+   "short": "HCL Aliman nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 46/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197305",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-47-2024",
+   "path": "local/constanta/aliman/2024/47",
+   "short": "HCL Aliman nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 47/2024 privind modificarea Hotărârii Consiliului Local Aliman nr. 11 din 29.02.2024 privind aprobarea programului cu modificările cultural-artistice, sportive, religioase, sociale și educative ce se desfășoară în comuna Aliman în anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197307",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-48-2024",
+   "path": "local/constanta/aliman/2024/48",
+   "short": "HCL Aliman nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 48/2024 privind modificarea Hotărârii Consiliului Local Aliman nr. 12 din 29.02.2024 privind scoaterea din evidențele Primăriei Comunei Aliman a unor creanțe fiscale",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197308",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-49-2024",
+   "path": "local/constanta/aliman/2024/49",
+   "short": "HCL Aliman nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 49/2024 privind utilizarea excedentului bugetului local, în suma de 148.428,56 lei, rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197309",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-5-2024",
+   "path": "local/constanta/aliman/2024/5",
+   "short": "HCL Aliman nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 5/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197114",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-50-2024",
+   "path": "local/constanta/aliman/2024/50",
+   "short": "HCL Aliman nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 50/2024 privind aprobarea rectificării bugetului local al comunei Aliman pe anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197310",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-51-2024",
+   "path": "local/constanta/aliman/2024/51",
+   "short": "HCL Aliman nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 51/2024 privind aprobarea execuției bugetare pe trimestrul II, anul 2024, întocmită la data de 30.06.2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197311",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-52-2024",
+   "path": "local/constanta/aliman/2024/52",
+   "short": "HCL Aliman nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 52/2024 privind aprobarea organigramei și ștatului de funcții pentru aparatul de specialitate al primarului comunei Aliman și serviciile publice locale înființate în subordinea Consiliului Local Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197312",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-53-2024",
+   "path": "local/constanta/aliman/2024/53",
+   "short": "HCL Aliman nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 53/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197313",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-54-2024",
+   "path": "local/constanta/aliman/2024/54",
+   "short": "HCL Aliman nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 54/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197314",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-55-2024",
+   "path": "local/constanta/aliman/2024/55",
+   "short": "HCL Aliman nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 55/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197315",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-56-2024",
+   "path": "local/constanta/aliman/2024/56",
+   "short": "HCL Aliman nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 56/2024 privind aprobarea rectificării bugetului local al Comunei Aliman pe anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197316",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-57-2024",
+   "path": "local/constanta/aliman/2024/57",
+   "short": "HCL Aliman nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 57/2024 privind aprobarea repartizării sumelor necesare acordării drepturilor bănești aferente personalului didactic din cadrul unităților de învățământ de pe raza comunei Aliman care solicită cheltuieli de deplasare în anul școlar 2024-2025",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197317",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197317",
      "sha256": null
     }
    ]
@@ -223,6 +823,21 @@
      "from": "2025-03-19",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/197344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-6-2024",
+   "path": "local/constanta/aliman/2024/6",
+   "short": "HCL Aliman nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 6/2024 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Aliman și serviciilor de interes local aflate în subordinea Consiliului Local al comunei Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197115",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197115",
      "sha256": null
     }
    ]
@@ -378,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-7-2024",
+   "path": "local/constanta/aliman/2024/7",
+   "short": "HCL Aliman nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 7/2024 privind aprobarea bugetului local al comunei Aliman pe anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197116",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197116",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-70-2024",
    "path": "local/constanta/aliman/2024/70",
    "short": "HCL Aliman nr. 70/2024",
@@ -493,6 +1123,36 @@
      "from": "2025-03-19",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/197367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-8-2024",
+   "path": "local/constanta/aliman/2024/8",
+   "short": "HCL Aliman nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 8/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar ce vor funcționa în anul școlar 2024-2025, pe raza comunei Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197117",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-9-2024",
+   "path": "local/constanta/aliman/2024/9",
+   "short": "HCL Aliman nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 9/2024 privind alegerea președintelui de ședință al Consiliului Local Aliman, pentru conducerea lucrărilor ședinței ce va avea loc în data 29 februarie 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197130",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197130",
      "sha256": null
     }
    ]

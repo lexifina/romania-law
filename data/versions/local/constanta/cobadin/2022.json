@@ -3,6 +3,21 @@
  "shard": "local/constanta/cobadin/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--cobadin-1-2022",
+   "path": "local/constanta/cobadin/2022/1",
+   "short": "HCL Cobadin nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 1/2022 privind aprobarea numărului de posturi pentru asistenți personali ai persoanelor cu handicap grav la nivelul Primăriei Comunei Cobadin, jud. Constanța, pentru anul 2022 Consiliul Local al Comunei Cobadin, jud.Constanța, întrunit în ședința ORDINARĂ în data de 10.02.2022, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea numărului de posturi pentru asistenți personali ai persoanelor cu han",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2022/02/HCL_10-01.pdf",
+     "sha256": "0ef0d006ff986a2cff920762e8c070dbcb8ae6919835f1a6f8a8466f0d7ee904"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cobadin-13-2022",
    "path": "local/constanta/cobadin/2022/13",
    "short": "HCL Cobadin nr. 13/2022",
@@ -14,6 +29,81 @@
      "units": 1,
      "source_url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-DE-APROBARE-A-EXECUTIEI-BUGETARE-PENTRU-ANUL-2021.pdf",
      "sha256": "6abad9ad5cd1f664b052d47ef0ddb2e64b96a893934cc921c84bd4c2c4234a22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-60-2022",
+   "path": "local/constanta/cobadin/2022/60",
+   "short": "HCL Cobadin nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 60/2022 privind aprobarea participării la ”Programul (AFM) privind Cresterea eficientei energetice a infrastructurii de iluminat public” cu Proiectul'' Cresterea eficientei energetice a sistemului de iluminat public în comuna COBADIN, judetul CONSTANTA” Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 17.08.2022, Având în vedere: ✓",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2022/08/HCL_17-08-2022.pdf",
+     "sha256": "08fb71e22a7860efb981b1a2ddd21dcf53a48ae254e9550af9806ff0a348aeac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-62-2022",
+   "path": "local/constanta/cobadin/2022/62",
+   "short": "HCL Cobadin nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 62/2022 privind aprobarea depunerii proiectului RENOVAREA INTEGRATA A CLADIRII PUBLICE CORP C3 - SCOALA GENERALA VECHE, LOC. VIISOARA, COM. COBADIN în vederea finanțării acestuia din Planul național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C5/2/B.1/1, componenta 5 — Valul renovării, axa 2 — Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiu",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2022/08/HCL_26-08-2022.pdf",
+     "sha256": "734836afe1d6db928d26794131a70d8331a5e8bec943744fb8ec08ca0a24dcd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-76-2022",
+   "path": "local/constanta/cobadin/2022/76",
+   "short": "HCL Cobadin nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 76/2022 privind aprobarea rectificării nr. 5 a bugetului de venituri și cheltuieli al Comunei Cobadin, judetul Constanța, aferent anului 2022 Consiliul Local al Comunei Cobadin, judetulConstanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 06.10.2022, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea rectificării nr. 5 a bugetului de venituri și cheltuieli al Comunei Cobad",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2022/10/HCL_06-10-2022.pdf",
+     "sha256": "c9a3cb49e25e3d8c5fbe8a2b2a23dcb43510330e7c061a740e04242d5207c1d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-77-2022",
+   "path": "local/constanta/cobadin/2022/77",
+   "short": "HCL Cobadin nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 77/2022 privind aprobarea depunereii și participarea în cadrul proiectului <REABILITARE MODERATĂ A CLĂDIRII PUBLICE CĂMIN CULTURAL, LOCALITATEA VIIȘOARA, COMUNA COBADIN, JUDEȚUL CONSTAȚA> în vederea finanțării acestuia prin Planul Național de Redresare și Reziliență, Componenta C10 – Fond local, Investitia I.3 – Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice d",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2022/10/HCL_13-10-2022.pdf",
+     "sha256": "225770109951c70e7145ac3cb2c78020252b9edf9bafa25ab78ebe70f1f9ed61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-89-2022",
+   "path": "local/constanta/cobadin/2022/89",
+   "short": "HCL Cobadin nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 89/2022 privind aprobarea rectificării nr. 7 a bugetului de venituri și cheltuieli al Comunei Cobadin, judetul Constanța, aferent anului 2022 Consiliul Local al Comunei Cobadin, judetulConstanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 24.11.2022, Având în vedere: Proiectul de Hotărâre privind aprobarea rectificării nr. 7 a bugetului de venituri și cheltuieli al Comunei Cobadin",
+   "url": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2022/11/HCL_24-11-2022.pdf",
+     "sha256": "bf9a45fca86afca6e2db404f24a0f23673f697548d45cc27a911c07720aa471f"
     }
    ]
   }

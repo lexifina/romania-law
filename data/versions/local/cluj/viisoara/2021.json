@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-27-2021",
+   "path": "local/cluj/viisoara/2021/27",
+   "short": "HCL Viișoara nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42402",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42402",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-28-2021",
    "path": "local/cluj/viisoara/2021/28",
    "short": "HCL Viișoara nr. 28/2021",
@@ -348,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-31-2021",
+   "path": "local/cluj/viisoara/2021/31",
+   "short": "HCL Viișoara nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 31/2021 Privind acordarea unui sprijin financiar d-rei Tasnadi Nora în vederea participării la concursul X-factor",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42410",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42410",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-32-2021",
    "path": "local/cluj/viisoara/2021/32",
    "short": "HCL Viișoara nr. 32/2021",
@@ -363,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-33-2021",
+   "path": "local/cluj/viisoara/2021/33",
+   "short": "HCL Viișoara nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 33/2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42412",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42412",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-34-2021",
    "path": "local/cluj/viisoara/2021/34",
    "short": "HCL Viișoara nr. 34/2021",
@@ -373,6 +418,21 @@
      "from": "2021-08-27",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-35-2021",
+   "path": "local/cluj/viisoara/2021/35",
+   "short": "HCL Viișoara nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 35/2021 Privind aprobarea vânzării prin negociere directă către societatea DEE România",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42414",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42414",
      "sha256": null
     }
    ]
@@ -433,6 +493,21 @@
      "from": "2021-10-05",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/44517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-4-2021",
+   "path": "local/cluj/viisoara/2021/4",
+   "short": "HCL Viișoara nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 4/2021 privind aprobarea unor măsuri privind ducerea la indeplinire a prevederilor Legii nr. 416/2001, privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23369",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23369",
      "sha256": null
     }
    ]
@@ -588,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-5-2021",
+   "path": "local/cluj/viisoara/2021/5",
+   "short": "HCL Viișoara nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 5/2021 privind reorganizarea rețelei școlare pentru anul școlar 2021/2022 pe raza comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23370",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23370",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-50-2021",
    "path": "local/cluj/viisoara/2021/50",
    "short": "HCL Viișoara nr. 50/2021",
@@ -733,6 +823,51 @@
      "from": "2021-12-27",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/47654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-6-2021",
+   "path": "local/cluj/viisoara/2021/6",
+   "short": "HCL Viișoara nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 6/2021 privind aprobarea prelungirii valabilității Plan Urbanistic General al Comunei Viișoara cu Regulamentul local de urbanism aferent acestuia",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23371",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-7-2021",
+   "path": "local/cluj/viisoara/2021/7",
+   "short": "HCL Viișoara nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 7/2021 privind aprobarea cuantumului cotizației lunare pentru susținerea activităților ASOCIAȚIEI ” POLUL AGRO-ZOOTEHNIC-INDUSTRIAL ARIEȘ-PAZIA”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23372",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-8-2021",
+   "path": "local/cluj/viisoara/2021/8",
+   "short": "HCL Viișoara nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 8/2021 privind scoaterea din funcțiune în vederea casării și valorificării unor mijloace fixe din patrimonal primăriei comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23373",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23373",
      "sha256": null
     }
    ]

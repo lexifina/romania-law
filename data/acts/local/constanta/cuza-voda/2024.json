@@ -3,6 +3,28 @@
 "shard": "local/constanta/cuza-voda/2024",
 "acts": [
 {
+"slug": "hcl-constanta--cuza-voda-1-2024",
+"path": "local/constanta/cuza-voda/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 1/2024 privind desemnarea președintelui de ședință pentru lunile: ianuarie, februarie, martie 2024",
+"short": "HCL Cuza Vodă nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/137072",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cuza-voda-2-2024",
 "path": "local/constanta/cuza-voda/2024/2",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Cuza Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-9-2024",
+"path": "local/constanta/cuza-voda/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 9/2024 privind individualizarea indemnizațiilor pentru demnitari, precum și a salariilor de bază aferente funcțiilor publice și contractuale din cadrul aparatului de specialitate al primarului comunei Cuza Vodă, începând cu luna ianuarie 2024",
+"short": "HCL Cuza Vodă nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/137080",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -779,6 +823,28 @@
 }
 },
 {
+"slug": "hcl-constanta--cuza-voda-38-2024",
+"path": "local/constanta/cuza-voda/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 38/2024 privind aprobarea închirierii prin atribuire directă a unor suprafețe de pășune aflate în propietate privată a comunei Cuza Vodă către crescători de animale, membri ai comunității locale Cuza Vodă",
+"short": "HCL Cuza Vodă nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148532",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cuza-voda-39-2024",
 "path": "local/constanta/cuza-voda/2024/39",
 "kind": "local",
@@ -798,6 +864,75 @@
 "council_name": "Consiliul Local al Comunei Cuza Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-40-2024",
+"path": "local/constanta/cuza-voda/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 40/2024",
+"short": "HCL Cuza Vodă nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148534",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-41-2024",
+"path": "local/constanta/cuza-voda/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 41/2024",
+"short": "HCL Cuza Vodă nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148535",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-42-2024",
+"path": "local/constanta/cuza-voda/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 42/2024",
+"short": "HCL Cuza Vodă nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148536",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -845,6 +980,96 @@
 }
 },
 {
+"slug": "hcl-constanta--cuza-voda-45-2024",
+"path": "local/constanta/cuza-voda/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 45/2024 privind aprobarea întocmirii documentațiilor: studiu de oportunitate, raport de evaluare, caiet de sarcini pentru terenul situat în P 147/1, P 147/2, P 146/2 în vederea concesionării",
+"short": "HCL Cuza Vodă nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148539",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-46-2024",
+"path": "local/constanta/cuza-voda/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 46/2024",
+"short": "HCL Cuza Vodă nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148540",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-47-2024",
+"path": "local/constanta/cuza-voda/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 47/2024",
+"short": "HCL Cuza Vodă nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148541",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-48-2024",
+"path": "local/constanta/cuza-voda/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 48/2024 privind aprobarea întocmirii documentațiilor: studiu de oportunitate, raport de evaluare, caiet de sarcini pentru terenul situat - lot 50/2 - în vederea vânzării",
+"short": "HCL Cuza Vodă nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148542",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cuza-voda-49-2024",
 "path": "local/constanta/cuza-voda/2024/49",
 "kind": "local",
@@ -886,6 +1111,72 @@
 "council_name": "Consiliul Local al Comunei Cuza Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-51-2024",
+"path": "local/constanta/cuza-voda/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 51/2024 privind aprobarea prelungirii contractului de închiriere a spațiilor cu destinația de cabinet medical – medicina de familie din incinta Clădire Administrativă Dispensar",
+"short": "HCL Cuza Vodă nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148545",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-52-2024",
+"path": "local/constanta/cuza-voda/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 52/2024 privind aprobarea prelungirii contractului de închiriere a spațiilor cu destinația de farmacie din incinta Clădire Administrativă Dispensar",
+"short": "HCL Cuza Vodă nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148546",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-53-2024",
+"path": "local/constanta/cuza-voda/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 53/2024 privind aprobarea prelungirii contractului de închiriere a spațiilor cu destinația de cabinet stomatologic din incinta Clădire Administrativă SPAC",
+"short": "HCL Cuza Vodă nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148547",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1045,6 +1336,28 @@
 }
 },
 {
+"slug": "hcl-constanta--cuza-voda-61-2024",
+"path": "local/constanta/cuza-voda/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 61/2024 privind desemnarea președintelui de ședință pentru lunile: aprilie, mai, iunie 2024",
+"short": "HCL Cuza Vodă nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/148555",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cuza-voda-62-2024",
 "path": "local/constanta/cuza-voda/2024/62",
 "kind": "local",
@@ -1086,6 +1399,142 @@
 "council_name": "Consiliul Local al Comunei Cuza Vodă",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-64-2024",
+"path": "local/constanta/cuza-voda/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 64/2024 privind aprobarea concesionării prin licitație publică a terenului situat în P 147/1, P 147/2, P 146/2",
+"short": "HCL Cuza Vodă nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/152585",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-65-2024",
+"path": "local/constanta/cuza-voda/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 65/2024",
+"short": "HCL Cuza Vodă nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/152586",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-66-2024",
+"path": "local/constanta/cuza-voda/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 66/2024",
+"short": "HCL Cuza Vodă nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/152587",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-67-2024",
+"path": "local/constanta/cuza-voda/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 67/2024 privind aprobarea vânzării prin licitație publică a imobilului (teren) în suprafață de 27381 mp, înscris în CF 102422, nr. cadastral 102422 situat în lot 50/2 din domeniul privat al comunei Cuza Vodă",
+"short": "HCL Cuza Vodă nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/152588",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-68-2024",
+"path": "local/constanta/cuza-voda/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 68/2024",
+"short": "HCL Cuza Vodă nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/152589",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-69-2024",
+"path": "local/constanta/cuza-voda/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 69/2024",
+"short": "HCL Cuza Vodă nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/152590",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1309,6 +1758,28 @@
 "council_name": "Consiliul Local al Comunei Cuza Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-80-2024",
+"path": "local/constanta/cuza-voda/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 80/2024 privind desemnarea președintelui de ședință pentru lunile: iulie, august, septembrie 2024",
+"short": "HCL Cuza Vodă nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-12",
+"latest": "2024-08-12",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/163944",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

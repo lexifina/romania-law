@@ -3,6 +3,261 @@
  "shard": "local/cluj/viisoara/2023",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-1-2023",
+   "path": "local/cluj/viisoara/2023/1",
+   "short": "HCL Viișoara nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 1/2023 privind aprobarea acoperirii definitive a deficitului bugetar din excedentul bugetului local al anului 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116960",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-10-2023",
+   "path": "local/cluj/viisoara/2023/10",
+   "short": "HCL Viișoara nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 10/2023 privind darea în administrare a unor bunuri mobile și imobile, proprietate publică a UAT Comuna Viișoara, județul Cluj, către Școala Gimnazială Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116969",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-11-2023",
+   "path": "local/cluj/viisoara/2023/11",
+   "short": "HCL Viișoara nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 11/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116970",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-12-2023",
+   "path": "local/cluj/viisoara/2023/12",
+   "short": "HCL Viișoara nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 12/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții „Digitalizarea în folosul cetățenilor COMUNEI Viișoara, județul Cluj”, în vederea atragerii de fonduru nerambursabile în cadrul Planului Național de Redresare și Reziliență(PNRR), Componenta 10 - Fondul Local",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116975",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-13-2023",
+   "path": "local/cluj/viisoara/2023/13",
+   "short": "HCL Viișoara nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 13/2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116987",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-14-2023",
+   "path": "local/cluj/viisoara/2023/14",
+   "short": "HCL Viișoara nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 14/2023 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli Al comunei Viișoara la 31.12.2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116988",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-15-2023",
+   "path": "local/cluj/viisoara/2023/15",
+   "short": "HCL Viișoara nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 15/2023 privind aprobarea Planului Urbanistic de Detaliu - CONSTRUIRE CASĂ DE LOCUIT UNIFAMILIALĂ P, IMPPREJMUIRE TEREN",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116989",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-16-2023",
+   "path": "local/cluj/viisoara/2023/16",
+   "short": "HCL Viișoara nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 16/2023 privind aprobarea achiziționării de servicii de consultanță, de asistență și/sau de reprezentare în dosarul civ. Nr.9771/3/ 2022 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116990",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-17-2023",
+   "path": "local/cluj/viisoara/2023/17",
+   "short": "HCL Viișoara nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116991",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-18-2023",
+   "path": "local/cluj/viisoara/2023/18",
+   "short": "HCL Viișoara nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli, din lista de investiții pentru anul 2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116992",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-19-2023",
+   "path": "local/cluj/viisoara/2023/19",
+   "short": "HCL Viișoara nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și solidarității Sociale (MMSS) și UAT Viișoara, județul Cluj, referitor la colaborarea instituțională în cadrul Proiectului „HUB de Servicii MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116993",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-2-2023",
+   "path": "local/cluj/viisoara/2023/2",
+   "short": "HCL Viișoara nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 2/2023 privind aprobarea utilizării excedentului bugetar la finele anului 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116961",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-20-2023",
+   "path": "local/cluj/viisoara/2023/20",
+   "short": "HCL Viișoara nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2023 privind stabilirea impozitelor și taxelor locale pe anul 2024 la nivelul comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116994",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-21-2023",
+   "path": "local/cluj/viisoara/2023/21",
+   "short": "HCL Viișoara nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2023 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli Al comunei Viișoara la 31.03.2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116995",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-22-2023",
+   "path": "local/cluj/viisoara/2023/22",
+   "short": "HCL Viișoara nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 22/2023 privind aprobarea cuantumului cotizației pentru suținerea activităților ASOCIAȚIEI ”POLUL AGRO-ZOOTEHNIC-INDUSTRIAL ARIEȘ-PAZIA”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116996",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-23-2023",
+   "path": "local/cluj/viisoara/2023/23",
+   "short": "HCL Viișoara nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 23/2023 privind aprobarea programului de măsuri pentru îmbunătățirea activității de gospodărire a comunei Viișoara, județul Cluj pentru anul 2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116997",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-24-2023",
+   "path": "local/cluj/viisoara/2023/24",
+   "short": "HCL Viișoara nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 24/2023 privind însușirea variantei finale a proiectului de stemă a comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116998",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116998",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-25-2023",
    "path": "local/cluj/viisoara/2023/25",
    "short": "HCL Viișoara nr. 25/2023",
@@ -18,6 +273,96 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-26-2023",
+   "path": "local/cluj/viisoara/2023/26",
+   "short": "HCL Viișoara nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2023 privind modificare și completare a HCL nr. 26/27.05.2022 privind participarea la ''Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități'' și aprobarea indicatorilor tehnico-economici pentru proiectul ''Realizare stații de reîncărcare pentru autovehicule electrice, în comuna Viișoara, județul Cluj''",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117001",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-27-2023",
+   "path": "local/cluj/viisoara/2023/27",
+   "short": "HCL Viișoara nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2023 privind acordarea sumei de 10.000 lei de la bugetul local al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117002",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-28-2023",
+   "path": "local/cluj/viisoara/2023/28",
+   "short": "HCL Viișoara nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2023 privind acordarea sumei de 100.000 lei de la bugetul local al comunei Viișoara, Parohiei Ortodoxe Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117003",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-29-2023",
+   "path": "local/cluj/viisoara/2023/29",
+   "short": "HCL Viișoara nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2023 privind acordarea sumei de 10.000 lei de la bugetul local al comunei Viișoara, Parohiei ortodoxe Turda-Hărcana",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117004",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-3-2023",
+   "path": "local/cluj/viisoara/2023/3",
+   "short": "HCL Viișoara nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 3/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții,a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare infrastructură rutieră în localitățile Viișoara și Urca, comuna Viișoara, județul Cluj”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116962",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-30-2023",
+   "path": "local/cluj/viisoara/2023/30",
+   "short": "HCL Viișoara nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 30/2023 privind acordarea sumei de 20.000 lei de la bugetul local al comunei Viișoara, Parohiei reformate Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117005",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117005",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-31-2023",
    "path": "local/cluj/viisoara/2023/31",
    "short": "HCL Viișoara nr. 31/2023",
@@ -28,6 +373,21 @@
      "from": "2024-01-23",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-32-2023",
+   "path": "local/cluj/viisoara/2023/32",
+   "short": "HCL Viișoara nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2023 privind aprobarea completării strategiei de Dezvoltare Locală a comunei Viișoara pentru perioada 2021-2027",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117031",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117031",
      "sha256": null
     }
    ]
@@ -63,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-35-2023",
+   "path": "local/cluj/viisoara/2023/35",
+   "short": "HCL Viișoara nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 35/2023 privind aprobarea deplasării formației de dansuri populare din satul Urca, comuna Viișoara, județul Cluj, în comuna Drăsliceni, Raionul Criuleni, Republica Moldova, în perioada 15.07. - 18.07.2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/117045",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/117045",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-36-2023",
    "path": "local/cluj/viisoara/2023/36",
    "short": "HCL Viișoara nr. 36/2023",
@@ -93,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-38-2023",
+   "path": "local/cluj/viisoara/2023/38",
+   "short": "HCL Viișoara nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 38/2023 privind acordarea de la bugetul local al comunei Viișoara, Parohiei ortodoxe Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138533",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-39-2023",
    "path": "local/cluj/viisoara/2023/39",
    "short": "HCL Viișoara nr. 39/2023",
@@ -103,6 +493,141 @@
      "from": "2024-01-23",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-4-2023",
+   "path": "local/cluj/viisoara/2023/4",
+   "short": "HCL Viișoara nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 4/2023 privind aprobarea achiziționării de servicii de consultanță, de asistență de reprezentare în dosarul civ. Nr.4022/328/2022 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116963",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-40-2023",
+   "path": "local/cluj/viisoara/2023/40",
+   "short": "HCL Viișoara nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 40/2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138538",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-41-2023",
+   "path": "local/cluj/viisoara/2023/41",
+   "short": "HCL Viișoara nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 41/2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138539",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-42-2023",
+   "path": "local/cluj/viisoara/2023/42",
+   "short": "HCL Viișoara nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 42/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138543",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-43-2023",
+   "path": "local/cluj/viisoara/2023/43",
+   "short": "HCL Viișoara nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 43/2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138544",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-44-2023",
+   "path": "local/cluj/viisoara/2023/44",
+   "short": "HCL Viișoara nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 44/2023 privind constituirea echipei mobile pentru intervenția în cazurile de violență domestică pe raza comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138545",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-45-2023",
+   "path": "local/cluj/viisoara/2023/45",
+   "short": "HCL Viișoara nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 45/2023 privind aprobarea lucrărilor care se execută pe domeniul public și privat al comunei Viișoara, pentru lucrarea „Amenajarea Râului Arieș și afluneți pentru apărare împotriva inundațiilor a localităților Câmpeni, Baia de Arieș, Lunca Arieșului și aval acumulare Mihoiești, județul Alba și Cluj”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138546",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-46-2023",
+   "path": "local/cluj/viisoara/2023/46",
+   "short": "HCL Viișoara nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 46/2023 privind aprobarea realizării Contractului de administrare nr. 2388 din 30.12.2014 încheiat între UAT VIIȘOARA și Ocolul Silvic Valea Ierii SRL",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138547",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-47-2023",
+   "path": "local/cluj/viisoara/2023/47",
+   "short": "HCL Viișoara nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 47/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României în perioada 2023-2029 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul unităților școlare din cadrul UAT VIIȘOARA pentru perioada 2023-2029",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/138548",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138548",
      "sha256": null
     }
    ]
@@ -133,6 +658,21 @@
      "from": "2024-01-23",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-5-2023",
+   "path": "local/cluj/viisoara/2023/5",
+   "short": "HCL Viișoara nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 5/2023 privind aprobarea achiziționării de servicii de consultanță, de asistență și/sau/ de reprezentare în dosarul civ.Nr.4016/328/2022 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116964",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116964",
      "sha256": null
     }
    ]
@@ -288,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-6-2023",
+   "path": "local/cluj/viisoara/2023/6",
+   "short": "HCL Viișoara nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 6/2023 privind aprobarea bugetului local de venituri și cheltuieli, lista de investiții pentru 2023",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116965",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-60-2023",
    "path": "local/cluj/viisoara/2023/60",
    "short": "HCL Viișoara nr. 60/2023",
@@ -403,6 +958,51 @@
      "from": "2024-01-23",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/138585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-7-2023",
+   "path": "local/cluj/viisoara/2023/7",
+   "short": "HCL Viișoara nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 7/2023 privind reorganizarea rețelei școlare pentru anul școlar 2023 / 2024 pe raza comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116966",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-8-2023",
+   "path": "local/cluj/viisoara/2023/8",
+   "short": "HCL Viișoara nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 8/2023 privind majorarea chiriei lunare datorată de CN Poșta Română",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116967",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-9-2023",
+   "path": "local/cluj/viisoara/2023/9",
+   "short": "HCL Viișoara nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 9/2023 privind anularea creanțelor fiscale mai mici de 40 lei aflate în sold la 31.12.2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/116968",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/116968",
      "sha256": null
     }
    ]

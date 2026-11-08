@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-13-2021",
+   "path": "local/constanta/aliman/2021/13",
+   "short": "HCL Aliman nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 13/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34522",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34522",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-14-2021",
    "path": "local/constanta/aliman/2021/14",
    "short": "HCL Aliman nr. 14/2021",
@@ -73,6 +88,21 @@
      "from": "2021-02-26",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/34523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-15-2021",
+   "path": "local/constanta/aliman/2021/15",
+   "short": "HCL Aliman nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 15/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34524",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34524",
      "sha256": null
     }
    ]
@@ -178,6 +208,36 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/34530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-22-2021",
+   "path": "local/constanta/aliman/2021/22",
+   "short": "HCL Aliman nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 22/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34531",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-23-2021",
+   "path": "local/constanta/aliman/2021/23",
+   "short": "HCL Aliman nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 23/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34532",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34532",
      "sha256": null
     }
    ]
@@ -298,6 +358,51 @@
      "from": "2021-05-28",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/34544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-31-2021",
+   "path": "local/constanta/aliman/2021/31",
+   "short": "HCL Aliman nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 31/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34545",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-32-2021",
+   "path": "local/constanta/aliman/2021/32",
+   "short": "HCL Aliman nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 32/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34546",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-33-2021",
+   "path": "local/constanta/aliman/2021/33",
+   "short": "HCL Aliman nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 33/2021 privind acordarea unui sprijin financiar Parohiei Aliman, din comuna Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34547",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34547",
      "sha256": null
     }
    ]

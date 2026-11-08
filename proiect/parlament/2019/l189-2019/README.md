@@ -1,0 +1,50 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege pentru modificarea şi completarea Legii nr.84/1998 privind mărcile şi indicaţiile geografice
+
+**Became:** [Legea nr. 112/2020](../../../../lege/2020/112/) (`legea-112-2020`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-112-2020`.
+
+Proiect de lege L189/2019 · initiator: Guvernul României · 8 published stages, 2019-04-23 to 2020-07-09 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L189&an_cls=2019>
+
+- Senate number: L189/2019
+- Type: Proiect de lege
+- Character: Organică
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 298/12.04.2019
+- Stage in the bill file: A devenit Legea nr.112/08.07.2020 publicatã în M.O. nr.603/09.07.2020
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2019-l189-2019/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2019-04-23 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2019-06-05 | documents published: Raport comisie sesizată pe fond |
+| 2019-06-26 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2019-07-01 | registered at the Chamber of Deputies |
+| 2020-06-30 | adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2020-07-02 | sent for promulgation |
+| 2020-07-07 | promulgated, becomes Legea nr. 112/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată |
+| 2020-07-09 | published in the Monitorul Oficial |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [afp-16876f52.md](afp-16876f52.md) | Adresă privind forma promulgată (AFP), as published |
+| [axs-26978120.md](axs-26978120.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [dp-edce1548.md](dp-edce1548.md) | Decret de promulgare (DP), as published |
+| [fp-7d816ec6.md](fp-7d816ec6.md) | Forma promulgată (FP), as published |
+| [lp-2fab81bd.md](lp-2fab81bd.md) | Forma trimisă la promulgare (LP), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2019-l189-2019`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L189/2019: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L189/2019: comments by private persons are not collected or published; initiators are credited as a body.

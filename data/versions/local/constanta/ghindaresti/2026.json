@@ -3,6 +3,771 @@
  "shard": "local/constanta/ghindaresti/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--ghindaresti-1-2026",
+   "path": "local/constanta/ghindaresti/2026/1",
+   "short": "HCL Ghindărești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 1/2026 privind aprobarea utilizarii excedentului bugetar inregistrat la sfarsitul anului 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/246667",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/246667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-10-2026",
+   "path": "local/constanta/ghindaresti/2026/10",
+   "short": "HCL Ghindărești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 10/2026 privind alegerea preşedintelui de şedinţă pentru perioada martie-mai 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/258678",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/258678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-11-2026",
+   "path": "local/constanta/ghindaresti/2026/11",
+   "short": "HCL Ghindărești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 11/2026 pentru modificarea și completarea HCL nr.73 din 29.12.2025 privind stabilirea impozitelor și taxelor locale precum și a taxelor speciale pentru anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/258679",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/258679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-12-2026",
+   "path": "local/constanta/ghindaresti/2026/12",
+   "short": "HCL Ghindărești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 12/2026 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/258680",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/258680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-13-2026",
+   "path": "local/constanta/ghindaresti/2026/13",
+   "short": "HCL Ghindărești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 13/2026 privind aprobarea unei cote de 29,74% a pierderilor de apă în sistemul de alimentare",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/258681",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/258681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-14-2026",
+   "path": "local/constanta/ghindaresti/2026/14",
+   "short": "HCL Ghindărești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 14/2026 privind actualizarea „Planului de apărare în cazul producerii unei situații de urgență specifice riscului la cutremur și/sau alunecări de teren„ în comuna Ghindărești, județul Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/258682",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/258682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-15-2026",
+   "path": "local/constanta/ghindaresti/2026/15",
+   "short": "HCL Ghindărești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 15/2026 privind actualizarea „Planului de Analiză şi Acoperire a Riscurilor” al comunei Ghindărești, județul Constanța pentru anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/258683",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/258683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-16-2026",
+   "path": "local/constanta/ghindaresti/2026/16",
+   "short": "HCL Ghindărești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 16/2026 Privind retragerea comunei Ghindărești din Asociația pentru Supravegherea și Protecția Animalelor IVETS – ASPA IVETS",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/263460",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/263460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-17-2026",
+   "path": "local/constanta/ghindaresti/2026/17",
+   "short": "HCL Ghindărești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 17/2026 privind reorganizarea aparatului de specialitate , modificarea si aprobarea Organigramei și a Statului de Funcții pentru aparatului de specialitate al primarului comunei Ghindaresti, județul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/263461",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/263461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-18-2026",
+   "path": "local/constanta/ghindaresti/2026/18",
+   "short": "HCL Ghindărești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 18/2026 privind indexarea nivelurilor valorilor impozabile, impozitelor, taxelor locale și altor taxe asimilate acestora, a amenzilor, pentru anul 2027",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/263462",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/263462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-19-2026",
+   "path": "local/constanta/ghindaresti/2026/19",
+   "short": "HCL Ghindărești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 19/2026 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/263463",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/263463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-2-2026",
+   "path": "local/constanta/ghindaresti/2026/2",
+   "short": "HCL Ghindărești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 2/2026 privind aprobarea Planului anual de actiuni privind serviciile sociale administrate si finantate de la bugetul local al comunei Ghindărești, judetul Constanta pentru anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253629",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-20-2026",
+   "path": "local/constanta/ghindaresti/2026/20",
+   "short": "HCL Ghindărești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 20/2026 Privind aprobarea contului anual de executie al bugetului SC GHINDARESTI EDIL SRL la incheierea exercitiului financiar al anului 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/263464",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/263464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-21-2026",
+   "path": "local/constanta/ghindaresti/2026/21",
+   "short": "HCL Ghindărești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 21/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/263465",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/263465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-22-2026",
+   "path": "local/constanta/ghindaresti/2026/22",
+   "short": "HCL Ghindărești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 22/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru finantarea serviciilor de transpunere in GIS a Planului Urbanistic General (PUG) al comunei Ghindaresti, județ Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/264495",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/264495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-23-2026",
+   "path": "local/constanta/ghindaresti/2026/23",
+   "short": "HCL Ghindărești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 23/2026 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268909",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-24-2026",
+   "path": "local/constanta/ghindaresti/2026/24",
+   "short": "HCL Ghindărești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 24/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268910",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-25-2026",
+   "path": "local/constanta/ghindaresti/2026/25",
+   "short": "HCL Ghindărești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 25/2026 privind atribuirea unor denumiri de străzi în comuna Ghindărești, județul Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268911",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-26-2026",
+   "path": "local/constanta/ghindaresti/2026/26",
+   "short": "HCL Ghindărești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 26/2026 privind aprobarea bugetului de venituri si cheltuieli al comunei Ghindăreşti pe anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268912",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-27-2026",
+   "path": "local/constanta/ghindaresti/2026/27",
+   "short": "HCL Ghindărești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 27/2026 privind aprobarea Situatiilor financiare pentru trimestrul I al anului 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268913",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-28-2026",
+   "path": "local/constanta/ghindaresti/2026/28",
+   "short": "HCL Ghindărești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 28/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268914",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-29-2026",
+   "path": "local/constanta/ghindaresti/2026/29",
+   "short": "HCL Ghindărești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 29/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/268915",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/268915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-3-2026",
+   "path": "local/constanta/ghindaresti/2026/3",
+   "short": "HCL Ghindărești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 3/2026 privind aprobarea programului de acțiuni comunitare, pentru anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253630",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-30-2026",
+   "path": "local/constanta/ghindaresti/2026/30",
+   "short": "HCL Ghindărești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 30/2026 privind alegerea preşedintelui de şedinţă pentru perioada iunie -august 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277298",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-31-2026",
+   "path": "local/constanta/ghindaresti/2026/31",
+   "short": "HCL Ghindărești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 31/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Ghindăreşti pe anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277299",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-32-2026",
+   "path": "local/constanta/ghindaresti/2026/32",
+   "short": "HCL Ghindărești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 32/2026 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277300",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-33-2026",
+   "path": "local/constanta/ghindaresti/2026/33",
+   "short": "HCL Ghindărești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 33/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277301",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-34-2026",
+   "path": "local/constanta/ghindaresti/2026/34",
+   "short": "HCL Ghindărești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 34/2026 privind aprobarea bugetului de venituri şi cheltuieli al SC GHINDARESTI EDIL SRL Ghindăreşti pe anul 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277302",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-35-2026",
+   "path": "local/constanta/ghindaresti/2026/35",
+   "short": "HCL Ghindărești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 35/2026 privind aprobarea încheierii Protocolului de colaborare între comuna Ghindaresti si Cabinetul Medical Individual CMI 0631 din comuna Ghindaresti , judetul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277303",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-36-2026",
+   "path": "local/constanta/ghindaresti/2026/36",
+   "short": "HCL Ghindărești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 36/2026 privind modificarea Statului de functii al aparatului de specialitate al primarului Comunei Ghindaresti, judetul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/277304",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/277304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-37-2026",
+   "path": "local/constanta/ghindaresti/2026/37",
+   "short": "HCL Ghindărești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 37/2026 privind incheierea unui contract de comodat pentru atribuirea sediului Postului de Politie Ghindaresti",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282068",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-38-2026",
+   "path": "local/constanta/ghindaresti/2026/38",
+   "short": "HCL Ghindărești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 38/2026 privind acordarea unui mandat special reprezentantului comunei Ghindărești în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282069",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-39-2026",
+   "path": "local/constanta/ghindaresti/2026/39",
+   "short": "HCL Ghindărești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 39/2026 Pentru aprobarea Regulamentului privind măsurile de bună gospodărire pe teritoriul administrativ al comunei Ghindărești, județul Constanța, cât și stabilirea, constatarea și sancționarea faptelor ce constituie contravenții",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282070",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-4-2026",
+   "path": "local/constanta/ghindaresti/2026/4",
+   "short": "HCL Ghindărești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 4/2026 la proiectul de hotărâre privind aprobarea Situatiilor financiare pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253631",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-40-2026",
+   "path": "local/constanta/ghindaresti/2026/40",
+   "short": "HCL Ghindărești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 40/2026 privind aprobarea Situatiilor financiare pentru trimestrul II al anului 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282071",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-41-2026",
+   "path": "local/constanta/ghindaresti/2026/41",
+   "short": "HCL Ghindărești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 41/2026 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282072",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-42-2026",
+   "path": "local/constanta/ghindaresti/2026/42",
+   "short": "HCL Ghindărești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 42/2026 Privind aprobarea vânzării prin licitație publică a unui teren 1000 mp, aflat în proprietatea privată a comunei Ghindaresti, identificat cu nr. cadastral 102922, situat în localitatea Ghindărești, str. Sudului, nr. 835 -Lot 1, jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282073",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-43-2026",
+   "path": "local/constanta/ghindaresti/2026/43",
+   "short": "HCL Ghindărești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 43/2026 Privind aprobarea vânzării prin licitatie publică a unui teren în suprafață de 1000 mp, aflat în proprietatea privată a comunei Ghindărești, identificat cu nr. cadastral 102961, situat în localitatea Ghindărești, str. Plopilor, nr. FN, Lot 13, jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282074",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-44-2026",
+   "path": "local/constanta/ghindaresti/2026/44",
+   "short": "HCL Ghindărești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 44/2026 Privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 1696 mp, aflat în proprietatea privată a comunei Ghindărești, identificat cu nr. cadastral 101968, înscris în cartea funciară nr. 101968, situat în localitatea Ghindărești, str. Viilor, nr. 14 jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282075",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-45-2026",
+   "path": "local/constanta/ghindaresti/2026/45",
+   "short": "HCL Ghindărești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 45/2026 Privind aprobarea vânzării prin licitație publică a unui teren în suprafață de 1670 mp, aflat în proprietatea privată a comunei Ghindărești, identificat cu nr. cadastral 101970, înscris în cartea funciară nr. 101970, situat în localitatea Ghindărești, str. Viilor, nr. 12, jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282076",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-46-2026",
+   "path": "local/constanta/ghindaresti/2026/46",
+   "short": "HCL Ghindărești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 46/2026 privind aprobarea vânzării prin licitatie publica a unui teren în suprafață de 378 mp, aflat în proprietatea privată a comunei Ghindărești, identificat cu nr. cadastral 102887, situat în localitatea Ghindărești, LOT 2, jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282077",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-47-2026",
+   "path": "local/constanta/ghindaresti/2026/47",
+   "short": "HCL Ghindărești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 47/2026 privind aprobarea vânzări prin licitatie publica a unui teren în suprafață de 728 mp, aflat în proprietatea privată a comunei Ghindărești, identificat cu nr. cadastral 102696, situat în localitatea Ghindărești, str. Salcâmilor, nr. FN, jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282078",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-48-2026",
+   "path": "local/constanta/ghindaresti/2026/48",
+   "short": "HCL Ghindărești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 48/2026 privind aprobare vânzării prin licitatie publică a unui teren în suprafață de 177 mp aflat în proprietatea privată a comunei Ghindărești, identificat cu nr. cadastral 102367, situat în localitatea Ghindărești, jud. Constanța",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282079",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-49-2026",
+   "path": "local/constanta/ghindaresti/2026/49",
+   "short": "HCL Ghindărești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 49/2026 privind aprobarea Regulamentului referitor la promovarea acțiunilor având ca obiect transformarea amenzilor contravenționale și a celor stabilite prin hotărâre judecătorească definitivă în muncă neremunerată în folosul comunității",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/282080",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/282080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-5-2026",
+   "path": "local/constanta/ghindaresti/2026/5",
+   "short": "HCL Ghindărești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 5/2026 privind aprobarea suportului alimentar acordat prescolarilor si elevilor în cadrul Programului National \"Masa Sanatoasa\"",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253632",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-50-2026",
+   "path": "local/constanta/ghindaresti/2026/50",
+   "short": "HCL Ghindărești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 50/2026 Privind concesionarea prin licitație publică a unui teren aflat în proprietatea privată a comunei Ghindaresti, identificat cu nr. cadastral 102882 , situat în comuna Ghindaresti, județul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/286114",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/286114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-51-2026",
+   "path": "local/constanta/ghindaresti/2026/51",
+   "short": "HCL Ghindărești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 51/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/286115",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/286115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-52-2026",
+   "path": "local/constanta/ghindaresti/2026/52",
+   "short": "HCL Ghindărești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 52/2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/286116",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/286116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-53-2026",
+   "path": "local/constanta/ghindaresti/2026/53",
+   "short": "HCL Ghindărești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 53/2026 privind asumarea/neasumarea responsabilităţii de organizare si derulare a procedurii de achizitie publica ”Programul pentru scoli al Romaniei-perioada 2027-2029”",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/286117",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/286117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-54-2026",
+   "path": "local/constanta/ghindaresti/2026/54",
+   "short": "HCL Ghindărești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 54/2026 Privind desemnarea reprezentantului Consiliului local al comunei Ghindaresti in Consiliul de Administratie al Scolii Gimnaziale S.A.Esenin Ghindaresti",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/290033",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/290033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-55-2026",
+   "path": "local/constanta/ghindaresti/2026/55",
+   "short": "HCL Ghindărești nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 55/2026 privind desemnarea reprezentanților Consiliului Local Ghindaresti în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director la Școala Gimnazială S.A.Esenin Ghindaresti",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/290034",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/290034",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ghindaresti-56-2026",
    "path": "local/constanta/ghindaresti/2026/56",
    "short": "HCL Ghindărești nr. 56/2026",
@@ -58,6 +823,21 @@
      "from": "2026-10-06",
      "units": 1,
      "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/290038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-6-2026",
+   "path": "local/constanta/ghindaresti/2026/6",
+   "short": "HCL Ghindărești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 6/2026 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de pe raza administrativ-teritorială a comunei Ghindaresti, jud. Constanţa, pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253633",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253633",
      "sha256": null
     }
    ]
@@ -213,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ghindaresti-7-2026",
+   "path": "local/constanta/ghindaresti/2026/7",
+   "short": "HCL Ghindărești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 7/2026 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253634",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253634",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ghindaresti-70-2026",
    "path": "local/constanta/ghindaresti/2026/70",
    "short": "HCL Ghindărești nr. 70/2026",
@@ -298,6 +1093,36 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/297160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-8-2026",
+   "path": "local/constanta/ghindaresti/2026/8",
+   "short": "HCL Ghindărești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 8/2026 privind actualizarea inventarului bunurilor din domeniul privat al comunei Ghindaresti, judetul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253635",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-9-2026",
+   "path": "local/constanta/ghindaresti/2026/9",
+   "short": "HCL Ghindărești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 9/2026 privind atestarea inventarului bunurilor din domeniul privat al comunei Ghindaresti, judetul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/253636",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/253636",
      "sha256": null
     }
    ]

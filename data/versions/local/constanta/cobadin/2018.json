@@ -3,6 +3,36 @@
  "shard": "local/constanta/cobadin/2018",
  "acts": [
   {
+   "slug": "hcl-constanta--cobadin-1-2018",
+   "path": "local/constanta/cobadin/2018/1",
+   "short": "HCL Cobadin nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 1/2018 privind aprobarea acoperirii definitive din excedentul bugetului local al Comunei Cobadin, jud",
+   "url": "https://primariacobadin.ro/hotarari-ale-cl",
+   "versions": [
+    {
+     "from": "2018-01-08",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2018/03/HCL-08.01.2018.doc",
+     "sha256": "ee588e48b2d173480d48f42ea42d992decb6a1d3dc5006d03ac1dc3742b34890"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-13-2018",
+   "path": "local/constanta/cobadin/2018/13",
+   "short": "HCL Cobadin nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 13/2018 privind aprobarea menținerii Strategiei de Dezvoltare Locală a Comunei Cobadin, jud",
+   "url": "https://primariacobadin.ro/hotarari-ale-cl",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2018/03/HCL-23.02.2018.doc",
+     "sha256": "5696cf09e8871212a9a6c794bfd6b8c392425ef97792729d629a7e7265b741ce"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cobadin-16-2018",
    "path": "local/constanta/cobadin/2018/16",
    "short": "HCL Cobadin nr. 16/2018",
@@ -14,6 +44,36 @@
      "units": 1,
      "source_url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL_27.03.2018.pdf",
      "sha256": "b1bea2ca11682da799330272e9905d7507a61c27f1b9eebed1033cb5aa11b0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-2-2018",
+   "path": "local/constanta/cobadin/2018/2",
+   "short": "HCL Cobadin nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 2/2018 privind aprobarea execuției bugetului local de venituri și cheltuieli al Comunei Cobadin, jud. Constanța, aferent anului 2017 Consiliul Local al Comunei Cobadin, jud.Constanța, întrunit în ședința ordinară din data de 15.02.2017, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea execuției bugetului local de venituri și cheltuieli al Comunei Cobadin, jud. Constanța, aferent anului 2017; Ex",
+   "url": "https://primariacobadin.ro/hotarari-ale-cl",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2018/03/HCL-15.02.2018.doc",
+     "sha256": "04cfb92727bb0ae62c858aab93d46369368e418c1c564407804dc34f27145919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-27-2018",
+   "path": "local/constanta/cobadin/2018/27",
+   "short": "HCL Cobadin nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 27/2018 privind aprobarea rectificării nr. 2 a BUGETULUI DE VENITURI ȘI CHELTUIELI al Comunei Cobadin, jud. Constanța, pentru anul 2018 Consiliul Local al Comunei Cobadin, jud. Constanța, întrunit în ședința DE ÎNDATĂ din data de 25.04.2018, Având în vedere:  Proiectul de Hotărâre privind aprobarea rectificării nr. 2 a bugetului de venituri și cheltuieli al Comunei Cobadin, jud. Constanța, pentru anul 20",
+   "url": "https://primariacobadin.ro/hotarari-ale-cl",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2018/02/HCL-25.04.2018.pdf",
+     "sha256": "0b9e2560232bdacb8eee4797e7360b010843b42e1200bb349a51a2e694afa680"
     }
    ]
   },

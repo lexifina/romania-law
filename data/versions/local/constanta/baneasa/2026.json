@@ -3,6 +3,21 @@
  "shard": "local/constanta/baneasa/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--baneasa-1-2026",
+   "path": "local/constanta/baneasa/2026/1",
+   "short": "HCL Băneasa nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 1/2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/246811",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/246811",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-10-2026",
    "path": "local/constanta/baneasa/2026/10",
    "short": "HCL Băneasa nr. 10/2026",
@@ -13,6 +28,96 @@
      "from": "2026-03-13",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-11-2026",
+   "path": "local/constanta/baneasa/2026/11",
+   "short": "HCL Băneasa nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 11/2026 privind atestarea apartenenței la domeniul privat al comunei Băneasa a unor bunuri imobile – terenuri – situate in intravilanul Comunei Băneasa, CC 433/1, CC433/2",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254948",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-12-2026",
+   "path": "local/constanta/baneasa/2026/12",
+   "short": "HCL Băneasa nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 12/2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254949",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-13-2026",
+   "path": "local/constanta/baneasa/2026/13",
+   "short": "HCL Băneasa nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 13/2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/258362",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/258362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-14-2026",
+   "path": "local/constanta/baneasa/2026/14",
+   "short": "HCL Băneasa nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 14/2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Băneasa, județul Constanța și aprobarea numărului maxim de posturi în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/262917",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/262917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-15-2026",
+   "path": "local/constanta/baneasa/2026/15",
+   "short": "HCL Băneasa nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 15/2026 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Mai 2026, respectiv: Mai 2026 – Iulie 2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/266580",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/266580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-16-2026",
+   "path": "local/constanta/baneasa/2026/16",
+   "short": "HCL Băneasa nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 16/2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/266581",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/266581",
      "sha256": null
     }
    ]
@@ -43,6 +148,81 @@
      "from": "2026-08-13",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/269002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-19-2026",
+   "path": "local/constanta/baneasa/2026/19",
+   "short": "HCL Băneasa nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 19/2026 Privind alegerea preşedintelui de şedinţă pentru a conduce şedinţa ordinară la consiliului local din data de 27.05.2026, in lipsa președintelui de ședință cu mandat încredințat",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/270901",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/270901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-2-2026",
+   "path": "local/constanta/baneasa/2026/2",
+   "short": "HCL Băneasa nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 2/2026 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Februarie 2026, respectiv: Februarie 2026 – Aprilie 2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254939",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-20-2026",
+   "path": "local/constanta/baneasa/2026/20",
+   "short": "HCL Băneasa nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 20/2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/270902",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/270902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-21-2026",
+   "path": "local/constanta/baneasa/2026/21",
+   "short": "HCL Băneasa nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 21/2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/270903",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/270903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-22-2026",
+   "path": "local/constanta/baneasa/2026/22",
+   "short": "HCL Băneasa nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 22/2026 privind interzicerea organizării și exploatării jocurilor de noroc pe raza Comunei Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/270904",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/270904",
      "sha256": null
     }
    ]
@@ -148,6 +328,21 @@
      "from": "2026-07-28",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/280300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-3-2026",
+   "path": "local/constanta/baneasa/2026/3",
+   "short": "HCL Băneasa nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 3/2026 privind aprobarea Planului de acțiuni sau lucrări de interes local pe anul 2026, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr.196/2016 privind venitul minim de incluziune și de către părinții apți de muncă obligați la întreţinerea copilului dacă plata contribuţiei nu este posibilă",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254940",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254940",
      "sha256": null
     }
    ]
@@ -303,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-4-2026",
+   "path": "local/constanta/baneasa/2026/4",
+   "short": "HCL Băneasa nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 4/2026 Privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Băneasa, pentru anul 2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254941",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254941",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-40-2026",
    "path": "local/constanta/baneasa/2026/40",
    "short": "HCL Băneasa nr. 40/2026",
@@ -343,6 +553,81 @@
      "from": "2026-10-07",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/287685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-5-2026",
+   "path": "local/constanta/baneasa/2026/5",
+   "short": "HCL Băneasa nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 5/2026 privind aprobarea PLANULUI ANUAL DE ACŢIUNE privind serviciile sociale administrate şi finanţate din bugetul local pentru anul 2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254942",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-6-2026",
+   "path": "local/constanta/baneasa/2026/6",
+   "short": "HCL Băneasa nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 6/2026 privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2026 -2030 și a Planului anual de acţiune pentru dezvoltarea serviciilor sociale la nivelul comunei Băneasa, județul Constanța",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254943",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-7-2026",
+   "path": "local/constanta/baneasa/2026/7",
+   "short": "HCL Băneasa nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 7/2026 privind aprobarea achiziţionării de servicii de consultanţă juridică şi de reprezentare a intereselor Comunei Băneasa, a Consiliului Local al Comunei Băneasa a Primarului Comunei Băneasa, precum şi a Comisiei Locale de Fond Funciar Băneasa, pentru anul 2026",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254944",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-8-2026",
+   "path": "local/constanta/baneasa/2026/8",
+   "short": "HCL Băneasa nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 8/2026 privind aprobarea ”Metodologiei de repartizare și facturare individuală a consumului de apă înregistrat la branșamentul condominiului” precum și a ”Convenției – cadru de facturare individuală a consumurilor de apă și de canalizare ”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254945",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-9-2026",
+   "path": "local/constanta/baneasa/2026/9",
+   "short": "HCL Băneasa nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 9/2026 privind incheierea contului anual de execuţie a bugetului local pe anul 2025",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/254946",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/254946",
      "sha256": null
     }
    ]

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-4-2023",
+"path": "local/constanta/crucea/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 4/2023 privind alegerea președintelui de ședință pentru perioada ianuarie 2023 - martie 2023",
+"short": "HCL Crucea nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/88787",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-5-2023",
 "path": "local/constanta/crucea/2023/5",
 "kind": "local",
@@ -535,6 +557,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-26-2023",
+"path": "local/constanta/crucea/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 26/2023 privind aprobarea acordării unui sprijin financiar Parohiei Crucea pentru completarea fondurilor proprii în scopul realizării lucrărilor de reabilitare a bisericii cu hramul Nașterea Maicii Domnului",
+"short": "HCL Crucea nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-18",
+"latest": "2023-04-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/97331",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-27-2023",
 "path": "local/constanta/crucea/2023/27",
 "kind": "local",
@@ -664,6 +708,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-33-2023",
+"path": "local/constanta/crucea/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 33/2023 privind alegerea președintelui de ședință pentru perioada aprilie 2023 - iunie 2023",
+"short": "HCL Crucea nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/102564",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1176,6 +1242,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-57-2023",
+"path": "local/constanta/crucea/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 57/2023 privind vânzarea prin licitație publică, în condițiile legii, a unor imobile terenuri aparținând domeniului privat al comunei Crucea , județul Constanța",
+"short": "HCL Crucea nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-11",
+"latest": "2023-08-11",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/110995",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-58-2023",
 "path": "local/constanta/crucea/2023/58",
 "kind": "local",
@@ -1309,6 +1397,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-64-2023",
+"path": "local/constanta/crucea/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 64/2023 privind alegerea președintelui de ședință pentru perioada iulie 2023 - septembrie 2023",
+"short": "HCL Crucea nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/114540",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-65-2023",
 "path": "local/constanta/crucea/2023/65",
 "kind": "local",
@@ -1397,6 +1507,51 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-69-2023",
+"path": "local/constanta/crucea/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 69/2023",
+"short": "HCL Crucea nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/114545",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--crucea-70-2023",
+"path": "local/constanta/crucea/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 70/2023 privind stabilirea componenţei Consiliului comunitar consultativ creat în baza prevederilor art. 114 alin. (2) din Legea nr. 272/2004, republicată, cu modificările şi completările ulterioare",
+"short": "HCL Crucea nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/114546",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-71-2023",
 "path": "local/constanta/crucea/2023/71",
 "kind": "local",
@@ -1416,6 +1571,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-72-2023",
+"path": "local/constanta/crucea/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 72/2023 privind modificare componenței Comisiei de specialitate pentru comisia pentru pentru activități social-culturale, culte, învățământ, sănătate și familie, protecția copilului, muncă și protecție socială a Consiliului Local al comunei Crucea , constituită prin Hotărârea Consiliului Local nr.59/02.11.2020",
+"short": "HCL Crucea nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/117786",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1504,6 +1681,29 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-77-2023",
+"path": "local/constanta/crucea/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 77/2023",
+"short": "HCL Crucea nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/117791",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1750,6 +1950,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-89-2023",
+"path": "local/constanta/crucea/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 89/2023 privind desemnarea reprezentanților Consiliului Local al Comunei Crucea în Consiliul de Administrație și în Comisia pentru Evaluarea și Asigurarea Calității constituite în cadrul Liceului Tehnologic Crucea",
+"short": "HCL Crucea nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/122626",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-90-2023",
 "path": "local/constanta/crucea/2023/90",
 "kind": "local",
@@ -1813,6 +2035,51 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-93-2023",
+"path": "local/constanta/crucea/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 93/2023",
+"short": "HCL Crucea nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/127247",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--crucea-94-2023",
+"path": "local/constanta/crucea/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 94/2023 privind desemnarea unui reprezentant al Consiliului Local al comunei Crucea pentru a face parte din Comitetul pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării la nivelul județului Constanța",
+"short": "HCL Crucea nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/127248",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1904,6 +2171,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-99-2023",
+"path": "local/constanta/crucea/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 99/2023 privind constituirea echipei mobile pentru intervenția în regim de urgență ăn cazurile de violență domestică identificate pe raza Comunei Crucea",
+"short": "HCL Crucea nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/127253",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-100-2023",
 "path": "local/constanta/crucea/2023/100",
 "kind": "local",
@@ -1923,6 +2212,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-101-2023",
+"path": "local/constanta/crucea/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 101/2023 privind actualizarea Actului constitutiv al Societății CRUCEA MULTISERVICE SRL și desemnarea administratorului acesteia",
+"short": "HCL Crucea nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/128733",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

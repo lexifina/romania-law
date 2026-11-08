@@ -3,6 +3,50 @@
 "shard": "local/constanta/baraganu/2025",
 "acts": [
 {
+"slug": "hcl-constanta--baraganu-1-2025",
+"path": "local/constanta/baraganu/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 1/2025 privind aprobarea facilităților fiscale pentru impozite și taxe locale restante la 31 august 2024",
+"short": "HCL Bărăganu nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/206989",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-2-2025",
+"path": "local/constanta/baraganu/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 2/2025 privind acordarea unui mandat special reprezentantului comunei BĂRĂGANU în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+"short": "HCL Bărăganu nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207008",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--baraganu-3-2025",
 "path": "local/constanta/baraganu/2025/3",
 "kind": "local",
@@ -23,6 +67,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-4-2025",
+"path": "local/constanta/baraganu/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 4/2025 privind aprobarea încheierii unui acord de cooperare cu Filiala Județeană Constanța a Asociației Comunelor din România pentru organizarea și exercitarea activității de audit public intern",
+"short": "HCL Bărăganu nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207010",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-5-2025",
+"path": "local/constanta/baraganu/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 5/2025 privind aprobarea Planul de acțiuni privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local al comunei Bărăganu pentru anul 2025",
+"short": "HCL Bărăganu nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207011",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -48,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-constanta--baraganu-7-2025",
+"path": "local/constanta/baraganu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 7/2025 privind aprobarea modului de întocmire și ţinere a registrului agricol",
+"short": "HCL Bărăganu nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207013",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--baraganu-8-2025",
 "path": "local/constanta/baraganu/2025/8",
 "kind": "local",
@@ -67,6 +177,161 @@
 "council_name": "Consiliul Local al Comunei Bărăganu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-9-2025",
+"path": "local/constanta/baraganu/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 9/2025 privind aprobarea organigramei și ștatului de funcţii al aparatului de specialitate al primarului Comunei Bărăganu, Județul Constanța",
+"short": "HCL Bărăganu nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207015",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-10-2025",
+"path": "local/constanta/baraganu/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 10/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Bărăganu",
+"short": "HCL Bărăganu nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207016",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-11-2025",
+"path": "local/constanta/baraganu/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 11/2025 privind modificarea și completarea H.C.L.nr.15/16.12.2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Bărăganu, județul Constanța",
+"short": "HCL Bărăganu nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207061",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-12-2025",
+"path": "local/constanta/baraganu/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 12/2025",
+"short": "HCL Bărăganu nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207062",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-13-2025",
+"path": "local/constanta/baraganu/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 13/2025 privind aprobarea bugetului local de venituri și cheltuieli al Comunei Bărăganu, pe anul 2025",
+"short": "HCL Bărăganu nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207274",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-14-2025",
+"path": "local/constanta/baraganu/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 14/2025 privind aprobarea aderării la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern pentru care Filiala Județeană Constanța a Asociației Comunelor din România are rol de structură asociativă organizatoare",
+"short": "HCL Bărăganu nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207275",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-15-2025",
+"path": "local/constanta/baraganu/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 15/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Bărăganu",
+"short": "HCL Bărăganu nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/207276",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +398,50 @@
 "council_name": "Consiliul Local al Comunei Bărăganu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-19-2025",
+"path": "local/constanta/baraganu/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 19/2025 privind rezilierea contractului de concesionare nr.405/26.02.1997",
+"short": "HCL Bărăganu nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/212833",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-20-2025",
+"path": "local/constanta/baraganu/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 20/2025 privind transmiterea dreptului de concesiune asupra unui teren, conform contractului de concesionare nr. 2103/14.06.2007",
+"short": "HCL Bărăganu nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/212834",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +621,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-29-2025",
+"path": "local/constanta/baraganu/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 29/2025 privind transmiterea dreptului de concesiune asupra unui teren, conform contractului de concesionare nr. 443/05.05.1996",
+"short": "HCL Bărăganu nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273417",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

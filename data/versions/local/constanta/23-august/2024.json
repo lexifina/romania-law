@@ -3,6 +3,126 @@
  "shard": "local/constanta/23-august/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--23-august-1-2024",
+   "path": "local/constanta/23-august/2024/1",
+   "short": "HCL 23 August nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 1/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei 23 August, în anul şcolar 2024-2025",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161577",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-10-2024",
+   "path": "local/constanta/23-august/2024/10",
+   "short": "HCL 23 August nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 10/2024 privind modificarea structurii organizatorice şi a statului de funcţii pentru aparatul de specialitate al primarului comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161605",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-11-2024",
+   "path": "local/constanta/23-august/2024/11",
+   "short": "HCL 23 August nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 11/2024 privind aprobarea decontării cheltuielilor de transport între localitatea de domiciliu/reşedinţă şi localitatea unde se află locul de muncă, pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161606",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-12-2024",
+   "path": "local/constanta/23-august/2024/12",
+   "short": "HCL 23 August nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 12/2024 privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență și ajutoare comunitare",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161607",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-13-2024",
+   "path": "local/constanta/23-august/2024/13",
+   "short": "HCL 23 August nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 13/2024 privind programului de acțiune comunitară destinat prevenirii şi combaterii riscului de marginalizare şi excluziune socialăla nivelul comunei 23 August pentru anul 2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161608",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-14-2024",
+   "path": "local/constanta/23-august/2024/14",
+   "short": "HCL 23 August nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 14/2024 privind aprobarea Planului de acțiuni şi lucrări de interes public local pentru anul 2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161609",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-15-2024",
+   "path": "local/constanta/23-august/2024/15",
+   "short": "HCL 23 August nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 15/2024 privind declararea unui teren ca bun de uz şi de interes public local",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161610",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-16-2024",
+   "path": "local/constanta/23-august/2024/16",
+   "short": "HCL 23 August nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 16/2024 privind aprobarea documentaţiei plan urbanistic zonal pentru “Schimbare destinație din zonă de locuințe în zonă cu funcțiuni de prestări servicii și stabilire reglementări urbanistice",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161611",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161611",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--23-august-162-2024",
    "path": "local/constanta/23-august/2024/162",
    "short": "HCL 23 August nr. 162/2024",
@@ -118,6 +238,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/23august-ct/registru-hcl/181795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-17-2024",
+   "path": "local/constanta/23-august/2024/17",
+   "short": "HCL 23 August nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 17/2024 privind aprobarea concesionării fără licitație publică a unui spațiu cu destinația de cabinet medical stomatologic",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161612",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161612",
      "sha256": null
     }
    ]
@@ -258,6 +393,516 @@
    ]
   },
   {
+   "slug": "hcl-constanta--23-august-18-2024",
+   "path": "local/constanta/23-august/2024/18",
+   "short": "HCL 23 August nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 18/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161613",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-19-2024",
+   "path": "local/constanta/23-august/2024/19",
+   "short": "HCL 23 August nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 19/2024 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161614",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-2-2024",
+   "path": "local/constanta/23-august/2024/2",
+   "short": "HCL 23 August nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 2/2024 privind modificarea, completarea și actualizarea inventarului domeniului privat al comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161578",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-20-2024",
+   "path": "local/constanta/23-august/2024/20",
+   "short": "HCL 23 August nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 20/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161615",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-21-2024",
+   "path": "local/constanta/23-august/2024/21",
+   "short": "HCL 23 August nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 21/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161645",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-22-2024",
+   "path": "local/constanta/23-august/2024/22",
+   "short": "HCL 23 August nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 22/2024 privind rectificarea bugetului general de venituri şi cheltuieli al Comunei 23 August pe anul 2024, trimestrele I-IV",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161646",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-23-2024",
+   "path": "local/constanta/23-august/2024/23",
+   "short": "HCL 23 August nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 23/2024 privind aprobarea rezultatelor inventarierii generale a elementelor de natura activelor, datoriilor şi capitalurilor proprii aflate în patrimoniul comunei 23 August și a Școlii Gimnaziale ”George Coșbuc” pe anul 2023 şi aprobarea casării-declasării bunurilor degradate, uzate fizic şi moral",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161647",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-24-2024",
+   "path": "local/constanta/23-august/2024/24",
+   "short": "HCL 23 August nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 24/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161648",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-25-2024",
+   "path": "local/constanta/23-august/2024/25",
+   "short": "HCL 23 August nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 25/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161649",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-26-2024",
+   "path": "local/constanta/23-august/2024/26",
+   "short": "HCL 23 August nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 26/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161650",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-27-2024",
+   "path": "local/constanta/23-august/2024/27",
+   "short": "HCL 23 August nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 27/2024 privind rectificarea bugetului general de venituri şi cheltuieli al comunei 23 August pe anul 2024, luna aprilie, trimestrul II",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161738",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-28-2024",
+   "path": "local/constanta/23-august/2024/28",
+   "short": "HCL 23 August nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 28/2024 privind aprobarea contului de execuţie a bugetului comunei 23 August pe trimestrul I – anul 2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161739",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-29-2024",
+   "path": "local/constanta/23-august/2024/29",
+   "short": "HCL 23 August nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 29/2024 privind stabilirea şi aprobarea “Nivelului impozitelor, taxelor şi a altor sume cuvenite bugetului local în anul fiscal 2025”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161740",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-3-2024",
+   "path": "local/constanta/23-august/2024/3",
+   "short": "HCL 23 August nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 3/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei 23 August, începând cu luna ianuarie 2024”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161579",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-30-2024",
+   "path": "local/constanta/23-august/2024/30",
+   "short": "HCL 23 August nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 30/2024 privind modificarea, completarea și actualizarea inventarului domeniului privat al comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161741",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-31-2024",
+   "path": "local/constanta/23-august/2024/31",
+   "short": "HCL 23 August nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 31/2024 privind validarea inventarului terenurilor disponibile pentru punerea în aplicare a Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată, cu modificările ulterioare, aflate în domeniul privat al comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161742",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-32-2024",
+   "path": "local/constanta/23-august/2024/32",
+   "short": "HCL 23 August nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 32/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161743",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-33-2024",
+   "path": "local/constanta/23-august/2024/33",
+   "short": "HCL 23 August nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 33/2024 privind modificarea și actualizarea „Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161744",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-34-2024",
+   "path": "local/constanta/23-august/2024/34",
+   "short": "HCL 23 August nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 34/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161745",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-35-2024",
+   "path": "local/constanta/23-august/2024/35",
+   "short": "HCL 23 August nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 35/2024 privind aprobarea “Regulamentului privind executarea lucrărilor tehnico-edilitarea pe domeniul public sau privat al comunei 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161746",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-36-2024",
+   "path": "local/constanta/23-august/2024/36",
+   "short": "HCL 23 August nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 36/2024 privind aprobarea “Majorării indemnizației administratorului Societăţii Administrarea Patrimoniului Comunei 23 August S.R.L.”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161747",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-37-2024",
+   "path": "local/constanta/23-august/2024/37",
+   "short": "HCL 23 August nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 37/2024 privind aprobarea ”Vânzării prin licitație publică a unui număr de 3 imobile-teren aparţinând domeniului privat de interes local al comunei 23 August, identificate cu numerele cadastrale 118357 – lot 1, 118358 – lot 2 și 118359 – lot 3, situate în intravilanul localității 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161748",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-38-2024",
+   "path": "local/constanta/23-august/2024/38",
+   "short": "HCL 23 August nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 38/2024 privind aprobarea ”Regulamentului pentru stabilirea metodologiei de repartizare și atribuire a terenurilor în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată, cu modificările ulterioare",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161749",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-39-2024",
+   "path": "local/constanta/23-august/2024/39",
+   "short": "HCL 23 August nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 39/2024 privind aprobarea „Documentației de dezmembrare a imobilului cu numărul cadastral 115444 înscris în cartea funciară nr. 115444 a comunei 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161750",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-4-2024",
+   "path": "local/constanta/23-august/2024/4",
+   "short": "HCL 23 August nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 4/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161580",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-40-2024",
+   "path": "local/constanta/23-august/2024/40",
+   "short": "HCL 23 August nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 40/2024 privind modificarea, completarea și actualizarea inventarului domeniului privat al comunei 23 August",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161751",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-41-2024",
+   "path": "local/constanta/23-august/2024/41",
+   "short": "HCL 23 August nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 41/2024 privind trecerea din domeniul privat în domeniul public al comunei 23 August a unor imobile și declararea acestora ca fiind de uz și de interes public local",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161752",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-42-2024",
+   "path": "local/constanta/23-august/2024/42",
+   "short": "HCL 23 August nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 42/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161753",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-43-2024",
+   "path": "local/constanta/23-august/2024/43",
+   "short": "HCL 23 August nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 43/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161754",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-44-2024",
+   "path": "local/constanta/23-august/2024/44",
+   "short": "HCL 23 August nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 44/2024 privind aprobarea „Situaţiilor financiare anuale ale Societăţii Administrarea Patrimoniului Comunei 23 August S.R.L.”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161755",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-45-2024",
+   "path": "local/constanta/23-august/2024/45",
+   "short": "HCL 23 August nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 45/2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161756",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-46-2024",
+   "path": "local/constanta/23-august/2024/46",
+   "short": "HCL 23 August nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 46/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161774",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-47-2024",
+   "path": "local/constanta/23-august/2024/47",
+   "short": "HCL 23 August nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 47/2024 privind aprobarea contului de execuţie a bugetului comunei 23 August pe anul 2023",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161775",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-48-2024",
+   "path": "local/constanta/23-august/2024/48",
+   "short": "HCL 23 August nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 48/2024 privind rectificarea bugetului general de venituri şi cheltuieli al comunei 23 August pe anul 2024, trimestrul III",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161776",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161776",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--23-august-49-2024",
    "path": "local/constanta/23-august/2024/49",
    "short": "HCL 23 August nr. 49/2024",
@@ -268,6 +913,21 @@
      "from": "2024-07-05",
      "units": 1,
      "source_url": "https://emol.ro/23august-ct/registru-hcl/161777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-5-2024",
+   "path": "local/constanta/23-august/2024/5",
+   "short": "HCL 23 August nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 5/2024 privind aprobarea utilizării excedentului din anii bugetari precedenţi ca sursă de finanţare a secţiunii de dezvoltare",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161581",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161581",
      "sha256": null
     }
    ]
@@ -298,6 +958,66 @@
      "from": "2024-07-05",
      "units": 1,
      "source_url": "https://emol.ro/23august-ct/registru-hcl/161779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-6-2024",
+   "path": "local/constanta/23-august/2024/6",
+   "short": "HCL 23 August nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 6/2024 privind aprobarea bugetului general de venituri şi cheltuieli al Comunei 23 August pe anul 2024",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161582",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-7-2024",
+   "path": "local/constanta/23-august/2024/7",
+   "short": "HCL 23 August nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 7/2024 privind aprobarea bugetului de venituri şi cheltuieli pentru anul financiar 2024 al Societăţii Administrarea Patrimoniului Comunei 23 August S.R.L",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161583",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-8-2024",
+   "path": "local/constanta/23-august/2024/8",
+   "short": "HCL 23 August nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 8/2024 privind numirea cenzorului Societăţii Administrarea Patrimoniului comunei 23 August S.R.L",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161603",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-9-2024",
+   "path": "local/constanta/23-august/2024/9",
+   "short": "HCL 23 August nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 9/2024 privind rectificarea bugetului general de venituri şi cheltuieli al comunei 23 August pe anul 2024, trimestrele I-IV",
+   "url": "https://emol.ro/23august-ct/registru-hcl/161604",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/161604",
      "sha256": null
     }
    ]

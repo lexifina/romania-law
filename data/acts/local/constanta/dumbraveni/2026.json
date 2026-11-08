@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-11-2026",
+"path": "local/constanta/dumbraveni/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 11/2026 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/252911",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-12-2026",
 "path": "local/constanta/dumbraveni/2026/12",
 "kind": "local",
@@ -267,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-14-2026",
+"path": "local/constanta/dumbraveni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 14/2026 privind aprobarea scoaterii definitive din circuitul agricol de catre concesionar a unui imobil teren în suprafaţă totală de 7,6 ha, aparţinând domeniului privat al Comunei Dumbrăveni, având număr cadastral 101786",
+"short": "HCL Dumbrăveni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/252914",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-15-2026",
 "path": "local/constanta/dumbraveni/2026/15",
 "kind": "local",
@@ -308,6 +352,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-17-2026",
+"path": "local/constanta/dumbraveni/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 17/2026",
+"short": "HCL Dumbrăveni nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/252917",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -377,6 +444,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-21-2026",
+"path": "local/constanta/dumbraveni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 21/2026 privind inițierea procedurii de închiriere, prin atribuire directă, a suprafeței de 545,0991 ha pășune aflată în proprietatea privată a Comunei Dumbrăveni, județul Constanța",
+"short": "HCL Dumbrăveni nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/257327",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-22-2026",
 "path": "local/constanta/dumbraveni/2026/22",
 "kind": "local",
@@ -440,6 +529,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-25-2026",
+"path": "local/constanta/dumbraveni/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 25/2026 privind înfiinţarea unui post contractual in afara organigramei aparatului de specialitate al primarului comunei Dumbrăveni, judetul Constanta de mediator/consilier scolar pentru desfasurarea proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Dumbrăveni nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/262024",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -730,6 +841,50 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-39-2026",
+"path": "local/constanta/dumbraveni/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 39/2026 privind închirierea, prin atribuire directă, a suprafeței rămase nealocată de 51 ha pășune aflată în proprietatea privată a Comunei Dumbrăveni, județul Constanța",
+"short": "HCL Dumbrăveni nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-16",
+"latest": "2026-06-16",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/270326",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-40-2026",
+"path": "local/constanta/dumbraveni/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 40/2026 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/275558",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-41-2026",
 "path": "local/constanta/dumbraveni/2026/41",
 "kind": "local",
@@ -793,6 +948,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-44-2026",
+"path": "local/constanta/dumbraveni/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 44/2026",
+"short": "HCL Dumbrăveni nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/275562",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

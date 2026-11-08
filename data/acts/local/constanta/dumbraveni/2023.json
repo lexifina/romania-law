@@ -247,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-12-2023",
+"path": "local/constanta/dumbraveni/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 12/2023 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/92318",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-13-2023",
 "path": "local/constanta/dumbraveni/2023/13",
 "kind": "local",
@@ -424,6 +446,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-21-2023",
+"path": "local/constanta/dumbraveni/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 21/2023 privind desemnarea a doi consilieri locali în calitate de membrii în cadrul comisiei de evaluare a performanțelor profesionale ale Secretarului General al Comunei Dumbrăveni, pentru perioada 01.01.2022-31.12.2022",
+"short": "HCL Dumbrăveni nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-22",
+"latest": "2023-03-22",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/92327",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-22-2023",
 "path": "local/constanta/dumbraveni/2023/22",
 "kind": "local",
@@ -509,6 +553,50 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-26-2023",
+"path": "local/constanta/dumbraveni/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 26/2023 privind aprobarea închirierii prin atribuire directă a suprafeței disponibile de 9 ha pășune care aparține domeniul privat al UAT Dumbraveni, judetul Constanta",
+"short": "HCL Dumbrăveni nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/100165",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-27-2023",
+"path": "local/constanta/dumbraveni/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 27/2023 privind aprobarea închirierii prin atribuire directă a unor suprafețe disponibile de teren islaz arabil care aparțin domeniului public al UAT Dumbraveni, judetul Constanta",
+"short": "HCL Dumbrăveni nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/100166",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -713,6 +801,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-37-2023",
+"path": "local/constanta/dumbraveni/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 37/2023 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/105380",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-38-2023",
 "path": "local/constanta/dumbraveni/2023/38",
 "kind": "local",
@@ -820,6 +930,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-43-2023",
+"path": "local/constanta/dumbraveni/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 43/2023",
+"short": "HCL Dumbrăveni nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/111230",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -956,6 +1089,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-50-2023",
+"path": "local/constanta/dumbraveni/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 50/2023 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/118372",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-51-2023",
 "path": "local/constanta/dumbraveni/2023/51",
 "kind": "local",
@@ -997,6 +1152,51 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-53-2023",
+"path": "local/constanta/dumbraveni/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 53/2023 privind desemnarea reprezentantului Consiliului Local Dumbrăveni în cadrul Consiliului de Administraţie al Şcolii Gimnaziale nr. 1 Dumbrăveni, județul Constanța",
+"short": "HCL Dumbrăveni nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/122172",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-54-2023",
+"path": "local/constanta/dumbraveni/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 54/2023",
+"short": "HCL Dumbrăveni nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/122173",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1085,6 +1285,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-59-2023",
+"path": "local/constanta/dumbraveni/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 59/2023 privind aprobarea rapoartelor de evaluare pentru imobilele situate în Comuna Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/127271",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

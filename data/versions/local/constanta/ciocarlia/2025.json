@@ -3,6 +3,36 @@
  "shard": "local/constanta/ciocarlia/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--ciocarlia-1-2025",
+   "path": "local/constanta/ciocarlia/2025/1",
+   "short": "HCL Ciocârlia nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 1/2025 privind aprobarea validării Dispoziției nr.4/09.01.2025, privind acoperirea definitivă din excedentul bugetului local a deficitului secţiunii de dezvoltare înregistrat la data de 31.12.2024",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191229",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-10-2025",
+   "path": "local/constanta/ciocarlia/2025/10",
+   "short": "HCL Ciocârlia nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 10/2025 privind aprobarea necesității și oportunității achiziționării de către comuna Ciocârlia, a unui teren extravilan în suprafață de 1000 mp., amplasat în parcela A183/15/1/2, identificat prin IE nr. 105127, în vederea realizării Obiectivului de Investiții de interes public local: „Înființare distribuție gaze naturale în comuna Ciocârlia, județul Constanța”, respectiv amplasare STAȚIE DE REGLARE ȘI MĂSURARE",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/192555",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/192555",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-11-2025",
    "path": "local/constanta/ciocarlia/2025/11",
    "short": "HCL Ciocârlia nr. 11/2025",
@@ -13,6 +43,141 @@
      "from": "2025-02-18",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/192557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-12-2025",
+   "path": "local/constanta/ciocarlia/2025/12",
+   "short": "HCL Ciocârlia nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 12/2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/200648",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/200648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-13-2025",
+   "path": "local/constanta/ciocarlia/2025/13",
+   "short": "HCL Ciocârlia nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 13/2025 privind aprobarea bugetului de venituri și cheltuieli și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201075",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-14-2025",
+   "path": "local/constanta/ciocarlia/2025/14",
+   "short": "HCL Ciocârlia nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 14/2025 privind aprobarea contului de executie al bugetului de venituri si cheltuieli pe trimestrul IV, al anului 2024",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201076",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-15-2025",
+   "path": "local/constanta/ciocarlia/2025/15",
+   "short": "HCL Ciocârlia nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 15/2025 privind aprobarea susținerii financiare a Asociației sportive ,,RECOLTA CIOCÂRLIA”",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201077",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-16-2025",
+   "path": "local/constanta/ciocarlia/2025/16",
+   "short": "HCL Ciocârlia nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 16/2025 privind aprobarea Bugetului de venituri si cheltuieli al Asociației Sportive ,,RECOLTA CIOCÂRLIA” pe anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201078",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-17-2025",
+   "path": "local/constanta/ciocarlia/2025/17",
+   "short": "HCL Ciocârlia nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 17/2025 privind aprobarea acordării unor sume pentru bisericile și geamiile din comuna Ciocârlia, județul Constanța",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201083",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-18-2025",
+   "path": "local/constanta/ciocarlia/2025/18",
+   "short": "HCL Ciocârlia nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 18/2025 privind aprobare Regulament privind ocuparea temporară a domeniul public și privat în comuna Ciocârlia, județul Constanța în vederea desfășurării de activități sezoniere și ocazionale și modalitatea de încasare a taxelor aferente ocupării",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201084",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-19-2025",
+   "path": "local/constanta/ciocarlia/2025/19",
+   "short": "HCL Ciocârlia nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 19/2025 privind aprobarea încheierii actului adițional nr.2, la Contractul de Închiriere nr.2159/19.04.2023, pentru suprafețele de pajiști, pășuni și a terenului extravilan categoria de folosință arabil, cu destinația de islaz, aflate în proprietatea privată a comunei Ciocârlia, județul Constanța",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201085",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-2-2025",
+   "path": "local/constanta/ciocarlia/2025/2",
+   "short": "HCL Ciocârlia nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 2/2025 privind aprobarea numărului total de posturi de asistenți personali, însoțitori ai persoanelor încadrate în gradul de handicap grav, pentru anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191241",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191241",
      "sha256": null
     }
    ]
@@ -48,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ciocarlia-22-2025",
+   "path": "local/constanta/ciocarlia/2025/22",
+   "short": "HCL Ciocârlia nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 22/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Ciocârlia, județul Constanța, pentru perioada 2025-2030",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201088",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-23-2025",
    "path": "local/constanta/ciocarlia/2025/23",
    "short": "HCL Ciocârlia nr. 23/2025",
@@ -58,6 +238,51 @@
      "from": "2025-04-01",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-24-2025",
+   "path": "local/constanta/ciocarlia/2025/24",
+   "short": "HCL Ciocârlia nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 24/2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/201090",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/201090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-25-2025",
+   "path": "local/constanta/ciocarlia/2025/25",
+   "short": "HCL Ciocârlia nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 25/2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/204168",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/204168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-26-2025",
+   "path": "local/constanta/ciocarlia/2025/26",
+   "short": "HCL Ciocârlia nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 26/2025 privind aprobarea aderării la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern pentru care Filiala Județeană Constanța a Asociației Comunelor din România are rol de structură asociativă organizatoare",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/204169",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/204169",
      "sha256": null
     }
    ]
@@ -78,6 +303,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ciocarlia-28-2025",
+   "path": "local/constanta/ciocarlia/2025/28",
+   "short": "HCL Ciocârlia nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 28/2025 privind stabilirea impozitelor și taxelor locale, a taxelor speciale, alte taxe asimilate acestora, precum și amenzile aplicabile, în anul fiscal 2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/207948",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/207948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-29-2025",
+   "path": "local/constanta/ciocarlia/2025/29",
+   "short": "HCL Ciocârlia nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 29/2025 privind aprobarea modificării prevederilor art.7 din Hotărârea Consiliului Local nr. 9 din data de 07.02.2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/207949",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/207949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-3-2025",
+   "path": "local/constanta/ciocarlia/2025/3",
+   "short": "HCL Ciocârlia nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 3/2025 privind aprobarea organigramei și a ștatului de funcții al aparatului de specialitate al primarului comunei Ciocârlia, județul Constanța, pentru anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191242",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191242",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-30-2025",
    "path": "local/constanta/ciocarlia/2025/30",
    "short": "HCL Ciocârlia nr. 30/2025",
@@ -88,6 +358,21 @@
      "from": "2025-05-20",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/207952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-31-2025",
+   "path": "local/constanta/ciocarlia/2025/31",
+   "short": "HCL Ciocârlia nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 31/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/214169",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/214169",
      "sha256": null
     }
    ]
@@ -123,6 +408,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ciocarlia-34-2025",
+   "path": "local/constanta/ciocarlia/2025/34",
+   "short": "HCL Ciocârlia nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 34/2025 privind aprobarea transferului dreptului de proprietate cu titlu gratuit a bunului mobil – activ fix - 1 microbuz electric școlar achiziționat prin proiectul „Dotarea cu microbuze electrice pentru elevi ai unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța”, finanțat prin Planul Național de Redresare și Reziliență - Componenta 15 – Educație",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/214175",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/214175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-35-2025",
+   "path": "local/constanta/ciocarlia/2025/35",
+   "short": "HCL Ciocârlia nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 35/2025 privind aprobarea contului de execuție al bugetului de venituri si cheltuieli pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/214176",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/214176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-36-2025",
+   "path": "local/constanta/ciocarlia/2025/36",
+   "short": "HCL Ciocârlia nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 36/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2025 și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/214177",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/214177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-37-2025",
+   "path": "local/constanta/ciocarlia/2025/37",
+   "short": "HCL Ciocârlia nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 37/2025 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/223819",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/223819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-38-2025",
+   "path": "local/constanta/ciocarlia/2025/38",
+   "short": "HCL Ciocârlia nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 38/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2025 și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/223820",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/223820",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-39-2025",
    "path": "local/constanta/ciocarlia/2025/39",
    "short": "HCL Ciocârlia nr. 39/2025",
@@ -133,6 +493,21 @@
      "from": "2025-09-05",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/223832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-4-2025",
+   "path": "local/constanta/ciocarlia/2025/4",
+   "short": "HCL Ciocârlia nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 4/2025 privind aprobarea raportului de evaluare a activității asistenților personali, ai persoanelor cu handicap grav, în semestrul II, anul 2024",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191243",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191243",
      "sha256": null
     }
    ]
@@ -168,6 +543,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ciocarlia-42-2025",
+   "path": "local/constanta/ciocarlia/2025/42",
+   "short": "HCL Ciocârlia nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 42/2025 privind aprobarea închierii Actului Adițional la Contractul de închiriere nr. 1/18.07.2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/223835",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/223835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-43-2025",
+   "path": "local/constanta/ciocarlia/2025/43",
+   "short": "HCL Ciocârlia nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 43/2025 privind aprobarea Regulamentului Actualizat și Completat de Organizare și Funcționare a Serviciului Public Comunitar Local de Evidență a Persoanelor din comuna Ciocârlia, județul Constanța",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/223836",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/223836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-44-2025",
+   "path": "local/constanta/ciocarlia/2025/44",
+   "short": "HCL Ciocârlia nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 44/2025 privind aprobarea achiziționării unor servicii juridice de consultanță, de asistență și de reprezentare juridică pentru apărarea intereselor comunei Ciocârlia, județul Constanța",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/223845",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/223845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-45-2025",
    "path": "local/constanta/ciocarlia/2025/45",
    "short": "HCL Ciocârlia nr. 45/2025",
@@ -198,6 +618,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ciocarlia-47-2025",
+   "path": "local/constanta/ciocarlia/2025/47",
+   "short": "HCL Ciocârlia nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 47/2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/230306",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/230306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-48-2025",
+   "path": "local/constanta/ciocarlia/2025/48",
+   "short": "HCL Ciocârlia nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 48/2025 privind aprobarea modului de întocmire a registrului agricol pe perioada 2025-2029 al UAT Ciocârlia, județul Constanța",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/230307",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/230307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-49-2025",
    "path": "local/constanta/ciocarlia/2025/49",
    "short": "HCL Ciocârlia nr. 49/2025",
@@ -208,6 +658,21 @@
      "from": "2025-10-17",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/230308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-5-2025",
+   "path": "local/constanta/ciocarlia/2025/5",
+   "short": "HCL Ciocârlia nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 5/2025 privind aprobarea Planului de Acțiuni și Lucrări de interes local,ce vor fi executate de către persoanele apte de muncă de familiile beneficiare de Venitul Minim de Incluziune, conform Legii nr.196/2016, respectiv pentru persoanele care au fost sancționate contravențional, și care vor presta muncă neremunerată în folosul comunității, ca obligație stabilită de instanța de judecată, în anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191244",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191244",
      "sha256": null
     }
    ]
@@ -363,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ciocarlia-6-2025",
+   "path": "local/constanta/ciocarlia/2025/6",
+   "short": "HCL Ciocârlia nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 6/2025 privind aprobarea ajustării tarifelor pentru activitatea de colectare separată și transportul separat al deșeurilor municipale din contractul de delegare a gestiunii, prin achiziție publică de servicii, a activităților de colectare separată și transport separat a deșeurilor municipale din comuna Ciocârlia, județul Constanța, nr.36 din 05.02.2024",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191245",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-60-2025",
    "path": "local/constanta/ciocarlia/2025/60",
    "short": "HCL Ciocârlia nr. 60/2025",
@@ -493,6 +973,51 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/246820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-7-2025",
+   "path": "local/constanta/ciocarlia/2025/7",
+   "short": "HCL Ciocârlia nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 7/2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/191246",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/191246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-8-2025",
+   "path": "local/constanta/ciocarlia/2025/8",
+   "short": "HCL Ciocârlia nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 8/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/192553",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/192553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-9-2025",
+   "path": "local/constanta/ciocarlia/2025/9",
+   "short": "HCL Ciocârlia nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 9/2025 privind aprobarea modificării HCL nr. 61/28.10.2024, privind aprobarea tarifelor de colectare și reciclare a deșeurilor pentru persoanele fizice pe anul 2025-taxa de salubrizare",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/192554",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/192554",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/constanta/gradina/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--gradina-1-2026",
+   "path": "local/constanta/gradina/2026/1",
+   "short": "HCL Grădina nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 1/2026 privind acoperirirea definitivă a deficitului secţiunii de funcționare pe anul 2025 din excedentul bugetar al anilor precedenți, al comunei Grădina, judeţul Constanţa",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/246075",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/246075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-10-2026",
+   "path": "local/constanta/gradina/2026/10",
+   "short": "HCL Grădina nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 10/2026 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitare și extindere Şcoala Gimnazială Nr.1 Grădina din comuna Grădina, județul Constanța“",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/263168",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/263168",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-11-2026",
    "path": "local/constanta/gradina/2026/11",
    "short": "HCL Grădina nr. 11/2026",
@@ -18,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-12-2026",
+   "path": "local/constanta/gradina/2026/12",
+   "short": "HCL Grădina nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 12/2026 privind aprobarea devizului general actualizat și a cererii de finanțare pentru elaborarea și/sau actualizarea Planului Urbanistic General (PUG) și a Regulamentului Local de Urbanism (RLU) ale comunei Grădina, județul Constanța, precum și pentru transpunerea acestora în format GIS",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/263170",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/263170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-13-2026",
+   "path": "local/constanta/gradina/2026/13",
+   "short": "HCL Grădina nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 13/2026 privind acordarea unui mandat special reprezentantului comunei Grădina în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266257",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-14-2026",
+   "path": "local/constanta/gradina/2026/14",
+   "short": "HCL Grădina nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 14/2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266258",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266258",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-15-2026",
    "path": "local/constanta/gradina/2026/15",
    "short": "HCL Grădina nr. 15/2026",
@@ -28,6 +103,231 @@
      "from": "2026-04-30",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/266259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-16-2026",
+   "path": "local/constanta/gradina/2026/16",
+   "short": "HCL Grădina nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 16/2026 privind aprobarea bugetului local de venituri și cheltuieli, pe anul 2026, al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266260",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-17-2026",
+   "path": "local/constanta/gradina/2026/17",
+   "short": "HCL Grădina nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 17/2026 privind aprobarea bugetului de venituri și cheltuieli, pe anul 2026, al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266261",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-18-2026",
+   "path": "local/constanta/gradina/2026/18",
+   "short": "HCL Grădina nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 18/2026 privind aprobarea organigramei și a statului de funcții al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța, pe anul 2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266262",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-19-2026",
+   "path": "local/constanta/gradina/2026/19",
+   "short": "HCL Grădina nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 19/2026 privind aprobarea contribuției de la bugetul local al comunei Grădina, în conformitate cu prevederile Ordonanței de urgență a Guvernului pentru obiectivul de investiții „Modernizare străzi în comuna Grădina, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266263",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-2-2026",
+   "path": "local/constanta/gradina/2026/2",
+   "short": "HCL Grădina nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 2/2026 privind utilizarea excedentului din anii anteriori în anul 2026 de către Comuna Grădina, județul Constanța și unitățile subordonate acesteia",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/246076",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/246076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-20-2026",
+   "path": "local/constanta/gradina/2026/20",
+   "short": "HCL Grădina nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 20/2026 privind modificarea și completarea art.9^1 din Hotărârea Consiliului Local al comunei Grădina nr.9/09.04.2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/266264",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/266264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-21-2026",
+   "path": "local/constanta/gradina/2026/21",
+   "short": "HCL Grădina nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 21/2026 privind alegerea președintelui de ședință pentru lunile mai - iulie 2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/270698",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/270698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-22-2026",
+   "path": "local/constanta/gradina/2026/22",
+   "short": "HCL Grădina nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 22/2026 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitare și extindere Şcoala Gimnazială Nr.1 Grădina din comuna Grădina, județul Constanța“",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/279920",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/279920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-23-2026",
+   "path": "local/constanta/gradina/2026/23",
+   "short": "HCL Grădina nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 23/2026 privind aprobarea indicatorilor tehnico - economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare străzi în comuna Grădina, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny” , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/279921",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/279921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-24-2026",
+   "path": "local/constanta/gradina/2026/24",
+   "short": "HCL Grădina nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 24/2026 privind aprobarea participării Comunei Grădina, județul Constanța în calitate de membru fondator al Grupării Europene de Cooperare Teritorială „EAST GATE”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/279922",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/279922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-25-2026",
+   "path": "local/constanta/gradina/2026/25",
+   "short": "HCL Grădina nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 25/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli, pe anul 2026, al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/279923",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/279923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-26-2026",
+   "path": "local/constanta/gradina/2026/26",
+   "short": "HCL Grădina nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 26/2026 privind actualizarea Hotărârii Consiliului Local nr. 35/30.05.2018, prin includerea în hotărârea de dare în administrare a activităților din cadrul serviciului de alimentare cu apă și de canalizare a nivelului redevenței pentru mijloacele fixe aflate în proprietate publică şi puse la dispoziția Serviciului Public Apa Gradina, aprobarea formei revizuite a regulamentului, caietului de sarcini și indicatorii de performanță ai serviciului, stabilirea modului de determinare a cantităților de apă evacuată de utilizatorii care se alimentează din sistemul de alimentare cu apă al comunei Grădina din județul Constanța, ca urmare a punerii în funcțiune a rețelei de canalizare",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/280281",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/280281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-27-2026",
+   "path": "local/constanta/gradina/2026/27",
+   "short": "HCL Grădina nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 27/2026 privind acordarea unui mandat special reprezentantului comunei Grădina în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/280282",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/280282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-28-2026",
+   "path": "local/constanta/gradina/2026/28",
+   "short": "HCL Grădina nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 28/2026 privind încheierea unui Protocol de colaborare în vederea schimbului de informații de interes pentru activitatea notarială",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/280283",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/280283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-29-2026",
+   "path": "local/constanta/gradina/2026/29",
+   "short": "HCL Grădina nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 29/2026 privind alegerea președintelui de ședință pentru lunile august - octombrie 2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/285068",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/285068",
      "sha256": null
     }
    ]
@@ -198,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-4-2026",
+   "path": "local/constanta/gradina/2026/4",
+   "short": "HCL Grădina nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 4/2026 privind alegerea președintelui de ședință pentru lunile februarie 2026 - aprilie 2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/256515",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/256515",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-40-2026",
    "path": "local/constanta/gradina/2026/40",
    "short": "HCL Grădina nr. 40/2026",
@@ -348,6 +663,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-5-2026",
+   "path": "local/constanta/gradina/2026/5",
+   "short": "HCL Grădina nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 5/2026 privind aprobarea Metodologiei de repartizare și facturare individuală a consumului de apă înregistrat la branșamentul condominiului precum și Convenția - cadru de facturare individuală a consumurilor de apă și canalizare",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/256516",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/256516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-6-2026",
+   "path": "local/constanta/gradina/2026/6",
+   "short": "HCL Grădina nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 6/2026 privind aprobarea programului de acțiuni comunitare pentru anul 2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/256517",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/256517",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-7-2026",
    "path": "local/constanta/gradina/2026/7",
    "short": "HCL Grădina nr. 7/2026",
@@ -358,6 +703,36 @@
      "from": "2026-02-26",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/256518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-8-2026",
+   "path": "local/constanta/gradina/2026/8",
+   "short": "HCL Grădina nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 8/2026",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/260405",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/260405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-9-2026",
+   "path": "local/constanta/gradina/2026/9",
+   "short": "HCL Grădina nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 9/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/263167",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/263167",
      "sha256": null
     }
    ]

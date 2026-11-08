@@ -3,6 +3,28 @@
 "shard": "local/constanta/cumpana/2025",
 "acts": [
 {
+"slug": "hcl-constanta--cumpana-1-2025",
+"path": "local/constanta/cumpana/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 1/2025 privind alegerea presedintelui de sedinta al Consiliului Local Cumpana din data de 16.01.2025",
+"short": "HCL Cumpăna nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-20",
+"latest": "2025-01-20",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/187231",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-2-2025",
 "path": "local/constanta/cumpana/2025/2",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-7-2025",
+"path": "local/constanta/cumpana/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 7/2025 privind alegerea presedintelui de sedinta al Consiliului Local Cumpana",
+"short": "HCL Cumpăna nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/188900",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -246,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-14-2025",
+"path": "local/constanta/cumpana/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 14/2025 privind modalitatea de acordare a ajutoarelor de urgenta, a ajutorului financiar pentru cheltuielile de inmormantare in anul 2025",
+"short": "HCL Cumpăna nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/188907",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-15-2025",
 "path": "local/constanta/cumpana/2025/15",
 "kind": "local",
@@ -379,6 +445,72 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-21-2025",
+"path": "local/constanta/cumpana/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 21/2025 privind infratirea comunei CUMPANA, judetul Constanta, Romania cu localitatea NIMORENI, Raionul Ialoveni, Republica Moldova",
+"short": "HCL Cumpăna nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/188914",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-22-2025",
+"path": "local/constanta/cumpana/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 22/2025 privind infratirea comunei CUMPANA, Judetul Constanta, Romania cu comuna BUBUIECI , Municipiul Chisinau, Republica Moldova",
+"short": "HCL Cumpăna nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/188915",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-23-2025",
+"path": "local/constanta/cumpana/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 23/2025 privind acordarea unui mandat special reprezentantului comunei Cumpana in cadrul Adunarii Generale a Asociatiei de Dezvoltare Intercomunitara ’’ Dobrogea”",
+"short": "HCL Cumpăna nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/192621",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-24-2025",
 "path": "local/constanta/cumpana/2025/24",
 "kind": "local",
@@ -445,6 +577,97 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-27-2025",
+"path": "local/constanta/cumpana/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 27/2025",
+"short": "HCL Cumpăna nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/192625",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-28-2025",
+"path": "local/constanta/cumpana/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 28/2025",
+"short": "HCL Cumpăna nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/192626",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-29-2025",
+"path": "local/constanta/cumpana/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 29/2025",
+"short": "HCL Cumpăna nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/192627",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-30-2025",
+"path": "local/constanta/cumpana/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 30/2025 privind stabilirea locurilor pentru desfasurarea adunarilor publice, a locurilor unde sunt interzise organizarea si desfasurarea adunarilor publice si constituirea Comisiei locale de avizare a cererilor de organizare a adunarilor publice in comuna Cumpana, judetul Constanta",
+"short": "HCL Cumpăna nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/192628",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-31-2025",
 "path": "local/constanta/cumpana/2025/31",
 "kind": "local",
@@ -489,6 +712,51 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-33-2025",
+"path": "local/constanta/cumpana/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 33/2025",
+"short": "HCL Cumpăna nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/198689",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-34-2025",
+"path": "local/constanta/cumpana/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 34/2025 privind alegerea presedintelui de sedinta al Consiliului Local Cumpana",
+"short": "HCL Cumpăna nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/198690",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-35-2025",
 "path": "local/constanta/cumpana/2025/35",
 "kind": "local",
@@ -508,6 +776,51 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-36-2025",
+"path": "local/constanta/cumpana/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 36/2025",
+"short": "HCL Cumpăna nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/198692",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-37-2025",
+"path": "local/constanta/cumpana/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 37/2025 privind reglementarea regimului juridic al unor cladiri din domeniul public al comunei Cumpana, judetul Constanta",
+"short": "HCL Cumpăna nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/202689",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -688,6 +1001,52 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-46-2025",
+"path": "local/constanta/cumpana/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 46/2025",
+"short": "HCL Cumpăna nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/205528",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-47-2025",
+"path": "local/constanta/cumpana/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 47/2025",
+"short": "HCL Cumpăna nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/205529",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-48-2025",
 "path": "local/constanta/cumpana/2025/48",
 "kind": "local",
@@ -751,6 +1110,52 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-51-2025",
+"path": "local/constanta/cumpana/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 51/2025",
+"short": "HCL Cumpăna nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/205533",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-52-2025",
+"path": "local/constanta/cumpana/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 52/2025",
+"short": "HCL Cumpăna nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/205534",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -863,6 +1268,119 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-58-2025",
+"path": "local/constanta/cumpana/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 58/2025",
+"short": "HCL Cumpăna nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-02",
+"latest": "2025-06-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/209346",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-59-2025",
+"path": "local/constanta/cumpana/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 59/2025 atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 16 mp, intravilan, Comuna Cumpana, Str. Amurgului, nr. 51B",
+"short": "HCL Cumpăna nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-02",
+"latest": "2025-06-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/209347",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-60-2025",
+"path": "local/constanta/cumpana/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 60/2025",
+"short": "HCL Cumpăna nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/209348",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-61-2025",
+"path": "local/constanta/cumpana/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 61/2025",
+"short": "HCL Cumpăna nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-02",
+"latest": "2025-06-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/209349",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-62-2025",
+"path": "local/constanta/cumpana/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 62/2025 privind acordarea unui mandat special reprezentantului comunei Cumpana in cadrul Adunarii Generale a Asociatiei de Dezvoltare Intercomunitara ’’ Dobrogea”",
+"short": "HCL Cumpăna nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-02",
+"latest": "2025-06-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/209350",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1020,6 +1538,186 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-70-2025",
+"path": "local/constanta/cumpana/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 70/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 256 mp, intravilan, Comuna Cumpana, Str. Mihai Eminescu, nr. 3A",
+"short": "HCL Cumpăna nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213717",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-71-2025",
+"path": "local/constanta/cumpana/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 71/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 1417 mp, intravilan, Comuna Cumpana, Str. Padeș, nr. 8",
+"short": "HCL Cumpăna nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213718",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-72-2025",
+"path": "local/constanta/cumpana/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 72/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 235 mp, intravilan, Comuna Cumpana, Str. Vișinilor, FN",
+"short": "HCL Cumpăna nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213719",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-73-2025",
+"path": "local/constanta/cumpana/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 73/2025 privind alegerea presedintelui de sedinta al Consiliului Local Cumpana",
+"short": "HCL Cumpăna nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213720",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-74-2025",
+"path": "local/constanta/cumpana/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 74/2025",
+"short": "HCL Cumpăna nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213721",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-75-2025",
+"path": "local/constanta/cumpana/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 75/2025",
+"short": "HCL Cumpăna nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213722",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-76-2025",
+"path": "local/constanta/cumpana/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 76/2025",
+"short": "HCL Cumpăna nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213723",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-77-2025",
+"path": "local/constanta/cumpana/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 77/2025",
+"short": "HCL Cumpăna nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/213724",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1201,6 +1899,52 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-86-2025",
+"path": "local/constanta/cumpana/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 86/2025",
+"short": "HCL Cumpăna nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218830",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-87-2025",
+"path": "local/constanta/cumpana/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 87/2025",
+"short": "HCL Cumpăna nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218831",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-88-2025",
 "path": "local/constanta/cumpana/2025/88",
 "kind": "local",
@@ -1242,6 +1986,316 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-90-2025",
+"path": "local/constanta/cumpana/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 90/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 26 mp, Parcela A 404/21/2 – Lot 2/2, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218834",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-91-2025",
+"path": "local/constanta/cumpana/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 91/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 69 mp, Parcela A 404/38 – Lot 1/3, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218835",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-92-2025",
+"path": "local/constanta/cumpana/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 92/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 69 mp, Parcela A 404/38 – Lot 2/3, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218836",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-93-2025",
+"path": "local/constanta/cumpana/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 93/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 151 mp, Parcela A 404/36 si A404/37 – Lot 1/3, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218837",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-94-2025",
+"path": "local/constanta/cumpana/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 94/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 219 mp, Parcela A 404/36/3, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218838",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-95-2025",
+"path": "local/constanta/cumpana/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 95/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 263 mp, Parcela A 404/35, Lot 1/3, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218839",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-96-2025",
+"path": "local/constanta/cumpana/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 96/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 80 mp, Parcela A 404/35, Lot 2/3, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218840",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-97-2025",
+"path": "local/constanta/cumpana/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 97/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 149 mp, Parcela A 404/18/2/3 , judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218841",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-98-2025",
+"path": "local/constanta/cumpana/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 98/2025",
+"short": "HCL Cumpăna nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218842",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-99-2025",
+"path": "local/constanta/cumpana/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 99/2025",
+"short": "HCL Cumpăna nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218843",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-100-2025",
+"path": "local/constanta/cumpana/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 100/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 16 mp, intravilan, Comuna Cumpana, Str. Amurgului, nr. 51B, Județul Constanța",
+"short": "HCL Cumpăna nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218844",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-101-2025",
+"path": "local/constanta/cumpana/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 101/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 291 mp, intravilan, Comuna Cumpana, Str. Alexandru Lăpușneanu, FN, Județul Constanța",
+"short": "HCL Cumpăna nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218845",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-102-2025",
+"path": "local/constanta/cumpana/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 102/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 215 mp, intravilan, Comuna Cumpana, teren aferent Zona Zootehniei",
+"short": "HCL Cumpăna nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218846",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-103-2025",
+"path": "local/constanta/cumpana/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 103/2025 privind atestarea apartenentei la domeniul privat al Comunei Cumpana a imobilului – teren in suprafata de 470 mp, intravilan, Comuna Cumpana, Str. Liviu Rebreanu, nr. 2, Județul Constanța",
+"short": "HCL Cumpăna nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/218847",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1535,6 +2589,229 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-117-2025",
+"path": "local/constanta/cumpana/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 117/2025",
+"short": "HCL Cumpăna nr. 117/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225985",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-118-2025",
+"path": "local/constanta/cumpana/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 118/2025",
+"short": "HCL Cumpăna nr. 118/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225986",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-119-2025",
+"path": "local/constanta/cumpana/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 119/2025 privind aprobarea achitarii in avans, in totalitate, a ratelor ramase pana la data achitarii integrale, aferente pretului de vanzare a locuintei de tip ANL, situata in comuna Cumpana, str. Vasile Parvan, nr. 1 C, Bloc ANL 4, Sc. B, et. 3, Ap. 31",
+"short": "HCL Cumpăna nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225987",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-120-2025",
+"path": "local/constanta/cumpana/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 120/2025 privind aprobarea oportunitatii vânzării prin licitație publică a unui imobil – teren intravilan aflat in domeniul privat al comunei Cumpana, jud. Constanta",
+"short": "HCL Cumpăna nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225988",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-121-2025",
+"path": "local/constanta/cumpana/2025/121",
+"kind": "local",
+"year": "2025",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 121/2025 privind vânzarea prin licitație publică a unui imobil – teren intravilan aflat in domeniul privat al comunei Cumpana, judetul Constanta",
+"short": "HCL Cumpăna nr. 121/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225989",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-122-2025",
+"path": "local/constanta/cumpana/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 122/2025 privind aprobarea concesionării prin licitaţie publică a unui imobil-teren ȋn suprafaţă de 4.375 mp, Parcela A496/2, Lot 10/3/3+Parcela A496/2, Lot 10/2/1 , proprietate privata a comunei , inscris in Cartea Funciara nr. 115466 a comunei Cumpana, judetul Constanta, avand numarul cadastral 115466 si edificarea de catre concesionar a investitiei “ FABRICA DE MOBILA”",
+"short": "HCL Cumpăna nr. 122/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225990",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-123-2025",
+"path": "local/constanta/cumpana/2025/123",
+"kind": "local",
+"year": "2025",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 123/2025 privind aprobarea concesionării prin licitaţie publică a unui imobil-teren ȋn suprafaţă de 782 mp, Parcela A496/2, Lot 10/2/2, proprietate privata a comunei , inscris in Cartea Funciara nr. 115431 a comunei Cumpana, judetul Constanta, avand numarul cadastral 115431 si edificarea de catre concesionar a investitiei “ HALA PRODUCTIE MAROCHINARIE”",
+"short": "HCL Cumpăna nr. 123/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225991",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-124-2025",
+"path": "local/constanta/cumpana/2025/124",
+"kind": "local",
+"year": "2025",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 124/2025 privind alegerea presedintelui de sedinta al Consiliului Local Cumpana",
+"short": "HCL Cumpăna nr. 124/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225992",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-125-2025",
+"path": "local/constanta/cumpana/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 125/2025",
+"short": "HCL Cumpăna nr. 125/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225993",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-126-2025",
+"path": "local/constanta/cumpana/2025/126",
+"kind": "local",
+"year": "2025",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 126/2025 privind acceptarea Declaratiei de renuntare si trecerea in domeniul privat al comunei Cumpana a imobilului - teren situat in intravilanul comunei Cumpana, in suprafata de 7 mp, str. Prelungirea Tractorului nr. FN ( LOT 3/2/1 – LOT 3/2/2 – LOT 1/1/1/2, judetul Constanta pentru intregirea suprafetei de teren necesara investitiei ’’ Modernizare strada Prelungirea Tractorului”",
+"short": "HCL Cumpăna nr. 126/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225994",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-127-2025",
 "path": "local/constanta/cumpana/2025/127",
 "kind": "local",
@@ -1577,6 +2854,29 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-129-2025",
+"path": "local/constanta/cumpana/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 129/2025",
+"short": "HCL Cumpăna nr. 129/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/225997",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1733,6 +3033,95 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-137-2025",
+"path": "local/constanta/cumpana/2025/137",
+"kind": "local",
+"year": "2025",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 137/2025 privind aprobarea raportului de evaluare pentru stabilirea redeventei de concesionare a terenului intravilan apartinand domeniului privat al comunei Cumpana, str. Alexandru Lapusneanu, FN, judetul Constanta",
+"short": "HCL Cumpăna nr. 137/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/232059",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-138-2025",
+"path": "local/constanta/cumpana/2025/138",
+"kind": "local",
+"year": "2025",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 138/2025 privind acceptarea Ofertei de Donatie a unui imobil – teren situat in intravilanul comunei Cumpana in suprafata de 833,00 mp, judetul Constanta",
+"short": "HCL Cumpăna nr. 138/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/232060",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-139-2025",
+"path": "local/constanta/cumpana/2025/139",
+"kind": "local",
+"year": "2025",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 139/2025",
+"short": "HCL Cumpăna nr. 139/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/232061",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-140-2025",
+"path": "local/constanta/cumpana/2025/140",
+"kind": "local",
+"year": "2025",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 140/2025 privind modificarea organigramei şi a statului de funcţii ale aparatului de specialitate al primarului comunei Cumpăna, județul Constanța",
+"short": "HCL Cumpăna nr. 140/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/232062",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-10-2026",
+   "path": "local/cluj/viisoara/2026/10",
+   "short": "HCL Viișoara nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 10/2026 privind aprobarea vânzării directe a aparatului cu nr. 2 din „Blocul de locuințe” situat în Viișoara, str. Unirii, nr. 107 (nr. 551), județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/266791",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-11-2026",
+   "path": "local/cluj/viisoara/2026/11",
+   "short": "HCL Viișoara nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 11/2026 privind transferul dreptului de concesiune asupra terenului prevăzut în contractul de concesiune nr.10248/28.12.2021 de la Mătieș mihai la Mătieș Beniamin",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/266792",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-12-2026",
+   "path": "local/cluj/viisoara/2026/12",
+   "short": "HCL Viișoara nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 12/2026 privind aprobarea modificării Organigramei și a Statului de funcții al aparatului de specialitate al Primarului comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/266793",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-13-2026",
+   "path": "local/cluj/viisoara/2026/13",
+   "short": "HCL Viișoara nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 13/2026 privind modificarea HCL nr. 55din 20.11.2024 privind stabilirea comisiilor de specialitate ale Consiliului local al comunei Viișoara, județul Cluj, în principalele domenii de activitate",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/279853",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/279853",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-14-2026",
    "path": "local/cluj/viisoara/2026/14",
    "short": "HCL Viișoara nr. 14/2026",
@@ -58,6 +118,36 @@
      "from": "2026-07-24",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/279856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-17-2026",
+   "path": "local/cluj/viisoara/2026/17",
+   "short": "HCL Viișoara nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2026",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/279857",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/279857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-18-2026",
+   "path": "local/cluj/viisoara/2026/18",
+   "short": "HCL Viișoara nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2026 privind aprobarea cererii de finanțare „Sprijin pentru pregătirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioadă de programare-infrastructură educațională și codul SMIS 365427„",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/287744",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/287744",
      "sha256": null
     }
    ]
@@ -243,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-3-2026",
+   "path": "local/cluj/viisoara/2026/3",
+   "short": "HCL Viișoara nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 3/2026 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/254016",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/254016",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-30-2026",
    "path": "local/cluj/viisoara/2026/30",
    "short": "HCL Viișoara nr. 30/2026",
@@ -423,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-5-2026",
+   "path": "local/cluj/viisoara/2026/5",
+   "short": "HCL Viișoara nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 5/2026 privind aprobarea tipului de suport alimentar și modalitatea de distribuire a acestuia elevilor și preșcolarilor Școlii Gimnaziale Viișoara, județul Cluj în cadrul Programului național „Masă sănătoasă” în anul 2026, reglemetat prin Hotărârea Guvernului nr. 1171 din 31.12.2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/259472",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/259472",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-6-2026",
    "path": "local/cluj/viisoara/2026/6",
    "short": "HCL Viișoara nr. 6/2026",
@@ -433,6 +553,51 @@
      "from": "2026-05-07",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-7-2026",
+   "path": "local/cluj/viisoara/2026/7",
+   "short": "HCL Viișoara nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 7/2026",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/266787",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-8-2026",
+   "path": "local/cluj/viisoara/2026/8",
+   "short": "HCL Viișoara nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 8/2026 privind aprobarea transferului contractului de concesiune a SC ADL CONSTRUCȚII ȘI DEMOLĂRI SRL către COSMA Adiel-Casian",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/266788",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-9-2026",
+   "path": "local/cluj/viisoara/2026/9",
+   "short": "HCL Viișoara nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 9/2026",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/266789",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/266789",
      "sha256": null
     }
    ]

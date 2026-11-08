@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-3-2021",
+"path": "local/constanta/adamclisi/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 3/2021",
+"short": "HCL Adamclisi nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/19506",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-4-2021",
 "path": "local/constanta/adamclisi/2021/4",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-5-2021",
+"path": "local/constanta/adamclisi/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 5/2021 privind aprobarea incheierii actului aditional nr. 2 la Contractul de inchiriere nr. 78 / 05.01.2017 avand ca obiect inchirierea imobilului in suprafata de 50 mp cu destinatia de farmacie din cladirea situata pe str. Decebal, nr. 103, localitatea Adamclisi, comuna Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/19508",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-11-2021",
+"path": "local/constanta/adamclisi/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 11/2021 cu privire la aprobarea inchirierii prin atribuire directa si / sau prin licitatie publica cu strigare a suprafetei de 650 ha pajiste comunala aflata in extravilan, apartinand domeniului privat al comunei Adamclisi, judetul Constanta potrivit art. 9, alin. (2) din OUG nr. 34 / 2013 privind organizarea, administrarea si exploatarea pajistilor permanente si pentru modificarea si completareea Legii fondului funciar nr. 18 / 1991",
+"short": "HCL Adamclisi nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/28305",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-12-2021",
 "path": "local/constanta/adamclisi/2021/12",
 "kind": "local",
@@ -198,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-13-2021",
+"path": "local/constanta/adamclisi/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 13/2021 privind aprobarea numarului de persoane domiciliate pe raza comunei Adamclisi care beneficiaza de serviciile de colectare deseuri municipale pentru anul 2021 si achita taxa speciala de salubritate",
+"short": "HCL Adamclisi nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/28307",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +353,50 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-17-2021",
+"path": "local/constanta/adamclisi/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 17/2021 privind aprobarea scoaterii de la plata taxei speciale de salubritate a unor persoane domiciliate pe raza comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/28483",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-18-2021",
+"path": "local/constanta/adamclisi/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 18/2021 privind aprobarea prelungirii contractului de inchiriere nr. 140 / 1420 / 14.04.2015 inregistrat la Primaria comunei Adamclisi sub nr. 1815 / 22.04.2015 incheiat intre Comuna Adamclisi si Compania Nationala Posta Romana SA",
+"short": "HCL Adamclisi nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/28484",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +485,50 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-23-2021",
+"path": "local/constanta/adamclisi/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 23/2021 Privind aprobarea organigramei, statului de functii si a statului de personal al aparatului de specialitate al Primarului comunei Adamclisi pe anul 2021",
+"short": "HCL Adamclisi nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-16",
+"latest": "2021-04-16",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34371",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-24-2021",
+"path": "local/constanta/adamclisi/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 24/2021 privind aprobarea scutirii de la plata taxei speciale de salubritate a unor persoane domiciliate pe raza comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-16",
+"latest": "2021-04-16",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34372",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +665,29 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-31-2021",
+"path": "local/constanta/adamclisi/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 31/2021",
+"short": "HCL Adamclisi nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34554",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-32-2021",
 "path": "local/constanta/adamclisi/2021/32",
 "kind": "local",
@@ -507,6 +707,50 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-33-2021",
+"path": "local/constanta/adamclisi/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 33/2021 privind aprobarea incetarii contractului de inchiriere nr. 140 / 1420 / 14.04.2015 inregistrat la Primaria comunei Adamclisi sub nr. 1815 / 22.04.2015 incheiat intre Compania Nationala Posta Romana SA si Comuna Adamclisi intrucat in spatiul respectiv urmeaza sa functioneze Substatia de ambulanta",
+"short": "HCL Adamclisi nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34556",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-34-2021",
+"path": "local/constanta/adamclisi/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 34/2021 privind aprobarea relocarii spatiului in suprafata de 50 mp cu destinatia de farmacie din cladirea situata pe str. Decebal, nr. 103, localitatea Adamclisi, comuna Adamclisi care face obiectul contractului de inchiriere nr. 78 / 05.01.2017 pe noul amplasament situat in (apartament, str. Muzeului, nr. 13, sc. A, bloc 3 , localitatea Adamclisi, suprafata construita 50 mp, la care se adauga spatiul cu folosinta comuna (holurile de acces) – aflat in prezent in folosinta gratuita a Serviciului de Ambulanta Judetean Constanta identificat in domeniul public al Comunei Adamclisi , dupa eliberarea acestuia",
+"short": "HCL Adamclisi nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34557",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -532,6 +776,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-36-2021",
+"path": "local/constanta/adamclisi/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 36/2021 privind aprobarea modificarii inventarului domeniului privat al comunei Adamclisi prin dezmembrarea lotului in suprafata de 1209 mp, strada ion Creanga, nr. 1, localitatea Adamclisi din suprafata totala de 12430 mp teren intravilan cladiri cartier SMA",
+"short": "HCL Adamclisi nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34559",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-37-2021",
 "path": "local/constanta/adamclisi/2021/37",
 "kind": "local",
@@ -554,6 +820,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-38-2021",
+"path": "local/constanta/adamclisi/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 38/2021 privind aprobarea numarului de burse de studiu si al cuantumului unei burse pentru elevii din invatamantul preuniversitar de stat de pe raza comunei Adamclisi, aferente semestrului II, anul scolar 2020-2021",
+"short": "HCL Adamclisi nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34561",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-39-2021",
 "path": "local/constanta/adamclisi/2021/39",
 "kind": "local",
@@ -573,6 +861,29 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-40-2021",
+"path": "local/constanta/adamclisi/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 40/2021",
+"short": "HCL Adamclisi nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-11",
+"latest": "2021-06-11",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34563",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -776,6 +1087,29 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-50-2021",
+"path": "local/constanta/adamclisi/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 50/2021",
+"short": "HCL Adamclisi nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34911",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-51-2021",
 "path": "local/constanta/adamclisi/2021/51",
 "kind": "local",
@@ -862,6 +1196,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-55-2021",
+"path": "local/constanta/adamclisi/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 55/2021 Privind aprobarea Raportului referitor la activitatea desfasurata de catre asistentii personali ai persoanelor cu handicap grav din comuna Adamclisi, judetul Constanta pentru semestrul I al anului 2021",
+"short": "HCL Adamclisi nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/34916",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -953,6 +1309,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-60-2021",
+"path": "local/constanta/adamclisi/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 60/2021 privind desemnarea a doi membri suplimentari din Consiliul Local pentru Conisliul Administrativ al Liceului Tehnologic Jean Dinu”",
+"short": "HCL Adamclisi nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/37569",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-61-2021",
 "path": "local/constanta/adamclisi/2021/61",
 "kind": "local",
@@ -1016,6 +1394,29 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-64-2021",
+"path": "local/constanta/adamclisi/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 64/2021",
+"short": "HCL Adamclisi nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/39617",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1170,6 +1571,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-72-2021",
+"path": "local/constanta/adamclisi/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 72/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Adamclisi nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/40082",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

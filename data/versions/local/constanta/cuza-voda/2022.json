@@ -528,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-28-2022",
+   "path": "local/constanta/cuza-voda/2022/28",
+   "short": "HCL Cuza Vodă nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 28/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/57912",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/57912",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-29-2022",
    "path": "local/constanta/cuza-voda/2022/29",
    "short": "HCL Cuza Vodă nr. 29/2022",
@@ -568,6 +583,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/58742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-31-2022",
+   "path": "local/constanta/cuza-voda/2022/31",
+   "short": "HCL Cuza Vodă nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 31/2022 privind desemnarea președintelui de ședință pentru lunile iunie, iulie, august 2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/61158",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/61158",
      "sha256": null
     }
    ]
@@ -858,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-5-2022",
+   "path": "local/constanta/cuza-voda/2022/5",
+   "short": "HCL Cuza Vodă nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 5/2022 privind desemnarea președintelui de ședință pentru lunile martie, aprilie, mai 2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/50789",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/50789",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-50-2022",
    "path": "local/constanta/cuza-voda/2022/50",
    "short": "HCL Cuza Vodă nr. 50/2022",
@@ -1023,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-60-2022",
+   "path": "local/constanta/cuza-voda/2022/60",
+   "short": "HCL Cuza Vodă nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 60/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67520",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67520",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-61-2022",
    "path": "local/constanta/cuza-voda/2022/61",
    "short": "HCL Cuza Vodă nr. 61/2022",
@@ -1083,6 +1143,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-65-2022",
+   "path": "local/constanta/cuza-voda/2022/65",
+   "short": "HCL Cuza Vodă nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 65/2022 privind aprobarea Studiului de oportunitate privind vânzarea de loturi de teren ,,Construcție de locuințe” - zona D,E,F,G,H",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67525",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-66-2022",
+   "path": "local/constanta/cuza-voda/2022/66",
+   "short": "HCL Cuza Vodă nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 66/2022 privind însușirea Raportului de evaluare privind vânzarea de loturi de teren ,,Construcție de locuințe” - zona D,E,F,G,H",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67526",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-67-2022",
+   "path": "local/constanta/cuza-voda/2022/67",
+   "short": "HCL Cuza Vodă nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 67/2022 privind aprobarea Caietului de sarcini privind vânzarea de loturi de teren ,,Construcție de locuințe” - zona D,E,F,G,H",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67527",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-68-2022",
+   "path": "local/constanta/cuza-voda/2022/68",
+   "short": "HCL Cuza Vodă nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 68/2022 privind aprobarea vânzării de loturi de teren ,,Construcție de locuințe” - zona D,E,F,G,H",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67528",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-69-2022",
+   "path": "local/constanta/cuza-voda/2022/69",
+   "short": "HCL Cuza Vodă nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 69/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67529",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67529",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-7-2022",
    "path": "local/constanta/cuza-voda/2022/7",
    "short": "HCL Cuza Vodă nr. 7/2022",
@@ -1093,6 +1228,111 @@
      "from": "2022-02-10",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/50791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-70-2022",
+   "path": "local/constanta/cuza-voda/2022/70",
+   "short": "HCL Cuza Vodă nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 70/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67530",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-71-2022",
+   "path": "local/constanta/cuza-voda/2022/71",
+   "short": "HCL Cuza Vodă nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 71/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67531",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-72-2022",
+   "path": "local/constanta/cuza-voda/2022/72",
+   "short": "HCL Cuza Vodă nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 72/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67532",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-73-2022",
+   "path": "local/constanta/cuza-voda/2022/73",
+   "short": "HCL Cuza Vodă nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 73/2022 privind aprobarea Studiului de oportunitate pentru concesionarea unui imobil - teren extravilan, din domeniul public al comunei Cuza Vodă, județul Constanța cu destinația ,,Carieră de Caolin” identificat cu nr. cadastral 101729",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67533",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-74-2022",
+   "path": "local/constanta/cuza-voda/2022/74",
+   "short": "HCL Cuza Vodă nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 74/2022 privind însușirea Raportului de evaluare pentru concesionarea unui imobil - teren extravilan, din domeniul public al comunei Cuza Vodă, județul Constanța cu destinația ,,Carieră de Caolin” identificat cu nr. cadastral 101729",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67534",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-75-2022",
+   "path": "local/constanta/cuza-voda/2022/75",
+   "short": "HCL Cuza Vodă nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 75/2022 privind aprobarea Caietului de sarcini privind concesionarea unui imobil - teren extravilan, din domeniul public al comunei Cuza Vodă, județul Constanța cu destinația ,,Carieră de Caolin” identificat cu nr. cadastral 101729",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67535",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-76-2022",
+   "path": "local/constanta/cuza-voda/2022/76",
+   "short": "HCL Cuza Vodă nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 76/2022 privind concesionarea prin licitație publică deschisă a unui imobil - teren extravilan, din domeniul public al comunei Cuza Vodă, județul Constanța cu destinația ,,Carieră de Caolin” identificat cu nr. cadastral 101729",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/67536",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/67536",
      "sha256": null
     }
    ]
@@ -1143,6 +1383,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-8-2022",
+   "path": "local/constanta/cuza-voda/2022/8",
+   "short": "HCL Cuza Vodă nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 8/2022 privind aprobarea decontarii cheltuielilor de transport a personalului didactic care isi desfasoara activitatea la instituțiile de învățământ de pe raza comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/50792",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/50792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-80-2022",
+   "path": "local/constanta/cuza-voda/2022/80",
+   "short": "HCL Cuza Vodă nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 80/2022 privind desemnarea președintelui de ședință pentru lunile septembrie, octombrie, noiembrie 2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/72493",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72493",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-81-2022",
    "path": "local/constanta/cuza-voda/2022/81",
    "short": "HCL Cuza Vodă nr. 81/2022",
@@ -1158,6 +1428,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-82-2022",
+   "path": "local/constanta/cuza-voda/2022/82",
+   "short": "HCL Cuza Vodă nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 82/2022 privind alocarea unor sume pentru decontarea cheltuielilor de transport pentru lunile iunie-septembrie 2022, cadrelor didactice și personalul auxiliar care își desfășoară activitatea la unitățile de învățământ de pe raza comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/72495",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72495",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-83-2022",
    "path": "local/constanta/cuza-voda/2022/83",
    "short": "HCL Cuza Vodă nr. 83/2022",
@@ -1168,6 +1453,66 @@
      "from": "2022-10-10",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-84-2022",
+   "path": "local/constanta/cuza-voda/2022/84",
+   "short": "HCL Cuza Vodă nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 84/2022 privind vânzarea prin licitație publică a imobilului teren în suprafață de 217 mp situat în sola 24, parcela A84/1/39/2, lotul nr. 2, număr cadastral 101647 - aparținând domeniului privat al comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/72497",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-85-2022",
+   "path": "local/constanta/cuza-voda/2022/85",
+   "short": "HCL Cuza Vodă nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 85/2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/72498",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-86-2022",
+   "path": "local/constanta/cuza-voda/2022/86",
+   "short": "HCL Cuza Vodă nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 86/2022 privind desemnarea reprezentanților Consiliului Local Cuza Vodă, în Consiliul de Administrație al Scolii Gimnaziale nr. 1 Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/72499",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-87-2022",
+   "path": "local/constanta/cuza-voda/2022/87",
+   "short": "HCL Cuza Vodă nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 87/2022 de modificarea și completarea HCL nr. 85/2021 privind aprobarea unor ajutoare financiare copiilor minori cu handicap grav și copiilor care se află într-o situație de risc",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/72500",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/72500",
      "sha256": null
     }
    ]
@@ -1273,6 +1618,21 @@
      "from": "2022-11-09",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/77951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-94-2022",
+   "path": "local/constanta/cuza-voda/2022/94",
+   "short": "HCL Cuza Vodă nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 94/2022 privind desemnarea președintelui de ședință pentru lunile: decembrie 2022, ianuarie, februarie 2023",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/80779",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/80779",
      "sha256": null
     }
    ]

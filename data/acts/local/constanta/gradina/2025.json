@@ -3,6 +3,72 @@
 "shard": "local/constanta/gradina/2025",
 "acts": [
 {
+"slug": "hcl-constanta--gradina-1-2025",
+"path": "local/constanta/gradina/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 1/2025 privind acoperirirea definitivă a deficitului secţiunii de funcționare pe anul 2024 din excedentul bugetar al anilor precedenți, al Serviciului Public Apă Grădina, judeţul Constanţa",
+"short": "HCL Grădina nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/185997",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-2-2025",
+"path": "local/constanta/gradina/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 2/2025 privind utilizarea excedentului din anii anteriori în anul 2025 de către Comuna Grădina, județul Constanța și unitățile subordonate acesteia",
+"short": "HCL Grădina nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/185998",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-3-2025",
+"path": "local/constanta/gradina/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 3/2025 privind aprobarea documentației de dezmembrare a unui teren extravilan, proprietatea privată a comunei Grădina, județul Constanța, cu număr cadastral 103371",
+"short": "HCL Grădina nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/188784",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-4-2025",
 "path": "local/constanta/gradina/2025/4",
 "kind": "local",
@@ -22,6 +88,138 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-5-2025",
+"path": "local/constanta/gradina/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 5/2025 privind aprobarea rutelor, a stațiilor precum și intervalul orelor de transport al microbuzelor școlare în anul scolar 2024-2025",
+"short": "HCL Grădina nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/188786",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-6-2025",
+"path": "local/constanta/gradina/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 6/2025 privind alegerea președintelui de ședință pentru lunile februarie 2025 - aprilie 2025",
+"short": "HCL Grădina nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192832",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-7-2025",
+"path": "local/constanta/gradina/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 7/2025 privind aprobarea programului de acțiuni comunitare pentru anul 2025",
+"short": "HCL Grădina nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192833",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-8-2025",
+"path": "local/constanta/gradina/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 8/2025 privind închirierea prin atribuire directă a suprafețelor de pajiști naturale, disponibile, începând cu data de 04.04.2025, 05.04.2025 respectiv 13.04.2025, aflate în domeniul privat al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192834",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-9-2025",
+"path": "local/constanta/gradina/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 9/2025 privind acordarea unui mandat special reprezentantului comunei Grădina în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+"short": "HCL Grădina nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192835",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-10-2025",
+"path": "local/constanta/gradina/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 10/2025 privind aprobarea Regulamentului referitor la realizarea sau amplasarea în zona drumurilor publice de interes local a oricăror construcții, lucrări, amenajări sau instalații în orice scop",
+"short": "HCL Grădina nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192836",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +245,74 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-12-2025",
+"path": "local/constanta/gradina/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 12/2025",
+"short": "HCL Grădina nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192838",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--gradina-13-2025",
+"path": "local/constanta/gradina/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 13/2025 privind modificarea contractului de concesiune nr.3725/17.11.2011 încheiat între comuna Grădina și S.A UNIREA GRĂDINA",
+"short": "HCL Grădina nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192839",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-14-2025",
+"path": "local/constanta/gradina/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 14/2025",
+"short": "HCL Grădina nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/192840",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--gradina-15-2025",
 "path": "local/constanta/gradina/2025/15",
 "kind": "local",
@@ -69,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-16-2025",
+"path": "local/constanta/gradina/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 16/2025 privind aprobarea bugetului local de venituri și cheltuieli, pe anul 2025, al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/198991",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-17-2025",
 "path": "local/constanta/gradina/2025/17",
 "kind": "local",
@@ -88,6 +376,50 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-18-2025",
+"path": "local/constanta/gradina/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 18/2025 privind aprobarea bugetului de venituri și cheltuieli, pe anul 2025, al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/198993",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-19-2025",
+"path": "local/constanta/gradina/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 19/2025 privind aprobarea organigramei și a statului de funcții al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța, pe anul 2025",
+"short": "HCL Grădina nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/198994",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +467,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-22-2025",
+"path": "local/constanta/gradina/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 22/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Grădina nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/200578",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-23-2025",
 "path": "local/constanta/gradina/2025/23",
 "kind": "local",
@@ -154,6 +508,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-24-2025",
+"path": "local/constanta/gradina/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 24/2025 privind aprobarea documentației de dezmembrare a unui imobil - teren intravilan, proprietatea comunei Grădina, județul Constanța, cu număr cadastral 101298 PS 1001, în 2(două) loturi",
+"short": "HCL Grădina nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/203374",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +578,249 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-27-2025",
+"path": "local/constanta/gradina/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 27/2025 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitare și extindere Şcoala Gimnazială Nr.1 Grădina din comuna Grădina, județul Constanța“",
+"short": "HCL Grădina nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/203377",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-28-2025",
+"path": "local/constanta/gradina/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 28/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare străzi în comuna Grădina, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Grădina nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/203378",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-29-2025",
+"path": "local/constanta/gradina/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 29/2025 privind alegerea președintelui de ședință pentru lunile mai 2025 - iulie 2025",
+"short": "HCL Grădina nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209554",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-30-2025",
+"path": "local/constanta/gradina/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 30/2025 privind aprobarea Actului adițional nr. 2 la Documentul de Poziție privind modul de implementare a Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța”",
+"short": "HCL Grădina nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209555",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-31-2025",
+"path": "local/constanta/gradina/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 31/2025 privind modificarea și înlocuirea Anexei nr.1 la HCL nr.8/2025 privind închirierea prin atribuire directă a suprafețelor de pajiști naturale, disponibile, începând cu data de 04.04.2025, 05.04.2025 respectiv 13.04.2025, aflate în domeniul privat al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209556",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-32-2025",
+"path": "local/constanta/gradina/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 32/2025 privind aprobarea revizuirii, modificării și completării Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209557",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-33-2025",
+"path": "local/constanta/gradina/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 33/2025 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2025, al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209558",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-34-2025",
+"path": "local/constanta/gradina/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 34/2025 privind aprobarea Proiectului Tehnic (P.T.) și a devizului general pentru obictivul de investiții ,,INFIINȚARE PARC FOTOVOLTAIC IN VEDEREA PRODUCERII DE ENERGIE DIN SURSE REGENERABILE PENTRU CONSUMUL PROPRIU, ÎN COMUNA GRĂDINA, JUDEȚUL CONSTANȚA”",
+"short": "HCL Grădina nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209559",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-35-2025",
+"path": "local/constanta/gradina/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 35/2025 privind acordarea unui mandat special reprezentantului comunei Grădina în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+"short": "HCL Grădina nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209560",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-36-2025",
+"path": "local/constanta/gradina/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 36/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare străzi în comuna Grădina, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Grădina nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/209561",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-37-2025",
+"path": "local/constanta/gradina/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 37/2025",
+"short": "HCL Grădina nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/214343",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--gradina-38-2025",
 "path": "local/constanta/gradina/2025/38",
 "kind": "local",
@@ -224,6 +843,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-39-2025",
+"path": "local/constanta/gradina/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 39/2025 privind aprobarea încheierii unui contract de acces pe proprietatea publică/privată în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastuctură necesare susținerii acestora, în cadrul proiectului ,, Construire infrastructură de comunicații în bandă largă cu rețele de tip VHCN în zonele albe din județele Constanța,Tulcea, Călărași și Ialomița.”",
+"short": "HCL Grădina nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/214345",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-40-2025",
 "path": "local/constanta/gradina/2025/40",
 "kind": "local",
@@ -243,6 +884,182 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-41-2025",
+"path": "local/constanta/gradina/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 41/2025 privind aprobarea metodologiei de vânzare a bunurilor imobile (terenuri și clădiri) aparținând domeniului privat al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/218920",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-42-2025",
+"path": "local/constanta/gradina/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 42/2025 privind vânzarea la licitaţie publică a unor terenuri intravilane, aparţinând domeniului privat al comunei Grădina, judetul Constanta",
+"short": "HCL Grădina nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/218921",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-43-2025",
+"path": "local/constanta/gradina/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 43/2025 privind alegerea președintelui de ședință pentru lunile august 2025 - octombrie 2025",
+"short": "HCL Grădina nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/223779",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-44-2025",
+"path": "local/constanta/gradina/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 44/2025 privind desemnarea reprezentantului Consiliului local al comunei Grădina, în Consiliul de administrație al Școlii Gimnaziale nr.1 Grădina pentru anul școlar 2025 - 2026",
+"short": "HCL Grădina nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/223780",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-45-2025",
+"path": "local/constanta/gradina/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 45/2025 privind desemnarea reprezentantului Consiliului local al comunei Grădina, în Comisia pentru evaluarea și asigurarea calității din cadrul Școlii Gimnaziale nr.1 Grădina pentru anul școlar 2025 - 2026",
+"short": "HCL Grădina nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/223781",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-46-2025",
+"path": "local/constanta/gradina/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 46/2025 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2025, al comunei Grădina, județul Constanța",
+"short": "HCL Grădina nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/223782",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-47-2025",
+"path": "local/constanta/gradina/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 47/2025 privind darea în administrare către Școala Gimnazială nr. 1 Grădina a bunurilor achiziționate în cadrul proiectului finanțat prin PNRR „Dotarea cu mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar la nivelul comunei Grădina, județul Constanța – Școala Gimnazială nr.1 din comuna Grădina”",
+"short": "HCL Grădina nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/223783",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-48-2025",
+"path": "local/constanta/gradina/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 48/2025 privind aprobarea renunțării la componenta „stații electrice de încărcare” din cadrul proiectului nr.C10-I1.2-1250, intitulat „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Grădina”",
+"short": "HCL Grădina nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/223784",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,66 @@
  "shard": "local/constanta/baneasa/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--baneasa-1-2020",
+   "path": "local/constanta/baneasa/2020/1",
+   "short": "HCL Băneasa nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 1/2020 privind privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/116",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-10-2020",
+   "path": "local/constanta/baneasa/2020/10",
+   "short": "HCL Băneasa nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 10/2020 privind prelungirea termenului unor contracte de închiriere și închirierea terenurilor ocupate fără titlu pentru terenurile ocupate de garaje și magazii edificate pe domeniul public al comunei Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/136",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-11-2020",
+   "path": "local/constanta/baneasa/2020/11",
+   "short": "HCL Băneasa nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 11/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/137",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-12-2020",
+   "path": "local/constanta/baneasa/2020/12",
+   "short": "HCL Băneasa nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 12/2020 privind aprobarea închirierii prin licitație publică a unui spațiu, pentru desfășurarea de activități medicale în cadrul clădirii policlinicii fostului centru de sănătate Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/138",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-13-2020",
    "path": "local/constanta/baneasa/2020/13",
    "short": "HCL Băneasa nr. 13/2020",
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-17-2020",
+   "path": "local/constanta/baneasa/2020/17",
+   "short": "HCL Băneasa nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 17/2020 privind desemnare reprezentanților consiliului local al comunei Băneasa și supleanții pentru fiecare dintre aceștia ,în comisia de evaluare,pentru evaluarea ofertelor privind închirierea prin licitație publică a unui spațiu,pentru desfașurarea de activitați medicale în cadrul clădirii policlinicii fostului centru de sănatate băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/144",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/144",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-18-2020",
    "path": "local/constanta/baneasa/2020/18",
    "short": "HCL Băneasa nr. 18/2020",
@@ -78,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-19-2020",
+   "path": "local/constanta/baneasa/2020/19",
+   "short": "HCL Băneasa nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 19/2020 Privind aprobarea modului de întocmire a Registrului Agricol, pentru perioada 2020 – 2024",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/272",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-2-2020",
    "path": "local/constanta/baneasa/2020/2",
    "short": "HCL Băneasa nr. 2/2020",
@@ -88,6 +178,36 @@
      "from": "2020-02-11",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-20-2020",
+   "path": "local/constanta/baneasa/2020/20",
+   "short": "HCL Băneasa nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 20/2020 Privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din raza teritorială a comunei Băneasa, judeţul Constanţa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/273",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-21-2020",
+   "path": "local/constanta/baneasa/2020/21",
+   "short": "HCL Băneasa nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 21/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/274",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/274",
      "sha256": null
     }
    ]
@@ -138,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-25-2020",
+   "path": "local/constanta/baneasa/2020/25",
+   "short": "HCL Băneasa nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 25/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/278",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-26-2020",
    "path": "local/constanta/baneasa/2020/26",
    "short": "HCL Băneasa nr. 26/2020",
@@ -153,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-27-2020",
+   "path": "local/constanta/baneasa/2020/27",
+   "short": "HCL Băneasa nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 27/2020 Privind aprobarea bugetului de venituri si cheltuieli al Clubului Sportiv „GLORIA BĂNEASA” persoană juridică de drept public în subordinea Consiliului Local al Comunei Băneasa, pentru anul 2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/280",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-28-2020",
+   "path": "local/constanta/baneasa/2020/28",
+   "short": "HCL Băneasa nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 28/2020 privind incheierea contului anual de execuţie al bugetului Club Sportiv „GLORIA „ Băneasa, pe anul 2019",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/281",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-29-2020",
    "path": "local/constanta/baneasa/2020/29",
    "short": "HCL Băneasa nr. 29/2020",
@@ -163,6 +328,21 @@
      "from": "2020-04-09",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-3-2020",
+   "path": "local/constanta/baneasa/2020/3",
+   "short": "HCL Băneasa nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 3/2020 privind înființarea serviciului voluntar pentru situații de urgență categoria v2 la nivelul uat băneasa, conform prevederilor o.m.a.i. 75/2019",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118",
      "sha256": null
     }
    ]
@@ -198,6 +378,96 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-32-2020",
+   "path": "local/constanta/baneasa/2020/32",
+   "short": "HCL Băneasa nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 32/2020 privind alocarea din bugetul local a unei sume pentru acordarea unui ajutor de urgenţă, familiei Ibiș Aidin",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/285",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-33-2020",
+   "path": "local/constanta/baneasa/2020/33",
+   "short": "HCL Băneasa nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 33/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/286",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-34-2020",
+   "path": "local/constanta/baneasa/2020/34",
+   "short": "HCL Băneasa nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 34/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/287",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-35-2020",
+   "path": "local/constanta/baneasa/2020/35",
+   "short": "HCL Băneasa nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 35/2020 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Mai 2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/2457",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/2457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-36-2020",
+   "path": "local/constanta/baneasa/2020/36",
+   "short": "HCL Băneasa nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 36/2020 Privind aprobarea Temei de proiectare şi a Notei conceptuale pentru proiectul „CENTRU COMUNITAR INTEGRAT ÎN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” pentru care se va depune Cerere de finanţare prin Programul Operațional Regional 2014 – 2020, Axa Prioritară 8 – „Dezvoltarea infrastructurii sanitare şi sociale”, Prioritatea de Investiții 8.1 – „Investiţii în infrastructurile sanitare şi sociale care contribuie la dezvoltarea la nivel local, reducând inegalităţile în ceea ce priveşte starea de sănătate, promovând incluziunea socială prin accesul la serviciile sociale, culturale și de recreere, precum și trecerea de la serviciile instituționale la serviciile prestate de comunităţi”, Obiectivul Specific 8.1 – „Creșterea accesibilității serviciilor de sănătate, comunitare și a celor de nivel secundar, în special pentru zonele sărace și izolate”, Operaţiunea B – „Centre comunitare integrate”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/2458",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/2458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-37-2020",
+   "path": "local/constanta/baneasa/2020/37",
+   "short": "HCL Băneasa nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 37/2020 Privind aprobarea Temei de proiectare şi a Notei conceptuale pentru proiectul „ÎMBUNĂTĂȚIREA EFICIENȚEI ENERGETICE LA CLADIREA PRIMĂRIEI ÎN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” pentru care se va depune Cerere de finanţare prin Programul Operațional Regional 2014 – 2020, Axa Prioritară 3 – „Prioritatea de investitii 3.1.,Componenta B - Cladiri publice”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/2459",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/2459",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-38-2020",
    "path": "local/constanta/baneasa/2020/38",
    "short": "HCL Băneasa nr. 38/2020",
@@ -228,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-4-2020",
+   "path": "local/constanta/baneasa/2020/4",
+   "short": "HCL Băneasa nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 4/2020 privind aprobarea contribuției financiare a comunei Băneasa, în calitate de promotor de proiect, în proiectul cers ,, clean energy for rural schools” finanțat prin mecanismul financiar norvegian 2014-2021 și mecanismul financiar al spațiului economic european 2014-2021, apelul ,, îmbunătâțirea eficienței energetice”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/119",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/119",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-40-2020",
    "path": "local/constanta/baneasa/2020/40",
    "short": "HCL Băneasa nr. 40/2020",
@@ -253,6 +538,66 @@
      "from": "2020-07-29",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/6983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-42-2020",
+   "path": "local/constanta/baneasa/2020/42",
+   "short": "HCL Băneasa nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 42/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/6984",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/6984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-43-2020",
+   "path": "local/constanta/baneasa/2020/43",
+   "short": "HCL Băneasa nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 43/2020 privind vanzarea prin licitatie publica a unui teren apartinand domeniului privat de interes local al Comunei Băneasa, situat in str. Belșugului nr. FN, și aprobarea Documentației de atribuire",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/6985",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/6985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-44-2020",
+   "path": "local/constanta/baneasa/2020/44",
+   "short": "HCL Băneasa nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 44/2020 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a Comunei Băneasa, aferent imobilului casă de locuit, situat în Comuna Băneasa, strada Trandafirilor, nr. 175",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/6986",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/6986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-45-2020",
+   "path": "local/constanta/baneasa/2020/45",
+   "short": "HCL Băneasa nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 45/2020 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a Comunei Băneasa, aferent imobilului casă de locuit, situat în Comuna Băneasa, strada Bujorului, nr. 4",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/6987",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/6987",
      "sha256": null
     }
    ]
@@ -318,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-5-2020",
+   "path": "local/constanta/baneasa/2020/5",
+   "short": "HCL Băneasa nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 5/2020 privind aprobarea garantării disponibilității fondurilor necesare implementării proiectului cers ,, clean energy for rural schools” finanțat prin mecanismul financiar norvegian 2014-2021 și mecanismul financiar al spațiului economic european 2014-2021, apelul ,, îmbunătâțirea eficienței energetice”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/120",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/120",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-50-2020",
    "path": "local/constanta/baneasa/2020/50",
    "short": "HCL Băneasa nr. 50/2020",
@@ -343,6 +703,21 @@
      "from": "2020-07-29",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/6993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-52-2020",
+   "path": "local/constanta/baneasa/2020/52",
+   "short": "HCL Băneasa nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 52/2020 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna August 2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/7321",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/7321",
      "sha256": null
     }
    ]
@@ -453,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-6-2020",
+   "path": "local/constanta/baneasa/2020/6",
+   "short": "HCL Băneasa nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 6/2020 privind actualizarea datelor de identificare a unor bunuri imobile situate în comuna Băneasa, înscrise în inventarul public al comunei Băneasa, aprobat și însușit prin h.c.l. nr. 83/17.09.2017",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/133",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/133",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-60-2020",
    "path": "local/constanta/baneasa/2020/60",
    "short": "HCL Băneasa nr. 60/2020",
@@ -493,6 +883,36 @@
      "from": "2020-09-15",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/8975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-63-2020",
+   "path": "local/constanta/baneasa/2020/63",
+   "short": "HCL Băneasa nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 63/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/8976",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/8976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-64-2020",
+   "path": "local/constanta/baneasa/2020/64",
+   "short": "HCL Băneasa nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 64/2020 privind alocarea din bugetul local a unei sume pentru acordarea unui ajutor de urgenţă, familiei Memet Ismail",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/8977",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/8977",
      "sha256": null
     }
    ]
@@ -568,6 +988,21 @@
      "from": "2020-10-20",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/10161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-7-2020",
+   "path": "local/constanta/baneasa/2020/7",
+   "short": "HCL Băneasa nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 7/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/134",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/134",
      "sha256": null
     }
    ]
@@ -718,6 +1153,21 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/13161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-8-2020",
+   "path": "local/constanta/baneasa/2020/8",
+   "short": "HCL Băneasa nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 8/2020",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/140",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/140",
      "sha256": null
     }
    ]

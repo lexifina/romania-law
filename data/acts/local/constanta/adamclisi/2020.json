@@ -91,6 +91,51 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-5-2020",
+"path": "local/constanta/adamclisi/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 5/2020 privind aprobarea scutrii de la plata taxei speciale de salubritate a unor persoane domiciliate pe raza comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/1539",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-6-2020",
+"path": "local/constanta/adamclisi/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 6/2020",
+"short": "HCL Adamclisi nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/1540",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-7-2020",
 "path": "local/constanta/adamclisi/2020/7",
 "kind": "local",
@@ -110,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-8-2020",
+"path": "local/constanta/adamclisi/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 8/2020 privind aprobarea inchirierii prin atribuire directa a suprafetelor disponibile de pajiste comunala aflate in extravilan, apartinand domeniului privat al comunei Adamclisi, judetul Constanta potrivit art. 9, alin. (2) din OUG nr. 34 / 2013 privind organizarea, administrarea si exploatarea pajistilor permanente si pentru modificarea si completarea legii fondulului funciar nr. 18 / 1991",
+"short": "HCL Adamclisi nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/1542",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-12-2020",
+"path": "local/constanta/adamclisi/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 12/2020 privind acordarea unui sprijin financiar din bugetul de venituri si cheltuieli al comunei Adamclisi , judetul Constanta pentru unitatile de cult apartinand cultelor religioase recunoscute din Romania care functioneaza pe raza comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/1576",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-17-2020",
+"path": "local/constanta/adamclisi/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 17/2020 privind aprobarea scutirii de la plata taxei speciale de salubritate a unor persoane domiciliate pe raza comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/1581",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-18-2020",
 "path": "local/constanta/adamclisi/2020/18",
 "kind": "local",
@@ -353,6 +464,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-22-2020",
+"path": "local/constanta/adamclisi/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 22/2020 privind stabilirea unor masuri necesare pentru prevenirea raspandirii coronavirusului",
+"short": "HCL Adamclisi nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-13",
+"latest": "2020-04-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/1586",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -466,6 +599,51 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-28-2020",
+"path": "local/constanta/adamclisi/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 28/2020 Privind aprobarea scutirii de la plata taxei speciale de salubritate a unor persoane domiciliate pe raza comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/5311",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-29-2020",
+"path": "local/constanta/adamclisi/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 29/2020",
+"short": "HCL Adamclisi nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/5312",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-30-2020",
 "path": "local/constanta/adamclisi/2020/30",
 "kind": "local",
@@ -507,6 +685,52 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-32-2020",
+"path": "local/constanta/adamclisi/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 32/2020",
+"short": "HCL Adamclisi nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/5315",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-33-2020",
+"path": "local/constanta/adamclisi/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 33/2020",
+"short": "HCL Adamclisi nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/5316",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -665,6 +889,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-41-2020",
+"path": "local/constanta/adamclisi/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 41/2020 privind aprobarea scutirii de la plata taxei speciale de salubritate a unor persoane domiciliate pe raza comunei Adamclisi, judetul Constanta si introducerea unor persoane cu domiciliul sau resedinta pe raza comunei Adamclisi la plata taxei speciale de salubritate",
+"short": "HCL Adamclisi nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/8716",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-42-2020",
 "path": "local/constanta/adamclisi/2020/42",
 "kind": "local",
@@ -684,6 +930,50 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-43-2020",
+"path": "local/constanta/adamclisi/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 43/2020 Privind aprobarea cuantumului si a numarului de burse acordate elevilor din invatamantul preuniversitar de stat din comuna Adamclisi in anul scolar 2019-2020",
+"short": "HCL Adamclisi nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/8718",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-44-2020",
+"path": "local/constanta/adamclisi/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 44/2020 Privind aprobarea Raportului privind activitatea desfasurata de catre asistentii personali ai persoanelor cu handicap grav din comuna Adamclisi, judetul Constanta pentru semestrul I al anului 2020",
+"short": "HCL Adamclisi nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/8719",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -750,6 +1040,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-48-2020",
+"path": "local/constanta/adamclisi/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 48/2020 Privind aprobarea incheierii unui contract de parteneriat tabara ,, FII AI ROMANIEI’’ intre UAT Comuna Adamclisi si Asociatia ,, NEAMUNIT’’",
+"short": "HCL Adamclisi nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/8723",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1084,6 +1396,29 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-64-2020",
+"path": "local/constanta/adamclisi/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 64/2020",
+"short": "HCL Adamclisi nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-21",
+"latest": "2020-10-21",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/10346",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-65-2020",
 "path": "local/constanta/adamclisi/2020/65",
 "kind": "local",
@@ -1103,6 +1438,72 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-66-2020",
+"path": "local/constanta/adamclisi/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 66/2020 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Adamclisi",
+"short": "HCL Adamclisi nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/12294",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-67-2020",
+"path": "local/constanta/adamclisi/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 67/2020 privind organizarea comisiilor de specialitate pe principalele domenii de activitate ale Consiliului Local al comunei Adamclisi",
+"short": "HCL Adamclisi nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/12295",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-68-2020",
+"path": "local/constanta/adamclisi/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 68/2020 privind alegerea viceprimarului comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/12296",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

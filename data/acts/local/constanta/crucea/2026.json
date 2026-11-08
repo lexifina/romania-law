@@ -3,6 +3,28 @@
 "shard": "local/constanta/crucea/2026",
 "acts": [
 {
+"slug": "hcl-constanta--crucea-1-2026",
+"path": "local/constanta/crucea/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 1/2026 privind alegerea președintelui de ședință pentru perioada ianuarie 2026 - martie 2026",
+"short": "HCL Crucea nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/249636",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-2-2026",
 "path": "local/constanta/crucea/2026/2",
 "kind": "local",
@@ -135,6 +157,29 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-8-2026",
+"path": "local/constanta/crucea/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 8/2026",
+"short": "HCL Crucea nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/249643",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--crucea-9-2026",
 "path": "local/constanta/crucea/2026/9",
 "kind": "local",
@@ -199,6 +244,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--crucea-12-2026",
+"path": "local/constanta/crucea/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 12/2026 privind aprobarea utilizarii excedentului rezultat la încheierea exercițiului bugetar al anului 2025",
+"short": "HCL Crucea nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/249647",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +402,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-19-2026",
+"path": "local/constanta/crucea/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 19/2026 privind atribuirea unui lot de teren în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personal",
+"short": "HCL Crucea nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/256241",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-20-2026",
 "path": "local/constanta/crucea/2026/20",
 "kind": "local",
@@ -420,6 +509,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-24-2026",
+"path": "local/constanta/crucea/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 24/2026 privind atestarea apartenenței la domeniul privat al comunei Crucea a unor terenuri situate în intravilanul localității Crucea, comuna Crucea, județul Constanța",
+"short": "HCL Crucea nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/261056",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -998,6 +1109,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-51-2026",
+"path": "local/constanta/crucea/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 51/2026 privind vânzarea prin licitație publică, în condițiile legii, a unor imobile terenuri aparținând domeniului privat al comunei Crucea, județul Constanța",
+"short": "HCL Crucea nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-05",
+"latest": "2026-08-05",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/277074",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-52-2026",
 "path": "local/constanta/crucea/2026/52",
 "kind": "local",
@@ -1017,6 +1150,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-53-2026",
+"path": "local/constanta/crucea/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 53/2026 privind alegerea președintelui de ședință pentru perioada iulie 2026 - septembrie 2026",
+"short": "HCL Crucea nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-05",
+"latest": "2026-08-05",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/278757",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1264,6 +1419,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-65-2026",
+"path": "local/constanta/crucea/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 65/2026 privind atribuirea de terenuri pentru construirea de locuință proprietate personală, în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată, cu modificările și completările ulterioare",
+"short": "HCL Crucea nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/284347",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-66-2026",
 "path": "local/constanta/crucea/2026/66",
 "kind": "local",
@@ -1371,6 +1548,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-71-2026",
+"path": "local/constanta/crucea/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 71/2026 privind desemnarea unui consilier local pentru a semna Actul constitutiv modificat și Hotărârile Crucea Multiservice S.R.L , în numele și pentru Asociatul unic, Comuna Crucea",
+"short": "HCL Crucea nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/284353",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

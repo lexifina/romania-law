@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-5-2024",
+"path": "local/constanta/adamclisi/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 5/2024 privind aprobarea Raportului semestrial al activitatii asistentilor personali, conform Legii 448/2006, pentru semestrul II al anului 2023",
+"short": "HCL Adamclisi nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/140275",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-6-2024",
 "path": "local/constanta/adamclisi/2024/6",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-7-2024",
+"path": "local/constanta/adamclisi/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 7/2024 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/142016",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +242,29 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-12-2024",
+"path": "local/constanta/adamclisi/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 12/2024",
+"short": "HCL Adamclisi nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-16",
+"latest": "2024-04-16",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/147457",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -309,6 +376,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-18-2024",
+"path": "local/constanta/adamclisi/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 18/2024 privind aprobarea inchirierii prin atribuire directa a suprafetei de 45.60 ha pajiste comunala aflata in extravilan, apartinand domeniului privat al comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-08",
+"latest": "2024-07-08",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/156847",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -441,6 +530,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-25-2024",
+"path": "local/constanta/adamclisi/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 25/2024 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/162048",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

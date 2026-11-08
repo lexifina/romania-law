@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-3-2023",
+"path": "local/constanta/adamclisi/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 3/2023 privind aprobarea incheierii actului aditional nr. 5 la Contractul de inchiriere nr. 78 / 05.01.2017 avand ca obiect inchirierea imobilului in suprafata de 50 mp cu destinatia de farmacie din cladirea situata pe str. Decebal, nr. 103, localitatea Adamclisi, comuna Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-17",
+"latest": "2023-02-17",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/88486",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-4-2023",
 "path": "local/constanta/adamclisi/2023/4",
 "kind": "local",
@@ -92,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-6-2023",
+"path": "local/constanta/adamclisi/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 6/2023 privind aprobarea scoaterii de la plata taxei speciale de salubritate a unor persoane care nu mai locuiesc pe raza comunei Adamclisi,",
+"short": "HCL Adamclisi nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-17",
+"latest": "2023-02-17",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/88489",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-7-2023",
 "path": "local/constanta/adamclisi/2023/7",
 "kind": "local",
@@ -111,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-8-2023",
+"path": "local/constanta/adamclisi/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 8/2023 privind alegerea presedintelui de sedinta , pentru perioada 07 februarie 2023- 07 mai 2023",
+"short": "HCL Adamclisi nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-10",
+"latest": "2023-02-10",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/88491",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +309,52 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-15-2023",
+"path": "local/constanta/adamclisi/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 15/2023",
+"short": "HCL Adamclisi nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-10",
+"latest": "2023-02-10",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/88498",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-16-2023",
+"path": "local/constanta/adamclisi/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 16/2023",
+"short": "HCL Adamclisi nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-10",
+"latest": "2023-02-10",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/88499",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -424,6 +536,74 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-25-2023",
+"path": "local/constanta/adamclisi/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 25/2023",
+"short": "HCL Adamclisi nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/91986",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-26-2023",
+"path": "local/constanta/adamclisi/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 26/2023",
+"short": "HCL Adamclisi nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/91987",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-27-2023",
+"path": "local/constanta/adamclisi/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 27/2023 privind aprobarea inchirierii prin atribuire directa a suprafetei de 100 ha pajiste comunala aflata in extravilan, apartinand domeniului privat al comunei Adamclisi, judetul Constanta",
+"short": "HCL Adamclisi nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/91988",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-28-2023",
 "path": "local/constanta/adamclisi/2023/28",
 "kind": "local",
@@ -490,6 +670,29 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-31-2023",
+"path": "local/constanta/adamclisi/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 31/2023",
+"short": "HCL Adamclisi nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-13",
+"latest": "2023-04-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/96921",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-32-2023",
 "path": "local/constanta/adamclisi/2023/32",
 "kind": "local",
@@ -531,6 +734,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-34-2023",
+"path": "local/constanta/adamclisi/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 34/2023 privind aprobarea implementarii proiectului „ACHIZITIE DE UTILAJE PENTRU PRESTAREA SERVICIILOR DE INTRETINERE A INFRASTRUCTURII DE INTERES LOCAL``",
+"short": "HCL Adamclisi nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-13",
+"latest": "2023-04-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/96924",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -578,6 +803,29 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-37-2023",
+"path": "local/constanta/adamclisi/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 37/2023",
+"short": "HCL Adamclisi nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-23",
+"latest": "2023-05-23",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/100099",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-38-2023",
 "path": "local/constanta/adamclisi/2023/38",
 "kind": "local",
@@ -597,6 +845,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-39-2023",
+"path": "local/constanta/adamclisi/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 39/2023 privind alegerea presedintelui de sedinta , pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-23",
+"latest": "2023-05-23",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/102818",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -685,6 +955,29 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-44-2023",
+"path": "local/constanta/adamclisi/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 44/2023",
+"short": "HCL Adamclisi nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/107123",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -934,6 +1227,50 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-56-2023",
+"path": "local/constanta/adamclisi/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 56/2023 privind alegerea presedintelui de sedinta , pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/114815",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-57-2023",
+"path": "local/constanta/adamclisi/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 57/2023 privind aprobarea Raportului semestrial al activitatii asistentilor personali, conform Legii 448/2006, pentru semestrul I al anului 2023",
+"short": "HCL Adamclisi nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/114816",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-58-2023",
 "path": "local/constanta/adamclisi/2023/58",
 "kind": "local",
@@ -1044,6 +1381,51 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-63-2023",
+"path": "local/constanta/adamclisi/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 63/2023",
+"short": "HCL Adamclisi nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/123143",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-64-2023",
+"path": "local/constanta/adamclisi/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 64/2023 privind modificarea componentei comisiei nr. 3 de specialitate pentru culte, juridica si de disciplina, apararea ordinii si linistii publice, apararea drepturilor cetatenilor, administratie publica localape privind principalele domenii de activitate ale Consiliului Local al comunei Adamcloisi",
+"short": "HCL Adamclisi nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/123144",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-65-2023",
 "path": "local/constanta/adamclisi/2023/65",
 "kind": "local",
@@ -1107,6 +1489,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-68-2023",
+"path": "local/constanta/adamclisi/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 68/2023 privind desemnarea a doi membri suplimentari din Consiliul Local pentru Conisliul de Administratie al Scolii Profesionale \" Jean Dinu”",
+"short": "HCL Adamclisi nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/123148",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

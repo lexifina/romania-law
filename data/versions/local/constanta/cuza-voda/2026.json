@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-18-2026",
+   "path": "local/constanta/cuza-voda/2026/18",
+   "short": "HCL Cuza Vodă nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 18/2026 privind aprobarea vânzării prin licitație publică a unor imobile (teren) din domeniul privat al comunei Cuza Vodă, județul Constanța",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/254434",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/254434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-19-2026",
+   "path": "local/constanta/cuza-voda/2026/19",
+   "short": "HCL Cuza Vodă nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 19/2026 privind aprobarea oportunitatii vanzarii directe, cu drept de preemptiune, a unor imobile-teren, apartinand domeniului privat al comunei Cuza Vodă, județul Constanța",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/254435",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/254435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-2-2026",
    "path": "local/constanta/cuza-voda/2026/2",
    "short": "HCL Cuza Vodă nr. 2/2026",
@@ -163,6 +193,51 @@
      "from": "2026-03-09",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/254436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-21-2026",
+   "path": "local/constanta/cuza-voda/2026/21",
+   "short": "HCL Cuza Vodă nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 21/2026 privind desemnarea consilierilor locali în Comisia de evaluare a performanţelor profesionale individuale ale Secretarului general al comunei Cuza Vodă, pentru activitatea desfăşurată în perioada 01.01.2025–31.12.2025",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/254437",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/254437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-22-2026",
+   "path": "local/constanta/cuza-voda/2026/22",
+   "short": "HCL Cuza Vodă nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 22/2026 privind desemnarea președintelui de ședință pentru lunile: martie, aprilie, mai 2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/254438",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/254438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-23-2026",
+   "path": "local/constanta/cuza-voda/2026/23",
+   "short": "HCL Cuza Vodă nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 23/2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/254669",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/254669",
      "sha256": null
     }
    ]
@@ -208,6 +283,21 @@
      "from": "2026-04-29",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/263857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-27-2026",
+   "path": "local/constanta/cuza-voda/2026/27",
+   "short": "HCL Cuza Vodă nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 27/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/263858",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/263858",
      "sha256": null
     }
    ]
@@ -303,6 +393,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-33-2026",
+   "path": "local/constanta/cuza-voda/2026/33",
+   "short": "HCL Cuza Vodă nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 33/2026 privind aprobarea vânzării prin licitație publică a unor imobile (teren) din domeniul privat al comunei Cuza Vodă, județul Constanța",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/266704",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/266704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-34-2026",
+   "path": "local/constanta/cuza-voda/2026/34",
+   "short": "HCL Cuza Vodă nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 34/2026 privind desemnarea președintelui de ședință pentru lunile: iunie, iulie, august 2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/266705",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/266705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-35-2026",
+   "path": "local/constanta/cuza-voda/2026/35",
+   "short": "HCL Cuza Vodă nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 35/2026 privind aprobarea rectificării bugetului local al comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/269150",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/269150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-36-2026",
+   "path": "local/constanta/cuza-voda/2026/36",
+   "short": "HCL Cuza Vodă nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 36/2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/269151",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/269151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-37-2026",
+   "path": "local/constanta/cuza-voda/2026/37",
+   "short": "HCL Cuza Vodă nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 37/2026 privind aprobarea modificării, completării și actualizării inventarului domeniului privat al comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/269152",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/269152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-38-2026",
+   "path": "local/constanta/cuza-voda/2026/38",
+   "short": "HCL Cuza Vodă nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 38/2026 privind aprobarea rectificării bugetului local al comunei Cuza Vodă, pe anul 2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/278864",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/278864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-39-2026",
+   "path": "local/constanta/cuza-voda/2026/39",
+   "short": "HCL Cuza Vodă nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 39/2026 privind atestarea apartenenței la domeniul privat al comunei Cuza Vodă a unor imobile - teren",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/278865",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/278865",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-4-2026",
    "path": "local/constanta/cuza-voda/2026/4",
    "short": "HCL Cuza Vodă nr. 4/2026",
@@ -328,6 +523,36 @@
      "from": "2026-07-29",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/278866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-41-2026",
+   "path": "local/constanta/cuza-voda/2026/41",
+   "short": "HCL Cuza Vodă nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 41/2026 privind acceptarea ofertei de donație a unor imobile – terenuri situate în intravilanul comunei Cuza Vodă, județul Constanța",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/278867",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/278867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-42-2026",
+   "path": "local/constanta/cuza-voda/2026/42",
+   "short": "HCL Cuza Vodă nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 42/2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/278868",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/278868",
      "sha256": null
     }
    ]

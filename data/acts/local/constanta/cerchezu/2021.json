@@ -3,6 +3,28 @@
 "shard": "local/constanta/cerchezu/2021",
 "acts": [
 {
+"slug": "hcl-constanta--cerchezu-1-2021",
+"path": "local/constanta/cerchezu/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 1/2021 privind alegerea unui nou preşedinte de şedinţă al Consiliului Local Cerchezu",
+"short": "HCL Cerchezu nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31274",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-2-2021",
 "path": "local/constanta/cerchezu/2021/2",
 "kind": "local",
@@ -67,6 +89,51 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-5-2021",
+"path": "local/constanta/cerchezu/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 5/2021",
+"short": "HCL Cerchezu nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31278",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-6-2021",
+"path": "local/constanta/cerchezu/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 6/2021 privind aprobarea actului adiţional nr. 1 la documentul de poziţie, avizarea documentaţiei de salubrizare aferent proiectului ”Sistemul de management integrat al deşeurilor”",
+"short": "HCL Cerchezu nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31280",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +247,29 @@
 }
 },
 {
+"slug": "hcl-constanta--cerchezu-12-2021",
+"path": "local/constanta/cerchezu/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 12/2021",
+"short": "HCL Cerchezu nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31292",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-13-2021",
 "path": "local/constanta/cerchezu/2021/13",
 "kind": "local",
@@ -221,6 +311,28 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-15-2021",
+"path": "local/constanta/cerchezu/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 15/2021 privind însuşirea Acordului de cooperare privind organizarea si exercitarea activităţii de audit public intern",
+"short": "HCL Cerchezu nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31295",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +402,72 @@
 }
 },
 {
+"slug": "hcl-constanta--cerchezu-19-2021",
+"path": "local/constanta/cerchezu/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 19/2021 privind modificarea componenţei Comisiei pentru sănătate, învâţământ , cultură, protecţie socială, activităţi sportive şi de agrement, aprobata prin HCL 25/2020",
+"short": "HCL Cerchezu nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31299",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-20-2021",
+"path": "local/constanta/cerchezu/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 20/2021 privind privind închirierea unui spaţiu în suprafaţă de 6 mp din cadrul imobilului „Piaţa Cerchezu” , din sat Cerchezu, strada Ghioceilor, nr.34",
+"short": "HCL Cerchezu nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31300",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-21-2021",
+"path": "local/constanta/cerchezu/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 21/2021 privind privind închirierea unui spaţiu în suprafaţa de 16 mp din cadrul imobilului Cămin Cultural Viroaga, sat Viroaga, strada Orizontului, nr.9",
+"short": "HCL Cerchezu nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31301",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-22-2021",
 "path": "local/constanta/cerchezu/2021/22",
 "kind": "local",
@@ -331,6 +509,28 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-24-2021",
+"path": "local/constanta/cerchezu/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 24/2021 privind alocarea de la bugetul local a unei sprijin financiar Parohiei Viroaga, pentru finalizarea lucrărilor de construire” Capelă mortuară”, Viroaga",
+"short": "HCL Cerchezu nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-26",
+"latest": "2021-05-26",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31305",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -378,6 +578,50 @@
 }
 },
 {
+"slug": "hcl-constanta--cerchezu-27-2021",
+"path": "local/constanta/cerchezu/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 27/2021 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu",
+"short": "HCL Cerchezu nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-05",
+"latest": "2021-07-05",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31328",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-28-2021",
+"path": "local/constanta/cerchezu/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 28/2021 privind scăderea unor creanţe fiscale provenite din amenzi prescrise",
+"short": "HCL Cerchezu nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-05",
+"latest": "2021-07-05",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/31329",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-29-2021",
 "path": "local/constanta/cerchezu/2021/29",
 "kind": "local",
@@ -400,6 +644,50 @@
 }
 },
 {
+"slug": "hcl-constanta--cerchezu-30-2021",
+"path": "local/constanta/cerchezu/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 30/2021 privind aprobarea Regulamentului de organizare si functionare a Consiliului local al comunei Cerchezu",
+"short": "HCL Cerchezu nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-17",
+"latest": "2021-08-17",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/36425",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-31-2021",
+"path": "local/constanta/cerchezu/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 31/2021 privind aprobarea Regulamentului propriu cuprinzand masurile metodologice, organizatorice, termenele si circulatia proiectelor de hotarari cu caracter normativ care se supun adoptarii Consiliului Local al Comunei Cerchezu",
+"short": "HCL Cerchezu nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-17",
+"latest": "2021-08-17",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/36426",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-32-2021",
 "path": "local/constanta/cerchezu/2021/32",
 "kind": "local",
@@ -419,6 +707,52 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-33-2021",
+"path": "local/constanta/cerchezu/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 33/2021",
+"short": "HCL Cerchezu nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/36663",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-34-2021",
+"path": "local/constanta/cerchezu/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 34/2021",
+"short": "HCL Cerchezu nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/36664",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,50 @@
 "shard": "local/constanta/gradina/2021",
 "acts": [
 {
+"slug": "hcl-constanta--gradina-1-2021",
+"path": "local/constanta/gradina/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 1/2021 privind aprobarea Contract-Cadru pentru acoperirea costurilor nete de gestiune a deșeurilor de ambalaje din deșeuri municipale ( colectate și transportate separat, stocare temporar, sortate și încredințate în vederea valorificării deșeurilor de ambalaje la nivelul UAT Grădina, destionate prin serviciul de salubrizare al UAT comuna Grădina și a închirierii acestuia cu SC Greenpaint Management SA în calitate de organizație care implementează răspunderea extinsă a producătorilor)",
+"short": "HCL Grădina nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-27",
+"latest": "2021-02-27",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/18279",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-2-2021",
+"path": "local/constanta/gradina/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 2/2021 privind aprobarea Actului Adițional nr.1 la Documentul de Poziție, avizarea Documentației de atribuire a contractului de delegare, prin concesionarea gestiunii serviciului de salubrizare aferent Proiectului „Sistem de Management integral al Deșeurilor în județul Constanța și acordarea unor mandate”",
+"short": "HCL Grădina nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-27",
+"latest": "2021-02-27",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/18280",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-3-2021",
 "path": "local/constanta/gradina/2021/3",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-10-2021",
+"path": "local/constanta/gradina/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 10/2021 privind alegerea președintelui de ședință pentru lunile februarie 2021- aprilie 2021",
+"short": "HCL Grădina nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/18417",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -576,6 +642,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-30-2021",
+"path": "local/constanta/gradina/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 30/2021 privind alegerea președintelui de ședință pentru lunile mai 2021-iulie 2021",
+"short": "HCL Grădina nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/24964",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-31-2021",
 "path": "local/constanta/gradina/2021/31",
 "kind": "local",
@@ -860,6 +948,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-44-2021",
+"path": "local/constanta/gradina/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 44/2021 privind alegerea președintelui de ședință pentru lunile august 2021-octombrie 2021",
+"short": "HCL Grădina nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/33771",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

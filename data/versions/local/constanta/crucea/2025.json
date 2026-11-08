@@ -3,6 +3,21 @@
  "shard": "local/constanta/crucea/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--crucea-1-2025",
+   "path": "local/constanta/crucea/2025/1",
+   "short": "HCL Crucea nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 1/2025 privind alegerea președintelui de ședință pentru perioada ianuarie 2025 - martie 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191505",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191505",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-10-2025",
    "path": "local/constanta/crucea/2025/10",
    "short": "HCL Crucea nr. 10/2025",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-17-2025",
+   "path": "local/constanta/crucea/2025/17",
+   "short": "HCL Crucea nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 17/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194684",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-18-2025",
    "path": "local/constanta/crucea/2025/18",
    "short": "HCL Crucea nr. 18/2025",
@@ -213,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-20-2025",
+   "path": "local/constanta/crucea/2025/20",
+   "short": "HCL Crucea nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 20/2025 privind aprobarea utilizarii excedentului rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/199052",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/199052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-21-2025",
    "path": "local/constanta/crucea/2025/21",
    "short": "HCL Crucea nr. 21/2025",
@@ -243,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-23-2025",
+   "path": "local/constanta/crucea/2025/23",
+   "short": "HCL Crucea nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 23/2025 privind modificarea Hotărârii Consiliului local nr.101/14.11.2023 privind actualizarea Actului constitutiv al Societății CRUCEA MULTISERVICE SRL și desemnarea administratorului acesteia",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/199055",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/199055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-24-2025",
    "path": "local/constanta/crucea/2025/24",
    "short": "HCL Crucea nr. 24/2025",
@@ -253,6 +313,21 @@
      "from": "2025-04-16",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/199056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-25-2025",
+   "path": "local/constanta/crucea/2025/25",
+   "short": "HCL Crucea nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 25/2025 privind alegerea președintelui de ședință pentru perioada aprilie 2025- iunie 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204032",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204032",
      "sha256": null
     }
    ]
@@ -483,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-4-2025",
+   "path": "local/constanta/crucea/2025/4",
+   "short": "HCL Crucea nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 4/2025 privind încheierea protocolului de predare-primire a terenului în suprafață de 500 mp teren intravilan, situat în curtea bisericii parohiale din localitatea Crucea în vederea realizării investiției CONSTRUIRE ANEXĂ PARTER - CAPELĂ MORTUARĂ",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191508",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-40-2025",
    "path": "local/constanta/crucea/2025/40",
    "short": "HCL Crucea nr. 40/2025",
@@ -588,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-47-2025",
+   "path": "local/constanta/crucea/2025/47",
+   "short": "HCL Crucea nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 47/2025 privind aprobarea încheierii de acte adiționale la Contractele de concesiune spații în care funcționează cabinete medicale",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/214288",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/214288",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-48-2025",
    "path": "local/constanta/crucea/2025/48",
    "short": "HCL Crucea nr. 48/2025",
@@ -603,6 +708,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-49-2025",
+   "path": "local/constanta/crucea/2025/49",
+   "short": "HCL Crucea nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 49/2025 privind aprobarea sumei de 20 400 lei în vederea organizării unei tabere școlare pentru elevii din Comuna Crucea",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/214290",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/214290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-5-2025",
+   "path": "local/constanta/crucea/2025/5",
+   "short": "HCL Crucea nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 5/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Crucea pentru anul 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191509",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191509",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-50-2025",
    "path": "local/constanta/crucea/2025/50",
    "short": "HCL Crucea nr. 50/2025",
@@ -613,6 +748,21 @@
      "from": "2025-08-21",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/214291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-51-2025",
+   "path": "local/constanta/crucea/2025/51",
+   "short": "HCL Crucea nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 51/2025 privind alegerea președintelui de ședință pentru perioada iulie 2025-septembrie 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217165",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217165",
      "sha256": null
     }
    ]
@@ -873,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-68-2025",
+   "path": "local/constanta/crucea/2025/68",
+   "short": "HCL Crucea nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 68/2025 cu privire la acordarea unui sprijin financiar parohiilor de pe raza comunei Crucea, în vederea organizării agapelor creștine cu ocazia celebrării hramurilor bisericilor",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222195",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222195",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-69-2025",
    "path": "local/constanta/crucea/2025/69",
    "short": "HCL Crucea nr. 69/2025",
@@ -898,6 +1063,36 @@
      "from": "2025-02-25",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/191511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-70-2025",
+   "path": "local/constanta/crucea/2025/70",
+   "short": "HCL Crucea nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 70/2025 privind desemnarea a doi reprezentanți ai Consiliului local în Consiliul de Administrație al Liceului Tehnologic Crucea pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/223798",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/223798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-71-2025",
+   "path": "local/constanta/crucea/2025/71",
+   "short": "HCL Crucea nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 71/2025 privind aprobarea traseelor și locurilor de îmbarcare/debarcare pentru autovehiculele școlare destinate transportului elevilor din învățământul preuniversitar din comuna Crucea în anul școlar 2025/2026",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/223799",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/223799",
      "sha256": null
     }
    ]
@@ -1008,6 +1203,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-79-2025",
+   "path": "local/constanta/crucea/2025/79",
+   "short": "HCL Crucea nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 79/2025 privind alegerea președintelui de ședință pentru perioada octombrie 2025-decembrie 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/234722",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/234722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-8-2025",
+   "path": "local/constanta/crucea/2025/8",
+   "short": "HCL Crucea nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 8/2025 privind alegerea viceprimarului Comunei Crucea, Județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191512",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-80-2025",
+   "path": "local/constanta/crucea/2025/80",
+   "short": "HCL Crucea nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 80/2025 privind aprobarea înfiinţării unui post contractual de mediator școlar, debutant, cu studii postliceale, în cadrul Compartimentului Învățământ din cadrul aparatului de specialitate al primarului comunei Crucea, judetul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/234723",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/234723",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-81-2025",
    "path": "local/constanta/crucea/2025/81",
    "short": "HCL Crucea nr. 81/2025",
@@ -1033,6 +1273,21 @@
      "from": "2025-11-18",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/234725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-83-2025",
+   "path": "local/constanta/crucea/2025/83",
+   "short": "HCL Crucea nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 83/2025 privind atribuirea unor loturi de teren pentru construirea de locuință proprietate personală, în condițiile Legii nr. 15/2003",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/234726",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/234726",
      "sha256": null
     }
    ]

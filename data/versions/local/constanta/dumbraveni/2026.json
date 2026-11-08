@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-11-2026",
+   "path": "local/constanta/dumbraveni/2026/11",
+   "short": "HCL Dumbrăveni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 11/2026 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/252911",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/252911",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-12-2026",
    "path": "local/constanta/dumbraveni/2026/12",
    "short": "HCL Dumbrăveni nr. 12/2026",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-14-2026",
+   "path": "local/constanta/dumbraveni/2026/14",
+   "short": "HCL Dumbrăveni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 14/2026 privind aprobarea scoaterii definitive din circuitul agricol de catre concesionar a unui imobil teren în suprafaţă totală de 7,6 ha, aparţinând domeniului privat al Comunei Dumbrăveni, având număr cadastral 101786",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/252914",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/252914",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-15-2026",
    "path": "local/constanta/dumbraveni/2026/15",
    "short": "HCL Dumbrăveni nr. 15/2026",
@@ -88,6 +118,21 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/252916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-17-2026",
+   "path": "local/constanta/dumbraveni/2026/17",
+   "short": "HCL Dumbrăveni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 17/2026",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/252917",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/252917",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-21-2026",
+   "path": "local/constanta/dumbraveni/2026/21",
+   "short": "HCL Dumbrăveni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 21/2026 privind inițierea procedurii de închiriere, prin atribuire directă, a suprafeței de 545,0991 ha pășune aflată în proprietatea privată a Comunei Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/257327",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/257327",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-22-2026",
    "path": "local/constanta/dumbraveni/2026/22",
    "short": "HCL Dumbrăveni nr. 22/2026",
@@ -193,6 +253,21 @@
      "from": "2026-06-16",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/262023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-25-2026",
+   "path": "local/constanta/dumbraveni/2026/25",
+   "short": "HCL Dumbrăveni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 25/2026 privind înfiinţarea unui post contractual in afara organigramei aparatului de specialitate al primarului comunei Dumbrăveni, judetul Constanta de mediator/consilier scolar pentru desfasurarea proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/262024",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/262024",
      "sha256": null
     }
    ]
@@ -408,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-39-2026",
+   "path": "local/constanta/dumbraveni/2026/39",
+   "short": "HCL Dumbrăveni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 39/2026 privind închirierea, prin atribuire directă, a suprafeței rămase nealocată de 51 ha pășune aflată în proprietatea privată a Comunei Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/270326",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/270326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-4-2026",
    "path": "local/constanta/dumbraveni/2026/4",
    "short": "HCL Dumbrăveni nr. 4/2026",
@@ -418,6 +508,21 @@
      "from": "2026-02-05",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/248860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-40-2026",
+   "path": "local/constanta/dumbraveni/2026/40",
+   "short": "HCL Dumbrăveni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 40/2026 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/275558",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/275558",
      "sha256": null
     }
    ]
@@ -463,6 +568,21 @@
      "from": "2026-09-15",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/275561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-44-2026",
+   "path": "local/constanta/dumbraveni/2026/44",
+   "short": "HCL Dumbrăveni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 44/2026",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/275562",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/275562",
      "sha256": null
     }
    ]

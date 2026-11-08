@@ -269,6 +269,29 @@
 }
 },
 {
+"slug": "hcl-constanta--aliman-13-2021",
+"path": "local/constanta/aliman/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 13/2021",
+"short": "HCL Aliman nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34522",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--aliman-14-2021",
 "path": "local/constanta/aliman/2021/14",
 "kind": "local",
@@ -288,6 +311,29 @@
 "council_name": "Consiliul Local al Comunei Aliman",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--aliman-15-2021",
+"path": "local/constanta/aliman/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 15/2021",
+"short": "HCL Aliman nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34524",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -420,6 +466,52 @@
 "council_name": "Consiliul Local al Comunei Aliman",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--aliman-22-2021",
+"path": "local/constanta/aliman/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 22/2021",
+"short": "HCL Aliman nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34531",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-23-2021",
+"path": "local/constanta/aliman/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 23/2021",
+"short": "HCL Aliman nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34532",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -574,6 +666,74 @@
 "council_name": "Consiliul Local al Comunei Aliman",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--aliman-31-2021",
+"path": "local/constanta/aliman/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 31/2021",
+"short": "HCL Aliman nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34545",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-32-2021",
+"path": "local/constanta/aliman/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 32/2021",
+"short": "HCL Aliman nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34546",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-33-2021",
+"path": "local/constanta/aliman/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 33/2021 privind acordarea unui sprijin financiar Parohiei Aliman, din comuna Aliman, judeţul Constanţa",
+"short": "HCL Aliman nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34547",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

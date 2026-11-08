@@ -3,6 +3,411 @@
  "shard": "local/constanta/cerchezu/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--cerchezu-1-2025",
+   "path": "local/constanta/cerchezu/2025/1",
+   "short": "HCL Cerchezu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 1/2025 privind aprobarea utilizării parțiale a excedentului bugetului local înregistrat la 31 decembrie 2024",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/191785",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/191785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-10-2025",
+   "path": "local/constanta/cerchezu/2025/10",
+   "short": "HCL Cerchezu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 10/2025 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2025 al Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201549",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-11-2025",
+   "path": "local/constanta/cerchezu/2025/11",
+   "short": "HCL Cerchezu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 11/2025 privind aprobarea Planului de acţiuni și lucrări de interes local , Comuna Cerchezu, ce vor fi executate de către beneficiarii de ajutor social în anul 2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201550",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-12-2025",
+   "path": "local/constanta/cerchezu/2025/12",
+   "short": "HCL Cerchezu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 12/2025 privind proiectul de hotarare privind aprobarea Strategiei de dezvoltare locala a comunei Cerchezu pentru perioada 2024-2027",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201551",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-13-2025",
+   "path": "local/constanta/cerchezu/2025/13",
+   "short": "HCL Cerchezu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 13/2025 privind includerea în domeniul public al comunei Cerchezu a unor bunuri imobile în vederea întabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201552",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-14-2025",
+   "path": "local/constanta/cerchezu/2025/14",
+   "short": "HCL Cerchezu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 14/2025 privind însușirea Acordului de Cooperare privind organizarea și exercitarea activității de amenajare a teritoriului și urbanismului la nivelul comunei Cerchezu, județul Constanța",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201553",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-15-2025",
+   "path": "local/constanta/cerchezu/2025/15",
+   "short": "HCL Cerchezu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 15/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu pe anul 2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/205292",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/205292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-16-2025",
+   "path": "local/constanta/cerchezu/2025/16",
+   "short": "HCL Cerchezu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 16/2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/205293",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/205293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-17-2025",
+   "path": "local/constanta/cerchezu/2025/17",
+   "short": "HCL Cerchezu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 17/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/205294",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/205294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-18-2025",
+   "path": "local/constanta/cerchezu/2025/18",
+   "short": "HCL Cerchezu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 18/2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/207230",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/207230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-19-2025",
+   "path": "local/constanta/cerchezu/2025/19",
+   "short": "HCL Cerchezu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 19/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/213505",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/213505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-2-2025",
+   "path": "local/constanta/cerchezu/2025/2",
+   "short": "HCL Cerchezu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 2/2025 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201352",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-20-2025",
+   "path": "local/constanta/cerchezu/2025/20",
+   "short": "HCL Cerchezu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 20/2025 privind atestarea apartenentei la domeniul privat al comunei Cerchezu a terenurilor neproductive N367/58 – 499 mp, N367/59-410 mp, NP69/20-17 447 mp, NP 69/21 – 11 054 mp, CO93/1 – 241 mp, Movila Udeanu – 461 mp si terenul arabil din localitatea Viroaga, str. Mesterul Manole, nr. 10 – 1 000 mp",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/213506",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/213506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-21-2025",
+   "path": "local/constanta/cerchezu/2025/21",
+   "short": "HCL Cerchezu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 21/2025 privind aprobarea Actului adițional nr. 2 la Documentul de Poziție privind modul de implementare a Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/213507",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/213507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-22-2025",
+   "path": "local/constanta/cerchezu/2025/22",
+   "short": "HCL Cerchezu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 22/2025 privind alocarea din bugetul local a sumei de 20 000 lei, în vederea organizării si desfășurării zilei de 1 Iunie – Ziua Nationala a Copilului",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/214182",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/214182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-23-2025",
+   "path": "local/constanta/cerchezu/2025/23",
+   "short": "HCL Cerchezu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 23/2025 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216746",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-24-2025",
+   "path": "local/constanta/cerchezu/2025/24",
+   "short": "HCL Cerchezu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 24/2025 privind scaderea debitelor inregistrate eronat, in evidentele fiscale ale comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216747",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-25-2025",
+   "path": "local/constanta/cerchezu/2025/25",
+   "short": "HCL Cerchezu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 25/2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216748",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-26-2025",
+   "path": "local/constanta/cerchezu/2025/26",
+   "short": "HCL Cerchezu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 26/2025 pentru revocarea Hotararii Consiliului Local Cerchezu nr. 13/ 20.03.2025 privind includerea în domeniul public al comunei Cerchezu a unor bunuri imobile în vederea întabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216749",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-27-2025",
+   "path": "local/constanta/cerchezu/2025/27",
+   "short": "HCL Cerchezu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 27/2025 privind modificarea și completarea structurii organizatorice și a statului de funcții ale comunei Cerchezu, județul Constanța",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216750",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-28-2025",
+   "path": "local/constanta/cerchezu/2025/28",
+   "short": "HCL Cerchezu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 28/2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216751",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-29-2025",
+   "path": "local/constanta/cerchezu/2025/29",
+   "short": "HCL Cerchezu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 29/2025 privind atestarea apartenentei la domeniul privat al comunei Cerchezu a 5 (cinci) loturi",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216752",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-3-2025",
+   "path": "local/constanta/cerchezu/2025/3",
+   "short": "HCL Cerchezu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 3/2025 privind aprobarea indicatorilor economici privind cheltuielile necesare realizării documentației de urbanism cu privire la actualizarea Planului Urbanism General (P.U.G) al comunei Cerchezu, județul Constanța",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201353",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-30-2025",
+   "path": "local/constanta/cerchezu/2025/30",
+   "short": "HCL Cerchezu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 30/2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/216753",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/216753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-31-2025",
+   "path": "local/constanta/cerchezu/2025/31",
+   "short": "HCL Cerchezu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 31/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu pe anul 2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/220041",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/220041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-32-2025",
+   "path": "local/constanta/cerchezu/2025/32",
+   "short": "HCL Cerchezu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 32/2025 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/231466",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/231466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-33-2025",
+   "path": "local/constanta/cerchezu/2025/33",
+   "short": "HCL Cerchezu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 33/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu pe anul 2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/231467",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/231467",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-34-2025",
    "path": "local/constanta/cerchezu/2025/34",
    "short": "HCL Cerchezu nr. 34/2025",
@@ -88,6 +493,21 @@
      "from": "2025-10-27",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/231886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-4-2025",
+   "path": "local/constanta/cerchezu/2025/4",
+   "short": "HCL Cerchezu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 4/2025 privind dezmembrarea unei suprafeţe de teren, însușirea și aprobarea documentației cadastrale de dezmembrare, proprietate privată a comunei Cerchezu, situată în intravilanul localitatii Magura, comuna Cerchezu, strada Izvor, nr. 32",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201354",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201354",
      "sha256": null
     }
    ]
@@ -228,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cerchezu-5-2025",
+   "path": "local/constanta/cerchezu/2025/5",
+   "short": "HCL Cerchezu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 5/2025",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201355",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201355",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-50-2025",
    "path": "local/constanta/cerchezu/2025/50",
    "short": "HCL Cerchezu nr. 50/2025",
@@ -318,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cerchezu-7-2025",
+   "path": "local/constanta/cerchezu/2025/7",
+   "short": "HCL Cerchezu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 7/2025 privind acordarea unui mandat special reprezentantului comunei Cerchezu, în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară “Dobrogea”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201357",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201357",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-8-2025",
    "path": "local/constanta/cerchezu/2025/8",
    "short": "HCL Cerchezu nr. 8/2025",
@@ -328,6 +778,21 @@
      "from": "2025-04-08",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-9-2025",
+   "path": "local/constanta/cerchezu/2025/9",
+   "short": "HCL Cerchezu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 9/2025 privind aprobarea traseelor și locurilor de îmbarcare/debarcare pentru autovehiculele școlare destinate transportului elevilor din învățământul preuniversitar de stat din comuna Cerchzu în anul școlar 2025-2026",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201359",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201359",
      "sha256": null
     }
    ]

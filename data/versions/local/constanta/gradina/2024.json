@@ -3,6 +3,66 @@
  "shard": "local/constanta/gradina/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--gradina-1-2024",
+   "path": "local/constanta/gradina/2024/1",
+   "short": "HCL Grădina nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 1/2024 privind aprobarea organizării reţelei şcolare de învăţământ din comuna Grădina, judeţul Constanţa, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/136755",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/136755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-10-2024",
+   "path": "local/constanta/gradina/2024/10",
+   "short": "HCL Grădina nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 10/2024 privind aprobarea bugetului de venituri și cheltuieli, pe anul 2024, al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140089",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-11-2024",
+   "path": "local/constanta/gradina/2024/11",
+   "short": "HCL Grădina nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 11/2024 privind aprobarea organigramei și a statului nominal de personal al Serviciului Public Apă Grădina din subordinea Consiliului Local al comunei Grădina, județul Constanța, pe anul 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140090",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-12-2024",
+   "path": "local/constanta/gradina/2024/12",
+   "short": "HCL Grădina nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 12/2024 privind alegerea președintelui de ședință pentru lunile februarie 2024 - aprilie 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145595",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-13-2024",
    "path": "local/constanta/gradina/2024/13",
    "short": "HCL Grădina nr. 13/2024",
@@ -13,6 +73,51 @@
      "from": "2024-02-29",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/145596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-14-2024",
+   "path": "local/constanta/gradina/2024/14",
+   "short": "HCL Grădina nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 14/2024 privind aprobarea Acordului de înfrățire între Comuna Grădina, judeţul Constanța din România şi Comuna Vatici, Raionul Orhei din Republica Moldova",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145597",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-15-2024",
+   "path": "local/constanta/gradina/2024/15",
+   "short": "HCL Grădina nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 15/2024 privind închirierea prin atribuire directă a suprafețelor de pajiști naturale, disponibile, aflate în domeniul privat al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145598",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-16-2024",
+   "path": "local/constanta/gradina/2024/16",
+   "short": "HCL Grădina nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 16/2024 privind reglementarea acordării ajutoarelor de urgență, ajutoarelor comunitare și ajutoarelor de înmormântare la nivelul comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145599",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145599",
      "sha256": null
     }
    ]
@@ -33,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-18-2024",
+   "path": "local/constanta/gradina/2024/18",
+   "short": "HCL Grădina nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 18/2024 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2024, al Comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145601",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-19-2024",
    "path": "local/constanta/gradina/2024/19",
    "short": "HCL Grădina nr. 19/2024",
@@ -43,6 +163,21 @@
      "from": "2024-02-29",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/145602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-2-2024",
+   "path": "local/constanta/gradina/2024/2",
+   "short": "HCL Grădina nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 2/2024 privind acoperirirea definitivă a deficitului secţiunii de funcționare pe anul 2023 din excedentul bugetar al anilor precedenți, al comunei Grădina, judeţul Constanţa",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/136756",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/136756",
      "sha256": null
     }
    ]
@@ -78,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-22-2024",
+   "path": "local/constanta/gradina/2024/22",
+   "short": "HCL Grădina nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 22/2024 privind aprobarea programului de acțiuni comunitare pentru anul 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/150224",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/150224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-23-2024",
+   "path": "local/constanta/gradina/2024/23",
+   "short": "HCL Grădina nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 23/2024 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ”Administrație” din aparatul de specialitate al primarului comunei Grădina, județul Constanța și a Regulamentului pentru decontarea cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/150225",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/150225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-24-2024",
+   "path": "local/constanta/gradina/2024/24",
+   "short": "HCL Grădina nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 24/2024 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2024, al Comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/152535",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/152535",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-25-2024",
    "path": "local/constanta/gradina/2024/25",
    "short": "HCL Grădina nr. 25/2024",
@@ -88,6 +268,111 @@
      "from": "2025-04-23",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/152536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-26-2024",
+   "path": "local/constanta/gradina/2024/26",
+   "short": "HCL Grădina nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 26/2024 privind alegerea președintelui de ședință pentru lunile mai 2024 - iulie 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/156945",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/156945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-27-2024",
+   "path": "local/constanta/gradina/2024/27",
+   "short": "HCL Grădina nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 27/2024 privind neaplicarea măsurilor prevăzute de art. XXIX alin.(1) din Legea nr.296/2023 privind unele măsuri fiscal - bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, pentru Serviciul Public Apă Grădina din subordinea Consiliului local Grădina, județul Constanța și continuarea activității acestuia în forma juridică actuală",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/156946",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/156946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-28-2024",
+   "path": "local/constanta/gradina/2024/28",
+   "short": "HCL Grădina nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 28/2024 privind delegarea gestiunii serviciului de iluminat public al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/156947",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/156947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-29-2024",
+   "path": "local/constanta/gradina/2024/29",
+   "short": "HCL Grădina nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 29/2024 privind acordarea unui mandat special reprezentantului comunei Grădina în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară ,, Dobrogea”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/156948",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/156948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-3-2024",
+   "path": "local/constanta/gradina/2024/3",
+   "short": "HCL Grădina nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 3/2024 privind utilizarea excedentului din anii anteriori în anul 2024 de către Comuna Grădina, județul Constanța și unitățile subordonate acesteia",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/136757",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/136757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-30-2024",
+   "path": "local/constanta/gradina/2024/30",
+   "short": "HCL Grădina nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 30/2024 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2024, al Comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/156949",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/156949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-31-2024",
+   "path": "local/constanta/gradina/2024/31",
+   "short": "HCL Grădina nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 31/2024 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2024, al Comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/160202",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/160202",
      "sha256": null
     }
    ]
@@ -423,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-6-2024",
+   "path": "local/constanta/gradina/2024/6",
+   "short": "HCL Grădina nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 6/2024 privind constituirea Consiliului Comunitar Consultativ la nivelul comunei Grădina",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140085",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140085",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-7-2024",
    "path": "local/constanta/gradina/2024/7",
    "short": "HCL Grădina nr. 7/2024",
@@ -433,6 +733,36 @@
      "from": "2024-01-30",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/140086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-8-2024",
+   "path": "local/constanta/gradina/2024/8",
+   "short": "HCL Grădina nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 8/2024 privind aprobarea bugetului local de venituri și cheltuieli, pe anul 2024, al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140087",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-9-2024",
+   "path": "local/constanta/gradina/2024/9",
+   "short": "HCL Grădina nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 9/2024 privind stabilirea indemnizațiilor lunare și a salariilor de bază demnitarilor, funcţionarilor publici şi personalului contractual din cadrul aparatului de specialitate al primarului comunei Grădina, județul Constanța și serviciilor publice din subordinea Consiliului Local al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140088",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140088",
      "sha256": null
     }
    ]

@@ -3,6 +3,96 @@
  "shard": "local/constanta/baneasa/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--baneasa-1-2023",
+   "path": "local/constanta/baneasa/2023/1",
+   "short": "HCL Băneasa nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 1/2023 Privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din raza teritorială a comunei Băneasa, judeţul Constanţa, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87968",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-10-2023",
+   "path": "local/constanta/baneasa/2023/10",
+   "short": "HCL Băneasa nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 10/2023 privind stabilirea salariilor de bază începând cu data de 01 ianuarie 2023 pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Băneasa şi din serviciile publice din subordinea Consiliului Local al Comunei Baneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87977",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-11-2023",
+   "path": "local/constanta/baneasa/2023/11",
+   "short": "HCL Băneasa nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 11/2023 Proiect de hotarare privind utilizarea excedentului bugetar rezultat la încheierea exerciţiului bugetar pentru anul 2022, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare, pentru lucrari de investitii propuse a se realiza in anul 2023 conform planului de investitii, precum și acoperirea definitivă a deficitului anului 2022 la secţiunea de dezvoltare",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87978",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-12-2023",
+   "path": "local/constanta/baneasa/2023/12",
+   "short": "HCL Băneasa nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 12/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87979",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-13-2023",
+   "path": "local/constanta/baneasa/2023/13",
+   "short": "HCL Băneasa nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 13/2023 privind preluarea unui contract de inchiriere asupra unui teren ce apartine domeniului privat al comunei",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92485",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-14-2023",
+   "path": "local/constanta/baneasa/2023/14",
+   "short": "HCL Băneasa nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 14/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92486",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-15-2023",
    "path": "local/constanta/baneasa/2023/15",
    "short": "HCL Băneasa nr. 15/2023",
@@ -13,6 +103,171 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-16-2023",
+   "path": "local/constanta/baneasa/2023/16",
+   "short": "HCL Băneasa nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 16/2023 privind aprobarea vânzării și încheierii contractului de vânzare-cumpărare pentru locuința din fondul locativ de stat, aflată în domeniul privat al comunei Băneasa, situată în str. Trandafirilor, nr. 92, Bl.10, ap.3, parter, comuna Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92488",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-17-2023",
+   "path": "local/constanta/baneasa/2023/17",
+   "short": "HCL Băneasa nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 17/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92489",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-18-2023",
+   "path": "local/constanta/baneasa/2023/18",
+   "short": "HCL Băneasa nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 18/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92490",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-19-2023",
+   "path": "local/constanta/baneasa/2023/19",
+   "short": "HCL Băneasa nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 19/2023 Privind aprobarea bugetului de venituri si cheltuieli al Clubului Sportiv „GLORIA BĂNEASA” persoană juridică de drept public în subordinea Consiliului Local al Comunei Băneasa, pentru anul 2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92491",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-2-2023",
+   "path": "local/constanta/baneasa/2023/2",
+   "short": "HCL Băneasa nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 2/2023 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Februarie 2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87969",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-20-2023",
+   "path": "local/constanta/baneasa/2023/20",
+   "short": "HCL Băneasa nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 20/2023 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv „GLORIA BĂNEASA” persoană juridică de drept public în subordinea Consiliului Local al Comunei Băneasa, pentru anul 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92492",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-21-2023",
+   "path": "local/constanta/baneasa/2023/21",
+   "short": "HCL Băneasa nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 21/2023 privind rectificarea bugetului local şi modificarea listei de investiţii pe anul 2023, rectificare I",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92493",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-22-2023",
+   "path": "local/constanta/baneasa/2023/22",
+   "short": "HCL Băneasa nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 22/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99936",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-23-2023",
+   "path": "local/constanta/baneasa/2023/23",
+   "short": "HCL Băneasa nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 23/2023 Privind aprobarea indicatorilor tehnico-economici actualizaţi pentru obiectivul de investiţie „REABILITARE TROTUARE STR. TRANDAFIRILOR ȘI STR. FLORILOR IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” faza de proiectare Documentaţia de Avizare a Lucrărilor de Intervenţie (D.A.L.I), cuprinși în devizul general, după finalizarea procedurii de achiziție publică",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99937",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-24-2023",
+   "path": "local/constanta/baneasa/2023/24",
+   "short": "HCL Băneasa nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 24/2023 Privind aprobarea cofinanțării pentru categoriile de cheltuieli finanțate de la bugetul local pentru Proiectul „REABILITARE TROTUARE STR. TRANDAFIRILOR ȘI STR. FLORILOR IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” finanțat prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99938",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-25-2023",
+   "path": "local/constanta/baneasa/2023/25",
+   "short": "HCL Băneasa nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 25/2023 privind rectificarea bugetului local şi modificarea listei de investiţii pe anul 2023, luna Aprilie 2023 rectificare II",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99939",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99939",
      "sha256": null
     }
    ]
@@ -33,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-27-2023",
+   "path": "local/constanta/baneasa/2023/27",
+   "short": "HCL Băneasa nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 27/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99941",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99941",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-28-2023",
    "path": "local/constanta/baneasa/2023/28",
    "short": "HCL Băneasa nr. 28/2023",
@@ -43,6 +313,186 @@
      "from": "2023-04-27",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-29-2023",
+   "path": "local/constanta/baneasa/2023/29",
+   "short": "HCL Băneasa nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 29/2023 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Mai 2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99943",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-3-2023",
+   "path": "local/constanta/baneasa/2023/3",
+   "short": "HCL Băneasa nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 3/2023 privind aprobarea Planului anual de acţiuni şi lucrări de interes local pentru persoanele apte de muncă beneficiare de venit minim garantat, pentru anul 2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87970",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-30-2023",
+   "path": "local/constanta/baneasa/2023/30",
+   "short": "HCL Băneasa nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 30/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/103633",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/103633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-31-2023",
+   "path": "local/constanta/baneasa/2023/31",
+   "short": "HCL Băneasa nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 31/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/103634",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/103634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-32-2023",
+   "path": "local/constanta/baneasa/2023/32",
+   "short": "HCL Băneasa nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 32/2023 Privind aprobarea indicatorilor tehnico-economici actualizaţi pentru obiectivul de investiţie „REABILITARE DRUM COMUNAL DCL 475 IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” faza de proiectare Documentaţia de Avizare a Lucrărilor de Intervenţie (D.A.L.I), cuprinși în devizul general",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107215",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-33-2023",
+   "path": "local/constanta/baneasa/2023/33",
+   "short": "HCL Băneasa nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 33/2023 Privind aprobarea cofinanțării pentru categoriile de cheltuieli finanțate de la bugetul local pentru Proiectul „REABILITARE DRUM COMUNAL DCL 475 IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” finanțat prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107216",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-34-2023",
+   "path": "local/constanta/baneasa/2023/34",
+   "short": "HCL Băneasa nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 34/2023 Pentru validarea Dispoziției primarului nr. 231/25.04.2023 privind rectificarea bugetului local",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107217",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-35-2023",
+   "path": "local/constanta/baneasa/2023/35",
+   "short": "HCL Băneasa nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 35/2023 privind incheierea contului anual de execuţie a bugetului local pe anul 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107218",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-36-2023",
+   "path": "local/constanta/baneasa/2023/36",
+   "short": "HCL Băneasa nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 36/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107219",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-37-2023",
+   "path": "local/constanta/baneasa/2023/37",
+   "short": "HCL Băneasa nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 37/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107220",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-38-2023",
+   "path": "local/constanta/baneasa/2023/38",
+   "short": "HCL Băneasa nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 38/2023 privind aprobarea delegarii dreptului de depunere a Cererii de finanțare a proiectului „Dotarea cu microbuze electrice pentru elevi a unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța” Componenta C15: Educație, Investiția 10: „Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi”, finanțat din bugetul Ministerului Educației, prin Programul Național de Redresare și Reziliență de către UAT Județul Constanța, Consiliul Județean Constanța",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107221",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-39-2023",
+   "path": "local/constanta/baneasa/2023/39",
+   "short": "HCL Băneasa nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 39/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107222",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107222",
      "sha256": null
     }
    ]
@@ -63,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-40-2023",
+   "path": "local/constanta/baneasa/2023/40",
+   "short": "HCL Băneasa nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 40/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107223",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107223",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-41-2023",
    "path": "local/constanta/baneasa/2023/41",
    "short": "HCL Băneasa nr. 41/2023",
@@ -73,6 +538,426 @@
      "from": "2023-06-19",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-42-2023",
+   "path": "local/constanta/baneasa/2023/42",
+   "short": "HCL Băneasa nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 42/2023 privind incheierea contului anual de execuţie al bugetului Club Sportiv „GLORIA „ Băneasa, pe anul 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114882",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-43-2023",
+   "path": "local/constanta/baneasa/2023/43",
+   "short": "HCL Băneasa nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 43/2023 privind trecerea din domeniul privat al UAT Comuna Băneasa în domeniul public al UAT Comuna Băneasa și administrarea Consiliului Local al Comunei Băneasa a unui imobil, în vederea realizării unor investiții de interes public local",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114883",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-44-2023",
+   "path": "local/constanta/baneasa/2023/44",
+   "short": "HCL Băneasa nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 44/2023 Privind aprobarea Temei de proiectare şi a Notei conceptuale precum și aprobarea documentației tehnico - economice și a indicatorilor tehnico -economici pentru proiectul “INFIINTARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA BANEASA, JUDETUL CONSTANTA” faza de Studiu de Fezabilitate",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114884",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-45-2023",
+   "path": "local/constanta/baneasa/2023/45",
+   "short": "HCL Băneasa nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 45/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114885",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-46-2023",
+   "path": "local/constanta/baneasa/2023/46",
+   "short": "HCL Băneasa nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 46/2023 Privind includerea în domeniul public al Comunei Băneasa a unui obiectiv de investiție finalizat „GRADINIŢĂ CU 2 CLASE„ în vederea întabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114886",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-47-2023",
+   "path": "local/constanta/baneasa/2023/47",
+   "short": "HCL Băneasa nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 47/2023 Privind aprobarea „Strategiei de Dezvoltare Locală a Comunei Băneasa, Județul Constanța, pentru perioada 2023 – 2030”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114887",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-48-2023",
+   "path": "local/constanta/baneasa/2023/48",
+   "short": "HCL Băneasa nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 48/2023 privind rectificarea bugetului local şi modificarea listei de investiţii pe anul 2023, luna Iulie 2023 rectificare III",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114888",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-49-2023",
+   "path": "local/constanta/baneasa/2023/49",
+   "short": "HCL Băneasa nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 49/2023 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna August 2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114889",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-5-2023",
+   "path": "local/constanta/baneasa/2023/5",
+   "short": "HCL Băneasa nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 5/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87972",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-50-2023",
+   "path": "local/constanta/baneasa/2023/50",
+   "short": "HCL Băneasa nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 50/2023 privind aprobarea Regulamentului de organizare si funcţionare a Serviciului Public Comunitar Local de Evidenta a Persoanelor al comunei Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/114890",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/114890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-51-2023",
+   "path": "local/constanta/baneasa/2023/51",
+   "short": "HCL Băneasa nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 51/2023 Privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Băneasa cu un bun imobil - teren în vederea întabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru și carte funciară",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118102",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-52-2023",
+   "path": "local/constanta/baneasa/2023/52",
+   "short": "HCL Băneasa nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 52/2023 Privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiţie „CENTRU COMUNITAR INTEGRAT ÎN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA”, faza de proiectare Documentația de Avizare a Lucrarilor de Interventii (DALI), la data solicitării autorizaţiei de construire",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118103",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-53-2023",
+   "path": "local/constanta/baneasa/2023/53",
+   "short": "HCL Băneasa nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 53/2023 Privind aprobarea documentaţiei tehnico-economice și a indicatorilor tehnico- economici ai obiectivul de investiţie „CENTRU COMUNITAR INTEGRAT ÎN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA”, faza Proiect Tehnic",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118104",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-54-2023",
+   "path": "local/constanta/baneasa/2023/54",
+   "short": "HCL Băneasa nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 54/2023 Privind acordul pentru încheierea unui parteneriat cu localitatea Krushary din Bulgaria în cadrul Programul de Cooperare Transfrontalieră România-Bulgaria 2021-2027 Prioritatea 2: O regiune mai verde, Obiectivul specific 2.7. Îmbunătățirea protecției și conservării naturii, a biodiversității și a infrastructurii verzi, inclusiv în zonele urbane, și reducerea tuturor formelor de poluare, în vederea finanţării şi realizării în comun a proiectului de interes public local ”FACILITĂȚI SPORTIVE VERZI IN UAT COMUNA BĂNEASA” și a cheltuielilor aferente acestui proiect",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118105",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-55-2023",
+   "path": "local/constanta/baneasa/2023/55",
+   "short": "HCL Băneasa nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 55/2023 privind aplicarea la Programul Național de Redresare și Reziliență, Componenta C3 – Managementul deșeurilor, în vederea finanțării proiectului de interes local ”ÎNFIINȚAREA UNEI PLATFORME DE GUNOI DE GRAJD, INCLUSIV PLATFORME SATELIT” în cadrul apelului de proiecte PNRR/2023/C3/SUBINVESTIȚIA I2.A-B – SISTEME INTEGRATE DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD și a cheltuielilor aferente acestui proiect",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118106",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-56-2023",
+   "path": "local/constanta/baneasa/2023/56",
+   "short": "HCL Băneasa nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 56/2023 privind rectificarea bugetului local şi modificarea listei de investiţii pe anul 2023, luna August 2023 rectificare IV",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118107",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-57-2023",
+   "path": "local/constanta/baneasa/2023/57",
+   "short": "HCL Băneasa nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 57/2023 privind dezmembrarea unei suprafeţe de teren, însușirea și aprobarea documentației cadastrale de dezmembrare, proprietate publică a comunei Băneasa, situată în intravilanul comunei Băneasa, Parcela Cc 842",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118108",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-58-2023",
+   "path": "local/constanta/baneasa/2023/58",
+   "short": "HCL Băneasa nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 58/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118109",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-59-2023",
+   "path": "local/constanta/baneasa/2023/59",
+   "short": "HCL Băneasa nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 59/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţionarea produselor de fructe şi legume proaspete, de lapte şi produse lactate şi de produse de panificaţie, aferente Programului pentru şcoli al României în perioada 2023-2029 şi a contractelor /acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Băneasa, județul Constanța",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118110",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-6-2023",
+   "path": "local/constanta/baneasa/2023/6",
+   "short": "HCL Băneasa nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 6/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87973",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-60-2023",
+   "path": "local/constanta/baneasa/2023/60",
+   "short": "HCL Băneasa nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 60/2023 Privind aprobarea indicatorilor tehnico-economici actualizaţi pentru obiectivul de investiţie „REABILITARE DRUM COMUNAL DCL 475 IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” faza de proiectare Documentaţia de Avizare a Lucrărilor de Intervenţie (D.A.L.I), cuprinși în devizul general",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/118111",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/118111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-61-2023",
+   "path": "local/constanta/baneasa/2023/61",
+   "short": "HCL Băneasa nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 61/2023 Privind aprobarea documentaţiei tehnico-economice și a indicatorilor tehnico- economici ai obiectivul de investiţie “INFIINTARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA BANEASA, JUDETUL CONSTANTA”, faza Proiect Tehnic",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/119817",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/119817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-62-2023",
+   "path": "local/constanta/baneasa/2023/62",
+   "short": "HCL Băneasa nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 62/2023 Privind aprobarea Temei de proiectare şi a Notei conceptuale precum și aprobarea documentației tehnico - economice și a indicatorilor tehnico -economici pentru proiectul ”FACILITĂȚI SPORTIVE VERZI IN UAT COMUNA BĂNEASA” faza de Studiu de Fezabilitate",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/119818",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/119818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-63-2023",
+   "path": "local/constanta/baneasa/2023/63",
+   "short": "HCL Băneasa nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 63/2023 Privind aprobarea Planului de acțiune pentru gestionarea cainilor fără stăpân din Comuna Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/125850",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/125850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-64-2023",
+   "path": "local/constanta/baneasa/2023/64",
+   "short": "HCL Băneasa nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 64/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/125851",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/125851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-65-2023",
+   "path": "local/constanta/baneasa/2023/65",
+   "short": "HCL Băneasa nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 65/2023 Privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Băneasa, pe anul 2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/125852",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/125852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-66-2023",
+   "path": "local/constanta/baneasa/2023/66",
+   "short": "HCL Băneasa nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 66/2023 Privind desemnarea unor reprezentanți ai Consiliului local al Comunei Băneasa în Consiliul de administrație al Liceului Teoretic Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/125853",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/125853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-67-2023",
+   "path": "local/constanta/baneasa/2023/67",
+   "short": "HCL Băneasa nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 67/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/125854",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/125854",
      "sha256": null
     }
    ]
@@ -103,6 +988,21 @@
      "from": "2023-11-08",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/125856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-7-2023",
+   "path": "local/constanta/baneasa/2023/7",
+   "short": "HCL Băneasa nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 7/2023 Privind aprobarea înfrățirii dintre Unitatea Administrativ-Teritoriala – Comuna Baneasa, județul Constanta, Romania si Unitatea Administrativ Teritoriala – Municipiul Krushari, districtul Dobrich, Bulgaria",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87974",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87974",
      "sha256": null
     }
    ]
@@ -253,6 +1153,21 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/131038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-8-2023",
+   "path": "local/constanta/baneasa/2023/8",
+   "short": "HCL Băneasa nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 8/2023 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a Comunei Băneasa, aferent imobilului casă de locuit, situat în Comuna Băneasa, strada Belșugului nr. F.N",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87975",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87975",
      "sha256": null
     }
    ]

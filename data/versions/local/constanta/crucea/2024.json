@@ -3,6 +3,21 @@
  "shard": "local/constanta/crucea/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--crucea-1-2024",
+   "path": "local/constanta/crucea/2024/1",
+   "short": "HCL Crucea nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 1/2024 privind alegerea președintelui de ședință pentru perioada ianuarie 2024 - martie 2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/136533",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/136533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-10-2024",
    "path": "local/constanta/crucea/2024/10",
    "short": "HCL Crucea nr. 10/2024",
@@ -13,6 +28,21 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/141872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-11-2024",
+   "path": "local/constanta/crucea/2024/11",
+   "short": "HCL Crucea nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 11/2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/141873",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/141873",
      "sha256": null
     }
    ]
@@ -58,6 +88,66 @@
      "from": "2024-03-28",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/144213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-15-2024",
+   "path": "local/constanta/crucea/2024/15",
+   "short": "HCL Crucea nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 15/2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/144214",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/144214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-16-2024",
+   "path": "local/constanta/crucea/2024/16",
+   "short": "HCL Crucea nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 16/2024 privind aprobarea Regulamentului serviciului de iluminat public și a Caietului de sarcini pentru atribuirea contractului de delegare a gestiunii serviciului de iluminat public al comunei Crucea, județul Constanța, partea modernizată prin proiectul ”Modernizarea sistemului de iluminat public în comuna Crucea, satele Crucea, Gălbiori, Stupina” , finanțat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/147903",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/147903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-17-2024",
+   "path": "local/constanta/crucea/2024/17",
+   "short": "HCL Crucea nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 17/2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/147904",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/147904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-18-2024",
+   "path": "local/constanta/crucea/2024/18",
+   "short": "HCL Crucea nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 18/2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/147905",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/147905",
      "sha256": null
     }
    ]
@@ -198,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-27-2024",
+   "path": "local/constanta/crucea/2024/27",
+   "short": "HCL Crucea nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 27/2024 privind aprobarea tarifelor pentru serviciile/activitățile prestate de SC Crucea Multiservice S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/149822",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/149822",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-28-2024",
    "path": "local/constanta/crucea/2024/28",
    "short": "HCL Crucea nr. 28/2024",
@@ -238,6 +343,36 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/141308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-30-2024",
+   "path": "local/constanta/crucea/2024/30",
+   "short": "HCL Crucea nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 30/2024 privind aprobarea acordării ”Diplomei de Onoare” și plata unui premiu în valoare de 1000 de lei cuplurilor care au împlinit și depășit 50 de ani de la căsătorie și care au domiciliul în comuna Crucea",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/149825",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/149825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-31-2024",
+   "path": "local/constanta/crucea/2024/31",
+   "short": "HCL Crucea nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 31/2024 privind aprobarea acordării unui sprijin financiar Parohiei Crișan pentru completarea fondurilor proprii în scopul realizării lucrărilor de reabilitare a bisericii cu hramul ” Sfântului Mare Mucenic Dimitrie”",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/149826",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/149826",
      "sha256": null
     }
    ]
@@ -348,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-39-2024",
+   "path": "local/constanta/crucea/2024/39",
+   "short": "HCL Crucea nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 39/2024 privind modificarea datelor de identificare a unui bun din domeniul privat al comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/153773",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/153773",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-4-2024",
    "path": "local/constanta/crucea/2024/4",
    "short": "HCL Crucea nr. 4/2024",
@@ -358,6 +508,36 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/141309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-40-2024",
+   "path": "local/constanta/crucea/2024/40",
+   "short": "HCL Crucea nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 40/2024 privind aprobarea inițierii demersurilor de actualizare a documentației de urbanism Plan Urbanistic General și Regulament Local de Urbanism al comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/153774",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/153774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-41-2024",
+   "path": "local/constanta/crucea/2024/41",
+   "short": "HCL Crucea nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 41/2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/157750",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/157750",
      "sha256": null
     }
    ]
@@ -823,6 +1003,21 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/141312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-70-2024",
+   "path": "local/constanta/crucea/2024/70",
+   "short": "HCL Crucea nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 70/2024 privind aprobarea încheierii unui acord de parteneriat pentru implementarea Proiectului EMERGE Romania - EMpowering Communities for EneRGy Transition towards Carbon NEutrality in Romania",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/168655",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/168655",
      "sha256": null
     }
    ]

@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-14-2024",
+   "path": "local/constanta/dumbraveni/2024/14",
+   "short": "HCL Dumbrăveni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 14/2024",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/144513",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/144513",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-15-2024",
    "path": "local/constanta/dumbraveni/2024/15",
    "short": "HCL Dumbrăveni nr. 15/2024",
@@ -103,6 +118,21 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/144515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-17-2024",
+   "path": "local/constanta/dumbraveni/2024/17",
+   "short": "HCL Dumbrăveni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 17/2024 privind aprobarea închirierii prin atribuire directă a unor suprafețe disponibile de pășune a UAT Dumbraveni, judetul Constanta",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/144516",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/144516",
      "sha256": null
     }
    ]
@@ -178,6 +208,21 @@
      "from": "2024-03-21",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/148689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-22-2024",
+   "path": "local/constanta/dumbraveni/2024/22",
+   "short": "HCL Dumbrăveni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 22/2024 privind desemnarea a doi consilieri locali în calitate de membrii în cadrul comisiei de evaluare a performanțelor profesionale ale Secretarului General al Comunei Dumbrăveni, pentru perioada 01.01.2023-31.12.2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/148690",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/148690",
      "sha256": null
     }
    ]
@@ -333,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-32-2024",
+   "path": "local/constanta/dumbraveni/2024/32",
+   "short": "HCL Dumbrăveni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 32/2024 privind aprobarea închirierii prin atribuire directă a unor suprafețe disponibile de pășune a UAT Dumbraveni, judetul Constanta",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/153118",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/153118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-33-2024",
    "path": "local/constanta/dumbraveni/2024/33",
    "short": "HCL Dumbrăveni nr. 33/2024",
@@ -343,6 +403,36 @@
      "from": "2024-04-18",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/153119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-34-2024",
+   "path": "local/constanta/dumbraveni/2024/34",
+   "short": "HCL Dumbrăveni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 34/2024 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/161889",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/161889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-35-2024",
+   "path": "local/constanta/dumbraveni/2024/35",
+   "short": "HCL Dumbrăveni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 35/2024",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/161890",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/161890",
      "sha256": null
     }
    ]
@@ -493,6 +583,21 @@
      "from": "2024-07-31",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/164673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-45-2024",
+   "path": "local/constanta/dumbraveni/2024/45",
+   "short": "HCL Dumbrăveni nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 45/2024 privind revocarea HCL nr. 17/22.02.2024 privind aprobarea inchirierii prin atribuire directă a unor suprafețe disponibile de pășune a UAT Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/167027",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/167027",
      "sha256": null
     }
    ]
@@ -853,6 +958,21 @@
      "from": "2024-02-23",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/138980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-8-2024",
+   "path": "local/constanta/dumbraveni/2024/8",
+   "short": "HCL Dumbrăveni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 8/2024 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/144507",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/144507",
      "sha256": null
     }
    ]

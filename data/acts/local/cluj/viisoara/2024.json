@@ -47,6 +47,116 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-3-2024",
+"path": "local/cluj/viisoara/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 3/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru anul 2023",
+"short": "HCL Viișoara nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/145382",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-4-2024",
+"path": "local/cluj/viisoara/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 4/2024 privind aprobarea acoperirii definitive a deficitului bugetar din excedentul bugetului local al anului 2023",
+"short": "HCL Viișoara nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/145383",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-5-2024",
+"path": "local/cluj/viisoara/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 5/2024 privind aprobarea utilizării excedentului bugetar de la fine anului 2023",
+"short": "HCL Viișoara nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/145384",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-6-2024",
+"path": "local/cluj/viisoara/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 6/2024 privind reorganizarea rețelei școlare pentru anul școlar 2024/2025 pe raza comunei Viișoara, județul Cluj",
+"short": "HCL Viișoara nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/145390",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-7-2024",
+"path": "local/cluj/viisoara/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 7/2024 privind aprobarea bugetului local de venituri și cheltuieli, lista de investiții pentru 2024",
+"short": "HCL Viișoara nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/145391",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-8-2024",
 "path": "local/cluj/viisoara/2024/8",
 "kind": "local",
@@ -66,6 +176,139 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-9-2024",
+"path": "local/cluj/viisoara/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 9/2024 privind însușirea Acordului de cooperare privind organizarea și funcționarea serviciului audit public intern",
+"short": "HCL Viișoara nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/145393",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-10-2024",
+"path": "local/cluj/viisoara/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 10/2024 privind stabilirea criteriilor de acordare a ajutoarelor de urgență proprii din bugetul local",
+"short": "HCL Viișoara nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156475",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-11-2024",
+"path": "local/cluj/viisoara/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 11/2024 privind aprobarea acordului de parteneriat între Primăria comunei Viișoara și Biblioteca Județeană „Octavian Goga” Cluj în vederea depunerii proiectului „ClujDigitalHub@BibliotecaTa” finanțat prin PNRR în cadrul apelului de proiecte „Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competențelor digitale”",
+"short": "HCL Viișoara nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156476",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-12-2024",
+"path": "local/cluj/viisoara/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 12/2024 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.12.2023",
+"short": "HCL Viișoara nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156477",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-13-2024",
+"path": "local/cluj/viisoara/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 13/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2024",
+"short": "HCL Viișoara nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156478",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-14-2024",
+"path": "local/cluj/viisoara/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 14/2024",
+"short": "HCL Viișoara nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156479",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +334,50 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-16-2024",
+"path": "local/cluj/viisoara/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 16/2024 privind anularea creanțelor fiscale mai mici de 40 lei aflate în sold la 31.12.2023",
+"short": "HCL Viișoara nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156481",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-17-2024",
+"path": "local/cluj/viisoara/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2024 privind varianta electronică revizuită a intravilanului aferent Planului Urbanistic General al Comunei Viișoara aprobat prin Hotărârea Consiliului Local al Comunei Viișoara",
+"short": "HCL Viișoara nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156482",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-18-2024",
 "path": "local/cluj/viisoara/2024/18",
 "kind": "local",
@@ -110,6 +397,403 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-19-2024",
+"path": "local/cluj/viisoara/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2024 privind stabilirea impozitelor și taxelor locale pe anul 2025 la nivelul comunei Viișoara",
+"short": "HCL Viișoara nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156484",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-20-2024",
+"path": "local/cluj/viisoara/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2024 privind aprobarea documentației cadastrale intocmita pentru dezmembrarea imobilului înscris în nr. CF.52598, nr. cad. 2598 în suprafață de 872146 mp",
+"short": "HCL Viișoara nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156485",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-21-2024",
+"path": "local/cluj/viisoara/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2024 privind aprobarea programului de măsuri pentru îmbunătățirea activității de gospodărire a comunei Viișoara, județul Cluj pentru anul 2024",
+"short": "HCL Viișoara nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156486",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-22-2024",
+"path": "local/cluj/viisoara/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 22/2024 privind acordarea unei sumei din bugetul local al comunei Viișoara, Parohiei Ortodoxe Urca",
+"short": "HCL Viișoara nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156487",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-23-2024",
+"path": "local/cluj/viisoara/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 23/2024 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.03.2024",
+"short": "HCL Viișoara nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156488",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-24-2024",
+"path": "local/cluj/viisoara/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 24/2024 privind aprobarea Planului Urbanistic de Detaliu-CONSTRUIRE LĂCAȘ DE CULT Sp+P, REFACERE IMPREJMUIRE LA STRADĂ",
+"short": "HCL Viișoara nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156489",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-25-2024",
+"path": "local/cluj/viisoara/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 25/2024 privind aprobarea Planului Urbanistic de Detaliu-CONSTRUIRE CASĂ DE LOCUIT UNIFAMILIALA P",
+"short": "HCL Viișoara nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156490",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-26-2024",
+"path": "local/cluj/viisoara/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2024 privind acordarea unei sume de la bugetul local al comunei Viișoara, Parohiei Reformate Viișoara",
+"short": "HCL Viișoara nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/156491",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-27-2024",
+"path": "local/cluj/viisoara/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN LOCALITĂȚILE VIIȘOARA ȘI URCA, COMUNA VIIȘOARA, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Viișoara nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163756",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-28-2024",
+"path": "local/cluj/viisoara/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2024 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și/sau de reprezentare în dosarul civ. Nr. 2847/328/2018 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+"short": "HCL Viișoara nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163757",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-29-2024",
+"path": "local/cluj/viisoara/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2024 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și/sau de reprezentare în dosarul civ. Nr.1293/1285/2007/ a 34 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+"short": "HCL Viișoara nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163758",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-30-2024",
+"path": "local/cluj/viisoara/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 30/2024 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și/sau de reprezentare în dosarul civ. Nr. 1676/328/2020 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+"short": "HCL Viișoara nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163759",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-31-2024",
+"path": "local/cluj/viisoara/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 31/2024 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și/sau de reprezentare în dosarul civ. Nr. 9771/3/2022 a comunei Viișoara/Primăria comunei Viișoara/Consiliul local al comunei Viișoara",
+"short": "HCL Viișoara nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163760",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-32-2024",
+"path": "local/cluj/viisoara/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2024 privind acordarea unei sume de bani de la bugetul local al comunei Viișoara, Parohiei Ortodoxe Viișoara",
+"short": "HCL Viișoara nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163761",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-33-2024",
+"path": "local/cluj/viisoara/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 33/2024",
+"short": "HCL Viișoara nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163762",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-34-2024",
+"path": "local/cluj/viisoara/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 34/2024 privind mandatarea Ocolului Silvic Arieș RA pentru a demara procedura de reamenajare respectiv contractarea unei unități specializate atestate de autoritatea publică centrală în vederea începerii elaborări unui nou amenajament silvic",
+"short": "HCL Viișoara nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163763",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-35-2024",
+"path": "local/cluj/viisoara/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 35/2024 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Viișoara",
+"short": "HCL Viișoara nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163764",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-36-2024",
+"path": "local/cluj/viisoara/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 36/2024 privind înființarea, organizarea și funcționarea poliției locale în comuna Viișoara, județul Cluj",
+"short": "HCL Viișoara nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/163765",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +819,72 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-38-2024",
+"path": "local/cluj/viisoara/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 38/2024 privind înființarea, organizarea și funcționarea Poliției locale în comuna Viișoara, județul Cluj",
+"short": "HCL Viișoara nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/173489",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-39-2024",
+"path": "local/cluj/viisoara/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 39/2024 privind acordarea unei sume de la bugetul local al comunei Viișoara, pentru Biserica Baptist Creștină Viișoara",
+"short": "HCL Viișoara nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/173490",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-40-2024",
+"path": "local/cluj/viisoara/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 40/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2024",
+"short": "HCL Viișoara nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/173491",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-41-2024",
 "path": "local/cluj/viisoara/2024/41",
 "kind": "local",
@@ -154,6 +904,116 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-42-2024",
+"path": "local/cluj/viisoara/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 42/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2024",
+"short": "HCL Viișoara nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/173493",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-43-2024",
+"path": "local/cluj/viisoara/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 43/2024 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comuei Viișoara la 30.06.2024",
+"short": "HCL Viișoara nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/173494",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-44-2024",
+"path": "local/cluj/viisoara/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 44/2024 privind aprobarea trecerii din domeniul public al comunei în domeniul privat al comunei Viișoara, terenuri înscrise în CF nr. 53210 și CF nr. 53204 Viișoara",
+"short": "HCL Viișoara nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/173495",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-45-2024",
+"path": "local/cluj/viisoara/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 45/2024 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 30.09.2024",
+"short": "HCL Viișoara nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/183781",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-46-2024",
+"path": "local/cluj/viisoara/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 46/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2024",
+"short": "HCL Viișoara nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/183773",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

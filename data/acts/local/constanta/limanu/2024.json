@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/limanu/2024",
+"acts": [
+{
+"slug": "hcl-constanta--limanu-186-2024",
+"path": "local/constanta/limanu/2024/186",
+"kind": "local",
+"year": "2024",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Limanu nr. 186/2024 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Limanu Consiliul local Limanu, întrunit în ședința extraordinară, de îndată din data de 08.11.2024, în baza dispoziției primarului comunei Limanu nr. 286/07.11.2024 Având în vedere: - proiectul de hotărâre privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Limanu",
+"short": "HCL Limanu nr. 186/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://primarialimanu.ro/wp-content/uploads/2024/11/HCL-186.pdf",
+"council": "constanta/limanu",
+"council_name": "Consiliul Local al Comunei Limanu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

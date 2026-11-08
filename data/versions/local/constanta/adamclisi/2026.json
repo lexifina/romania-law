@@ -483,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--adamclisi-7-2026",
+   "path": "local/constanta/adamclisi/2026/7",
+   "short": "HCL Adamclisi nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 7/2026 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/257697",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/257697",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-8-2026",
    "path": "local/constanta/adamclisi/2026/8",
    "short": "HCL Adamclisi nr. 8/2026",
@@ -493,6 +508,21 @@
      "from": "2026-04-22",
      "units": 1,
      "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/262793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-9-2026",
+   "path": "local/constanta/adamclisi/2026/9",
+   "short": "HCL Adamclisi nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 9/2026 privind aprobarea inchirierii prin atribuire directa a suprafetei de 1543,14 ha pajiste comunala aflata in extravilan, apartinand domeniului privat al comunei Adamclisi, judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/264711",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/264711",
      "sha256": null
     }
    ]

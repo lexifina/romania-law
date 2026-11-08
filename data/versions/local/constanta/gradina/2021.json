@@ -3,6 +3,36 @@
  "shard": "local/constanta/gradina/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--gradina-1-2021",
+   "path": "local/constanta/gradina/2021/1",
+   "short": "HCL Grădina nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 1/2021 privind aprobarea Contract-Cadru pentru acoperirea costurilor nete de gestiune a deșeurilor de ambalaje din deșeuri municipale ( colectate și transportate separat, stocare temporar, sortate și încredințate în vederea valorificării deșeurilor de ambalaje la nivelul UAT Grădina, destionate prin serviciul de salubrizare al UAT comuna Grădina și a închirierii acestuia cu SC Greenpaint Management SA în calitate de organizație care implementează răspunderea extinsă a producătorilor)",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/18279",
+   "versions": [
+    {
+     "from": "2021-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/18279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-10-2021",
+   "path": "local/constanta/gradina/2021/10",
+   "short": "HCL Grădina nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 10/2021 privind alegerea președintelui de ședință pentru lunile februarie 2021- aprilie 2021",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/18417",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/18417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-11-2021",
    "path": "local/constanta/gradina/2021/11",
    "short": "HCL Grădina nr. 11/2021",
@@ -133,6 +163,21 @@
      "from": "2021-04-21",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/22471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-2-2021",
+   "path": "local/constanta/gradina/2021/2",
+   "short": "HCL Grădina nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 2/2021 privind aprobarea Actului Adițional nr.1 la Documentul de Poziție, avizarea Documentației de atribuire a contractului de delegare, prin concesionarea gestiunii serviciului de salubrizare aferent Proiectului „Sistem de Management integral al Deșeurilor în județul Constanța și acordarea unor mandate”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/18280",
+   "versions": [
+    {
+     "from": "2021-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/18280",
      "sha256": null
     }
    ]
@@ -298,6 +343,21 @@
      "from": "2021-02-27",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/18284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-30-2021",
+   "path": "local/constanta/gradina/2021/30",
+   "short": "HCL Grădina nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 30/2021 privind alegerea președintelui de ședință pentru lunile mai 2021-iulie 2021",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/24964",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/24964",
      "sha256": null
     }
    ]
@@ -508,6 +568,21 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/31215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-44-2021",
+   "path": "local/constanta/gradina/2021/44",
+   "short": "HCL Grădina nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 44/2021 privind alegerea președintelui de ședință pentru lunile august 2021-octombrie 2021",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/33771",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/33771",
      "sha256": null
     }
    ]

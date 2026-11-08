@@ -3,6 +3,1701 @@
  "shard": "local/constanta/agigea/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--agigea-1-2026",
+   "path": "local/constanta/agigea/2026/1",
+   "short": "HCL Agigea nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 1/2026 privind transmiterea dreptului de concesiune a unui imobil-teren ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250172",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-10-2026",
+   "path": "local/constanta/agigea/2026/10",
+   "short": "HCL Agigea nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 10/2026 privind aprobarea Programului de acțiune comunitară pe anul 2026 pentru prevenirea și combaterea riscului de sărăcie și excluziune socială în comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250181",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-100-2026",
+   "path": "local/constanta/agigea/2026/100",
+   "short": "HCL Agigea nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 100/2026 privind aprobarea constituirii ca parte civilă a Comunei Agigea în dosarul penal nr.100/9/P/2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271464",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-101-2026",
+   "path": "local/constanta/agigea/2026/101",
+   "short": "HCL Agigea nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 101/2026 privind aprobarea acceptării unei oferte de donații a unui imobil-teren cu număr cadastral 104353 situat în Comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271465",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-102-2026",
+   "path": "local/constanta/agigea/2026/102",
+   "short": "HCL Agigea nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 102/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276797",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-103-2026",
+   "path": "local/constanta/agigea/2026/103",
+   "short": "HCL Agigea nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 103/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109329 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276798",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-104-2026",
+   "path": "local/constanta/agigea/2026/104",
+   "short": "HCL Agigea nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 104/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 111383, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276799",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-105-2026",
+   "path": "local/constanta/agigea/2026/105",
+   "short": "HCL Agigea nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 105/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 110239, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276800",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-106-2026",
+   "path": "local/constanta/agigea/2026/106",
+   "short": "HCL Agigea nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 106/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 109395, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276801",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-107-2026",
+   "path": "local/constanta/agigea/2026/107",
+   "short": "HCL Agigea nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 107/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 105651 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276802",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-108-2026",
+   "path": "local/constanta/agigea/2026/108",
+   "short": "HCL Agigea nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 108/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 117272, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276803",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-109-2026",
+   "path": "local/constanta/agigea/2026/109",
+   "short": "HCL Agigea nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 109/2026 privind aprobarea instituirii unui drept de uz și servitute pe teren aparținând domeniului public al comunei Agigea pentru realizarea investiției de ” Extindere rețea de alimentare cu apă și rețea de canalizare, branșament individual ” în comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276804",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-11-2026",
+   "path": "local/constanta/agigea/2026/11",
+   "short": "HCL Agigea nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 11/2026 privind aprobarea modificării HCL nr. 180/12.11.2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250182",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-110-2026",
+   "path": "local/constanta/agigea/2026/110",
+   "short": "HCL Agigea nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 110/2026 privind aprobarea constituirii ca parte civilă a Comunei Agigea în dosarul penal nr.100/9/P/2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276805",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-111-2026",
+   "path": "local/constanta/agigea/2026/111",
+   "short": "HCL Agigea nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 111/2026 privind exprimarea acordului cu reglementările urbanistice propuse prin planul de urbanism zonal în parcelele A347/11, A347/12, A347/13/1, A347/13/2, A347/16 și DE347/15 din comuna Agigea jud. Constanța inițiator SC GTFROM CONSTRUCT 2022 SRL",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276806",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-112-2026",
+   "path": "local/constanta/agigea/2026/112",
+   "short": "HCL Agigea nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 112/2026 pentru modificarea HCL nr. 99/2026 privind aprobarea plății eșalonate a debitului datorat comunei Agigea în dosarul de executare nr.1810/2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276807",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-113-2026",
+   "path": "local/constanta/agigea/2026/113",
+   "short": "HCL Agigea nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 113/2026 privind aprobarea modificării Anexei nr.1 a HCL Agigea nr. 11/30.01.2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276808",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-114-2026",
+   "path": "local/constanta/agigea/2026/114",
+   "short": "HCL Agigea nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 114/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276809",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-115-2026",
+   "path": "local/constanta/agigea/2026/115",
+   "short": "HCL Agigea nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 115/2026 privind alegerea președintelui de ședință a Consiliului Local al comunei Agigea în perioada iulie - septembrie 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276810",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-116-2026",
+   "path": "local/constanta/agigea/2026/116",
+   "short": "HCL Agigea nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 116/2026 privind aprobarea Rapoartelor de evaluare pentru estimarea valorii de piață a unor imobile-terenuri aflate în domeniul privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276811",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-117-2026",
+   "path": "local/constanta/agigea/2026/117",
+   "short": "HCL Agigea nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 117/2026 privind aprobarea modificării Anexei la HCL 95/29.05.2026 privind aprobarea atestării apartenenței la domeniul public al comunei Agigea a unor imobile-teren situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276812",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-118-2026",
+   "path": "local/constanta/agigea/2026/118",
+   "short": "HCL Agigea nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 118/2026 privind aprobarea scoaterii din uz a rețelei de canalizare din Cartier Steaua de Mare comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276813",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-119-2026",
+   "path": "local/constanta/agigea/2026/119",
+   "short": "HCL Agigea nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 119/2026 privind aprobarea Regulamentului pentru acordarea Titlului de ” Cetățean de Onoare al Comunei Agigea”",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276814",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-12-2026",
+   "path": "local/constanta/agigea/2026/12",
+   "short": "HCL Agigea nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 12/2026 privind aprobarea actualizării devizului general și a cheltuielilor finanțate de la bugetul local pentru obiectivul de investiție RENOVAREA ENERGETICĂ MODERATĂ A CLĂDIRII PUBLICE - SEDIUL PRIMĂRIEI DIN COMUNA AGIGEA",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250183",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-120-2026",
+   "path": "local/constanta/agigea/2026/120",
+   "short": "HCL Agigea nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 120/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/276815",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/276815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-121-2026",
+   "path": "local/constanta/agigea/2026/121",
+   "short": "HCL Agigea nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 121/2026 privind aprobarea rectificării bugetului de venituri și cheltuieli pe trimestrul III anul 2026 al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/279030",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/279030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-122-2026",
+   "path": "local/constanta/agigea/2026/122",
+   "short": "HCL Agigea nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 122/2026 privind aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare al SPCLEP Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284938",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-123-2026",
+   "path": "local/constanta/agigea/2026/123",
+   "short": "HCL Agigea nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 123/2026 privind atribuirea de denumire unei străzi a unui imobil din domeniul public al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284939",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-124-2026",
+   "path": "local/constanta/agigea/2026/124",
+   "short": "HCL Agigea nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 124/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 105949 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284940",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-125-2026",
+   "path": "local/constanta/agigea/2026/125",
+   "short": "HCL Agigea nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 125/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284941",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-126-2026",
+   "path": "local/constanta/agigea/2026/126",
+   "short": "HCL Agigea nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 126/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 117528, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284942",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-127-2026",
+   "path": "local/constanta/agigea/2026/127",
+   "short": "HCL Agigea nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 127/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 105179, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284943",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-128-2026",
+   "path": "local/constanta/agigea/2026/128",
+   "short": "HCL Agigea nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 128/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284944",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-129-2026",
+   "path": "local/constanta/agigea/2026/129",
+   "short": "HCL Agigea nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 129/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284945",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-13-2026",
+   "path": "local/constanta/agigea/2026/13",
+   "short": "HCL Agigea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 13/2026 privind aprobarea Rapoartelor de evaluare pentru estimarea valorii de piață a unor imobile-terenuri aflate în domeniul privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250184",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-130-2026",
+   "path": "local/constanta/agigea/2026/130",
+   "short": "HCL Agigea nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 130/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284946",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-131-2026",
+   "path": "local/constanta/agigea/2026/131",
+   "short": "HCL Agigea nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 131/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 111294 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284947",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-132-2026",
+   "path": "local/constanta/agigea/2026/132",
+   "short": "HCL Agigea nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 132/2026 privind aprobarea Raportului de evaluare pentru estimarea valorii de piață a unui imobil-construcție Sală de sport aflat în domeniul public al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284948",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-133-2026",
+   "path": "local/constanta/agigea/2026/133",
+   "short": "HCL Agigea nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 133/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 109587, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284949",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-134-2026",
+   "path": "local/constanta/agigea/2026/134",
+   "short": "HCL Agigea nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 134/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284950",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-135-2026",
+   "path": "local/constanta/agigea/2026/135",
+   "short": "HCL Agigea nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 135/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284951",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-136-2026",
+   "path": "local/constanta/agigea/2026/136",
+   "short": "HCL Agigea nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 136/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284952",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-137-2026",
+   "path": "local/constanta/agigea/2026/137",
+   "short": "HCL Agigea nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 137/2026 privind aprobarea trecerii în domeniul privat al Comunei Agigea a unor bunuri-capacități energetice, situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284953",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-138-2026",
+   "path": "local/constanta/agigea/2026/138",
+   "short": "HCL Agigea nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 138/2026 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României, la nivelul Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284954",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-139-2026",
+   "path": "local/constanta/agigea/2026/139",
+   "short": "HCL Agigea nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 139/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109316 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284955",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-14-2026",
+   "path": "local/constanta/agigea/2026/14",
+   "short": "HCL Agigea nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 14/2026 privind aprobarea preluării în domeniul privat al Comunei Agigea a unor imobile-terenuri, situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250185",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-140-2026",
+   "path": "local/constanta/agigea/2026/140",
+   "short": "HCL Agigea nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 140/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 116112 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284956",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-141-2026",
+   "path": "local/constanta/agigea/2026/141",
+   "short": "HCL Agigea nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 141/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284957",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-142-2026",
+   "path": "local/constanta/agigea/2026/142",
+   "short": "HCL Agigea nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 142/2026 privind aprobarea atestării apartenenței la domeniul privat al comunei Agigea a unor imobile-teren situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284958",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-143-2026",
+   "path": "local/constanta/agigea/2026/143",
+   "short": "HCL Agigea nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 143/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109523 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284959",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-144-2026",
+   "path": "local/constanta/agigea/2026/144",
+   "short": "HCL Agigea nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 144/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284960",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-145-2026",
+   "path": "local/constanta/agigea/2026/145",
+   "short": "HCL Agigea nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 145/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284961",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-146-2026",
+   "path": "local/constanta/agigea/2026/146",
+   "short": "HCL Agigea nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 146/2026 privind aprobarea trecerii în domeniul public al comunei Agigea a unor bunuri ce fac parte din sistemul public de alimentare cu apă și canalizare din comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284962",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-147-2026",
+   "path": "local/constanta/agigea/2026/147",
+   "short": "HCL Agigea nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 147/2026 privind aprobarea acordării pachetului cu rechizite școlare ” Ghiozdanul meu”",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284963",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-148-2026",
+   "path": "local/constanta/agigea/2026/148",
+   "short": "HCL Agigea nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 148/2026 privind aprobarea execuției bugetului local al comunei Agigea pentru trimestrul II al anului 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284964",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-149-2026",
+   "path": "local/constanta/agigea/2026/149",
+   "short": "HCL Agigea nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 149/2026 privind aprobarea valorii finale și a devizului general actualizat pentru obiectivul de investiție RENOVAREA ENERGETICĂ MODERATĂ A CLĂDIRII PUBLICE - SEDIUL PRIMĂRIEI DIN COMUNA AGIGEA",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284965",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-15-2026",
+   "path": "local/constanta/agigea/2026/15",
+   "short": "HCL Agigea nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 15/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 105686 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250186",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-150-2026",
+   "path": "local/constanta/agigea/2026/150",
+   "short": "HCL Agigea nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 150/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284966",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-151-2026",
+   "path": "local/constanta/agigea/2026/151",
+   "short": "HCL Agigea nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 151/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284967",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-152-2026",
+   "path": "local/constanta/agigea/2026/152",
+   "short": "HCL Agigea nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 152/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284968",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-153-2026",
+   "path": "local/constanta/agigea/2026/153",
+   "short": "HCL Agigea nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 153/2026 privind aprobarea apartenenței la domeniul public al comunei Agigea a unor bunuri ce fac parte din sistemul public de canalizare menajeră din zona Lac comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/284969",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/284969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-154-2026",
+   "path": "local/constanta/agigea/2026/154",
+   "short": "HCL Agigea nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 154/2026 privind desemnarea reprezentanților Consiliului Local Agigea în Consiliul de Administrație și Comisia de Evaluare și Asigurare a Calității din cadrul Grădiniței cu program prelungit ”RIȚA-GĂRGĂRIȚA” Agigea pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288800",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-155-2026",
+   "path": "local/constanta/agigea/2026/155",
+   "short": "HCL Agigea nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 155/2026 privind desemnarea unor reprezentanți ai Consiliului Local Agigea, membru titular și membru membru supleant în comisia de evaluare a probei interviu din cadrul concursului pentru ocuparea funcției de Director al Grădiniței ”Rița-Gărgărița” Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288801",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-156-2026",
+   "path": "local/constanta/agigea/2026/156",
+   "short": "HCL Agigea nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 156/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288802",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-157-2026",
+   "path": "local/constanta/agigea/2026/157",
+   "short": "HCL Agigea nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 157/2026 privind aprobarea Rapoartelor de evaluare pentru estimarea valorii de piață a unor imobile-terenuri aflate în domeniul privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288803",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-158-2026",
+   "path": "local/constanta/agigea/2026/158",
+   "short": "HCL Agigea nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 158/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288804",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-159-2026",
+   "path": "local/constanta/agigea/2026/159",
+   "short": "HCL Agigea nr. 159/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 159/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 109329, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288805",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-16-2026",
+   "path": "local/constanta/agigea/2026/16",
+   "short": "HCL Agigea nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 16/2026 privind aprobarea instituirii unui drept de uz și servitute pe terenuri aparținând domeniului public al comunei Agigea pentru realizarea investiției de ” Construire centrală electrică fotovoltaică” în comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250187",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-160-2026",
+   "path": "local/constanta/agigea/2026/160",
+   "short": "HCL Agigea nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 160/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 105651, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288806",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-161-2026",
+   "path": "local/constanta/agigea/2026/161",
+   "short": "HCL Agigea nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 161/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 117753 ce aparțin domeniului privat al Comunei Agigea, precum și acordul de înstrăinare a unui imobil-garaj construit pe teren",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288807",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-162-2026",
+   "path": "local/constanta/agigea/2026/162",
+   "short": "HCL Agigea nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 162/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 109626, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288808",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-163-2026",
+   "path": "local/constanta/agigea/2026/163",
+   "short": "HCL Agigea nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 163/2026 privind trecerea în domeniul public al Comunei Agigea a unor imobile-terenuri situate pe raza administrativ teritorială a Comunei Agigea, județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288809",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-164-2026",
+   "path": "local/constanta/agigea/2026/164",
+   "short": "HCL Agigea nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 164/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111238 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288810",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-165-2026",
+   "path": "local/constanta/agigea/2026/165",
+   "short": "HCL Agigea nr. 165/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 165/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111311 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288811",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-166-2026",
+   "path": "local/constanta/agigea/2026/166",
+   "short": "HCL Agigea nr. 166/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 166/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111239 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288812",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-167-2026",
+   "path": "local/constanta/agigea/2026/167",
+   "short": "HCL Agigea nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 167/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111390 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288813",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-168-2026",
+   "path": "local/constanta/agigea/2026/168",
+   "short": "HCL Agigea nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 168/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111388 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288814",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-169-2026",
+   "path": "local/constanta/agigea/2026/169",
+   "short": "HCL Agigea nr. 169/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 169/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109554 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288815",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-17-2026",
+   "path": "local/constanta/agigea/2026/17",
+   "short": "HCL Agigea nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 17/2026 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza Comunei Agigea pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250188",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-170-2026",
+   "path": "local/constanta/agigea/2026/170",
+   "short": "HCL Agigea nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 170/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109551 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288816",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-171-2026",
+   "path": "local/constanta/agigea/2026/171",
+   "short": "HCL Agigea nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 171/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109597 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288817",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-172-2026",
+   "path": "local/constanta/agigea/2026/172",
+   "short": "HCL Agigea nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 172/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109511 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288818",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-173-2026",
+   "path": "local/constanta/agigea/2026/173",
+   "short": "HCL Agigea nr. 173/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 173/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109627 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288819",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-174-2026",
+   "path": "local/constanta/agigea/2026/174",
+   "short": "HCL Agigea nr. 174/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 174/2026 privind alegerea președintelui de ședință a Consiliului Local al comunei Agigea în perioada octombrie - decembrie 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288820",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-175-2026",
+   "path": "local/constanta/agigea/2026/175",
+   "short": "HCL Agigea nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 175/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 111307 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288821",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-176-2026",
+   "path": "local/constanta/agigea/2026/176",
+   "short": "HCL Agigea nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 176/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 749, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288822",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-177-2026",
+   "path": "local/constanta/agigea/2026/177",
+   "short": "HCL Agigea nr. 177/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 177/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109618 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288823",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-178-2026",
+   "path": "local/constanta/agigea/2026/178",
+   "short": "HCL Agigea nr. 178/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 178/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109495 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288824",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-179-2026",
+   "path": "local/constanta/agigea/2026/179",
+   "short": "HCL Agigea nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 179/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109586 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288825",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-18-2026",
+   "path": "local/constanta/agigea/2026/18",
+   "short": "HCL Agigea nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 18/2026 privind aprobarea Planului anual de acțiune pentru anul 2026, privind serviciile sociale administrate și finanțate din bugetul local la nivelul Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255637",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-180-2026",
+   "path": "local/constanta/agigea/2026/180",
+   "short": "HCL Agigea nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 180/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109564 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288826",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-181-2026",
+   "path": "local/constanta/agigea/2026/181",
+   "short": "HCL Agigea nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 181/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109404 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288827",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-182-2026",
+   "path": "local/constanta/agigea/2026/182",
+   "short": "HCL Agigea nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 182/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109458 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288828",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-183-2026",
+   "path": "local/constanta/agigea/2026/183",
+   "short": "HCL Agigea nr. 183/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 183/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109470 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288829",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-184-2026",
+   "path": "local/constanta/agigea/2026/184",
+   "short": "HCL Agigea nr. 184/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 184/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109394 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288830",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-185-2026",
+   "path": "local/constanta/agigea/2026/185",
+   "short": "HCL Agigea nr. 185/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 185/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109357 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288831",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-186-2026",
+   "path": "local/constanta/agigea/2026/186",
+   "short": "HCL Agigea nr. 186/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 186/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109349 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288832",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-187-2026",
+   "path": "local/constanta/agigea/2026/187",
+   "short": "HCL Agigea nr. 187/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 187/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109641 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288833",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-188-2026",
+   "path": "local/constanta/agigea/2026/188",
+   "short": "HCL Agigea nr. 188/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 188/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 109518 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288834",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-189-2026",
+   "path": "local/constanta/agigea/2026/189",
+   "short": "HCL Agigea nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 189/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 113886 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288835",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-19-2026",
+   "path": "local/constanta/agigea/2026/19",
+   "short": "HCL Agigea nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 19/2026 privind aprobarea atestării apartenenței la domeniul privat al comunei Agigea a unui imobil-teren situat în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255638",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-190-2026",
+   "path": "local/constanta/agigea/2026/190",
+   "short": "HCL Agigea nr. 190/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 190/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 114967 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288836",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-191-2026",
+   "path": "local/constanta/agigea/2026/191",
+   "short": "HCL Agigea nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 191/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 113395 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288837",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-192-2026",
+   "path": "local/constanta/agigea/2026/192",
+   "short": "HCL Agigea nr. 192/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 192/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 114846 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288838",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-193-2026",
+   "path": "local/constanta/agigea/2026/193",
+   "short": "HCL Agigea nr. 193/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 193/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 114059 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288839",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-194-2026",
+   "path": "local/constanta/agigea/2026/194",
+   "short": "HCL Agigea nr. 194/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 194/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 114921 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288840",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-195-2026",
+   "path": "local/constanta/agigea/2026/195",
+   "short": "HCL Agigea nr. 195/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 195/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111161 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288841",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-196-2026",
+   "path": "local/constanta/agigea/2026/196",
+   "short": "HCL Agigea nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 196/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 114043 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288842",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-197-2026",
+   "path": "local/constanta/agigea/2026/197",
+   "short": "HCL Agigea nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 197/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 106727 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288843",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-198-2026",
+   "path": "local/constanta/agigea/2026/198",
+   "short": "HCL Agigea nr. 198/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 198/2026 privind aprobarea rectificării bugetului de venituri și cheltuieli pe trimestrul III anul 2026 al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288844",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-199-2026",
+   "path": "local/constanta/agigea/2026/199",
+   "short": "HCL Agigea nr. 199/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 199/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 115000 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/288845",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/288845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-2-2026",
+   "path": "local/constanta/agigea/2026/2",
+   "short": "HCL Agigea nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 2/2026 privind aprobarea modificării contractului de închiriere nr. 8388/03.05.2018 pentru atribuirea unui teren din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250173",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-20-2026",
+   "path": "local/constanta/agigea/2026/20",
+   "short": "HCL Agigea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 20/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 105403 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255640",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255640",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--agigea-200-2026",
    "path": "local/constanta/agigea/2026/200",
    "short": "HCL Agigea nr. 200/2026",
@@ -153,6 +1848,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--agigea-21-2026",
+   "path": "local/constanta/agigea/2026/21",
+   "short": "HCL Agigea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 21/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109626 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255641",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255641",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--agigea-210-2026",
    "path": "local/constanta/agigea/2026/210",
    "short": "HCL Agigea nr. 210/2026",
@@ -298,6 +2008,1281 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/agigea-ct/registru-hcl/296598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-22-2026",
+   "path": "local/constanta/agigea/2026/22",
+   "short": "HCL Agigea nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 22/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255642",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-23-2026",
+   "path": "local/constanta/agigea/2026/23",
+   "short": "HCL Agigea nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 23/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255644",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-24-2026",
+   "path": "local/constanta/agigea/2026/24",
+   "short": "HCL Agigea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 24/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 117528 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255645",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-25-2026",
+   "path": "local/constanta/agigea/2026/25",
+   "short": "HCL Agigea nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 25/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255646",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-26-2026",
+   "path": "local/constanta/agigea/2026/26",
+   "short": "HCL Agigea nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 26/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 110325 și care aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255647",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-27-2026",
+   "path": "local/constanta/agigea/2026/27",
+   "short": "HCL Agigea nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 27/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255649",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-28-2026",
+   "path": "local/constanta/agigea/2026/28",
+   "short": "HCL Agigea nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 28/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255650",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-29-2026",
+   "path": "local/constanta/agigea/2026/29",
+   "short": "HCL Agigea nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 29/2026 privind aprobarea atestării apartenenței la domeniul privat al comunei Agigea a unor imobile-terenuri situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255652",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-3-2026",
+   "path": "local/constanta/agigea/2026/3",
+   "short": "HCL Agigea nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 3/2026 privind aprobarea modificării contractului de concesiune nr. 7842/18.04.2016 pentru atribuirea unui teren din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250174",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-30-2026",
+   "path": "local/constanta/agigea/2026/30",
+   "short": "HCL Agigea nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 30/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255653",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-31-2026",
+   "path": "local/constanta/agigea/2026/31",
+   "short": "HCL Agigea nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 31/2026 privind aprobarea Metodologiei de repartizare și facturare individuală a consumului de apă înregistrat la branșamentul condominiului precum și Convenția-cadru de facturare individuală a consumatorilor de apă și canalizare la nivelul comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255655",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-32-2026",
+   "path": "local/constanta/agigea/2026/32",
+   "short": "HCL Agigea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 32/2026 privind aprobarea modificării Anexei la HCL Agigea nr. 357/05.12.2019- Metodologia de acordare a stimulentului financiar pentru nou-născuți la nivelul Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255656",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-33-2026",
+   "path": "local/constanta/agigea/2026/33",
+   "short": "HCL Agigea nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 33/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255657",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-34-2026",
+   "path": "local/constanta/agigea/2026/34",
+   "short": "HCL Agigea nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 34/2026 privind aprobarea modificării organigramei și statului de funcții pentru Creșa ”Albă ca Zăpada” Agigea, aprobată prin HCL nr.133/29.08.2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255659",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-35-2026",
+   "path": "local/constanta/agigea/2026/35",
+   "short": "HCL Agigea nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 35/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 105650 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255660",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-36-2026",
+   "path": "local/constanta/agigea/2026/36",
+   "short": "HCL Agigea nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 36/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 105686 și care aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255661",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-37-2026",
+   "path": "local/constanta/agigea/2026/37",
+   "short": "HCL Agigea nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 37/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255662",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-38-2026",
+   "path": "local/constanta/agigea/2026/38",
+   "short": "HCL Agigea nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 38/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255663",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-39-2026",
+   "path": "local/constanta/agigea/2026/39",
+   "short": "HCL Agigea nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 39/2026 privind aprobarea concesionării prin licitație publică a unui imobil-teren identificat cu nr. cadastral 114009 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255664",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-4-2026",
+   "path": "local/constanta/agigea/2026/4",
+   "short": "HCL Agigea nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 4/2026 privind aprobarea execuției bugetului local al comunei Agigea pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250175",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-40-2026",
+   "path": "local/constanta/agigea/2026/40",
+   "short": "HCL Agigea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 40/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/255665",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/255665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-41-2026",
+   "path": "local/constanta/agigea/2026/41",
+   "short": "HCL Agigea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 41/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260886",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-42-2026",
+   "path": "local/constanta/agigea/2026/42",
+   "short": "HCL Agigea nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 42/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 111383 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260887",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-43-2026",
+   "path": "local/constanta/agigea/2026/43",
+   "short": "HCL Agigea nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 43/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 105710 și care aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260888",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-44-2026",
+   "path": "local/constanta/agigea/2026/44",
+   "short": "HCL Agigea nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 44/2026 privind aprobarea instituirii unui drept de uz și servitute pe terenuri aparținând domeniului public al comunei Agigea pentru realizarea investiției de ” Alimentare cu energie electrică a CV 67, rețea de joasă tensiune” în comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260889",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-45-2026",
+   "path": "local/constanta/agigea/2026/45",
+   "short": "HCL Agigea nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 45/2026 privind aprobarea instituirii unui drept de uz și servitute pe terenuri aparținând domeniului public al comunei Agigea pentru realizarea investiției de ” Amplasare post de transformare aerian, rețea medie tensiune, rețea joasă tensiune pentru alimentare cu energie electrică CVA9” în comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260890",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-46-2026",
+   "path": "local/constanta/agigea/2026/46",
+   "short": "HCL Agigea nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 46/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260891",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-47-2026",
+   "path": "local/constanta/agigea/2026/47",
+   "short": "HCL Agigea nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 47/2026 privind acordul de înstrăinare a unei construcții construită pe teren cu nr. cadastral 111280 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260892",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-48-2026",
+   "path": "local/constanta/agigea/2026/48",
+   "short": "HCL Agigea nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 48/2026 privind alegerea președintelui de ședință a Consiliului Local al comunei Agigea în perioada aprilie-iunie 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260893",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-49-2026",
+   "path": "local/constanta/agigea/2026/49",
+   "short": "HCL Agigea nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 49/2026 privind transmiterea dreptului de concesiune a unei părți din imobil-teren cu nr. cadastral 117153 și care aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260894",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-5-2026",
+   "path": "local/constanta/agigea/2026/5",
+   "short": "HCL Agigea nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 5/2026 privind aprobarea contului de închidere a exercițiului bugetar al comunei Agigea pe anul 2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250176",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-50-2026",
+   "path": "local/constanta/agigea/2026/50",
+   "short": "HCL Agigea nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 50/2026 privind aprobarea atestării apartenenței la domeniul privat al comunei Agigea a unor imobile-teren situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260895",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-51-2026",
+   "path": "local/constanta/agigea/2026/51",
+   "short": "HCL Agigea nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 51/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260896",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-52-2026",
+   "path": "local/constanta/agigea/2026/52",
+   "short": "HCL Agigea nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 52/2026 privind aprobarea preluării în domeniul privat al Comunei Agigea a unor imobile-terenuri, situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260897",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-53-2026",
+   "path": "local/constanta/agigea/2026/53",
+   "short": "HCL Agigea nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 53/2026 privind aprobarea atribuirii a unui imobil-teren cu nr. cadastral 104868 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260898",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-54-2026",
+   "path": "local/constanta/agigea/2026/54",
+   "short": "HCL Agigea nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 54/2026 privind aprobarea dezmembrării unui imobil-teren cu nr. cadastral 111304 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260899",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-55-2026",
+   "path": "local/constanta/agigea/2026/55",
+   "short": "HCL Agigea nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 55/2026 privind darea în folosință gratuită a unui imobil-teren cu nr. cadastral 104868 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260900",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-56-2026",
+   "path": "local/constanta/agigea/2026/56",
+   "short": "HCL Agigea nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 56/2026 privind aprobarea alipirii unor imobile-terenuri cu nr. cadastral 117593, respectiv nr.117550 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260901",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-57-2026",
+   "path": "local/constanta/agigea/2026/57",
+   "short": "HCL Agigea nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 57/2026 privind aprobarea dezmembrării și alipirii unor imobile-terenuri cu nr. cadastral 105245, nr. cadastral 106200, nr. cadastral 106522 din domeniul public al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260902",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-58-2026",
+   "path": "local/constanta/agigea/2026/58",
+   "short": "HCL Agigea nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 58/2026 privind aprobarea Planului comitetului local al comunei Agigea pentru asigurarea cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pe anul 2026 la nivelul comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260903",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-59-2026",
+   "path": "local/constanta/agigea/2026/59",
+   "short": "HCL Agigea nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 59/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111238 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260904",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-6-2026",
+   "path": "local/constanta/agigea/2026/6",
+   "short": "HCL Agigea nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 6/2026 privind aprobarea constituirii fondului de rezervă bugetară al comunei Agigea pentru anul 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250177",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-60-2026",
+   "path": "local/constanta/agigea/2026/60",
+   "short": "HCL Agigea nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 60/2026 privind aprobarea vânzării prin licitație publică a unui imobil-teren identificat cu număr cadastral 111355 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260905",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-61-2026",
+   "path": "local/constanta/agigea/2026/61",
+   "short": "HCL Agigea nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 61/2026 privind aprobarea modificării organigramei și statului de funcții pentru aparatul de specialitate al Primarului Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/260906",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/260906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-62-2026",
+   "path": "local/constanta/agigea/2026/62",
+   "short": "HCL Agigea nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 62/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/263922",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/263922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-63-2026",
+   "path": "local/constanta/agigea/2026/63",
+   "short": "HCL Agigea nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 63/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Primăriei Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265712",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-64-2026",
+   "path": "local/constanta/agigea/2026/64",
+   "short": "HCL Agigea nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 64/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109395 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265713",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-65-2026",
+   "path": "local/constanta/agigea/2026/65",
+   "short": "HCL Agigea nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 65/2026 privind aprobarea preluării în domeniul privat al Comunei Agigea a unor imobile-terenuri, situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265714",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-66-2026",
+   "path": "local/constanta/agigea/2026/66",
+   "short": "HCL Agigea nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 66/2026 privind aprobarea execuției bugetului local al comunei Agigea pentru trimestrul I al anului 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265715",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-67-2026",
+   "path": "local/constanta/agigea/2026/67",
+   "short": "HCL Agigea nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 67/2026 privind aprobarea Planului de ordine și siguranță publică la nivelul Comunei Agigea, județul Constanța în anul 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265716",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-68-2026",
+   "path": "local/constanta/agigea/2026/68",
+   "short": "HCL Agigea nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 68/2026 privind aprobarea concesionării fără licitație publică a unui imobil teren cu nr. cadastral 117294 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265717",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-69-2026",
+   "path": "local/constanta/agigea/2026/69",
+   "short": "HCL Agigea nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 69/2026 privind aprobarea concesionării fără licitație publică a unui imobil teren cu nr. cadastral 117274 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265718",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-7-2026",
+   "path": "local/constanta/agigea/2026/7",
+   "short": "HCL Agigea nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 7/2026 privind aprobarea utilizării definitive a excedentului bugetar al comunei Agigea din anul 2025 și anii precedenți, în anul 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250178",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-70-2026",
+   "path": "local/constanta/agigea/2026/70",
+   "short": "HCL Agigea nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 70/2026 privind aprobarea concesionării fără licitație publică a unui imobil teren cu nr. cadastral 117491 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265719",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-71-2026",
+   "path": "local/constanta/agigea/2026/71",
+   "short": "HCL Agigea nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 71/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265720",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-72-2026",
+   "path": "local/constanta/agigea/2026/72",
+   "short": "HCL Agigea nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 72/2026 privind aprobarea modificării Dispoziției nr.413/05.09.2023 , aprobată prin HCL nr. 5/2024",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265721",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-73-2026",
+   "path": "local/constanta/agigea/2026/73",
+   "short": "HCL Agigea nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 73/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 106735 și care aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265722",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-74-2026",
+   "path": "local/constanta/agigea/2026/74",
+   "short": "HCL Agigea nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 74/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265723",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-75-2026",
+   "path": "local/constanta/agigea/2026/75",
+   "short": "HCL Agigea nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 75/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265724",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-76-2026",
+   "path": "local/constanta/agigea/2026/76",
+   "short": "HCL Agigea nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 76/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265725",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-77-2026",
+   "path": "local/constanta/agigea/2026/77",
+   "short": "HCL Agigea nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 77/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265726",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-78-2026",
+   "path": "local/constanta/agigea/2026/78",
+   "short": "HCL Agigea nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 78/2026 privind aprobarea bugetului local al comunei Agigea pe anul 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265727",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-79-2026",
+   "path": "local/constanta/agigea/2026/79",
+   "short": "HCL Agigea nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 79/2026 privind aprobarea documentației de urbanism releveelor pe fiecare nivel (parter, etaj 1, etaj 2) aferente imobilului „Piața agroalimentară”, imobil aparținând domeniului public al UAT Comuna Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/265728",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/265728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-8-2026",
+   "path": "local/constanta/agigea/2026/8",
+   "short": "HCL Agigea nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 8/2026 privind aprobarea colaborării interinstituționale a Comunei Agigea în cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250179",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-80-2026",
+   "path": "local/constanta/agigea/2026/80",
+   "short": "HCL Agigea nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 80/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 105403 și care aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271444",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-81-2026",
+   "path": "local/constanta/agigea/2026/81",
+   "short": "HCL Agigea nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 81/2026 privind transmiterea dreptului de concesiune a unui imobil-teren ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271445",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-82-2026",
+   "path": "local/constanta/agigea/2026/82",
+   "short": "HCL Agigea nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 82/2026 privind transmiterea dreptului de concesiune a unui imobil-teren cu nr. cadastral 111280, ce aparține domeniului privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271446",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-83-2026",
+   "path": "local/constanta/agigea/2026/83",
+   "short": "HCL Agigea nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 83/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 108723 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271447",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-84-2026",
+   "path": "local/constanta/agigea/2026/84",
+   "short": "HCL Agigea nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 84/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109587 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271448",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-85-2026",
+   "path": "local/constanta/agigea/2026/85",
+   "short": "HCL Agigea nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 85/2026 privind aprobarea preluării în domeniul privat al Comunei Agigea a unor imobile-terenuri, situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271449",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-86-2026",
+   "path": "local/constanta/agigea/2026/86",
+   "short": "HCL Agigea nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 86/2026 privind aprobarea modificării organigramei și statului de funcții pentru aparatul de specialitate al Primarului Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271450",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-87-2026",
+   "path": "local/constanta/agigea/2026/87",
+   "short": "HCL Agigea nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 87/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271451",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-88-2026",
+   "path": "local/constanta/agigea/2026/88",
+   "short": "HCL Agigea nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 88/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271452",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-89-2026",
+   "path": "local/constanta/agigea/2026/89",
+   "short": "HCL Agigea nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 89/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271453",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-9-2026",
+   "path": "local/constanta/agigea/2026/9",
+   "short": "HCL Agigea nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 9/2026 privind aprobarea Planului anual de acțiuni sau lucrări de interes local pe anul 2026, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluziune, acordat conform Legii 196/2016 privind venitul minim de incluziune precum și de către părinții apți de muncă obligați la întreținerea copilului în condițiile stabilite de Codul civil la nivelul Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/250180",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/250180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-90-2026",
+   "path": "local/constanta/agigea/2026/90",
+   "short": "HCL Agigea nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 90/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271454",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-91-2026",
+   "path": "local/constanta/agigea/2026/91",
+   "short": "HCL Agigea nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 91/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271455",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-92-2026",
+   "path": "local/constanta/agigea/2026/92",
+   "short": "HCL Agigea nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 92/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271456",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-93-2026",
+   "path": "local/constanta/agigea/2026/93",
+   "short": "HCL Agigea nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 93/2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271457",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-94-2026",
+   "path": "local/constanta/agigea/2026/94",
+   "short": "HCL Agigea nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 94/2026 privind aprobarea rectificării bugetului de venituri și cheltuieli (sursa A) pe trimestrul II și aprobarea bugetului creditelor interne ( sursa C) și a listei de investiții finanțate din credite, pe anul 2026 al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271458",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-95-2026",
+   "path": "local/constanta/agigea/2026/95",
+   "short": "HCL Agigea nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 95/2026 privind aprobarea atestării apartenenței la domeniul public al comunei Agigea a unor imobile-teren situate în comuna Agigea județul Constanța",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271459",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-96-2026",
+   "path": "local/constanta/agigea/2026/96",
+   "short": "HCL Agigea nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 96/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 109521 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271460",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-97-2026",
+   "path": "local/constanta/agigea/2026/97",
+   "short": "HCL Agigea nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 97/2026 privind acordul de înstrăinare a unui imobil-locuință construită pe teren cu nr. cadastral 105179 ce aparține domeniului privat al comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271461",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-98-2026",
+   "path": "local/constanta/agigea/2026/98",
+   "short": "HCL Agigea nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 98/2026 privind aprobarea dezmembrării unui imobil-teren cu nr. cadastral 116424 din domeniul privat al Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271462",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-99-2026",
+   "path": "local/constanta/agigea/2026/99",
+   "short": "HCL Agigea nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 99/2026 privind aprobarea plății eșalonate a debitului datorat comunei Agigea în dosarul de executare nr.1810/2025",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/271463",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/271463",
      "sha256": null
     }
    ]

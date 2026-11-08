@@ -3,6 +3,28 @@
 "shard": "local/constanta/crucea/2022",
 "acts": [
 {
+"slug": "hcl-constanta--crucea-1-2022",
+"path": "local/constanta/crucea/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 1/2022 privind alegerea președintelui de ședință pentru ianuarie 2022 - martie 2022",
+"short": "HCL Crucea nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/48290",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-2-2022",
 "path": "local/constanta/crucea/2022/2",
 "kind": "local",
@@ -623,6 +645,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-30-2022",
+"path": "local/constanta/crucea/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 30/2022 privind aprobarea închirierii prin licitatie publica a unui spațiu cu destinația de cabinet medical stomatologic amplasat în locația Dispensarului Uman din Șoseaua Constanței , nr. 4, comuna Crucea , județul Constanța",
+"short": "HCL Crucea nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-18",
+"latest": "2022-02-18",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/51644",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-31-2022",
 "path": "local/constanta/crucea/2022/31",
 "kind": "local",
@@ -664,6 +708,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-33-2022",
+"path": "local/constanta/crucea/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 33/2022 privind vânzarea prin licitație publică, în condițiile legii, a unor imobile terenuri aparținând domeniului privat al comunei Crucea , județul Constanța",
+"short": "HCL Crucea nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/51647",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -799,6 +865,50 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-40-2022",
+"path": "local/constanta/crucea/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 40/2022 privind vânzarea prin licitație publică, în condițiile legii, a unor imobile terenuri aparținând domeniului privat al comunei Crucea , județul Constanța",
+"short": "HCL Crucea nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/55930",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--crucea-41-2022",
+"path": "local/constanta/crucea/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 41/2022 privind aprobarea închirierii prin atribuire directă și / sau prin licitație publică cu strigare a suprafeței de ha pajiste comunală aflată în extravilan, apartinând domeniului privat al comunei Crucea, județul Constanța potrivit art. 9, alin. (2) din Ordonanța de urgență a Guvernului nr. 34 / 2013 privind organizarea, administrarea și exploatarea pajiștilor permanente și pentru modificarea și completareea Legii fondului funciar nr. 18 / 1991",
+"short": "HCL Crucea nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/55931",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-42-2022",
 "path": "local/constanta/crucea/2022/42",
 "kind": "local",
@@ -906,6 +1016,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-47-2022",
+"path": "local/constanta/crucea/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 47/2022 privind alegerea președintelui de ședință pentru aprilie 2022 - iunie 2022",
+"short": "HCL Crucea nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-28",
+"latest": "2022-06-28",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/56633",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1307,6 +1439,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-66-2022",
+"path": "local/constanta/crucea/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 66/2022 de modificarea Hotărârii Consiliului local nr.41/31,03,2022 privind aprobarea închirierii prin atribuire directă și / sau prin licitație publică cu strigare a suprafeței de ha pajiste comunală aflată în extravilan, apartinând domeniului privat al comunei Crucea, județul Constanța potrivit art. 9, alin. (2) din Ordonanța de urgență a Guvernului nr. 34 / 2013 privind organizarea, administrarea și exploatarea pajiștilor permanente și pentru modificarea și completareea Legii fondului funciar nr. 18 / 1991",
+"short": "HCL Crucea nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-28",
+"latest": "2022-06-28",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/61684",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-67-2022",
 "path": "local/constanta/crucea/2022/67",
 "kind": "local",
@@ -1634,6 +1788,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-82-2022",
+"path": "local/constanta/crucea/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 82/2022 privind alegerea președintelui de ședință pentru perioada iulie 2022 - septembrie 2022",
+"short": "HCL Crucea nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/67406",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2231,6 +2407,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-110-2022",
+"path": "local/constanta/crucea/2022/110",
+"kind": "local",
+"year": "2022",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 110/2022 privind alegerea președintelui de ședință pentru perioada octombrie 2022 - decembrie 2022",
+"short": "HCL Crucea nr. 110/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-07",
+"latest": "2022-11-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/75017",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

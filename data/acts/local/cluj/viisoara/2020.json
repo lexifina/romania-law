@@ -93,6 +93,28 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-5-2020",
+"path": "local/cluj/viisoara/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 5/2020 privind aprobarea concesionării unui spațiu din cadrul Dispensarului uman Viișoara nr. 1",
+"short": "HCL Viișoara nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/4476",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-6-2020",
 "path": "local/cluj/viisoara/2020/6",
 "kind": "local",
@@ -112,6 +134,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-7-2020",
+"path": "local/cluj/viisoara/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 7/2020 privind acordarea unui ajutor de urgență familiilor din blocul de locuințe situat în Viișoara nr. 1210",
+"short": "HCL Viișoara nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/4485",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -310,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-17-2020",
+"path": "local/cluj/viisoara/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2020 privind acordarea sprijinului financiar, de la bugetul local al comunei Viișoara, unităților de cult, aparținând cultelor religioase recunoscute din România",
+"short": "HCL Viișoara nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/7649",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

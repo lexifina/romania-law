@@ -1,0 +1,495 @@
+{
+ "country": "RO",
+ "shard": "proiect/1996",
+ "acts": [
+  {
+   "slug": "proiect-parlament-1996-l110-1996",
+   "path": "proiect/parlament/1996/l110-1996",
+   "short": "Propunere legislativă L110/1996",
+   "title": "Propunere legislativă pentru modificarea Legii nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu altă destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-01-16",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-01-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-03-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-05-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-05-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l113-1996",
+   "path": "proiect/parlament/1996/l113-1996",
+   "short": "Propunere legislativă L113/1996",
+   "title": "Propunere legislativă pentru modificarea şi completarea Codului Silvic adoptat prin Legea nr. 26/1996",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-12-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l120-1996",
+   "path": "proiect/parlament/1996/l120-1996",
+   "short": "Proiect de lege L120/1996",
+   "title": "Proiect: modificarea Legii partidelor politice nr. 27/1996",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-11-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-11-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-02-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-02-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-02-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l146-1996",
+   "path": "proiect/parlament/1996/l146-1996",
+   "short": "Proiect de lege L146/1996",
+   "title": "Proiect de lege privind contul general de execuţie a bugetului de stat pe anul 1995.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L146&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-08-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L146&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2000-03-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L146&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2000-03-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L146&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2000-04-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L146&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2000-04-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L146&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l156-1996",
+   "path": "proiect/parlament/1996/l156-1996",
+   "short": "Proiect de lege L156/1996",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei Guvernului nr. 36/1996 privind unele măsuri specifice pentru împrospătare stocurilor de produse petroliere din rezervele de mobilizarea ale armatei.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-09-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-11-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-03-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-03-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-10-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-11-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-11-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L156&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l157-1996",
+   "path": "proiect/parlament/1996/l157-1996",
+   "short": "Proiect de lege L157/1996",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei Guvernului nr. 41/1996 privind unele măsuri pentru conversia capacităţilor de producţie militară în producţie civilă.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-09-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-02-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-03-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-03-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-06-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-07-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-07-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2001-07-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L157&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l165-1996",
+   "path": "proiect/parlament/1996/l165-1996",
+   "short": "Proiect de lege L165/1996",
+   "title": "Proiect de lege pentru respingerea Ordonanţei Guvernului nr. 26/1996 privind regimul proiectării, avizării, aprobării şi executării obiectivelor noi de investiţii ce se realizează de către Banca Naţională a României şi Casa de Economii şi Consemnaţiuni.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-09-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-10-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-10-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-12-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1997-12-30",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-02-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L165&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l47-1996",
+   "path": "proiect/parlament/1996/l47-1996",
+   "short": "Propunere legislativă L47/1996",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr. 36/1995 -Legea notarilor publici şi a activităţilor notariale.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-02-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-05-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-06-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2004-11-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "2004-11-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L47&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l55-1996",
+   "path": "proiect/parlament/1996/l55-1996",
+   "short": "Proiect de lege L55/1996",
+   "title": "Proiect: Lege privind contul general de excuţie a bugetului de stat pe anul 1994",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L55&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-02-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L55&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-05-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L55&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-06-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L55&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L55&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-07-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L55&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l82-1996",
+   "path": "proiect/parlament/1996/l82-1996",
+   "short": "Proiect de lege L82/1996",
+   "title": "Proiect: Lege privind organizarea, funcţionarea şi finanţarea spitalelor.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-05-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-09-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1999-06-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1999-07-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1999-07-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1999-08-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L82&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-1996-l96-1996",
+   "path": "proiect/parlament/1996/l96-1996",
+   "short": "Proiect de lege L96/1996",
+   "title": "Proiect de lege privind asistenţa medicală publică şi inspecţia sanitară de stat",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+   "versions": [
+    {
+     "from": "1996-06-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-07-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1996-09-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-02-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+     "sha256": null
+    },
+    {
+     "from": "1998-06-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L96&an_cls=1996",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

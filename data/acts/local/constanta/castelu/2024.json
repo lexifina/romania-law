@@ -227,6 +227,29 @@
 }
 },
 {
+"slug": "hcl-constanta--castelu-11-2024",
+"path": "local/constanta/castelu/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 11/2024",
+"short": "HCL Castelu nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-09",
+"latest": "2024-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--castelu-12-2024",
 "path": "local/constanta/castelu/2024/12",
 "kind": "local",
@@ -246,6 +269,29 @@
 "council_name": "Consiliul Local al Comunei Castelu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-13-2024",
+"path": "local/constanta/castelu/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 13/2024",
+"short": "HCL Castelu nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-09",
+"latest": "2024-02-09",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -337,6 +383,75 @@
 "council_name": "Consiliul Local al Comunei Castelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--castelu-18-2024",
+"path": "local/constanta/castelu/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 18/2024",
+"short": "HCL Castelu nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-19-2024",
+"path": "local/constanta/castelu/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 19/2024",
+"short": "HCL Castelu nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-20-2024",
+"path": "local/constanta/castelu/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 20/2024",
+"short": "HCL Castelu nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -473,6 +588,29 @@
 }
 },
 {
+"slug": "hcl-constanta--castelu-27-2024",
+"path": "local/constanta/castelu/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 27/2024",
+"short": "HCL Castelu nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-22",
+"latest": "2024-03-22",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--castelu-28-2024",
 "path": "local/constanta/castelu/2024/28",
 "kind": "local",
@@ -606,6 +744,50 @@
 }
 },
 {
+"slug": "hcl-constanta--castelu-34-2024",
+"path": "local/constanta/castelu/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 34/2024 PRIVIND APROBAREA DOCUMENTAȚIEI DE ATRIBUIRE ÎN VEDEREA VÂNZĂRII PRIN LICITAȚIE PUBLICĂ A UNUI IMOBIL-TEREN ÎN SUPRAFAȚĂ DE 207 MP, APARȚINÂND DOMENIULUI PRIVAT AL COMUNEI CASTELU, SITUAT ÎN LOCALITATEA NISIPARI, STRADA SPERANȚEI, NR. 10, LOT 2, AVÂND CARTE FUNCIARĂ NR. 108971",
+"short": "HCL Castelu nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76093",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--castelu-35-2024",
+"path": "local/constanta/castelu/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 35/2024 APROBAREA CUMPĂRĂRII TERENULUI ÎN SUPRAFAȚĂ DE 2553 MP, IDENTIFICAT PRIN NR. CADASTRAL 109085, ÎNSCRIS ÎN CARTEA FUNCIARĂ NR. 109085 A UAT CASTELU",
+"short": "HCL Castelu nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76094",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--castelu-36-2024",
 "path": "local/constanta/castelu/2024/36",
 "kind": "local",
@@ -695,6 +877,29 @@
 }
 },
 {
+"slug": "hcl-constanta--castelu-46-2024",
+"path": "local/constanta/castelu/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 46/2024",
+"short": "HCL Castelu nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--castelu-59-2024",
 "path": "local/constanta/castelu/2024/59",
 "kind": "local",
@@ -714,6 +919,51 @@
 "council_name": "Consiliul Local al Comunei Castelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--castelu-66-2024",
+"path": "local/constanta/castelu/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 66/2024",
+"short": "HCL Castelu nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-19",
+"latest": "2024-07-19",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--castelu-67-2024",
+"path": "local/constanta/castelu/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 67/2024 PRIVIND APROBAREA ACORDĂRII UNUI AJUTOR DE URGENŢĂ ÎN SUMA DE 5.000 LEI, PENTRU FAMILIA AMET PEMBE ŞI MUSTAFA SAMIR-REDIVAN, PENTRU ACOPERIREA CHELTUIELILOR DE TRANSPORT ÎN VEDEREA EFECTUĂRII INVESTIGAŢIILOR MEDICALE, OPERAŢIE ŞI TRATAMENT ÎN STRĂINĂTATE PENTRU FIICA LOR MINORĂ MUSTAFA SUNA",
+"short": "HCL Castelu nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-19",
+"latest": "2024-07-19",
+"portal": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#83307",
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

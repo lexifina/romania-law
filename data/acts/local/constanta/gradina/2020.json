@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-4-2020",
+"path": "local/constanta/gradina/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 4/2020 privind evaluarea activității asistenților personali ai persoanelor cu handicap grav în perioada iulie-decembrie 2019",
+"short": "HCL Grădina nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/4530",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-5-2020",
 "path": "local/constanta/gradina/2020/5",
 "kind": "local",
@@ -89,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-6-2020",
+"path": "local/constanta/gradina/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 6/2020 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei",
+"short": "HCL Grădina nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/4532",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-15-2020",
+"path": "local/constanta/gradina/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 15/2020 privind aprobarea acordării de pachete elevilor Școlii Gimnaziale nr.1 Grădina, comuna Grădina, județul Constanța, în anul 2020",
+"short": "HCL Grădina nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/4540",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

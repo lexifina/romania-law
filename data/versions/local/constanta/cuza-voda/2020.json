@@ -183,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-20-2020",
+   "path": "local/constanta/cuza-voda/2020/20",
+   "short": "HCL Cuza Vodă nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 20/2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3195",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-21-2020",
+   "path": "local/constanta/cuza-voda/2020/21",
+   "short": "HCL Cuza Vodă nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 21/2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3196",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-22-2020",
+   "path": "local/constanta/cuza-voda/2020/22",
+   "short": "HCL Cuza Vodă nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 22/2020 privind evaluare performanțe profesionale individuale ale secretarului general al u.a.t. Cuza Vodă pentru anul 2019",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3197",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3197",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-23-2020",
    "path": "local/constanta/cuza-voda/2020/23",
    "short": "HCL Cuza Vodă nr. 23/2020",
@@ -208,6 +253,21 @@
      "from": "2020-03-12",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-25-2020",
+   "path": "local/constanta/cuza-voda/2020/25",
+   "short": "HCL Cuza Vodă nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 25/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3248",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3248",
      "sha256": null
     }
    ]
@@ -388,6 +448,21 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-37-2020",
+   "path": "local/constanta/cuza-voda/2020/37",
+   "short": "HCL Cuza Vodă nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 37/2020 privind desemnarea persoanei care va întocmi și ține Registrul de evidență a datoriei publice",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/5535",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5535",
      "sha256": null
     }
    ]
@@ -588,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-5-2020",
+   "path": "local/constanta/cuza-voda/2020/5",
+   "short": "HCL Cuza Vodă nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 5/2020 privind stabilirea coeficientului de salarizare, a indemnizației de hrană și vouchere de vacantă pe anul 2020, pentru aparatul propriu al primarului comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3177",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3177",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-50-2020",
    "path": "local/constanta/cuza-voda/2020/50",
    "short": "HCL Cuza Vodă nr. 50/2020",
@@ -723,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-59-2020",
+   "path": "local/constanta/cuza-voda/2020/59",
+   "short": "HCL Cuza Vodă nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 59/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/11000",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/11000",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-6-2020",
    "path": "local/constanta/cuza-voda/2020/6",
    "short": "HCL Cuza Vodă nr. 6/2020",
@@ -733,6 +838,51 @@
      "from": "2020-01-29",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-60-2020",
+   "path": "local/constanta/cuza-voda/2020/60",
+   "short": "HCL Cuza Vodă nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 60/2020 privind stabilirea componenței comisiilor de specialitate ale Consiliului Local al comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/11001",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/11001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-61-2020",
+   "path": "local/constanta/cuza-voda/2020/61",
+   "short": "HCL Cuza Vodă nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 61/2020 privind alegerea viceprimarului comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/11002",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/11002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-62-2020",
+   "path": "local/constanta/cuza-voda/2020/62",
+   "short": "HCL Cuza Vodă nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 62/2020 privind stabilirea indemnizației de ședință pentru membrii Consiliului Local ai comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/11003",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/11003",
      "sha256": null
     }
    ]
@@ -823,6 +973,21 @@
      "from": "2020-12-10",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-69-2020",
+   "path": "local/constanta/cuza-voda/2020/69",
+   "short": "HCL Cuza Vodă nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 69/2020 privind desemnrea reprezentanților Consiliului Local în Consiliul de Administrație al Scolii Gimnaziale nr. 1 Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12490",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12490",
      "sha256": null
     }
    ]

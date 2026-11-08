@@ -3,6 +3,29 @@
 "shard": "local/constanta/castelu/2021",
 "acts": [
 {
+"slug": "hcl-constanta--castelu-51-2021",
+"path": "local/constanta/castelu/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 51/2021",
+"short": "HCL Castelu nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-25",
+"latest": "2021-06-25",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--castelu-55-2021",
 "path": "local/constanta/castelu/2021/55",
 "kind": "local",

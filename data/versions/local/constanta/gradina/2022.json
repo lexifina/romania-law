@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-14-2022",
+   "path": "local/constanta/gradina/2022/14",
+   "short": "HCL Grădina nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 14/2022 privind alegerea președintelui de ședință pentru lunile februarie 2022 - aprilie 2022",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/52547",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/52547",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-15-2022",
    "path": "local/constanta/gradina/2022/15",
    "short": "HCL Grădina nr. 15/2022",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-18-2022",
+   "path": "local/constanta/gradina/2022/18",
+   "short": "HCL Grădina nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 18/2022 privind desemnarea reprezentanților Consiliului local Grădina, în comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției vacante de director/director adjunct din unitatea de învățământ preuniversitar de stat din comuna Grădina",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/52551",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/52551",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-19-2022",
    "path": "local/constanta/gradina/2022/19",
    "short": "HCL Grădina nr. 19/2022",
@@ -163,6 +193,21 @@
      "from": "2022-02-28",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/52553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-21-2022",
+   "path": "local/constanta/gradina/2022/21",
+   "short": "HCL Grădina nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 21/2022 privind închirierea prin atribuire directă a suprafețelor de pajiști naturale, disponibile, aflate în domeniul privat al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/52554",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/52554",
      "sha256": null
     }
    ]
@@ -298,6 +343,21 @@
      "from": "2022-01-31",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/48783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-30-2022",
+   "path": "local/constanta/gradina/2022/30",
+   "short": "HCL Grădina nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 30/2022",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/54083",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/54083",
      "sha256": null
     }
    ]
@@ -453,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-40-2022",
+   "path": "local/constanta/gradina/2022/40",
+   "short": "HCL Grădina nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 40/2022 privind alegerea președintelui de ședință pentru lunile mai 2022 - iulie 2022",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/62449",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/62449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-41-2022",
    "path": "local/constanta/gradina/2022/41",
    "short": "HCL Grădina nr. 41/2022",
@@ -598,6 +673,21 @@
      "from": "2022-01-31",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/48785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-50-2022",
+   "path": "local/constanta/gradina/2022/50",
+   "short": "HCL Grădina nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 50/2022",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/66453",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/66453",
      "sha256": null
     }
    ]
