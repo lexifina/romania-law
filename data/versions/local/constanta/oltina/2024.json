@@ -3,6 +3,621 @@
  "shard": "local/constanta/oltina/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--oltina-1-2024",
+   "path": "local/constanta/oltina/2024/1",
+   "short": "HCL Oltina nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 1/2024 privind aprobarea execuției bugetului local al Comunei Oltina , judetul Constanta pentru trimestrul IV al anului 2023",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151677",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-10-2024",
+   "path": "local/constanta/oltina/2024/10",
+   "short": "HCL Oltina nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 10/2024 privind rectificarea bugetului local general al Comunei Oltina pe anul 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151822",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-11-2024",
+   "path": "local/constanta/oltina/2024/11",
+   "short": "HCL Oltina nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 11/2024 privind aprobarea aderarii UAT Oltina la ASOCIATIA GRUP LOCAL DOBROGEA NORD",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151823",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-12-2024",
+   "path": "local/constanta/oltina/2024/12",
+   "short": "HCL Oltina nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 12/2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151824",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-13-2024",
+   "path": "local/constanta/oltina/2024/13",
+   "short": "HCL Oltina nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 13/2024 privind dãrii în administrare cãtre Şcoala Gimnazialã nr.1 Oltina a imobilului scoalã modernizatã",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151825",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-14-2024",
+   "path": "local/constanta/oltina/2024/14",
+   "short": "HCL Oltina nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 14/2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160035",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-15-2024",
+   "path": "local/constanta/oltina/2024/15",
+   "short": "HCL Oltina nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 15/2024 privind aprobarea organizarii precum si a cheltuielilor pentru organizarea evenimentului „Ziua Oltinei” în data de 06.05.2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160036",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-16-2024",
+   "path": "local/constanta/oltina/2024/16",
+   "short": "HCL Oltina nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 16/2024 privind aprobarea indexarii impozitelor si taxelor locale precum si a taxelor speciale ale Comunei Oltina, judetul Constanta pentru anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160037",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-17-2024",
+   "path": "local/constanta/oltina/2024/17",
+   "short": "HCL Oltina nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 17/2024 privind aprobarea prelungirii Scrisorii de garantie de la FNGCIMM SA IFN nr. 220/12.09.2019, pentru implementarea proiectului “Reabilitare gradinita nr.1,Localitatea Oltina,Comuna Oltina,judetul Constanta”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160038",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-18-2024",
+   "path": "local/constanta/oltina/2024/18",
+   "short": "HCL Oltina nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 18/2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160039",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-19-2024",
+   "path": "local/constanta/oltina/2024/19",
+   "short": "HCL Oltina nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 19/2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160040",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-2-2024",
+   "path": "local/constanta/oltina/2024/2",
+   "short": "HCL Oltina nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 2/2024 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de dezvoltare si functionare pe anul 2023",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151678",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-20-2024",
+   "path": "local/constanta/oltina/2024/20",
+   "short": "HCL Oltina nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 20/2024 privind aprobarea continuarii activitatii „Serviciului Public de Alimentare cu Apă și Canalizare” la nivelul comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160050",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-21-2024",
+   "path": "local/constanta/oltina/2024/21",
+   "short": "HCL Oltina nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 21/2024 privind aprobarea Organigramei si a Statului de functii a „Serviciului Public de Alimentare cu Apă și Canalizare” la nivelul comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160051",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-22-2024",
+   "path": "local/constanta/oltina/2024/22",
+   "short": "HCL Oltina nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 22/2024 privind aprobarea execuției bugetului local al Comunei Oltina , judetul Constanta pentru trimestrul I al anului 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160052",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-23-2024",
+   "path": "local/constanta/oltina/2024/23",
+   "short": "HCL Oltina nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 23/2024 privind alegerea președintelui de ședință in perioada Iunie 2024 – August 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160103",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-24-2024",
+   "path": "local/constanta/oltina/2024/24",
+   "short": "HCL Oltina nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 24/2024 privind aprobarea atestarii apartenenței la domeniul privat al comunei Oltina, judetul Constanta a unor imobile terenuri",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160104",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-25-2024",
+   "path": "local/constanta/oltina/2024/25",
+   "short": "HCL Oltina nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 25/2024 privind aprobarea închirierii unor suprafețe de pajiști din domeniul privat al Comunei Oltina",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160105",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-26-2024",
+   "path": "local/constanta/oltina/2024/26",
+   "short": "HCL Oltina nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 26/2024 privind aprobarea cheltuielilor aferente deplasării copiilor din comuna Oltina, judetul Constanta, în stațiunea Mamaia, la parcul Aqua Magic Mamaia, în cadrul programului ”O zi de joacă de neuitat”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160106",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-27-2024",
+   "path": "local/constanta/oltina/2024/27",
+   "short": "HCL Oltina nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 27/2024 privind acordarea unui mandat special reprezentantului comunei Oltina, judetul Constanța în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/160107",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/160107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-28-2024",
+   "path": "local/constanta/oltina/2024/28",
+   "short": "HCL Oltina nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 28/2024 privind aprobarea actualizarii valorii de inventar a imobilului Gradinita nr.1, din localitatea Oltina, judetul Constanta in urma finalizarii obiectivului de investitie \"Reabilitare Gradinita nr.1, localitatea Oltina, comuna Oltina, judetul Constanta\" finantat prin contractul de finantare nr.C1920072E216221402052/18.09.2018",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166804",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-29-2024",
+   "path": "local/constanta/oltina/2024/29",
+   "short": "HCL Oltina nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 29/2024 privind aprobarea inchirierii, fara licitatie publica a unui spatiu apartinand domeniului public al Comunei Oltina in vederea organizarii si functionarii corespunzatoare a serviciilor publice notariale in Comuna Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166805",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-3-2024",
+   "path": "local/constanta/oltina/2024/3",
+   "short": "HCL Oltina nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 3/2024 privind aprobarea utilizarii excedentului bugetului local inregistrat la sfarsitul anului 2023, pentru finantarea cheltuielilor sectiunii de dezvoltare si sectiunii de functionare pe anul 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151679",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-30-2024",
+   "path": "local/constanta/oltina/2024/30",
+   "short": "HCL Oltina nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 30/2024 privind aprobarea documentației pentru delegarea activitãţilor de sortare, tratare și depozitare a deșeurilor menajere prin procedurã simplificatã",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166813",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-31-2024",
+   "path": "local/constanta/oltina/2024/31",
+   "short": "HCL Oltina nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 31/2024 privind aprobarea organigramei si a statului de functii al aparatului de specialitate al primarului comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166814",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-32-2024",
+   "path": "local/constanta/oltina/2024/32",
+   "short": "HCL Oltina nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 32/2024 privind însușirea rezultatului inventarierii anuale a bunurilor aparținând comunei Oltina pentru anul 2023",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166815",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-33-2024",
+   "path": "local/constanta/oltina/2024/33",
+   "short": "HCL Oltina nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 33/2024 privind clasificarea unor drumuri de interes local ca străzi",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166816",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-34-2024",
+   "path": "local/constanta/oltina/2024/34",
+   "short": "HCL Oltina nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 34/2024 privind aprobarea execuției bugetului local al Comunei Oltina , judetul Constanta pentru trimestrul II al anului 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166817",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-35-2024",
+   "path": "local/constanta/oltina/2024/35",
+   "short": "HCL Oltina nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 35/2024 privind atestarea inventarului bunurilor care apartin domeniului public al Comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166818",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-36-2024",
+   "path": "local/constanta/oltina/2024/36",
+   "short": "HCL Oltina nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 36/2024 privind aprobarea prelungirii Scrisorii de garantie de la FNGCIMM SA IFN nr. 220/12.09.2019, pentru implementarea proiectului “Reabilitare gradinita nr.1, Localitatea Oltina,Comuna Oltina,judetul Constanta”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/166819",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/166819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-37-2024",
+   "path": "local/constanta/oltina/2024/37",
+   "short": "HCL Oltina nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 37/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182138",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-38-2024",
+   "path": "local/constanta/oltina/2024/38",
+   "short": "HCL Oltina nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 38/2024 privind rectificarea bugetului local general al Comunei Oltina pe anul 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182139",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-39-2024",
+   "path": "local/constanta/oltina/2024/39",
+   "short": "HCL Oltina nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 39/2024 privind aprobarea proiectului „Diversificarea serviciilor de educaţie timpurie în judeţul Constanţa”, a cheltuielilor aferente şi a Acordului - cadru de parteneriat pentru realizarea proiectului",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182140",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-4-2024",
+   "path": "local/constanta/oltina/2024/4",
+   "short": "HCL Oltina nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 4/2024 privind organizarea rețelei scolare de pe raza Comunei Oltina pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151680",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-40-2024",
+   "path": "local/constanta/oltina/2024/40",
+   "short": "HCL Oltina nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 40/2024 privind aprobarea prelungirii Scrisorii de garantie de la FNGCIMM SA IFN nr.739/11.10.2017 , pentru implementarea proiectului “Infiintare sistem de canalizare apa uzata menajera in localitatea Oltina, comuna Oltina, judetul Constanta”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182141",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-41-2024",
+   "path": "local/constanta/oltina/2024/41",
+   "short": "HCL Oltina nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 41/2024 privind aprobarea prelungirii termenului de finalizare a proiectului „Centru multifunctional de asistenta sociala pentru persoane varstnice Altinum, Comuna Oltina, Judetul Constanta\" și a cheltuielilor estimate legate de acesta, în vederea asigurării funcționalității sale dar nu mai tarziu de 31.12.2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182142",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-42-2024",
+   "path": "local/constanta/oltina/2024/42",
+   "short": "HCL Oltina nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 42/2024 privind aprobarea execuției bugetului local al Comunei Oltina , judetul Constanta pentru trimestrul III al anului 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182193",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-43-2024",
+   "path": "local/constanta/oltina/2024/43",
+   "short": "HCL Oltina nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 43/2024 privind rectificarea bugetului local general al Comunei Oltina, judetul Constanta pe anul 2024, trimestrul IV, Capitolul Asistenta Sociala",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182194",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-44-2024",
+   "path": "local/constanta/oltina/2024/44",
+   "short": "HCL Oltina nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 44/2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182195",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-45-2024",
+   "path": "local/constanta/oltina/2024/45",
+   "short": "HCL Oltina nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 45/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182281",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-46-2024",
+   "path": "local/constanta/oltina/2024/46",
+   "short": "HCL Oltina nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 46/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/182282",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/182282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-47-2024",
    "path": "local/constanta/oltina/2024/47",
    "short": "HCL Oltina nr. 47/2024",
@@ -43,6 +658,21 @@
      "from": "2024-12-16",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/182327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-5-2024",
+   "path": "local/constanta/oltina/2024/5",
+   "short": "HCL Oltina nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 5/2024 privind aprobarea organigramei si a statului de functii al aparatului de specialitate al primarului comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151751",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151751",
      "sha256": null
     }
    ]
@@ -198,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--oltina-6-2024",
+   "path": "local/constanta/oltina/2024/6",
+   "short": "HCL Oltina nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 6/2024 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă a beneficiarilor de venit minim de incluziune in anul 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151752",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151752",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-60-2024",
    "path": "local/constanta/oltina/2024/60",
    "short": "HCL Oltina nr. 60/2024",
@@ -298,6 +943,51 @@
      "from": "2025-02-06",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/191045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-7-2024",
+   "path": "local/constanta/oltina/2024/7",
+   "short": "HCL Oltina nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 7/2024 privind APROBAREA BUGETULUI LOCAL AL COMUNEI OLTINA PENTRU ANUL 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151777",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-8-2024",
+   "path": "local/constanta/oltina/2024/8",
+   "short": "HCL Oltina nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 8/2024 privind alegerea președintelui de ședință in perioada Martie 2024 – Mai 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151820",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-9-2024",
+   "path": "local/constanta/oltina/2024/9",
+   "short": "HCL Oltina nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 9/2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/151821",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/151821",
      "sha256": null
     }
    ]

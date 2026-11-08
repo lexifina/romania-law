@@ -3,6 +3,111 @@
  "shard": "local/constanta/vulturu/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--vulturu-1-2021",
+   "path": "local/constanta/vulturu/2021/1",
+   "short": "HCL Vulturu nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2021 privind aprobarea utilizării unei sume din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43236",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-10-2021",
+   "path": "local/constanta/vulturu/2021/10",
+   "short": "HCL Vulturu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 10/2021 privind aprobarea numărului și cuantumului burselor de care pot beneficia elevii cuprinşi în învăţământul preuniversitar de stat din unităţile de învăţământ aflate pe raza Unitătii Adminitrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43245",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-11-2021",
+   "path": "local/constanta/vulturu/2021/11",
+   "short": "HCL Vulturu nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 11/2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43246",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-12-2021",
+   "path": "local/constanta/vulturu/2021/12",
+   "short": "HCL Vulturu nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 12/2021 privind dezmembrarea unui imobil teren în suprafată de 91.800 mp, ce apartine domeniului public al Unitătii Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43247",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-13-2021",
+   "path": "local/constanta/vulturu/2021/13",
+   "short": "HCL Vulturu nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 13/2021 privind repartizarea unor locuinte sociale ce apartin domeniului public al Unitătii Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43248",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-14-2021",
+   "path": "local/constanta/vulturu/2021/14",
+   "short": "HCL Vulturu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 14/2021 privind stabilirea nivelurilor impozitelor si taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43249",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-15-2021",
+   "path": "local/constanta/vulturu/2021/15",
+   "short": "HCL Vulturu nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 15/2021 privind trecerea din domeniul public în domeniul privat al Unității Administrativ – Teritoriale Vulturu a unor imobile terenuri, categoria de folosință pășune",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43250",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-16-2021",
    "path": "local/constanta/vulturu/2021/16",
    "short": "HCL Vulturu nr. 16/2021",
@@ -13,6 +118,306 @@
      "from": "2021-04-16",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-17-2021",
+   "path": "local/constanta/vulturu/2021/17",
+   "short": "HCL Vulturu nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 17/2021 privind aprobarea bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43252",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-18-2021",
+   "path": "local/constanta/vulturu/2021/18",
+   "short": "HCL Vulturu nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 18/2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43253",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-19-2021",
+   "path": "local/constanta/vulturu/2021/19",
+   "short": "HCL Vulturu nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 19/2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43254",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-2-2021",
+   "path": "local/constanta/vulturu/2021/2",
+   "short": "HCL Vulturu nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 2/2021 privind organizarea reţelei şcolare a unităţilor de învăţământ aflate pe raza teritorială a comunei Vulturu care vor functiona în anul şcolar 2021-2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43237",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-20-2021",
+   "path": "local/constanta/vulturu/2021/20",
+   "short": "HCL Vulturu nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 20/2021 privind aprobarea acordării unor facilități personalului angajat în cadrul aparatului de specialitate al primarului comunei Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43255",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-21-2021",
+   "path": "local/constanta/vulturu/2021/21",
+   "short": "HCL Vulturu nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 21/2021 privind aprobarea planurilor anuale pentru asigurarea resurselor umane, materiale şi financiare destinate prevenirii şi gestionării situaţiilor de urgenţă",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43256",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-22-2021",
+   "path": "local/constanta/vulturu/2021/22",
+   "short": "HCL Vulturu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 22/2021 privind aprobarea Contului de încheiere a exerciţiului bugetar şi a Situaţiilor financiare anuale pentru anul 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43257",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-23-2021",
+   "path": "local/constanta/vulturu/2021/23",
+   "short": "HCL Vulturu nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 23/2021 privind aprobarea contului de execuţie bugetară pentru trimestrul I al anului 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43258",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-24-2021",
+   "path": "local/constanta/vulturu/2021/24",
+   "short": "HCL Vulturu nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 24/2021 privind alegerea presedintelui de sedintă al Consiliului local al comunei Vulturu pentru sedintele din lunile iunie – august 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43264",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-25-2021",
+   "path": "local/constanta/vulturu/2021/25",
+   "short": "HCL Vulturu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 25/2021 privind aprobarea utilizării unei sume din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43265",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-26-2021",
+   "path": "local/constanta/vulturu/2021/26",
+   "short": "HCL Vulturu nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 26/2021 privind rectificarea bugetului local al comunei Vulturu pentru anul 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43266",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-27-2021",
+   "path": "local/constanta/vulturu/2021/27",
+   "short": "HCL Vulturu nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 27/2021 privind alegerea presedintelui de sedintă al Consiliului local al comunei Vulturu pentru sedinta din data de 26.05.2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43267",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-28-2021",
+   "path": "local/constanta/vulturu/2021/28",
+   "short": "HCL Vulturu nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 28/2021 privind rectificarea bugetului local al comunei Vulturu pentru anul 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43268",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-29-2021",
+   "path": "local/constanta/vulturu/2021/29",
+   "short": "HCL Vulturu nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 29/2021 privind aprobarea Organigramei şi a Statului de funcții ale aparatului de specialitate al primarului comunei Vulturu, judeţul Constanţa",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43269",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-3-2021",
+   "path": "local/constanta/vulturu/2021/3",
+   "short": "HCL Vulturu nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2021 privind aprobarea Actului Adițional nr. 1 la Documentul de Poziție, avizarea Documentației de atribuire a contractului de delegare, prin concesiune, a gestiunii serviciului de salubrizare aferent Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța” și acordarea unor mandate",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43238",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-30-2021",
+   "path": "local/constanta/vulturu/2021/30",
+   "short": "HCL Vulturu nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 30/2021 privind trecerea unui imobil din domeniul public în domeniul privat al Unității Administrativ – Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43270",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-31-2021",
+   "path": "local/constanta/vulturu/2021/31",
+   "short": "HCL Vulturu nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 31/2021 privind aprobarea Regulamentului de organizare și funcționare al Compartimentului de asistență socială organizat la nivelul comunei Vulturu, judetul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43271",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-32-2021",
+   "path": "local/constanta/vulturu/2021/32",
+   "short": "HCL Vulturu nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 32/2021 privind atribuirea de număr administrativ unui imobil situat în intravilanul comunei Vulturu, judetul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43272",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-33-2021",
+   "path": "local/constanta/vulturu/2021/33",
+   "short": "HCL Vulturu nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 33/2021 privind aprobarea utilizării unei sume din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43273",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-34-2021",
+   "path": "local/constanta/vulturu/2021/34",
+   "short": "HCL Vulturu nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 34/2021 privind rectificarea bugetului local al comunei Vulturu pentru anul 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43274",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43274",
      "sha256": null
     }
    ]
@@ -88,6 +493,21 @@
      "from": "2021-09-21",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-4-2021",
+   "path": "local/constanta/vulturu/2021/4",
+   "short": "HCL Vulturu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 4/2021 privind aprobarea contului de execuţie bugetară pentru trimestrul IV al anului 2020",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43239",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43239",
      "sha256": null
     }
    ]
@@ -243,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--vulturu-5-2021",
+   "path": "local/constanta/vulturu/2021/5",
+   "short": "HCL Vulturu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 5/2021 privind aprobarea tarifului pentru serviciul de canalizare-epurare furnizat de către “Serviciul public de alimentare cu apă și canalizare Vulturu” la nivelul comunei Vulturu, judetul Constanta",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43240",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43240",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-50-2021",
    "path": "local/constanta/vulturu/2021/50",
    "short": "HCL Vulturu nr. 50/2021",
@@ -313,6 +748,66 @@
      "from": "2021-11-02",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-6-2021",
+   "path": "local/constanta/vulturu/2021/6",
+   "short": "HCL Vulturu nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 6/2021 privind aprobarea Planului de actiuni si lucrări de interes local în vederea repartizării orelor de muncă prestate lunar de către persoanele apte de muncă beneficiare ale Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43241",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-7-2021",
+   "path": "local/constanta/vulturu/2021/7",
+   "short": "HCL Vulturu nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 7/2021 privind aprobarea numărului asistentilor personali ai persoanelor cu handicap pentru anul 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43242",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-8-2021",
+   "path": "local/constanta/vulturu/2021/8",
+   "short": "HCL Vulturu nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 8/2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43243",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-9-2021",
+   "path": "local/constanta/vulturu/2021/9",
+   "short": "HCL Vulturu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 9/2021 privind alegerea presedintelui de sedintă al Consiliului local al comunei Vulturu pentru sedintele din lunile martie – mai 2021",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/43244",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/43244",
      "sha256": null
     }
    ]

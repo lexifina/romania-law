@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-constanta--crucea-1-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/48290
 hcl-constanta--crucea-10-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/49217
 hcl-constanta--crucea-100-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/71821
 hcl-constanta--crucea-101-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/72401
@@ -11,6 +12,7 @@ hcl-constanta--crucea-107-2022,current,2026-11-08,2026-12-08,register-read,,,,ht
 hcl-constanta--crucea-108-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/73394
 hcl-constanta--crucea-109-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/74520
 hcl-constanta--crucea-11-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/49218
+hcl-constanta--crucea-110-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/75017
 hcl-constanta--crucea-111-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/75018
 hcl-constanta--crucea-112-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/75019
 hcl-constanta--crucea-113-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/75020
@@ -63,8 +65,10 @@ hcl-constanta--crucea-27-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--crucea-28-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51642
 hcl-constanta--crucea-29-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51643
 hcl-constanta--crucea-3-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/48292
+hcl-constanta--crucea-30-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51644
 hcl-constanta--crucea-31-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51645
 hcl-constanta--crucea-32-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51646
+hcl-constanta--crucea-33-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51647
 hcl-constanta--crucea-34-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/51648
 hcl-constanta--crucea-35-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/53845
 hcl-constanta--crucea-36-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/53846
@@ -72,11 +76,14 @@ hcl-constanta--crucea-37-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--crucea-38-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/53848
 hcl-constanta--crucea-39-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55929
 hcl-constanta--crucea-4-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/48293
+hcl-constanta--crucea-40-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55930
+hcl-constanta--crucea-41-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55931
 hcl-constanta--crucea-42-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55932
 hcl-constanta--crucea-43-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55933
 hcl-constanta--crucea-44-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55934
 hcl-constanta--crucea-45-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55935
 hcl-constanta--crucea-46-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/55936
+hcl-constanta--crucea-47-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/56633
 hcl-constanta--crucea-48-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/56634
 hcl-constanta--crucea-49-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/56635
 hcl-constanta--crucea-5-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/49212
@@ -97,6 +104,7 @@ hcl-constanta--crucea-62-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--crucea-63-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61681
 hcl-constanta--crucea-64-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61682
 hcl-constanta--crucea-65-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61683
+hcl-constanta--crucea-66-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61684
 hcl-constanta--crucea-67-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61685
 hcl-constanta--crucea-68-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61686
 hcl-constanta--crucea-69-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/61687
@@ -114,6 +122,7 @@ hcl-constanta--crucea-79-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--crucea-8-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/49215
 hcl-constanta--crucea-80-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/64722
 hcl-constanta--crucea-81-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/65790
+hcl-constanta--crucea-82-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/67406
 hcl-constanta--crucea-83-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/67407
 hcl-constanta--crucea-84-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/67408
 hcl-constanta--crucea-85-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/crucea-ct/registru-hcl/67409

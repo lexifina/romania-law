@@ -3,6 +3,141 @@
  "shard": "local/constanta/vulturu/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--vulturu-1-2026",
+   "path": "local/constanta/vulturu/2026/1",
+   "short": "HCL Vulturu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2026 privind aprobarea utilizării unei sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2025",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/247480",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/247480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-10-2026",
+   "path": "local/constanta/vulturu/2026/10",
+   "short": "HCL Vulturu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 10/2026 privind atribuirea tinerilor în folosintă gratuită a unor terenuri aflate în domeniul privat al Unităţii Administrativ-Teritoriale Vulturu în vederea construirii de locuințe proprietate personală",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/262377",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/262377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-11-2026",
+   "path": "local/constanta/vulturu/2026/11",
+   "short": "HCL Vulturu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 11/2026 privind aprobarea planurilor anuale pentru asigurarea resurselor umane, materiale şi financiare destinate prevenirii şi gestionării situaţiilor de urgenţă",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/262378",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/262378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-12-2026",
+   "path": "local/constanta/vulturu/2026/12",
+   "short": "HCL Vulturu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 12/2026 privind reorganizarea aparatului de specialitate al primarului comunei Vulturu, judeţul Constanţa",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/266542",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/266542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-13-2026",
+   "path": "local/constanta/vulturu/2026/13",
+   "short": "HCL Vulturu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 13/2026 privind alegerea președintelui de ședintă al Consiliului local al comunei Vulturu pentru ședintele din lunile mai - iulie 2026",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/266559",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/266559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-14-2026",
+   "path": "local/constanta/vulturu/2026/14",
+   "short": "HCL Vulturu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 14/2026 privind aprobarea contului de execuţie bugetară pentru trimestrul I al anului 2026",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/266560",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/266560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-15-2026",
+   "path": "local/constanta/vulturu/2026/15",
+   "short": "HCL Vulturu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 15/2026 privind aprobarea bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2026",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/266561",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/266561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-16-2026",
+   "path": "local/constanta/vulturu/2026/16",
+   "short": "HCL Vulturu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 16/2026 privind atestarea apartenenţei unor bunuri imobile la domeniul privat al Unității Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/274294",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/274294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-17-2026",
+   "path": "local/constanta/vulturu/2026/17",
+   "short": "HCL Vulturu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 17/2026 privind aprobarea Contului de încheiere a exerciţiului bugetar şi a Situaţiilor financiare anuale pentru anul 2025",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/274295",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/274295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-18-2026",
    "path": "local/constanta/vulturu/2026/18",
    "short": "HCL Vulturu nr. 18/2026",
@@ -28,6 +163,21 @@
      "from": "2026-06-22",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/278507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-2-2026",
+   "path": "local/constanta/vulturu/2026/2",
+   "short": "HCL Vulturu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 2/2026 privind aprobarea utilizării unei sume din excedentul anual al bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Vulturu rezultat la încheierea exercițiului bugetar al anului 2025",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/247481",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/247481",
      "sha256": null
     }
    ]
@@ -183,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--vulturu-3-2026",
+   "path": "local/constanta/vulturu/2026/3",
+   "short": "HCL Vulturu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2026 privind aprobarea prelungirii duratei de locațiune pentru o locuință socială ce aparține domeniului public al Unității Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/247482",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/247482",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-30-2026",
    "path": "local/constanta/vulturu/2026/30",
    "short": "HCL Vulturu nr. 30/2026",
@@ -298,6 +463,96 @@
      "from": "2026-09-29",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/296018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-4-2026",
+   "path": "local/constanta/vulturu/2026/4",
+   "short": "HCL Vulturu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 4/2026 privind alegerea președintelui de ședintă al Consiliului local al comunei Vulturu pentru ședintele din lunile februarie - aprilie 2026",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/256762",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/256762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-5-2026",
+   "path": "local/constanta/vulturu/2026/5",
+   "short": "HCL Vulturu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 5/2026 privind actualizarea situației terenurilor disponibile aflate în domeniul privat al Unității Administrativ-Teritoriale Vulturu care pot fi acordate tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/256763",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/256763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-6-2026",
+   "path": "local/constanta/vulturu/2026/6",
+   "short": "HCL Vulturu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 6/2026 privind aprobarea contului de execuţie bugetară pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/256764",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/256764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-7-2026",
+   "path": "local/constanta/vulturu/2026/7",
+   "short": "HCL Vulturu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 7/2026",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/262374",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/262374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-8-2026",
+   "path": "local/constanta/vulturu/2026/8",
+   "short": "HCL Vulturu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 8/2026 privind retragerea dreptului de folosinţă asupra unor terenuri aflate în domeniul privat al Unităţii Administrativ-Teritoriale Vulturu, atribuite tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/262375",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/262375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-9-2026",
+   "path": "local/constanta/vulturu/2026/9",
+   "short": "HCL Vulturu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 9/2026 privind actualizarea situației terenurilor disponibile aflate în domeniul privat al Unității Administrativ-Teritoriale Vulturu care pot fi acordate tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/262376",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/262376",
      "sha256": null
     }
    ]

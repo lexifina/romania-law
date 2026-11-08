@@ -3,6 +3,441 @@
  "shard": "local/constanta/silistea/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--silistea-1-2026",
+   "path": "local/constanta/silistea/2026/1",
+   "short": "HCL Siliștea nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 1/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/246039",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/246039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-10-2026",
+   "path": "local/constanta/silistea/2026/10",
+   "short": "HCL Siliștea nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 10/2026 privind aprobarea Metodologiei de repartizare și facturare individuală a consumului de apă înregistrat la branșamentul condominiului precum și Convenția-cadru de facturare individuală a consumurilor de apă și de canalizare",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/254620",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/254620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-11-2026",
+   "path": "local/constanta/silistea/2026/11",
+   "short": "HCL Siliștea nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 11/2026 privind privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna ianuarie 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/254621",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/254621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-12-2026",
+   "path": "local/constanta/silistea/2026/12",
+   "short": "HCL Siliștea nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 12/2026 privind actualizarea poziției nr.9 din Anexa la Hotărârea Consiliului Local al comunei Siliștea nr.19 din 24.03.2020 privind aprobarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliştea, judeţul Constanţa",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/254622",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/254622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-13-2026",
+   "path": "local/constanta/silistea/2026/13",
+   "short": "HCL Siliștea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 13/2026 privind privind modificarea unui contract de concesiune",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/254623",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/254623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-14-2026",
+   "path": "local/constanta/silistea/2026/14",
+   "short": "HCL Siliștea nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 14/2026 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor la nivelul comunei Siliştea, judeţul Constanţa pe anul 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/261072",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/261072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-15-2026",
+   "path": "local/constanta/silistea/2026/15",
+   "short": "HCL Siliștea nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 15/2026 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna februarie 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/261073",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/261073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-16-2026",
+   "path": "local/constanta/silistea/2026/16",
+   "short": "HCL Siliștea nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 16/2026 privind aprobarea contului anual de execuţie a bugetului local şi a situaţiilor financiare anuale pe anul 2025 ale comunei Siliştea",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/261074",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/261074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-17-2026",
+   "path": "local/constanta/silistea/2026/17",
+   "short": "HCL Siliștea nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 17/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/263004",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/263004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-18-2026",
+   "path": "local/constanta/silistea/2026/18",
+   "short": "HCL Siliștea nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 18/2026 privind reorganizarea aparatului de specialitate al primarului comunei Siliștea, județul Constanța, modificarea Organigramei şi a Statului de funcţii",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/263005",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/263005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-19-2026",
+   "path": "local/constanta/silistea/2026/19",
+   "short": "HCL Siliștea nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 19/2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/263006",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/263006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-2-2026",
+   "path": "local/constanta/silistea/2026/2",
+   "short": "HCL Siliștea nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 2/2026 privind utilizarea excedentului rezultat la încheierea exerciţiului bugetar al anului 2025",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/246040",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/246040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-20-2026",
+   "path": "local/constanta/silistea/2026/20",
+   "short": "HCL Siliștea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 20/2026 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli al comunei Siliştea pe trimestrul I al anului 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/263007",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/263007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-21-2026",
+   "path": "local/constanta/silistea/2026/21",
+   "short": "HCL Siliștea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 21/2026 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna martie 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/263008",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/263008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-22-2026",
+   "path": "local/constanta/silistea/2026/22",
+   "short": "HCL Siliștea nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 22/2026 privind privind aprobarea bugetului local al comunei Siliștea și al bugetului instituțiilor publice și al activităților finanțate integral sau parțial din venituri proprii pe anul 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/266563",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/266563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-23-2026",
+   "path": "local/constanta/silistea/2026/23",
+   "short": "HCL Siliștea nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 23/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiţie „Modernizare drumuri de interes local în comuna Siliștea, județul Constanța”",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/266564",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/266564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-24-2026",
+   "path": "local/constanta/silistea/2026/24",
+   "short": "HCL Siliștea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 24/2026 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna aprilie 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/266565",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/266565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-25-2026",
+   "path": "local/constanta/silistea/2026/25",
+   "short": "HCL Siliștea nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 25/2026 privind modificarea componenței Comisiei de specialitate nr.I a Consiliului local al comunei Siliștea - Comisia pentru programe de dezvoltare economico-socială, buget-finanţe, administrarea domeniului public şi privat, agricultură, amenajarea teritoriului şi urbanism, gospodarirea apelor, protecţia mediului, servicii şi comerţ",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/266566",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/266566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-26-2026",
+   "path": "local/constanta/silistea/2026/26",
+   "short": "HCL Siliștea nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 26/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/271973",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/271973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-27-2026",
+   "path": "local/constanta/silistea/2026/27",
+   "short": "HCL Siliștea nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 27/2026 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna mai 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/275432",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/275432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-28-2026",
+   "path": "local/constanta/silistea/2026/28",
+   "short": "HCL Siliștea nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 28/2026 privind aprobarea participării comunei Siliștea în calitate de membru fondator al Grupării Europene de Cooperare Teritorială „EAST GATE”",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/275433",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/275433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-29-2026",
+   "path": "local/constanta/silistea/2026/29",
+   "short": "HCL Siliștea nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 29/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiţie „Modernizare drumuri de interes local în comuna Siliștea, județul Constanța”",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/275434",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/275434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-3-2026",
+   "path": "local/constanta/silistea/2026/3",
+   "short": "HCL Siliștea nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 3/2026 privind aprobarea situației terenurilor disponibile care pot fi atribuite în folosință gratuită potrivit Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248606",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-30-2026",
+   "path": "local/constanta/silistea/2026/30",
+   "short": "HCL Siliștea nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 30/2026 privind atribuirea unui număr administrativ",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/275435",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/275435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-31-2026",
+   "path": "local/constanta/silistea/2026/31",
+   "short": "HCL Siliștea nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 31/2026 privind atribuirea, în folosință gratuită, a unei suprafețe de teren în vederea construirii unei locuințe proprietate personală, conform Legii nr.15/2003, în comuna Siliștea, sat Țepeș Vodă, Str.Vișinilor, nr.3",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/275436",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/275436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-32-2026",
+   "path": "local/constanta/silistea/2026/32",
+   "short": "HCL Siliștea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 32/2026 privind acordarea dreptului de acces în favoarea operatorului ORANGE ROMÂNIA S.A pe proprietatea publică a comunei Siliștea, județul Constanța",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/275437",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/275437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-33-2026",
+   "path": "local/constanta/silistea/2026/33",
+   "short": "HCL Siliștea nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 33/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/281248",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/281248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-34-2026",
+   "path": "local/constanta/silistea/2026/34",
+   "short": "HCL Siliștea nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 34/2026 privind acordarea unui mandat special reprezentantului comunei Siliștea în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară ”Dobrogea”",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/281249",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/281249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-35-2026",
+   "path": "local/constanta/silistea/2026/35",
+   "short": "HCL Siliștea nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 35/2026 privind modificarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al primarului comunei Siliștea, județul Constanța",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/281250",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/281250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--silistea-36-2026",
    "path": "local/constanta/silistea/2026/36",
    "short": "HCL Siliștea nr. 36/2026",
@@ -58,6 +493,21 @@
      "from": "2026-08-21",
      "units": 1,
      "source_url": "https://emol.ro/silistea-ct/registru-hcl/281254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-4-2026",
+   "path": "local/constanta/silistea/2026/4",
+   "short": "HCL Siliștea nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 4/2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248607",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248607",
      "sha256": null
     }
    ]
@@ -213,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--silistea-5-2026",
+   "path": "local/constanta/silistea/2026/5",
+   "short": "HCL Siliștea nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 5/2026 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna decembrie 2025",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248608",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248608",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--silistea-50-2026",
    "path": "local/constanta/silistea/2026/50",
    "short": "HCL Siliștea nr. 50/2026",
@@ -298,6 +763,66 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/silistea-ct/registru-hcl/296148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-6-2026",
+   "path": "local/constanta/silistea/2026/6",
+   "short": "HCL Siliștea nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 6/2026 privind aprobarea tipului de suport alimentar ce se va acorda preșcolarilor și elevilor din unitățile de învățământ de pe raza comunei Siliștea în cadrul Programului naţional „Masă sanatoasă”",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248609",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-7-2026",
+   "path": "local/constanta/silistea/2026/7",
+   "short": "HCL Siliștea nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 7/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii şi combaterii riscului de marginalizare şi excluziune socială la nivelul comunei Siliștea pentru anul 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248610",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-8-2026",
+   "path": "local/constanta/silistea/2026/8",
+   "short": "HCL Siliștea nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 8/2026 privind aprobarea utilizării, în anul 2026, a excedentului bugetar din anii precedenți aferent bugetului activităților finanțate, integral sau parțial, din venituri proprii, sursa E, derulat de către Școala Gimnazială nr.1 Siliștea, județul Constanța",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248611",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--silistea-9-2026",
+   "path": "local/constanta/silistea/2026/9",
+   "short": "HCL Siliștea nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 9/2026 privind aprobarea Calendarului manifestărilor cultural-artistice, sportive, educative, sociale și religioase care se vor desfăşura în comuna Siliştea în anul 2026",
+   "url": "https://emol.ro/silistea-ct/registru-hcl/248612",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-ct/registru-hcl/248612",
      "sha256": null
     }
    ]

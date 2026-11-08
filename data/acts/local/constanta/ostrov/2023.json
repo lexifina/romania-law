@@ -3,6 +3,28 @@
 "shard": "local/constanta/ostrov/2023",
 "acts": [
 {
+"slug": "hcl-constanta--ostrov-1-2023",
+"path": "local/constanta/ostrov/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 1/2023 privind completarea HCL 48/23.08.2022 privind aprobarea vanzarii prin licitatie publica a doua imobile din domeniul privat al comunei Ostrov, insusirea raportului de evaluare si a documentatiei de atribuire",
+"short": "HCL Ostrov nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/86339",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-2-2023",
 "path": "local/constanta/ostrov/2023/2",
 "kind": "local",
@@ -135,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-8-2023",
+"path": "local/constanta/ostrov/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 8/2023 privind aprobarea prelungirii contractelor de inchiriere a terenurilor si spatiilor din domeniul public si privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/88165",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-9-2023",
 "path": "local/constanta/ostrov/2023/9",
 "kind": "local",
@@ -225,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-13-2023",
+"path": "local/constanta/ostrov/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 13/2023 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna februarie",
+"short": "HCL Ostrov nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/92622",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-14-2023",
 "path": "local/constanta/ostrov/2023/14",
 "kind": "local",
@@ -312,6 +378,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-18-2023",
+"path": "local/constanta/ostrov/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 18/2023 privind decontarea cheltuielilor de transport pentru cadrele didactice care îşi desfăşoară activitatea în comuna Ostrov şi se deplasează din alte localităţi, pentru anul scolar 2022-2023",
+"short": "HCL Ostrov nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/92627",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -514,6 +602,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-28-2023",
+"path": "local/constanta/ostrov/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 28/2023 privind valorificarea prin vanzare a unui autoturism, scos din functie apartinand patrimoniului privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/98489",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-29-2023",
 "path": "local/constanta/ostrov/2023/29",
 "kind": "local",
@@ -693,6 +803,50 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-37-2023",
+"path": "local/constanta/ostrov/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 37/2023 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna mai",
+"short": "HCL Ostrov nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/107347",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-38-2023",
+"path": "local/constanta/ostrov/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 38/2023 privind revocarea Hotararii Consiliului Local Ostrov nr. 28/30,03,2023 privind valorificarea prin vanzare a unui autoturism scos din functie apartinand patrimoniului privat al comunei Ostrov",
+"short": "HCL Ostrov nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/107348",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-39-2023",
 "path": "local/constanta/ostrov/2023/39",
 "kind": "local",
@@ -734,6 +888,73 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-41-2023",
+"path": "local/constanta/ostrov/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 41/2023 privind aprobarea Planului local de combatere a vectorilor - dezinsectie si deratizare in comuna Ostrov, judetul Constanta, pentru anul 2023",
+"short": "HCL Ostrov nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/110171",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-42-2023",
+"path": "local/constanta/ostrov/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 42/2023 privind alegerea preşedintelui de şedinţă pentru a conduce şedinţa ordinară a consiliului local din data de 30.06.2023 in lipsa președintelui de ședință cu mandat încredințat",
+"short": "HCL Ostrov nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/111950",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-43-2023",
+"path": "local/constanta/ostrov/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 43/2023",
+"short": "HCL Ostrov nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/111951",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -979,6 +1200,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-55-2023",
+"path": "local/constanta/ostrov/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 55/2023 privind desemnarea reprezentantilor Consiliului Local Ostrov,in Consiliul de Administratie al Liceului “Regele Carol I “ Ostrov, pentru anul scolar 2023 -2024",
+"short": "HCL Ostrov nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/120000",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-56-2023",
 "path": "local/constanta/ostrov/2023/56",
 "kind": "local",
@@ -998,6 +1241,51 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-57-2023",
+"path": "local/constanta/ostrov/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 57/2023 privind desemnarea reprezentantului Consiliului Local al comunei Ostrov în Comisia pentru evaluarea şi asigurarea calităţii a Liceului “Regele Carol I “ Ostrov, pentru anul scolar 2023-2024",
+"short": "HCL Ostrov nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/120002",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-58-2023",
+"path": "local/constanta/ostrov/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 58/2023",
+"short": "HCL Ostrov nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/122357",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1042,6 +1330,72 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-61-2023",
+"path": "local/constanta/ostrov/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 61/2023 privind aprobarea studiului de oportunitate intocmit in vederea vanzarii prin licitatie publica, a unui teren in suprafata de 7.700 mp apartinand domeniului privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/122360",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-62-2023",
+"path": "local/constanta/ostrov/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 62/2023 privind aprobarea studiului de oportunitate intocmit in vederea vanzarii prin licitatie publica, a unui teren in suprafata de 500 mp apartinand domeniului privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/122361",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-63-2023",
+"path": "local/constanta/ostrov/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 63/2023 privind aprobarea scoaterii la licitatie publica in vederea inchirierii, a unui imobil situat în localitatea Ostrov , strada 1 Mai, nr.77A comuna Ostrov ,judetul Constanta",
+"short": "HCL Ostrov nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/122362",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

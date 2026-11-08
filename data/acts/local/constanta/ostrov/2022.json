@@ -3,6 +3,28 @@
 "shard": "local/constanta/ostrov/2022",
 "acts": [
 {
+"slug": "hcl-constanta--ostrov-1-2022",
+"path": "local/constanta/ostrov/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 1/2022 privind alegerea preşedintelui de şedinţă pentru o perioada de 3 luni",
+"short": "HCL Ostrov nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-22",
+"latest": "2022-03-22",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/54454",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-2-2022",
 "path": "local/constanta/ostrov/2022/2",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-9-2022",
+"path": "local/constanta/ostrov/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 9/2022 privind aprobarea prelungirii contractelor de inchiriere a terenurilor si spatiilor din domeniul public si privat al comunei",
+"short": "HCL Ostrov nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-22",
+"latest": "2022-03-22",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/54462",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -332,6 +376,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-19-2022",
+"path": "local/constanta/ostrov/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 19/2022 privind oportunitatea vinzarii unui imobil,insusirea raportului de evaluare si aprobarea vanzarii prin licitatie publica si a documentatiei de atibuire",
+"short": "HCL Ostrov nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-14",
+"latest": "2022-04-14",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/54676",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-20-2022",
+"path": "local/constanta/ostrov/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 20/2022 privind aprobarea scoaterii la licitatie publica in vederea inchirierii, a unui imobil situat în localitatea Ostrov , strada 1 Mai, nr.105 comuna Ostrov ,judetul Constanta",
+"short": "HCL Ostrov nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-14",
+"latest": "2022-04-14",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/54677",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -688,6 +776,50 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-37-2022",
+"path": "local/constanta/ostrov/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 37/2022 privind aprobarea studiului de oportunitate intocmit in vederea vanzarii prin licitatie publica, a unor terenuri, apartinand domeniului privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/65258",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-38-2022",
+"path": "local/constanta/ostrov/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 38/2022 privind aprobarea studiului de oportunitate intocmit in vederea concesionarii prin licitatie publica, a unor terenuri, apartinand domeniului privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/65259",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-39-2022",
 "path": "local/constanta/ostrov/2022/39",
 "kind": "local",
@@ -729,6 +861,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-41-2022",
+"path": "local/constanta/ostrov/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 41/2022 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna august 2022",
+"short": "HCL Ostrov nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69474",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -821,6 +975,29 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-46-2022",
+"path": "local/constanta/ostrov/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 46/2022",
+"short": "HCL Ostrov nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69479",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-47-2022",
 "path": "local/constanta/ostrov/2022/47",
 "kind": "local",
@@ -884,6 +1061,94 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-50-2022",
+"path": "local/constanta/ostrov/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 50/2022 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Ostrov, în suprafată de 1.000 mp, situat in Ostrov, , identificat cu nr. cad. 103876",
+"short": "HCL Ostrov nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69483",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-51-2022",
+"path": "local/constanta/ostrov/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 51/2022 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Ostrov, în suprafată de 24.160 mp, situat extravilanul comunei Ostrov, , identificat cu nr. cad. 105314",
+"short": "HCL Ostrov nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69484",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-52-2022",
+"path": "local/constanta/ostrov/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 52/2022 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Ostrov, în suprafată de 1.500 mp, situat in extravilanul comunei Ostrov, , identificat cu nr. cad. 105310",
+"short": "HCL Ostrov nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69485",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-53-2022",
+"path": "local/constanta/ostrov/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 53/2022 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Ostrov, în suprafată de 444 mp, situat in extravilanul comunei Ostrov, , identificat cu nr. cad. 105333",
+"short": "HCL Ostrov nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69486",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

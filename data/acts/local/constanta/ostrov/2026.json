@@ -113,6 +113,72 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-6-2026",
+"path": "local/constanta/ostrov/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 6/2026 privind aprobarea transmiterii cu titlul gratuit către Liceul ”Regele Carol I” Ostrov a bunurilor achiziționate în cadrul proiectului ”Dotarea cu mobilier, materiale didactice si echipamente a „Liceului Regele Carol I Ostrov” in cadrul Planului National de redresare si Rezilienta, C15-Educatie –Dotarea cu mobilier, material didactice si echipamente digitale a unitatilor de invatamant preuniversitar si a unitatilor conexe",
+"short": "HCL Ostrov nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/257179",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-7-2026",
+"path": "local/constanta/ostrov/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 7/2026 privind aprobarea Studiului de oportunitate privind punerea la dispoziție și exploatare a serviciului de aplimentare cu apa în satele Esechioi, Gârlița, Bugeac, modificarea si completarea Anexei la HCL nr. 33/15.04.2020 privind aprobarea concesionarii bunurilor din domeniul public și privat al comunei Ostrov, aferent sistemului public de alimentare cu apa din localitatile Almalău, Esechioi, Galita, Bugeac, Gârlita",
+"short": "HCL Ostrov nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/257180",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-8-2026",
+"path": "local/constanta/ostrov/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 8/2026 privind modificarea si completarea Anexei referitoare la satele Almalău și Galita la HCL 33/15.04.2020 privind aprobarea concesionarii bunurilor din domeniul public și privat al comunei Ostrov, aferent sistemului public de alimentare cu apa din localitatile Almalău, Esechioi, Galita, Bugeac, Gârlita",
+"short": "HCL Ostrov nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/257181",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-9-2026",
 "path": "local/constanta/ostrov/2026/9",
 "kind": "local",
@@ -132,6 +198,73 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-10-2026",
+"path": "local/constanta/ostrov/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 10/2026 privind aprobarea vanzarii prin licitatie publica a unui imobil in suptafata de de 7.322 mp, situat în intravilanul localității Esechioi, comuna Ostrov, județul Constanța, având număr cadastral 111084, din domeniul privat al comunei Ostrov, insusirea raportului de evaluare si a documentatiei de atribuire",
+"short": "HCL Ostrov nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/257183",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-11-2026",
+"path": "local/constanta/ostrov/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 11/2026 privind alegerea președintelui de ședință pentru o perioadă de 3 luni începând cu luna MARTIE 2026",
+"short": "HCL Ostrov nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/257184",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-12-2026",
+"path": "local/constanta/ostrov/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 12/2026",
+"short": "HCL Ostrov nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/257185",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -289,6 +422,50 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-20-2026",
+"path": "local/constanta/ostrov/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 20/2026 privind aprobarea vanzarii prin licitatie publica a unui imobil in suptafata de de 9.025 mp, situat în intravilanul localității Esechioi, str. Mihai Eminescu, nr.1a, comuna Ostrov, județul Constanța, având număr cadastral 110980, din domeniul privat al comunei Ostrov, insusirea raportului de evaluare si a documentatiei de atribuire",
+"short": "HCL Ostrov nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/263016",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-21-2026",
+"path": "local/constanta/ostrov/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 21/2026 privind aprobarea vanzarii prin licitatie publica a unui imobil in suptafata de de 2.627 mp, situat în intravilanul localității Esechioi, Splaiul Mihai Eminescu, nr.4 comuna Ostrov, județul Constanța, având număr cadastral 110985, din domeniul privat al comunei Ostrov, insusirea raportului de evaluare si a documentatiei de atribuire",
+"short": "HCL Ostrov nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/263017",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-22-2026",
 "path": "local/constanta/ostrov/2026/22",
 "kind": "local",
@@ -308,6 +485,73 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-23-2026",
+"path": "local/constanta/ostrov/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 23/2026 privind retragerea dreptului de folosință gratuită a unui teren, acordat pentru construire locuință în temeiul Legii nr. 15/2003, cu modificările și completările ulterioare",
+"short": "HCL Ostrov nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/263019",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-24-2026",
+"path": "local/constanta/ostrov/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 24/2026",
+"short": "HCL Ostrov nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/263020",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-25-2026",
+"path": "local/constanta/ostrov/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 25/2026 privind reorganizarea aparatului de specialitate al primarului comunei Ostrov, județul Constanța, aprobarea Organigramei și a Statului de funcții",
+"short": "HCL Ostrov nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/263021",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +621,140 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-29-2026",
+"path": "local/constanta/ostrov/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 29/2026 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică, de la nivelul UAT comuna Ostrov, județul Constanța",
+"short": "HCL Ostrov nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/266836",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-30-2026",
+"path": "local/constanta/ostrov/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 30/2026",
+"short": "HCL Ostrov nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/269252",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-31-2026",
+"path": "local/constanta/ostrov/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 31/2026 privind modificarea HCL OSTROV nr.8 din 27.02.2026 privind modificarea si completarea Anexei referitoare la satele Almalău și Galita la HCL 33/15.04.2020 privindaprobarea concesionarii bunurilor din domeniul public și privat al comunei Ostrov, aferent sistemului publicde alimentare cu apa din localitatile Almalău, Esechioi, Galita, Bugeac, Gârlita",
+"short": "HCL Ostrov nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/269253",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-32-2026",
+"path": "local/constanta/ostrov/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 32/2026 privind rectificarea Bugetului local, a Listei de investiții și a Raportulului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare în trim. al II-lea al anului 2026",
+"short": "HCL Ostrov nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/269254",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-33-2026",
+"path": "local/constanta/ostrov/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 33/2026 privind alegerea președintelui de ședință pentru o perioadă de 3 luni începând cu luna IUNIE 2026",
+"short": "HCL Ostrov nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/269255",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-34-2026",
+"path": "local/constanta/ostrov/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 34/2026",
+"short": "HCL Ostrov nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/269256",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-35-2026",
 "path": "local/constanta/ostrov/2026/35",
 "kind": "local",
@@ -396,6 +774,29 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-36-2026",
+"path": "local/constanta/ostrov/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 36/2026",
+"short": "HCL Ostrov nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/274155",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -441,6 +842,29 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-39-2026",
+"path": "local/constanta/ostrov/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 39/2026",
+"short": "HCL Ostrov nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/281593",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

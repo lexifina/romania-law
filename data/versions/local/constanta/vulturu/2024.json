@@ -3,6 +3,396 @@
  "shard": "local/constanta/vulturu/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--vulturu-1-2024",
+   "path": "local/constanta/vulturu/2024/1",
+   "short": "HCL Vulturu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2024 privind organizarea rețelei școlare a unităților de învățământ aflate pe raza teritorială a comunei Vulturu care vor funcționa în anul școlar 2024-2025",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/140763",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/140763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-10-2024",
+   "path": "local/constanta/vulturu/2024/10",
+   "short": "HCL Vulturu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 10/2024 privind atestarea apartenenței unor bunuri imobile la domeniul privat al Unității Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/145575",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/145575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-11-2024",
+   "path": "local/constanta/vulturu/2024/11",
+   "short": "HCL Vulturu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 11/2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/145576",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/145576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-12-2024",
+   "path": "local/constanta/vulturu/2024/12",
+   "short": "HCL Vulturu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 12/2024 privind aprobarea utilizării unei sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/145577",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/145577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-13-2024",
+   "path": "local/constanta/vulturu/2024/13",
+   "short": "HCL Vulturu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 13/2024 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/145578",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/145578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-14-2024",
+   "path": "local/constanta/vulturu/2024/14",
+   "short": "HCL Vulturu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 14/2024 privind aprobarea Contului de încheiere a exercițiului bugetar și a Situațiilor financiare anuale pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/151363",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/151363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-15-2024",
+   "path": "local/constanta/vulturu/2024/15",
+   "short": "HCL Vulturu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 15/2024 privind aprobarea planurilor anuale pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionării situațiilor de urgență",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/151364",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/151364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-16-2024",
+   "path": "local/constanta/vulturu/2024/16",
+   "short": "HCL Vulturu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 16/2024 privind stabilirea nivelurilor impozitelor si taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/155653",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/155653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-17-2024",
+   "path": "local/constanta/vulturu/2024/17",
+   "short": "HCL Vulturu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 17/2024 privind aprobarea utilizării unei sume din excedentul anual al bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Vulturu rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/155654",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/155654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-18-2024",
+   "path": "local/constanta/vulturu/2024/18",
+   "short": "HCL Vulturu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 18/2024 privind aprobarea contului de execuție bugetară pentru trimestrul I al anului 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/155655",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/155655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-19-2024",
+   "path": "local/constanta/vulturu/2024/19",
+   "short": "HCL Vulturu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 19/2024 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/155656",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/155656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-2-2024",
+   "path": "local/constanta/vulturu/2024/2",
+   "short": "HCL Vulturu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 2/2024 privind aprobarea utilizării unor sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/140764",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/140764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-20-2024",
+   "path": "local/constanta/vulturu/2024/20",
+   "short": "HCL Vulturu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 20/2024 privind acordarea unui mandat special reprezentantului Unității Administrativ-Teritoriale Vulturu în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/158480",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/158480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-21-2024",
+   "path": "local/constanta/vulturu/2024/21",
+   "short": "HCL Vulturu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 21/2024 privind exceptarea aplicării Serviciului public de alimentare cu apă și canalizare Vulturu a măsurilor prevăzute la art. XXIX alin (1) din Legea nr. 296/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/158481",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/158481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-22-2024",
+   "path": "local/constanta/vulturu/2024/22",
+   "short": "HCL Vulturu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 22/2024 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/158482",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/158482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-23-2024",
+   "path": "local/constanta/vulturu/2024/23",
+   "short": "HCL Vulturu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 23/2024 privind alegerea președintelui de ședință al Consiliului local al comunei Vulturu pentru ședințele din lunile iunie-august 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/160888",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/160888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-24-2024",
+   "path": "local/constanta/vulturu/2024/24",
+   "short": "HCL Vulturu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 24/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Vulturu, județul Constanța, precum și din cadrul serviciilor publice de interes local din subordinea Consiliul local al comunei Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/160889",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/160889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-25-2024",
+   "path": "local/constanta/vulturu/2024/25",
+   "short": "HCL Vulturu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 25/2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/160890",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/160890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-26-2024",
+   "path": "local/constanta/vulturu/2024/26",
+   "short": "HCL Vulturu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 26/2024 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/160891",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/160891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-27-2024",
+   "path": "local/constanta/vulturu/2024/27",
+   "short": "HCL Vulturu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 27/2024 privind reducerea numărului maxim de posturi corespunzător Unității Administrativ-Teritoriale Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/230369",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/230369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-28-2024",
+   "path": "local/constanta/vulturu/2024/28",
+   "short": "HCL Vulturu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 28/2024 privind aprobarea contului de execuție bugetară pentru trimestrul II al anului 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/165230",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/165230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-29-2024",
+   "path": "local/constanta/vulturu/2024/29",
+   "short": "HCL Vulturu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 29/2024 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/165231",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/165231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-3-2024",
+   "path": "local/constanta/vulturu/2024/3",
+   "short": "HCL Vulturu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2024 privind aprobarea utilizării unei sume din excedentul anual al bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Vulturu rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/140765",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/140765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-30-2024",
+   "path": "local/constanta/vulturu/2024/30",
+   "short": "HCL Vulturu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 30/2024 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/168758",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/168758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-31-2024",
+   "path": "local/constanta/vulturu/2024/31",
+   "short": "HCL Vulturu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 31/2024 privind alegerea președintelui de ședintă al Consiliului local al comunei Vulturu pentru ședintele din luna septembrie 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/169782",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/169782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-32-2024",
+   "path": "local/constanta/vulturu/2024/32",
+   "short": "HCL Vulturu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 32/2024 privind delegarea gestiunii serviciului de iluminat public la nivelul comunei Vulturu, judetul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/169783",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/169783",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-33-2024",
    "path": "local/constanta/vulturu/2024/33",
    "short": "HCL Vulturu nr. 33/2024",
@@ -103,6 +493,21 @@
      "from": "2024-10-15",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/173099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-4-2024",
+   "path": "local/constanta/vulturu/2024/4",
+   "short": "HCL Vulturu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 4/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Vulturu, județul Constanța, precum și din cadrul serviciilor publice de interes local din subordinea Consiliului local al comunei Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/140766",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/140766",
      "sha256": null
     }
    ]
@@ -258,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--vulturu-5-2024",
+   "path": "local/constanta/vulturu/2024/5",
+   "short": "HCL Vulturu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 5/2024 privind alegerea președintelui de ședintă al Consiliului local al comunei Vulturu pentru ședintele din lunile martie-mai 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/143595",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/143595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-50-2024",
    "path": "local/constanta/vulturu/2024/50",
    "short": "HCL Vulturu nr. 50/2024",
@@ -298,6 +718,66 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/184657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-6-2024",
+   "path": "local/constanta/vulturu/2024/6",
+   "short": "HCL Vulturu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 6/2024 privind aprobarea numărului asistenților personali ai persoanelor cu handicap pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/143596",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/143596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-7-2024",
+   "path": "local/constanta/vulturu/2024/7",
+   "short": "HCL Vulturu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 7/2024 privind aprobarea bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/143597",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/143597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-8-2024",
+   "path": "local/constanta/vulturu/2024/8",
+   "short": "HCL Vulturu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 8/2024 privind modificarea tarifelor pentru activitățile specifice serviciului de salubrizare realizate la nivelul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/143598",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/143598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-9-2024",
+   "path": "local/constanta/vulturu/2024/9",
+   "short": "HCL Vulturu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 9/2024 privind declararea ca bunuri de uz și de interes public local a unor terenuri cu destinație agricolă situate în extravilanul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/145574",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/145574",
      "sha256": null
     }
    ]

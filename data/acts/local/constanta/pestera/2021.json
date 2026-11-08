@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-constanta--pestera-2-2021",
+"path": "local/constanta/pestera/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 2/2021",
+"short": "HCL Peștera nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-18",
+"latest": "2021-01-18",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32489",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--pestera-3-2021",
 "path": "local/constanta/pestera/2021/3",
 "kind": "local",

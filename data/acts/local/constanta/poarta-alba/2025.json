@@ -48,6 +48,75 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-3-2025",
+"path": "local/constanta/poarta-alba/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 3/2025",
+"short": "HCL Poarta Albă nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/192484",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-4-2025",
+"path": "local/constanta/poarta-alba/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 4/2025",
+"short": "HCL Poarta Albă nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/192491",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-5-2025",
+"path": "local/constanta/poarta-alba/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 5/2025",
+"short": "HCL Poarta Albă nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/192492",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-6-2025",
 "path": "local/constanta/poarta-alba/2025/6",
 "kind": "local",
@@ -200,6 +269,51 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-13-2025",
+"path": "local/constanta/poarta-alba/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 13/2025",
+"short": "HCL Poarta Albă nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/192561",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-14-2025",
+"path": "local/constanta/poarta-alba/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 14/2025 privind alegerea președintelui de ședință",
+"short": "HCL Poarta Albă nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/196290",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -380,6 +494,29 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-23-2025",
+"path": "local/constanta/poarta-alba/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 23/2025",
+"short": "HCL Poarta Albă nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/196357",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-24-2025",
 "path": "local/constanta/poarta-alba/2025/24",
 "kind": "local",
@@ -399,6 +536,51 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-25-2025",
+"path": "local/constanta/poarta-alba/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 25/2025 privind aprobarea vânzării prin licitație publică a terenului intravilan, domeniul privat al comunei Poarta Albă, în suprafață de 1.652 mp., situat în localitatea Poarta Albă, str. Coloniilor, nr. 11 bis, comuna Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/196366",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-26-2025",
+"path": "local/constanta/poarta-alba/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 26/2025",
+"short": "HCL Poarta Albă nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/196427",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -468,6 +650,165 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-30-2025",
+"path": "local/constanta/poarta-alba/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 30/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitațiilor publice în vederea vânzării a unor terenuri intravilane, înscrise în cartea funciară Poarta Albă, terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202906",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-31-2025",
+"path": "local/constanta/poarta-alba/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 31/2025",
+"short": "HCL Poarta Albă nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202907",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-32-2025",
+"path": "local/constanta/poarta-alba/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 32/2025",
+"short": "HCL Poarta Albă nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202908",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-33-2025",
+"path": "local/constanta/poarta-alba/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 33/2025",
+"short": "HCL Poarta Albă nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202910",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-34-2025",
+"path": "local/constanta/poarta-alba/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 34/2025",
+"short": "HCL Poarta Albă nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202911",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-35-2025",
+"path": "local/constanta/poarta-alba/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 35/2025 privind abrobarea dezmembrării terenului intravilan-domeniul privat al Comunei Poarta Albă, situat în localitatea Poarta Albă, județul Constanța, cu număr cadastral 101017, în 4 (patru) loturi distincte",
+"short": "HCL Poarta Albă nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202913",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-36-2025",
+"path": "local/constanta/poarta-alba/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 36/2025",
+"short": "HCL Poarta Albă nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202914",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-37-2025",
 "path": "local/constanta/poarta-alba/2025/37",
 "kind": "local",
@@ -487,6 +828,141 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-38-2025",
+"path": "local/constanta/poarta-alba/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 38/2025",
+"short": "HCL Poarta Albă nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202919",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-39-2025",
+"path": "local/constanta/poarta-alba/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 39/2025",
+"short": "HCL Poarta Albă nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202921",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-40-2025",
+"path": "local/constanta/poarta-alba/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 40/2025 privind aprobarea alipirii a 2 (două) terenuri situate în intravilanul comunei Poarta Albă, localitatea Nazarcea, județul Constanța",
+"short": "HCL Poarta Albă nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202922",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-41-2025",
+"path": "local/constanta/poarta-alba/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 41/2025 privind aprobarea alipirii a 11 (unsprezece) terenuri situat în intravilanul comunei Poarta Albă, localitatea Nazarcea, județul Constanța",
+"short": "HCL Poarta Albă nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/202925",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-42-2025",
+"path": "local/constanta/poarta-alba/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 42/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Poarta Albă, județul Constanța, pentru anul 2025",
+"short": "HCL Poarta Albă nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208181",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-43-2025",
+"path": "local/constanta/poarta-alba/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 43/2025",
+"short": "HCL Poarta Albă nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208182",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -534,6 +1010,74 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-46-2025",
+"path": "local/constanta/poarta-alba/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 46/2025 privind modificarea și completarea HCL nr. 130 din 07.11.2024",
+"short": "HCL Poarta Albă nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208185",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-47-2025",
+"path": "local/constanta/poarta-alba/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 47/2025",
+"short": "HCL Poarta Albă nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208186",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-48-2025",
+"path": "local/constanta/poarta-alba/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 48/2025",
+"short": "HCL Poarta Albă nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208187",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-49-2025",
 "path": "local/constanta/poarta-alba/2025/49",
 "kind": "local",
@@ -553,6 +1097,74 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-50-2025",
+"path": "local/constanta/poarta-alba/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 50/2025",
+"short": "HCL Poarta Albă nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208190",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-51-2025",
+"path": "local/constanta/poarta-alba/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 51/2025",
+"short": "HCL Poarta Albă nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/208194",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-52-2025",
+"path": "local/constanta/poarta-alba/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 52/2025 privind alegerea președintelui de ședință",
+"short": "HCL Poarta Albă nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/213677",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -578,6 +1190,28 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-54-2025",
+"path": "local/constanta/poarta-alba/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 54/2025 privind aprobarea raportului de evaluare a unui imobil-apartament, aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/213680",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-55-2025",
 "path": "local/constanta/poarta-alba/2025/55",
 "kind": "local",
@@ -597,6 +1231,51 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-56-2025",
+"path": "local/constanta/poarta-alba/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 56/2025 privind aprobarea contractării unui împrumut în valoare de 7.003.132 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Poarta Albă nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/213684",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-57-2025",
+"path": "local/constanta/poarta-alba/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 57/2025",
+"short": "HCL Poarta Albă nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/213685",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -799,6 +1478,28 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-67-2025",
+"path": "local/constanta/poarta-alba/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 67/2025 privind aprobarea documentației de atribuire pentru organizarea și desfățurarea licitațiilor publice în vederea vânzării a unor terenuri intravilane, înscrise în cartea funciară Poarta Albă, terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/213711",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-68-2025",
 "path": "local/constanta/poarta-alba/2025/68",
 "kind": "local",
@@ -912,6 +1613,29 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-73-2025",
+"path": "local/constanta/poarta-alba/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 73/2025",
+"short": "HCL Poarta Albă nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/217136",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-74-2025",
 "path": "local/constanta/poarta-alba/2025/74",
 "kind": "local",
@@ -932,6 +1656,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-75-2025",
+"path": "local/constanta/poarta-alba/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 75/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitaților publici în vederea vânzării a unor terenuri intravilane, înscrise în cartea funciară Poarta Albă, terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/217138",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-76-2025",
+"path": "local/constanta/poarta-alba/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 76/2025 privind aprobarea alipirii a 2 (două) terenuri situate în intravilanul comunei Poarta Albă, localitatea Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/217139",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1114,6 +1882,28 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-85-2025",
+"path": "local/constanta/poarta-alba/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 85/2025 privind scoaterea din evidențele fiscale a sumei de 5.444 lei ce reprezintă amenzi contravenționale ale debitorului PALADE Alexandru-Claudiu pentru care s-a împlinit termenul de prescripție a dreptului de a cere executarea silită",
+"short": "HCL Poarta Albă nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-19",
+"latest": "2025-08-19",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/221334",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-86-2025",
 "path": "local/constanta/poarta-alba/2025/86",
 "kind": "local",
@@ -1199,6 +1989,50 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-90-2025",
+"path": "local/constanta/poarta-alba/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 90/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitațiilor publice în vederea vânzării unor terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-19",
+"latest": "2025-08-19",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/221355",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-91-2025",
+"path": "local/constanta/poarta-alba/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 91/2025 privind alegerea președintelui de ședință",
+"short": "HCL Poarta Albă nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/225104",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1445,6 +2279,29 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-103-2025",
+"path": "local/constanta/poarta-alba/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 103/2025",
+"short": "HCL Poarta Albă nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/225147",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-104-2025",
 "path": "local/constanta/poarta-alba/2025/104",
 "kind": "local",
@@ -1555,6 +2412,28 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-109-2025",
+"path": "local/constanta/poarta-alba/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 109/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitației publice în vederea vânzării unui teren aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/225153",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-110-2025",
 "path": "local/constanta/poarta-alba/2025/110",
 "kind": "local",
@@ -1574,6 +2453,97 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-111-2025",
+"path": "local/constanta/poarta-alba/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 111/2025 privind desemnarea de către Consiliul Local Poarta Albă a unor reprezentanți care se facă parte din Consiliul de Administrație al Liceului Agricol Poarta Albă, în anul școlar 2025-2026",
+"short": "HCL Poarta Albă nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231350",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-112-2025",
+"path": "local/constanta/poarta-alba/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 112/2025",
+"short": "HCL Poarta Albă nr. 112/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231354",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-113-2025",
+"path": "local/constanta/poarta-alba/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 113/2025",
+"short": "HCL Poarta Albă nr. 113/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231369",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-114-2025",
+"path": "local/constanta/poarta-alba/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 114/2025",
+"short": "HCL Poarta Albă nr. 114/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231370",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1642,6 +2612,73 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-118-2025",
+"path": "local/constanta/poarta-alba/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 118/2025",
+"short": "HCL Poarta Albă nr. 118/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231376",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-119-2025",
+"path": "local/constanta/poarta-alba/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 119/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitației publice în vederea vânzării unui teren aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231377",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-120-2025",
+"path": "local/constanta/poarta-alba/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 120/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitațiilor publice în vederea vânzării a unor terenuri intravilane, înscrise în cartea funciară Poarta Albă, terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/231386",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1822,6 +2859,51 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-129-2025",
+"path": "local/constanta/poarta-alba/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 129/2025",
+"short": "HCL Poarta Albă nr. 129/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/235577",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-130-2025",
+"path": "local/constanta/poarta-alba/2025/130",
+"kind": "local",
+"year": "2025",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 130/2025 privind alegerea președintelui de ședință",
+"short": "HCL Poarta Albă nr. 130/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/240759",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-131-2025",
 "path": "local/constanta/poarta-alba/2025/131",
 "kind": "local",
@@ -1863,6 +2945,29 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-133-2025",
+"path": "local/constanta/poarta-alba/2025/133",
+"kind": "local",
+"year": "2025",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 133/2025",
+"short": "HCL Poarta Albă nr. 133/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/240773",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1951,6 +3056,73 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-138-2025",
+"path": "local/constanta/poarta-alba/2025/138",
+"kind": "local",
+"year": "2025",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 138/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitațiilor publice în vederea vânzării a unor terenuri intravilane/extravilane, înscrise în cartea funciară Poarta Albă, terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 138/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/240801",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-139-2025",
+"path": "local/constanta/poarta-alba/2025/139",
+"kind": "local",
+"year": "2025",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 139/2025 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitației publice în vederea vânzării unui teren, categoria de folosință intravilan arabil (zona industrială), înscris în cartea funciară Poarta Albă, teren aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 139/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/240802",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-140-2025",
+"path": "local/constanta/poarta-alba/2025/140",
+"kind": "local",
+"year": "2025",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 140/2025",
+"short": "HCL Poarta Albă nr. 140/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/240803",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

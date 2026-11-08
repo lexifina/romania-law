@@ -3,6 +3,21 @@
  "shard": "local/constanta/targusor/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--targusor-1-2022",
+   "path": "local/constanta/targusor/2022/1",
+   "short": "HCL Târgușor nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 1/2022 privind aprobarea organizării reţelei şcolare de pe raza comunei Târguşor, judeţul Constanţa, pentru anul şcolar 2022 - 2023",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/50742",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/50742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-10-2022",
    "path": "local/constanta/targusor/2022/10",
    "short": "HCL Târgușor nr. 10/2022",
@@ -133,6 +148,36 @@
      "from": "2022-02-28",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/52790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-19-2022",
+   "path": "local/constanta/targusor/2022/19",
+   "short": "HCL Târgușor nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 19/2022 pentru modificarea și completarea Hotărârii Consiliului local Târgușor Nr. 3/31. 01. 2022 privind stabilirea cuantumului și numărului burselor elevilor din învățământul preuniversitar de stat ai școlii Gimnaziale nr. 1 Târgușor, județul Constanța, pentru anul școlar 2021 - 2022",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/52791",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/52791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-2-2022",
+   "path": "local/constanta/targusor/2022/2",
+   "short": "HCL Târgușor nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 2/2022 privind aprobarea organigramei și a statului de funcții utilizate în cadrul aparatului de specialitate al primarului comunei Târgușor, județul Constanţa pentru anul 2022",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/50743",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/50743",
      "sha256": null
     }
    ]
@@ -348,6 +393,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--targusor-33-2022",
+   "path": "local/constanta/targusor/2022/33",
+   "short": "HCL Târgușor nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 33/2022 privind aprobarea Acordului Colectiv de Muncă și Contractului colectiv de muncă, încheiate la nivelul Primăriei comunei Târgușor, județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/58609",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/58609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-34-2022",
+   "path": "local/constanta/targusor/2022/34",
+   "short": "HCL Târgușor nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 34/2022",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/62467",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/62467",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-35-2022",
    "path": "local/constanta/targusor/2022/35",
    "short": "HCL Târgușor nr. 35/2022",
@@ -553,6 +628,21 @@
      "from": "2022-08-02",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/67111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-48-2022",
+   "path": "local/constanta/targusor/2022/48",
+   "short": "HCL Târgușor nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 48/2022",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/69863",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/69863",
      "sha256": null
     }
    ]

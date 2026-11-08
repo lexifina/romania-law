@@ -576,6 +576,28 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-27-2020",
+"path": "local/constanta/targusor/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 27/2020 privind alocarea sumei de 8.000 lei din bugetul local al comunei Târgușor, județul Constanța, pe anul 2020, în vederea sprijinirii financiare a activității fotbalistice a Asociației Sportive ,, VIITORUL TÂRGUȘOR,,",
+"short": "HCL Târgușor nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/381",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-28-2020",
 "path": "local/constanta/targusor/2020/28",
 "kind": "local",
@@ -837,6 +859,28 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-40-2020",
+"path": "local/constanta/targusor/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 40/2020 privind pentru aprobarea majorării impozitului pe clădirile /terenurile neîngrijite şi a Regulamentului privind stabilirea condiţiilor de majorare a impozitului pe clădirile şi terenurile neîngrijite din comuna Târguşor, judeţul Constanţa",
+"short": "HCL Târgușor nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/5356",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1278,6 +1322,51 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-61-2020",
+"path": "local/constanta/targusor/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 61/2020 privind completarea Comisiei de validare a Consiliului local Târgușor",
+"short": "HCL Târgușor nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/7558",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-62-2020",
+"path": "local/constanta/targusor/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 62/2020",
+"short": "HCL Târgușor nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/7559",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,138 @@
 "shard": "local/constanta/targusor/2026",
 "acts": [
 {
+"slug": "hcl-constanta--targusor-1-2026",
+"path": "local/constanta/targusor/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 1/2026 privind aprobarea organizării reţelei şcolare de pe raza comunei Târguşor, judeţul Constanţa, pentru anul şcolar 2026 - 2027",
+"short": "HCL Târgușor nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/245615",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-2-2026",
+"path": "local/constanta/targusor/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 2/2026 privind utilizarea excedentului aferent anului 2025 în anul 2026 pentru finanțarea cheltuielilor secțiunii de funcționare și secțiunii de dezvoltare, precum și pentru acoperirea golurilor de casă",
+"short": "HCL Târgușor nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/245616",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-3-2026",
+"path": "local/constanta/targusor/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 3/2026 privind utilizarea excedentului aferent anului 2025 în anul 2026 pentru finanțarea cheltuielilor secțiunii de funcționare , precum și pentru acoperirea golurilor de casă, reprezentând sursa G a Serviciului de Alimentare cu Apă din comuna Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/245617",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-4-2026",
+"path": "local/constanta/targusor/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 4/2026 privind utilizarea excedentului aferent anului 2025 în anul 2026 pentru finanțarea cheltuielilor secțiunii de funcționare , precum și pentru acoperirea golurilor de casă, reprezentând sursa E a Școlii Gimnaziale nr. 1 Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/245618",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-5-2026",
+"path": "local/constanta/targusor/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 5/2026 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2025 din excedentul bugetar al anilor precedenți, al comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/246340",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-6-2026",
+"path": "local/constanta/targusor/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 6/2026 privind aprobarea Metodologiei de repartizare și facturare individuală a consumului de apa înregistrat la branșamentul condominiului precum și Convenția-cadru de facturare individuală a consumurilor de apă și de canalizare",
+"short": "HCL Târgușor nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/255161",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-7-2026",
 "path": "local/constanta/targusor/2026/7",
 "kind": "local",
@@ -69,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-10-2026",
+"path": "local/constanta/targusor/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 10/2026 privind aprobarea contului de încheierea execuției bugetare, a Consiliului Local al Comunei Târgușor, județul Constanța, pe anul 2025",
+"short": "HCL Târgușor nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/255165",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-11-2026",
 "path": "local/constanta/targusor/2026/11",
 "kind": "local",
@@ -88,6 +242,73 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-12-2026",
+"path": "local/constanta/targusor/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 12/2026",
+"short": "HCL Târgușor nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/263850",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--targusor-13-2026",
+"path": "local/constanta/targusor/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 13/2026 privind acordarea unui mandat special reprezentantului comunei Târgușor în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+"short": "HCL Târgușor nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/263851",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-14-2026",
+"path": "local/constanta/targusor/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 14/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru cheltuieli necesare realizării documentației de urbanism ” Reactualizare Plan Urbanistic General și Regulament Local, U.A.T Târgușor, jud. Constanța”",
+"short": "HCL Târgușor nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/264604",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +378,118 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-18-2026",
+"path": "local/constanta/targusor/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 18/2026 privind alocarea sumei de 16.800 lei din bugetul local al comunei Târgușor, județul Constanța, pe anul 2026, în vederea acordării normei de hrană, pe perioada 01 ianuarie 2026- 31 decembrie 2026, personalului din cadrul compartimentului poliției locale, al aparatului de specialitate al primarului comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/266578",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-19-2026",
+"path": "local/constanta/targusor/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 19/2026 privind aprobarea Acordului Colectiv și Contractului colectiv de muncă, încheiate la nivelul Primăriei comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/266579",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-20-2026",
+"path": "local/constanta/targusor/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 20/2026",
+"short": "HCL Târgușor nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/269317",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--targusor-21-2026",
+"path": "local/constanta/targusor/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 21/2026 pentru aprobarea Regulamentului privind normele de gospodărire comunală, întreţinere, colectare, transport și depozitare a deşeurilor şi pentru activităţile comerciale, stabilirea unor măsuri de protecţia mediului, precum și obligaţii cetăţeneşti în comuna Târgușor",
+"short": "HCL Târgușor nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/275959",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-22-2026",
+"path": "local/constanta/targusor/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 22/2026",
+"short": "HCL Târgușor nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/275960",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--targusor-23-2026",
 "path": "local/constanta/targusor/2026/23",
 "kind": "local",
@@ -179,6 +512,28 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-24-2026",
+"path": "local/constanta/targusor/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 24/2026 privind alocarea sumei de 30.000 lei, din bugetul local al comunei Târgușor, județul Constanța, pe anul 2026, în vederea premierii elevilor din comuna Târgușor, pentru rezultate deosebite obținute la învățătură",
+"short": "HCL Târgușor nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/275962",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-25-2026",
 "path": "local/constanta/targusor/2026/25",
 "kind": "local",
@@ -198,6 +553,28 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-26-2026",
+"path": "local/constanta/targusor/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 26/2026 privind aprobarea actualizării Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Târgușor – județul Constanța, urmare reorganizării acestuia începând cu data de 01 iulie 2026",
+"short": "HCL Târgușor nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/279968",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

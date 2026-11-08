@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-13-2020",
+   "path": "local/constanta/pantelimon/2020/13",
+   "short": "HCL Pantelimon nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 13/2020 privind reglementarea acordarii ajutoarelor de urgența/ajutoarelor de inmormantare la nivelul comunei Pantelimon,județul Constanta în anul 2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7486",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-14-2020",
    "path": "local/constanta/pantelimon/2020/14",
    "short": "HCL Pantelimon nr. 14/2020",
@@ -253,6 +268,21 @@
      "from": "2020-01-29",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-16-2020",
+   "path": "local/constanta/pantelimon/2020/16",
+   "short": "HCL Pantelimon nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 16/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7489",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7489",
      "sha256": null
     }
    ]
@@ -453,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-29-2020",
+   "path": "local/constanta/pantelimon/2020/29",
+   "short": "HCL Pantelimon nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 29/2020 privind aprobarea vânzării prin licitație publică a imobilului teren intravilan,in suprafață de 2851 mp,situat în satul Pantelimon de Jos,str.Rasaritului,FN, Comuna Pantelimon,ce apartine domeniului privat al UAT Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7511",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7511",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-3-2020",
    "path": "local/constanta/pantelimon/2020/3",
    "short": "HCL Pantelimon nr. 3/2020",
@@ -463,6 +508,21 @@
      "from": "2020-01-29",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-30-2020",
+   "path": "local/constanta/pantelimon/2020/30",
+   "short": "HCL Pantelimon nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 30/2020 privind aprobarea vânzării prin licitație publică a imobilului compus din teren intravilan în suprafață de 1160 mp si locuință in suprafață de 82 mp,situate in sat Runcu,str.Noua,nr.11 ,Comuna Pantelimon,jud.Constanța ce aparține domeniului privat al UAT Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7512",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7512",
      "sha256": null
     }
    ]
@@ -498,6 +558,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-33-2020",
+   "path": "local/constanta/pantelimon/2020/33",
+   "short": "HCL Pantelimon nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 33/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7515",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-34-2020",
+   "path": "local/constanta/pantelimon/2020/34",
+   "short": "HCL Pantelimon nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 34/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7516",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7516",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-35-2020",
    "path": "local/constanta/pantelimon/2020/35",
    "short": "HCL Pantelimon nr. 35/2020",
@@ -523,6 +613,21 @@
      "from": "2020-03-25",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-37-2020",
+   "path": "local/constanta/pantelimon/2020/37",
+   "short": "HCL Pantelimon nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 37/2020 privind alegerea președintelui de ședință a Consiliului Local Pantelimon pentru luna MAI 2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7523",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7523",
      "sha256": null
     }
    ]
@@ -558,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-4-2020",
+   "path": "local/constanta/pantelimon/2020/4",
+   "short": "HCL Pantelimon nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 4/2020 privind alegerea președintelui de ședință pentru luna februarie 2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7477",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7477",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-40-2020",
    "path": "local/constanta/pantelimon/2020/40",
    "short": "HCL Pantelimon nr. 40/2020",
@@ -568,6 +688,36 @@
      "from": "2020-04-29",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-41-2020",
+   "path": "local/constanta/pantelimon/2020/41",
+   "short": "HCL Pantelimon nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 41/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7527",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-42-2020",
+   "path": "local/constanta/pantelimon/2020/42",
+   "short": "HCL Pantelimon nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 42/2020 privind alegerea președintelui de ședință pentru luna iunie 2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7528",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7528",
      "sha256": null
     }
    ]
@@ -663,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-49-2020",
+   "path": "local/constanta/pantelimon/2020/49",
+   "short": "HCL Pantelimon nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 49/2020 privind aprobarea inchirierii prin licitație publică a spațiului comercial situat în Strada Apusului,nr.14 sat Nistorești,comuna Pantelimon,jud.Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7535",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7535",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-5-2020",
    "path": "local/constanta/pantelimon/2020/5",
    "short": "HCL Pantelimon nr. 5/2020",
@@ -693,6 +858,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-51-2020",
+   "path": "local/constanta/pantelimon/2020/51",
+   "short": "HCL Pantelimon nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 51/2020 privind alegerea președintelui de ședință pentru luna iulie 2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7575",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-52-2020",
    "path": "local/constanta/pantelimon/2020/52",
    "short": "HCL Pantelimon nr. 52/2020",
@@ -718,6 +898,21 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-54-2020",
+   "path": "local/constanta/pantelimon/2020/54",
+   "short": "HCL Pantelimon nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 54/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7578",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7578",
      "sha256": null
     }
    ]
@@ -813,6 +1008,96 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-60-2020",
+   "path": "local/constanta/pantelimon/2020/60",
+   "short": "HCL Pantelimon nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 60/2020 privind Privind aprobarea concesionării prin licitație publică a terenului intravilan ,in suprafață de 2075 mp, situat in Strada Ulmetum,nr.9,nr.cadastral 102918, sat Pantelimon,comuna Pantelimon,jud.Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7585",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-61-2020",
+   "path": "local/constanta/pantelimon/2020/61",
+   "short": "HCL Pantelimon nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 61/2020 privind aprobarea concesionării prin licitație publică a terenului intravilan ,in suprafață de 10.000 mp, situat in Strada Daliilor,FN,lot 1,nr.cadastral 102153, sat Pantelimon,comuna Pantelimon,jud.Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7586",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-62-2020",
+   "path": "local/constanta/pantelimon/2020/62",
+   "short": "HCL Pantelimon nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 62/2020 privind aprobarea concesionării prin licitație publică a terenului intravilan ,in suprafață de 10.000 mp, situat în Strada Ulmetum,FN,nr.cadastral 101493, sat Pantelimon,comuna Pantelimon,jud.Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7587",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-63-2020",
+   "path": "local/constanta/pantelimon/2020/63",
+   "short": "HCL Pantelimon nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 63/2020 privind aprobarea concesionării prin licitație publică a terenului intravilan ,în suprafață de 2022 mp, situat in Strada Văii,nr.5 B,nr.cadastral 102885, sat Pantelimon de Jos,comuna Pantelimon,jud.Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7588",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-64-2020",
+   "path": "local/constanta/pantelimon/2020/64",
+   "short": "HCL Pantelimon nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 64/2020 privind aprobarea concesionării prin licitație publică a terenului intravilan ,în suprafață de 3220 mp, situat în Strada Răsăritului,nr.132,nr.cadastral 102750, sat Runcu,comuna Pantelimon,jud.Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7589",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-65-2020",
+   "path": "local/constanta/pantelimon/2020/65",
+   "short": "HCL Pantelimon nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 65/2020 privind aprobarea Raportului asupra activitații desfașurate de asistenții personali ai persoanelor cu handicap grav pe semestrul I 2020 de pe raza com Pantelimon jud Constanța întocmit de COMPARTIMENTUL DE ASISTENȚA SOCIALĂ din cadrul aparatului de lucru al Primarului com Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7583",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-66-2020",
    "path": "local/constanta/pantelimon/2020/66",
    "short": "HCL Pantelimon nr. 66/2020",
@@ -873,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-7-2020",
+   "path": "local/constanta/pantelimon/2020/7",
+   "short": "HCL Pantelimon nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 7/2020 privind Raportului asupra activitații desfașurate de asistenții personali ai persoanelor cu handicap grav pe semestrul II 2019 de pe raza com Pantelimon jud Constanta intocmit de COMPARTIMENTUL DE ASISTENTĂ SOCIALĂ din cadrul aparatului de lucru al Primarului com Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7480",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7480",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-70-2020",
    "path": "local/constanta/pantelimon/2020/70",
    "short": "HCL Pantelimon nr. 70/2020",
@@ -883,6 +1183,36 @@
      "from": "2020-07-30",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/8597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-71-2020",
+   "path": "local/constanta/pantelimon/2020/71",
+   "short": "HCL Pantelimon nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 71/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/8598",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/8598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-72-2020",
+   "path": "local/constanta/pantelimon/2020/72",
+   "short": "HCL Pantelimon nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 72/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/8599",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/8599",
      "sha256": null
     }
    ]
@@ -993,6 +1323,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-8-2020",
+   "path": "local/constanta/pantelimon/2020/8",
+   "short": "HCL Pantelimon nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 8/2020 privind aprobarea Planului de acțiuni si de lucrari de interes local ce urmează a fi prestate de către beneficiarii de ajutor social în anul 2020,conform Legii nr.416/2001",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/7481",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/7481",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-80-2020",
    "path": "local/constanta/pantelimon/2020/80",
    "short": "HCL Pantelimon nr. 80/2020",
@@ -1003,6 +1348,36 @@
      "from": "2020-08-28",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/11133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-81-2020",
+   "path": "local/constanta/pantelimon/2020/81",
+   "short": "HCL Pantelimon nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 81/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/11134",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/11134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-82-2020",
+   "path": "local/constanta/pantelimon/2020/82",
+   "short": "HCL Pantelimon nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 82/2020 privind aprobarea prelungirii prin act adițional a duratei unui contract de închiriere care are ca obiect locuință",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/11135",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/11135",
      "sha256": null
     }
    ]
@@ -1033,6 +1408,21 @@
      "from": "2020-09-16",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/11137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-85-2020",
+   "path": "local/constanta/pantelimon/2020/85",
+   "short": "HCL Pantelimon nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 85/2020",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/11138",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/11138",
      "sha256": null
     }
    ]

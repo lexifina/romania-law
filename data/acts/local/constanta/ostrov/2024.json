@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-3-2024",
+"path": "local/constanta/ostrov/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 3/2024 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna februarie",
+"short": "HCL Ostrov nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/140375",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-4-2024",
 "path": "local/constanta/ostrov/2024/4",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-6-2024",
+"path": "local/constanta/ostrov/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 6/2024 privind delegarea Serviciului pentru activitati de întreținere și reparații a infrastructurii de iluminat public, aferent lucrarii ” Modernizare sistem de iluminat public in comuna Ostrov, judetul Constanța” prin programul ”Cresterea Eficientei energetice a infrastructurii de iluminat public”",
+"short": "HCL Ostrov nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/140378",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-7-2024",
 "path": "local/constanta/ostrov/2024/7",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-8-2024",
+"path": "local/constanta/ostrov/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 8/2024 privind aprobarea aderării UAT Ostrov, județul Constanța, la ASOCIAȚIA GRUP LOCAL DOBROGEA NORD",
+"short": "HCL Ostrov nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/140380",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-11-2024",
+"path": "local/constanta/ostrov/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 11/2024 privind aprobarea prelungirii contractelor de inchiriere a terenurilor si spatiilor din domeniul public si privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/140383",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +333,29 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-16-2024",
+"path": "local/constanta/ostrov/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 16/2024",
+"short": "HCL Ostrov nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/145484",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-17-2024",
 "path": "local/constanta/ostrov/2024/17",
 "kind": "local",
@@ -264,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-18-2024",
+"path": "local/constanta/ostrov/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 18/2024 privind completarea Hotararii nr. 63/28.09.2023 privind aprobarea scoaterii la licitatie in vederea inchirierii a unui imobil situat in str. 1 Mai, nr.77A comuna Ostrov ,judetul Constanta",
+"short": "HCL Ostrov nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-10",
+"latest": "2024-04-10",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/150871",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +467,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-22-2024",
+"path": "local/constanta/ostrov/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 22/2024 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna mai",
+"short": "HCL Ostrov nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/158471",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-23-2024",
 "path": "local/constanta/ostrov/2024/23",
 "kind": "local",
@@ -353,6 +508,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-24-2024",
+"path": "local/constanta/ostrov/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 24/2024 privind acordarea unui mandat special reprezentantului comunei Ostrov, judetul Constanța în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea",
+"short": "HCL Ostrov nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/158473",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -466,6 +643,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-30-2024",
+"path": "local/constanta/ostrov/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 30/2024 privind revocarea Hotărârii consiliului local Ostrov numărul11/31.01.2024 privind aprobarea prelungirii contractelor de inchiriere a terenurilor si spatiilor din domeniul public si privat al comunei Ostrov, judetul Constanta",
+"short": "HCL Ostrov nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-15",
+"latest": "2024-07-15",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/160094",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-31-2024",
 "path": "local/constanta/ostrov/2024/31",
 "kind": "local",
@@ -532,6 +731,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-34-2024",
+"path": "local/constanta/ostrov/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 34/2024 privind utilizarea excedentului bugetar rezultat la încheierea exerciţiului bugetar pentru anul 2023, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare, pentru lucrari de investitii propuse a se realiza in anul 2024 conform Listei de investitii",
+"short": "HCL Ostrov nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/163089",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-35-2024",
 "path": "local/constanta/ostrov/2024/35",
 "kind": "local",
@@ -576,6 +797,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-37-2024",
+"path": "local/constanta/ostrov/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 37/2024 privind alegerea preşedintelui de şedinţă pentru a conduce şedinţa extraordinară a consiliului local din data de 24.07.2024 in lipsa președintelui de ședință cu mandat încredințat",
+"short": "HCL Ostrov nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/163194",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-38-2024",
 "path": "local/constanta/ostrov/2024/38",
 "kind": "local",
@@ -595,6 +838,73 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-39-2024",
+"path": "local/constanta/ostrov/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 39/2024 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna august",
+"short": "HCL Ostrov nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/166015",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-40-2024",
+"path": "local/constanta/ostrov/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 40/2024",
+"short": "HCL Ostrov nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/166016",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-41-2024",
+"path": "local/constanta/ostrov/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 41/2024 privind aprobarea rectificarii bugetului local si a Listei de investitii ale comunei Ostrov, judetul Constanta, in trim. al III-lea al anului 2024",
+"short": "HCL Ostrov nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/166017",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -687,6 +997,50 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-46-2024",
+"path": "local/constanta/ostrov/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 46/2024 privind desemnarea reprezentantilor Consiliului Local Ostrov,in Consiliul de Administratie al Liceului “Regele Carol I “ Ostrov, pentru anul scolar 2024 -2025",
+"short": "HCL Ostrov nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-16",
+"latest": "2024-09-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/167806",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-47-2024",
+"path": "local/constanta/ostrov/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 47/2024 privind desemnarea reprezentantului Consiliului Local al comunei Ostrov în Comisia pentru evaluarea şi asigurarea calităţii a Liceului “Regele Carol I “ Ostrov, pentru anul scolar 2024-2025",
+"short": "HCL Ostrov nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-16",
+"latest": "2024-09-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/167807",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-48-2024",
 "path": "local/constanta/ostrov/2024/48",
 "kind": "local",
@@ -753,6 +1107,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-51-2024",
+"path": "local/constanta/ostrov/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 51/2024 privind rezilierea contractului de concesiune cu nr. 1503/02.08.2005încheiat între comuna Ostrov, în calitate de concedente și SC BIT CONS IMPEX SRL în calitate de concesionar și radierea acestuia din cartea funciară",
+"short": "HCL Ostrov nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-16",
+"latest": "2024-09-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/167811",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-52-2024",
 "path": "local/constanta/ostrov/2024/52",
 "kind": "local",
@@ -772,6 +1148,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-53-2024",
+"path": "local/constanta/ostrov/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 53/2024 privind alegerea preşedintelui de şedinţă pentru a conduce şedinţa ordinară a consiliului local din data de 19.09.2024 in lipsa președintelui de ședință cu mandat încredințat",
+"short": "HCL Ostrov nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-02",
+"latest": "2024-10-02",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/170121",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -798,6 +1196,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-55-2024",
+"path": "local/constanta/ostrov/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 55/2024 privind aprobarea actualizarii componentei Comisiei de specialitate nr.3 pentru activități economico-financiare, amenajarea teritoriului, urbanism, agricultură, administrarea domeniului public și privat al comunei",
+"short": "HCL Ostrov nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-02",
+"latest": "2024-10-02",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/170123",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-56-2024",
 "path": "local/constanta/ostrov/2024/56",
 "kind": "local",
@@ -818,6 +1238,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-57-2024",
+"path": "local/constanta/ostrov/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 57/2024 privind atribuirea unui lot de teren pentru construirea de locuință proprietate personală, în condițiile Legii nr. 15/2003, pentru solicitantul ROBESCU ALIN-MARIUS",
+"short": "HCL Ostrov nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-02",
+"latest": "2024-10-02",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/170125",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

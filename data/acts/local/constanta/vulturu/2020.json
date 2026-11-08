@@ -3,6 +3,72 @@
 "shard": "local/constanta/vulturu/2020",
 "acts": [
 {
+"slug": "hcl-constanta--vulturu-1-2020",
+"path": "local/constanta/vulturu/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2020 privind aprobarea Planului de actiuni si lucrări de interes local în vederea repartizării orelor de muncă prestate lunar de către persoanele apte de muncă, beneficiare ale Legii nr. 416/2001 privind venitul minim garantat",
+"short": "HCL Vulturu nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-20",
+"latest": "2020-01-20",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5937",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--vulturu-2-2020",
+"path": "local/constanta/vulturu/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 2/2020 privind aprobarea numărului asistentilor personali ai persoanelor cu handicap pentru anul 2020",
+"short": "HCL Vulturu nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-20",
+"latest": "2020-01-20",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5938",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--vulturu-3-2020",
+"path": "local/constanta/vulturu/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2020 privind aprobarea reînnoirii unor contracte de închiriere ce au ca obiect locuinte sociale care apartin domeniului public al Unitătii Administrativ-Teritoriale Vulturu",
+"short": "HCL Vulturu nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-20",
+"latest": "2020-01-20",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5939",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--vulturu-4-2020",
 "path": "local/constanta/vulturu/2020/4",
 "kind": "local",
@@ -44,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Vulturu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--vulturu-6-2020",
+"path": "local/constanta/vulturu/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 6/2020 privind aprobarea numărului și cuantumului burselor de care pot beneficia elevii cuprinşi în învăţământul preuniversitar de stat din unităţile de învăţământ aflate pe raza Unitătii Adminitrativ-Teritoriale Vulturu",
+"short": "HCL Vulturu nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5942",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--vulturu-7-2020",
+"path": "local/constanta/vulturu/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 7/2020 privind alegerea presedintelui de sedintă al Consiliului Local al comunei Vulturu pentru sedintele din lunile martie – mai 2020",
+"short": "HCL Vulturu nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5943",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-constanta--vulturu-13-2020",
+"path": "local/constanta/vulturu/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 13/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Vulturu",
+"short": "HCL Vulturu nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5949",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--vulturu-14-2020",
 "path": "local/constanta/vulturu/2020/14",
 "kind": "local",
@@ -221,6 +353,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--vulturu-17-2020",
+"path": "local/constanta/vulturu/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 17/2020 privind alegerea presedintelui de sedintă al Consiliului Local al comunei Vulturu pentru sedintele din lunile iunie – august 2020",
+"short": "HCL Vulturu nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-25",
+"latest": "2020-05-25",
+"portal": "https://emol.ro/vulturu-ct/registru-hcl/5953",
+"council": "constanta/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,666 @@
  "shard": "local/constanta/navodari/2015",
  "acts": [
   {
+   "slug": "hcl-constanta--navodari-198-2015",
+   "path": "local/constanta/navodari/2015/198",
+   "short": "HCL Năvodari nr. 198/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 198/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_198.pdf",
+     "sha256": "391c6b3c617ae80aed8cc803730226bfe850a0292b5cd649b6d056fa12fc4c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-199-2015",
+   "path": "local/constanta/navodari/2015/199",
+   "short": "HCL Năvodari nr. 199/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 199/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_199.pdf",
+     "sha256": "24722bc55023accdc7c19ef655c8397a98f124e527906b463b3eba6cc0c6214c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-200-2015",
+   "path": "local/constanta/navodari/2015/200",
+   "short": "HCL Năvodari nr. 200/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 200/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_200.pdf",
+     "sha256": "eb5f2f8f7db9e816c68f1504d00f6efa60c3ab0df40ead598a230047176942d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-202-2015",
+   "path": "local/constanta/navodari/2015/202",
+   "short": "HCL Năvodari nr. 202/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 202/2015 Privind stabilirea creșterilor salariale cu 12% pentru personalul aparatului de specialitate al primarului orașului Năvodari si al instituțiilor publice subordonate Consiliului Local in baza OUG nr. 83/2014 privind salarizarea personalului plătit din fonduri publice in anul 2015, precum si alte masuri in domeniul cheltuielilor publice, cu modificările si completările ulterioare Consiliul Local Nav",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_202.pdf",
+     "sha256": "7f3c548f7ad848a3c4c9c7b2c589578df37b98a81c5c2fb7121b4fc3d4b977d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-203-2015",
+   "path": "local/constanta/navodari/2015/203",
+   "short": "HCL Năvodari nr. 203/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 203/2015 Privind actualizarea H.C.L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_203.pdf",
+     "sha256": "41a081ce5f188333a7cdb9a6e4f4e537b083a6b5f1a9b2f781941d0a079c3e0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-204-2015",
+   "path": "local/constanta/navodari/2015/204",
+   "short": "HCL Năvodari nr. 204/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 204/2015 privind la actualizarea H.C.L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_204.pdf",
+     "sha256": "56093d39a1ad746ee9b016f2113cdfbd1bbf467f18845f97b0ec8e8d0f594e27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-205-2015",
+   "path": "local/constanta/navodari/2015/205",
+   "short": "HCL Năvodari nr. 205/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 205/2015 pentru încheierea Contractului Cadru de Asociere privind finanțarea serviciilor sociale destinate protecției și promovării drepturilor copilului și ale persoanei adulte cu handicap și stabilirea contribuției unităților administrative teritoriale la finanțarea acestor servicii Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_205.pdf",
+     "sha256": "2228589ca0c0cd70561987810ab97d56cc97134500d9e3666536e3e2c3b69cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-206-2015",
+   "path": "local/constanta/navodari/2015/206",
+   "short": "HCL Năvodari nr. 206/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 206/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_206.pdf",
+     "sha256": "b929530bb037f21fad2055ef7b95ae0b6286705bb5506a7006685d9755587469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-209-2015",
+   "path": "local/constanta/navodari/2015/209",
+   "short": "HCL Năvodari nr. 209/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 209/2015 cu privire la aprobarea Listei solicitantilor care au acces la locuinta, a Listei solicitantilor care nu au acces la locuinta si a Listei de prioritate pentru acordarea locuintei A.N.L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_209.pdf",
+     "sha256": "6595f372693f80c4eae996e90bf8f9ac3050f29a52dfed9dde682054fb1d7b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-210-2015",
+   "path": "local/constanta/navodari/2015/210",
+   "short": "HCL Năvodari nr. 210/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 210/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_210.pdf",
+     "sha256": "77764689f5c7fd7ba8a199511772f0433b98641cba6507f0dafd6208c567e97e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-211-2015",
+   "path": "local/constanta/navodari/2015/211",
+   "short": "HCL Năvodari nr. 211/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 211/2015 cu privire la preluarea in administrarea Orasului Navodari a obiectivului de investitii – Locuinte pentru tineri, destinate inchirierii, amplasate in Strada Pescarusului, Zona Sud, bloc SP 2 cu 32 u.l., D+P+7E, Orasul Navodari, conform Protocolului de Predare - Primire nr. 33207/17.07.2015 Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_211.pdf",
+     "sha256": "e5e799d6f8ad19b9acd392113a50b8d81652c013c73e3c0f8b36a50e9d7e99ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-218-2015",
+   "path": "local/constanta/navodari/2015/218",
+   "short": "HCL Năvodari nr. 218/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 218/2015 cu privire la încheierea unor contracte de închiriere pentru locuințe sociale situate în Orașul Năvodari Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 27.08.2015; Având în vedere: - Proiectul de hotarare initiat de",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_218.pdf",
+     "sha256": "9fb61d6d5756d0e9a42242bce2d05634d7994dca17b26a50df11b5bb635e8c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-219-2015",
+   "path": "local/constanta/navodari/2015/219",
+   "short": "HCL Năvodari nr. 219/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 219/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_219.pdf",
+     "sha256": "86dd95cd7e9c6715d7668b78be2c14a51dd1100b236436b6cbb88ffe5dfeaa64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-220-2015",
+   "path": "local/constanta/navodari/2015/220",
+   "short": "HCL Năvodari nr. 220/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 220/2015 cu privire la închirierea prin licitație publică a unor terenuri pentru amplasare construcții provizorii cu destinație activitate de presa Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 27.08.2015; Având în vedere:",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_220.pdf",
+     "sha256": "65507a4c8c80eedfbf1c26ccacdb748c10eda4301bd415ca12941e6513c0489f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-222-2015",
+   "path": "local/constanta/navodari/2015/222",
+   "short": "HCL Năvodari nr. 222/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 222/2015 cu privire la repartizarea unor locuințe situate in Năvodari, str. Marii, la mansarda blocului Legmas Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 27.08.2015; Având în vedere: - Proiectul de hotarare initiat de co",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_222.pdf",
+     "sha256": "de5b8a2bbf41ed1f6c71cbd0ff39cd13d93a0ffc409b4baa04e1f01c862a8937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-223-2015",
+   "path": "local/constanta/navodari/2015/223",
+   "short": "HCL Năvodari nr. 223/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 223/2015 cu privire la atribuirea în folosință gratuită a unor terenuri destinate construirii de locuințe proprietate personală în conformitate cu prevederile Legii 15/2003 Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 27.0",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_223.pdf",
+     "sha256": "740015507f4114c7a1af9b2ce1a3800b417045f85e2b114ced0b4fe7fba0f588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-224-2015",
+   "path": "local/constanta/navodari/2015/224",
+   "short": "HCL Năvodari nr. 224/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 224/2015 Privind aprobarea efectuării unui sondaj de opinie de către o firma specializata in rândul cetățenilor orașului Năvodari pentru cercetare sociologica",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_224.pdf",
+     "sha256": "97cf3233e37532e029fcec10ece27b70c5faaa01e7994df6ce25920fb997af1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-226-2015",
+   "path": "local/constanta/navodari/2015/226",
+   "short": "HCL Năvodari nr. 226/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 226/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_226.pdf",
+     "sha256": "85927aa0c7b926fe33652ab3a613ebdc2d3244c70fe37d9461c746cad3410489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-227-2015",
+   "path": "local/constanta/navodari/2015/227",
+   "short": "HCL Năvodari nr. 227/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 227/2015 privind aprobarea documentației tehnico - economice in faza D.A.L.I, pentru obiectivul de investiții „Scarificare, impietruire si asfaltare - str",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_227.pdf",
+     "sha256": "ebbf51ba41c8f28fe083f4e6e8173cef2bd23b3d8a5771810295320ff8efd5ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-235-2015",
+   "path": "local/constanta/navodari/2015/235",
+   "short": "HCL Năvodari nr. 235/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 235/2015 privind derularea Programului de susținere a învățământului „Ghiozdanul pentru toți\" adresat copiilor înscriși in sistemul educațional preșcolar, primar, gimnazial si liceal din unitățile de invatamant de pe raza orașului Năvodari Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2001 privind administratia publica locala, repu",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_235.pdf",
+     "sha256": "59f2d836243b402f94eddd9cd696ab858e71d5a2de19a66a39cef3693ad72854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-236-2015",
+   "path": "local/constanta/navodari/2015/236",
+   "short": "HCL Năvodari nr. 236/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 236/2015 privind acordarea de pachete cu alimente dc baza pentru toti pensionarii si alte categorii de persoane defavorizate cu ocazia sărbătorii religioase „Sfanta Cuvioasa Parascheva \" Consiliul Local Navodari, intrunit in sedinta ordinara in conformitate cu prevederile ar. 39 (1) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, i",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_236.pdf",
+     "sha256": "a5ba277625214ffa5ef497ce6ba80ea140fab3779dc25fad52bfc250d758cbe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-237-2015",
+   "path": "local/constanta/navodari/2015/237",
+   "short": "HCL Năvodari nr. 237/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 237/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_237.pdf",
+     "sha256": "08b121818881d08f703419a2902f4abe5b25c41812c241b7ccb36cba56809677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-238-2015",
+   "path": "local/constanta/navodari/2015/238",
+   "short": "HCL Năvodari nr. 238/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 238/2015 Privind aprobarea completarii Programului anual de achizitii pentru anul 2015 al S.C",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_238.pdf",
+     "sha256": "0214d4da052782d2b7db33171fbe868c405dbe95ff1f98f0fbc97c40700a5345"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-239-2015",
+   "path": "local/constanta/navodari/2015/239",
+   "short": "HCL Năvodari nr. 239/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 239/2015 privind aprobarea documentatiei tehnico – economice in faza D.A.L.I, pentru obiectivul de investitii„Asfaltare str",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_239.pdf",
+     "sha256": "8f5f3bddda12a23f704b38b204b44563101707797e48b8381b9fa037057c3798"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-240-2015",
+   "path": "local/constanta/navodari/2015/240",
+   "short": "HCL Năvodari nr. 240/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 240/2015 privind aprobarea documentatiei tehnico – economice in faza D.A.L.I, pentru obiectivul de investitii „Asfaltare si largire str",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_240.pdf",
+     "sha256": "954acbb244d5285c1ae2309604b3969d7ebe292eb3f229bcb43021fcab8aca7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-241-2015",
+   "path": "local/constanta/navodari/2015/241",
+   "short": "HCL Năvodari nr. 241/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 241/2015 privind aprobarea documentatiei tehnico – economice faza D.A.L.I, pentru obiectivul de investitii„Asfaltare str. T2 intre str. T5 si str. T13 si intre aleea T2 si str. T14”, Oras Navodari, Jud",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_241.pdf",
+     "sha256": "7626b2c02216f1ba5a9c3d011e7693f2e361105a34de0109b536e49d0634b0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-242-2015",
+   "path": "local/constanta/navodari/2015/242",
+   "short": "HCL Năvodari nr. 242/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 242/2015 privind aprobarea documentatiei tehnico – economice faza D.A.L.I, pentru obiectivul de investitii„Asfaltare str",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_242.pdf",
+     "sha256": "a3ded39dddf914d9243a9296b7eb522d2bfeadcfd1b9b9d3514aa4e3583ac827"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-268-2015",
+   "path": "local/constanta/navodari/2015/268",
+   "short": "HCL Năvodari nr. 268/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 268/2015 privind aprobarea Planului de ocupare a funcțiilor publice din cadrul aparatului de specialitate al Primarului orașului Năvodari pentru anul 2015 Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 24.0",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_268.pdf",
+     "sha256": "c9d68c61c66ca5b14594f5df492bfcf61baf511a7db9a35a11ddb7cb85a4a3d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-269-2015",
+   "path": "local/constanta/navodari/2015/269",
+   "short": "HCL Năvodari nr. 269/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 269/2015 Privind actualizarea H.C.L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_269.pdf",
+     "sha256": "fbd4698cacec763d207bb6e4f5a905ee6cb2c1b7bd0fd2822fd90770cd85e52f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-270-2015",
+   "path": "local/constanta/navodari/2015/270",
+   "short": "HCL Năvodari nr. 270/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 270/2015 privind la actualizarea H.C.L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_270.pdf",
+     "sha256": "5f6927e0983f031ceb503e805421f6fe597d7ff97d12b7e1427b62adc19f8e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-271-2015",
+   "path": "local/constanta/navodari/2015/271",
+   "short": "HCL Năvodari nr. 271/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 271/2015 cu privire la modificarea H.C.L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_271.pdf",
+     "sha256": "4ec80051bbcfd5b815244fa5793c6bc7d1d19f5b24dd7d30b662789db63274d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-277-2015",
+   "path": "local/constanta/navodari/2015/277",
+   "short": "HCL Năvodari nr. 277/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 277/2015 cu privire la vânzarea prin licitatie publică a unui teren în suprafață de 158 mp, situat în Năvodari, strada M 8 fn, județul Constanța Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 24.09.2015; Av",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_277.pdf",
+     "sha256": "4968db29da267c374afac3337335a5ab1662d4f801aef9656b236c8d795e7e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-281-2015",
+   "path": "local/constanta/navodari/2015/281",
+   "short": "HCL Năvodari nr. 281/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 281/2015 Cu privire la desemnarea reprezentantilor Consiliului Local Navodari in Consiliile de Administratie ale unitatilor de invatamant din Orasul Navodari Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 2",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_281.pdf",
+     "sha256": "cd8bd04586976a567512e7b41590f10675653748e38b4c15e6b4de8f58099ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-284-2015",
+   "path": "local/constanta/navodari/2015/284",
+   "short": "HCL Năvodari nr. 284/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 284/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_284.pdf",
+     "sha256": "ee18b041a82817291b3834769cc4a75c0502e5590c7ec4505218eafcbb12aace"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-289-2015",
+   "path": "local/constanta/navodari/2015/289",
+   "short": "HCL Năvodari nr. 289/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 289/2015 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico - economici pentru proiectul„Retea electrica iluminat parcare bloc. ANL”, Oras Navodari, Jud",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_289.pdf",
+     "sha256": "f699354d4cdc803762caeaab5057424e84aa33e6a10f8836f288231483b185b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-312-2015",
+   "path": "local/constanta/navodari/2015/312",
+   "short": "HCL Năvodari nr. 312/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 312/2015 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru proiectul ,,Recovery of the past and investment in the future using the cultural heritage of Silistra District-Constanta County cross border area” Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administrati",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_312.pdf",
+     "sha256": "52aed15e8e82d682e820a881ecf13f04914300f5cc48a6c82bd0bdc7a84ed2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-313-2015",
+   "path": "local/constanta/navodari/2015/313",
+   "short": "HCL Năvodari nr. 313/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 313/2015 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru proiectul „Recovery of the past and investment in the future using the cultural heritage of Silistra District-Constanta County cross border area” Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administratia publica local",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_313.pdf",
+     "sha256": "5ffed550219a4f5c0260b88a77d2db3d88f690ba1238c8a7008953f2f6ae84de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-314-2015",
+   "path": "local/constanta/navodari/2015/314",
+   "short": "HCL Năvodari nr. 314/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 314/2015 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru proiectul ,,Bike sharing- an alternative public transportation” Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data d",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_314.pdf",
+     "sha256": "e915b68622c109639cd4d35f39932733446dcab6a36f08901aa27fc9d2f7afe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-316-2015",
+   "path": "local/constanta/navodari/2015/316",
+   "short": "HCL Năvodari nr. 316/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 316/2015 Cu privire la aprobarea studiului de prefezabilitate pentru realizare parcare in parteneriat public- privat, zona Beach Land Orașul Năvodari Consiliul Local al orașului Năvodari, intrunit in sedinta extraordinara in conformitate cu prevederile art. 39 (2) si (3) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 24.09.201",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_316.pdf",
+     "sha256": "09ff722b6bc01f765637ba97d618ce8e7d0ddfc5277183b28a58f5ed836bb508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-317-2015",
+   "path": "local/constanta/navodari/2015/317",
+   "short": "HCL Năvodari nr. 317/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 317/2015 cu privire la alegerea președintelui de ședință Consiliul Local Năvodari, întrunit în ședința extraordinară din data de 09.10.2015; Având în vedere HCL nr. 265/24.09.2015 cu privire la alegerea președintelui de ședința, prevederile art. 9, alin. l, ultima teza din OG 35/2002 pentru aprobarea Regulamentului-cadru de organizare si funcționare a consiliilor locale, cu modificările si completările ult",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_317.pdf",
+     "sha256": "061d2b0663e82fdf890af23d01a71724c03d9bb01fd8c7ed47b23ddff25a20e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-318-2015",
+   "path": "local/constanta/navodari/2015/318",
+   "short": "HCL Năvodari nr. 318/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 318/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_318.pdf",
+     "sha256": "e49190e8d9068515674752bc33b367c789b512c8872c158e2b5f0a9a38d6890f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-320-2015",
+   "path": "local/constanta/navodari/2015/320",
+   "short": "HCL Năvodari nr. 320/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 320/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_320.pdf",
+     "sha256": "cc1866179fb05983b86fb3d7ad920147bf1e1ecd9ab6690da23dc6f3587fb7a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-321-2015",
+   "path": "local/constanta/navodari/2015/321",
+   "short": "HCL Năvodari nr. 321/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 321/2015 privind aprobarea documentatiei tehnico –economice faza D.A.L.I, pentru obiectivul de investitii „Asfaltare str. T3 intre str. T13 si str. T12”, Oras Navodari, Jud",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_321.pdf",
+     "sha256": "7cf4e93e2a3dcbdea36b39c76e2f942b8c13a0cd517f54482b920216b5741000"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-322-2015",
+   "path": "local/constanta/navodari/2015/322",
+   "short": "HCL Năvodari nr. 322/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 322/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_322.pdf",
+     "sha256": "54f593f929354641c5c14342bb1659eeb0b34f28dce9d1d6c4950770e7e9d8a1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-323-2015",
    "path": "local/constanta/navodari/2015/323",
    "short": "HCL Năvodari nr. 323/2015",
@@ -14,6 +674,201 @@
      "units": 1,
      "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_323.pdf",
      "sha256": "d4dcc9c06f0f954610875b97e36941d6b4ae1f3478a6a008e18fe3f6ed2da0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-326-2015",
+   "path": "local/constanta/navodari/2015/326",
+   "short": "HCL Năvodari nr. 326/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 326/2015 Cu privire la aprobarea acordării unei cote de carburanți Poliției Orașului Năvodari Consiliul Local Năvodari, întrunit în ședința extraordinară din data de 09.10.2015; Luând în dezbatere: Expunerea de motive a Viceprimarului Orașului Năvodari, proiectul de hotărâre inițiat de acesta, raportul compartimentului de specialitate, avizele comisiilor de specialitate; Având in vedere Adresa nr. 43539/07",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_326.pdf",
+     "sha256": "662bca8b43a729aa05d681c525cdb944db7343de27dc9ddc147f52857723257e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-429-2015",
+   "path": "local/constanta/navodari/2015/429",
+   "short": "HCL Năvodari nr. 429/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 429/2015 pentru modificarea Hotărârii Consiliului Local Năvodari nr. 169/23.07.2015 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico - economici pentru obiectivul „Alimentare cu apa - străzile B3-B4\", Oras Năvodari, Jud",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_429.pdf",
+     "sha256": "89923c700b53e4f6609e26c929fd11d42104209c0025af0480cf1a8ff406444b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-430-2015",
+   "path": "local/constanta/navodari/2015/430",
+   "short": "HCL Năvodari nr. 430/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 430/2015 Cu privire la aprobarea organizării Zilei Naționale a României, in orașul Năvodari, in data de 1 Decembrie a fiecărui an si a cheltuielilor de organizare suportate din bugetul local de venituri si cheltuieli Consiliul Local Navodari, întrunit în ședința extraordinară din data de 26.11.2015, in conformitate cu prevederile art. 39 alin. (2) si (3) din Legea 215/2001 privind administrația publica loc",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_430.pdf",
+     "sha256": "157b88ddd852b7c52351fd3a146481c4f322c5bae70ceaf3946aae29848e7a73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-431-2015",
+   "path": "local/constanta/navodari/2015/431",
+   "short": "HCL Năvodari nr. 431/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 431/2015 Cu privire la acordarea de agende, calendare, pixuri si felicitări cu ocazia sărbătorilor de iarna către colaboratori Consiliul Local Navodari, întrunit în ședința extraordinară din data de 26.11.2015, in conformitate cu prevederile art. 39 alin. (2) si (3) din Legea 215/2001 privind administrația publica locala, republicata, cu modificările si completările ulterioare; Luând in dezbatere: Expunere",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_431.pdf",
+     "sha256": "18b5b12b004993a488631013cb7c69f598813771ab7fc6df829ac646d497ee8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-434-2015",
+   "path": "local/constanta/navodari/2015/434",
+   "short": "HCL Năvodari nr. 434/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 434/2015 cu privire la modificarea organigramei si statului de functii ale aparatului de specialitate al Primarului Orasului Navodari, judetul Constanta Consiliul Local Navodari, întrunit în ședința extraordinară din data de 26.11.2015, in conformitate cu prevederile art. 39 alin. (2) si (3) din Legea 215/2001 privind administrația publica locala, republicata, cu modificările si completările ulterioare; Lu",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_434.pdf",
+     "sha256": "2065bbcf3b309c968b49fd4bac64d4b5ac671c4ad0d6ef2a58f6f338cd25596b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-436-2015",
+   "path": "local/constanta/navodari/2015/436",
+   "short": "HCL Năvodari nr. 436/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 436/2015 cu privire la incetarea aplicabilitatii HCL nr. 147/11.06.2015 incepand cu data de 01.01.2016 Consiliul Local Navodari, întrunit în ședința extraordinară din data de 26.11.2015, in conformitate cu prevederile art. 39 alin. (2) si (3) din Legea 215/2001 privind administrația publica locala, republicata, cu modificările si completările ulterioare; Luând in dezbatere: Proiectul de hotarare initiat de",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_436.pdf",
+     "sha256": "2057a95e02546647f04b93dba35fba77a8fe08e727e4cdd6d5485c731465f249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-438-2015",
+   "path": "local/constanta/navodari/2015/438",
+   "short": "HCL Năvodari nr. 438/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 438/2015 cu privire la aprobarea listelor de repartizare a locuințelor pentru tineri in regim de inchiriere construite prin ANL Consiliul Local Navodari, întrunit în ședința extraordinară din data de 26.11.2015, in conformitate cu prevederile art. 39 alin. (2) si (3) din Legea 215/2001 privind administrația publica locala, republicata, cu modificările si completările ulterioare; Luând in dezbatere: Expuner",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_438.pdf",
+     "sha256": "919c64063822da91490ea711722de39f3415a327c0cf47a5a4172001c01bccc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-443-2015",
+   "path": "local/constanta/navodari/2015/443",
+   "short": "HCL Năvodari nr. 443/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 443/2015 privind finalizarea contractului de finanțare pentru proiectul ”Construire Centru de Agrement” cod SMIS 32295 și aprobarea cheltuielilor necesare finalizării acestuia Consiliul Local Navodari, intrunit in sedinta de indata in conformitate cu prevederile art. 39(4) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 07.12.2",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_443.pdf",
+     "sha256": "fd53a0f05c68158993144911bc25b3aa846c5d6555900a36fa5e1e08b934abc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-444-2015",
+   "path": "local/constanta/navodari/2015/444",
+   "short": "HCL Năvodari nr. 444/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 444/2015 privind finalizarea contractului de finanțare pentru proiectul ”Construire Centru de Afaceri” cod SMIS 32294 și aprobarea cheltuielilor necesare finalizării acestuia Consiliul Local Navodari, intrunit in sedinta de indata in conformitate cu prevederile art. 39 (4) din Legea nr. 215/2001 privind administratia publica locala, republicata cu modificarile si completarile ulterioare, in data de 07.12.2",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_444.pdf",
+     "sha256": "322858be3bed555350e0dec03570e9e5a36646e052c5a531c8985df439ae29ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-445-2015",
+   "path": "local/constanta/navodari/2015/445",
+   "short": "HCL Năvodari nr. 445/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 445/2015 privind finalizarea contractului de finanțare pentru proiectul cod SMIS 41356 \"AMENAJAREA MALULUI MARII NEGRE IN ZONA DE LITORAL A ORAȘULUI NAVODARI-DEZVOLTAREA INFRASTRUCTURII DE TURISM DE UTILITATE PUBLICA\" și aprobarea cheltuielilor necesare finalizării acestuia Consiliul Local Navodari, întrunit în ședința de indata din data de 07.12.2015, in conformitate cu prevederile art. 39 alin. (4) din L",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_445.pdf",
+     "sha256": "a3a5a1fdfe230310e4342db7b777511f159b682f1e3fcb90d6bbb9ab46a0f976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-446-2015",
+   "path": "local/constanta/navodari/2015/446",
+   "short": "HCL Năvodari nr. 446/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 446/2015 privind finalizarea contractului de finanțare pentru proiectul „Lucrări de construcție pentru proiectul \"ÎMBUNĂTĂȚIREA ACCESULUI ÎNTRE MUNICIPIUL CONSTANȚA ȘI PLATFORMA INDUSTRIALĂ NĂVODARI PRIN LĂRGIREA ȘI MODERNIZAREA BULEVARDULUI MAMAIA -NĂVODARI\", Oras Năvodari, Județul Constanta, cod SMIS 37600 și aprobarea cheltuielilor necesare finalizării acestuia Consiliul Local Navodari, întrunit în ședi",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_446.pdf",
+     "sha256": "4c9325d2c2948ad9724628633e2fee9dc9c5dc947a1c19665a46d3fe4e0a4797"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-447-2015",
+   "path": "local/constanta/navodari/2015/447",
+   "short": "HCL Năvodari nr. 447/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 447/2015 privind finalizarea contractului de finanțare pentru proiectul „Lucrări de construcție pentru proiectul „ÎMBUNĂTĂȚIREA ACCESULUI INTRE E60 SI PLATFORMA INDUSTRIALA NĂVODARI PRIN MODERNIZAREA CAII RUTIERE\", Oras Năvodari, Județul Constanta, cod SMIS 40523 și aprobarea cheltuielilor necesare finalizării acestuia Consiliul Local Navodari, întrunit în ședința de indata din data de 07.12.2015, in confo",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_447.pdf",
+     "sha256": "aa0cd0d5e51e9397408252b15228b694ff630de8348dfcb23032b09fa2a5c573"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-448-2015",
+   "path": "local/constanta/navodari/2015/448",
+   "short": "HCL Năvodari nr. 448/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 448/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "http://primaria-navodari.ro/wp-content/uploads/2015/01/images_hcl_2015_448.pdf",
+     "sha256": "870fd0162a03d2931e06ca687d2079c94d1cd452eee7000e31376400af1973db"
     }
    ]
   }

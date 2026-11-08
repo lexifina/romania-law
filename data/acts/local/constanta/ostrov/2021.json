@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-2-2021",
+"path": "local/constanta/ostrov/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 2/2021 privind acoportunitatea vânzarii imobilului, insusirea raportului de evaluare si aprobarea vanzarii prin licitatie publica si a documentatiei de atribuire",
+"short": "HCL Ostrov nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31459",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-3-2021",
 "path": "local/constanta/ostrov/2021/3",
 "kind": "local",
@@ -88,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-6-2021",
+"path": "local/constanta/ostrov/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 6/2021 privind aprobarea Actului aditional nr.1 la Documentul de pozitie, avizarea Documentatieide atribuire a contractului de delegare, prin concesiune, a gestiunii serviciului de salubrizare aferent Proiectului \"Sistem de Management Integrat al Deseurilor in JUd. Constanta\"",
+"short": "HCL Ostrov nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31463",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-7-2021",
+"path": "local/constanta/ostrov/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 7/2021 privind aprobarea numarului maxim al asistentilor personali ai persoanelor cu handicap ce vor fi incadrati la nivelul Primariei Ostrov pe anul 2021",
+"short": "HCL Ostrov nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31464",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +224,72 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-11-2021",
+"path": "local/constanta/ostrov/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 11/2021 privind aprobarea Planului anual de actiuni si lucrari de interes local pentru persoanele apte de munca beneficiare de venit minim garantat pe anul 2021",
+"short": "HCL Ostrov nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31468",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-12-2021",
+"path": "local/constanta/ostrov/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 12/2021 privind aprobarea prelungirii contractelor de inchiriere a terenurilor si spatiilor din domeniul public si privat al comunei Ostrov",
+"short": "HCL Ostrov nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31469",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-13-2021",
+"path": "local/constanta/ostrov/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 13/2021 privind alegerea presedintelui de sedinta pentru o perioada de trei luni",
+"short": "HCL Ostrov nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31470",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-14-2021",
 "path": "local/constanta/ostrov/2021/14",
 "kind": "local",
@@ -199,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-17-2021",
+"path": "local/constanta/ostrov/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 17/2021 privind stabilirea unor criterii proprii de evaluare a veniturilor potential necesare determinarii venitului net lunar al beneficiarului de ajutor social",
+"short": "HCL Ostrov nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31474",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +422,29 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-21-2021",
+"path": "local/constanta/ostrov/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 21/2021",
+"short": "HCL Ostrov nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31478",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-22-2021",
 "path": "local/constanta/ostrov/2021/22",
 "kind": "local",
@@ -309,6 +486,29 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-24-2021",
+"path": "local/constanta/ostrov/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 24/2021",
+"short": "HCL Ostrov nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31481",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -422,6 +622,72 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-30-2021",
+"path": "local/constanta/ostrov/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 30/2021 privind îndreptarea erorii materiale din conținutul HCL nr.25/26.02.2021",
+"short": "HCL Ostrov nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-12",
+"latest": "2021-04-12",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31487",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-31-2021",
+"path": "local/constanta/ostrov/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 31/2021 privind aprobarea încheierii unui Protocol de colaborare privind prestarea serviciului de gestionare a câinilor fără stăpân",
+"short": "HCL Ostrov nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-12",
+"latest": "2021-04-12",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31488",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-32-2021",
+"path": "local/constanta/ostrov/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 32/2021 privind aprobarea trecerii în proprietatea privată a comunei a unui teren situat în comuna Ostrov",
+"short": "HCL Ostrov nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-12",
+"latest": "2021-04-12",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31489",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-33-2021",
 "path": "local/constanta/ostrov/2021/33",
 "kind": "local",
@@ -463,6 +729,229 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-35-2021",
+"path": "local/constanta/ostrov/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 35/2021 privind alocarea unei sume în vederea reabilitării Parcului Cămin Cultural Ostrov",
+"short": "HCL Ostrov nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31492",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-36-2021",
+"path": "local/constanta/ostrov/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 36/2021 privind aprobarea achiziționării unor sisteme de supraveghere video în comuna Ostrov",
+"short": "HCL Ostrov nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31493",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-37-2021",
+"path": "local/constanta/ostrov/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 37/2021 privind închirierea a 2 mp teren situat lângă DC44(DN3 –Bugeac) proprietate publică către SC Complex Grup",
+"short": "HCL Ostrov nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31494",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-38-2021",
+"path": "local/constanta/ostrov/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 38/2021 privind aprobarea preluării contractului de închiriere a suprafeței de 50 mp (farmacie ) de către SC FARM NIKOSIL SRL",
+"short": "HCL Ostrov nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31495",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-39-2021",
+"path": "local/constanta/ostrov/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 39/2021",
+"short": "HCL Ostrov nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31496",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-40-2021",
+"path": "local/constanta/ostrov/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 40/2021 privind aprobarea vânzării prin licitație a două loturi de teren intravilan situate în localitatea Ostrov",
+"short": "HCL Ostrov nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31497",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-41-2021",
+"path": "local/constanta/ostrov/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 41/2021",
+"short": "HCL Ostrov nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31498",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-42-2021",
+"path": "local/constanta/ostrov/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 42/2021",
+"short": "HCL Ostrov nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31499",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-43-2021",
+"path": "local/constanta/ostrov/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 43/2021 privind aprobarea dreptului de uz și servitute legală către E-Distribuție Dobrogea pentru unele suprafețe de teren",
+"short": "HCL Ostrov nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31500",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-44-2021",
+"path": "local/constanta/ostrov/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 44/2021 privind alegerea președintelui de ședintă pentru o perioadă de 3 luni",
+"short": "HCL Ostrov nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31505",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/constanta/poarta-alba/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--poarta-alba-1-2020",
+   "path": "local/constanta/poarta-alba/2020/1",
+   "short": "HCL Poarta Albă nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 1/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/1125",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-10-2020",
    "path": "local/constanta/poarta-alba/2020/10",
    "short": "HCL Poarta Albă nr. 10/2020",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--poarta-alba-14-2020",
+   "path": "local/constanta/poarta-alba/2020/14",
+   "short": "HCL Poarta Albă nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 14/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/1138",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-15-2020",
    "path": "local/constanta/poarta-alba/2020/15",
    "short": "HCL Poarta Albă nr. 15/2020",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--poarta-alba-16-2020",
+   "path": "local/constanta/poarta-alba/2020/16",
+   "short": "HCL Poarta Albă nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 16/2020 privind aprobarea rapoartelor de expertiză tehnică și evaluare a unor terenuri situate în comuna Poarta Albă, județul Constanța",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/1140",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1140",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-17-2020",
    "path": "local/constanta/poarta-alba/2020/17",
    "short": "HCL Poarta Albă nr. 17/2020",
@@ -88,6 +133,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-18-2020",
+   "path": "local/constanta/poarta-alba/2020/18",
+   "short": "HCL Poarta Albă nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 18/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/1142",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1142",
      "sha256": null
     }
    ]
@@ -138,6 +198,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--poarta-alba-21-2020",
+   "path": "local/constanta/poarta-alba/2020/21",
+   "short": "HCL Poarta Albă nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 21/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2519",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-22-2020",
+   "path": "local/constanta/poarta-alba/2020/22",
+   "short": "HCL Poarta Albă nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 22/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2520",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-23-2020",
+   "path": "local/constanta/poarta-alba/2020/23",
+   "short": "HCL Poarta Albă nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 23/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2521",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-24-2020",
+   "path": "local/constanta/poarta-alba/2020/24",
+   "short": "HCL Poarta Albă nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 24/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2522",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-25-2020",
+   "path": "local/constanta/poarta-alba/2020/25",
+   "short": "HCL Poarta Albă nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 25/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2523",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-26-2020",
+   "path": "local/constanta/poarta-alba/2020/26",
+   "short": "HCL Poarta Albă nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 26/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2524",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-27-2020",
+   "path": "local/constanta/poarta-alba/2020/27",
+   "short": "HCL Poarta Albă nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 27/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2525",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-28-2020",
    "path": "local/constanta/poarta-alba/2020/28",
    "short": "HCL Poarta Albă nr. 28/2020",
@@ -178,6 +343,36 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-30-2020",
+   "path": "local/constanta/poarta-alba/2020/30",
+   "short": "HCL Poarta Albă nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 30/2020 privind însușirea raportului elaborat de Primarul comunei, privind starea economică, socială și de mediu a unității administrativ – teritoriale comuna Poarta Albă, aferent anului 2019",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2528",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-31-2020",
+   "path": "local/constanta/poarta-alba/2020/31",
+   "short": "HCL Poarta Albă nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 31/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2529",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2529",
      "sha256": null
     }
    ]
@@ -273,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--poarta-alba-38-2020",
+   "path": "local/constanta/poarta-alba/2020/38",
+   "short": "HCL Poarta Albă nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 38/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2577",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-39-2020",
+   "path": "local/constanta/poarta-alba/2020/39",
+   "short": "HCL Poarta Albă nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 39/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2578",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2578",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-4-2020",
    "path": "local/constanta/poarta-alba/2020/4",
    "short": "HCL Poarta Albă nr. 4/2020",
@@ -283,6 +508,36 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-40-2020",
+   "path": "local/constanta/poarta-alba/2020/40",
+   "short": "HCL Poarta Albă nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 40/2020 privind aprobarea prelungirii duratei contractului de concesiune nr.1010/15.03.2005 pentru spațiul cu destinația de cabinet medical",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2579",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-41-2020",
+   "path": "local/constanta/poarta-alba/2020/41",
+   "short": "HCL Poarta Albă nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 41/2020 privind aprobarea prelungirii duratei contractului de concesiune nr.1012/15.03.2005 pentru spațiul cu destinația de cabinet medical",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2580",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2580",
      "sha256": null
     }
    ]
@@ -318,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--poarta-alba-44-2020",
+   "path": "local/constanta/poarta-alba/2020/44",
+   "short": "HCL Poarta Albă nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 44/2020 privind aprobarea raportului de expertiză tehnică și evaluare a unui teren situat în comuna Poarta Albă, județul Constanța",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2583",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-45-2020",
    "path": "local/constanta/poarta-alba/2020/45",
    "short": "HCL Poarta Albă nr. 45/2020",
@@ -343,6 +613,36 @@
      "from": "2020-03-26",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-47-2020",
+   "path": "local/constanta/poarta-alba/2020/47",
+   "short": "HCL Poarta Albă nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 47/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2586",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-48-2020",
+   "path": "local/constanta/poarta-alba/2020/48",
+   "short": "HCL Poarta Albă nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 48/2020 privind preluarea dreptului de concesiune",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2587",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2587",
      "sha256": null
     }
    ]
@@ -403,6 +703,21 @@
      "from": "2020-04-30",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-52-2020",
+   "path": "local/constanta/poarta-alba/2020/52",
+   "short": "HCL Poarta Albă nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 52/2020 privind însușirea și aprobarea raportului de expertiză tehnică și evaluare a unui teren situat în comuna Poarta Albă, judeșul Constanța",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/2591",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/2591",
      "sha256": null
     }
    ]
@@ -748,6 +1063,36 @@
      "from": "2020-06-25",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/5858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-8-2020",
+   "path": "local/constanta/poarta-alba/2020/8",
+   "short": "HCL Poarta Albă nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 8/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/1132",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-9-2020",
+   "path": "local/constanta/poarta-alba/2020/9",
+   "short": "HCL Poarta Albă nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 9/2020",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/1133",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/1133",
      "sha256": null
     }
    ]

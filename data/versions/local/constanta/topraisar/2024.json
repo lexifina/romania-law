@@ -3,6 +3,231 @@
  "shard": "local/constanta/topraisar/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--topraisar-1-2024",
+   "path": "local/constanta/topraisar/2024/1",
+   "short": "HCL Topraisar nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 1/2024 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Topraisar, județul Constanța",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142061",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-10-2024",
+   "path": "local/constanta/topraisar/2024/10",
+   "short": "HCL Topraisar nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 10/2024 privind aprobarea planului de acțiuni/lucrări de interes local privind venitul minim de incluziune pentru anul 2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142070",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-11-2024",
+   "path": "local/constanta/topraisar/2024/11",
+   "short": "HCL Topraisar nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 11/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152991",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-12-2024",
+   "path": "local/constanta/topraisar/2024/12",
+   "short": "HCL Topraisar nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 12/2024 îndreptarea erorii materiale strecurate în HCL Topraisar nr. 9 din 08.02.2024 privind modificarea tarifelor pentru activitatea de colectare separată și transportul separat al deșeurilor municipale din Contractul nr. 33/03.01.2019 și a tarifelor pentru activitățile de sortare, tartare mecano-biologică și depozitare a deșeurilor municipale fără punerea la dispoziție a infrastructurii din Contractul nr. 1420/31.01.2023",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152992",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-13-2024",
+   "path": "local/constanta/topraisar/2024/13",
+   "short": "HCL Topraisar nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 13/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152993",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-14-2024",
+   "path": "local/constanta/topraisar/2024/14",
+   "short": "HCL Topraisar nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 14/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152994",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-15-2024",
+   "path": "local/constanta/topraisar/2024/15",
+   "short": "HCL Topraisar nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 15/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152995",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-16-2024",
+   "path": "local/constanta/topraisar/2024/16",
+   "short": "HCL Topraisar nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 16/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152996",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-17-2024",
+   "path": "local/constanta/topraisar/2024/17",
+   "short": "HCL Topraisar nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 17/2024 privind modificarea Hotărârii consiliului local al comunei Topraisar nr. 77 din 07 decembrie 2023",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152997",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-18-2024",
+   "path": "local/constanta/topraisar/2024/18",
+   "short": "HCL Topraisar nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 18/2024 privind aprobarea Planului de acţiune privind serviciile sociale administrate şi finanţate din bugetul Comunei Topraisar pentru anul 2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152998",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-19-2024",
+   "path": "local/constanta/topraisar/2024/19",
+   "short": "HCL Topraisar nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 19/2024 privind aprobarea Programului de acțiuni comunitare pentru prevenirea și combaterea riscului de sărăcie și excluziune socială pentru anul 2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/152999",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/152999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-2-2024",
+   "path": "local/constanta/topraisar/2024/2",
+   "short": "HCL Topraisar nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 2/2024 privind organizarea rețelei școlare a unităților de învățământ din comuna Topraisar în anul școlar 2024-2025",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142062",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-20-2024",
+   "path": "local/constanta/topraisar/2024/20",
+   "short": "HCL Topraisar nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 20/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/153000",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/153000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-21-2024",
+   "path": "local/constanta/topraisar/2024/21",
+   "short": "HCL Topraisar nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 21/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/153001",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/153001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-22-2024",
+   "path": "local/constanta/topraisar/2024/22",
+   "short": "HCL Topraisar nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 22/2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții “EXTINDERE REȚEA DE CANALIZARE MENAJERĂ, SAT TOPRAISAR, COM. TOPRAISAR, JUD. CONSTANȚA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/153002",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/153002",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--topraisar-23-2024",
    "path": "local/constanta/topraisar/2024/23",
    "short": "HCL Topraisar nr. 23/2024",
@@ -13,6 +238,141 @@
      "from": "2024-05-15",
      "units": 1,
      "source_url": "https://emol.ro/topraisar-ct/registru-hcl/153003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-24-2024",
+   "path": "local/constanta/topraisar/2024/24",
+   "short": "HCL Topraisar nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 24/2024 privind rectificarea bugetului local al comunei Topraisar pentru anul 2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/153004",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/153004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-25-2024",
+   "path": "local/constanta/topraisar/2024/25",
+   "short": "HCL Topraisar nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 25/2024 privind modificarea Hotărârii Consiliului local al Comunei Topraisar nr. 66 din 25.10.2023 privind aprobarea depunerii si implementării proiectului Înființarea și dotarea sistemelor integrate de colectare și valorificare a gunoiului de grajd, Comuna Topraisar, județul Constanta",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/155913",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/155913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-26-2024",
+   "path": "local/constanta/topraisar/2024/26",
+   "short": "HCL Topraisar nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 26/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ÎNFIINȚAREA ȘI DOTAREA SISTEMELOR INTEGRATE DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD, COMUNA TOPRAISAR, JUDEȚUL CONSTANȚA",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/155914",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/155914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-27-2024",
+   "path": "local/constanta/topraisar/2024/27",
+   "short": "HCL Topraisar nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 27/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/163501",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/163501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-28-2024",
+   "path": "local/constanta/topraisar/2024/28",
+   "short": "HCL Topraisar nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 28/2024 privind atribuirea/darea în folosință gratuită a suprafetelor de teren din domeniul public al UAT Topraisar în vederea construirii și punerii în funcțiune a investițiilor din cadrul Proiectului “Etapizarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în aria de operare a SC RAJA SA Constanța în perioada 2014-2020”",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/163502",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/163502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-29-2024",
+   "path": "local/constanta/topraisar/2024/29",
+   "short": "HCL Topraisar nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 29/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/163503",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/163503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-3-2024",
+   "path": "local/constanta/topraisar/2024/3",
+   "short": "HCL Topraisar nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 3/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142063",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-30-2024",
+   "path": "local/constanta/topraisar/2024/30",
+   "short": "HCL Topraisar nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 30/2024 privind rectificarea bugetului local al comunei Topraisar pentru anul 2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/163504",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/163504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-31-2024",
+   "path": "local/constanta/topraisar/2024/31",
+   "short": "HCL Topraisar nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 31/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/163505",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/163505",
      "sha256": null
     }
    ]
@@ -33,6 +393,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--topraisar-33-2024",
+   "path": "local/constanta/topraisar/2024/33",
+   "short": "HCL Topraisar nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 33/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/168638",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/168638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-34-2024",
+   "path": "local/constanta/topraisar/2024/34",
+   "short": "HCL Topraisar nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 34/2024 privind aprobarea închirierii prin licitație publică deschisă a două loturi de teren aflate în proprietatea Comunei Topraisar, domeniu privat",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/168639",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/168639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-35-2024",
+   "path": "local/constanta/topraisar/2024/35",
+   "short": "HCL Topraisar nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 35/2024 privind rectificarea bugetului local al comunei Topraisar pentru anul 2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/168640",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/168640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-36-2024",
+   "path": "local/constanta/topraisar/2024/36",
+   "short": "HCL Topraisar nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 36/2024",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/168641",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/168641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-37-2024",
+   "path": "local/constanta/topraisar/2024/37",
+   "short": "HCL Topraisar nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 37/2024 privind aprobarea încheierii unui acord-cadru pentru servicii de întreținere spații verzi",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/168642",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/168642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-38-2024",
+   "path": "local/constanta/topraisar/2024/38",
+   "short": "HCL Topraisar nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 38/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/172302",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/172302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-39-2024",
+   "path": "local/constanta/topraisar/2024/39",
+   "short": "HCL Topraisar nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 39/2024 privind aprobarea proiectului „Diversificarea serviciilor de educaţie timpurie în judeţul Constanţa”, a cheltuielilor aferente şi a Acordului - cadru de parteneriat pentru realizarea proiectului",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/172303",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/172303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--topraisar-4-2024",
    "path": "local/constanta/topraisar/2024/4",
    "short": "HCL Topraisar nr. 4/2024",
@@ -43,6 +508,21 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-40-2024",
+   "path": "local/constanta/topraisar/2024/40",
+   "short": "HCL Topraisar nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 40/2024 privind aprobarea retragerii dreptului de folosință asupra unor terenuri atribuite în baza legii 15/2003",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/172304",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/172304",
      "sha256": null
     }
    ]
@@ -178,6 +658,21 @@
      "from": "2024-12-03",
      "units": 1,
      "source_url": "https://emol.ro/topraisar-ct/registru-hcl/178223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-5-2024",
+   "path": "local/constanta/topraisar/2024/5",
+   "short": "HCL Topraisar nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 5/2024 privind utilizarea excedentului de la finele anului 2023 și anilor precedenți pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142065",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142065",
      "sha256": null
     }
    ]
@@ -358,6 +853,51 @@
      "from": "2025-01-21",
      "units": 1,
      "source_url": "https://emol.ro/topraisar-ct/registru-hcl/184768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-7-2024",
+   "path": "local/constanta/topraisar/2024/7",
+   "short": "HCL Topraisar nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 7/2024 privind analiza stadiului de înscriere a datelor în registrul agricol și aprobarea Programului de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol al comunei Topraisar, județul Constanța",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142067",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-8-2024",
+   "path": "local/constanta/topraisar/2024/8",
+   "short": "HCL Topraisar nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 8/2024 privind aprobarea organigramei și a statului de funcții ale comunei Topraisar",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142068",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--topraisar-9-2024",
+   "path": "local/constanta/topraisar/2024/9",
+   "short": "HCL Topraisar nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topraisar nr. 9/2024 modificarea tarifelor pentru activitatea de colectare separată și transportul separat al deșeurilor municipale din Contractul nr. 33/03.01.2019 și a tarifelor pentru activitățile de sortare, tartare mecano-biologică și depozitare a deșeurilor municipale fără punerea la dispoziție a infrastructurii din Contractul nr. 1420/31.01.2023",
+   "url": "https://emol.ro/topraisar-ct/registru-hcl/142069",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topraisar-ct/registru-hcl/142069",
      "sha256": null
     }
    ]

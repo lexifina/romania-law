@@ -3,6 +3,156 @@
  "shard": "local/constanta/oltina/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--oltina-1-2026",
+   "path": "local/constanta/oltina/2026/1",
+   "short": "HCL Oltina nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 1/2026 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ IN PERIOADA FEBRUARIE 2026 – APRILIE 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261989",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-10-2026",
+   "path": "local/constanta/oltina/2026/10",
+   "short": "HCL Oltina nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 10/2026 privind actualizarea comisiilor de specialitate ale Consiliului Local al comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/262071",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/262071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-11-2026",
+   "path": "local/constanta/oltina/2026/11",
+   "short": "HCL Oltina nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 11/2026 privind revocarea Hotararii Consiliului Local al comunei Oltina nr.51 din 09.09.2025 privind atestarea apartenenței la domeniul privat al comunei Oltina, judetul Constanta a unor imobile terenuri",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/262072",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/262072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-12-2026",
+   "path": "local/constanta/oltina/2026/12",
+   "short": "HCL Oltina nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 12/2026 privind aprobarea organigramei si a statului de functii al aparatului de specialitate al primarului comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/262078",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/262078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-13-2026",
+   "path": "local/constanta/oltina/2026/13",
+   "short": "HCL Oltina nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 13/2026 privind modificarea si completarea Hotararii Consiliului Local nr. 78 din 22 decembrie 2025 privind stabilirea impozitelor si taxelor locale precum si a taxelor speciale ale Comunei Oltina, judetul Constanta pentru anul 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/262079",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/262079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-14-2026",
+   "path": "local/constanta/oltina/2026/14",
+   "short": "HCL Oltina nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 14/2026 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ IN PERIOADA MAI 2026 – IULIE 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/265673",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/265673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-15-2026",
+   "path": "local/constanta/oltina/2026/15",
+   "short": "HCL Oltina nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 15/2026 privind aprobarea execuției bugetului local de venituri si cheltuieli al Comunei Oltina, judetul Constanta pentru trimestrul I al anului 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/265674",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/265674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-16-2026",
+   "path": "local/constanta/oltina/2026/16",
+   "short": "HCL Oltina nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 16/2026 privind aprobarea Programului de actiune comunitară destinat prevenirii si combaterii riscului de sărăcie si excluziune socială, la nivelul UAT Comunei Oltina, Judetul Constanta pentru anul 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/265675",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/265675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-17-2026",
+   "path": "local/constanta/oltina/2026/17",
+   "short": "HCL Oltina nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 17/2026 privind aprobarea Organigramei si a Statului de functii a Serviciului Public de Alimentare cu Apă și Canalizare la nivelul comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/265676",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/265676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-18-2026",
+   "path": "local/constanta/oltina/2026/18",
+   "short": "HCL Oltina nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 18/2026 privind actualizarea indicatorilor economici privind cheltuielile necesare realizarii documentatiei de urbanism cu privire la actualizarea Planului Urbanistic General (P.U.G) al comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/265677",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/265677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-19-2026",
    "path": "local/constanta/oltina/2026/19",
    "short": "HCL Oltina nr. 19/2026",
@@ -13,6 +163,36 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/265678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-2-2026",
+   "path": "local/constanta/oltina/2026/2",
+   "short": "HCL Oltina nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 2/2026 privind validarea Dispozitiei nr.3 din 8 ianuarie 2026 privind acoperirea definitivă a deficitului secţiunii de dezvoltare si a sectiunii de functionare pe anul 2025 al Sursei A a bugetului local din excedentul bugetului local al comunei Oltina, jud. Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261990",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-20-2026",
+   "path": "local/constanta/oltina/2026/20",
+   "short": "HCL Oltina nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 20/2026 privind ACTUALIZAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE A APARATULUI DE SPECIALITATE AL PRIMARULUI COMUNEI OLTINA, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/265679",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/265679",
      "sha256": null
     }
    ]
@@ -148,6 +328,21 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/283353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-3-2026",
+   "path": "local/constanta/oltina/2026/3",
+   "short": "HCL Oltina nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 3/2026 privind validarea Dispozitiei nr.4 din 8 ianuarie 2026 privind acoperirea definitivă a deficitului secţiunii de functionare pe anul 2025 al Serviciului Public de Alimentare cu Apa si Canalizare Oltina din excedentul anilor precedenti",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261991",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261991",
      "sha256": null
     }
    ]
@@ -303,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--oltina-4-2026",
+   "path": "local/constanta/oltina/2026/4",
+   "short": "HCL Oltina nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 4/2026 privind aprobarea execuției bugetului local de venituri si cheltuieli al Comunei Oltina, judetul Constanta pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261992",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-40-2026",
    "path": "local/constanta/oltina/2026/40",
    "short": "HCL Oltina nr. 40/2026",
@@ -313,6 +523,81 @@
      "from": "2026-09-23",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/297366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-5-2026",
+   "path": "local/constanta/oltina/2026/5",
+   "short": "HCL Oltina nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 5/2026 privind aprobarea utilizarii excedentului bugetului local al comunei Oltina, judetul Constanta rezultat la incheierea exercitiului bugetar al anului 2025 ca sursa de finantare a sectiunii de functionare pe anul 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261993",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-6-2026",
+   "path": "local/constanta/oltina/2026/6",
+   "short": "HCL Oltina nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 6/2026 privind aprobarea planului de acțiuni si de lucrări de interes local pentru persoanele apte de muncă care beneficiaza de venitul minim de incluziune în anul 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261994",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-7-2026",
+   "path": "local/constanta/oltina/2026/7",
+   "short": "HCL Oltina nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 7/2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/261995",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/261995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-8-2026",
+   "path": "local/constanta/oltina/2026/8",
+   "short": "HCL Oltina nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 8/2026 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU SEDINTA ORDINARA A CONSILIULUI LOCAL AL COMUNEI OLTINA, JUDETUL CONSTANTA DIN DATA DE 24.02.2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/262069",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/262069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-9-2026",
+   "path": "local/constanta/oltina/2026/9",
+   "short": "HCL Oltina nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 9/2026 privind însușirea rezultatului inventarierii anuale a bunurilor aparținând comunei Oltina pentru anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/262070",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/262070",
      "sha256": null
     }
    ]

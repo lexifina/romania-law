@@ -3,6 +3,441 @@
  "shard": "local/constanta/oltina/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--oltina-1-2025",
+   "path": "local/constanta/oltina/2025/1",
+   "short": "HCL Oltina nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 1/2025 privind alegerea președintelui de ședință in perioada februarie 2025 – aprilie 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197968",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-10-2025",
+   "path": "local/constanta/oltina/2025/10",
+   "short": "HCL Oltina nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 10/2025 privind actualizarea indicatorilor tehnico-economici si a devizului general aferent obiectivului de investitii ,,CONSOLIDARE SI REABILITARE TERMICA MODERATA GRADINITA NR.2, LOCALITATEA OLTINA, COMUNA OLTINA , JUDETUL CONSTANTA\"",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209016",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-11-2025",
+   "path": "local/constanta/oltina/2025/11",
+   "short": "HCL Oltina nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 11/2025 privind atestarea apartenenței la domeniul privat al comunei Oltina, judetul Constanta a unui imobil teren",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209017",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-12-2025",
+   "path": "local/constanta/oltina/2025/12",
+   "short": "HCL Oltina nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 12/2025 privind aprobarea dãrii în administrare cãtre Şcoala Gimnazialã nr.1 Oltina a imobilului scoalã modernizatã",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209018",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-13-2025",
+   "path": "local/constanta/oltina/2025/13",
+   "short": "HCL Oltina nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 13/2025 privind aprobarea dãrii în administrare cãtre Şcoala Gimnazialã nr.1 Oltina a imobilului grãdiniţã modernizatã",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209019",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-14-2025",
+   "path": "local/constanta/oltina/2025/14",
+   "short": "HCL Oltina nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 14/2025 privind ACTUALIZAREA INVENTARULUI BUNURILOR CE ALCATUIESC DOMENIUL PRIVAT AL COMUNEI OLTINA, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209020",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-15-2025",
+   "path": "local/constanta/oltina/2025/15",
+   "short": "HCL Oltina nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 15/2025 privind aprobarea susţinerii financiare a Asociaţiei sportive SPORT PRIM OLTINA în anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209021",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-16-2025",
+   "path": "local/constanta/oltina/2025/16",
+   "short": "HCL Oltina nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 16/2025 privind aprobarea indexarii impozitelor si taxelor locale precum si a taxelor speciale ale Comunei Oltina, judetul Constanta pentru anul 2026 cu rata inflatiei de 5,6%",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209022",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-17-2025",
+   "path": "local/constanta/oltina/2025/17",
+   "short": "HCL Oltina nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 17/2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209023",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-18-2025",
+   "path": "local/constanta/oltina/2025/18",
+   "short": "HCL Oltina nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 18/2025 privind APROBAREA ORGANIZÃRII PRECUM SI A CHELTUIELILOR PENTRU ORGANIZAREA EVENIMENTULUI „ZIUA OLTINEI” ÎN DATA DE 23.04.2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209024",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-19-2025",
+   "path": "local/constanta/oltina/2025/19",
+   "short": "HCL Oltina nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 19/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 al Comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209028",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-2-2025",
+   "path": "local/constanta/oltina/2025/2",
+   "short": "HCL Oltina nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 2/2025 privind aprobarea execuției bugetului local al Comunei Oltina , judetul Constanta pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197969",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-20-2025",
+   "path": "local/constanta/oltina/2025/20",
+   "short": "HCL Oltina nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 20/2025 privind aprobarea traseelor și locurilor de îmbarcare/debarcare pentru autovehiculele școlare destinate transportului elevilor din învățământul preuniversitar de stat din comuna Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209029",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-21-2025",
+   "path": "local/constanta/oltina/2025/21",
+   "short": "HCL Oltina nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 21/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209030",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-22-2025",
+   "path": "local/constanta/oltina/2025/22",
+   "short": "HCL Oltina nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 22/2025 privind însușirea rezultatului inventarierii anuale a bunurilor aparținând comunei Oltina pentru anul 2024",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209031",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-23-2025",
+   "path": "local/constanta/oltina/2025/23",
+   "short": "HCL Oltina nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 23/2025 privind alegerea președintelui de ședință in perioada mai 2025 – iulie 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209036",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-24-2025",
+   "path": "local/constanta/oltina/2025/24",
+   "short": "HCL Oltina nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 24/2025 privind aprobarea execuției bugetului local de venituri si cheltuieli al Comunei Oltina, judetul Constanta pentru trimestrul I al anului 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209037",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-25-2025",
+   "path": "local/constanta/oltina/2025/25",
+   "short": "HCL Oltina nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 25/2025 privind aprobarea proiectului „Diversificarea serviciilor de educaţie timpurie în judeţul Constanţa”, a cheltuielilor aferente şi a Acordului - cadru de parteneriat pentru realizarea proiectului",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209038",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-26-2025",
+   "path": "local/constanta/oltina/2025/26",
+   "short": "HCL Oltina nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 26/2025 privind aprobarea actualizarii valorii de inventar a imobilului scoala, din localitatea Oltina, judetul Constanta in urma finalizarii proiectului \"Reabilitare, modernizare, extindere si dotare Scoala gimnaziala nr. 1, Oltina, jud. Constanta\" COD SMIS 121923",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209039",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-27-2025",
+   "path": "local/constanta/oltina/2025/27",
+   "short": "HCL Oltina nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 27/2025 privind aprobarea actualizarii valorii de inventar a strazilor Scolii si Bisericii si retelei de alimentare cu apa in loc. Răzoarele, com. Oltina, jud. Constanta ca urmare a finalizarii proiectului ,,Reabilitarea si redimensionarea retelei de alimentare cu apa in loc. Răzoarele, com. Oltina, jud. Constanta”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209040",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-28-2025",
+   "path": "local/constanta/oltina/2025/28",
+   "short": "HCL Oltina nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 28/2025 privind aprobarea Regulamentului privind autorizarea şi funcţionarea agentilor economici care desfășoară activități comerciale pe raza Comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209041",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-29-2025",
+   "path": "local/constanta/oltina/2025/29",
+   "short": "HCL Oltina nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 29/2025 privind APROBAREA ACTULUI ADIȚIONAL NR. 2 LA DOCUMENTUL DE POZIȚIE PRIVIND MODUL DE IMPLEMENTARE A PROIECTULUI „SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR ÎN JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209048",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-3-2025",
+   "path": "local/constanta/oltina/2025/3",
+   "short": "HCL Oltina nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 3/2025 privind aprobarea utilizarii excedentului bugetului local al comunei Oltina, judetul Constanta rezultat la incheierea exercitiului bugetar al anului 2024 ca sursa de finantare a sectiunii de dezvoltare si a sectiunii de functionare pe anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197970",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-30-2025",
+   "path": "local/constanta/oltina/2025/30",
+   "short": "HCL Oltina nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 30/2025 privind APROBAREA ÎNCHIRIERII PRIN ATRIBUIRE DIRECTĂ A UNOR SUPRAFETE DE PAJISTI AFLATE ÎN DOMENIUL PRIVAT AL COMUNEI OLTINA, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209049",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-31-2025",
+   "path": "local/constanta/oltina/2025/31",
+   "short": "HCL Oltina nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 31/2025 privind APROBAREA REGULAMENTULUI PENTRU AMPLASAREA CONSTRUCTIILOR, INSTALATIILOR SI PANOURILOR PUBLICITARE IN ZONA DRUMURILOR DE INTERES LOCAL ALE COMUNEI OLTINA, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209050",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-32-2025",
+   "path": "local/constanta/oltina/2025/32",
+   "short": "HCL Oltina nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 32/2025 privind aprobarea unor cheltuieli pentru deplasarea copiilor din comuna Oltina, judetul Constanta la parcul acvatic Aqua Magic Mamaia",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209051",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-33-2025",
+   "path": "local/constanta/oltina/2025/33",
+   "short": "HCL Oltina nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 33/2025 privind ACTUALIZAREA INVENTARULUI BUNURILOR CE ALCATUIESC DOMENIUL PUBLIC AL COMUNEI OLTINA, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209052",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-34-2025",
+   "path": "local/constanta/oltina/2025/34",
+   "short": "HCL Oltina nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 34/2025 privind stabilirea tarifului pentru activitatea de colectare separata si transportul separat al deseurilor reziduale, din contractul de servicii privind delegarea gestiunii prin concesiune a unei parti a serviciului de salubrizare al Asociatiei de Dezvoltare Intercomunitara Grup Local de Actiune Deleni, jud. Constanta, nr.16/17.05.2012",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209053",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-35-2025",
+   "path": "local/constanta/oltina/2025/35",
+   "short": "HCL Oltina nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 35/2025 privind APROBAREA CONTRACTĂRII UNUI ÎMPRUMUT ÎN VALOARE DE 1.500.000 LEI, ÎN CONFORMITATE CU PREVEDERILE ART. 1 DIN ORDONANȚA DE URGENȚĂ A GUVERNULUI NR. 25/2025 PENTRU ASIGURAREA UNOR ÎMPRUMUTURI DIN TREZORERIA STATULUI",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209062",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209062",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-36-2025",
    "path": "local/constanta/oltina/2025/36",
    "short": "HCL Oltina nr. 36/2025",
@@ -48,6 +483,336 @@
    ]
   },
   {
+   "slug": "hcl-constanta--oltina-39-2025",
+   "path": "local/constanta/oltina/2025/39",
+   "short": "HCL Oltina nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 39/2025 privind alegerea președintelui de ședință in perioada august 2025 – octombrie 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226182",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-4-2025",
+   "path": "local/constanta/oltina/2025/4",
+   "short": "HCL Oltina nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 4/2025 privind aprobarea planului de acțiuni si de lucrări de interes local pentru persoanele apte de muncă care beneficiaza de venitul minim de incluziune în anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197971",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-40-2025",
+   "path": "local/constanta/oltina/2025/40",
+   "short": "HCL Oltina nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 40/2025 privind aprobarea execuției bugetului local de venituri si cheltuieli al Comunei Oltina, judetul Constanta pentru trimestrul II al anului 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226183",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-41-2025",
+   "path": "local/constanta/oltina/2025/41",
+   "short": "HCL Oltina nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 41/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 al Comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226184",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-42-2025",
+   "path": "local/constanta/oltina/2025/42",
+   "short": "HCL Oltina nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 42/2025 privind aprobarea constituirii dreptului de uz si servitute cu titlu gratuit, in favoarea Reţele Electrice România SA asupra unui teren din domeniul privat al comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226185",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-43-2025",
+   "path": "local/constanta/oltina/2025/43",
+   "short": "HCL Oltina nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 43/2025 privind aprobarea consumului mediu de carburanți pentru autoturismele, autovehiculele și motoutilajele aflate în dotarea Primăriei comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226186",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-44-2025",
+   "path": "local/constanta/oltina/2025/44",
+   "short": "HCL Oltina nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 44/2025 privind aprobarea Organigramei si a Statului de functii a Serviciului Public de Alimentare cu Apă și Canalizare la nivelul comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226187",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-45-2025",
+   "path": "local/constanta/oltina/2025/45",
+   "short": "HCL Oltina nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 45/2025 privind stabilirea salariilor de bază pentru Serviciul Public de Alimentare cu Apa si Canalizare, serviciu public din subordinea Consiliului Local al comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226188",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-46-2025",
+   "path": "local/constanta/oltina/2025/46",
+   "short": "HCL Oltina nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 46/2025 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226189",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-47-2025",
+   "path": "local/constanta/oltina/2025/47",
+   "short": "HCL Oltina nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 47/2025 privind aprobarea Regulamentului privind stabilirea domeniilor serviciilor publice şi locurile în care contravenienţii vor presta activităţi în folosul comunităţii",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226190",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-48-2025",
+   "path": "local/constanta/oltina/2025/48",
+   "short": "HCL Oltina nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 48/2025 privind înfiinţarea a doua posturi contractuale de asistent medical comunitar in cadrul Compartimentului Asistenta sociala din aparatul de specialitate al primarului comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226191",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-49-2025",
+   "path": "local/constanta/oltina/2025/49",
+   "short": "HCL Oltina nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 49/2025 privind modificarea și completarea structurii organizatorice si a statului de functii al aparatului de specialitate al primarului comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226192",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-5-2025",
+   "path": "local/constanta/oltina/2025/5",
+   "short": "HCL Oltina nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 5/2025 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale acordate la nivelul Comunei Oltina, judetul Constanta pentru perioada 2025-2030",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197972",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-50-2025",
+   "path": "local/constanta/oltina/2025/50",
+   "short": "HCL Oltina nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 50/2025 privind rectificarea bugetului local al Comunei Oltina, judetul Constanta pe anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226193",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-51-2025",
+   "path": "local/constanta/oltina/2025/51",
+   "short": "HCL Oltina nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 51/2025 privind aprobarea atestarii apartenenței la domeniul privat al comunei Oltina, judetul Constanta a unor imobile terenuri",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226194",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-52-2025",
+   "path": "local/constanta/oltina/2025/52",
+   "short": "HCL Oltina nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 52/2025 privind aprobarea tarifelor pentru activitatea de colectare separata si transportul separat atat al deseurilor menajere reziduale cat si al deseurilor menajere reciclabile din contractul de servicii privind delegarea gestiunii prin concesiune a unei parti a serviciului de salubrizare al Asociatiei de Dezvoltare Intercomunitara Grup Local de Actiune Deleni, jud.Constanta, nr.16/17.05.2012",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226195",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-53-2025",
+   "path": "local/constanta/oltina/2025/53",
+   "short": "HCL Oltina nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 53/2025 privind aprobarea prelungirii termenului de finalizăre a proiectului „Centru multifunctional de asistenta sociala pentru persoane varstnice Altinum, Comuna Oltina, Judetul Constanta\" și a cheltuielilor estimate legate de acesta, în vederea asigurării funcționalității sale dar nu mai tarziu de 31.12.2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226196",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-54-2025",
+   "path": "local/constanta/oltina/2025/54",
+   "short": "HCL Oltina nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 54/2025 privind actualizarea Regulamentului de Organizare si Functionare al Serviciului Public de Alimentare cu Apa si Canalizare la nivelul comunei Oltina, județul Constanța",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226197",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-55-2025",
+   "path": "local/constanta/oltina/2025/55",
+   "short": "HCL Oltina nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 55/2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226198",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-56-2025",
+   "path": "local/constanta/oltina/2025/56",
+   "short": "HCL Oltina nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 56/2025 privind desemnarea reprezentantului Consiliului local al comunei Oltina în Consiliul de Administrație al Școlii gimnaziale nr. 1 Oltina, in anul scolar 2025 - 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/226199",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/226199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-57-2025",
+   "path": "local/constanta/oltina/2025/57",
+   "short": "HCL Oltina nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 57/2025 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ IN PERIOADA NOIEMBRIE 2025 – IANUARIE 2026",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/246507",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/246507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-58-2025",
+   "path": "local/constanta/oltina/2025/58",
+   "short": "HCL Oltina nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 58/2025 privind revocarea Hotararii Consiliului Local al comunei Oltina nr.11 din 25.03.2025 privind atestarea apartenenței la domeniul privat al comunei Oltina, judetul Constanta a unui imobil teren",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/246508",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/246508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-59-2025",
    "path": "local/constanta/oltina/2025/59",
    "short": "HCL Oltina nr. 59/2025",
@@ -58,6 +823,21 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/246509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-6-2025",
+   "path": "local/constanta/oltina/2025/6",
+   "short": "HCL Oltina nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 6/2025 privind aprobarea Planului anual de actiune privind serviciile sociale administrate şi finanţate din bugetul local al comunei Oltina pentru anul 2025",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197973",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197973",
      "sha256": null
     }
    ]
@@ -213,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--oltina-7-2025",
+   "path": "local/constanta/oltina/2025/7",
+   "short": "HCL Oltina nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 7/2025 privind desemnarea reprezentanţilor Consiliului Local Oltina în cadrul Adunării asociaţilor Asociaţiei Sportive „Sport Prim” Oltina",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197974",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197974",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-70-2025",
    "path": "local/constanta/oltina/2025/70",
    "short": "HCL Oltina nr. 70/2025",
@@ -343,6 +1138,36 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/262031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-8-2025",
+   "path": "local/constanta/oltina/2025/8",
+   "short": "HCL Oltina nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 8/2025 privind aprobarea indicatorilor economici privind cheltuielile necesare realizarii documentatiei de urbanism cu privire la actualizarea Planului Urbanistic General (P.U.G) al comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/197975",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/197975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-9-2025",
+   "path": "local/constanta/oltina/2025/9",
+   "short": "HCL Oltina nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 9/2025 privind APROBAREA BUGETULUI LOCAL DE VENITURI SI CHELTUIELI PE ANUL 2025 AL COMUNEI OLTINA, JUDETUL CONSTANTA",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/209015",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/209015",
      "sha256": null
     }
    ]

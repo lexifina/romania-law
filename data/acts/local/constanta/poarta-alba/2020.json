@@ -3,6 +3,28 @@
 "shard": "local/constanta/poarta-alba/2020",
 "acts": [
 {
+"slug": "hcl-constanta--poarta-alba-1-2020",
+"path": "local/constanta/poarta-alba/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 1/2020 privind alegerea președintelui de ședință",
+"short": "HCL Poarta Albă nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/1125",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-2-2020",
 "path": "local/constanta/poarta-alba/2020/2",
 "kind": "local",
@@ -135,6 +157,52 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-8-2020",
+"path": "local/constanta/poarta-alba/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 8/2020",
+"short": "HCL Poarta Albă nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/1132",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-9-2020",
+"path": "local/constanta/poarta-alba/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 9/2020",
+"short": "HCL Poarta Albă nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/1133",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-10-2020",
 "path": "local/constanta/poarta-alba/2020/10",
 "kind": "local",
@@ -223,6 +291,29 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-14-2020",
+"path": "local/constanta/poarta-alba/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 14/2020",
+"short": "HCL Poarta Albă nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/1138",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-15-2020",
 "path": "local/constanta/poarta-alba/2020/15",
 "kind": "local",
@@ -245,6 +336,28 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-16-2020",
+"path": "local/constanta/poarta-alba/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 16/2020 privind aprobarea rapoartelor de expertiză tehnică și evaluare a unor terenuri situate în comuna Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/1140",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-17-2020",
 "path": "local/constanta/poarta-alba/2020/17",
 "kind": "local",
@@ -264,6 +377,29 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-18-2020",
+"path": "local/constanta/poarta-alba/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 18/2020",
+"short": "HCL Poarta Albă nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/1142",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -311,6 +447,167 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-21-2020",
+"path": "local/constanta/poarta-alba/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 21/2020",
+"short": "HCL Poarta Albă nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2519",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-22-2020",
+"path": "local/constanta/poarta-alba/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 22/2020",
+"short": "HCL Poarta Albă nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2520",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-23-2020",
+"path": "local/constanta/poarta-alba/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 23/2020",
+"short": "HCL Poarta Albă nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2521",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-24-2020",
+"path": "local/constanta/poarta-alba/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 24/2020",
+"short": "HCL Poarta Albă nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2522",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-25-2020",
+"path": "local/constanta/poarta-alba/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 25/2020",
+"short": "HCL Poarta Albă nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2523",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-26-2020",
+"path": "local/constanta/poarta-alba/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 26/2020",
+"short": "HCL Poarta Albă nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2524",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-27-2020",
+"path": "local/constanta/poarta-alba/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 27/2020",
+"short": "HCL Poarta Albă nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2525",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-28-2020",
 "path": "local/constanta/poarta-alba/2020/28",
 "kind": "local",
@@ -352,6 +649,51 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-30-2020",
+"path": "local/constanta/poarta-alba/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 30/2020 privind însușirea raportului elaborat de Primarul comunei, privind starea economică, socială și de mediu a unității administrativ – teritoriale comuna Poarta Albă, aferent anului 2019",
+"short": "HCL Poarta Albă nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2528",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-31-2020",
+"path": "local/constanta/poarta-alba/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 31/2020",
+"short": "HCL Poarta Albă nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2529",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -487,6 +829,96 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-38-2020",
+"path": "local/constanta/poarta-alba/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 38/2020",
+"short": "HCL Poarta Albă nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2577",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-39-2020",
+"path": "local/constanta/poarta-alba/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 39/2020",
+"short": "HCL Poarta Albă nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2578",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-40-2020",
+"path": "local/constanta/poarta-alba/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 40/2020 privind aprobarea prelungirii duratei contractului de concesiune nr.1010/15.03.2005 pentru spațiul cu destinația de cabinet medical",
+"short": "HCL Poarta Albă nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2579",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-41-2020",
+"path": "local/constanta/poarta-alba/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 41/2020 privind aprobarea prelungirii duratei contractului de concesiune nr.1012/15.03.2005 pentru spațiul cu destinația de cabinet medical",
+"short": "HCL Poarta Albă nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2580",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-42-2020",
 "path": "local/constanta/poarta-alba/2020/42",
 "kind": "local",
@@ -531,6 +963,28 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-44-2020",
+"path": "local/constanta/poarta-alba/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 44/2020 privind aprobarea raportului de expertiză tehnică și evaluare a unui teren situat în comuna Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2583",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-45-2020",
 "path": "local/constanta/poarta-alba/2020/45",
 "kind": "local",
@@ -572,6 +1026,50 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-47-2020",
+"path": "local/constanta/poarta-alba/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 47/2020 privind alegerea președintelui de ședință",
+"short": "HCL Poarta Albă nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2586",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-48-2020",
+"path": "local/constanta/poarta-alba/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 48/2020 privind preluarea dreptului de concesiune",
+"short": "HCL Poarta Albă nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2587",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -638,6 +1136,28 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-52-2020",
+"path": "local/constanta/poarta-alba/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 52/2020 privind însușirea și aprobarea raportului de expertiză tehnică și evaluare a unui teren situat în comuna Poarta Albă, judeșul Constanța",
+"short": "HCL Poarta Albă nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/2591",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

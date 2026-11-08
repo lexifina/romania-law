@@ -3,6 +3,36 @@
  "shard": "local/constanta/saligny/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--saligny-1-2023",
+   "path": "local/constanta/saligny/2023/1",
+   "short": "HCL Saligny nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 1/2023 privind utilizarea excedentului bugetului local la 31.12.2022",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89914",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-10-2023",
+   "path": "local/constanta/saligny/2023/10",
+   "short": "HCL Saligny nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 10/2023 privind utilizarea excedentului bugetului local la 31.12.2022, sursa E pentru finanțarea cheltuielilor la secțiunea de funcționare, de către Școala Gimnazială nr. 1 Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89935",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89935",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-100-2023",
    "path": "local/constanta/saligny/2023/100",
    "short": "HCL Saligny nr. 100/2023",
@@ -138,6 +168,216 @@
    ]
   },
   {
+   "slug": "hcl-constanta--saligny-11-2023",
+   "path": "local/constanta/saligny/2023/11",
+   "short": "HCL Saligny nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 11/2023 privind aprobarea bugetului local al Comunei Saligny și a listei de investiții pe luna anul 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89936",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-12-2023",
+   "path": "local/constanta/saligny/2023/12",
+   "short": "HCL Saligny nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 12/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89937",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-13-2023",
+   "path": "local/constanta/saligny/2023/13",
+   "short": "HCL Saligny nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 13/2023 aprobarea indicatorilor tehnico-economici-actualizați pentru obiectivul de investiţii„Construire și dotare centru medical în localitatea Saligny,comuna Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89938",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-14-2023",
+   "path": "local/constanta/saligny/2023/14",
+   "short": "HCL Saligny nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 14/2023 aprobarea Proiectului Tehnic și indicatorii tehnico-economici pentru obiectivul de investiţii ” Sistem de supraveghere video stradal în comuna Saligny, județul Constanța”",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89939",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-15-2023",
+   "path": "local/constanta/saligny/2023/15",
+   "short": "HCL Saligny nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 15/2023 privind participarea Comunei Saligny, județul Constanța la teritoriul Grupul de Acțiune Locală Dobrogea Centrală",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89975",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-16-2023",
+   "path": "local/constanta/saligny/2023/16",
+   "short": "HCL Saligny nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 16/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89976",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-17-2023",
+   "path": "local/constanta/saligny/2023/17",
+   "short": "HCL Saligny nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 17/2023 aprobarea Bugetului de venituri și cheltuieli al Școlii Gimnaziale nr. 1 Saligny, sursa de finanțare ”E” pe anul 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89977",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-18-2023",
+   "path": "local/constanta/saligny/2023/18",
+   "short": "HCL Saligny nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 18/2023 privind anularea creanțelor fiscale restanțe mai mici de 40 lei,aflate în sold la data de 31.12.2022",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89978",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-19-2023",
+   "path": "local/constanta/saligny/2023/19",
+   "short": "HCL Saligny nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 19/2023 stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul Primăriei comunei Saligny, jud. Constanţa, ȋncepând cu luna ianuarie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89979",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-2-2023",
+   "path": "local/constanta/saligny/2023/2",
+   "short": "HCL Saligny nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 2/2023 privind aprobarea Plan Urbanistic Local și Regulament Local de Urbanism pentru lucrarea Depozit Final de Deșeuri de Slabă și Medie Activitate (DFDSMA) Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89915",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-20-2023",
+   "path": "local/constanta/saligny/2023/20",
+   "short": "HCL Saligny nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 20/2023 privind stabilirea indemnizaţiei lunare pentru consilierii locali ai Consiliului Local Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89980",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-21-2023",
+   "path": "local/constanta/saligny/2023/21",
+   "short": "HCL Saligny nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 21/2023 privind atestarea apartenenței la domeniul privat a unor imobile terenuri situate în intravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89981",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-22-2023",
+   "path": "local/constanta/saligny/2023/22",
+   "short": "HCL Saligny nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 22/2023 privind modificarea și completarea art.1 la HCL nr. 117 din 20.10.2022 privind atestarea apartenenței la domeniul privat a unor imobile terenuri situate în intravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89982",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-23-2023",
+   "path": "local/constanta/saligny/2023/23",
+   "short": "HCL Saligny nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 23/2023 privind aprobarea unui protocol de colaborare-cadru, ce se va încheia între u.a.t. Saligny, județul Constanța şi Ministerul Muncii și Solidarității Sociale, pentru colaborarea interinstituțională, în cadrul proiectului ,,HUB de Servicii MMSS SII MMSS”, cod MySmis 130963",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89983",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89983",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-24-2023",
    "path": "local/constanta/saligny/2023/24",
    "short": "HCL Saligny nr. 24/2023",
@@ -183,6 +423,201 @@
    ]
   },
   {
+   "slug": "hcl-constanta--saligny-27-2023",
+   "path": "local/constanta/saligny/2023/27",
+   "short": "HCL Saligny nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 27/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93530",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-28-2023",
+   "path": "local/constanta/saligny/2023/28",
+   "short": "HCL Saligny nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 28/2023 aprobarea indicatorilor tehnico-economici- actualizați pentru obiectivul de investiţii-„Consolidare clădire ”Sală de sport”, localiatatea Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93531",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-29-2023",
+   "path": "local/constanta/saligny/2023/29",
+   "short": "HCL Saligny nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 29/2023 privind aprobarea achiziţionării serviciilor de consultanţă, asistenţă şi reprezentare juridică în faţa instanţelor de judecată şi a instituţiilor şi organismelor cu care Primăria Comunei Saligny relaţionează , în vederea apărării intereselor Comunei Saligny, ale Consiliului Local Saligny şi ale Primarului Comunei Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93532",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-3-2023",
+   "path": "local/constanta/saligny/2023/3",
+   "short": "HCL Saligny nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 3/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89928",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-30-2023",
+   "path": "local/constanta/saligny/2023/30",
+   "short": "HCL Saligny nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 30/2023 privind însușirea analizei stadiului de înscriere a datelor în registrul agricol la 31.12.2022 și aprobarea programului de măsuri pentru eficientizarea activității privind înscrierea datelor în registrul agricol",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93533",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-31-2023",
+   "path": "local/constanta/saligny/2023/31",
+   "short": "HCL Saligny nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 31/2023 privind revocarea HCL nr. 91 din 26.07.2022 privind aprobarea dării în arendă, prin licitaţie publică cu strigare, a unor bunuri imobile terenuri proprietate privată a comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93534",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-32-2023",
+   "path": "local/constanta/saligny/2023/32",
+   "short": "HCL Saligny nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 32/2023 privind revocarea HCL nr. 112 din 28.09.2023 privind aprobarea dării în arendă, prin licitaţie publică cu strigare, a unor bunuri imobile terenuri proprietate privată a comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93535",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-33-2023",
+   "path": "local/constanta/saligny/2023/33",
+   "short": "HCL Saligny nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 33/2023 privind aprobarea bugetului local al Comunei Saligny și a listei de investiții pe luna februarie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93536",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-34-2023",
+   "path": "local/constanta/saligny/2023/34",
+   "short": "HCL Saligny nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 34/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93537",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-35-2023",
+   "path": "local/constanta/saligny/2023/35",
+   "short": "HCL Saligny nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 35/2023 privind aprobarea închirierii prin atribuire directă a 8 ha pajiști,aparținând domeniului privat al comunei Saligny, județul Constanța,a prețului de închiriere, regulamentului procedurii de închiriere, caietul de sarcini precum și draftul contractului de închiriere",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93538",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-36-2023",
+   "path": "local/constanta/saligny/2023/36",
+   "short": "HCL Saligny nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 36/2023 privind atestarea apartenenței la domeniul privat a unui imobil teren situat în intravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/93539",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/93539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-37-2023",
+   "path": "local/constanta/saligny/2023/37",
+   "short": "HCL Saligny nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 37/2023 privind modificarea și completarea comisiei de specialitate 3 a Consiliului local al comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/99124",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/99124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-38-2023",
+   "path": "local/constanta/saligny/2023/38",
+   "short": "HCL Saligny nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 38/2023 privind aprobarea cererii de finanțare si a valorii proiectului pentru obiectivul de investiție: ,,DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR ȘI A UNITĂȚILOR CONEXE DIN LOCALITATEA SALIGNY”și depunerea cererii în cadrul apelului de proiecte specific Componentei C15- din Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/99125",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/99125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-39-2023",
    "path": "local/constanta/saligny/2023/39",
    "short": "HCL Saligny nr. 39/2023",
@@ -198,6 +633,816 @@
    ]
   },
   {
+   "slug": "hcl-constanta--saligny-4-2023",
+   "path": "local/constanta/saligny/2023/4",
+   "short": "HCL Saligny nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 4/2023 privind aprobarea Planului de Evacuare al Populației Animalelor și bunurilor materiale aparținând comunei ,în Situaţii de Urgenţă",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89929",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-40-2023",
+   "path": "local/constanta/saligny/2023/40",
+   "short": "HCL Saligny nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 40/2023 privind aprobarea documentației de dezmembrare a imobilului-teren în suprafață de 50.700 mp situat localitatea Ștefan cel Mare, parcela CC402/1, Lot 1, număr cadastral 102397, în 2(două loturi ) proprietatea privată comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/99158",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/99158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-41-2023",
+   "path": "local/constanta/saligny/2023/41",
+   "short": "HCL Saligny nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 41/2023 privind modificarea și completarea art. 1 la HCL nr. 1 din 10.01.2023 privind utilizarea excedentului bugetului local la 31.12.2022",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/99159",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/99159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-42-2023",
+   "path": "local/constanta/saligny/2023/42",
+   "short": "HCL Saligny nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 42/2023 privind aprobarea bugetului local al Comunei Saligny și a listei de investiții pe luna martie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/99160",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/99160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-43-2023",
+   "path": "local/constanta/saligny/2023/43",
+   "short": "HCL Saligny nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 43/2023 aprobarea PT și a documentaţiei tehnico-economice pentru obiectivul de investiție “ CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN GRĂDINIȚA CU PROGRAM NORMAL SALIGNY. JUD. CONSTANȚA ”",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/99161",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/99161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-44-2023",
+   "path": "local/constanta/saligny/2023/44",
+   "short": "HCL Saligny nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 44/2023 privind aprobarea modificării și actualizării Contratului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 16/46300/05.11.2009",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103362",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-45-2023",
+   "path": "local/constanta/saligny/2023/45",
+   "short": "HCL Saligny nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 45/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103363",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-46-2023",
+   "path": "local/constanta/saligny/2023/46",
+   "short": "HCL Saligny nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 46/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 621 mp, aparținând domeniului privat al Comunei Saligny, situat în localitatea Ștefan cel Mare, strada Ghioceilor, nr. 10A, având Carte Funciară nr.102657",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103364",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-47-2023",
+   "path": "local/constanta/saligny/2023/47",
+   "short": "HCL Saligny nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 47/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 1.140 mp, aparținând domeniului privat al Comunei Saligny, situat în localitatea Saligny, strada Cameliilor, nr. 19A, având Carte Funciară nr.102803",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103365",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-48-2023",
+   "path": "local/constanta/saligny/2023/48",
+   "short": "HCL Saligny nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 48/2023 privind aprobarea bugetului local al Comunei Saligny și a listei de investiții pe luna aprilie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103366",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-49-2023",
+   "path": "local/constanta/saligny/2023/49",
+   "short": "HCL Saligny nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 49/2023 privind atestarea aparteneței la domeniul privat a unor imobile terenuri( drumuri de exploatare ) situate în extravilanul comunei Saligny, comunei Saligny, jud. Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103367",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-5-2023",
+   "path": "local/constanta/saligny/2023/5",
+   "short": "HCL Saligny nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 5/2023 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor din comuna Saligny, judeţul Constanţa",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89930",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-50-2023",
+   "path": "local/constanta/saligny/2023/50",
+   "short": "HCL Saligny nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 50/2023 privind modificarea și completarea HCL nr. 40 din 30.03.2023 aprobarea documentatiei de dezmembrare a unui imobil, proprietatea privată a comunei Saligny , identificat cu numar cadastral 102397",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103368",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-51-2023",
+   "path": "local/constanta/saligny/2023/51",
+   "short": "HCL Saligny nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 51/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul Primăriei comunei Saligny, jud. Constanţa, ȋncepând cu luna ianuarie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/103369",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/103369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-52-2023",
+   "path": "local/constanta/saligny/2023/52",
+   "short": "HCL Saligny nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 52/2023 privind aprobarea cererii de finanțare și a devizului general estimativ și depunerea cererii prin Programului Național de Investiții \"Anghel Saligny\", pentru obiectivul de investiții ”Înlocuire rețea distribuție apă pe o lungime de 6250 m în comuna Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/104264",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/104264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-53-2023",
+   "path": "local/constanta/saligny/2023/53",
+   "short": "HCL Saligny nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 53/2023 privind trecerea din domeniul privat în domeniul public al comunei Saligny a unor imbile- terenuri situate în intravilanul Comunei Saligny, județul Constanța și declararea acestora ca fiind bunuri de interes public local",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/108219",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/108219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-54-2023",
+   "path": "local/constanta/saligny/2023/54",
+   "short": "HCL Saligny nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 54/2023 privind aprobarea a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „”Sistematizarea și construirea de șanțuri colectoare, scurgere și evacuare ape pluviale în zona Făclia, strada Energiei , comuna Saligny , județul Constanța , în vederea prevenirii inundațiilor ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/108220",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/108220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-55-2023",
+   "path": "local/constanta/saligny/2023/55",
+   "short": "HCL Saligny nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 55/2023 privind aprobarea a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „”Sistematizarea și construirea de șanțuri colectoare, scurgere și evacuare ape pluviale în zona Făclia, strada Prunilor , comuna Saligny , județul Constanța , în vederea prevenirii inundațiilor ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/108221",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/108221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-56-2023",
+   "path": "local/constanta/saligny/2023/56",
+   "short": "HCL Saligny nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 56/2023 privind aprobarea delegării dreptului de depunere a Cererii de finanțare a proiectului ”Dotarea cu microbuze electrice pentru elevi ai unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța „Componenta C15: Educație, Investiția 10: ” Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi”, finanțat din bugetul Ministerului Educației, prin Programul Național de Redresare și Reziliență de către u.a.t. Județul Constanța, Consiliul Județean Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111679",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-57-2023",
+   "path": "local/constanta/saligny/2023/57",
+   "short": "HCL Saligny nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 57/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111680",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-58-2023",
+   "path": "local/constanta/saligny/2023/58",
+   "short": "HCL Saligny nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 58/2023 privind aprobarea indicatorilor aferenți execuției bugetului local pentru Trimestrul I 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111681",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-59-2023",
+   "path": "local/constanta/saligny/2023/59",
+   "short": "HCL Saligny nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 59/2023 privind rectificarea bugetului local al Comunei Saligny pe luna mai 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111682",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-6-2023",
+   "path": "local/constanta/saligny/2023/6",
+   "short": "HCL Saligny nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 6/2023 privind aprobarea schemei de inştiinţare, avertizare şi alarmare a comunei Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89931",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-60-2023",
+   "path": "local/constanta/saligny/2023/60",
+   "short": "HCL Saligny nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 60/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111744",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-61-2023",
+   "path": "local/constanta/saligny/2023/61",
+   "short": "HCL Saligny nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 61/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111745",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-62-2023",
+   "path": "local/constanta/saligny/2023/62",
+   "short": "HCL Saligny nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 62/2023 privind rectificarea bugetului local al Comunei Saligny și a listei de investiții pe luna iunie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/111746",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/111746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-63-2023",
+   "path": "local/constanta/saligny/2023/63",
+   "short": "HCL Saligny nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 63/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/113003",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/113003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-64-2023",
+   "path": "local/constanta/saligny/2023/64",
+   "short": "HCL Saligny nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 64/2023 privind rectificarea bugetului local al Comunei Saligny și a listei de investiții pe luna iulie 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/113004",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/113004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-65-2023",
+   "path": "local/constanta/saligny/2023/65",
+   "short": "HCL Saligny nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 65/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/115184",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/115184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-66-2023",
+   "path": "local/constanta/saligny/2023/66",
+   "short": "HCL Saligny nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 66/2023 privind atestarea apartenenței la domeniul privat al comunei Saligny a unor imobile terenuri situate în intravilanul și extravilanul comunei Saligny precum și a unor drumuri de exploatare agricolă din extravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/115185",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/115185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-67-2023",
+   "path": "local/constanta/saligny/2023/67",
+   "short": "HCL Saligny nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 67/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/115186",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/115186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-68-2023",
+   "path": "local/constanta/saligny/2023/68",
+   "short": "HCL Saligny nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 68/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 707 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Saligny, strada Rozelor, nr. 2B, având Carte Funciară nr.102827",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/115187",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/115187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-69-2023",
+   "path": "local/constanta/saligny/2023/69",
+   "short": "HCL Saligny nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 69/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/115916",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/115916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-7-2023",
+   "path": "local/constanta/saligny/2023/7",
+   "short": "HCL Saligny nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 7/2023 privind aprobarea Planului de Pregătire a Serviciului Voluntar pentru Situaţii de Urgenţă al localităţii Saligny pentru anul 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89932",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-70-2023",
+   "path": "local/constanta/saligny/2023/70",
+   "short": "HCL Saligny nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 70/2023 privind rectificarea bugetului local al Comunei Saligny și a listei de investiții pe luna august 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/115917",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/115917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-71-2023",
+   "path": "local/constanta/saligny/2023/71",
+   "short": "HCL Saligny nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 71/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117101",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-72-2023",
+   "path": "local/constanta/saligny/2023/72",
+   "short": "HCL Saligny nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 72/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 650 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Saligny, strada 1 Mai, nr. 55, având Carte Funciară nr.102681",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117102",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-73-2023",
+   "path": "local/constanta/saligny/2023/73",
+   "short": "HCL Saligny nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 73/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 2.502 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Făclia, strada Taberei, nr. 27, având Carte Funciară nr.101437",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117103",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-74-2023",
+   "path": "local/constanta/saligny/2023/74",
+   "short": "HCL Saligny nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 74/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 1.000 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Ștefan cel Mare , str. Cantonului, nr.9, având Carte Funciară nr.102256",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117104",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-75-2023",
+   "path": "local/constanta/saligny/2023/75",
+   "short": "HCL Saligny nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 75/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 500 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Făclia, strada Cedrilor, nr. 4, având Carte Funciară nr.101478",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117105",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-76-2023",
+   "path": "local/constanta/saligny/2023/76",
+   "short": "HCL Saligny nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 76/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 500 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Saligny, strada Tineretului, nr. 1A, având Carte Funciară nr.102691",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117106",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-77-2023",
+   "path": "local/constanta/saligny/2023/77",
+   "short": "HCL Saligny nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 77/2023 privind aprobarea oportunității vânzării prin licitație publică a unui imobil-teren în suprafață de 500 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Făclia, strada Taberei, nr. 12, având Carte Funciară nr.101461",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117107",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-78-2023",
+   "path": "local/constanta/saligny/2023/78",
+   "short": "HCL Saligny nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 78/2023 privind atestarea apartenenței la domeniul privat al comunei Saligny a unui drum de exploatare agricolă din extravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117108",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-79-2023",
+   "path": "local/constanta/saligny/2023/79",
+   "short": "HCL Saligny nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 79/2023 privind aprobarea indicatorilor aferenți execuției bugetului local pentru Trimestrul II 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117109",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-8-2023",
+   "path": "local/constanta/saligny/2023/8",
+   "short": "HCL Saligny nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 8/2023 privind aprobarea Planului de acțiuni și lucrari de interes local pe anul 2023, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89933",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-80-2023",
+   "path": "local/constanta/saligny/2023/80",
+   "short": "HCL Saligny nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 80/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor- cadru pentru achiziția produselor aferente programului și a contractelor /acordurilor –cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul Comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/117110",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/117110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-81-2023",
+   "path": "local/constanta/saligny/2023/81",
+   "short": "HCL Saligny nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 81/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127980",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-82-2023",
+   "path": "local/constanta/saligny/2023/82",
+   "short": "HCL Saligny nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 82/2023 privind constituirea echipei mobile pentru intervenția în regim de urgență în cazurile de violență domestică, identificate pe raza u.a.t Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127981",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-83-2023",
+   "path": "local/constanta/saligny/2023/83",
+   "short": "HCL Saligny nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 83/2023 privind atestarea apartenenței la domeniul privat al comunei Saligny a unui imobil teren situat în extravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127982",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-84-2023",
+   "path": "local/constanta/saligny/2023/84",
+   "short": "HCL Saligny nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 84/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127983",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-85-2023",
+   "path": "local/constanta/saligny/2023/85",
+   "short": "HCL Saligny nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 85/2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127984",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-86-2023",
+   "path": "local/constanta/saligny/2023/86",
+   "short": "HCL Saligny nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 86/2023 aprobarea vânzării prin licitație publică a unui imobil-teren în suprafață de 2.502 mp, aparținând domeniului privat al comunei Saligny, situat în localitatea Făclia, strada Taberei, nr. 27, având Carte Funciară nr.101437",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127985",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-87-2023",
+   "path": "local/constanta/saligny/2023/87",
+   "short": "HCL Saligny nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 87/2023 privind desemnarea reprezentantului Consiliului local al Comunei Saligny în Consiliul de Administrație al Scolii Gimnaziale nr.1 Saligny, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127986",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-88-2023",
+   "path": "local/constanta/saligny/2023/88",
+   "short": "HCL Saligny nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 88/2023 privind completarea anexei nr. 1 la HCL nr.39 din 30.03.2023 privind aprobarea și indexarea impozitelor și taxelor locale ,precum și a taxelor speciale, pe anul 2024, precum și indexarea nivelurilor minime prevăzute în Anexa I la Directiva 1999/62/CE de aplicare a taxelor la vehiculele grele de marfă pentru utilizarea anumitor infrastructuri, cu rata de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie a anului 2023",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/127991",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/127991",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-89-2023",
    "path": "local/constanta/saligny/2023/89",
    "short": "HCL Saligny nr. 89/2023",
@@ -208,6 +1453,21 @@
      "from": "2023-11-08",
      "units": 1,
      "source_url": "https://emol.ro/saligny-ct/registru-hcl/127992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-9-2023",
+   "path": "local/constanta/saligny/2023/9",
+   "short": "HCL Saligny nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 9/2023 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de pe raza teritorială a Comunei Saligny , pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/89934",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/89934",
      "sha256": null
     }
    ]

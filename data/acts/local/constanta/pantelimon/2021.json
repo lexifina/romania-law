@@ -135,6 +135,29 @@
 }
 },
 {
+"slug": "hcl-constanta--pantelimon-7-2021",
+"path": "local/constanta/pantelimon/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 7/2021",
+"short": "HCL Pantelimon nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/15832",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--pantelimon-8-2021",
 "path": "local/constanta/pantelimon/2021/8",
 "kind": "local",
@@ -154,6 +177,29 @@
 "council_name": "Consiliul Local al Comunei Pantelimon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-9-2021",
+"path": "local/constanta/pantelimon/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 9/2021",
+"short": "HCL Pantelimon nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/15839",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -352,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Pantelimon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-19-2021",
+"path": "local/constanta/pantelimon/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 19/2021 cu privire la alegerea președintelui de ședință pentru perioada aprilie- iunie 2021",
+"short": "HCL Pantelimon nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/24555",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1686,6 +1754,116 @@
 }
 },
 {
+"slug": "hcl-constanta--pantelimon-80-2021",
+"path": "local/constanta/pantelimon/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 80/2021 privind aprobarea inchirierii prin licitatie publica deschisa a imobilului situat in sat Pantelimon, strada Ulmetum, nr. 45, parter, ap. 1, comuna Pantelimon, judetul Constanta",
+"short": "HCL Pantelimon nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/34807",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-81-2021",
+"path": "local/constanta/pantelimon/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 81/2021 privind aprobarea inchirierii prin licitatie publica deschisa a imobilului situat in sat Pantelimon, strada Ulmetum, nr. 45, parter, ap. 3, comuna Pantelimon, judetul Constanta",
+"short": "HCL Pantelimon nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/34808",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-82-2021",
+"path": "local/constanta/pantelimon/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 82/2021 privind aprobarea inchirierii prin licitatie publica deschisa a imobilului situat in sat Pantelimon, strada Ulmetum, nr. 45, parter, ap. 4, comuna Pantelimon, judetul Constanta",
+"short": "HCL Pantelimon nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/34809",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-83-2021",
+"path": "local/constanta/pantelimon/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 83/2021 privind aprobarea inchirierii prin licitatie publica deschisa a imobilului situat in sat Pantelimon, strada Ulmetum, nr. 45, etaj 3, ap. 15, comuna Pantelimon, judetul Constanta",
+"short": "HCL Pantelimon nr. 83/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/34810",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-84-2021",
+"path": "local/constanta/pantelimon/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 84/2021 privind aprobarea inchirierii prin licitatie publica deschisa a imobilului situat in sat Pantelimon, strada Ulmetum, nr. 45, etaj 3, ap. 17, comuna Pantelimon, judetul Constanta",
+"short": "HCL Pantelimon nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/34811",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--pantelimon-85-2021",
 "path": "local/constanta/pantelimon/2021/85",
 "kind": "local",
@@ -1864,6 +2042,28 @@
 }
 },
 {
+"slug": "hcl-constanta--pantelimon-93-2021",
+"path": "local/constanta/pantelimon/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 93/2021 privind alegerea președintelui de ședință pentru trimestrul IV al anului 2021 ( lunile octombrie, noiembrie si decembrie )",
+"short": "HCL Pantelimon nr. 93/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37901",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--pantelimon-94-2021",
 "path": "local/constanta/pantelimon/2021/94",
 "kind": "local",
@@ -1883,6 +2083,28 @@
 "council_name": "Consiliul Local al Comunei Pantelimon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-95-2021",
+"path": "local/constanta/pantelimon/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 95/2021 privind desemnarea a doi reprezentanti din cadrul Consiliului Local Pantelimon, jud. Constanta, pentru a fi membrii in Consiliul de Administratie al Scolii Gimnaziale nr. 1 Pantelimon, comuna Pantelimon, judetul Constanta",
+"short": "HCL Pantelimon nr. 95/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37903",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1927,6 +2149,144 @@
 "council_name": "Consiliul Local al Comunei Pantelimon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-98-2021",
+"path": "local/constanta/pantelimon/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 98/2021",
+"short": "HCL Pantelimon nr. 98/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37906",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-99-2021",
+"path": "local/constanta/pantelimon/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 99/2021",
+"short": "HCL Pantelimon nr. 99/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37907",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-100-2021",
+"path": "local/constanta/pantelimon/2021/100",
+"kind": "local",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 100/2021",
+"short": "HCL Pantelimon nr. 100/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37908",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-101-2021",
+"path": "local/constanta/pantelimon/2021/101",
+"kind": "local",
+"year": "2021",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 101/2021",
+"short": "HCL Pantelimon nr. 101/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37909",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-102-2021",
+"path": "local/constanta/pantelimon/2021/102",
+"kind": "local",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 102/2021",
+"short": "HCL Pantelimon nr. 102/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37910",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-103-2021",
+"path": "local/constanta/pantelimon/2021/103",
+"kind": "local",
+"year": "2021",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 103/2021",
+"short": "HCL Pantelimon nr. 103/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/37911",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2040,6 +2400,51 @@
 }
 },
 {
+"slug": "hcl-constanta--pantelimon-109-2021",
+"path": "local/constanta/pantelimon/2021/109",
+"kind": "local",
+"year": "2021",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 109/2021",
+"short": "HCL Pantelimon nr. 109/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/46186",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-110-2021",
+"path": "local/constanta/pantelimon/2021/110",
+"kind": "local",
+"year": "2021",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 110/2021 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 8825 mp , situat în sat Călugăreni, strada Dealului, nr. 6B , comuna Pantelimon , județul Constanța , identificat cu numărul cadastral 103129",
+"short": "HCL Pantelimon nr. 110/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/46187",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--pantelimon-111-2021",
 "path": "local/constanta/pantelimon/2021/111",
 "kind": "local",
@@ -2105,6 +2510,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-114-2021",
+"path": "local/constanta/pantelimon/2021/114",
+"kind": "local",
+"year": "2021",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 114/2021 privind aprobarea cumpărării imobilului situat în sat Pantelimon, str. Ulmetum, nr. 44B, județul Constanța, însușirea raportului de evaluare întocmit de un expert evaluator autorizat și constituirea comisiei de negociere a prețului de cumpărare",
+"short": "HCL Pantelimon nr. 114/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/46191",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2193,6 +2620,28 @@
 "council_name": "Consiliul Local al Comunei Pantelimon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-119-2021",
+"path": "local/constanta/pantelimon/2021/119",
+"kind": "local",
+"year": "2021",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 119/2021 privind aprobarea cumpărării imobilului situat în sat Pantelimon, str. Ulmetum, nr. 44B, județul Constanța",
+"short": "HCL Pantelimon nr. 119/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-17",
+"latest": "2021-11-17",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/46678",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

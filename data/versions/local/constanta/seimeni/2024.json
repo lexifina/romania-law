@@ -3,6 +3,651 @@
  "shard": "local/constanta/seimeni/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--seimeni-1-2024",
+   "path": "local/constanta/seimeni/2024/1",
+   "short": "HCL Seimeni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 1/2024 privind alegerea președintelui de ședință al Consiliului Local Seimeni, pentru o perioadă de trei luni (ianuarie - martie 2024) Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 16/04.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate întocmit de către secretarul general nr. 17/04.01.2024; În conformitate cu prevederile art. 123, al",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-1-din-08.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-1-din-08.01.2024.pdf",
+     "sha256": "ff74383587456915ce7507a4944cc563f9db440df4118609564f300eb8e9b9a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-10-2024",
+   "path": "local/constanta/seimeni/2024/10",
+   "short": "HCL Seimeni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 10/2024 Privind aprobarea achiziționării de servicii de consultanță, de asistență și/sau de reprezentare juridică Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 180/15.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate al compartimentului de resort din cadrul primăriei comunei Seimeni, înregistrat sub nr. 181/15.01.2024; c)rapoartele comisi",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-10-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-10-din-31.01.2024.pdf",
+     "sha256": "b1f2dba55cb21579a8f02a9d1e91466481b058e3f33eb3bd9f4298cad45341f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-11-2024",
+   "path": "local/constanta/seimeni/2024/11",
+   "short": "HCL Seimeni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 11/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-11-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-11-din-31.01.2024.pdf",
+     "sha256": "cbcca4412b4bac6ae656554efca5da4abc6db698021099a44efae47c2bf49e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-12-2024",
+   "path": "local/constanta/seimeni/2024/12",
+   "short": "HCL Seimeni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 12/2024 Privind aprobarea aderării UAT Seimeni la ASOCIAȚIA GRUP LOCAL DOBROGEA NORD Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 184/15.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate al compartimentului de resort din cadrul primăriei comunei Seimeni, înregistrat sub nr. 185/15.01.2024; c) rapoartele comisiilor de specialitate ale Con",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-12-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-12-din-31.01.2024.pdf",
+     "sha256": "204952115850caa9d7c4e3746d42a199b2bfae2783652a603ed81ab6e14406b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-13-2024",
+   "path": "local/constanta/seimeni/2024/13",
+   "short": "HCL Seimeni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 13/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-13-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-13-din-31.01.2024.pdf",
+     "sha256": "a54c088c3cd8bea429bd01da62225d82e3b82777b5ce600e8a081fe32c09ecc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-14-2024",
+   "path": "local/constanta/seimeni/2024/14",
+   "short": "HCL Seimeni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 14/2024 privind retragerea Comunei Seimeni, județul Constanța din cadrul Asociației pentru Dezvoltarea Zonei Cernavodă Având în vedere:  Proiectul de hotărâre și referatul de aprobare nr. 227/17.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator;  Raportul întocmit de compartimentul de resort din cadrul aparatului de specialitate al primarului comunei Seimeni, ȋnregistrat sub nr. 228/17",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-14-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-14-din-31.01.2024.pdf",
+     "sha256": "ceb26f7fa686e8d2d32d99ae694c4ec8d996fc6adba79ed98424dd5c507e6bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-15-2024",
+   "path": "local/constanta/seimeni/2024/15",
+   "short": "HCL Seimeni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 15/2024 Privind revocarea Horărârii Consiliului Local al Comunei Seimeni nr. 78 din 22.11.2023 privind acordarea unui mandat special Asociației pentru Dezvoltarea Zonei Cernavodă Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 258/18.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de resort din cadrul primăriei comunei Seime",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-15-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-15-din-31.01.2024.pdf",
+     "sha256": "78f622c1ac7085918d50a85e28332b59c9f8fd7f7cd782981abaf96ce66f5032"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-16-2024",
+   "path": "local/constanta/seimeni/2024/16",
+   "short": "HCL Seimeni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 16/2024 privind retragerea Comunei Seimeni, județul Constanța din calitatea de asociat al societății UTILITĂȚI PUBLICE-GOSPODĂRIA COMUNALĂ S.R.L",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-16-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-16-din-31.01.2024.pdf",
+     "sha256": "9274adc7efbc6beac5656489f57d66eb2e2fe54e521f2cde42518e2643eed824"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-17-2024",
+   "path": "local/constanta/seimeni/2024/17",
+   "short": "HCL Seimeni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 17/2024 Privind aprobarea decontării cheltuielilor de transport pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Seimeni și serviciilor publice de interes local, înființate în subordinea Consiliului Local Seimeni Luând act de:  Proiectul de hotărâre și referatul de aprobare nr. 316/23.01.2024 a primarului comunei Seimeni, în calitatea sa de",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-17-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-17-din-31.01.2024.pdf",
+     "sha256": "fcb62c2d71fa46f995f6d9993489d972269c9e2d0cd3195ac98be894d4d07e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-18-2024",
+   "path": "local/constanta/seimeni/2024/18",
+   "short": "HCL Seimeni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 18/2024 Privind aprobarea bugetului de venituri și cheltuieli al Serviciului Public Apă Seimeni pe anul 2024 Având în vedere: a)Proiect de hotărâre și referatul de aprobare nr. 318/23.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b)Raportul întocmit decompartimentul compartimentul de specialitate din cadrul Primăriei comunei Seimeni, ȋnregistrat sub nr. 319/23.01.2024 precum și Nota",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-18-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-18-din-31.01.2024.pdf",
+     "sha256": "9f3b21e7e3a68c25a6e50adedcd3126bc5fe7127fb155cc51864c2154f1dbf71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-19-2024",
+   "path": "local/constanta/seimeni/2024/19",
+   "short": "HCL Seimeni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 19/2024 privind aprobarea documentatiei de achizitie publica pentru atribuirea Contractelor avand ca obiect: 1. \"Delegarea gestiunii, prin achizitie publica de servicii, a activitatilor de sortare, tratare mecano-biologica si eliminare prin depozitare a deseurilor municipale din UAT Seimeni, judet Constanta\"; 2. „Delegarea gestiunii, prin achizitie publica de servicii, a activitatilor de colectare separat",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-19-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-19-din-31.01.2024.pdf",
+     "sha256": "04bbe86ce5fdadf57280f941498dee04840aa5864f2d1b830f243fa462931181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-2-2024",
+   "path": "local/constanta/seimeni/2024/2",
+   "short": "HCL Seimeni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 2/2024 privind aprobarea rețelei unităților de învățământ preuniversitar de pe raza administrativ- teritorială a comunei Seimeni, judetul Constanța, pentru anul școlar 2024-2025 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 18/04.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de către compartimentul de resort din cadrul aparatului de special",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-2-din-08.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-2-din-08.01.2024.pdf",
+     "sha256": "b538e5a3e579c4086cc0d5e86c14edd1643e6e46d44994261f51f2e0ad4b0743"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-20-2024",
+   "path": "local/constanta/seimeni/2024/20",
+   "short": "HCL Seimeni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 20/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-20-din-14.02.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-20-din-14.02.2024.pdf",
+     "sha256": "0cc23f5883fd22d65533804d255572fb99bd3592f20dc5685a1db81321bf01d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-21-2024",
+   "path": "local/constanta/seimeni/2024/21",
+   "short": "HCL Seimeni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 21/2024 Privind aprobarea organigramei și a statului de funcții al societății comerciale „GOSPODĂRIE SEIMENI” Societate cu Raspundere Limitata de interes local, cu asociat unic comuna Seimeni, prin Consiliul Local Seimeni Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 874/19.02.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de s",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-21-din-29.02.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-21-din-29.02.2024.pdf",
+     "sha256": "f794ace8763c98c212fa4ae2d040aa20206718d05573baa7fe9485af992c4d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-22-2024",
+   "path": "local/constanta/seimeni/2024/22",
+   "short": "HCL Seimeni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 22/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-22-din-29.02.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-22-din-29.02.2024.pdf",
+     "sha256": "a54fcfccde701d0155b0a782d5d2165801b3754eff43271887b010649d56bb19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-23-2024",
+   "path": "local/constanta/seimeni/2024/23",
+   "short": "HCL Seimeni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 23/2024 privind rectificarea bugetului de venituri si cheltuieli al comunei Seimeni, județul Constanța, pe anul 2024 Luând act de: a) Proiectul d hotărâre și referatul de aprobare nr. 913/20.02.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 975/23.02.2024 modificat prin raport",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-23-din-29.02.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-23-din-29.02.2024.pdf",
+     "sha256": "bc3ffcd2e3dcdbebaaccf18d6c61cf46a89db7f3dd96e2ec397e1f4d5470b901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-24-2024",
+   "path": "local/constanta/seimeni/2024/24",
+   "short": "HCL Seimeni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 24/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-24-din-29.02.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/03/HCL-nr.-24-din-29.02.2024.pdf",
+     "sha256": "446d33060700717778a7a83ab69645a951f99a0f4e13ac8a3b4aa4d1061c5eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-25-2024",
+   "path": "local/constanta/seimeni/2024/25",
+   "short": "HCL Seimeni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 25/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-25-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-25-din-28.03.2024.pdf",
+     "sha256": "6f6524a25b83eb3034769a04e14b04e96b62e743c5e53199fc2305cb4dabe0e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-26-2024",
+   "path": "local/constanta/seimeni/2024/26",
+   "short": "HCL Seimeni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 26/2024 privind rectificarea bugetului de venituri si cheltuieli al comunei Seimeni, județul Constanța, pe anul 2024 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 1291/12.03.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 1313/13.03.2024; c) rapoartele fav",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-26-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-26-din-28.03.2024.pdf",
+     "sha256": "c1f14d6e6ce5b93047ab9752a20db7df18c14ace6c850c300543898d27432ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-27-2024",
+   "path": "local/constanta/seimeni/2024/27",
+   "short": "HCL Seimeni nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 27/2024 Privind aprobarea tipului de suport alimentar ce se va acorda preșcolarilor și elevilor din cadrul Școlii Gimnaziale Nr. 1 Seimeni, Județul Constanța, în cadrul Programului național ,,Masa sănătoasă” Luând act de:  Proiectul de hotărâre și referatul de aprobare nr. 1334/14.03.2024 a primarului comunei Seimeni, în calitatea sa de inițiator;  Raportul întocmit de compartimentul de resort din cadru",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-27-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-27-din-28.03.2024.pdf",
+     "sha256": "3614a4e032bab80cdf94963b3f992daddcd583ad2951e3092a3e0af925fd38dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-28-2024",
+   "path": "local/constanta/seimeni/2024/28",
+   "short": "HCL Seimeni nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 28/2024 privind aprobarea acordării de beneficii de asistență socială unor categorii de persoane din comuna Seimeni, județul Constanța, cu ocazia sărbătorilor de Paște 2024 Luând act de: - Proiect de hotărâre și referatul de aprobare nr. 1369/18.03.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; - raportele întocmite de Compartimentul Asistență Socială din cadrul primăriei comunei Seimeni",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-28-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-28-din-28.03.2024.pdf",
+     "sha256": "fabf8316676ed88fe5f2ea11087c8745dd92f974d7a63f166b0f5adb90dcdab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-29-2024",
+   "path": "local/constanta/seimeni/2024/29",
+   "short": "HCL Seimeni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 29/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-29-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-29-din-28.03.2024.pdf",
+     "sha256": "c856a38269b3d5827737e5f0a9ad3a9ee2b73e707a9fe60da87006a70afbdbcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-3-2024",
+   "path": "local/constanta/seimeni/2024/3",
+   "short": "HCL Seimeni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 3/2024 Privind aprobarea acoperii definitive a deficitului bugetar al secțiunii de dezvoltare a bugetului local de venituri și cheltuieli al comunei Seimeni, din excedentul bugetar al anilor precedenți Având în vedere : a) Proiectul de hotărâre și referatul de aprobare nr. 39/05.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate intocmit de compartimentul de r",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-3-din-08.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-3-din-08.01.2024.pdf",
+     "sha256": "64b5f38e20f23cb7225f4ccce38a4d400c55565f675728076a5090db6edc1189"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-30-2024",
+   "path": "local/constanta/seimeni/2024/30",
+   "short": "HCL Seimeni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 30/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-30-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-30-din-28.03.2024.pdf",
+     "sha256": "393d4c3834e8fa7cc6192313285ebd473357e158948b8bc61d3a4d889bd0b2f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-31-2024",
+   "path": "local/constanta/seimeni/2024/31",
+   "short": "HCL Seimeni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 31/2024 privind alegerea președintelui de ședință al Consiliului Local Seimeni, pentru o perioadă de trei luni (mai-iulie 2024) Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 2338/13.05.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate întocmit de către secretarul general nr. 2339/13.05.2024; În conformitate cu prevederile art. 123, alin",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-31-din-14.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-31-din-14.05.2024.pdf",
+     "sha256": "57782f54261bcca6af2440ea2ba5bd54525340309146d3dfc0d99e118898ea53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-32-2024",
+   "path": "local/constanta/seimeni/2024/32",
+   "short": "HCL Seimeni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 32/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-32-din-14.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-32-din-14.05.2024.pdf",
+     "sha256": "bf0934dba41f2adc93be22ec14bf385527d26a8288e8a001acdb18a95ce74450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-33-2024",
+   "path": "local/constanta/seimeni/2024/33",
+   "short": "HCL Seimeni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 33/2024 pentru depunere și implementarea proiectului: ”Sisteme integrate de colectare si valorificare a gunoiului de grajd UAT Comuna Seimeni, Judetul Constanta” Luând act de: a) Proiect de hotîrâre și referatul de aprobare nr. 2342/13.05.2024 a primarului comunei Seimeni, ȋn calitatea sa de inițiator; b) raportul de specialitate întocmit comparimentul de resort din cadrul aparatului de specialitate al pr",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-33-din-14.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/05/HCL-nr.-33-din-14.05.2024.pdf",
+     "sha256": "1b5a89853595a0b9eafcdf9eb93c4aed85e0f542a137ae8c6997cc08bee0805d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-34-2024",
+   "path": "local/constanta/seimeni/2024/34",
+   "short": "HCL Seimeni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 34/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-34-din-24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-34-din-24.05.2024.pdf",
+     "sha256": "4e223975449d5866f5b23ccc19e402d0acb802a67ffabe352ae04bd580880584"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-35-2024",
+   "path": "local/constanta/seimeni/2024/35",
+   "short": "HCL Seimeni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 35/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-35-din-24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-35-din-24.05.2024.pdf",
+     "sha256": "e1e7bf654519eca44c30978a7b50323f87dba358f7346f090cd7522827aaea4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-36-2024",
+   "path": "local/constanta/seimeni/2024/36",
+   "short": "HCL Seimeni nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 36/2024 Privind aprobarea continuării activității de către Serviciul Public Apă Seimeni Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 2257/08.05.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b)Raportul întocmit de compartimentul de specialitate din cadrul Primăriei comunei Seimeni, ȋnregistrat sub nr. 2258/08.05.2024; c)rapoartele comisiilor de specialitate ale",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-36-din-24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-36-din-24.05.2024.pdf",
+     "sha256": "f6a72aae06ce8064734660d4f1be50640a515caf2c374b649c825f8a45ae6cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-37-2024",
+   "path": "local/constanta/seimeni/2024/37",
+   "short": "HCL Seimeni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 37/2024 privind rectificarea bugetului de venituri si cheltuieli al comunei Seimeni, județul Constanța, pe anul 2024 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 2288/09.05.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 2447/17.05.2024 și completat prin",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-37-din-24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-37-din-24.05.2024.pdf",
+     "sha256": "e6090d2e8821d34e99d75c6c6e4b7a32d31ef7a4aa706e11f482152ee8a8f4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-38-2024",
+   "path": "local/constanta/seimeni/2024/38",
+   "short": "HCL Seimeni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 38/2024 Privind aprobarea cererii de suplimentare și devizului general estimativ pentru obiectivul de investiții “ASFALTARE STRAZI IN COMUNA SEIMENI, JUDETUL CONSTANTA” Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 2417/15.05.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate al compartimentului de resort din cadrul primariei comunei Seime",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-38-din-24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-38-din-24.05.2024.pdf",
+     "sha256": "c121c114728ff62c7fc3bd93c02e5bd6e411310ec30102f00c99f2707b73740a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-39-2024",
+   "path": "local/constanta/seimeni/2024/39",
+   "short": "HCL Seimeni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 39/2024 privind rectificarea bugetului de venituri si cheltuieli al comunei Seimeni, județul Constanța, pe anul 2024 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 3457/05.07.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 3688/19.07.2024; c) rapoartele fav",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-39-din-31.07.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-39-din-31.07.2024.pdf",
+     "sha256": "2dc8f03b857ad761e4754c68df1a9c3ce9845a4f95fdec71705db7bc0cd48476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-4-2024",
+   "path": "local/constanta/seimeni/2024/4",
+   "short": "HCL Seimeni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 4/2024 privind utilizarea excedentului bugetului local pentru acoperirea golurilor de casa aferente sectiunilor de functionare si dezvoltare pe anul 2024 Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 41/05.01.2024 a primarului Comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate intocmit de compartimentul de resort din cadrul primăriei comunei Seimeni, inreg",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-4-din-08.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-4-din-08.01.2024.pdf",
+     "sha256": "80694afcee82272b7f7972180ea63588241c22720b2bcd6f588cbf7081f5eb3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-40-2024",
+   "path": "local/constanta/seimeni/2024/40",
+   "short": "HCL Seimeni nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 40/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-40-din-31.07.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-40-din-31.07.2024.pdf",
+     "sha256": "d1fd5efec00acd4a32be498d48467526c0299aab9ca4d5331e413c3c0943b5ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-41-2024",
+   "path": "local/constanta/seimeni/2024/41",
+   "short": "HCL Seimeni nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 41/2024 privind alegerea președintelui de ședință al Consiliului Local Seimeni, pentru o perioadă de trei luni (noiembrie 2024 – ianuarie 2025) Văzând: - Proiectul de hotărâre și referatul de aprobare nr. 5454/05.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; - raportul de specialitate întocmit de către secretarul general nr. 5455/05.11.2024; În conformitate cu prevederile art. 123, a",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-41-din-06.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-41-din-06.11.2024.pdf",
+     "sha256": "8a9c411cc91cc256c544b4ebc5e1b087b5fa2c03f1a6da5111ba55efd25524c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-42-2024",
+   "path": "local/constanta/seimeni/2024/42",
+   "short": "HCL Seimeni nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 42/2024 privind constituirea comisiilor de specialitate a Consiliului Local Seimeni, județul Constanța, pentru mandatul 2024-2028 Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 5456/05.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate întocmit de către secretarul general nr. 5457/05.11.2024; Văzând: - Ordinul Prefectului județul Constan",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-42-din-06.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/11/HCL-nr.-42-din-06.11.2024.pdf",
+     "sha256": "130fd0c00d8c0888a2f8ed9fb7abccafa5055b62f88051310b38b603cd557d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-43-2024",
+   "path": "local/constanta/seimeni/2024/43",
+   "short": "HCL Seimeni nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 43/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-43-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-43-din-15.11.2024.pdf",
+     "sha256": "60333e6309bcbfb6e429636825a528d0ad3afaa952049848ecdd6d9eb5285e47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-44-2024",
+   "path": "local/constanta/seimeni/2024/44",
+   "short": "HCL Seimeni nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 44/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-44-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-44-din-15.11.2024.pdf",
+     "sha256": "270fa6ba38b0e8418972911e5cd9bc894358ddafbf94b48c44d794d09a39bad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-45-2024",
+   "path": "local/constanta/seimeni/2024/45",
+   "short": "HCL Seimeni nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 45/2024 privind desemnarea reprezentantului Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Seimeni, începând cu anul școlar 2024- 2025 Având în vedere: - adresa nr. 1006/04.11.2024 de la Școala Gimnazială nr. 1 Seimeni, înregistrată în cadrul instituției noastre sub nr. 5448/05.11.2024; - proiectul de hotărâre și referatul de aprobare nr. 5472/005.11.2024 a primarului comunei S",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-45-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-45-din-15.11.2024.pdf",
+     "sha256": "777f548fd093ab11568b013f88acecea12a267eac9b3eabf1a7a8dc4015da09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-46-2024",
+   "path": "local/constanta/seimeni/2024/46",
+   "short": "HCL Seimeni nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 46/2024 privind rectificarea bugetului de venituri si cheltuieli al comunei Seimeni, județul Constanța, pe anul 2024 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 5484/06.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 5506/07.11.2024; c) rapoartele fav",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-46-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-46-din-15.11.2024.pdf",
+     "sha256": "be7ff66eb712f77e2722be56d781f6fd199b06fc041928074c50bb148f0647c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-47-2024",
+   "path": "local/constanta/seimeni/2024/47",
+   "short": "HCL Seimeni nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 47/2024 Privind rectificarea bugetului de venituri și cheltuieli al Serviciului Public Apă Seimeni pentru anul 2024 Având în vedere: 1.Proiectul de hotărâre și referatul de aprobare nr. 5485/06.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; 2.Referatul nr. 214/07.11.2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2024, întocmit de Serviciului Public Apă",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-47-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-47-din-15.11.2024.pdf",
+     "sha256": "dabbe8b025095b782fb32ff52918378d10d936a2ee61196eb8e354ba0715337a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-48-2024",
+   "path": "local/constanta/seimeni/2024/48",
+   "short": "HCL Seimeni nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 48/2024 privind aprobarea rutelor, a stațiilor precum și intervalul orelor de transport al microbuzelor școlare în anul scolar 2024 - 2025 Văzând: a) Proiectul de hotărâre și referatul de aprobare nr. 5556/11.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 5544/11.11.2024; c",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-48-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-48-din-15.11.2024.pdf",
+     "sha256": "f44530ecd0e2b4a1d1512ad2b2eed2009b4902ed9a214d6502e59656afe19fa4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--seimeni-49-2024",
    "path": "local/constanta/seimeni/2024/49",
    "short": "HCL Seimeni nr. 49/2024",
@@ -14,6 +659,171 @@
      "units": 1,
      "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-49-din-17.12.2024.pdf",
      "sha256": "a54f8da8e9b91f0db3ad7ced93eab28ad2668731b77776e4cda8b282991185bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-5-2024",
+   "path": "local/constanta/seimeni/2024/5",
+   "short": "HCL Seimeni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 5/2024 Privind utilizarea excedentului bugetului Serviciului Public Apă Seimeni pentru acoperirea golurilor de casa aferente sectiunilor de functionare pe anul 2024 Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 43/05.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul contabilitate, din cadrul primăriei comunei Seimeni, ȋnreg",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-5-din-08.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-5-din-08.01.2024.pdf",
+     "sha256": "5913911170c5943beb7a7b81c027ad5b1047c423134284ee518f0cd2315d7a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-50-2024",
+   "path": "local/constanta/seimeni/2024/50",
+   "short": "HCL Seimeni nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 50/2024 privind rectificarea bugetului de venituri si cheltuieli al comunei Seimeni, județul Constanța, pe anul 2024 Luând act de: a) Proiectul de hotărâre șr referatul de aprobare nr. 5802/19.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei Seimeni, înregistrat sub nr. 6280/10.12.2024; c) rapoartele fav",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-50-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-50-din-17.12.2024.pdf",
+     "sha256": "8399e65780c32b5d0425e330d242a1806fcd79399703d6b492a6194a1d46bf0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-51-2024",
+   "path": "local/constanta/seimeni/2024/51",
+   "short": "HCL Seimeni nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 51/2024 privind aprobarea și însușirea Acordului colectiv de muncă al funcționarilor publici și Contractului colectiv de muncă al personalului contractual din cadrul aparatului de specialitate al primarului comunei Seimeni Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 5829/19.11.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate întocmit de c",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-51-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-51-din-17.12.2024.pdf",
+     "sha256": "0ce099cc99352f4d4b1ccaaa549670996bc667bc0d0d20c1661a8f4497c3bdc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-52-2024",
+   "path": "local/constanta/seimeni/2024/52",
+   "short": "HCL Seimeni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 52/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-52-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-52-din-17.12.2024.pdf",
+     "sha256": "763a39c28680a9e12fe9ea251b72017a18ab1872799a2db6bab29474da17f1be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-53-2024",
+   "path": "local/constanta/seimeni/2024/53",
+   "short": "HCL Seimeni nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 53/2024 privind aprobarea rețelei unităților de învățământ preuniversitar de pe raza administrativ- teritorială a comunei Seimeni, judetul Constanța, pentru anul școlar 2025-2026 Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 6181/05.12.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de către compartimentul de resort din cadrul aparatului de speci",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-53-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-53-din-17.12.2024.pdf",
+     "sha256": "5a9d90bf1426e9ebe27c59872f4351f2bef83179e75df052c904640b17245574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-54-2024",
+   "path": "local/constanta/seimeni/2024/54",
+   "short": "HCL Seimeni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 54/2024 privind atestarea apartenenței la domeniul privat al comunei Seimeni a unui imobil- teren Luând act de:  Proiectul de hotărâre și referatul de aprobare nr. 6360/13.12.2024 al primarului comunei Seimeni, în calitatea sa de inițiator;  raportul de specialitate întocmit de compartimentul de resort din cadrul Primăriei comunei Seimeni, înregistrat sub nr. 6361/13.12.2024;  procesul-verbal nr. 6359/",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-54-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-54-din-17.12.2024.pdf",
+     "sha256": "2bcd2f720adacdf54dd05562c59bf92663adbad12e44a9f647a962baf078b89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-55-2024",
+   "path": "local/constanta/seimeni/2024/55",
+   "short": "HCL Seimeni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 55/2024 Privind aprobarea ajustării tarifelor pentru activitatea de colectare separată și transportul separat al deșeurilor municipale din contractul de delegare a gestiunii, prin achiziție publică de servicii, a activităților de colectare separată și transport separat a deșeurilor municipale din comuna Seimeni, județul Constanța, nr. 2 din 19.02.2024 Aând în vedere: a) Proiectul de hotărâre și referatul",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-55-din-17.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2025/01/HCL-nr.-55-din-17.12.2024.pdf",
+     "sha256": "ef033cabc71d773120132e0a9bceece4594b6634dbebd9755fab1bb78706d129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-6-2024",
+   "path": "local/constanta/seimeni/2024/6",
+   "short": "HCL Seimeni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 6/2024 pentru validarea și însușirea Dispoziției Primarului Comunei Seimeni nr. 140/18.12.2023 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV al anului 2023 Luând act de: aProiectul de hotărâre și referatul de aprobare nr. 121/10.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b)raportul întocmit de compartimentul de specialitate din cadrul primăriei comunei",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-6-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-6-din-31.01.2024.pdf",
+     "sha256": "28cf44cc6c360416caf6ffaad754c1d63c16b7e8d5e26a638c7633388d916f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-7-2024",
+   "path": "local/constanta/seimeni/2024/7",
+   "short": "HCL Seimeni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 7/2024 pentru validarea și însușirea Dispoziției Primarului Comunei Seimeni nr. 145/21.12.2023 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV al anului 2023 Luând act de: a)Proiectul de hotărâre și referatul de aprobare nr. 122/10.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b)raportul întocmit de compartimentul de specialitate din cadrul primăriei comune",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-7-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-7-din-31.01.2024.pdf",
+     "sha256": "fc07dfc6bfac60bab1b801e0454519d8fbd2f3c64928d57854d17771537ea550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-8-2024",
+   "path": "local/constanta/seimeni/2024/8",
+   "short": "HCL Seimeni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 8/2024",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-8-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-8-din-31.01.2024.pdf",
+     "sha256": "56d72bb2827d8e222df2c0d012e70e671034f5a965c916fd012bc40d42166813"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-9-2024",
+   "path": "local/constanta/seimeni/2024/9",
+   "short": "HCL Seimeni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 9/2024 privind aprobarea unui număr de 20 asistenți personali ai persoanelor cu handicap grav pentru anul 2024, conform Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap (r1) Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 179/15.01.2024 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate al compartimentului de r",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-9-din-31.01.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2024/02/HCL-nr.-9-din-31.01.2024.pdf",
+     "sha256": "b37ec7c63be6cb6cd563ddff3bdfb0a379f2e6405f2976314c974a1b21a392f6"
     }
    ]
   }

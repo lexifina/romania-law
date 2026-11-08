@@ -3,6 +3,681 @@
  "shard": "local/constanta/vulturu/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--vulturu-1-2023",
+   "path": "local/constanta/vulturu/2023/1",
+   "short": "HCL Vulturu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2023 privind aprobarea documentaţiei tehnico- economice, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investitie „EXTINDERE REȚEA DE ALIMENTARE CU APĂ ȘI EXTINDERE REȚEA DE CANALIZARE ÎN COMUNA VULTURU, JUDEȚUL CONSTANȚA” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120734",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-10-2023",
+   "path": "local/constanta/vulturu/2023/10",
+   "short": "HCL Vulturu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 10/2023 privind aprobarea contului de execuție bugetară pentru trimestrul IV al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120745",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-11-2023",
+   "path": "local/constanta/vulturu/2023/11",
+   "short": "HCL Vulturu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 11/2023 privind aprobarea utilizării unei sume din excedentul anual al bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120746",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-12-2023",
+   "path": "local/constanta/vulturu/2023/12",
+   "short": "HCL Vulturu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 12/2023 privind aprobarea bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120747",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-13-2023",
+   "path": "local/constanta/vulturu/2023/13",
+   "short": "HCL Vulturu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 13/2023 privind organizarea reţelei şcolare a unităţilor de învăţământ aflate pe raza teritorială a comunei Vulturu care vor functiona în anul şcolar 2023-2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120748",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-14-2023",
+   "path": "local/constanta/vulturu/2023/14",
+   "short": "HCL Vulturu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 14/2023 privind aprobarea încheierii unui Protocol de colaborare între Unitatea Administrativ-Teritorială Vulturu și Ministerul Muncii și Solidarității Sociale, având ca obiect asigurarea colaborării interinstituționale în cadrul proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120749",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-15-2023",
+   "path": "local/constanta/vulturu/2023/15",
+   "short": "HCL Vulturu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 15/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120750",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-16-2023",
+   "path": "local/constanta/vulturu/2023/16",
+   "short": "HCL Vulturu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 16/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Vulturu pentru ședințele din lunile martie -mai 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120751",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-17-2023",
+   "path": "local/constanta/vulturu/2023/17",
+   "short": "HCL Vulturu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 17/2023 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120752",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-18-2023",
+   "path": "local/constanta/vulturu/2023/18",
+   "short": "HCL Vulturu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 18/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120774",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-19-2023",
+   "path": "local/constanta/vulturu/2023/19",
+   "short": "HCL Vulturu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 19/2023 privind scoaterea definitivă din circuitul agricol a terenului în suprafață de 11.481 mp, categoria de folosință pășune, situat în extravilanul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120775",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-2-2023",
+   "path": "local/constanta/vulturu/2023/2",
+   "short": "HCL Vulturu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 2/2023 privind aprobarea documentaţiei tehnico- economice, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investitie „MODERNIZARE STRĂZI ÎN COMUNA VULTURU, JUDEȚUL CONSTANȚA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120735",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-20-2023",
+   "path": "local/constanta/vulturu/2023/20",
+   "short": "HCL Vulturu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 20/2023 privind aprobarea planurilor anuale pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionării situațiilor de urgență",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120776",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-21-2023",
+   "path": "local/constanta/vulturu/2023/21",
+   "short": "HCL Vulturu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 21/2023 privind aprobarea depunerii proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a structurilor unităților de învățământ preuniversitar din comuna Vulturu, județul Constanța” în vederea finanțării prin Planul Național pentru Redresare și Reziliență al României, Componenta 15-Educaţie, apelul de proiecte „ Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120777",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-22-2023",
+   "path": "local/constanta/vulturu/2023/22",
+   "short": "HCL Vulturu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 22/2023 privind aprobarea documentației tehnico- economice si a indicatorilor tehnico-economici pentru obiectivul de investiție ''EFICIENTIZARE ȘI EXTINDERE ILUMINAT PUBLIC ÎN COMUNA VULTURU, JUDEȚUL CONSTANȚA''",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120778",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-23-2023",
+   "path": "local/constanta/vulturu/2023/23",
+   "short": "HCL Vulturu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 23/2023 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120779",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-24-2023",
+   "path": "local/constanta/vulturu/2023/24",
+   "short": "HCL Vulturu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 24/2023 privind stabilirea nivelurilor impozitelor si taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120783",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-25-2023",
+   "path": "local/constanta/vulturu/2023/25",
+   "short": "HCL Vulturu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 25/2023 privind aprobarea tarifelor și a taxei speciale pentru activitățile specifice serviciului de salubrizare realizate la nivelul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120784",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-26-2023",
+   "path": "local/constanta/vulturu/2023/26",
+   "short": "HCL Vulturu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 26/2023 privind înființarea Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120785",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-27-2023",
+   "path": "local/constanta/vulturu/2023/27",
+   "short": "HCL Vulturu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 27/2023 privind constituirea dreptului de uz si servitute asupra unor drumuri de exploatare care aparțin domeniului public al comunei Vulturu în favoarea Crucea Power Park S.R.L",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120786",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-28-2023",
+   "path": "local/constanta/vulturu/2023/28",
+   "short": "HCL Vulturu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 28/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120787",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-29-2023",
+   "path": "local/constanta/vulturu/2023/29",
+   "short": "HCL Vulturu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 29/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120788",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-3-2023",
+   "path": "local/constanta/vulturu/2023/3",
+   "short": "HCL Vulturu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2023 privind aprobarea utilizării unor sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120736",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-30-2023",
+   "path": "local/constanta/vulturu/2023/30",
+   "short": "HCL Vulturu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 30/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120789",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-31-2023",
+   "path": "local/constanta/vulturu/2023/31",
+   "short": "HCL Vulturu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 31/2023 privind aprobarea contului de execuție bugetară pentru trimestrul I al anului 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120790",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-32-2023",
+   "path": "local/constanta/vulturu/2023/32",
+   "short": "HCL Vulturu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 32/2023 privind aprobarea Contului de încheiere a exercițiului bugetar și a Situațiilor financiare anuale pentru anul 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120791",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-33-2023",
+   "path": "local/constanta/vulturu/2023/33",
+   "short": "HCL Vulturu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 33/2023 privind aprobarea utilizării unor sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120792",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-34-2023",
+   "path": "local/constanta/vulturu/2023/34",
+   "short": "HCL Vulturu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 34/2023 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120793",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-35-2023",
+   "path": "local/constanta/vulturu/2023/35",
+   "short": "HCL Vulturu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 35/2023 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120829",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-36-2023",
+   "path": "local/constanta/vulturu/2023/36",
+   "short": "HCL Vulturu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 36/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120830",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-37-2023",
+   "path": "local/constanta/vulturu/2023/37",
+   "short": "HCL Vulturu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 37/2023 privind aprobarea utilizării unei sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120831",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-38-2023",
+   "path": "local/constanta/vulturu/2023/38",
+   "short": "HCL Vulturu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 38/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Vulturu pentru ședințele din lunile iunie -august 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120832",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-39-2023",
+   "path": "local/constanta/vulturu/2023/39",
+   "short": "HCL Vulturu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 39/2023 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120833",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-4-2023",
+   "path": "local/constanta/vulturu/2023/4",
+   "short": "HCL Vulturu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 4/2023 privind aprobarea utilizării unei sume din excedentul anual al bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120737",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-40-2023",
+   "path": "local/constanta/vulturu/2023/40",
+   "short": "HCL Vulturu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 40/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Vulturu pentru ședința din data de 22.05.2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120834",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-41-2023",
+   "path": "local/constanta/vulturu/2023/41",
+   "short": "HCL Vulturu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 41/2023 privind modificarea tarifelor pentru activitățile de colectare separată, transport separat și tratare a deșeurilor similare realizate pentru instituțiile publice și agenții economici de pe raza Unității Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120835",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-42-2023",
+   "path": "local/constanta/vulturu/2023/42",
+   "short": "HCL Vulturu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 42/2023 privind aprobarea utilizării unei sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120836",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-43-2023",
+   "path": "local/constanta/vulturu/2023/43",
+   "short": "HCL Vulturu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 43/2023 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120837",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-44-2023",
+   "path": "local/constanta/vulturu/2023/44",
+   "short": "HCL Vulturu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 44/2023 privind aprobarea contului de execuție bugetară pentru trimestrul II al anului 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120846",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-45-2023",
+   "path": "local/constanta/vulturu/2023/45",
+   "short": "HCL Vulturu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 45/2023 privind aprobarea utilizării unei sume din excedentul anual al bugetului local al comunei Vulturu rezultat la încheierea exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120847",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-46-2023",
+   "path": "local/constanta/vulturu/2023/46",
+   "short": "HCL Vulturu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 46/2023 privind rectificarea Bugetului general al Unității Administrativ-Teritoriale Vulturu pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120848",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-47-2023",
+   "path": "local/constanta/vulturu/2023/47",
+   "short": "HCL Vulturu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 47/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Vulturu pentru ședințele din lunile septembrie - noiembrie 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/129586",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/129586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-48-2023",
+   "path": "local/constanta/vulturu/2023/48",
+   "short": "HCL Vulturu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 48/2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/129587",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/129587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-49-2023",
+   "path": "local/constanta/vulturu/2023/49",
+   "short": "HCL Vulturu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 49/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României în perioada 2023-2029 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Vulturu, județul Constanța",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/129588",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/129588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-5-2023",
+   "path": "local/constanta/vulturu/2023/5",
+   "short": "HCL Vulturu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 5/2023 privind repartizarea unor locuințe sociale care aparțin domeniului public al Unității Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120740",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120740",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-50-2023",
    "path": "local/constanta/vulturu/2023/50",
    "short": "HCL Vulturu nr. 50/2023",
@@ -153,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--vulturu-6-2023",
+   "path": "local/constanta/vulturu/2023/6",
+   "short": "HCL Vulturu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 6/2023 privind aprobarea numărului asistenților personali ai persoanelor cu handicap pentru anul 2023",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120741",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--vulturu-60-2023",
    "path": "local/constanta/vulturu/2023/60",
    "short": "HCL Vulturu nr. 60/2023",
@@ -298,6 +988,51 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/vulturu-ct/registru-hcl/135517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-7-2023",
+   "path": "local/constanta/vulturu/2023/7",
+   "short": "HCL Vulturu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 7/2023 privind aprobarea Planului de acțiuni și lucrări de interes local în vederea repartizării orelor de muncă prestate lunar de către persoanele apte de muncă beneficiare ale Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120742",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-8-2023",
+   "path": "local/constanta/vulturu/2023/8",
+   "short": "HCL Vulturu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 8/2023 privind declararea ca bunuri de uz și de interes public local a unor terenuri cu destinatie agricolă situate în extravilanul comunei Vulturu, judetul Constanta",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120743",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--vulturu-9-2023",
+   "path": "local/constanta/vulturu/2023/9",
+   "short": "HCL Vulturu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 9/2023 privind atestarea apartenenței unor bunuri imobile la domeniul privat al Unității Administrativ-Teritoriale Vulturu",
+   "url": "https://emol.ro/vulturu-ct/registru-hcl/120744",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-ct/registru-hcl/120744",
      "sha256": null
     }
    ]

@@ -3,6 +3,651 @@
  "shard": "local/constanta/pantelimon/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--pantelimon-1-2024",
+   "path": "local/constanta/pantelimon/2024/1",
+   "short": "HCL Pantelimon nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 1/2024 privind aprobarea reţelei școlare a unităţilor de învăţământ preuniversitar de pe raza administrativ-teritorială a comunei Pantelimon, jud. Constanţa, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/137159",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/137159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-10-2024",
+   "path": "local/constanta/pantelimon/2024/10",
+   "short": "HCL Pantelimon nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 10/2024 privind aprobarea planului de acțiuni/lucrări de interes local pe anul 2024, ce vor fi executate de persoanele apte de muncă beneficiare de ajutoare de incluziune, conform prevederilor Legii nr. 196/2016 privind Venitul Minim de Incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140043",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-100-2024",
+   "path": "local/constanta/pantelimon/2024/100",
+   "short": "HCL Pantelimon nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 100/2024 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 266 mp, CF nr. 104228, situat în satul Nistorești, str. Mare, nr. 2B, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167623",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-101-2024",
+   "path": "local/constanta/pantelimon/2024/101",
+   "short": "HCL Pantelimon nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 101/2024 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 7.224 mp, CF nr. 104238, situat în localitatea Pantelimon, strada Morii, nr. 15A, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167624",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-102-2024",
+   "path": "local/constanta/pantelimon/2024/102",
+   "short": "HCL Pantelimon nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 102/2024 privind aprobarea închirierii prin licitație publică deschisă a terenului intravilan în suprafață de 5.000 mp, CF nr. 104106, situat în satul Pantelimon de Jos, parcela CC 378/7, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167625",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-103-2024",
+   "path": "local/constanta/pantelimon/2024/103",
+   "short": "HCL Pantelimon nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 103/2024 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 1.782 mp, înscris în CF cu nr. 102920, situat în satul Pantelimon de Jos, strada Principală, nr. 18, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167626",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-104-2024",
+   "path": "local/constanta/pantelimon/2024/104",
+   "short": "HCL Pantelimon nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 104/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli ale bugetului local al comunei Pantelimon, județul Constanța - etapa august 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167627",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-105-2024",
+   "path": "local/constanta/pantelimon/2024/105",
+   "short": "HCL Pantelimon nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 105/2024 privind aprobarea alocării unui aport financiar de 10% de la bugetul local pentru acoperirea costurilor de proiectare a lucrărilor de consolidare-restaurare a Bisericii ”Sf. Nicolae”, localitatea Nistorești, comuna Pantelimon, județul Constanța – cod LMI CT-II-m-B-02913",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/169641",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/169641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-106-2024",
+   "path": "local/constanta/pantelimon/2024/106",
+   "short": "HCL Pantelimon nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 106/2024 privind atestarea apartenenței la domeniul privat al terenului intravilan în suprafață de 79 mp, situat în localitatea Pantelimon, str. Ulmetum, nr. 45A, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170228",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-107-2024",
+   "path": "local/constanta/pantelimon/2024/107",
+   "short": "HCL Pantelimon nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 107/2024 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170229",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-108-2024",
+   "path": "local/constanta/pantelimon/2024/108",
+   "short": "HCL Pantelimon nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 108/2024 privind aprobarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170230",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-109-2024",
+   "path": "local/constanta/pantelimon/2024/109",
+   "short": "HCL Pantelimon nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 109/2024 privind aprobarea extinderii perimetrului de exploatare al carierei ”Pantelimon de Sus” cu suprafața de 18,93 ha - comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170231",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-11-2024",
+   "path": "local/constanta/pantelimon/2024/11",
+   "short": "HCL Pantelimon nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 11/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate de la bugetul local al comunei Pantelimon, județul Constanța, pentru anul 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140044",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-110-2024",
+   "path": "local/constanta/pantelimon/2024/110",
+   "short": "HCL Pantelimon nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 110/2024 privind aprobarea acordării unui sprijin financiar elevului Andrei-Marian NEAGU, înscris la Liceul Tehnologic ”Dimitrie Leonida” Constanța - reprezentând regie cămin, mese și fond intrare cămin aferente anului școlar 2024-2025",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170232",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-111-2024",
+   "path": "local/constanta/pantelimon/2024/111",
+   "short": "HCL Pantelimon nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 111/2024 privind desemnarea reprezentantului Consiliului Local Pantelimon pentru a face parte din componența Consiliului de Administrație al Școlii Gimnaziale nr. 1 Pantelimon, județul Constanța, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170233",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-112-2024",
+   "path": "local/constanta/pantelimon/2024/112",
+   "short": "HCL Pantelimon nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 112/2024 privind anularea dobânzilor, penalităților, accesoriilor bugetare principale restante în temeiul O.U.G nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170234",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-113-2024",
+   "path": "local/constanta/pantelimon/2024/113",
+   "short": "HCL Pantelimon nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 113/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici aferenți proiectului de investiții ”Înființare centru de colectare prin aport voluntar în comuna Pantelimon, județul Constanța”",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170235",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-114-2024",
+   "path": "local/constanta/pantelimon/2024/114",
+   "short": "HCL Pantelimon nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 114/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170236",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-115-2024",
+   "path": "local/constanta/pantelimon/2024/115",
+   "short": "HCL Pantelimon nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 115/2024 privind validarea Dispoziției nr. 235/18.09.2024 privind rectificarea bugetului de venituri și cheltuieli al UAT comuna Pantelimon, județul Constanța – etapa septembrie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170237",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-116-2024",
+   "path": "local/constanta/pantelimon/2024/116",
+   "short": "HCL Pantelimon nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 116/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170238",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-117-2024",
+   "path": "local/constanta/pantelimon/2024/117",
+   "short": "HCL Pantelimon nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 117/2024 privind aprobarea încheierii unui parteneriat cu Asociația Hârșova 3D în vederea realizării proiectului ”Festivalul Diversității” depus spre finanțare la AFCN în sesiune I/2025",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/170239",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/170239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-118-2024",
+   "path": "local/constanta/pantelimon/2024/118",
+   "short": "HCL Pantelimon nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 118/2024 privind aprobarea susținerii financiare din bugetul local a cheltuielilor neeligibile aferente obiectivului de investiții „Înființare After - School loc. Pantelimon, comuna Pantelimon, județul Constanța”",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/172427",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/172427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-119-2024",
+   "path": "local/constanta/pantelimon/2024/119",
+   "short": "HCL Pantelimon nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 119/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici aferenți proiectului de investiții \"Asfaltare drum comunal DC75 comuna Pantelimon, județul Constanța\" – proiect finanțat prin Programul Național de Investiţii \"Anghel Saligny\"",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/172428",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/172428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-12-2024",
+   "path": "local/constanta/pantelimon/2024/12",
+   "short": "HCL Pantelimon nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 12/2024 privind atestarea apartenenței la domeniul privat al comunei Pantelimon a imobilului situat în localitatea Pantelimon, str. Rozelor, nr. 10, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140045",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-120-2024",
+   "path": "local/constanta/pantelimon/2024/120",
+   "short": "HCL Pantelimon nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 120/2024 privind aprobarea trecerii terenului extravilan neproductiv, în suprafață de 8.03 ha, situat în parcela N317/1, înscris în CF nr. 102980 din domeniul public în domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173886",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-121-2024",
+   "path": "local/constanta/pantelimon/2024/121",
+   "short": "HCL Pantelimon nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 121/2024 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173887",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-122-2024",
+   "path": "local/constanta/pantelimon/2024/122",
+   "short": "HCL Pantelimon nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 122/2024 privind aprobarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173888",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-123-2024",
+   "path": "local/constanta/pantelimon/2024/123",
+   "short": "HCL Pantelimon nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 123/2024 privind atestarea apartenenței la domeniului privat a unor imobile situate în extravilanul comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173889",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-124-2024",
+   "path": "local/constanta/pantelimon/2024/124",
+   "short": "HCL Pantelimon nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 124/2024 privind aprobarea închirierii prin licitație publică deschisă a terenului intravilan în suprafață de 1940 mp, situat în localitatea Pantelimon de Jos, str. Speranței, nr. 101, înscris în CF nr. 102361 comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173890",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-125-2024",
+   "path": "local/constanta/pantelimon/2024/125",
+   "short": "HCL Pantelimon nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 125/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli al UAT comuna Pantelimon, județul Constanța - etapa octombrie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173891",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-126-2024",
+   "path": "local/constanta/pantelimon/2024/126",
+   "short": "HCL Pantelimon nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 126/2024 privind aprobarea contului de execuție bugetară al comunei Pantelimon aferent trimestrului III al anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173892",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-127-2024",
+   "path": "local/constanta/pantelimon/2024/127",
+   "short": "HCL Pantelimon nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 127/2024 privind aprobarea acordării unui sprijin financiar elevului Marian-Cosmin AȘCHIOPOAEI, înscris la Liceul Tehnologic ”Dimitrie Leonida” Constanța - reprezentând regie cămin, mese și fond intrare cămin aferente anului școlar 2024-2025",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173893",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-128-2024",
+   "path": "local/constanta/pantelimon/2024/128",
+   "short": "HCL Pantelimon nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 128/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173894",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-129-2024",
+   "path": "local/constanta/pantelimon/2024/129",
+   "short": "HCL Pantelimon nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 129/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/173895",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/173895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-13-2024",
+   "path": "local/constanta/pantelimon/2024/13",
+   "short": "HCL Pantelimon nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 13/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140046",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-130-2024",
+   "path": "local/constanta/pantelimon/2024/130",
+   "short": "HCL Pantelimon nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 130/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/175013",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/175013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-131-2024",
+   "path": "local/constanta/pantelimon/2024/131",
+   "short": "HCL Pantelimon nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 131/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/175014",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/175014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-132-2024",
+   "path": "local/constanta/pantelimon/2024/132",
+   "short": "HCL Pantelimon nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 132/2024 privind constituirea comisiei de numărare a voturilor secrete în situațiile expres prevăzute de legislația în vigoare",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/175015",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/175015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-133-2024",
+   "path": "local/constanta/pantelimon/2024/133",
+   "short": "HCL Pantelimon nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 133/2024 privind alegerea viceprimarului comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/175016",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/175016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-134-2024",
+   "path": "local/constanta/pantelimon/2024/134",
+   "short": "HCL Pantelimon nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 134/2024 privind atestarea apartenenței la domeniul privat al comunei Pantelimon a imobilului situat în sat Pantelimon, strada Morii, nr. 1, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/176570",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/176570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-135-2024",
+   "path": "local/constanta/pantelimon/2024/135",
+   "short": "HCL Pantelimon nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 135/2024 privind aprobarea vânzării prin licitație publică deschisă a imobilului situat în sat Runcu, str. Nouă, nr. 11, înscris în CF cu nr. 102969, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/176571",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/176571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-136-2024",
+   "path": "local/constanta/pantelimon/2024/136",
+   "short": "HCL Pantelimon nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 136/2024 privind aprobarea dării în folosință gratuită a terenului extravilan neproductiv în suprafață de 8,03 ha, situat în parcela N317/1, înscris în CF cu nr. 102980, aparținând domeniului privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/176572",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/176572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-137-2024",
+   "path": "local/constanta/pantelimon/2024/137",
+   "short": "HCL Pantelimon nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 137/2024 privind aprobarea actualizării poziției nr. 7 din inventarul ce aparține bunurilor domeniului public al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/176573",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/176573",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-138-2024",
    "path": "local/constanta/pantelimon/2024/138",
    "short": "HCL Pantelimon nr. 138/2024",
@@ -28,6 +673,21 @@
      "from": "2024-12-09",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/176575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-14-2024",
+   "path": "local/constanta/pantelimon/2024/14",
+   "short": "HCL Pantelimon nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 14/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140047",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140047",
      "sha256": null
     }
    ]
@@ -183,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-15-2024",
+   "path": "local/constanta/pantelimon/2024/15",
+   "short": "HCL Pantelimon nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 15/2024 privind aprobarea înființării serviciilor de educație timpurie complementare ca structură a unităților de învățământ cu personalitate juridică cu grupe de nivel preșcolar și antepreșcolar în comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140048",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-150-2024",
    "path": "local/constanta/pantelimon/2024/150",
    "short": "HCL Pantelimon nr. 150/2024",
@@ -303,6 +978,786 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-16-2024",
+   "path": "local/constanta/pantelimon/2024/16",
+   "short": "HCL Pantelimon nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 16/2024 privind aprobarea participării UAT Comuna Pantelimon la apelul de proiecte cu titlul PNRR/2023/C7/MCID/I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale - Runda 2, aprobarea proiectului „FINANȚAREA BIBLIOTECILOR PENTRU A DEVENI HUB-URI DE DEZVOLTARE A COMPETENȚELOR DIGITALE ÎN COMUNA PANTELIMON, JUDEȚUL CONSTANȚA”, aprobarea cofinanțării și a cheltuielilor neeligibile",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140049",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-17-2024",
+   "path": "local/constanta/pantelimon/2024/17",
+   "short": "HCL Pantelimon nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 17/2024 privind atestarea apartenenței la domeniul privat al comunei Pantelimon, județul Constanța a imobilului situat în localitatea Pantelimon, str. Ulmetum, nr. 44B, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140050",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-18-2024",
+   "path": "local/constanta/pantelimon/2024/18",
+   "short": "HCL Pantelimon nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 18/2024 privind modificarea Organigramei și a Statului de funcții din cadrul aparatului de specialitate al primarului comunei Pantelimon, județul Constanța, la nivelul anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/141485",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/141485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-19-2024",
+   "path": "local/constanta/pantelimon/2024/19",
+   "short": "HCL Pantelimon nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 19/2024 privind aprobarea coeficienților și stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Pantelimon, pentru anul 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/141486",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/141486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-2-2024",
+   "path": "local/constanta/pantelimon/2024/2",
+   "short": "HCL Pantelimon nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 2/2024 privind validarea Dispoziției primarului comunei Pantelimon nr. 254 din 20.12.2023 privind rectificarea bugetului local de venituri și cheltuieli al UAT comuna Pantelimon, județul Constanța - etapa decembrie 2023",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140035",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-20-2024",
+   "path": "local/constanta/pantelimon/2024/20",
+   "short": "HCL Pantelimon nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 20/2024 privind modificarea și completarea inventarului domeniului privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/141487",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/141487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-21-2024",
+   "path": "local/constanta/pantelimon/2024/21",
+   "short": "HCL Pantelimon nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 21/2024 privind aprobarea și însușirea inventarului domeniului privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/141488",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/141488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-22-2024",
+   "path": "local/constanta/pantelimon/2024/22",
+   "short": "HCL Pantelimon nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 22/2024 privind aprobarea asocierii UAT comuna Pantelimon, județul Constanța cu organizația non-profit, neguvernamentală Asociația Pădurea Copiilor, pentru plantarea de arbori și îngrijirea lor, realizarea de aliniamente și perdele forestiere pentru combaterea schimbărilor climatice",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/141489",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/141489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-23-2024",
+   "path": "local/constanta/pantelimon/2024/23",
+   "short": "HCL Pantelimon nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 23/2024 privind aprobarea Bugetului de venituri și cheltuieli pentru anul 2024 al SC ULMETUM SERVICE PANTELIMON S.R.L",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/141490",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/141490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-24-2024",
+   "path": "local/constanta/pantelimon/2024/24",
+   "short": "HCL Pantelimon nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 24/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli al U.A.T comuna Pantelimon, județul Constanța pe anul 2024 - etapa februarie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144948",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-25-2024",
+   "path": "local/constanta/pantelimon/2024/25",
+   "short": "HCL Pantelimon nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 25/2024 privind aprobarea contului de execuție bugetară al comunei Pantelimon aferent trimestrului IV al anului 2023",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144949",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-26-2024",
+   "path": "local/constanta/pantelimon/2024/26",
+   "short": "HCL Pantelimon nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 26/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144950",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-27-2024",
+   "path": "local/constanta/pantelimon/2024/27",
+   "short": "HCL Pantelimon nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 27/2024 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144951",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-28-2024",
+   "path": "local/constanta/pantelimon/2024/28",
+   "short": "HCL Pantelimon nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 28/2024 privind aprobarea și însușirea inventarului bunurilor care alcătuiesc domeniului privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144952",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-29-2024",
+   "path": "local/constanta/pantelimon/2024/29",
+   "short": "HCL Pantelimon nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 29/2024 privind aprobarea participării în Programul Regional Sud-Est (PR-Sud Est) 2021-2027 cu proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE - CĂMIN CULTURAL NISTOREȘTI, COMUNA PANTELIMON, JUDEȚUL CONSTANȚA”, precum și aprobarea DALI-ului, a devizului general și a indicatorilor tehnico-economici aferenți",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144953",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-3-2024",
+   "path": "local/constanta/pantelimon/2024/3",
+   "short": "HCL Pantelimon nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 3/2024 privind aprobarea bugetului inițial de venituri și cheltuieli al U.A.T comuna Pantelimon, județul Constanța pe anul 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140036",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-30-2024",
+   "path": "local/constanta/pantelimon/2024/30",
+   "short": "HCL Pantelimon nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 30/2024 privind aprobarea Raportului de evaluare si a contractului pentru constituirea unui drept de superficie cu titlu oneros",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144954",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-31-2024",
+   "path": "local/constanta/pantelimon/2024/31",
+   "short": "HCL Pantelimon nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 31/2024 privind alegerea președintelui de ședință pentru ședința ordinară a Consiliului local Pantelimon din data de 27.02.2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/144955",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/144955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-32-2024",
+   "path": "local/constanta/pantelimon/2024/32",
+   "short": "HCL Pantelimon nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 32/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli ale bugetului local - etapa martie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149143",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-33-2024",
+   "path": "local/constanta/pantelimon/2024/33",
+   "short": "HCL Pantelimon nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 33/2024 privind aprobarea bugetului inițial al Asociației Sportive ”Ulmetum 21” Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149144",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-34-2024",
+   "path": "local/constanta/pantelimon/2024/34",
+   "short": "HCL Pantelimon nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 34/2024 privind aprobarea utilizării excedentului Asociației Sportive ”Ulmetum 21” Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149145",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-35-2024",
+   "path": "local/constanta/pantelimon/2024/35",
+   "short": "HCL Pantelimon nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 35/2024 privind casarea bunurilor de natura obiectelor de inventar aflate într-un stadiu avansat de degradare ale Asociației Sportive ”Ulmetum 21” Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149146",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-36-2024",
+   "path": "local/constanta/pantelimon/2024/36",
+   "short": "HCL Pantelimon nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 36/2024 privind aprobarea documentației tehnico-economice faza PT și a indicatorilor tehnico-economici, actualizată, pentru proiectul: ” Renovare Sediu Primărie Comuna Pantelimon, județul Constanța” proiect finanțat prin ”Planul Național de Redresare și Reziliență Componență C10 – Fondul local, I.3 – Reabilitare moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149147",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-37-2024",
+   "path": "local/constanta/pantelimon/2024/37",
+   "short": "HCL Pantelimon nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 37/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149148",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-38-2024",
+   "path": "local/constanta/pantelimon/2024/38",
+   "short": "HCL Pantelimon nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 38/2024 privind aprobarea rezilierii Contractelor de concesiune nr. 4, 5 și 6 din data de 23.02.2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149149",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-39-2024",
+   "path": "local/constanta/pantelimon/2024/39",
+   "short": "HCL Pantelimon nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 39/2024 privind aprobarea atestării apartenenței la domeniul privat a unor imobile situate în intravilanul comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149150",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-4-2024",
+   "path": "local/constanta/pantelimon/2024/4",
+   "short": "HCL Pantelimon nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 4/2024 privind aprobarea rezultatului inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii, aparținând comunei Pantelimon, județul Constanța, aferentă anului 2023",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140037",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-40-2024",
+   "path": "local/constanta/pantelimon/2024/40",
+   "short": "HCL Pantelimon nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 40/2024 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149151",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-41-2024",
+   "path": "local/constanta/pantelimon/2024/41",
+   "short": "HCL Pantelimon nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 41/2024 privind aprobarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149152",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-42-2024",
+   "path": "local/constanta/pantelimon/2024/42",
+   "short": "HCL Pantelimon nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 42/2024 privind aprobarea Raportului de evaluare a administratorului SC ULMETUM SERVICE PANTELIMON SRL și numirea administratorului SC ULMETUM SERVICE PANTELIMON SRL prin reînnoirea mandatului",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149153",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-43-2024",
+   "path": "local/constanta/pantelimon/2024/43",
+   "short": "HCL Pantelimon nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 43/2024 privind actualizarea actului constitutiv al SC ULMETUM SERVICE PANTELIMON SRL",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149154",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-44-2024",
+   "path": "local/constanta/pantelimon/2024/44",
+   "short": "HCL Pantelimon nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 44/2024 privind aprobarea închirierii prin atribuire directă a pajiștilor din domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149155",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-45-2024",
+   "path": "local/constanta/pantelimon/2024/45",
+   "short": "HCL Pantelimon nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 45/2024 privind solicitarea prelungirii până la data de 31.12.2024 a Scrisorii de garanție de la FNGCIMM SA IFN nr. 399/30.07.2018 în sumă de 430.000 lei în vederea garantării în procent de 100% a obligațiilor de plată a avansului de 430.000 lei din fondurile nerambursabile pentru implementarea proiectului “Înființare After School, localitatea Pantelimon, comuna Pantelimon, județul Constanța” comuna Pantelimon, județul Constanța, în baza contractului de finanțare nerambursabilă nr. C0720EN00011621400051/26.09.2017, cu modificările și completările ulterioare, în favoarea Agenției pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/149156",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/149156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-46-2024",
+   "path": "local/constanta/pantelimon/2024/46",
+   "short": "HCL Pantelimon nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 46/2024 privind alegerea președintelui de ședință pentru perioada mai - iulie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153235",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-47-2024",
+   "path": "local/constanta/pantelimon/2024/47",
+   "short": "HCL Pantelimon nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 47/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli al U.A.T comuna Pantelimon, județul Constanța pe anul 2024 - etapa aprilie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153236",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-48-2024",
+   "path": "local/constanta/pantelimon/2024/48",
+   "short": "HCL Pantelimon nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 48/2024 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2025, cu rata inflației de 10.4%",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153237",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-49-2024",
+   "path": "local/constanta/pantelimon/2024/49",
+   "short": "HCL Pantelimon nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 49/2024 privind atestarea apartenenței la domeniul privat a unor imobile situate în intravilanul și extravilanul comunei Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153238",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-5-2024",
+   "path": "local/constanta/pantelimon/2024/5",
+   "short": "HCL Pantelimon nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 5/2024 privind aprobarea Organigramei și a Statului de funcții din cadrul aparatului de specialitate al primarului comunei Pantelimon, județul Constanța, la nivelul anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140038",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-50-2024",
+   "path": "local/constanta/pantelimon/2024/50",
+   "short": "HCL Pantelimon nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 50/2024 privind declararea ca bunuri de uz de interes public local a unor imobile situate în extravilanul comunei Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153239",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-51-2024",
+   "path": "local/constanta/pantelimon/2024/51",
+   "short": "HCL Pantelimon nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 51/2024 privind aprobarea modificării Organigramei și Statului de funcții din cadrul aparatului de specialitate al primarului comunei Pantelimon, județul Constanța, la nivelul anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153240",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-52-2024",
+   "path": "local/constanta/pantelimon/2024/52",
+   "short": "HCL Pantelimon nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 52/2024 privind aprobarea protocolului de colaborare cu Centrul Cultural Județean Constanța ”Teodor T. Burada”",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153241",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-53-2024",
+   "path": "local/constanta/pantelimon/2024/53",
+   "short": "HCL Pantelimon nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 53/2024 privind retragerea din Societatea Civilă Particulară Asociația Sportivă - Ulmetum 21 Pantelimon a asociatului Consiliul Local Pantelimon prin restituirea în natură a bunului adus în asociație cu titlu de folosință și cota-parte din profitul realizat",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153242",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-54-2024",
+   "path": "local/constanta/pantelimon/2024/54",
+   "short": "HCL Pantelimon nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 54/2024 privind aprobarea situațiilor financiare ale SC Ulmetum Service Pantelimon SRL încheiate la data de 31.12.2023, a raportului de gestiune al administratorului și descărcarea de gestiune a administratorului raportat la situațiile aprobate și raportul auditor statuar",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153243",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-55-2024",
+   "path": "local/constanta/pantelimon/2024/55",
+   "short": "HCL Pantelimon nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 55/2024 privind aprobarea documentației tehnico-economice faza PT și a indicatorilor tehnico-economici pentru proiectul ”Înființare centru de colectare prin aport voluntar în comuna Pantelimon, județul Constanța” proiect finanțat prin Planul Național de Redresare și Reziliență Apel nr. PNRR/2022C3/S/I.1.A",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/153244",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/153244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-56-2024",
+   "path": "local/constanta/pantelimon/2024/56",
+   "short": "HCL Pantelimon nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 56/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli al UAT comuna Pantelimon, județul Constanța - etapa mai 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158261",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-57-2024",
+   "path": "local/constanta/pantelimon/2024/57",
+   "short": "HCL Pantelimon nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 57/2024 privind aprobarea contului de execuție bugetară al comunei Pantelimon aferent trimestrului I al anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158262",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-58-2024",
+   "path": "local/constanta/pantelimon/2024/58",
+   "short": "HCL Pantelimon nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 58/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158263",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-59-2024",
+   "path": "local/constanta/pantelimon/2024/59",
+   "short": "HCL Pantelimon nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 59/2024 privind modificarea Anexei nr. 1 care este parte integrantă din HCL nr. 49/19.04.2024 privind atestarea apartenenței la domeniul privat a unor imobile situate în intravilanul și extravilanul comunei Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158264",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-6-2024",
+   "path": "local/constanta/pantelimon/2024/6",
+   "short": "HCL Pantelimon nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 6/2024 privind aprobarea coeficienților și stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Pantelimon, pentru anul 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140039",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-60-2024",
+   "path": "local/constanta/pantelimon/2024/60",
+   "short": "HCL Pantelimon nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 60/2024 privind atestarea apartenenței la domeniul privat a unor imobile situate în intravilanul și extravilanul comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158265",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-61-2024",
+   "path": "local/constanta/pantelimon/2024/61",
+   "short": "HCL Pantelimon nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 61/2024 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158266",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-62-2024",
+   "path": "local/constanta/pantelimon/2024/62",
+   "short": "HCL Pantelimon nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 62/2024 privind aprobarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158267",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158267",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-63-2024",
    "path": "local/constanta/pantelimon/2024/63",
    "short": "HCL Pantelimon nr. 63/2024",
@@ -318,6 +1773,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-64-2024",
+   "path": "local/constanta/pantelimon/2024/64",
+   "short": "HCL Pantelimon nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 64/2024 privind stabilirea salariilor de bază și a indemnizațiilor lunare pentru funcționarii publici, personalul contractual și funcțiile de demnitate publică din cadrul UAT Comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/158269",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/158269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-65-2024",
+   "path": "local/constanta/pantelimon/2024/65",
+   "short": "HCL Pantelimon nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 65/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160376",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-66-2024",
+   "path": "local/constanta/pantelimon/2024/66",
+   "short": "HCL Pantelimon nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 66/2024 privind aprobarea atestării apartenenței la domeniul privat al imobilului situat în Pantelimon, strada Morii, numărul 15A",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160377",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160377",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-67-2024",
    "path": "local/constanta/pantelimon/2024/67",
    "short": "HCL Pantelimon nr. 67/2024",
@@ -328,6 +1828,531 @@
      "from": "2024-07-09",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-68-2024",
+   "path": "local/constanta/pantelimon/2024/68",
+   "short": "HCL Pantelimon nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 68/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160379",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-69-2024",
+   "path": "local/constanta/pantelimon/2024/69",
+   "short": "HCL Pantelimon nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 69/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160380",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-7-2024",
+   "path": "local/constanta/pantelimon/2024/7",
+   "short": "HCL Pantelimon nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 7/2024 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav pentru anul 2024 angajați cu Contract Individual de Muncă în cadrul U.A.T comuna Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140040",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-70-2024",
+   "path": "local/constanta/pantelimon/2024/70",
+   "short": "HCL Pantelimon nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 70/2024 privind delegarea gestiunii serviciului de iluminat public – delegare prin contract de achiziție publică de servicii pe o perioadă de 5 ani",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160381",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-71-2024",
+   "path": "local/constanta/pantelimon/2024/71",
+   "short": "HCL Pantelimon nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 71/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ”Construire balon tensiostatic Școala Gimnazială Pantelimon, județul Constanța”",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/160382",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/160382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-72-2024",
+   "path": "local/constanta/pantelimon/2024/72",
+   "short": "HCL Pantelimon nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 72/2024 privind declararea de uz și interes public local a terenului intravilan în suprafață de 5064 mp, situat în Pantelimon de Jos, str. Bisericii, nr. 1, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/161834",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/161834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-73-2024",
+   "path": "local/constanta/pantelimon/2024/73",
+   "short": "HCL Pantelimon nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 73/2024 privind aprobarea atestării apartenenței la domeniul privat al imobilului situat în Pantelimon, strada Nucilor, numărul 5, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/161835",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/161835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-74-2024",
+   "path": "local/constanta/pantelimon/2024/74",
+   "short": "HCL Pantelimon nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 74/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli ale bugetului local al comunei Pantelimon, județul Constanța-etapa iulie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/161836",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/161836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-75-2024",
+   "path": "local/constanta/pantelimon/2024/75",
+   "short": "HCL Pantelimon nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 75/2024 privind aprobarea cesionării dreptului de exploatare a rezervelor de piatră existente în zona Runcu, comuna Pantelimon, județul Constanța prin Contractul de asociere în participațiune nr. 412/10.02.2010 încheiat între Consiliul Local Pantelimon și SC Dinamic Leader SRL către LORD OF FARM SRL",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/161837",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/161837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-76-2024",
+   "path": "local/constanta/pantelimon/2024/76",
+   "short": "HCL Pantelimon nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 76/2024 privind alegerea președintelui de ședință pentru perioada august-septembrie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163746",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-77-2024",
+   "path": "local/constanta/pantelimon/2024/77",
+   "short": "HCL Pantelimon nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 77/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163747",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-78-2024",
+   "path": "local/constanta/pantelimon/2024/78",
+   "short": "HCL Pantelimon nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 78/2024 privind neaplicarea măsurilor dispuse de art. XXIX alin. (1) din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung la nivelul comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163748",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-79-2024",
+   "path": "local/constanta/pantelimon/2024/79",
+   "short": "HCL Pantelimon nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 79/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli ale bugetului local al comunei Pantelimon, județul Constanța - etapa iulie 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163749",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-8-2024",
+   "path": "local/constanta/pantelimon/2024/8",
+   "short": "HCL Pantelimon nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 8/2024 privind aprobarea acordării de stimulente și ajutoare financiare de urgență cetățenilor comunei Pantelimon, în anul 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140041",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-80-2024",
+   "path": "local/constanta/pantelimon/2024/80",
+   "short": "HCL Pantelimon nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 80/2024 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163750",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-81-2024",
+   "path": "local/constanta/pantelimon/2024/81",
+   "short": "HCL Pantelimon nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 81/2024 privind aprobarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163751",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-82-2024",
+   "path": "local/constanta/pantelimon/2024/82",
+   "short": "HCL Pantelimon nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 82/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163752",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-83-2024",
+   "path": "local/constanta/pantelimon/2024/83",
+   "short": "HCL Pantelimon nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 83/2024 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 10.000 mp, înscris în CF cu nr. 102155, situat în localitatea Pantelimon, strada Daliilor FN LOT 3, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163753",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-84-2024",
+   "path": "local/constanta/pantelimon/2024/84",
+   "short": "HCL Pantelimon nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 84/2024 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 10.000 mp, înscris în CF cu nr. 102153, situat în localitatea Pantelimon, strada Daliilor FN LOT 1, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163754",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-85-2024",
+   "path": "local/constanta/pantelimon/2024/85",
+   "short": "HCL Pantelimon nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 85/2024 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 10.000 mp, înscris în CF cu nr. 102137, situat în localitatea Pantelimon, strada Principală FN, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/163755",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/163755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-86-2024",
+   "path": "local/constanta/pantelimon/2024/86",
+   "short": "HCL Pantelimon nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 86/2024 privind darea în folosință gratuită a terenului aparținând domeniului privat al comunei Pantelimon, județul Constanța în suprafață de 3141 mp, situat în satul Nistorești, str. Bisericii, nr. 77, CF nr. 101876 către Parohia Nistorești",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/165630",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/165630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-87-2024",
+   "path": "local/constanta/pantelimon/2024/87",
+   "short": "HCL Pantelimon nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 87/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli ale bugetului local al comunei Pantelimon, județul Constanța - etapa august 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/165631",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/165631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-88-2024",
+   "path": "local/constanta/pantelimon/2024/88",
+   "short": "HCL Pantelimon nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 88/2024 privind aprobarea contului de execuție bugetară al comunei Pantelimon aferent trimestrului II al anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167611",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-89-2024",
+   "path": "local/constanta/pantelimon/2024/89",
+   "short": "HCL Pantelimon nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 89/2024 privind aprobarea modificării Organigramei și Statului de funcții din cadrul aparatului de specialitate al primarului comunei Pantelimon, județul Constanța, la nivelul anului 2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167612",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-9-2024",
+   "path": "local/constanta/pantelimon/2024/9",
+   "short": "HCL Pantelimon nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 9/2024 privind aprobarea planului de acțiuni comunitare pentru anul 2024 la nivelul comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/140042",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/140042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-90-2024",
+   "path": "local/constanta/pantelimon/2024/90",
+   "short": "HCL Pantelimon nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 90/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici aferenți proiectului de investiții \"Asfaltare drum comunal DC75 comuna Pantelimon, judetul Constanta\" – proiect finanțat prin Programul Național de Investiţii \"Anghel Saligny\"",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167613",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-91-2024",
+   "path": "local/constanta/pantelimon/2024/91",
+   "short": "HCL Pantelimon nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 91/2024 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici aferenți proiectului de investiții \"Asfaltare strada Bisericii, strada Principală și strada Mare, localitatea Nistorești, comuna Pantelimon, județul Constanța\" – proiect finanțat prin Programul Național de Investiţii \"Anghel Saligny\"",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167614",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-92-2024",
+   "path": "local/constanta/pantelimon/2024/92",
+   "short": "HCL Pantelimon nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 92/2024 privind aprobarea dezmembrării terenului intravilan în suprafață de 1.971 mp, CF nr. 102429, situat în satul Pantelimon de Jos, str. Principală, nr. 20, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167615",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-93-2024",
+   "path": "local/constanta/pantelimon/2024/93",
+   "short": "HCL Pantelimon nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 93/2024 privind aprobarea dezmembrării terenului intravilan în suprafață de 15.745 mp, CF nr. 104101, situat în satul Pantelimon de Jos, parcela CC 378/13, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167616",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-94-2024",
+   "path": "local/constanta/pantelimon/2024/94",
+   "short": "HCL Pantelimon nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 94/2024 privind aprobarea modificării HCL nr. 84/25.07.2024 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 10.000 mp, înscris în CF cu nr. 102153, situat în localitatea Pantelimon, strada Daliilor FN LOT 1, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167617",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-95-2024",
+   "path": "local/constanta/pantelimon/2024/95",
+   "short": "HCL Pantelimon nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 95/2024 privind aprobarea modificării HCL nr. 85/25.07.2024 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 10.000 mp, înscris în CF cu nr. 102137, situat în localitatea Pantelimon, strada Principală FN, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167618",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-96-2024",
+   "path": "local/constanta/pantelimon/2024/96",
+   "short": "HCL Pantelimon nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 96/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167619",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-97-2024",
+   "path": "local/constanta/pantelimon/2024/97",
+   "short": "HCL Pantelimon nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 97/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167620",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-98-2024",
+   "path": "local/constanta/pantelimon/2024/98",
+   "short": "HCL Pantelimon nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 98/2024",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167621",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-99-2024",
+   "path": "local/constanta/pantelimon/2024/99",
+   "short": "HCL Pantelimon nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 99/2024 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 143 mp, CF nr. 102045, situat în satul Pantelimon, str. Principală FN, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/167622",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/167622",
      "sha256": null
     }
    ]

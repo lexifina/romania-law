@@ -3,6 +3,36 @@
  "shard": "local/constanta/seimeni/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--seimeni-10-2026",
+   "path": "local/constanta/seimeni/2026/10",
+   "short": "HCL Seimeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 10/2026 privind alegerea președintelui de ședință al Consiliului Local Seimeni, pentru o perioadă de trei luni (martie – mai 2026) Văzând: - Proiectul de hotărâre și referatul de aprobare nr. 1641/02.03.2026 a primarului comunei Seimeni, în calitatea sa de inițiator; - raportul de specialitate întocmit de către secretarul general nr. 1642/02.06.2026; - rapoartele favorabile ale comisiilor de specialitate",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-10.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-10.pdf",
+     "sha256": "f256696318b2e824a974e2eb6e09ceb3d3454fca3530cfe1d764f57deca536c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-12-2026",
+   "path": "local/constanta/seimeni/2026/12",
+   "short": "HCL Seimeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 12/2026",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-12.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-12.pdf",
+     "sha256": "7a130a728ffbffd314940a92137ce3f3bb647ef92a7c99fb066c8dee694dac9c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--seimeni-13-2026",
    "path": "local/constanta/seimeni/2026/13",
    "short": "HCL Seimeni nr. 13/2026",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-13.pdf",
      "sha256": "c65750e789408174912ef563044b8f3afabddc9d8faa84687fe5d5e3a9f284a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-14-2026",
+   "path": "local/constanta/seimeni/2026/14",
+   "short": "HCL Seimeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 14/2026 privind atestarea apartenenței la domeniul privat al comunei Seimeni a unor imobile-terenuri Luând act de:  Proiectul de hotărâre și referatul de aprobare nr. 1857/10.03.2026 al primarului comunei Seimeni, în calitatea sa de inițiator;  raportul de specialitate întocmit de compartimentul de resort din cadrul Primăriei comunei Seimeni, înregistrat sub nr. 2014/17.03.2026;  procesul-verbal nr. 18",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-14.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-14.pdf",
+     "sha256": "e106c9e9ce05911567b6d4e3428b9a9d48a82a985585896a6d39901732f96d83"
     }
    ]
   },
@@ -59,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/06/HCL-nr.-19.pdf",
      "sha256": "2a7a2a7fc9634521a8d2ae85550b8ca7ef34893b081356f534087ae60e20b28c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-2-2026",
+   "path": "local/constanta/seimeni/2026/2",
+   "short": "HCL Seimeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 2/2026 Privind utilizarea excedentului bugetului Serviciului Public Apă Seimeni pentru acoperirea golurilor de casa aferente sectiunilor de functionare pe anul 2026 Având în vedere: a) Proiectul de hotărâre și referatul de aprobare nr. 37/08.01.2026 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul întocmit de compartimentul contabilitate, din cadrul primăriei comunei Seimeni, ȋnreg",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-2.pdf",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-2.pdf",
+     "sha256": "fbe621d282368f8ddd5aa78f9282ed625b43f25f276453546c2ddfeb83d9bb22"
     }
    ]
   },
@@ -239,6 +299,51 @@
      "units": 1,
      "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/09/HCL-nr.-34.pdf",
      "sha256": "2ef7f1fa3d612189a64b1ffc8a94c2b6981606a509e702d389eaa82f298ca968"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-4-2026",
+   "path": "local/constanta/seimeni/2026/4",
+   "short": "HCL Seimeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 4/2026 privind aprobarea unui număr de 20 asistenți personali ai persoanelor cu handicap grav pentru anul 2026, conform Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap (r1) Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 29/08.01.2026 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate al compartimentului de re",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-4.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-4.pdf",
+     "sha256": "20b1d92589222eaa35b98ff7ba3d79f59bcc42cc8b0aebb53e1197cafd956bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-5-2026",
+   "path": "local/constanta/seimeni/2026/5",
+   "short": "HCL Seimeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 5/2026 Privind aprobarea achiziționării de servicii de consultanță, de asistență și/sau de reprezentare juridică Luând act de: a) Proiectul de hotărâre și referatul de aprobare nr. 57/09.01.2026 a primarului comunei Seimeni, în calitatea sa de inițiator; b) raportul de specialitate al compartimentului de resort din cadrul primăriei comunei Seimeni, înregistrat sub nr. 58/09.01.2026; c) rapoartele comisii",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-5.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-5.pdf",
+     "sha256": "aca2c417223a74b6acdad3685df70be815ac4c5f821232b7915b1312b96ebefb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--seimeni-6-2026",
+   "path": "local/constanta/seimeni/2026/6",
+   "short": "HCL Seimeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Seimeni nr. 6/2026",
+   "url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-6.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primaria-seimeni.ro/wp-content/uploads/2026/03/HCL-nr.-6.pdf",
+     "sha256": "8ee1f75c0cf3956fd41a8b7f8bcb49ee364136c5f584468cfc4c8858e9ecb740"
     }
    ]
   },

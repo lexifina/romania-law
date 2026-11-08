@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--targusor-11-2021",
+   "path": "local/constanta/targusor/2021/11",
+   "short": "HCL Târgușor nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 11/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Târgușor – județul Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/18675",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/18675",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-12-2021",
    "path": "local/constanta/targusor/2021/12",
    "short": "HCL Târgușor nr. 12/2021",
@@ -148,6 +163,21 @@
      "from": "2021-04-20",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/22920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-2-2021",
+   "path": "local/constanta/targusor/2021/2",
+   "short": "HCL Târgușor nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 2/2021 privind completarea Statutului Asociației de Dezvoltare Intercomunitară ,,Apă-Canal\" Constanța",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/14781",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/14781",
      "sha256": null
     }
    ]
@@ -468,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--targusor-4-2021",
+   "path": "local/constanta/targusor/2021/4",
+   "short": "HCL Târgușor nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 4/2021",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/14783",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/14783",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-40-2021",
    "path": "local/constanta/targusor/2021/40",
    "short": "HCL Târgușor nr. 40/2021",
@@ -478,6 +523,21 @@
      "from": "2021-06-24",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/27716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-41-2021",
+   "path": "local/constanta/targusor/2021/41",
+   "short": "HCL Târgușor nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 41/2021 privind reorganizarea Consiliului Comunitar Consultativ la nivelul comunei Târguşor, judeţul Constanţa",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/27717",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/27717",
      "sha256": null
     }
    ]

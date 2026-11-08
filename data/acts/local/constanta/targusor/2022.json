@@ -3,6 +3,50 @@
 "shard": "local/constanta/targusor/2022",
 "acts": [
 {
+"slug": "hcl-constanta--targusor-1-2022",
+"path": "local/constanta/targusor/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 1/2022 privind aprobarea organizării reţelei şcolare de pe raza comunei Târguşor, judeţul Constanţa, pentru anul şcolar 2022 - 2023",
+"short": "HCL Târgușor nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/50742",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-2-2022",
+"path": "local/constanta/targusor/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 2/2022 privind aprobarea organigramei și a statului de funcții utilizate în cadrul aparatului de specialitate al primarului comunei Târgușor, județul Constanţa pentru anul 2022",
+"short": "HCL Târgușor nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/50743",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-3-2022",
 "path": "local/constanta/targusor/2022/3",
 "kind": "local",
@@ -355,6 +399,28 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-19-2022",
+"path": "local/constanta/targusor/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 19/2022 pentru modificarea și completarea Hotărârii Consiliului local Târgușor Nr. 3/31. 01. 2022 privind stabilirea cuantumului și numărului burselor elevilor din învățământul preuniversitar de stat ai școlii Gimnaziale nr. 1 Târgușor, județul Constanța, pentru anul școlar 2021 - 2022",
+"short": "HCL Târgușor nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/52791",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-20-2022",
 "path": "local/constanta/targusor/2022/20",
 "kind": "local",
@@ -641,6 +707,51 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-33-2022",
+"path": "local/constanta/targusor/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 33/2022 privind aprobarea Acordului Colectiv de Muncă și Contractului colectiv de muncă, încheiate la nivelul Primăriei comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-05",
+"latest": "2022-05-05",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/58609",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-34-2022",
+"path": "local/constanta/targusor/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 34/2022",
+"short": "HCL Târgușor nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-10",
+"latest": "2022-06-10",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/62467",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--targusor-35-2022",
 "path": "local/constanta/targusor/2022/35",
 "kind": "local",
@@ -924,6 +1035,29 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-48-2022",
+"path": "local/constanta/targusor/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 48/2022",
+"short": "HCL Târgușor nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/69863",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

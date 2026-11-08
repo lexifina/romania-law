@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-101-2022",
+   "path": "local/constanta/pantelimon/2022/101",
+   "short": "HCL Pantelimon nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 101/2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/74351",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74351",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-102-2022",
    "path": "local/constanta/pantelimon/2022/102",
    "short": "HCL Pantelimon nr. 102/2022",
@@ -58,6 +73,36 @@
      "from": "2022-10-18",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-103-2022",
+   "path": "local/constanta/pantelimon/2022/103",
+   "short": "HCL Pantelimon nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 103/2022 privind modificarea HCL nr. 68 din 31.05.2022 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 1777 mp situat în sat Pantelimon, strada Ulmetum, nr. 10A, comuna Pantelimon, județul Constanța, identificat cu nr.cadastral al 103410, înscris în CF cu nr. 103410",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/74353",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-104-2022",
+   "path": "local/constanta/pantelimon/2022/104",
+   "short": "HCL Pantelimon nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 104/2022 privind atestarea apartenenței la domeniul privat al comunei Pantelimon a unui imobil – teren situat în intravilanul loc. Runcu, strada Fierăriei, nr. 5A, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/74354",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74354",
      "sha256": null
     }
    ]
@@ -93,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-107-2022",
+   "path": "local/constanta/pantelimon/2022/107",
+   "short": "HCL Pantelimon nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 107/2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/74357",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74357",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-108-2022",
    "path": "local/constanta/pantelimon/2022/108",
    "short": "HCL Pantelimon nr. 108/2022",
@@ -103,6 +163,21 @@
      "from": "2022-10-18",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-109-2022",
+   "path": "local/constanta/pantelimon/2022/109",
+   "short": "HCL Pantelimon nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 109/2022 privind declararea ca bunuri de uz si de interes public local a unor imobile situate in comuna Pantelimon, judetul Constanta",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/75084",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/75084",
      "sha256": null
     }
    ]
@@ -268,6 +343,21 @@
      "from": "2022-11-15",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/78011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-12-2022",
+   "path": "local/constanta/pantelimon/2022/12",
+   "short": "HCL Pantelimon nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 12/2022 privind aprobarea revocarii H.C.L nr. 100 din 30.09.2021 privind aprobarea concesionarii prin licitatie publica deschisa a terenului intravilan in suprafata de 1662 mp situat in sat Nistoresti, strada Primariei, nr. 28, comuna Pantelimon, judetul Constanta, nr. cadastral 102917",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/53769",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/53769",
      "sha256": null
     }
    ]
@@ -663,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-23-2022",
+   "path": "local/constanta/pantelimon/2022/23",
+   "short": "HCL Pantelimon nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 23/2022 privind aprobarea inchirierii prin licitatie publica deschisa a incaperilor nr. 11,12,13,14,21,22,23,24,29,30,31 din cadrul imobilului Dispensar Uman situat in strada Daliilor, nr. 29, loc. Pantelimon, jud. Constanta, identificat cu numar cadastral 101489, inscris in cartea funciara nr. 101489 a loc. Pantelimon, jud. Constanta",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/54072",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/54072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-24-2022",
    "path": "local/constanta/pantelimon/2022/24",
    "short": "HCL Pantelimon nr. 24/2022",
@@ -688,6 +793,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/54074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-26-2022",
+   "path": "local/constanta/pantelimon/2022/26",
+   "short": "HCL Pantelimon nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 26/2022 privind aprobarea vanzarii prin licitatie publica deschisa a terenului intravilan in suprafata de 2075 mp situat in sat Pantelimon, strada Ulmetum, nr. 9, judetul Constanta, identificat cu nr. cadastral 102918",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/54075",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/54075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-27-2022",
+   "path": "local/constanta/pantelimon/2022/27",
+   "short": "HCL Pantelimon nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 27/2022 privind aprobarea concesionarii prin licitatie publica deschisa a terenului intravilan in suprafata de 10.000 mp situat in sat Pantelimon, strada Daliilor FN, lot 3, identificat cu nr. cadastral 102155",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/54076",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/54076",
      "sha256": null
     }
    ]
@@ -843,6 +978,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-37-2022",
+   "path": "local/constanta/pantelimon/2022/37",
+   "short": "HCL Pantelimon nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 37/2022 privind aprobarea închirierii prin licitație publică deschisă a încăperilor nr. 33, 32, 17 și 18 din cadrul imobilului Dispensar Uman situat în str. Daliilor, nr. 29, loc. Pantelimon, jud. Constanța, identificat cu nr. cadastral 101489, înscris în cartea funciară nr. 101489 a loc. Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/56194",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/56194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-38-2022",
+   "path": "local/constanta/pantelimon/2022/38",
+   "short": "HCL Pantelimon nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 38/2022 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 3618 mp, situate în strada Daliilor, nr. 67, loc Pantelimon, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 102324, înscris în cartea funciară nr. 102324 a loc. Pantelimon",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/56195",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/56195",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-39-2022",
    "path": "local/constanta/pantelimon/2022/39",
    "short": "HCL Pantelimon nr. 39/2022",
@@ -858,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-4-2022",
+   "path": "local/constanta/pantelimon/2022/4",
+   "short": "HCL Pantelimon nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 4/2022 privind aprobarea numarului de posturi de asistenti personali ai persoanelor cu handicap grav angajate in cadrul primariei comunei Pantelimon, judetul Constanta, cat si a numarului de indemnizatii acordate pentru persoane cu handicap grav, pentru anul 2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/53761",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/53761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-40-2022",
    "path": "local/constanta/pantelimon/2022/40",
    "short": "HCL Pantelimon nr. 40/2022",
@@ -868,6 +1048,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/56197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-41-2022",
+   "path": "local/constanta/pantelimon/2022/41",
+   "short": "HCL Pantelimon nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 41/2022 privind aprobarea închirierii prin atribuire directă a suprafeței de 63,70 ha pajiște aflată în domeniul privat al comunei Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/56198",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/56198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-42-2022",
+   "path": "local/constanta/pantelimon/2022/42",
+   "short": "HCL Pantelimon nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 42/2022 privind aprobarea concesionării prin licitație publică deschisă a terenului intravilan în suprafață de 1662 mp, situat în sat Nistorești, strada Primăriei, nr. 28, comuna Pantelimon, județul Constanța, nr. cadastral 102917",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/56199",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/56199",
      "sha256": null
     }
    ]
@@ -1278,6 +1488,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-68-2022",
+   "path": "local/constanta/pantelimon/2022/68",
+   "short": "HCL Pantelimon nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 68/2022 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 1777 mp situat în sat Pantelimon, strada Ulmetum, nr. 10A, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 103410, înscris in CF cu nr. 103410",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/62187",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/62187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-69-2022",
+   "path": "local/constanta/pantelimon/2022/69",
+   "short": "HCL Pantelimon nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 69/2022 privind aprobarea închirierii prin licitație publică deschisă a imobilului compus din construcții în suprafață de 48 mp și teren aferent în suprafață de 662 mp, situat în sat Pantelimon, strada Ulmetum, nr. 7B, identificat cu nr. cadastral 103403, înscris în CF cu nr. 103403",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/62188",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/62188",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-7-2022",
    "path": "local/constanta/pantelimon/2022/7",
    "short": "HCL Pantelimon nr. 7/2022",
@@ -1288,6 +1528,66 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/53764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-70-2022",
+   "path": "local/constanta/pantelimon/2022/70",
+   "short": "HCL Pantelimon nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 70/2022 privind aprobarea închirierii prin licitație publică deschisă a imobilului compus din construcții în suprafață de 48 mp și teren aferent în suprafață de 404 mp, situat în sat Pantelimon, strada Ulmetum, nr. 7C, identificat cu nr. cadastral 103401, înscris în CF cu nr. 103401",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/62189",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/62189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-71-2022",
+   "path": "local/constanta/pantelimon/2022/71",
+   "short": "HCL Pantelimon nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 71/2022 privind aprobarea închirierii prin licitație publică deschisă a imobilului compus din construcții în suprafață de 95 mp și teren aferent în suprafață de 1595 mp, situat în sat Pantelimon, strada Ulmetum, nr. 7D, identificat cu nr. cadastral 103406, înscris în CF cu nr. 103406",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/62190",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/62190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-72-2022",
+   "path": "local/constanta/pantelimon/2022/72",
+   "short": "HCL Pantelimon nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 72/2022 privind aprobarea închirierii prin licitație publică deschisă a terenului în suprafață de 225 mp, situat în sat Călugăreni, strada Dealului, nr. 4, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 103417, înscris în CF cu nr. 103417",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/62191",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/62191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-73-2022",
+   "path": "local/constanta/pantelimon/2022/73",
+   "short": "HCL Pantelimon nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 73/2022 privind aprobarea închirierii prin licitație publică deschisă a terenului în suprafață de 225 mp, situat în sat Runcu, strada Principală, nr.2A, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 103409, înscris în CF cu nr. 103409",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/62192",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/62192",
      "sha256": null
     }
    ]
@@ -1578,6 +1878,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-91-2022",
+   "path": "local/constanta/pantelimon/2022/91",
+   "short": "HCL Pantelimon nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 91/2022 privind aprobarea modificarii HCL nr. 4 din 31 ianuarie 2022 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si a indemnizatiilor de handicap pe anul 2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/69908",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/69908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-92-2022",
    "path": "local/constanta/pantelimon/2022/92",
    "short": "HCL Pantelimon nr. 92/2022",
@@ -1678,6 +1993,21 @@
      "from": "2022-10-18",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-99-2022",
+   "path": "local/constanta/pantelimon/2022/99",
+   "short": "HCL Pantelimon nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 99/2022 privind desemnarea a doi reprezentanți din partea Consiliului Local Pantelimon pentru a face parte din componența Consiliului de Administrație al Școlii Gimnaziale nr. 1 Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/74349",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/74349",
      "sha256": null
     }
    ]
