@@ -3,6 +3,21 @@
  "shard": "local/iasi/valea-lupului/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--valea-lupului-1-2023",
+   "path": "local/iasi/valea-lupului/2023/1",
+   "short": "HCL Valea Lupului nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 1/2023 privind aprobarea contractarii de servicii juridice cu un avocat in vederea coordonarii juridice si realizarii efective a procedurilor de expropriere in conformitate cu prevederile Legii nr. 255/2010 pentru proiectul \"Construire Scoala in Comuna Valea Lupului judetul lasi, in cadrul proiectului national Scoli mai sigure, incluzive si sustenabile (SSIS)\"",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/90736",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/90736",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-10-2023",
    "path": "local/iasi/valea-lupului/2023/10",
    "short": "HCL Valea Lupului nr. 10/2023",
@@ -138,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-108-2023",
+   "path": "local/iasi/valea-lupului/2023/108",
+   "short": "HCL Valea Lupului nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 108/2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/121582",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/121582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-109-2023",
+   "path": "local/iasi/valea-lupului/2023/109",
+   "short": "HCL Valea Lupului nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 109/2023 privind aprobarea locatiei ce va urma sa fie expropriata pentru cauza de utilitate publica, in vederea construirii unei gradinite",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/121583",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/121583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-11-2023",
    "path": "local/iasi/valea-lupului/2023/11",
    "short": "HCL Valea Lupului nr. 11/2023",
@@ -148,6 +193,21 @@
      "from": "2023-02-20",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/90769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-110-2023",
+   "path": "local/iasi/valea-lupului/2023/110",
+   "short": "HCL Valea Lupului nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 110/2023 privind acordarea unui ajutor financiar",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/121584",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/121584",
      "sha256": null
     }
    ]
@@ -513,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-133-2023",
+   "path": "local/iasi/valea-lupului/2023/133",
+   "short": "HCL Valea Lupului nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 133/2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/124164",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/124164",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-134-2023",
    "path": "local/iasi/valea-lupului/2023/134",
    "short": "HCL Valea Lupului nr. 134/2023",
@@ -538,6 +613,21 @@
      "from": "2023-08-31",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/124166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-136-2023",
+   "path": "local/iasi/valea-lupului/2023/136",
+   "short": "HCL Valea Lupului nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 136/2023 privind aprobarea vanzarii prin licitatie a terenului in suprafata de 16.000,00 mp nr. cadastral 96128, inscris in cartea funciara nr.96128 Miroslava - proprietate privata a Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/124167",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/124167",
      "sha256": null
     }
    ]
@@ -858,6 +948,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-156-2023",
+   "path": "local/iasi/valea-lupului/2023/156",
+   "short": "HCL Valea Lupului nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 156/2023 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului, jud. Iasi , care sa faca parte din Consiliul de administratie al Scolii Primare ,, Happy Kittens,, Valea Lupului, in anul scolar 2023-2024",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/124695",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/124695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-157-2023",
+   "path": "local/iasi/valea-lupului/2023/157",
+   "short": "HCL Valea Lupului nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 157/2023 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului, jud. Iasi , care sa faca parte din Consiliul de administratie al Scolii Primare ,, Happy Kittens,, Valea Lupului, in anul scolar 2023-2024",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/124696",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/124696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-158-2023",
    "path": "local/iasi/valea-lupului/2023/158",
    "short": "HCL Valea Lupului nr. 158/2023",
@@ -868,6 +988,21 @@
      "from": "2023-10-16",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/124697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-159-2023",
+   "path": "local/iasi/valea-lupului/2023/159",
+   "short": "HCL Valea Lupului nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 159/2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/124698",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/124698",
      "sha256": null
     }
    ]
@@ -898,6 +1033,36 @@
      "from": "2023-10-24",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/125370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-161-2023",
+   "path": "local/iasi/valea-lupului/2023/161",
+   "short": "HCL Valea Lupului nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 161/2023 privind aprobarea acordarii unui sprijin financiar pentru Parohia ,,SF IOSIF CEL MILOSTIV,, in anul 2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/125371",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/125371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-162-2023",
+   "path": "local/iasi/valea-lupului/2023/162",
+   "short": "HCL Valea Lupului nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 162/2023 privind aprobarea contractarii de servicii juridice cu un avocat in vederea coordonarii juridice si realizarii efective a procedurilor de expropriere in conformitate cu prevederile Legii nr.255/2010",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/125372",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/125372",
      "sha256": null
     }
    ]
@@ -973,6 +1138,21 @@
      "from": "2023-11-27",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/130243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-168-2023",
+   "path": "local/iasi/valea-lupului/2023/168",
+   "short": "HCL Valea Lupului nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 168/2023 privind aprobarea unui sprijin financiar pentru Parohia Pogorarea Duhului Sfant",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/130244",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/130244",
      "sha256": null
     }
    ]
@@ -1123,6 +1303,21 @@
      "from": "2023-11-27",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/130253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-178-2023",
+   "path": "local/iasi/valea-lupului/2023/178",
+   "short": "HCL Valea Lupului nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 178/2023 privind modificarea si completarea HCL nr.136 / 31.08.2023 privind aprobarea vanzarii prin licitatie a terenului in suprafata de 16.000,00 mp, nr.cadastral 96128, inscris in cartea funciara nr.96128 Miroslava - proprietate privata a Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/137753",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/137753",
      "sha256": null
     }
    ]
@@ -1653,6 +1848,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-26-2023",
+   "path": "local/iasi/valea-lupului/2023/26",
+   "short": "HCL Valea Lupului nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 26/2023 privind declansarea procedurilor de expropriere a imobilelor proprietate privata situate pe amplasamentul lucrarii de utilitate publica si interes local,, Construire scoala in Comuna Valea Lupului Judetul lasi, in cadrul Proiectului national al \"Scoli mai sigure, incluzive si sustenabile (SSIS) ''",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/91079",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/91079",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-27-2023",
    "path": "local/iasi/valea-lupului/2023/27",
    "short": "HCL Valea Lupului nr. 27/2023",
@@ -1708,6 +1918,21 @@
      "from": "2023-02-20",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/90761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-30-2023",
+   "path": "local/iasi/valea-lupului/2023/30",
+   "short": "HCL Valea Lupului nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 30/2023 privind declanclarea procedurilor de expropriere a imobilelor proprietate privata situate pe amplasamentul lucrarii de utilitate publica si interes local \"Modernizare prin asfaltare strazi in comuna Valea Lupului, Judetul lasi\"",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/92532",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/92532",
      "sha256": null
     }
    ]
@@ -1858,6 +2083,21 @@
      "from": "2023-02-20",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/90762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-40-2023",
+   "path": "local/iasi/valea-lupului/2023/40",
+   "short": "HCL Valea Lupului nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 40/2023 privind aprobarea unui sprijin financiar pentru Parohia ,,Beldiman,,",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/100440",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/100440",
      "sha256": null
     }
    ]
@@ -2103,6 +2343,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-56-2023",
+   "path": "local/iasi/valea-lupului/2023/56",
+   "short": "HCL Valea Lupului nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 56/2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/101143",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/101143",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-57-2023",
    "path": "local/iasi/valea-lupului/2023/57",
    "short": "HCL Valea Lupului nr. 57/2023",
@@ -2113,6 +2368,21 @@
      "from": "2023-03-30",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/101144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-58-2023",
+   "path": "local/iasi/valea-lupului/2023/58",
+   "short": "HCL Valea Lupului nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 58/2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/101145",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/101145",
      "sha256": null
     }
    ]
@@ -2178,6 +2448,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-62-2023",
+   "path": "local/iasi/valea-lupului/2023/62",
+   "short": "HCL Valea Lupului nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 62/2023 privind incetarea efectelor HCL nr. 26/14.02.2023 privind declanclarea procedurilor de expropriere a imobilelor proprietate privata situate pe amplasamentul lucrarii de utilitate publica si interes local ,,Construire scoala in Comuna Valea Lupului Judetul lasi, in cadrul Proiectului national \"Scoli mai sigure, incluzive si sustenabile (SSIS)\" \" si sistare a procedurilor de expropriere",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/103046",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/103046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-63-2023",
+   "path": "local/iasi/valea-lupului/2023/63",
+   "short": "HCL Valea Lupului nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 63/2023 privind modificarea si completarea listei imobilelor ce urmeaza a fl expropriate prevazute in Anexa nr. 4 a HCL nr. 30/21.02.2023 privind declanclarea procedurilor de expropriere a imobilelor proprietate privata situate pe amplasamentul lucrarii de utilitate publica si interes local \"Modernizare prin asfaltare strazi in Comuna Valea Lupului, Judetul Iasi\"",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/103047",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/103047",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-64-2023",
    "path": "local/iasi/valea-lupului/2023/64",
    "short": "HCL Valea Lupului nr. 64/2023",
@@ -2218,6 +2518,21 @@
      "from": "2023-05-09",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/103050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-67-2023",
+   "path": "local/iasi/valea-lupului/2023/67",
+   "short": "HCL Valea Lupului nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 67/2023 privind trecerea in domeniul public al Comunei Valea Lupului, judetul Iasi, ca urmare a exproprierii, a terenurilor ce constituie coridorul de expropriere al lucrarii de utilitate publica si interes local ,,Modernizare prin asfaltare strazi in comuna Va/ea Lupului, Judetul lasi\" si insusirea unor acte specifice",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/103370",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/103370",
      "sha256": null
     }
    ]
@@ -2313,6 +2628,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-73-2023",
+   "path": "local/iasi/valea-lupului/2023/73",
+   "short": "HCL Valea Lupului nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 73/2023 privind aprobarea unui sprijin financiar pentru Parohia Pogorarea Sfantului Duh",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/105085",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/105085",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-74-2023",
    "path": "local/iasi/valea-lupului/2023/74",
    "short": "HCL Valea Lupului nr. 74/2023",
@@ -2368,6 +2698,36 @@
      "from": "2023-04-27",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/105089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-78-2023",
+   "path": "local/iasi/valea-lupului/2023/78",
+   "short": "HCL Valea Lupului nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 78/2023 privind insusirea Deciziei nr. 2/24.04.2023 de numire a Comisieide veriflcare a dreptului de proprietate sau a altor drepturi reale si acordarea despagubirilor, pentru imobilele expropriate in vederea realizarii lucrarii de utilitate publica si interes local \"Modernizare prin asfaltare strazi in comuna Valea Lupului, Judetul lasi,\"",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/105090",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/105090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-79-2023",
+   "path": "local/iasi/valea-lupului/2023/79",
+   "short": "HCL Valea Lupului nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 79/2023",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/105091",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/105091",
      "sha256": null
     }
    ]
@@ -2508,6 +2868,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-88-2023",
+   "path": "local/iasi/valea-lupului/2023/88",
+   "short": "HCL Valea Lupului nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 88/2023 privind actualizarea si aprobarea Organigramei si Statului de functii al aparatului de specialitate al Primarului comunei Valea Lupului, jud. Iasi",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/109851",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/109851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-89-2023",
+   "path": "local/iasi/valea-lupului/2023/89",
+   "short": "HCL Valea Lupului nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 89/2023 privind stadiul de inscriere a datelor in Registrul agricol al comunei Valea Lupului pentru trimestrul I al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/109852",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/109852",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-9-2023",
    "path": "local/iasi/valea-lupului/2023/9",
    "short": "HCL Valea Lupului nr. 9/2023",
@@ -2548,6 +2938,21 @@
      "from": "2023-05-25",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/109854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-92-2023",
+   "path": "local/iasi/valea-lupului/2023/92",
+   "short": "HCL Valea Lupului nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 92/2023 privind aprobarea imio sprijin financiar pentru Parohia Romano Catolica Sfantul Pius de Pietrelcina",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/109855",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/109855",
      "sha256": null
     }
    ]

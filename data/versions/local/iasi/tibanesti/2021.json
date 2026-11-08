@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-103-2021",
+   "path": "local/iasi/tibanesti/2021/103",
+   "short": "HCL Țibănești nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 103/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/34237",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/34237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-104-2021",
    "path": "local/iasi/tibanesti/2021/104",
    "short": "HCL Țibănești nr. 104/2021",
@@ -178,6 +193,21 @@
      "from": "2021-01-28",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/16505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-110-2021",
+   "path": "local/iasi/tibanesti/2021/110",
+   "short": "HCL Țibănești nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 110/2021 privind actualizarea și completarea anexelor nr. 1 și nr.2 a HCL nr.112/2010, privind aprobarea denumirilor stradale din localitățile comunei Țibănești, județul Iași",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/36974",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/36974",
      "sha256": null
     }
    ]
@@ -288,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-118-2021",
+   "path": "local/iasi/tibanesti/2021/118",
+   "short": "HCL Țibănești nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 118/2021 privind desemnarea unui reprezentant al Consiliului Local Tibanesti in Consiliul de Administratie al Scolii Gimnaziale Glodenii Gandului, comuna Tibanesti, judetul Iasi, pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/36982",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/36982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-119-2021",
+   "path": "local/iasi/tibanesti/2021/119",
+   "short": "HCL Țibănești nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 119/2021 privind desemnarea unui numar de trei reprezentanti ai Consiliului Local Tibanesti, ca membrii ai Consiliului de Administratie al Liceului Tehnologic ,,Petre P. Carp,, Tibanesti, judetul Iasi, pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/36983",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/36983",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-12-2021",
    "path": "local/iasi/tibanesti/2021/12",
    "short": "HCL Țibănești nr. 12/2021",
@@ -343,6 +403,21 @@
      "from": "2021-09-28",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/36986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-123-2021",
+   "path": "local/iasi/tibanesti/2021/123",
+   "short": "HCL Țibănești nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 123/2021 privind modificare și completarea art.1 din HCL nr.119/28.09.2021 privind desemnarea unui număr de trei reprezentanti ai Consiliului Local Ţibăneşti, ca membrii în Consiliul de Administraţie al Liceului Tehnologic ,,Petre P. Carp,, Țibănești, judeţul Iaşi pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/38683",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/38683",
      "sha256": null
     }
    ]
@@ -408,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-128-2021",
+   "path": "local/iasi/tibanesti/2021/128",
+   "short": "HCL Țibănești nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 128/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/40234",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/40234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-129-2021",
    "path": "local/iasi/tibanesti/2021/129",
    "short": "HCL Țibănești nr. 129/2021",
@@ -418,6 +508,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/40235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-13-2021",
+   "path": "local/iasi/tibanesti/2021/13",
+   "short": "HCL Țibănești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 13/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/16507",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/16507",
      "sha256": null
     }
    ]
@@ -543,6 +648,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-138-2021",
+   "path": "local/iasi/tibanesti/2021/138",
+   "short": "HCL Țibănești nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 138/2021 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Țibănești pentru lunile noiembrie, decembrie 2021 și ianuarie 2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/40244",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/40244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-139-2021",
+   "path": "local/iasi/tibanesti/2021/139",
+   "short": "HCL Țibănești nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 139/2021 privind desemnarea reprezentantului Consiliului Local Țibănești, în comisia de evaluare a probei de interviu, privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și de director adjunct de la Liceul Tehnologic ,, Petre P. Carp,, Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/40245",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/40245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-14-2021",
    "path": "local/iasi/tibanesti/2021/14",
    "short": "HCL Țibănești nr. 14/2021",
@@ -553,6 +688,51 @@
      "from": "2021-02-18",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/17853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-140-2021",
+   "path": "local/iasi/tibanesti/2021/140",
+   "short": "HCL Țibănești nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 140/2021 privind desemnarea reprezentantului Consiliului Local Țibănești, în comisia de evaluare a probei de interviu, privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și de director adjunct de la Școala Gimnazială Glodenii Gândului",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/40246",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/40246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-141-2021",
+   "path": "local/iasi/tibanesti/2021/141",
+   "short": "HCL Țibănești nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 141/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/43080",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/43080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-142-2021",
+   "path": "local/iasi/tibanesti/2021/142",
+   "short": "HCL Țibănești nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 142/2021 privind încetarea concesiunii prin retragere a Contractului de concesiune nr. 2184/30.07.1997 încheiate între Consiliul Local Țibănești și SC CRISCOM SRL",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/43081",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/43081",
      "sha256": null
     }
    ]
@@ -583,6 +763,21 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/43083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-145-2021",
+   "path": "local/iasi/tibanesti/2021/145",
+   "short": "HCL Țibănești nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 145/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/43084",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/43084",
      "sha256": null
     }
    ]
@@ -853,6 +1048,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/44675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-162-2021",
+   "path": "local/iasi/tibanesti/2021/162",
+   "short": "HCL Țibănești nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 162/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/44676",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/44676",
      "sha256": null
     }
    ]
@@ -1368,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-20-2021",
+   "path": "local/iasi/tibanesti/2021/20",
+   "short": "HCL Țibănești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 20/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/17859",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/17859",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-21-2021",
    "path": "local/iasi/tibanesti/2021/21",
    "short": "HCL Țibănești nr. 21/2021",
@@ -1728,6 +1953,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-43-2021",
+   "path": "local/iasi/tibanesti/2021/43",
+   "short": "HCL Țibănești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 43/2021 privind soluționarea plângerii prealabile formulată de un grup de cetățeni ai comunei Țibănești cu domiciliul procedural ales la Cabinet individual de avocat ______________, împotriva Hotărârii Consiliului Local Țibănești nr.16/18.02.2021 privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului Comunei Tibanesti, judeţul Iaşi ca urmare a desființării Biroului de Poliție Locală Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22748",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-44-2021",
+   "path": "local/iasi/tibanesti/2021/44",
+   "short": "HCL Țibănești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 44/2021 privind soluționarea plângerii prealabile formulată de numiții _____________, _____________ și ____________ cu domiciliul procedural ales la Cabinet individual de avocat ______________, împotriva Hotărârii Consiliului Local Țibănești nr.16/18.02.2021, privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului Comunei Tibanesti, judeţul Iaş",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22749",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-45-2021",
+   "path": "local/iasi/tibanesti/2021/45",
+   "short": "HCL Țibănești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 45/2021 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Țibănești pentru lunile mai, iunie și iulie 2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22750",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-46-2021",
+   "path": "local/iasi/tibanesti/2021/46",
+   "short": "HCL Țibănești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 46/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22751",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-47-2021",
+   "path": "local/iasi/tibanesti/2021/47",
+   "short": "HCL Țibănești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 47/2021 privind aprobarea închirierii prin licitaţie publică a suprafeţei de 30,00 ha păşune situată în T – 54, B.F 1047 Ps.917 sat Recea aflată în domeniul public a comunei Ţibăneşti, judeţul Iaşi",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22752",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22752",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-48-2021",
    "path": "local/iasi/tibanesti/2021/48",
    "short": "HCL Țibănești nr. 48/2021",
@@ -1798,6 +2098,36 @@
      "from": "2021-04-15",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-52-2021",
+   "path": "local/iasi/tibanesti/2021/52",
+   "short": "HCL Țibănești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 52/2021 privind soluționarea plângerii prealabile formulată de domnul ____________ cu domiciliul procedural ales la Cabinet individual de avocat ______________ împotriva Hotărârii Consiliului Local Țibănești nr.16/18.02.2021 privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului Comunei Tibanesti, judeţul Iaşi ca urmare a desființării Biroului de Poliție Locală Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22757",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-53-2021",
+   "path": "local/iasi/tibanesti/2021/53",
+   "short": "HCL Țibănești nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 53/2021 privind soluționarea plângerii prealabile formulată de doamna __________________________ reprezentată de avocatii ______________ și ________________ cu domiciliul procedural ales la Sediul Societății Civile Profesionale de ________________________ din Iași împotriva Hotărârii Consiliului Local Țibănești nr.153/23.12.2020 privind înscrierea bunurilor ce revin domeniului privat în anexa Inventarului domeniului privat al comunei Țibănești, județul Iași",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/22758",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/22758",
      "sha256": null
     }
    ]
@@ -1878,6 +2208,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-59-2021",
+   "path": "local/iasi/tibanesti/2021/59",
+   "short": "HCL Țibănești nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 59/2021 privind împuternicirea primarului comunei Țibănești, județul Iași pentru semnarea în formă autentică a contractelor de vânzare – cumpărare, a imobilelor ce aparțin domeniului privat al comunei Țibănești situate în intravilanul satului Glodenii Gândului, comuna Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/23267",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/23267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-6-2021",
+   "path": "local/iasi/tibanesti/2021/6",
+   "short": "HCL Țibănești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 6/2021 privind desemnarea preşedintelui de şedinţă al Consiliului Local al Comunei Țibănești pentru lunile februarie, martie și aprilie 2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/16501",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/16501",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-60-2021",
    "path": "local/iasi/tibanesti/2021/60",
    "short": "HCL Țibănești nr. 60/2021",
@@ -1888,6 +2248,21 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/23268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-61-2021",
+   "path": "local/iasi/tibanesti/2021/61",
+   "short": "HCL Țibănești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 61/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/23269",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/23269",
      "sha256": null
     }
    ]
@@ -1918,6 +2293,21 @@
      "from": "2021-05-27",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/25626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-64-2021",
+   "path": "local/iasi/tibanesti/2021/64",
+   "short": "HCL Țibănești nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 64/2021 privind repartiția de locuințe sociale sau din fondul locativ de stat în regim de închiriere",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/25627",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/25627",
      "sha256": null
     }
    ]
@@ -2088,6 +2478,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-75-2021",
+   "path": "local/iasi/tibanesti/2021/75",
+   "short": "HCL Țibănești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 75/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/25638",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/25638",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-76-2021",
    "path": "local/iasi/tibanesti/2021/76",
    "short": "HCL Țibănești nr. 76/2021",
@@ -2223,6 +2628,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-84-2021",
+   "path": "local/iasi/tibanesti/2021/84",
+   "short": "HCL Țibănești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 84/2021 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Țibănești pentru lunile august, septembrie și octombrie 2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/30701",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/30701",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-85-2021",
    "path": "local/iasi/tibanesti/2021/85",
    "short": "HCL Țibănești nr. 85/2021",
@@ -2263,6 +2683,21 @@
      "from": "2021-07-20",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/30704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-88-2021",
+   "path": "local/iasi/tibanesti/2021/88",
+   "short": "HCL Țibănești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 88/2021",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/30705",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/30705",
      "sha256": null
     }
    ]
@@ -2368,6 +2803,21 @@
      "from": "2021-07-20",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/30711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-95-2021",
+   "path": "local/iasi/tibanesti/2021/95",
+   "short": "HCL Țibănești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 95/2021 privind închirierea prin licitație publică a spațiului în suprafață de 37,44 mp, existent la parterul blocului L sc.A, (camera 6), sat Țibănești, comuna Țibănești, județul Iași, aflat în domeniul public al comunei Țibănești pentru activități bancare",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/30712",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/30712",
      "sha256": null
     }
    ]

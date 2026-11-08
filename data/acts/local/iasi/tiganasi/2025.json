@@ -3,6 +3,292 @@
 "shard": "local/iasi/tiganasi/2025",
 "acts": [
 {
+"slug": "hcl-iasi--tiganasi-1-2025",
+"path": "local/iasi/tiganasi/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 1/2025 privind aprobarea Programului Anual al Achizițiilor Publice pentru anul 2024- forma finală",
+"short": "HCL Țigănași nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189450",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-2-2025",
+"path": "local/iasi/tiganasi/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 2/2025 privind aprobarea Planului local anual de lucrări pentru persoanele care au săvârșit infracțiuni și urmează să presteze muncă în folosul comunității ca obligație stabilită de către instanța de judecată",
+"short": "HCL Țigănași nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189451",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-3-2025",
+"path": "local/iasi/tiganasi/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 3/2025 privind aprobarea Planului de actiuni si lucrări de interes local pentru anul 2025 ce vor fi efectuate de către persoanele apte de muncă, beneficiare de venitul minim de incluziune potrivit Legii nr. 196 din 2016",
+"short": "HCL Țigănași nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189452",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-4-2025",
+"path": "local/iasi/tiganasi/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 4/2025 privind aprobarea Planului local anual de lucrări pentru persoanele care urmează să presteze muncă în folosul comunității ca obligație stabilită de către instanța de judecată",
+"short": "HCL Țigănași nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189453",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-5-2025",
+"path": "local/iasi/tiganasi/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 5/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local în anul 2025",
+"short": "HCL Țigănași nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189454",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-6-2025",
+"path": "local/iasi/tiganasi/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 6/2025 privind aprobarea Programului de acțiune comunitare pentru anul 2025",
+"short": "HCL Țigănași nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189455",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-7-2025",
+"path": "local/iasi/tiganasi/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 7/2025 privind aprobare execuţie bugetară la data de 31.12.2024",
+"short": "HCL Țigănași nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189456",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-8-2025",
+"path": "local/iasi/tiganasi/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 8/2025 privind actualizarea Inventarului Domeniului Privat al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189457",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-9-2025",
+"path": "local/iasi/tiganasi/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 9/2025 privind aprobarea propunerii de scoatere din circuitul agricol a unei suprafețe de teren, pentru realizarea unei investiții",
+"short": "HCL Țigănași nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189458",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-10-2025",
+"path": "local/iasi/tiganasi/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 10/2025 privind aprobarea studiului de oportunitate, caietului de sarcini, documentației de atribuire și a contractului-cadru pentru concesionarea prin licitație publică a imobilului - Iaz, situat în extravilanul comunei Țigănași, proprietate privată a comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189459",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-11-2025",
+"path": "local/iasi/tiganasi/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 11/2025 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+"short": "HCL Țigănași nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189460",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-12-2025",
+"path": "local/iasi/tiganasi/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 12/2025 privind aprobarea actualizării devizului general și bugetul proiectului: “Capacităţi de producere energie din surse regenerabile de energie, pentru consum propriu în Comuna Țigănași, judeţul Iași”,",
+"short": "HCL Țigănași nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/189461",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-13-2025",
+"path": "local/iasi/tiganasi/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 13/2025 privind aprobarea rezultatelor inventarierii patrimoniului comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/194068",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tiganasi-14-2025",
 "path": "local/iasi/tiganasi/2025/14",
 "kind": "local",
@@ -47,6 +333,94 @@
 }
 },
 {
+"slug": "hcl-iasi--tiganasi-16-2025",
+"path": "local/iasi/tiganasi/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 16/2025 privind revocarea Hotărârii Consiliului Local nr. 100 din 17.12.2024, privind actualizarea Nomenclatorului stradal al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/194071",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-17-2025",
+"path": "local/iasi/tiganasi/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 17/2025 privind constituirea comisiei de evaluare a ofertelor și a comisiei de soluționare a contestațiilor pentru concesionarea prin licitație publică a imobilului - Iaz, situat în extravilanul comunei Țigănași, proprietate privată a comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/194072",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-18-2025",
+"path": "local/iasi/tiganasi/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 18/2025 privind aprobarea Bugetului local al comunei Ţigănaşi, judeţul Iaşi aferent anului 2025",
+"short": "HCL Țigănași nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/200102",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-19-2025",
+"path": "local/iasi/tiganasi/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 19/2025 privind aprobarea Planului anual al achiziţiilor publice al comunei Ţigănaşi, judeţul Iași, aferent anului 2025",
+"short": "HCL Țigănași nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/200103",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tiganasi-20-2025",
 "path": "local/iasi/tiganasi/2025/20",
 "kind": "local",
@@ -66,6 +440,72 @@
 "council_name": "Consiliul Local al Comunei Țigănași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-21-2025",
+"path": "local/iasi/tiganasi/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 21/2025 cu privire la aprobarea valorii și procentului de cofinanțare pentru investiția „Improving the response to emergency situations through cooperation between Cotnari Commune, Tiganasi Commune, Carbuna Village and Gangura Commune” în vederea obținerii finanțării prin Programul ,,INTERREG VI-A NEXT ROMANIA – REPUBLIC OF MOLDOVA”, Priority 1, Objectiv 1.1 ,,Promoting climate change adaptation and disaster risk prevention, resilience, taking into account eco-system based approaches”",
+"short": "HCL Țigănași nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/200105",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-22-2025",
+"path": "local/iasi/tiganasi/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 22/2025 privind stadiul de înscriere a datelor în Registrul agricol al comunei Țigănași, la finalul anului 2024 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Țigănași nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/200106",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-23-2025",
+"path": "local/iasi/tiganasi/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 23/2025 privind alegerea președintelui de ședință pentru perioada aprilie -iunie 2025",
+"short": "HCL Țigănași nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/200107",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +553,138 @@
 }
 },
 {
+"slug": "hcl-iasi--tiganasi-26-2025",
+"path": "local/iasi/tiganasi/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 26/2025 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2025",
+"short": "HCL Țigănași nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/204702",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-27-2025",
+"path": "local/iasi/tiganasi/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 27/2025 privind aprobarea execuţie bugetare la data de 31.03.2025",
+"short": "HCL Țigănași nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/204703",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-28-2025",
+"path": "local/iasi/tiganasi/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 28/2025 privind însușirea unor rapoarte de evaluare a unor imobile din inventarul privat al comunei și aprobarea documentației în vederea concesionării prin licitație publică a unor suprafețe de teren din Inventarul domeniului privat al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/204704",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-29-2025",
+"path": "local/iasi/tiganasi/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 29/2025 privind însușirea unui număr de 3 (trei) rapoarte de evaluare a unor imobile din inventarul privat al comunei în vederea vânzării",
+"short": "HCL Țigănași nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/204705",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-30-2025",
+"path": "local/iasi/tiganasi/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 30/2025 privind acordarea ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+"short": "HCL Țigănași nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/204706",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-31-2025",
+"path": "local/iasi/tiganasi/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 31/2025 privind declararea de utilitate publică a obiectivului de investiții Capacități de producere energie din surse regenerabile de energie, pentru consum propriu în comuna Țigănași, județul Iași, și prin care se ia act că lucrările la acest obiectiv sunt incluse în Programul de dezvoltare locală",
+"short": "HCL Țigănași nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/204707",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tiganasi-32-2025",
 "path": "local/iasi/tiganasi/2025/32",
 "kind": "local",
@@ -132,6 +704,94 @@
 "council_name": "Consiliul Local al Comunei Țigănași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-33-2025",
+"path": "local/iasi/tiganasi/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 33/2025 privind validarea Dispoziției nr.104/21.05.2025 pentru modificarea Bugetului local aferent anului 2025 al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/209427",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-34-2025",
+"path": "local/iasi/tiganasi/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 34/2025 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2025-2026",
+"short": "HCL Țigănași nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/209428",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-35-2025",
+"path": "local/iasi/tiganasi/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 35/2025 privind însușirea unui număr de 3 rapoarte de evaluare a unor imobile din inventarul privat al comunei în vederea concesionării de loturi de casă prin licitație publică",
+"short": "HCL Țigănași nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/209429",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-36-2025",
+"path": "local/iasi/tiganasi/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 36/2025 privind validarea Dispoziției nr.120/27.05.2025 pentru modificarea Bugetului local aferent anului 2025 al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/209430",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +817,204 @@
 }
 },
 {
+"slug": "hcl-iasi--tiganasi-38-2025",
+"path": "local/iasi/tiganasi/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 38/2025 privind aprobarea valorii de investiție a proiectului „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA ȚIGĂNAȘI, JUDEȚUL IAȘI, ÎN CADRUL PS 2023-2027, MĂSURA - D28”, solicitarea scrisorii de garanție din partea Fondului de garantare, aprobarea bugetului de venituri și cheltuieli",
+"short": "HCL Țigănași nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/212152",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-39-2025",
+"path": "local/iasi/tiganasi/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 39/2025 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2025",
+"short": "HCL Țigănași nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/212153",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-40-2025",
+"path": "local/iasi/tiganasi/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 40/2025 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2025",
+"short": "HCL Țigănași nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213693",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-41-2025",
+"path": "local/iasi/tiganasi/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 41/2025 privind aprobarea documentației de atribuire în vederea concesionării și aprobarea concesionării prin licitație publică a imobilului cu numărul cadastral 64054 din Inventarul domeniului privat al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213694",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-42-2025",
+"path": "local/iasi/tiganasi/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 42/2025 privind aprobarea documentației de atribuire în vederea concesiunii și concesionarea prin licitație publică a unor suprefețe de teren în cadrul Târg-Obor Cârniceni",
+"short": "HCL Țigănași nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213695",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-43-2025",
+"path": "local/iasi/tiganasi/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 43/2025 privind aprobarea documentației de atribuire și concesionarea prin licitație publică a imobilelor cu numerele cadastrale 64052 și 64055 din Inventarul domeniului privat al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213696",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-44-2025",
+"path": "local/iasi/tiganasi/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 44/2025 privind aprobarea transferului sumelor alocate cu această destinație în bugetul comunei Țigănași aferent anului 2025 către ”Biserica Sfântul Spiridon Țigănași”",
+"short": "HCL Țigănași nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213697",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-45-2025",
+"path": "local/iasi/tiganasi/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 45/2025 privind aprobarea transferului sumelor alocate cu această destinație în bugetul comunei Țigănași aferent anului 2025 către ”Biserica Nasterea Maicii Domnului sat Mihail Kogălniceanu, com Țigănași”",
+"short": "HCL Țigănași nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213698",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-46-2025",
+"path": "local/iasi/tiganasi/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 46/2025 privind alegerea președintelui de ședință pentru perioada iulie -septembrie 2025",
+"short": "HCL Țigănași nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/213699",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tiganasi-47-2025",
 "path": "local/iasi/tiganasi/2025/47",
 "kind": "local",
@@ -179,6 +1037,226 @@
 }
 },
 {
+"slug": "hcl-iasi--tiganasi-48-2025",
+"path": "local/iasi/tiganasi/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 48/2025 privind aprobarea valorilor reevaluate a bunurilor ce aparțin domeniului public și domeniului privat al comunei Țigănași",
+"short": "HCL Țigănași nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218223",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-49-2025",
+"path": "local/iasi/tiganasi/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 49/2025 privind aprobarea execuţiei bugetare la data de 30.06.2025",
+"short": "HCL Țigănași nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218224",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-50-2025",
+"path": "local/iasi/tiganasi/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 50/2025 privind desemnarea comisiei de verificare a încărcăturii și modului de utilizarea pășunii de pe raza comunei Țigănași pe perioada mandatului primarului",
+"short": "HCL Țigănași nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218225",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-51-2025",
+"path": "local/iasi/tiganasi/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 51/2025 privind actualizarea Inventarului Domeniului Privat al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218226",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-52-2025",
+"path": "local/iasi/tiganasi/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 52/2025 privind însușirea unui număr de 2 rapoarte de evaluare a unor imobile din inventarul privat al comunei în vederea vânzării",
+"short": "HCL Țigănași nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218227",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-53-2025",
+"path": "local/iasi/tiganasi/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 53/2025 privind validarea Dispoziției nr.147/21.07.2025 pentru modificarea Bugetului local aferent anului 2025 al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218228",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-54-2025",
+"path": "local/iasi/tiganasi/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 54/2025 privind actualizarea Statului de funcții pentru Aparatul de specialitate al primarului comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/218229",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-55-2025",
+"path": "local/iasi/tiganasi/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 55/2025 privind aprobarea valorii de investiție a proiectului „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA ȚIGĂNAȘI, JUDEȚUL IAȘI, ÎN CADRUL PS 2023-2027, MĂSURA - D28”, solicitarea scrisorii de garanție din partea Fondului de garantare, aprobarea bugetului de venituri și cheltuieli",
+"short": "HCL Țigănași nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/221244",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-56-2025",
+"path": "local/iasi/tiganasi/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 56/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+"short": "HCL Țigănași nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/221245",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-57-2025",
+"path": "local/iasi/tiganasi/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 57/2025 privind aprobarea valorii de investiție a proiectului „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA ȚIGĂNAȘI, JUDEȚUL IAȘI, ÎN CADRUL PS 2023-2027, MĂSURA - D28”, solicitarea scrisorii de garanție din partea Fondului de garantare, aprobarea bugetului de venituri și cheltuieli",
+"short": "HCL Țigănași nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/223899",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tiganasi-58-2025",
 "path": "local/iasi/tiganasi/2025/58",
 "kind": "local",
@@ -198,6 +1276,50 @@
 "council_name": "Consiliul Local al Comunei Țigănași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-59-2025",
+"path": "local/iasi/tiganasi/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 59/2025 privind desemnarea membrilor din partea Consiliului Local Țigănași în Consiliul de administrație a Școlii ”Costache Antoniu” Țigănași",
+"short": "HCL Țigănași nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/223901",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-60-2025",
+"path": "local/iasi/tiganasi/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 60/2025 privind validarea Dispoziției nr.178/09.09.2025 pentru modificarea Bugetului local aferent anului 2025 al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/226539",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +1386,116 @@
 "council_name": "Consiliul Local al Comunei Țigănași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-64-2025",
+"path": "local/iasi/tiganasi/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 64/2025 privind delegarea primarului comunei Țigănași pentru semnarea unei declarații notariale",
+"short": "HCL Țigănași nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/226543",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-65-2025",
+"path": "local/iasi/tiganasi/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 65/2025 privind modificarea Hotărârii Consiliului Local al comunei Țigănași nr.43/25.06.2025",
+"short": "HCL Țigănași nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/226544",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-66-2025",
+"path": "local/iasi/tiganasi/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 66/2025 privind alegerea președintelui de ședință pentru perioada octombrie-decembrie 2025",
+"short": "HCL Țigănași nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/226545",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-67-2025",
+"path": "local/iasi/tiganasi/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 67/2025 privind aprobarea realizării obiectivului de investiții – Proiect,, Construire teren multisport, in incinta școlii Primare Stejarii, comuna Tiganasi, judetul Iasi’’ și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030",
+"short": "HCL Țigănași nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/226546",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-68-2025",
+"path": "local/iasi/tiganasi/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 68/2025 privind validarea Dispoziției nr.212/13.10.2025 pentru modificarea Bugetului local aferent anului 2025 al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/231197",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

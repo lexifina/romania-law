@@ -334,6 +334,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-seaca-74-2021",
+"path": "local/iasi/valea-seaca/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 74/2021",
+"short": "HCL Valea Seacă nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-10",
+"latest": "2021-05-10",
+"portal": "https://emol.ro/valeaseaca-is/registru-hcl/24640",
+"council": "iasi/valea-seaca",
+"council_name": "Consiliul Local al Comunei Valea Seacă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-seaca-75-2021",
 "path": "local/iasi/valea-seaca/2021/75",
 "kind": "local",
@@ -598,6 +621,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-seaca-87-2021",
+"path": "local/iasi/valea-seaca/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 87/2021 privind concesionarea suprafeței de 10 mp către RCS&RDS, pe raza satelor Topile și Valea-Seacă, comuna Valea-Seacă, jud. Iași (nr. 19/22.03.2021)",
+"short": "HCL Valea Seacă nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/valeaseaca-is/registru-hcl/32276",
+"council": "iasi/valea-seaca",
+"council_name": "Consiliul Local al Comunei Valea Seacă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-seaca-88-2021",
 "path": "local/iasi/valea-seaca/2021/88",
 "kind": "local",
@@ -706,6 +751,28 @@
 "council_name": "Consiliul Local al Comunei Valea Seacă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-seaca-93-2021",
+"path": "local/iasi/valea-seaca/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 93/2021 privind desemnarea a doi reprezentanți ai Consiliului Local Valea-Seacă în Consiliul de administrație al Școlii gimnaziale Valea-Seacă din comuna Valea-Seacă, județul Iași (nr. 55/09.09.2021)",
+"short": "HCL Valea Seacă nr. 93/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/valeaseaca-is/registru-hcl/37547",
+"council": "iasi/valea-seaca",
+"council_name": "Consiliul Local al Comunei Valea Seacă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,51 @@
  "shard": "local/ilfov/bragadiru/2020",
  "acts": [
   {
+   "slug": "hcl-ilfov--bragadiru-10-2020",
+   "path": "local/ilfov/bragadiru/2020/10",
+   "short": "HCL Bragadiru nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 10/2020",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/regagr/Buletin%20de%20avertizare%20nr.%2010%20din%2010.03.2020.pdf",
+     "sha256": "9f1535be6baf5877e95291ae1c595d518e89b5e98ffbdc46b4744edd82f7285c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-11-2020",
+   "path": "local/ilfov/bragadiru/2020/11",
+   "short": "HCL Bragadiru nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 11/2020",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/regagr/Buletin%20de%20avertizare%20nr.%2011%20din%2010.03.2020.pdf",
+     "sha256": "ddb0b6c570f71b25290861b7bc196e12c74225d116761d28d31c57b086faba22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-4-2020",
+   "path": "local/ilfov/bragadiru/2020/4",
+   "short": "HCL Bragadiru nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 4/2020",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/regagr/Buletin%20de%20avertizare%20nr.4%20din%2004.02.2020.pdf",
+     "sha256": "9c763b34253ea4585c4f83526524a2c72da798d3d96f2604a9078e2c64a445eb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--bragadiru-44-2020",
    "path": "local/ilfov/bragadiru/2020/44",
    "short": "HCL Bragadiru nr. 44/2020",
@@ -59,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.primariaorasbragadiru.ro/downloads/anunturi/Hotararea-CJSU-IF-nr-74_18.12.2020_propunere-prelungire-carantina-Bragadiru.pdf",
      "sha256": "7a6b6cf8d0272c53f85c3571c71ccd5f6e89bd37c889a118f020a628d973a19d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-9-2020",
+   "path": "local/ilfov/bragadiru/2020/9",
+   "short": "HCL Bragadiru nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 9/2020",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/regagr/Buletin%20de%20avertizare%20nr.%209%20din%2010.03.2020.pdf",
+     "sha256": "b0099fe11bd749086be9bcaebbe43d70a41556548aa466d670d0f4aace5edc8a"
     }
    ]
   }

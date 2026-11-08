@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-106-2020",
+   "path": "local/iasi/tatarusi/2020/106",
+   "short": "HCL Tătăruși nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 106/2020 privind îndreptarea unei erori materiale strecurate în cuprinsul Anexei 1 la HCL nr. 05 din 30.01.2020 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din primăria Tătăruși pentru anul 2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/10572",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10572",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-107-2020",
    "path": "local/iasi/tatarusi/2020/107",
    "short": "HCL Tătăruși nr. 107/2020",
@@ -148,6 +163,21 @@
      "from": "2020-09-18",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/11861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-11-2020",
+   "path": "local/iasi/tatarusi/2020/11",
+   "short": "HCL Tătăruși nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 11/2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9736",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9736",
      "sha256": null
     }
    ]
@@ -268,6 +298,36 @@
      "from": "2020-09-18",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/11869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-118-2020",
+   "path": "local/iasi/tatarusi/2020/118",
+   "short": "HCL Tătăruși nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 118/2020 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/17049",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/17049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-119-2020",
+   "path": "local/iasi/tatarusi/2020/119",
+   "short": "HCL Tătăruși nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 119/2020 privind aprobarea ordinii de zi a ședinței extraordinare convocată de îndată pentru data de 11 noiembrie 2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/17050",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/17050",
      "sha256": null
     }
    ]
@@ -648,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-16-2020",
+   "path": "local/iasi/tatarusi/2020/16",
+   "short": "HCL Tătăruși nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 16/2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9741",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-17-2020",
    "path": "local/iasi/tatarusi/2020/17",
    "short": "HCL Tătăruși nr. 17/2020",
@@ -718,6 +793,21 @@
      "from": "2020-02-05",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-21-2020",
+   "path": "local/iasi/tatarusi/2020/21",
+   "short": "HCL Tătăruși nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 21/2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9746",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9746",
      "sha256": null
     }
    ]
@@ -898,6 +988,21 @@
      "from": "2020-02-19",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-33-2020",
+   "path": "local/iasi/tatarusi/2020/33",
+   "short": "HCL Tătăruși nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 33/2020 privind desemnare reprezentanți ai Consiliului Local Tătăruși în Consiliul de Administrație al Școlii Profesionale Tătăruși pentru anul școlar 2019-2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9758",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9758",
      "sha256": null
     }
    ]
@@ -1128,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-48-2020",
+   "path": "local/iasi/tatarusi/2020/48",
+   "short": "HCL Tătăruși nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 48/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9949",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9949",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-49-2020",
    "path": "local/iasi/tatarusi/2020/49",
    "short": "HCL Tătăruși nr. 49/2020",
@@ -1153,6 +1273,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-50-2020",
+   "path": "local/iasi/tatarusi/2020/50",
+   "short": "HCL Tătăruși nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 50/2020 privind desemnarea consilierilor locali care vor face parte din Comisia de coordonare în vederea elaborării Strategiei de Dezvoltare Economico-Socială Durabilă pentru perioada 2021-2027 a Comunei Tătăruși, județul Iași",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9951",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9951",
      "sha256": null
     }
    ]
@@ -1368,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-64-2020",
+   "path": "local/iasi/tatarusi/2020/64",
+   "short": "HCL Tătăruși nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 64/2020 privind aprobarea închirierii prin licitație publică a unui spațiu și a terenului aferent aceastuia, ce aparțin domeniului public al comunei Tătăruși, județul Iași",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/10481",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10481",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-65-2020",
    "path": "local/iasi/tatarusi/2020/65",
    "short": "HCL Tătăruși nr. 65/2020",
@@ -1393,6 +1543,21 @@
      "from": "2020-05-26",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-67-2020",
+   "path": "local/iasi/tatarusi/2020/67",
+   "short": "HCL Tătăruși nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 67/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Tătăruși din data de 04.05.2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/10484",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10484",
      "sha256": null
     }
    ]
@@ -1498,6 +1663,21 @@
      "from": "2020-06-25",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-74-2020",
+   "path": "local/iasi/tatarusi/2020/74",
+   "short": "HCL Tătăruși nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 74/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/10540",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10540",
      "sha256": null
     }
    ]
@@ -1743,6 +1923,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-9-2020",
+   "path": "local/iasi/tatarusi/2020/9",
+   "short": "HCL Tătăruși nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 9/2020 privind aprobare număr asistenți personali ai persoanelor cu handicap grav și ai numărului de indemnizații lunare pentru anul 2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/9734",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/9734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-90-2020",
+   "path": "local/iasi/tatarusi/2020/90",
+   "short": "HCL Tătăruși nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 90/2020 privind necesitatea luării unor măsuri pentru prevenirea și combaterea situației care a generat starea de alertă și exclusiv pentru activități legate de aceasta, pentru o durată determinată",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/10556",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10556",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-91-2020",
    "path": "local/iasi/tatarusi/2020/91",
    "short": "HCL Tătăruși nr. 91/2020",
@@ -1783,6 +1993,21 @@
      "from": "2020-08-18",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-94-2020",
+   "path": "local/iasi/tatarusi/2020/94",
+   "short": "HCL Tătăruși nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 94/2020 privind aprobarea traseelor și a stațiilor pentru microbuzele aflate în proprietatea primăriei Tătăruși, care vor efectua doar transport local de persoane în comuna Tătăruși, județul Iași",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/10560",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/10560",
      "sha256": null
     }
    ]

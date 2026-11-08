@@ -203,6 +203,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-10-2025",
+"path": "local/iasi/valea-lupului/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 10/2025",
+"short": "HCL Valea Lupului nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/201494",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-11-2025",
 "path": "local/iasi/valea-lupului/2025/11",
 "kind": "local",
@@ -825,6 +848,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-39-2025",
+"path": "local/iasi/valea-lupului/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 39/2025 privind desemnarea consilierilor locali din cadrul Consiliului Local al comunei Valea Lupului care vor face parte din comisia de evaluare a performantelor profesionale individuale ale Secretarului General al U.A.T VALEA LUPULUI",
+"short": "HCL Valea Lupului nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/209159",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-40-2025",
 "path": "local/iasi/valea-lupului/2025/40",
 "kind": "local",
@@ -1177,6 +1222,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-56-2025",
+"path": "local/iasi/valea-lupului/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 56/2025 privind aprobarea unui sprijin financiar pentru Parohia Pogorarea Duhului Sfant",
+"short": "HCL Valea Lupului nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/215708",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-57-2025",
 "path": "local/iasi/valea-lupului/2025/57",
 "kind": "local",
@@ -1395,6 +1462,94 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-67-2025",
+"path": "local/iasi/valea-lupului/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 67/2025 privind aprobarea unui sprijin financiar pentru Parohia Pogorarea Duhului Sfant",
+"short": "HCL Valea Lupului nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/215753",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-68-2025",
+"path": "local/iasi/valea-lupului/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 68/2025 privind aprobarea unui sprijin financiar pentru Parohia ,,Beldiman,,",
+"short": "HCL Valea Lupului nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/215754",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-69-2025",
+"path": "local/iasi/valea-lupului/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 69/2025 privind aprobarea unui sprijin financiar pentru Parohia Romano Catolica Sfantul Pius de Pietrelcina",
+"short": "HCL Valea Lupului nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/215755",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-70-2025",
+"path": "local/iasi/valea-lupului/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 70/2025 privind acordarea unui sprijin financiar pentru ,,Asociatia Prietenii Scolii Valea Lupului,, in anul 2025",
+"short": "HCL Valea Lupului nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/215756",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2592,6 +2747,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-125-2025",
+"path": "local/iasi/valea-lupului/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 125/2025 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului , jud.Iasi care sa faca parte din Consiliul de administratie al Scolii Primare ,,Happy Kittens,, Valea Lupului si al Gradinitei ,,Happy Kittens,, Valea Lupului, in anul scolar 2025-2026",
+"short": "HCL Valea Lupului nr. 125/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/234146",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-126-2025",
 "path": "local/iasi/valea-lupului/2025/126",
 "kind": "local",
@@ -2721,6 +2898,29 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-132-2025",
+"path": "local/iasi/valea-lupului/2025/132",
+"kind": "local",
+"year": "2025",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 132/2025",
+"short": "HCL Valea Lupului nr. 132/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/234153",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -3586,6 +3786,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-172-2025",
+"path": "local/iasi/valea-lupului/2025/172",
+"kind": "local",
+"year": "2025",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 172/2025 privind aprobarea vanzarii prin licitatie a terenului in suprafata de 16.572 mp, nr.cadastral 100108, inscris in cartea funciara nr.100108 Miroslava- proprietate privata a Comunei Valea Lupului",
+"short": "HCL Valea Lupului nr. 172/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/247274",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-173-2025",
 "path": "local/iasi/valea-lupului/2025/173",
 "kind": "local",
@@ -3980,6 +4202,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-191-2025",
+"path": "local/iasi/valea-lupului/2025/191",
+"kind": "local",
+"year": "2025",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 191/2025 privind emiterea acordului Consiliului Local al Comunei Valea Lupului, catre S.C DELGAZ GRID S.A, necesar executarii lucrarii ,,Realizare conditii de coexistenta pentru construire 3 locuinte colective P+4E - imobil situat in comuna Valea Lupului, nr. cadastral 6496",
+"short": "HCL Valea Lupului nr. 191/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/247618",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,28 @@
 "shard": "local/iasi/tibanesti/2026",
 "acts": [
 {
+"slug": "hcl-iasi--tibanesti-1-2026",
+"path": "local/iasi/tibanesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 1/2026 privind desemnarea presedintelui de sedinta al Consiliului Local Tibanesti, pentru lunile februarie, martie si aprilie 2026",
+"short": "HCL Țibănești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/250992",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-2-2026",
 "path": "local/iasi/tibanesti/2026/2",
 "kind": "local",
@@ -92,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-6-2026",
+"path": "local/iasi/tibanesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 6/2026 privind aprobarea actualizarii cuantumului chiriei aferenta locuintelor pentru tineri destinate inchirierii, realizate de Agentia Nationala pentru Locuinte in comuna Tibanesti si respectiv cuantumul sumelor cu titlu de recuperare a investitiei, ce se vor vira Agentiei Nationale pentru Locuinte",
+"short": "HCL Țibănești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/257101",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-7-2026",
+"path": "local/iasi/tibanesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 7/2026 privind stabilirea si delimitarea zonelor de impozitare a imobilelor cladiri/terenuri situate in intravilanul comunei Tibanesti, judetul Iasi",
+"short": "HCL Țibănești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/257102",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-8-2026",
 "path": "local/iasi/tibanesti/2026/8",
 "kind": "local",
@@ -111,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-9-2026",
+"path": "local/iasi/tibanesti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 9/2026 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp Tibanesti,,",
+"short": "HCL Țibănești nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/257104",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -225,6 +313,29 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-15-2026",
+"path": "local/iasi/tibanesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 15/2026",
+"short": "HCL Țibănești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/261483",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-16-2026",
 "path": "local/iasi/tibanesti/2026/16",
 "kind": "local",
@@ -314,6 +425,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-20-2026",
+"path": "local/iasi/tibanesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 20/2026 privind decontarea catre SC GOLDEXO TEAM SRL a sumei de 147.944,36 lei, inclusiv TVA, reprezentand ajustari situatii lucrari 1-6 la obiectivul investitii ,,Amenajare trotuare, parcaje, rigole betonate si podete in zona centrala a localitatii Tibanesti, comuna Tibanesti, judetul Iasi,,",
+"short": "HCL Țibănești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/261488",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-21-2026",
+"path": "local/iasi/tibanesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 21/2026 privind decontarea catre SC ENVIRO CONSTRUCT SRL, a sumei de 143.772,93 lei, inclusiv TVA, reprezentand ajustari situatii lucrari 12, la obiectivul de investitii ,,Modernizare drumuri satesti in localitatile Tibanesti, Rasboieni si Glodenii Gandului din comuna Tibanesti, judetul Iasi",
+"short": "HCL Țibănești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/261489",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-22-2026",
 "path": "local/iasi/tibanesti/2026/22",
 "kind": "local",
@@ -381,6 +536,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-25-2026",
+"path": "local/iasi/tibanesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 25/2026 privind desemnarea presedintelui de sedinta al Consiliului Local Tibanesti, pentru lunile mai, iunie si iulie 2026",
+"short": "HCL Țibănești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/267786",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-26-2026",
 "path": "local/iasi/tibanesti/2026/26",
 "kind": "local",
@@ -444,6 +621,50 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-29-2026",
+"path": "local/iasi/tibanesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 29/2026 privind acordarea unui ajutor de urgenta in cuantum de 2500 lei dnei ______________",
+"short": "HCL Țibănești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/267790",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-30-2026",
+"path": "local/iasi/tibanesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 30/2026 privind acordarea unui ajutor de urgenta in cuantum de 2500 lei dlui _____________",
+"short": "HCL Țibănești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/267791",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -557,6 +778,94 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-36-2026",
+"path": "local/iasi/tibanesti/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 36/2026 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Tibanesti",
+"short": "HCL Țibănești nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/274874",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-37-2026",
+"path": "local/iasi/tibanesti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 37/2026 privind acordarea unui ajutor de urgenta, in cuantum de 10.000 lei, dlui ____________",
+"short": "HCL Țibănești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/274875",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-38-2026",
+"path": "local/iasi/tibanesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 38/2026 privind decontarea catre SC ENVIRO CONSTRUCT SRL a sumei de 267.215,17 lei, inclusiv TVA, reprezentand lucrari executate conform situatiei 13 de lucrari la obiectivul de investitii ,,Modernizare drumuri satesti in localitatile Tibanesti, Rasboieni si Glodenii Gandului din comuna Tibanesti, judetul Iasi,,",
+"short": "HCL Țibănești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/274876",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-39-2026",
+"path": "local/iasi/tibanesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 39/2026 privind decontarea catre SC ENVIRO CONSTRUCT SRL a sumei de 68.202,04 lei, inclusiv TVA, reprezentand ajustari situatie lucrari 13 la obiectivul de investitii ,,Modernizare drumuri satesti in localitatile Tibanesti, Rasboieni si Glodenii Gandului din comuna Tibanesti, judetul Iasi",
+"short": "HCL Țibănești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/274877",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-40-2026",
 "path": "local/iasi/tibanesti/2026/40",
 "kind": "local",
@@ -576,6 +885,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-41-2026",
+"path": "local/iasi/tibanesti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 41/2026 privind vanzarea prin licitatie publica a imobilului in suprafata de 506,00 mp situate in intravilanul satului Glodenii Gandului, comuna Tibanesti, judetul Iasi, T34, Parcela 424/2/136 inscris in CF nr.61780 Tibanesti, nr.cadastral 61780, proprietate privata a comunei Tibanesti, pentru costruire locuinta",
+"short": "HCL Țibănești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-15",
+"latest": "2026-07-15",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/278080",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -599,6 +930,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-43-2026",
+"path": "local/iasi/tibanesti/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 43/2026 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactie din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp Tibanesti,,",
+"short": "HCL Țibănești nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-15",
+"latest": "2026-07-15",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/278082",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -753,6 +1106,50 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-51-2026",
+"path": "local/iasi/tibanesti/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 51/2026 privind desemnarea presedintelui de sedinta al Consiliului Local Tibanesti, pentru lunile august, septembrie si octombrie 2026",
+"short": "HCL Țibănești nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/281324",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-52-2026",
+"path": "local/iasi/tibanesti/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 52/2026 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Tibanesti",
+"short": "HCL Țibănești nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/281325",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1105,6 +1502,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-69-2026",
+"path": "local/iasi/tibanesti/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 69/2026 privind decontarea sumei de 103.564 lei, inclusiv TVA, reprezentand lucrari executate, conform Situatiei 14 de lucrari si ajustarile aferente lucrarilor, conform Stuatiei de lucrari nr.14, la obiectivul de investitii ,,Modernizare drumuri satesti in localitatile Tibanesti, Rasboieni si Glodenii Gandului din comuna Tibanesti, judetul Iasi,,",
+"short": "HCL Țibănești nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/283292",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

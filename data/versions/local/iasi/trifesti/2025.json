@@ -468,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-17-2025",
+   "path": "local/iasi/trifesti/2025/17",
+   "short": "HCL Trifești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 17/2025 privind organizarea concursului „Cea mai frumoasă gospodărie”, acceptare donații pentru premii și alocarea sumei de 3000 lei pentru acordarea de premii",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/211236",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/211236",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-18-2025",
    "path": "local/iasi/trifesti/2025/18",
    "short": "HCL Trifești nr. 18/2025",
@@ -483,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-19-2025",
+   "path": "local/iasi/trifesti/2025/19",
+   "short": "HCL Trifești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 19/2025 privind alegerea din rândul consilierul a președintelui de ședință pentru trimestrul II 2025",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/211238",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/211238",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-2-2025",
    "path": "local/iasi/trifesti/2025/2",
    "short": "HCL Trifești nr. 2/2025",
@@ -493,6 +523,21 @@
      "from": "2025-06-24",
      "units": 1,
      "source_url": "https://emol.ro/trifesti-is/registru-hcl/211044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--trifesti-20-2025",
+   "path": "local/iasi/trifesti/2025/20",
+   "short": "HCL Trifești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 20/2025 privind aprobarea graficului de desfășurare al ședințelor Consiliului Local Trifești pentru trimestrul II 2025",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/211239",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/211239",
      "sha256": null
     }
    ]
@@ -603,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-28-2025",
+   "path": "local/iasi/trifesti/2025/28",
+   "short": "HCL Trifești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 28/2025 privind completarea comisiilor de specialitate în cadrul Consiliului Local Trifești, județul Iași",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/211248",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/211248",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-29-2025",
    "path": "local/iasi/trifesti/2025/29",
    "short": "HCL Trifești nr. 29/2025",
@@ -628,6 +688,21 @@
      "from": "2025-06-24",
      "units": 1,
      "source_url": "https://emol.ro/trifesti-is/registru-hcl/211045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--trifesti-30-2025",
+   "path": "local/iasi/trifesti/2025/30",
+   "short": "HCL Trifești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 30/2025 privind închirierea pajiștilor permanente, aflate în domeniul public al Comunei Trifești",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/211253",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/211253",
      "sha256": null
     }
    ]
@@ -1098,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-6-2025",
+   "path": "local/iasi/trifesti/2025/6",
+   "short": "HCL Trifești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 6/2025",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/211048",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/211048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-60-2025",
    "path": "local/iasi/trifesti/2025/60",
    "short": "HCL Trifești nr. 60/2025",
@@ -1323,6 +1413,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-75-2025",
+   "path": "local/iasi/trifesti/2025/75",
+   "short": "HCL Trifești nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 75/2025",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/234885",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/234885",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-76-2025",
    "path": "local/iasi/trifesti/2025/76",
    "short": "HCL Trifești nr. 76/2025",
@@ -1333,6 +1438,21 @@
      "from": "2026-01-28",
      "units": 1,
      "source_url": "https://emol.ro/trifesti-is/registru-hcl/235125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--trifesti-77-2025",
+   "path": "local/iasi/trifesti/2025/77",
+   "short": "HCL Trifești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 77/2025 privind concesionarea prin licitație publică asuprafetelor de teren, Lot 1-teren cu suprafață de 47446 mp, categoria de folosință \" arabil\" situat în extravilanul Comunei Trifești, județul Iași, Lot 2-teren cu suprafață de 96340 mp, categoria de folosință \" pasune\" situat în extravilanul Comunei Trifești, județul Iași, Lot 3-teren cu suprafață de 245164, categoria de folosință \" pasune\" situat în extravilanul Comunei Trifești, județul Iași, Lot 4- teren cu suprafață de 108950 mp, categoria de folosință pasune, situat în extravilanul comunei Trifești",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/235126",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/235126",
      "sha256": null
     }
    ]

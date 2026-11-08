@@ -600,6 +600,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-28-2022",
+"path": "local/iasi/valea-lupului/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 28/2022 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului pentru fiecare unitate de invatamant cu personalitate juridica de pe raza UAT Valea Lupului, jud. Iasi, care sa faca parte din Comisia de evaluare a probei interviu, in calitate de membru,precum si desemnarea unui membru supleant",
+"short": "HCL Valea Lupului nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/56111",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-29-2022",
 "path": "local/iasi/valea-lupului/2022/29",
 "kind": "local",
@@ -796,6 +818,94 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-38-2022",
+"path": "local/iasi/valea-lupului/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 38/2022 privind aprobarea unui sprijin financiar pentru Parohia ,, Beldiman,,",
+"short": "HCL Valea Lupului nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/57996",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-39-2022",
+"path": "local/iasi/valea-lupului/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 39/2022 privind aprobarea unui sprijin financiar pentru Parohia SF.IOSIF CEL MILOSTIV",
+"short": "HCL Valea Lupului nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/57997",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-40-2022",
+"path": "local/iasi/valea-lupului/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 40/2022 privind aprobarea unui sprijin financiar pentru Parohia Ramano Catolica Sfantul Pius de Pietrelcina",
+"short": "HCL Valea Lupului nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/57998",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-41-2022",
+"path": "local/iasi/valea-lupului/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 41/2022 privind aprobarea unui sprijin financiar pentru Parohia Pogorarea Sfantului Duh",
+"short": "HCL Valea Lupului nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/57999",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1021,6 +1131,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-52-2022",
+"path": "local/iasi/valea-lupului/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 52/2022",
+"short": "HCL Valea Lupului nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/58009",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-53-2022",
 "path": "local/iasi/valea-lupului/2022/53",
 "kind": "local",
@@ -1107,6 +1240,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-57-2022",
+"path": "local/iasi/valea-lupului/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 57/2022 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului care sa faca parte din Consiliul de administratie al Gradinitei \"Happy Kittens\" Valea Lupului, in anul Scolar 2021-2022",
+"short": "HCL Valea Lupului nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/58014",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1465,6 +1620,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-74-2022",
+"path": "local/iasi/valea-lupului/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 74/2022 privind aprobarea contractarii de servicii juridice cu un avocat in vederea coordonarii juridice si realizarii efective a procedurilor de expropriere in conformitate cu prevederile Legii nr.255/2010",
+"short": "HCL Valea Lupului nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/60993",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-75-2022",
 "path": "local/iasi/valea-lupului/2022/75",
 "kind": "local",
@@ -1816,6 +1993,29 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-92-2022",
+"path": "local/iasi/valea-lupului/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 92/2022",
+"short": "HCL Valea Lupului nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/64252",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2201,6 +2401,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-110-2022",
+"path": "local/iasi/valea-lupului/2022/110",
+"kind": "local",
+"year": "2022",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 110/2022 privind aprobarea contractarii de servicii juridice cu un avocat in vederea coordonarii juridice si realizarii efective a procedurilor de expropriere in conformitate cu prevederile Legii nr.255/2010 pentru construirea unei gradinite",
+"short": "HCL Valea Lupului nr. 110/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/69548",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-111-2022",
 "path": "local/iasi/valea-lupului/2022/111",
 "kind": "local",
@@ -2220,6 +2442,29 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-112-2022",
+"path": "local/iasi/valea-lupului/2022/112",
+"kind": "local",
+"year": "2022",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 112/2022",
+"short": "HCL Valea Lupului nr. 112/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/69550",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2601,6 +2846,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-130-2022",
+"path": "local/iasi/valea-lupului/2022/130",
+"kind": "local",
+"year": "2022",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 130/2022 privind declansarea procedurilor de expropriere a imobilelor proprietate private situate pe amplasamentul lucrarii de utilitate publica ,,Construire cresa mare in comuna Valea Lupului, judetul Iasi,,",
+"short": "HCL Valea Lupului nr. 130/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-29",
+"latest": "2022-08-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/69679",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-131-2022",
 "path": "local/iasi/valea-lupului/2022/131",
 "kind": "local",
@@ -2755,6 +3022,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-138-2022",
+"path": "local/iasi/valea-lupului/2022/138",
+"kind": "local",
+"year": "2022",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 138/2022",
+"short": "HCL Valea Lupului nr. 138/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/70693",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-139-2022",
 "path": "local/iasi/valea-lupului/2022/139",
 "kind": "local",
@@ -2797,6 +3087,29 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-141-2022",
+"path": "local/iasi/valea-lupului/2022/141",
+"kind": "local",
+"year": "2022",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 141/2022",
+"short": "HCL Valea Lupului nr. 141/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/70696",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -3131,6 +3444,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-157-2022",
+"path": "local/iasi/valea-lupului/2022/157",
+"kind": "local",
+"year": "2022",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 157/2022",
+"short": "HCL Valea Lupului nr. 157/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/76313",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-158-2022",
 "path": "local/iasi/valea-lupului/2022/158",
 "kind": "local",
@@ -3288,6 +3624,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-165-2022",
+"path": "local/iasi/valea-lupului/2022/165",
+"kind": "local",
+"year": "2022",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 165/2022 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului care sa faca parte din Consiliul de administratie al Scolii Primare \"Happy Kittens\" Valea Lupului, in anul scolar 2022-2023",
+"short": "HCL Valea Lupului nr. 165/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/76321",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-166-2022",
 "path": "local/iasi/valea-lupului/2022/166",
 "kind": "local",
@@ -3329,6 +3687,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-168-2022",
+"path": "local/iasi/valea-lupului/2022/168",
+"kind": "local",
+"year": "2022",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 168/2022 privind trecerea in domeniul public al Comunei Valea Lupului, ca urmare a exproprierii, a terenurilor ce constituie coridorul de expropriere al lucrarii de utilitate publica \"Construire cresa mare in comuna Valea Lupului judetul Iasi\" si insusirea unor acte specifice",
+"short": "HCL Valea Lupului nr. 168/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/76324",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

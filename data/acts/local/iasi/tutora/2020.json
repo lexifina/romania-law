@@ -135,6 +135,51 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-7-2020",
+"path": "local/iasi/tutora/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 7/2020 privind revocarea Hotărârii Consiliului Local Țuțora nr. 99/28.11.2019 privind constatarea unor măsuri trasate prin Decizia nr. 33/2014 a Camerei de Conturi a județului Iași privitoare la u.a.t. Țuțora",
+"short": "HCL Țuțora nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29271",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-8-2020",
+"path": "local/iasi/tutora/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 8/2020",
+"short": "HCL Țuțora nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29272",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--tutora-9-2020",
 "path": "local/iasi/tutora/2020/9",
 "kind": "local",
@@ -334,6 +379,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-18-2020",
+"path": "local/iasi/tutora/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 18/2020 privind propunerea calificativului la evaluarea performanțelor profesionale individuale pentru secretarul comunei pentru anul 2019",
+"short": "HCL Țuțora nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29283",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-19-2020",
 "path": "local/iasi/tutora/2020/19",
 "kind": "local",
@@ -423,6 +490,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-23-2020",
+"path": "local/iasi/tutora/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 23/2020 privind includerea în domeniul public a suprafeței de 3848 mp, teren situat în intravilanul satului Țuțora, administrat de Sectorul Poliției de Frontieră Țuțora, județul Iași",
+"short": "HCL Țuțora nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29315",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-24-2020",
 "path": "local/iasi/tutora/2020/24",
 "kind": "local",
@@ -442,6 +531,52 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-25-2020",
+"path": "local/iasi/tutora/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 25/2020",
+"short": "HCL Țuțora nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29317",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tutora-26-2020",
+"path": "local/iasi/tutora/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 26/2020",
+"short": "HCL Țuțora nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29318",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -486,6 +621,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-29-2020",
+"path": "local/iasi/tutora/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 29/2020 privind desemnarea preşedintelui de şedinţă al Consiliului Local Ţuţora, pe trimestrul II- 2020",
+"short": "HCL Țuțora nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29321",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -574,6 +731,29 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-34-2020",
+"path": "local/iasi/tutora/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 34/2020",
+"short": "HCL Țuțora nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-02",
+"latest": "2020-04-02",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29351",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -666,6 +846,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-39-2020",
+"path": "local/iasi/tutora/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 39/2020 privind concesionarea prin licitație publică cu strigare a unor terenuri din domeniul privat ,proprietatea Consiliului local , aprobarea Raportului de evaluare precum și aprobarea Studiului de oportunitate și a Caietului de sarcini",
+"short": "HCL Țuțora nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-02",
+"latest": "2020-04-02",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29356",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-40-2020",
 "path": "local/iasi/tutora/2020/40",
 "kind": "local",
@@ -754,6 +956,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-44-2020",
+"path": "local/iasi/tutora/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 44/2020 privind acordarea mandatului special reprezentantului UAT ȚUȚORA în AGA ADIS Iași în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor din județul Iași”și împuternicirea Președintelui ADIS Iași să semneze Actul Adițional nr.3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în Județul Iași nr.357/30.10.2018",
+"short": "HCL Țuțora nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29379",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-45-2020",
 "path": "local/iasi/tutora/2020/45",
 "kind": "local",
@@ -798,6 +1022,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-47-2020",
+"path": "local/iasi/tutora/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 47/2020 de aprobare a Actului Adițional nr. 37 la Contractul de delegare nr. 48/2009 ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+"short": "HCL Țuțora nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29382",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-48-2020",
 "path": "local/iasi/tutora/2020/48",
 "kind": "local",
@@ -817,6 +1063,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-49-2020",
+"path": "local/iasi/tutora/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 49/2020 privind desemnarea preşedintelui de şedinţă al Consiliului Local Ţuţora, pe trimestrul III- 2020",
+"short": "HCL Țuțora nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29384",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -861,6 +1129,51 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-52-2020",
+"path": "local/iasi/tutora/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 52/2020 privind aprobarea închirierii prin licitație publică prin depunere de oferte a două spații, avînd destinație de birouri, aprobarea Studiului de oportunitate și a Caietului de sarcini pentru concesionarea prin licitatie publică, a două spații cu destinație de birouri, proprietatea Consiliului local Țuțora",
+"short": "HCL Țuțora nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29387",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-53-2020",
+"path": "local/iasi/tutora/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 53/2020",
+"short": "HCL Țuțora nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29388",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -971,6 +1284,50 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-59-2020",
+"path": "local/iasi/tutora/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 59/2020 privind alocarea sumei de 20.000 lei din bugetul local- cap. Cultură, religie, sport, Parohiei Țuțora pentru plata unor lucrări edilitar-gospodărești ale Cimitirului Țuțora",
+"short": "HCL Țuțora nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29394",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-60-2020",
+"path": "local/iasi/tutora/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 60/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+"short": "HCL Țuțora nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29395",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1327,6 +1684,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-77-2020",
+"path": "local/iasi/tutora/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 77/2020 privind alegerea din rândul membrilor Consiliului Local ca preşedinte de şedinţă, pe o perioadă de cel mult 3 luni",
+"short": "HCL Țuțora nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29474",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-78-2020",
 "path": "local/iasi/tutora/2020/78",
 "kind": "local",
@@ -1346,6 +1725,29 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-79-2020",
+"path": "local/iasi/tutora/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 79/2020",
+"short": "HCL Țuțora nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29476",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1459,6 +1861,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-85-2020",
+"path": "local/iasi/tutora/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 85/2020 privind aprobarea desemnării consilierului în Consiliul de administrație al Școlii Gimnaziale Țuțora",
+"short": "HCL Țuțora nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29482",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-86-2020",
 "path": "local/iasi/tutora/2020/86",
 "kind": "local",
@@ -1500,6 +1924,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-88-2020",
+"path": "local/iasi/tutora/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 88/2020 privind aprobarea transformării postului de muncitor (III) in consilier personal al viceprimarului",
+"short": "HCL Țuțora nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/29485",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

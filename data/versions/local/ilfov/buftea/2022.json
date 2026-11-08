@@ -3,6 +3,156 @@
  "shard": "local/ilfov/buftea/2022",
  "acts": [
   {
+   "slug": "hcl-ilfov--buftea-10-2022",
+   "path": "local/ilfov/buftea/2022/10",
+   "short": "HCL Buftea nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 10/2022 privind deblocarea şi utilizarea unei sume din excedentul anual al bugetului local al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/10.pdf",
+     "sha256": "c73fd3ccf044da3136848013a71cd8656e7de7bf790acbfe2c86bb6f9d769d70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-100-2022",
+   "path": "local/ilfov/buftea/2022/100",
+   "short": "HCL Buftea nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 100/2022 privind darea în administrarea Consiliului Judeţean Ilfov a sectorului de drum – str. 23 August, tronson 1, aflat în domeniul public al oraşului Buftea şi administrarea Consiliului Local Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/100.pdf",
+     "sha256": "90ac4cae099c555615235685cb78bc90a27b8ea77a8af39cd70a6e7f36436b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-102-2022",
+   "path": "local/ilfov/buftea/2022/102",
+   "short": "HCL Buftea nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 102/2022 privind alegerea preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/102.pdf",
+     "sha256": "33250d30ffde43a8351f9234b75ad8301229539519164dbf413882b197c03fbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-103-2022",
+   "path": "local/ilfov/buftea/2022/103",
+   "short": "HCL Buftea nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 103/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/103.pdf",
+     "sha256": "11b4b4e0cd488067b32518ef08063adce5c0ec9a0faccdc1d2c0788e6d4883dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-104-2022",
+   "path": "local/ilfov/buftea/2022/104",
+   "short": "HCL Buftea nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 104/2022 pentru modificarea şi completarea Hotărârii Consiliului Local al oraşului Buftea nr. 26/26.02.2013 privind reglementarea acordării ajutoarelor de urgenţă şi ajutoarelor de înmormântare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/104.pdf",
+     "sha256": "c85fd9fb3f839d90bda9815cf6158f0c7e5d86c2142b2b73d6e970832f22113c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-105-2022",
+   "path": "local/ilfov/buftea/2022/105",
+   "short": "HCL Buftea nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 105/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru lunile martie, aprilie şi mai 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/105.pdf",
+     "sha256": "0e69688ddf62f3cfbe4f85121f38e91fcc6201f81dc857f524bd14a03a5a3fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-106-2022",
+   "path": "local/ilfov/buftea/2022/106",
+   "short": "HCL Buftea nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 106/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru lunile aprilie şi mai 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/106.pdf",
+     "sha256": "cdef494f48d3f3d97465128a616e2987f2edbfdfcd6a3da98b50b04c24e73a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-107-2022",
+   "path": "local/ilfov/buftea/2022/107",
+   "short": "HCL Buftea nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 107/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru perioada ianuarie – aprilie 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/107.pdf",
+     "sha256": "14b388226558506dec85d048da859bfd3f1ee6ec51850dfb45467a2734a7cf3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-108-2022",
+   "path": "local/ilfov/buftea/2022/108",
+   "short": "HCL Buftea nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 108/2022 privind aprobarea rectificării bugetului general al Oraşului Buftea pe anul 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/108.pdf",
+     "sha256": "228effb8b09a73da0f6f73413be06f2a3cbbb36ba7f4472c9222c8efbab8e127"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-109-2022",
+   "path": "local/ilfov/buftea/2022/109",
+   "short": "HCL Buftea nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 109/2022 privind alipirea unor imobile terenuri care aparţin unităţii administrativ teritoriale oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/109.pdf",
+     "sha256": "49749fae94b07c2426124d9ae703225525953bb5a6cb1cdd14613e34064a8e78"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-111-2022",
    "path": "local/ilfov/buftea/2022/111",
    "short": "HCL Buftea nr. 111/2022",
@@ -63,6 +213,351 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-116-2022",
+   "path": "local/ilfov/buftea/2022/116",
+   "short": "HCL Buftea nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 116/2022 privind asocierea Oraşului Buftea – Consiliul Local Buftea cu Judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/116.pdf",
+     "sha256": "56a2ba0c8a0c706986595ef62458ab433915ae11840d7b48f48a5d7708fa15a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-117-2022",
+   "path": "local/ilfov/buftea/2022/117",
+   "short": "HCL Buftea nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 117/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/117.pdf",
+     "sha256": "e1c25cc9e48434e3b5e6d4ddd37aeabc82cba4d4c839e49e921bdf1cfc6bd111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-118-2022",
+   "path": "local/ilfov/buftea/2022/118",
+   "short": "HCL Buftea nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 118/2022 privind completarea inventarului bunurilor care aparţin domeniului public al unităţii administrativ – teritoriale oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/118.pdf",
+     "sha256": "b80ca51726387656a39bd6fcb89c78b7d63465cb592aa7a84342efa5ce011a02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-12-2022",
+   "path": "local/ilfov/buftea/2022/12",
+   "short": "HCL Buftea nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 12/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice/personal auxiliar, care îşi desfăşoară activitatea la Liceul Tehnologic Barbu A. Ştirbey din oraşul Buftea, pentru luna noiembrie 2021",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/12.pdf",
+     "sha256": "86522eb1234251380294e5663153e385dea8db6c23e405edba1fe252b7d97fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-120-2022",
+   "path": "local/ilfov/buftea/2022/120",
+   "short": "HCL Buftea nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 120/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru lunile mai şi iunie 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/120.pdf",
+     "sha256": "7a8a36273996fa6fe2b515c025d82f84b11930eebbbf0c5740341edd99eb16fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-121-2022",
+   "path": "local/ilfov/buftea/2022/121",
+   "short": "HCL Buftea nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 121/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic Barbu A. Ştirbey din oraşul Buftea, pentru lunile mai şi iunie 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/121.pdf",
+     "sha256": "9c4835453b4b378dcf80babf1dbd58e935f632c623fe535d8525102a9f0e437e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-122-2022",
+   "path": "local/ilfov/buftea/2022/122",
+   "short": "HCL Buftea nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 122/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru luna iunie 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/122.pdf",
+     "sha256": "c03cf1e1e2f7f9e4d0a910d302b3f6bf44074ee24754d3ff4548deabddb32ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-123-2022",
+   "path": "local/ilfov/buftea/2022/123",
+   "short": "HCL Buftea nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 123/2022 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul li 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/123.pdf",
+     "sha256": "44efa993db6478959428f54c91253f19d63ae73a46e85ef6f62ddac98e3b5903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-124-2022",
+   "path": "local/ilfov/buftea/2022/124",
+   "short": "HCL Buftea nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 124/2022 privind aprobarea rectificării bugetului general al Oraşului Buftea pe anul 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/124.pdf",
+     "sha256": "7ea6e19aae153aa541b4a927cf58d6370b0669479cbc88d7b61f3f77bef2100b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-125-2022",
+   "path": "local/ilfov/buftea/2022/125",
+   "short": "HCL Buftea nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 125/2022 privind darea în folosinţă gratuită către S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/125.pdf",
+     "sha256": "3819bf6662ce6a52049d8028fb79b5b1d3c14872d5f532f51cd49470a2ea05d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-126-2022",
+   "path": "local/ilfov/buftea/2022/126",
+   "short": "HCL Buftea nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 126/2022 privind desemnarea reprezentanţilor Consiliului Local Buftea în Comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcţiilor de director/ director adjunct din unităţile de învăţământ preuniversitar de stat",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/126.pdf",
+     "sha256": "1c90a43faac574436c185cf786ad3e7147540b02979165c82128357cc5e4e3c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-127-2022",
+   "path": "local/ilfov/buftea/2022/127",
+   "short": "HCL Buftea nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 127/2022 privind încheierea unui acord de colaborare între Oraşul Buftea şi Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/127.pdf",
+     "sha256": "e4d1195ba63c94011b5c74b40760c012a552c7dcd5d54fdadd24ba1b526e06fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-128-2022",
+   "path": "local/ilfov/buftea/2022/128",
+   "short": "HCL Buftea nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 128/2022 privind desemnarea reprezentanţilor Consiliului Local Buftea în Consiliile de administraţie şi în Comisiile pentru evaluarea şi asigurarea calităţii în educaţie în cadrul unităţilor de învăţământ preuniversitar de stat din oraşul Buftea, pentru anul şcolar 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/128.pdf",
+     "sha256": "a9c69c3628b641b19a8120cd5991fed13f6c83bbd8304f14cb376d891e1c4dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-129-2022",
+   "path": "local/ilfov/buftea/2022/129",
+   "short": "HCL Buftea nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 129/2022 privind desemnarea reprezentanţilor Consiliului local al oraşului Buftea în Consiliul de administraţie şi în Comisia pentru evaluarea şi asigurarea calităţii în educaţie în cadrul unităţilor de învăţământ particular din oraşul Buftea, pentru anul şcolar 2022·2023",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/129.pdf",
+     "sha256": "c5835148014f9b7b7c5b9303f02b98ed65d8158a1b660d3c7015aa097ae93da3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-13-2022",
+   "path": "local/ilfov/buftea/2022/13",
+   "short": "HCL Buftea nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 13/2022 pentru modificarea şi completarea Anexei nr.1 la Hotărârea Consiliului local nr. 113/31.08.2017 privind stabilirea salariilor de bază aferente funcţiilor publice şi contractuale din cadrul familiei ocupaţionale Administraţie, din aparatul de specialitate al pri",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/13.pdf",
+     "sha256": "0db79880cc530336394042244efc64e4e0644e39b25d34fe1c2849290b1cf9c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-130-2022",
+   "path": "local/ilfov/buftea/2022/130",
+   "short": "HCL Buftea nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 130/2022 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor pentru achiziţia produselor aferente programului şi a contractelor de prestare a serviciilor pentru derularea măsurilor educative în cadrul Programului pentru ş",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/130.pdf",
+     "sha256": "4c011a2ef2f2229dee1661a6a0cd4211064fc5bd75d78570246eba06126bc1af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-131-2022",
+   "path": "local/ilfov/buftea/2022/131",
+   "short": "HCL Buftea nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 131/2022 privind alocarea unei sume de bani din bugetul local pe anul 2022, ca sprijin financiar pentru completarea fondurilor proprii ale Parohiei Bucoveni din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/131.pdf",
+     "sha256": "79c0c0b2e27b0ffabbebd6bf5b4acf2a6710f5729b07899a5847c4d77dcb4144"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-132-2022",
+   "path": "local/ilfov/buftea/2022/132",
+   "short": "HCL Buftea nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 132/2022 privind acceptarea ofertei de donaţie a unui imobil teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 65087",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/132.pdf",
+     "sha256": "6f6838e9b3021873a17fd061708d5803665b77cf9eec82d2f262a5457ebfcab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-133-2022",
+   "path": "local/ilfov/buftea/2022/133",
+   "short": "HCL Buftea nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 133/2022 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (DALI) pentru obiectivul de investiţii „Eficientizare energetică Lot 1 – Centru – Blocuri PM 1, PM2, PM3, PMB, Vile Judecătorie, oraşul Buftea, judeţul Ilfov”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/133.pdf",
+     "sha256": "52810e9f365ec232c8f99f293934c14c2e34220e924b9032ef3bb3367df26676"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-134-2022",
+   "path": "local/ilfov/buftea/2022/134",
+   "short": "HCL Buftea nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 134/2022 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (DALI) pentru obiectivul de Investiţii „Eficientizare energetică Lot 2 Săbăreni – Bloc A, scara A şi scara B, Bloc B scara A şi Scara B, oraşul Buftea, judeţul Ilfov”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/134.pdf",
+     "sha256": "3d4df457a54a738d6e4145504551464d0b76087af3fce6a4aff502216f3111e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-135-2022",
+   "path": "local/ilfov/buftea/2022/135",
+   "short": "HCL Buftea nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 135/2022 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (DALI) pentru obiectivul de investiţii “Eficientizare energetică Lot 3 – Studio – Blocurile 13, 15, 19, 24, 29 şi 35, oraşul Buftea, judeţul Ilfov”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/135.pdf",
+     "sha256": "1d158b307d5e491de66f3b4fe3bbeb586a48860da9301d7f55a790a2b7de1fff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-136-2022",
+   "path": "local/ilfov/buftea/2022/136",
+   "short": "HCL Buftea nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 136/2022 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/136.pdf",
+     "sha256": "27691dec0f9ac12add3bb5fb35e262eddd602b5026e82f60a63ecc4e255776dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-137-2022",
+   "path": "local/ilfov/buftea/2022/137",
+   "short": "HCL Buftea nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 137/2022 privind retragerea dreptului de a beneficia de atribuirea în folosinţă gratuită a unui teren pentru construirea unei locuinţe proprietate personală, în conditiile Legii nr. 15/2003",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/137.pdf",
+     "sha256": "ff56f84f012c5474127dc64830a66f802acd1d9faea3b51478f7958ef3838058"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-138-2022",
    "path": "local/ilfov/buftea/2022/138",
    "short": "HCL Buftea nr. 138/2022",
@@ -78,6 +573,261 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-139-2022",
+   "path": "local/ilfov/buftea/2022/139",
+   "short": "HCL Buftea nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 139/2022 privind desemnarea comisiei de negociere a indicatorilor de performanţă financiari şi nefinanciari",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/139.pdf",
+     "sha256": "6a031f46ce0accd8b2fa6fcaa7d4eba1737ae78f415aef5a0a52b433061f9391"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-14-2022",
+   "path": "local/ilfov/buftea/2022/14",
+   "short": "HCL Buftea nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 14/2022 privind stabilirea cuantumului chiriei pentru locuinţele realizate prin Agenţia Naţională de Locuinţe situate în oraşul Buftea, strada Oltului şi strada Vlăsiei",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/14.pdf",
+     "sha256": "716198db382d83468bae7a5fd3fe6b252fd6e6876444d4c0c64b45dd3e676bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-140-2022",
+   "path": "local/ilfov/buftea/2022/140",
+   "short": "HCL Buftea nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 140/2022 privind trecerea unui bun din domeniul public al Unităţii Administrativ-Teritoriale Buftea şi administrarea Consiliului local al oraşului Buftea în domeniul public al Judeţului Ilfov şi administrarea Consiliului Judeţean Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/140.pdf",
+     "sha256": "77c4cdd74c16634291483979622771615d4b5f7deb1968da3b26c19df2618b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-141-2022",
+   "path": "local/ilfov/buftea/2022/141",
+   "short": "HCL Buftea nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 141/2022 privind prelungirea termenului de restituire a sumei acordată societăţii Regia Serv Transport S.R.L, prin Hotărârea Consiliului local nr.184/30.09.2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/141.pdf",
+     "sha256": "fa7fb5a459c4898eaa6803e2191bbd28206a22de81dfbb74dd80a05d423dcb48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-142-2022",
+   "path": "local/ilfov/buftea/2022/142",
+   "short": "HCL Buftea nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 142/2022 pentru exprimarea acordului privind cesionarea/preluarea prin act adiţional a contractelor de delegare nr. 26048/13.12.2019 şi nr. 26049/13.12.2019 încheiate între Primăria Oraşului Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/142.pdf",
+     "sha256": "99d37aaa87c7e1e4afff2a0ac5ebc43c0b13fb0162fe7d2b20d9e21cacdec275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-143-2022",
+   "path": "local/ilfov/buftea/2022/143",
+   "short": "HCL Buftea nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 143/2022 privind completarea inventarului bunurilor care aparţin domeniului public al unităţii administrativ – teritoriale oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/143.pdf",
+     "sha256": "a84f07d74edaeb8380bf10ab7a4624d4ee0dad7fa4a6d1d43c8e2d7f09a19763"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-144-2022",
+   "path": "local/ilfov/buftea/2022/144",
+   "short": "HCL Buftea nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 144/2022 privind aprobarea tipului de suport alimentar pentru preşcolarii şi elevii Şcolii Gimnaziale nr. 3 Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/144.pdf",
+     "sha256": "d3d660609fd648c910e5c84adbbac0a61f5f99433e4ff43db49df694209a1489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-145-2022",
+   "path": "local/ilfov/buftea/2022/145",
+   "short": "HCL Buftea nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 145/2022 privind rectificarea bugetului general al Oraşului Buftea pe anul 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/145.pdf",
+     "sha256": "9572a5f07011e43c4aa6146799683af94f676d8acb8e402f329dfa9093b1a822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-146-2022",
+   "path": "local/ilfov/buftea/2022/146",
+   "short": "HCL Buftea nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 146/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru luna mai 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/146.pdf",
+     "sha256": "532e8b2e6ff6cb04a1b2fae92f0cca2e5093dbfca33c5bbb1a5b31eb2f9cebd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-147-2022",
+   "path": "local/ilfov/buftea/2022/147",
+   "short": "HCL Buftea nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 147/2022 pentru modificarea Hotărârii Consiliului Local nr. 131/31.08.2022 privind alocarea unei sume de bani din bugetul local pe anul 2022, ca sprijin financiar pentru completarea fondurilor proprii ale Parohiei Bucoveni din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/147.pdf",
+     "sha256": "aaab7d51cb4fc6bfa9003976aa1e6963164b0fd85a8675f71e0742ac88ddda6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-148-2022",
+   "path": "local/ilfov/buftea/2022/148",
+   "short": "HCL Buftea nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 148/2022 privind actualizarea componenţei Grupului de lucru local pentru incluziunea cetăţenilor români aparţinând minorităţii rome, la nivelul oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/148.pdf",
+     "sha256": "51c049071f72b8b6de464219bed300a79c8a85e47560abc351abec34fe932228"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-149-2022",
+   "path": "local/ilfov/buftea/2022/149",
+   "short": "HCL Buftea nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 149/2022 privind aprobarea indicatorilor tehnico-economici actualizaţi şi a devizului general actualizat pentru obiectivul de investiţii „Modernizare străzi oraş Buftea, Cartier Tineri”, aprobat pentru finanţare prin Programul naţional de investiţii „Anghel Saligny” p",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/149.pdf",
+     "sha256": "ce6c380e9b3432bb37e54f44080c21366fb13ef606d2e7ff62e3b8b349afdd6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-15-2022",
+   "path": "local/ilfov/buftea/2022/15",
+   "short": "HCL Buftea nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 15/2022 privind prelungirea contractelor de închiriere pentru locuinţele construite prin Agenţia Naţională de Locuinţe, situate în oraşul Buftea, strada Oltului şi strada Vlăsiei",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/15.pdf",
+     "sha256": "bc90dea8d062acd48ad1d25760be548b66e7f8248e2dabe972d84ee6fc723a2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-150-2022",
+   "path": "local/ilfov/buftea/2022/150",
+   "short": "HCL Buftea nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 150/2022 pentru modificarea şi completarea Hotărârii Consiliului Local nr. 90/17.06.2022 privind aprobarea participării Unităţii Administrativ-Teritoriale Oraşul Buftea din judeţul Ilfov, În calitate de partener, prin asocierea cu Unitatea AdministrativTeritorială – Or",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/150.pdf",
+     "sha256": "678f263903a747fda2609affd5d38d91360f924d3d77042df30feb9be62c5c1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-155-2022",
+   "path": "local/ilfov/buftea/2022/155",
+   "short": "HCL Buftea nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 155/2022 privind alegerea preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/155.pdf",
+     "sha256": "9ef96b03b7b59cdf0dd89ee40d4b4d7b60a0eb400f0b3a32208bd30e259a876b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-156-2022",
+   "path": "local/ilfov/buftea/2022/156",
+   "short": "HCL Buftea nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 156/2022 privind încheierea unui protocol de cooperare între Unitatea Administrativ Teritorială Oraşul Buftea – Consiliul local şi Judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/156.pdf",
+     "sha256": "a53f70e67a384dfd8ea5f75c7df69033f545cbb9a3309492c864cc8f65097e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-158-2022",
+   "path": "local/ilfov/buftea/2022/158",
+   "short": "HCL Buftea nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 158/2022 privind acordarea de mandat special în cadrul Adunării Generale a Asociaţiei de Dezvoltare lntercomunitară pentru Gestionarea Integrată a Deşeurilor Ilfov(Asociaţia)",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/158.pdf",
+     "sha256": "f39c1f814e6ccb156668a882e4ab58cedcf92c06415a9eb4afe9b069862767a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-159-2022",
    "path": "local/ilfov/buftea/2022/159",
    "short": "HCL Buftea nr. 159/2022",
@@ -89,6 +839,51 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2022/159.pdf",
      "sha256": "24987a304bf2673a1942e0a9c135b65ec8e28043e4de70188bd73020ecfb8dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-16-2022",
+   "path": "local/ilfov/buftea/2022/16",
+   "short": "HCL Buftea nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 16/2022 privind aprobarea bugetului general al Oraşului Buftea pe anul 2022",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/16.pdf",
+     "sha256": "791ae4dab40e5cc0273033f1ca2211f97428821973ec062b05f481398f488ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-160-2022",
+   "path": "local/ilfov/buftea/2022/160",
+   "short": "HCL Buftea nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 160/2022 privind aprobarea Programului de măsuri şi acţiuni pentru prevenirea şi combaterea înzăpezirii şi poleiului pe drumurile din Oraşul Buftea, pentru sezonul rece 2022 – 2023",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/160.pdf",
+     "sha256": "de64c6f5457255f9a6c625bdfd5050c9a553335dd759062c4319697f6b8cfb99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-161-2022",
+   "path": "local/ilfov/buftea/2022/161",
+   "short": "HCL Buftea nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 161/2022 privind aprobarea indicatorilor de performanţă financiari şi nefinanciari pentru S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/161.pdf",
+     "sha256": "c34a1686c07d22bb9cbd91cb30f71f9020d9006bc77eb7e8706a80dfc303865a"
     }
    ]
   },

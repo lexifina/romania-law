@@ -228,6 +228,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-11-2026",
+"path": "local/iasi/valea-lupului/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 11/2026",
+"short": "HCL Valea Lupului nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/278427",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-12-2026",
 "path": "local/iasi/valea-lupului/2026/12",
 "kind": "local",
@@ -515,6 +538,29 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-25-2026",
+"path": "local/iasi/valea-lupului/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 25/2026",
+"short": "HCL Valea Lupului nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/278662",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

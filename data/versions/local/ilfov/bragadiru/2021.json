@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/bragadiru/2021",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--bragadiru-60-2021",
+   "path": "local/ilfov/bragadiru/2021/60",
+   "short": "HCL Bragadiru nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 60/2021 privind aprobarea rectificarii bugetului Local general consolidat al orasului Bragadiru, pe anul 2021",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/mol/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/hcldelib/HOT%C4%82R%C3%82RE%2060%20DIN%2009.06.2021.pdf",
+     "sha256": "33e0766e10cee134927550f33a92c1d9c0206a104827998e1c652234d07196cc"
+    }
+   ]
+  }
+ ]
+}

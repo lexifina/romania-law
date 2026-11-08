@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/bragadiru/2015",
+"acts": [
+{
+"slug": "hcl-ilfov--bragadiru-101-2015",
+"path": "local/ilfov/bragadiru/2015/101",
+"kind": "local",
+"year": "2015",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 101/2015 privind indreptarea erorii materiale inscrisa in art.3 din HCL al orasului Bragadiru, judet Ilfov nr.101.09.11.2015 privind trecere in domeniul public al orasului Bragadiru, judet Ilfov",
+"short": "HCL Bragadiru nr. 101/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-09",
+"latest": "2015-11-09",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/2015",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

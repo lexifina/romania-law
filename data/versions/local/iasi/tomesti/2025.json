@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-101-2025",
+   "path": "local/iasi/tomesti/2025/101",
+   "short": "HCL Tomești nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 101/2025",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269305",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-102-2025",
    "path": "local/iasi/tomesti/2025/102",
    "short": "HCL Tomești nr. 102/2025",
@@ -103,6 +118,21 @@
      "from": "2026-07-14",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/269309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-106-2025",
+   "path": "local/iasi/tomesti/2025/106",
+   "short": "HCL Tomești nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 106/2025 privind acordării unui sprijin financiar în sumă de 5000 lei, Parohiei din sat Chicerea, comuna Tomești, județul Iași, pentru contravaloarea parțială a cheltuielilor la pictura interioară a bisericii parohiale",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269310",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269310",
      "sha256": null
     }
    ]
@@ -393,6 +423,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-124-2025",
+   "path": "local/iasi/tomesti/2025/124",
+   "short": "HCL Tomești nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 124/2025",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278441",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-125-2025",
+   "path": "local/iasi/tomesti/2025/125",
+   "short": "HCL Tomești nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 125/2025",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278442",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278442",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-126-2025",
    "path": "local/iasi/tomesti/2025/126",
    "short": "HCL Tomești nr. 126/2025",
@@ -513,6 +573,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-133-2025",
+   "path": "local/iasi/tomesti/2025/133",
+   "short": "HCL Tomești nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 133/2025 privind aprobarea:“ trecerii a două terenuri: (1)teren în suprafață de 1.400 m.p. situat în intravilan extins conform PUG sat Vlădiceni, Comuna Tomești, Județul Iași, număr cadastral 71224 și (2) teren în suprafață de 534 m.p., situat în intravilanul extins conform PUG Sat Vlădiceni, Comuna Tomești, Județul Iași, Nr. Cadastral 70948, din domeniul public al Comunei Tomești, Județul Iași, în domeniul privat al Comunei Tomești, Județul Iași, în vederea efectuării unui schimb de terenuri, respectiv în vederea vânzării prin licitație publică",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278461",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-134-2025",
+   "path": "local/iasi/tomesti/2025/134",
+   "short": "HCL Tomești nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 134/2025 privind aprobarea: ”trecerii în domeniul public al comunei Tomești, județul Iași, a 2 (două) terenuri, în vederea vânzării prin licitație publică",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278462",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-135-2025",
+   "path": "local/iasi/tomesti/2025/135",
+   "short": "HCL Tomești nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 135/2025 privind aprobarea:”vânzării prin licitație publică a unui teren în suprafață de 568 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conf. PUG, sat Tomești, comuna Tomești, județul Iași, Nr. Cad. 70854, aprobarea documentației de scoatere la licitație și a raportului de evaluare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278463",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278463",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-136-2025",
    "path": "local/iasi/tomesti/2025/136",
    "short": "HCL Tomești nr. 136/2025",
@@ -603,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-141-2025",
+   "path": "local/iasi/tomesti/2025/141",
+   "short": "HCL Tomești nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 141/2025 privind privire la „înscrierea definitivă în Cartea Funciară a dreptului de proprietate publică a imobilului situat în Intravilanul localității Tomești, Intravilanul extins conform PUG și Extravilan Tomești, identificat prin Nr. Cadastral 71296, având suprafața de 8838 mp, categ. de folosință -Drum- și atestarea apartenenței acestuia la domeniul public al Comunei Tomești, Județul Iași în conformitate cu prevederile art. 41 alin. 5 din Legea nr. 7/1996, republicată",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278469",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278469",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-142-2025",
    "path": "local/iasi/tomesti/2025/142",
    "short": "HCL Tomești nr. 142/2025",
@@ -613,6 +733,21 @@
      "from": "2026-07-14",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/278470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-143-2025",
+   "path": "local/iasi/tomesti/2025/143",
+   "short": "HCL Tomești nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 143/2025 privind aprobarea desemnării reprezentanților din partea Consiliului Local Tomești în consiliile de administrație, în comisiile de evaluare si asigurarea calității precum și în comisiile pentru prevenirea și eliminarea violenței, a faptelor de corupție și discriminării în mediul școlar și de promovare a interculturalității, din cadrul unităților de învățământ cu personalitate juridică de stat, sau particular, de pe raza comunei Tomești, județul Iași, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278471",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278471",
      "sha256": null
     }
    ]
@@ -868,6 +1003,21 @@
      "from": "2026-07-14",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/278487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-16-2025",
+   "path": "local/iasi/tomesti/2025/16",
+   "short": "HCL Tomești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 16/2025 privind acordării unui sprijin financiar în sumă de 100.000 lei Parohiei ”Sfântul M. Mc. Gheorghe” din sat Chicerea, comuna Tomești, județul Iași, pentru achitarea contravalorii parțiale a terenului în vederea construirii bisericii",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212016",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212016",
      "sha256": null
     }
    ]
@@ -1293,6 +1443,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-2-2025",
+   "path": "local/iasi/tomesti/2025/2",
+   "short": "HCL Tomești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 2/2025 privind acordării unui ajutor de urgență în sumă de 2000 lei, pentru cheltuieli înmormântare”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212001",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212001",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-20-2025",
    "path": "local/iasi/tomesti/2025/20",
    "short": "HCL Tomești nr. 20/2025",
@@ -1498,6 +1663,21 @@
      "from": "2025-02-27",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/212051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-33-2025",
+   "path": "local/iasi/tomesti/2025/33",
+   "short": "HCL Tomești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 33/2025",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212052",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212052",
      "sha256": null
     }
    ]
@@ -1758,6 +1938,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-5-2025",
+   "path": "local/iasi/tomesti/2025/5",
+   "short": "HCL Tomești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 5/2025 privind revocarea HCL Tomești nr. 236 din 19.12.2024, privind aprobarea ”efectuării unui schimb de terenuri, având aceeași valoare și suprafață, pentru uz și interes public”, pentru nepunere în aplicare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212004",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-50-2025",
    "path": "local/iasi/tomesti/2025/50",
    "short": "HCL Tomești nr. 50/2025",
@@ -1783,6 +1978,21 @@
      "from": "2025-03-27",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/212070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-52-2025",
+   "path": "local/iasi/tomesti/2025/52",
+   "short": "HCL Tomești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 52/2025 privind aprobarea: ”acordării unui sprijin financiar în sumă de 330.000 lei din bugetul comunei Tomești pe anul 2025, în vederea suplimentării bugetului de cheltuieli al Școlii Gimnaziale Chicerea, pentru ducerea la îndeplinire a Planului de școlarizare pentru anul școlar 2025-2026, care cuprinde înființarea unor noi grupe de grădiniță cu program prelungit la Școala Gimnazială Chicerea, la Structura școlară din sat Goruni, respectiv pentru o grupă de creșă la Structura școlară din sat Vlădiceni, acoperire costuri cu branșament gaz metan, realizare branșament canalizare și montare Sistem de monitorizare video la Structura școlară Goruni",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212071",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212071",
      "sha256": null
     }
    ]
@@ -1908,6 +2118,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-60-2025",
+   "path": "local/iasi/tomesti/2025/60",
+   "short": "HCL Tomești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 60/2025 privind aprobarea ”desemnării a doi membri din partea Consiliului Local Tomești în comisiile de recepție la terminarea lucrărilor, la diverse obiective sau lucrări de interes public, realizate pe raza comunei Tomești, județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212083",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-61-2025",
+   "path": "local/iasi/tomesti/2025/61",
+   "short": "HCL Tomești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 61/2025 privind aprobarea: ”acordării unui ajutor de urgență în sumă de 1000 lei, pentru cheltuieli înmormântare”) aprobarea: ”acordării unui ajutor de urgență în sumă de 1000 lei, pentru cheltuieli înmormântare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212084",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212084",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-62-2025",
    "path": "local/iasi/tomesti/2025/62",
    "short": "HCL Tomești nr. 62/2025",
@@ -2028,6 +2268,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-7-2025",
+   "path": "local/iasi/tomesti/2025/7",
+   "short": "HCL Tomești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 7/2025 privind acordării unui ajutor de urgență în sumă de 500 lei, pentru cheltuieli înmormântare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212006",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212006",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-70-2025",
    "path": "local/iasi/tomesti/2025/70",
    "short": "HCL Tomești nr. 70/2025",
@@ -2073,6 +2328,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-73-2025",
+   "path": "local/iasi/tomesti/2025/73",
+   "short": "HCL Tomești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 73/2025 privind aprobarea:”trecerii a 6(șase) terenuri din domeniul public al Comunei Tomești, Județul Iași, în domeniul privat al Comunei Tomești, Județul Iași, în vederea vânzării lor prin licitație publică”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269277",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269277",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-74-2025",
    "path": "local/iasi/tomesti/2025/74",
    "short": "HCL Tomești nr. 74/2025",
@@ -2103,6 +2373,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-76-2025",
+   "path": "local/iasi/tomesti/2025/76",
+   "short": "HCL Tomești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 76/2025 privind aprobarea: ”vânzării prin licitație publică a unui teren în suprafață de 88 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conf. PUG, sat Tomești, comuna Tomești, județul Iași, Nr. Cad. 66169, aprobarea documentației de atribuire și a raportului de evaluare”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269280",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-77-2025",
+   "path": "local/iasi/tomesti/2025/77",
+   "short": "HCL Tomești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 77/2025 privind aprobarea: ”vânzării prin licitație publică a unui teren în suprafață de 262 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conform PUG Sat Tomești și extravilan Comuna Tomești, Județul Iași, Număr cadastral 70853, categ. de folosință - arabil, aprobarea documentației de atribuire și a raportului de evaluare pentru vânzarea terenului de mai sus”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269281",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-78-2025",
    "path": "local/iasi/tomesti/2025/78",
    "short": "HCL Tomești nr. 78/2025",
@@ -2128,6 +2428,21 @@
      "from": "2025-05-29",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/269283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-8-2025",
+   "path": "local/iasi/tomesti/2025/8",
+   "short": "HCL Tomești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 8/2025 privind acordării unui ajutor de urgență în sumă de 500 lei, pentru cheltuieli înmormântare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/212007",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/212007",
      "sha256": null
     }
    ]
@@ -2313,6 +2628,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-91-2025",
+   "path": "local/iasi/tomesti/2025/91",
+   "short": "HCL Tomești nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 91/2025",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269295",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-92-2025",
    "path": "local/iasi/tomesti/2025/92",
    "short": "HCL Tomești nr. 92/2025",
@@ -2353,6 +2683,81 @@
      "from": "2026-07-14",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/269298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-95-2025",
+   "path": "local/iasi/tomesti/2025/95",
+   "short": "HCL Tomești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 95/2025 privind aprobarea:”vânzării prin licitație publică a unui teren în suprafață de 14 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conf. PUG, sat Tomești, comuna Tomești, județul Iași, Nr. Cad. 70411, aprobarea documentației de scoatere la licitație și a raportului de evaluare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269299",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-96-2025",
+   "path": "local/iasi/tomesti/2025/96",
+   "short": "HCL Tomești nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 96/2025 privind aprobarea:”vânzării prin licitație publică a unui teren în suprafață de 575 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conf. PUG, sat Tomești, comuna Tomești, județul Iași, Nr. Cad. 70912, aprobarea documentației de scoatere la licitație și a raportului de evaluare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269300",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-97-2025",
+   "path": "local/iasi/tomesti/2025/97",
+   "short": "HCL Tomești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 97/2025 privind aprobarea:”vânzării prin licitație publică a unui teren în suprafață de 1880 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan și intravilan extins conf. PUG sat Goruni, comuna Tomești, județul Iași, Nr. Cad. 70927, aprobarea documentației de scoatere la licitație și a raportului de evaluare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269301",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-98-2025",
+   "path": "local/iasi/tomesti/2025/98",
+   "short": "HCL Tomești nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 98/2025 privind aprobarea:”vânzării prin licitație publică a unui teren în suprafață de 108 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conf. PUG, sat Tomești, comuna Tomești, județul Iași, Nr. Cad. 70913, aprobarea documentației de scoatere la licitație și a raportului de evaluare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269302",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-99-2025",
+   "path": "local/iasi/tomesti/2025/99",
+   "short": "HCL Tomești nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 99/2025 privind aprobarea:”vânzării prin licitație publică a unui teren în suprafață de 183 m.p. aflat în domeniul privat al Comunei Tomești, Județul Iași, situat în intravilan extins conf. PUG, sat Tomești, comuna Tomești, județul Iași, Nr. Cad. 70921, aprobarea documentației de scoatere la licitație și a raportului de evaluare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/269303",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/269303",
      "sha256": null
     }
    ]

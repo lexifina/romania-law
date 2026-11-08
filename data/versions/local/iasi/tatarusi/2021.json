@@ -3,6 +3,21 @@
  "shard": "local/iasi/tatarusi/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--tatarusi-1-2021",
+   "path": "local/iasi/tatarusi/2021/1",
+   "short": "HCL Tătăruși nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 1/2021 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 29.01.2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/19109",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/19109",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-10-2021",
    "path": "local/iasi/tatarusi/2021/10",
    "short": "HCL Tătăruși nr. 10/2021",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-2-2021",
+   "path": "local/iasi/tatarusi/2021/2",
+   "short": "HCL Tătăruși nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 2/2021 privind aprobarea procesului verbal al sedintei extraordinare convocata de indata a CL Tatarusi din data de 17.12.2020",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/19110",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/19110",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-20-2021",
    "path": "local/iasi/tatarusi/2021/20",
    "short": "HCL Tătăruși nr. 20/2021",
@@ -163,6 +193,21 @@
      "from": "2021-01-29",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/19128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-21-2021",
+   "path": "local/iasi/tatarusi/2021/21",
+   "short": "HCL Tătăruși nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 21/2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/19129",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/19129",
      "sha256": null
     }
    ]
@@ -198,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-24-2021",
+   "path": "local/iasi/tatarusi/2021/24",
+   "short": "HCL Tătăruși nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 24/2021 privind alegerea presedintelui de sedinta pentru sedintele Consiliului Local al comunei Tatarusi pentru perioada de 3 luni , respectiv lunile februarie, martie si aprilie 2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/20040",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/20040",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-25-2021",
    "path": "local/iasi/tatarusi/2021/25",
    "short": "HCL Tătăruși nr. 25/2021",
@@ -223,6 +283,21 @@
      "from": "2021-02-26",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/20037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-27-2021",
+   "path": "local/iasi/tatarusi/2021/27",
+   "short": "HCL Tătăruși nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 27/2021 privind modificarea HCL nr. 124/11.11.2020 privind desemnarea reprezentantilor Consiliului Local Tatarusi in Consiliul de Administratie al Scolii Profesionale Tatarusi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/20038",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/20038",
      "sha256": null
     }
    ]
@@ -453,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-41-2021",
+   "path": "local/iasi/tatarusi/2021/41",
+   "short": "HCL Tătăruși nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 41/2021 privind aprobarea inchirierii prin licitatie publica a chioscurilor ( casutelor ) din lemn aflate in proprietatea publica a comunei Tatarusi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/26963",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/26963",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-42-2021",
    "path": "local/iasi/tatarusi/2021/42",
    "short": "HCL Tătăruși nr. 42/2021",
@@ -573,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-5-2021",
+   "path": "local/iasi/tatarusi/2021/5",
+   "short": "HCL Tătăruși nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 5/2021 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si al numarului de indemnizatii lunare pentru anul 2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/19113",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/19113",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-50-2021",
    "path": "local/iasi/tatarusi/2021/50",
    "short": "HCL Tătăruși nr. 50/2021",
@@ -678,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-57-2021",
+   "path": "local/iasi/tatarusi/2021/57",
+   "short": "HCL Tătăruși nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 57/2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/33235",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/33235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-58-2021",
    "path": "local/iasi/tatarusi/2021/58",
    "short": "HCL Tătăruși nr. 58/2021",
@@ -768,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-63-2021",
+   "path": "local/iasi/tatarusi/2021/63",
+   "short": "HCL Tătăruși nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 63/2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/38254",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/38254",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-64-2021",
    "path": "local/iasi/tatarusi/2021/64",
    "short": "HCL Tătăruși nr. 64/2021",
@@ -793,6 +928,21 @@
      "from": "2021-09-20",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/38377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-66-2021",
+   "path": "local/iasi/tatarusi/2021/66",
+   "short": "HCL Tătăruși nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 66/2021 privind desemnarea reprezentantilor Consiliului Local al comunei Tatarusi in Consiliul de Administratie al Scolii Profesionale Tatarusi pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/38378",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/38378",
      "sha256": null
     }
    ]
@@ -883,6 +1033,21 @@
      "from": "2021-09-20",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/38383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-72-2021",
+   "path": "local/iasi/tatarusi/2021/72",
+   "short": "HCL Tătăruși nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 72/2021 privind aprobarea concesionarii unui spatiu cu destinatia de cabinet medical pentru medicina de familie - Dr. Sanauteanu Stela",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/38384",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/38384",
      "sha256": null
     }
    ]

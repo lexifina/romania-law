@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/bragadiru/2024",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--bragadiru-1-2024",
+   "path": "local/ilfov/bragadiru/2024/1",
+   "short": "HCL Bragadiru nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 1/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%201%20din%2025.10.2024.pdf",
+     "sha256": "f5ffe858e000b29359d73623b818381e1425e0de3ab655bd29cb271702d564ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-10-2024",
+   "path": "local/ilfov/bragadiru/2024/10",
+   "short": "HCL Bragadiru nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 10/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%2010%20din%2016.05.2024.pdf",
+     "sha256": "b41863ee84f1cebf77786168396d0cd4644f4d09218c4017b391bd535b5e05b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-11-2024",
+   "path": "local/ilfov/bragadiru/2024/11",
+   "short": "HCL Bragadiru nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 11/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%2011%20din%2022.05.2024.pdf",
+     "sha256": "b69ff257873b0e37a96fd4644222ec5981ef58dcd84bde907cae700a0058d5a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-12-2024",
+   "path": "local/ilfov/bragadiru/2024/12",
+   "short": "HCL Bragadiru nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 12/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%2012%20din%2030.05.2024.pdf",
+     "sha256": "b2681da0634e4c8398fffdf8479f6c43aab993a6858ba0722453bb40674fb30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-14-2024",
+   "path": "local/ilfov/bragadiru/2024/14",
+   "short": "HCL Bragadiru nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 14/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr%2014%20din%2028.06.2024.pdf",
+     "sha256": "cbdfe1a9bf65bc24b9d813fd71addff8a094f6631081d5c2d8d54565a9899a91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-15-2024",
+   "path": "local/ilfov/bragadiru/2024/15",
+   "short": "HCL Bragadiru nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 15/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/PV%20nr.%2015%20din%2018.07.2024.pdf",
+     "sha256": "89445983424d9fd876bb1b34369475e29bc012eecabe94c959679bb0afea2ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-16-2024",
+   "path": "local/ilfov/bragadiru/2024/16",
+   "short": "HCL Bragadiru nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 16/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/hcldelib/2024/hcl%2029.08.2024/pv%20nr%2016%20din%2025.07.2024.pdf",
+     "sha256": "548ad9e332ca861953329f8c0140264f510419c31d5c30ced4936aec4c4560bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-17-2024",
+   "path": "local/ilfov/bragadiru/2024/17",
+   "short": "HCL Bragadiru nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 17/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%2017.pdf",
+     "sha256": "c892b94cf93d48caa9ecd8b25074827b14d3212272acca724856595e8a7059d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-18-2024",
+   "path": "local/ilfov/bragadiru/2024/18",
+   "short": "HCL Bragadiru nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 18/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%2018%20al%20sedintei%20din%2005.09.2024.pdf",
+     "sha256": "559113840e744a18b0edd72a6839c90f7c7744ff12ae9a86fc58b52beb85dcb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-19-2024",
+   "path": "local/ilfov/bragadiru/2024/19",
+   "short": "HCL Bragadiru nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 19/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%2019%20din%2026.09.2024.pdf",
+     "sha256": "b2368e71af1a3309d8283f4ded0505e766a70571c87d593a822f4e9daac54c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-2-2024",
+   "path": "local/ilfov/bragadiru/2024/2",
+   "short": "HCL Bragadiru nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 2/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%202%20din%2012.11.2024.pdf",
+     "sha256": "05fc67098b13812eb51bfcb3260f922779766bc446edd151e625757f00563567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-3-2024",
+   "path": "local/ilfov/bragadiru/2024/3",
+   "short": "HCL Bragadiru nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 3/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%203%20din%2014.11.2024.pdf",
+     "sha256": "0353eab5d5dcae3fab5464ee15d933aaa5e5d096dd9047469e0f9d77b2f8016b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-4-2024",
+   "path": "local/ilfov/bragadiru/2024/4",
+   "short": "HCL Bragadiru nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 4/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%204%20din%2020.11.2024.pdf",
+     "sha256": "6ef250537c174823fdd7cd19afb598e6b7077fc08762775bbf6db1b4557cb1f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-5-2024",
+   "path": "local/ilfov/bragadiru/2024/5",
+   "short": "HCL Bragadiru nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 5/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/hcldelib/2024/hcl%2016.12.2024/pv%20nr.%205%20din%2028.11.2024.pdf",
+     "sha256": "75ed96deec19e75c96a4400f14655c5a08792d8f9448e74066f349a1978d8f83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-6-2024",
+   "path": "local/ilfov/bragadiru/2024/6",
+   "short": "HCL Bragadiru nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 6/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%206%20din%2016.12.2024.pdf",
+     "sha256": "db69605e88e332a9327c8b32fb2c9e54db7c7591dced90f5f15b5950958ccf63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-7-2024",
+   "path": "local/ilfov/bragadiru/2024/7",
+   "short": "HCL Bragadiru nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 7/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%207%20din%2002.04.2024.pdf",
+     "sha256": "fcad412429cf12be4d126777db29d8e7fc1b97e3c9fd7578defc015810510bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-8-2024",
+   "path": "local/ilfov/bragadiru/2024/8",
+   "short": "HCL Bragadiru nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 8/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%208%20al%20sedintei%20din%2016.04.2024.pdf",
+     "sha256": "bc1e814d9d0f12c5cc636e0d07fca7b6ac680e95a35f51c6eb7a301604ddef97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-9-2024",
+   "path": "local/ilfov/bragadiru/2024/9",
+   "short": "HCL Bragadiru nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 9/2024",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/2024",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2024/pv%20nr.%209%20din%2026.04.2024.pdf",
+     "sha256": "f946605b3e0986d3384be17022287152b47f3c4382013562269baa625b178f4f"
+    }
+   ]
+  }
+ ]
+}

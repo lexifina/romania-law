@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-seaca-11-2020",
+   "path": "local/iasi/valea-seaca/2020/11",
+   "short": "HCL Valea Seacă nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 11/2020 privind inițierea procedurii de închiriere/concesiune a pajiștilor și a terenurilor agricole aflate în proprietatea privată a comunei Valea Seacă, județul Iași",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4598",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-12-2020",
+   "path": "local/iasi/valea-seaca/2020/12",
+   "short": "HCL Valea Seacă nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 12/2020 privind acordarea de compensații în bani pentru timpul efectiv de lucru prestat la intervenții și la celelalte activități prevăzute în programul serviciului de urgență voluntar",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4599",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4599",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-seaca-13-2020",
    "path": "local/iasi/valea-seaca/2020/13",
    "short": "HCL Valea Seacă nr. 13/2020",
@@ -43,6 +73,51 @@
      "from": "2020-02-27",
      "units": 1,
      "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-14-2020",
+   "path": "local/iasi/valea-seaca/2020/14",
+   "short": "HCL Valea Seacă nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 14/2020 privind modificarea contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009 prin actul adițional nr. 34",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4601",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-15-2020",
+   "path": "local/iasi/valea-seaca/2020/15",
+   "short": "HCL Valea Seacă nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 15/2020 privind modificarea contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2019 prin actul adițional nr. 35",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4602",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-16-2020",
+   "path": "local/iasi/valea-seaca/2020/16",
+   "short": "HCL Valea Seacă nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 16/2020 privind alegerea președintelui de ședință pentru trimestrul II 2020 lunile mai, iunie si iulie",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4603",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4603",
      "sha256": null
     }
    ]
@@ -118,6 +193,126 @@
      "from": "2020-04-06",
      "units": 1,
      "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-21-2020",
+   "path": "local/iasi/valea-seaca/2020/21",
+   "short": "HCL Valea Seacă nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 21/2020 privind aprobarea rectificării bugetului local pe anul 2020",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4608",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-22-2020",
+   "path": "local/iasi/valea-seaca/2020/22",
+   "short": "HCL Valea Seacă nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 22/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS la completarea, modificarea, actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4609",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-23-2020",
+   "path": "local/iasi/valea-seaca/2020/23",
+   "short": "HCL Valea Seacă nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 23/2020 privind aprobarea incheierii contactului de depozitare a deseurilor solide urbane la Depozitul Tutora colectate si depozitate de noul operator S.C GIREXIM UNIVERSAL SA",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4610",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-24-2020",
+   "path": "local/iasi/valea-seaca/2020/24",
+   "short": "HCL Valea Seacă nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 24/2020 privind acordarea mandatului special reprezentantului UAT Valea Seacă în AGA ADIS Iași în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul proiectului „Sistem de Management Integrat al Deșeurilor din județul Iași” și împuternicirea Președintelui ADIS Iași să semneze Actul Adițional nr. la contractul de delegare a gestiunii serviciului de colectare si transport a deșeurilor municipale în judeșul Iași nr. 357/30.10.2018",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4611",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-25-2020",
+   "path": "local/iasi/valea-seaca/2020/25",
+   "short": "HCL Valea Seacă nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 25/2020 privind aprobarea rectificării bugetului local pe anul 2020",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4612",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-26-2020",
+   "path": "local/iasi/valea-seaca/2020/26",
+   "short": "HCL Valea Seacă nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 26/2020 privind abrogarea Hotărârii Consiliului Local nr. 19 din 06.04.2020 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Valea Seacă cu SECȚIUNEA II Bunuri mobile poz. 11",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4613",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-27-2020",
+   "path": "local/iasi/valea-seaca/2020/27",
+   "short": "HCL Valea Seacă nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 27/2020 privind aprobarea completării Inventarului bunurilor care aparțin domeniului privat al comunei Valea Seacă",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4614",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-28-2020",
+   "path": "local/iasi/valea-seaca/2020/28",
+   "short": "HCL Valea Seacă nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 28/2020 privind aprobarea valorii investițiilor aferente UAT Valea Seacă și a participării Consiliului Local al UAT Valea Seacă la cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4615",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4615",
      "sha256": null
     }
    ]
@@ -468,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-seaca-5-2020",
+   "path": "local/iasi/valea-seaca/2020/5",
+   "short": "HCL Valea Seacă nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 5/2020",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4592",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4592",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-seaca-50-2020",
    "path": "local/iasi/valea-seaca/2020/50",
    "short": "HCL Valea Seacă nr. 50/2020",
@@ -603,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-seaca-6-2020",
+   "path": "local/iasi/valea-seaca/2020/6",
+   "short": "HCL Valea Seacă nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 6/2020 privind revocarea horărârii nr. 49/2019 emisă de consiliul local Valea Seacă cu privire la asigurarea suportului IT în vederea organizării și dezvoltării Sistemului de control intern managerial prin intermediul platformei „Soluția e-SCIM”, www.e-scim.ro",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4593",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4593",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-seaca-7-2020",
    "path": "local/iasi/valea-seaca/2020/7",
    "short": "HCL Valea Seacă nr. 7/2020",
@@ -628,6 +853,21 @@
      "from": "2020-01-31",
      "units": 1,
      "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-9-2020",
+   "path": "local/iasi/valea-seaca/2020/9",
+   "short": "HCL Valea Seacă nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 9/2020",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/4596",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/4596",
      "sha256": null
     }
    ]

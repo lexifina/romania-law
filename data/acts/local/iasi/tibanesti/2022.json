@@ -3,6 +3,28 @@
 "shard": "local/iasi/tibanesti/2022",
 "acts": [
 {
+"slug": "hcl-iasi--tibanesti-1-2022",
+"path": "local/iasi/tibanesti/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 1/2022 privind desemnarea preşedintelui de şedinţă al Consiliului Local Țibănești pentru lunile, februarie, martie și aprilie 2022",
+"short": "HCL Țibănești nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/49745",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-2-2022",
 "path": "local/iasi/tibanesti/2022/2",
 "kind": "local",
@@ -224,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-12-2022",
+"path": "local/iasi/tibanesti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 12/2022 privind aprobarea închirierii prin licitaţie publică a suprafeţei de 30,36 ha păşune situată în T – 90, P-1855/3/1 sat Jigoreni aflată în domeniul public al comunei Ţibăneşti, judeţul Iaşi",
+"short": "HCL Țibănești nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/52839",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-13-2022",
 "path": "local/iasi/tibanesti/2022/13",
 "kind": "local",
@@ -265,6 +309,50 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-15-2022",
+"path": "local/iasi/tibanesti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 15/2022 privind desemnarea reprezentantului Consiliului Local Țibănești în comisia de evaluare a probei de interviu privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și de director adjunct de la Liceul Tehnologic ,, Petre P. Carp,, Țibănești în calitate de membru și câte un membru supleant",
+"short": "HCL Țibănești nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/52842",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-16-2022",
+"path": "local/iasi/tibanesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 16/2022 privind desemnarea reprezentantului Consiliului Local Țibănești în comisia de evaluare a probei d interviu privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și de director adjunct de la Școala Gimnazială Glodenii Gândului în calitate de membru și câte un membru supleant",
+"short": "HCL Țibănești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/52843",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -752,6 +840,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-39-2022",
+"path": "local/iasi/tibanesti/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 39/2022 privind decontarea sumei de 53.080,02 lei inclusiv TVA reprezentând lucrări executateși a sumei de 2.380 lei pentru asistență tehnică din partea proiectantului la obiectivul de investiții „Construire Pod punct Tocariuc Răsboieni (regim de urgență),, comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/56424",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-40-2022",
 "path": "local/iasi/tibanesti/2022/40",
 "kind": "local",
@@ -1083,6 +1193,182 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-55-2022",
+"path": "local/iasi/tibanesti/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 55/2022 privind vânzarea prin licitație publică a unui imobil în suprafață de 572,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/46 înscris în CF nr.60990 Țibănești, nr. cadastral 60990, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58579",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-56-2022",
+"path": "local/iasi/tibanesti/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 56/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 491,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/63 înscris în CF nr.60794 Țibănești, nr. cadastral 60794, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58580",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-57-2022",
+"path": "local/iasi/tibanesti/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 57/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 848,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/101 înscris în CF nr.61769 Țibănești, nr. cadastral 61769, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58581",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-58-2022",
+"path": "local/iasi/tibanesti/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 58/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 503,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/114 înscris în CF nr.61792 Țibănești, nr. cadastral 61792, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58582",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-59-2022",
+"path": "local/iasi/tibanesti/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 59/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 505,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/132 înscris în CF nr.61787 Țibănești, nr. cadastral 61787, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58583",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-60-2022",
+"path": "local/iasi/tibanesti/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 60/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 499,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/133 înscris în CF nr.61770 Țibănești, nr. cadastral 61770, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58584",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-61-2022",
+"path": "local/iasi/tibanesti/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 61/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 506,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/134 înscris în CF nr.61784 Țibănești, nr. cadastral 61784, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58585",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-62-2022",
+"path": "local/iasi/tibanesti/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 62/2022 privind vânzarea prin licitație publică a imobilului în suprafață de 506,00 mp situate în intravilanul satului Glodenii Gândului, comuna Țibănești, județul Iași, T 34, Parcela 424/2/136 înscris în CF nr.61780 Țibănești, nr. cadastral 61780, proprietate privat a comunei Țibănești pentru construire locuință",
+"short": "HCL Țibănești nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58586",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-63-2022",
 "path": "local/iasi/tibanesti/2022/63",
 "kind": "local",
@@ -1124,6 +1410,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-65-2022",
+"path": "local/iasi/tibanesti/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 65/2022 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Țibănești pentru lunile mai, iunie și iulie 2022",
+"short": "HCL Țibănești nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/58589",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1877,6 +2185,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-100-2022",
+"path": "local/iasi/tibanesti/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 100/2022 privind împuternicirea primarului comunei Țibănești, județul Iași pentru a semna în formă autentică contractele de vânzare – cumpărare, pentru un număr de 8 imobile ce aparțin domeniului privat al comunei Țibănești situate în intravilanul satului Glodenii Gândului, comuna Țibăneșt",
+"short": "HCL Țibănești nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/64997",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-101-2022",
 "path": "local/iasi/tibanesti/2022/101",
 "kind": "local",
@@ -1984,6 +2314,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-106-2022",
+"path": "local/iasi/tibanesti/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 106/2022 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Țibănești pentru lunile august, septembrie și octombrie 2022",
+"short": "HCL Țibănești nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/67808",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2116,6 +2468,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-113-2022",
+"path": "local/iasi/tibanesti/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 113/2022 privind aprobarea actualizării cuantumului chiriei aferentă locuințelor pentru tineri destinate închirierii, realizate de Agenția Națională pentru Locuințe în comuna Țibănești și respectiv cuantumul sumelor cu titlu de recuperare investiție, ce se vor vira Agenției Naționale pentru Locuințe",
+"short": "HCL Țibănești nr. 113/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/67815",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2362,6 +2736,29 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-125-2022",
+"path": "local/iasi/tibanesti/2022/125",
+"kind": "local",
+"year": "2022",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 125/2022",
+"short": "HCL Țibănești nr. 125/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/69068",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-126-2022",
 "path": "local/iasi/tibanesti/2022/126",
 "kind": "local",
@@ -2406,6 +2803,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-128-2022",
+"path": "local/iasi/tibanesti/2022/128",
+"kind": "local",
+"year": "2022",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 128/2022 privind decontarea sumei de 305.471,04 lei inclusiv TVA, representând lucrări executate la obiectivul de investiții ,, Construire Pod punct Iopcea (regim de urgență) în satul Glodenii Gândului, comuna Țibănești, jud. Iași",
+"short": "HCL Țibănești nr. 128/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/69961",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-129-2022",
 "path": "local/iasi/tibanesti/2022/129",
 "kind": "local",
@@ -2425,6 +2844,50 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-130-2022",
+"path": "local/iasi/tibanesti/2022/130",
+"kind": "local",
+"year": "2022",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 130/2022 privind decontarea sumei de 9000 lei cu TVA, reprezentând plata documentațiilor tehnice PTh, DE, CS, DTAC, aferente investițiilor ,, Construire teren de sport cu gazon sintetic în satele Jigoreni și Glodenii Gândului''",
+"short": "HCL Țibănești nr. 130/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/69963",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-131-2022",
+"path": "local/iasi/tibanesti/2022/131",
+"kind": "local",
+"year": "2022",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 131/2022 privind decontarea sumei de 59.500 lei inclusiv TVA reprezentând plata documentațiilor tehnice – studiul de fezabilitate, documentații obținere avize, studiu topografic, studiu geotehnic și verificarea acestora aferente proiectului de investiții ,,Amenajare trotuare, parcaje, rigole betonate și podețe în zona centrală a localității Țibănești, comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 131/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/69964",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2469,6 +2932,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-134-2022",
+"path": "local/iasi/tibanesti/2022/134",
+"kind": "local",
+"year": "2022",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 134/2022 privind decontarea sumei de 180.117,52 lei inclusiv TVA reprezentând plata documentațiilor tehnice pentru racordarea la utilitățile publice a obiectivului de investiții ,, CONSTRUIRE BAZA SPORTIVĂ TIP 1 SITUATĂ ÎN SAT ȚIBĂNEȘTI, COMUNA ȚIBĂNEȘTI, JUDEȚUL IAȘI,,",
+"short": "HCL Țibănești nr. 134/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/69967",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2538,6 +3023,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-138-2022",
+"path": "local/iasi/tibanesti/2022/138",
+"kind": "local",
+"year": "2022",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 138/2022 privind decontarea sumei de 112.657,50 lei inclusiv TVA reprezentând plata lucrărilor de alimentare cu energie electrică – joasă tensiune la obiectivul de investiții ,, CONSTRUIRE BAZA SPORTIVĂ TIP 1 SITUATĂ ÎN SAT ȚIBĂNEȘTI, COMUNA ȚIBĂNEȘTI, JUDEȚUL IAȘI,,",
+"short": "HCL Țibănești nr. 138/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/74214",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-139-2022",
 "path": "local/iasi/tibanesti/2022/139",
 "kind": "local",
@@ -2582,6 +3089,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-141-2022",
+"path": "local/iasi/tibanesti/2022/141",
+"kind": "local",
+"year": "2022",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 141/2022 privind desemnarea unui număr de trei reprezentanti ai Consiliului Local Ţibăneşti, ca membrii în Consiliul de Administraţie al Liceului Tehnologic ,,Petre P. Carp,, Țibănești, judeţul Iaşi pentru anul școlar 2022-2023",
+"short": "HCL Țibănești nr. 141/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/74217",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-142-2022",
 "path": "local/iasi/tibanesti/2022/142",
 "kind": "local",
@@ -2601,6 +3130,50 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-143-2022",
+"path": "local/iasi/tibanesti/2022/143",
+"kind": "local",
+"year": "2022",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 143/2022 privind desemnarea unui reprezentant al Consiliului Local Ţibăneşti în Consiliul de Administraţie al Şcolii Gimnaziale Glodenii Gândului, comuna Ţibăneşti, judeţul Iaşi pentru anul școlar 2022-2023",
+"short": "HCL Țibănești nr. 143/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/74219",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-144-2022",
+"path": "local/iasi/tibanesti/2022/144",
+"kind": "local",
+"year": "2022",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 144/2022 privind decontarea sumei de 176.386,27 lei inclusiv TVA reprezentând lucrări executate la obiectivul de investiții „Construire Pod punct Iopcea (regim de urgență)în satul Glodenii Gândului comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 144/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/74220",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2670,6 +3243,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-148-2022",
+"path": "local/iasi/tibanesti/2022/148",
+"kind": "local",
+"year": "2022",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 148/2022 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Țibănești pentru lunile noiembrie, decembrie 2022 și ianuarie 2023",
+"short": "HCL Țibănești nr. 148/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/77906",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-149-2022",
 "path": "local/iasi/tibanesti/2022/149",
 "kind": "local",
@@ -2714,6 +3309,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-151-2022",
+"path": "local/iasi/tibanesti/2022/151",
+"kind": "local",
+"year": "2022",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 151/2022 privind decontarea sumei de 30.795,76 lei inclusiv TVA reprezentând lucrări executate și asistență tehnică din partea proiectantului la obiectivul de investiții „Construire Pod punct Iopcea (regim de urgență)în satul Glodenii Gândului comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 151/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/77909",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-152-2022",
 "path": "local/iasi/tibanesti/2022/152",
 "kind": "local",
@@ -2733,6 +3350,72 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-153-2022",
+"path": "local/iasi/tibanesti/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 153/2022 privind decontarea sumei de 254.762,58 lei inclusiv TVA reprezentând lucrări executate la obiectivul de investiții „Construire Podeț la DC 1130 (regim de urgență) extravilan sat Tungujei comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 153/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/77911",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-154-2022",
+"path": "local/iasi/tibanesti/2022/154",
+"kind": "local",
+"year": "2022",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 154/2022 privind decontarea sumei de 221.801,00 lei inclusiv TVA reprezentând lucrări executate la obiectivul de investiții „Amenajare loc de joacă în satul Țibănești, comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 154/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/77912",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-155-2022",
+"path": "local/iasi/tibanesti/2022/155",
+"kind": "local",
+"year": "2022",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 155/2022 privind decontarea sumei de 14.875 lei inclusiv TVA reprezentând elaborare studiu geotehnic pentru un număr de 3 SPAUri din cadrul proiectului ,,Extindre sistem de canalizare în sat Țibănești și înființarea sistem de canalizare în satul Jigoreni, comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 155/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/77913",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2799,6 +3482,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-159-2022",
+"path": "local/iasi/tibanesti/2022/159",
+"kind": "local",
+"year": "2022",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 159/2022 privind decontarea sumei de 10.000 lei inclusiv TVA reprezentând dirigenție de șantier la obiectivul de investiții „Construire Pod punct Iopcea (regim de urgență)în satul Glodenii Gândului comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 159/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/77917",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2912,6 +3617,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-165-2022",
+"path": "local/iasi/tibanesti/2022/165",
+"kind": "local",
+"year": "2022",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 165/2022 privind însușirea Raportului de activitate al consilierului juridic precum și aprobarea Programului de măsuri privind îmbunătățirea activității",
+"short": "HCL Țibănești nr. 165/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-09",
+"latest": "2022-12-09",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/81542",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-166-2022",
 "path": "local/iasi/tibanesti/2022/166",
 "kind": "local",
@@ -3001,6 +3728,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-170-2022",
+"path": "local/iasi/tibanesti/2022/170",
+"kind": "local",
+"year": "2022",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 170/2022 privind decontarea sumei de 240.274,07 lei inclusiv TVA reprezentând lucrări executate la obiectivul de investiții „Construire Podeț la DC 1130 (regim de urgență) extravilan sat Tungujei comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 170/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-09",
+"latest": "2022-12-09",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/81547",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-171-2022",
 "path": "local/iasi/tibanesti/2022/171",
 "kind": "local",
@@ -3020,6 +3769,50 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-172-2022",
+"path": "local/iasi/tibanesti/2022/172",
+"kind": "local",
+"year": "2022",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 172/2022 privind decontarea sumei de 85.085 lei inclusiv TVA reprezentând plata documentației tehnice, faza PTh și verificarea proiectului aferent obiectivului de investiții ,,Modernizare drumuri sătești în localitatea Țibănești, Răsboieni, Glodenii Gândului,, comune Țibănești, județul Iași",
+"short": "HCL Țibănești nr. 172/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-09",
+"latest": "2022-12-09",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/81549",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-173-2022",
+"path": "local/iasi/tibanesti/2022/173",
+"kind": "local",
+"year": "2022",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 173/2022 privind decontarea sumei de 4.600 lei inclusiv TVA reprezentând servicii dirigenție de șantier luna octombrie 2022 la obiectivul de investiții „Construire Podeț la DC 1130 (regim de urgență) extravilan sat Tungujei comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 173/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-09",
+"latest": "2022-12-09",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/81550",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

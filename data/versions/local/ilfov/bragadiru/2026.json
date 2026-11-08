@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/bragadiru/2026",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--bragadiru-10-2026",
+   "path": "local/ilfov/bragadiru/2026/10",
+   "short": "HCL Bragadiru nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 10/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%2010%20din%2028.05.2026.pdf",
+     "sha256": "2eb0383a03f5d7c4db1734ba9d976f0392265590693e1c86ed19817b02e5f126"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-11-2026",
+   "path": "local/ilfov/bragadiru/2026/11",
+   "short": "HCL Bragadiru nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 11/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%2011%20din%2010.06.2026.pdf",
+     "sha256": "560267f07e6e8176db97e7c3b5b3d009598aac7c731628bebc2c5c033822ebc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-12-2026",
+   "path": "local/ilfov/bragadiru/2026/12",
+   "short": "HCL Bragadiru nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 12/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/PV%20NR%2012.pdf",
+     "sha256": "47e0abdd996226d6e4521458fd9879a16acf5082a2743a0a3bc8185983433663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-13-2026",
+   "path": "local/ilfov/bragadiru/2026/13",
+   "short": "HCL Bragadiru nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 13/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%2013%20din%2021.07.2026.pdf",
+     "sha256": "e48b9705d95b5717f5aa99aaf941e2830b3f740b2e5e7e631e3534138f14315b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-15-2026",
+   "path": "local/ilfov/bragadiru/2026/15",
+   "short": "HCL Bragadiru nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 15/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/PV%20al%20%C8%99edin%C8%9Bei%20nr.%2015%20din%2007.08.2026.pdf",
+     "sha256": "499c7eedc4176d494bb96b273b92936e712a5979800de3354f3c1c518bca4d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-16-2026",
+   "path": "local/ilfov/bragadiru/2026/16",
+   "short": "HCL Bragadiru nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 16/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%2016din%2021.08.2026.pdf",
+     "sha256": "f12d8545aa86b32d2a7592f4552c501b3766c2ed7ba1ffdba3ddb8c1626875b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-17-2026",
+   "path": "local/ilfov/bragadiru/2026/17",
+   "short": "HCL Bragadiru nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 17/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%2017%20din%2031.08.2026.pdf",
+     "sha256": "2de47777e5a9eb5eed37ac1bd448e1631d913017e01a6ccfd9eaca5d74968b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-18-2026",
+   "path": "local/ilfov/bragadiru/2026/18",
+   "short": "HCL Bragadiru nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 18/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/Bragadiru%20Upload/procese-verbale/PV%20NR.18.pdf",
+     "sha256": "f1327dd261be3fdb97a7aed8d84ab1e3ef0b2dff8b182fd64508d1de8ccb3f0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-19-2026",
+   "path": "local/ilfov/bragadiru/2026/19",
+   "short": "HCL Bragadiru nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 19/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/Bragadiru%20Upload/procese-verbale/pv%2019.pdf",
+     "sha256": "47f53a6a1b501dd19f48d34ab771b81fb3581d4225921e2c351408f38b1b0a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-3-2026",
+   "path": "local/ilfov/bragadiru/2026/3",
+   "short": "HCL Bragadiru nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 3/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%203%20din%2019.03.2026.pdf",
+     "sha256": "b21acc77c85fdd692e63d81856ec3b066bf84cdc8fa59ee4e406c16d444eb013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-46-2026",
+   "path": "local/ilfov/bragadiru/2026/46",
+   "short": "HCL Bragadiru nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 46/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/regagr/2026/BULETIN%20DE%20AVERTIZARE%20NR.%2046%20-%20Molia%20vi%C8%9Bei%20de%20vie%20(Lobesia%20botrana).pdf",
+     "sha256": "aa9487a65690a7765d1259e19e91c949199c1d3aacdb9e903c21d6794f12a4f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-47-2026",
+   "path": "local/ilfov/bragadiru/2026/47",
+   "short": "HCL Bragadiru nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 47/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/regagr/2026/BULETIN%20DE%20AVERTIZARE%20NR.%2047%20-%20Molia%20miner%C4%83%20a%20tomatelor%20(Tuta%20absoluta).pdf",
+     "sha256": "91e89e4e21800e8c8a9c82a0dbf1501ce9b4705aeaa627272f29de1c0eff6063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-5-2026",
+   "path": "local/ilfov/bragadiru/2026/5",
+   "short": "HCL Bragadiru nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 5/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr%205%20din%2003.04.2026.pdf",
+     "sha256": "1ac5a2c1701b3cf3e5ab01347dc698d5a17207717da19683657d3940daf869fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-6-2026",
+   "path": "local/ilfov/bragadiru/2026/6",
+   "short": "HCL Bragadiru nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 6/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/pv%20nr.%206%20din%2015.04.2026.pdf",
+     "sha256": "7cbd71c820cd5131c52953fbd1ef3dc3f19d7259db2f585b1268476ec06c0199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-8-2026",
+   "path": "local/ilfov/bragadiru/2026/8",
+   "short": "HCL Bragadiru nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 8/2026",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/procese-verbale-ale-sedintelor-consiliului-local/pv-2026",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/PV%20Sedinte%20/2026/PV.%20NR.%208.pdf",
+     "sha256": "ec55cfeb34c46facde582d590b36c20848be6ae7c25741fb1ac8056882f19370"
+    }
+   ]
+  }
+ ]
+}

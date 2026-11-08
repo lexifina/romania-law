@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tatarusi-5-2022",
+"path": "local/iasi/tatarusi/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 5/2022 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si al numarului de indemnizatii lunare pentru anul 2022",
+"short": "HCL Tătăruși nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/54223",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tatarusi-6-2022",
 "path": "local/iasi/tatarusi/2022/6",
 "kind": "local",
@@ -333,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tatarusi-17-2022",
+"path": "local/iasi/tatarusi/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 17/2022 privind stabilirea indemnizatiei lunare pentru consilierii locali din cadrul Consiliului Local Tatarusi . judetul Iasi",
+"short": "HCL Tătăruși nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/54203",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tatarusi-18-2022",
 "path": "local/iasi/tatarusi/2022/18",
 "kind": "local",
@@ -355,6 +399,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tatarusi-19-2022",
+"path": "local/iasi/tatarusi/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 19/2022 privind aprobarea reactualizarii Regulamentului de acordare a sporului pentru conditii periculoase sau vatamatoare de munca pentru functiile publice din cadrul aparatului de specialitate al primarului comunei Tatarusi",
+"short": "HCL Tătăruși nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/54205",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tatarusi-20-2022",
 "path": "local/iasi/tatarusi/2022/20",
 "kind": "local",
@@ -374,6 +440,51 @@
 "council_name": "Consiliul Local al Comunei Tătăruși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-21-2022",
+"path": "local/iasi/tatarusi/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 21/2022",
+"short": "HCL Tătăruși nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/54207",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-22-2022",
+"path": "local/iasi/tatarusi/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 22/2022 privind desemnarea reprezentantului Consiliului Local Tatarusi care va avea calitatea de membru in Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiei de director /director adjunct din unitatile de invatamant preuniversitar de stat din comuna Tatarusi , judetul Iasi",
+"short": "HCL Tătăruși nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/54208",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1258,6 +1369,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tatarusi-63-2022",
+"path": "local/iasi/tatarusi/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 63/2022 privind .desemnarea reprezentantului Consiliului Local Tatarusi in Comisia de evaluare a probei de interviu la concursul organizat pentru ocuparea functiilor de director si director adjunct din unitatile deinvatamantpreuniversitar de stat din judetul Iasi pentru Comuna Tatarusi, judetul Iasi",
+"short": "HCL Tătăruși nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/71660",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tatarusi-64-2022",
 "path": "local/iasi/tatarusi/2022/64",
 "kind": "local",
@@ -1277,6 +1410,28 @@
 "council_name": "Consiliul Local al Comunei Tătăruși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-65-2022",
+"path": "local/iasi/tatarusi/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 65/2022 privind alegerea presedintelui de sedinta pentru perioada septembrie- octombrie - noiembrie 2022",
+"short": "HCL Tătăruși nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-21",
+"latest": "2022-09-21",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/76140",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1387,6 +1542,28 @@
 "council_name": "Consiliul Local al Comunei Tătăruși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-71-2022",
+"path": "local/iasi/tatarusi/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 71/2022 privind desemnarea reprezentantilor Consiliului Local Tatarusi in Consiliul de Administratie al Scolii Profesionale Tatarusi pentru anul scolar 2022-2023",
+"short": "HCL Tătăruși nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/78127",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

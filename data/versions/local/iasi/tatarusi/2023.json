@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-17-2023",
+   "path": "local/iasi/tatarusi/2023/17",
+   "short": "HCL Tătăruși nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 17/2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/91137",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/91137",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-18-2023",
    "path": "local/iasi/tatarusi/2023/18",
    "short": "HCL Tătăruși nr. 18/2023",
@@ -328,6 +343,21 @@
      "from": "2023-06-20",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/97616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-21-2023",
+   "path": "local/iasi/tatarusi/2023/21",
+   "short": "HCL Tătăruși nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 21/2023 privind desemnarea persoanei ce va conduce sedinta de consiliu local in conformitate cu prevederile art. 123, alin.3 din OUG 57/2019- Codul Administrativ",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/97617",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/97617",
      "sha256": null
     }
    ]
@@ -498,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-32-2023",
+   "path": "local/iasi/tatarusi/2023/32",
+   "short": "HCL Tătăruși nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 32/2023 privind aprobarea decontarii navetei cadrelor didactice din cadrul Scolii Profesionale Tatarusi , comuna Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/109625",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/109625",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-33-2023",
    "path": "local/iasi/tatarusi/2023/33",
    "short": "HCL Tătăruși nr. 33/2023",
@@ -528,6 +573,246 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-35-2023",
+   "path": "local/iasi/tatarusi/2023/35",
+   "short": "HCL Tătăruși nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 35/2023 privind alegerea presedintelui de sedinta pentru perioada aprilie-mai-iunie 2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110094",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-36-2023",
+   "path": "local/iasi/tatarusi/2023/36",
+   "short": "HCL Tătăruși nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 36/2023 privind aprobarea ordinii de zi a sedintei ordinare a CL Tatarusi din data de 28.04.2023 si suplimentarea acesteia",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110095",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-37-2023",
+   "path": "local/iasi/tatarusi/2023/37",
+   "short": "HCL Tătăruși nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 37/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 20.03.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110096",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-38-2023",
+   "path": "local/iasi/tatarusi/2023/38",
+   "short": "HCL Tătăruși nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 38/2023 privind APROBAREA PLANULUI DE PREFATIRE IN DOMENIUL SITUATIILOR DE URGENTA LA NIVELUL Comunei Tatarudi , judetul Iasi pentru anul 2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110097",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-39-2023",
+   "path": "local/iasi/tatarusi/2023/39",
+   "short": "HCL Tătăruși nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 39/2023 privind aprobarea validarii Dispozitiei Primarului Comunei Tatarusi nr. 130 din 20.03.2023 privind rectificarea bugetului local de venituri si cheltuieli al comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110106",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-4-2023",
+   "path": "local/iasi/tatarusi/2023/4",
+   "short": "HCL Tătăruși nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 4/2023 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si al numarului de indemnizatii lunare pentru anul 2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/91124",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/91124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-40-2023",
+   "path": "local/iasi/tatarusi/2023/40",
+   "short": "HCL Tătăruși nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 40/2023 privind aprobarea documentaţiei tehnico-economice, a indicatorilor tehnico-economici, asigurarea şi susţinerea contribuţiei financiare aferente cheltuielilor implementării proiectului ce nu sunt finanţate de AFM a proiectului “Cresterea eficientei energetice a infrastructurii de iluminat public in comuna Tatarusi, judetul Iasi - etapa a II-a” depus in cadrul Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110098",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-41-2023",
+   "path": "local/iasi/tatarusi/2023/41",
+   "short": "HCL Tătăruși nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 41/2023 privind aprobarea modificarii si completarii Contractului de delegare a gestiunii serviciilor publice de alimentare cu apa si de canalizare nr. 48/2009 – consolidat 2021 prin Actul Aditional nr. 3",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110099",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-42-2023",
+   "path": "local/iasi/tatarusi/2023/42",
+   "short": "HCL Tătăruși nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 42/2023 privind aprobarea Strategiei de Dezvoltare a serviciilor publice de alimentare cu apă și de canalizare la nivelul ariei delegării, pentru perioada 2023-2028",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110100",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-43-2023",
+   "path": "local/iasi/tatarusi/2023/43",
+   "short": "HCL Tătăruși nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 43/2023 privind demararea procedurilor în vederea trecerii cu titlu gratuit a unei suprafete de 13709 mp si 1604,661 ml din drum forestier Dealul Popii și a terenului aferent acestuia din domeniul public al statului și din administrarea Regiei Naționale a Pădurilor-Romsilva în domeniul public al Comunei Tătăruşi, județul Iaşi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110102",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-44-2023",
+   "path": "local/iasi/tatarusi/2023/44",
+   "short": "HCL Tătăruși nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 44/2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110103",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-45-2023",
+   "path": "local/iasi/tatarusi/2023/45",
+   "short": "HCL Tătăruși nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 45/2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110104",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-46-2023",
+   "path": "local/iasi/tatarusi/2023/46",
+   "short": "HCL Tătăruși nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 46/2023 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: „Reabilitarea şi modernizarea drumurilor locale în comuna Tătăruşi, județul Iaşi”",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110105",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-47-2023",
+   "path": "local/iasi/tatarusi/2023/47",
+   "short": "HCL Tătăruși nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 47/2023 privind analiza stadiului de inscriere a datelor in Registrul Agricol pentru semestrul II al anului 2022 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/110101",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/110101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-48-2023",
+   "path": "local/iasi/tatarusi/2023/48",
+   "short": "HCL Tătăruși nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 48/2023 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 31.05.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120937",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-49-2023",
+   "path": "local/iasi/tatarusi/2023/49",
+   "short": "HCL Tătăruși nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 49/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 28.04.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120938",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120938",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-5-2023",
    "path": "local/iasi/tatarusi/2023/5",
    "short": "HCL Tătăruși nr. 5/2023",
@@ -538,6 +823,156 @@
      "from": "2023-06-20",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/91125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-50-2023",
+   "path": "local/iasi/tatarusi/2023/50",
+   "short": "HCL Tătăruși nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 50/2023 privind aprobarea organizarii festivalului Zilele Rezervatiei Forestiere Tatarusi, editia a X a in perioada 25,26 si 27 august 2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120939",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-51-2023",
+   "path": "local/iasi/tatarusi/2023/51",
+   "short": "HCL Tătăruși nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 51/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120940",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-52-2023",
+   "path": "local/iasi/tatarusi/2023/52",
+   "short": "HCL Tătăruși nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 52/2023 privind aprobarea modificarii si completarii art. 1 din HCL Tatarusi nr. 27 din 20.03.2023 privind participarea Comunei Tătăruşi în parteneriatul ASOCIAȚIEI GRUPULUI DE ACȚIUNE LOCALĂ CODRII PAȘCANILOR în vederea scrierii și implementării SDL 2023 - 2027 prin accesarea Planului Național Strategic 2023 – 2027 (PNS 2023-2027",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120941",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-53-2023",
+   "path": "local/iasi/tatarusi/2023/53",
+   "short": "HCL Tătăruși nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 53/2023 privind aprobarea indicatorilor tehnico-economici şi asigurarea cofinanţării din bugetul local pentru realizarea obiectivului de investiţii: \"Extindere reţea electrică Zona Sf. Împăraţi Constantin şi Elena, str. DC 132, localitatea Vâlcica şi Uda, comuna Tătăruşi, judeţul Iaşi \"",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120942",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-54-2023",
+   "path": "local/iasi/tatarusi/2023/54",
+   "short": "HCL Tătăruși nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 54/2023 privind abrogarea HCL Tatarusi nr. 41 din 28.04.2023 privind modificarea si completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 3",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/120943",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/120943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-55-2023",
+   "path": "local/iasi/tatarusi/2023/55",
+   "short": "HCL Tătăruși nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 55/2023 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 30.06.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121076",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-56-2023",
+   "path": "local/iasi/tatarusi/2023/56",
+   "short": "HCL Tătăruși nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 56/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 31.05.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121077",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-57-2023",
+   "path": "local/iasi/tatarusi/2023/57",
+   "short": "HCL Tătăruși nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 57/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli a comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121078",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-58-2023",
+   "path": "local/iasi/tatarusi/2023/58",
+   "short": "HCL Tătăruși nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 58/2023 privind acordarea mandatului special reprezentantului UAT TATARUSI în AGA ADIS Iași în vederea aprobării ajustării tarifului de colectare și transport a deșeurilor reziduale din deșeurile municipale din Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în Județul Iași, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor” din județul Iași",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121079",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-59-2023",
+   "path": "local/iasi/tatarusi/2023/59",
+   "short": "HCL Tătăruși nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 59/2023 privind analiza stadiului de inscriere a datelor in Registrul Agricol pentru semestrul I al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati ;",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121080",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121080",
      "sha256": null
     }
    ]
@@ -558,6 +993,156 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-60-2023",
+   "path": "local/iasi/tatarusi/2023/60",
+   "short": "HCL Tătăruși nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 60/2023 privind insusirea Raportului de activitate al asistentilor personali ai persoanelor cu handicap grav pentru semestrul I al anului 2023;",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121081",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-61-2023",
+   "path": "local/iasi/tatarusi/2023/61",
+   "short": "HCL Tătăruși nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 61/2023 privind aprobarea decontarii contravalorii cheltuielilor de transport de la domiciliul la serviciu pentru functionarii publici si personalul contractual din cadrul Primariei Comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121082",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-62-2023",
+   "path": "local/iasi/tatarusi/2023/62",
+   "short": "HCL Tătăruși nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 62/2023 privind privind aprobarea documentației tehnico-economică (faza Studiu de fezabilitate) pentru obiectivul de investiții „Înființarea si dotarea unui centru de colectare prin aport voluntar în Comuna Tătăruși, jud. Iași-Runda I”, aprobat pentru finanțare prin Planului Național de Redresare și Reziliență al României, Componenta 3. Managementul Deșeurilor, Investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, Subinvestiția l1.a ,,Înființare de centre de colectare prin aport voluntar”",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121083",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-63-2023",
+   "path": "local/iasi/tatarusi/2023/63",
+   "short": "HCL Tătăruși nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 63/2023 privind alegerea presedintelui de sedinta pentru perioada iulie- august – septembrie 2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121164",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-64-2023",
+   "path": "local/iasi/tatarusi/2023/64",
+   "short": "HCL Tătăruși nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 64/2023 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 31.07.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121165",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-65-2023",
+   "path": "local/iasi/tatarusi/2023/65",
+   "short": "HCL Tătăruși nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 65/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 30.06.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121166",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-66-2023",
+   "path": "local/iasi/tatarusi/2023/66",
+   "short": "HCL Tătăruși nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 66/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli a comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121167",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-67-2023",
+   "path": "local/iasi/tatarusi/2023/67",
+   "short": "HCL Tătăruși nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 67/2023 privind aprobarea privind aprobarea participarii Comunei TATARUSI in cadrul Programului Fondul pentru Modernizare-Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum (Ministerul Energiei), cu proiectul de investitii „Investiţii în capacităţi noi de producere a energiei electrice din surse regenerabile în vederea susținerii consumului propriu pentru Comuna TATARUSI judetul IASI”",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121168",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-68-2023",
+   "path": "local/iasi/tatarusi/2023/68",
+   "short": "HCL Tătăruși nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 68/2023 privind aprobarea intocmirii proiectului si a cheltuielilor aferente pentru obiectivul „Construire parc de joacă pentru copii” in comuna Tatarusi , judetul Iasi ;",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121169",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-69-2023",
+   "path": "local/iasi/tatarusi/2023/69",
+   "short": "HCL Tătăruși nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 69/2023 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 29.08.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121305",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-7-2023",
    "path": "local/iasi/tatarusi/2023/7",
    "short": "HCL Tătăruși nr. 7/2023",
@@ -573,6 +1158,156 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-70-2023",
+   "path": "local/iasi/tatarusi/2023/70",
+   "short": "HCL Tătăruși nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 70/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 31.07.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121306",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-71-2023",
+   "path": "local/iasi/tatarusi/2023/71",
+   "short": "HCL Tătăruși nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 71/2023 privind neasumarea responsabilitatilor organizarii si derularii procedurilor de atribuire a contractelor/ acordurilor cadru pentru achizitia produselor aferente programului si a contractelor / acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative aferente ,, Programului pentru scoli AL Romaniei Corn si Lapte ,, pentru anii scolari 2023-2024 si 2024-2025;",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121307",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-72-2023",
+   "path": "local/iasi/tatarusi/2023/72",
+   "short": "HCL Tătăruși nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 72/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli a comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121308",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-73-2023",
+   "path": "local/iasi/tatarusi/2023/73",
+   "short": "HCL Tătăruși nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 73/2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/121309",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/121309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-74-2023",
+   "path": "local/iasi/tatarusi/2023/74",
+   "short": "HCL Tătăruși nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 74/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 29.08.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127510",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-75-2023",
+   "path": "local/iasi/tatarusi/2023/75",
+   "short": "HCL Tătăruși nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 75/2023 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 18.09.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127511",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-76-2023",
+   "path": "local/iasi/tatarusi/2023/76",
+   "short": "HCL Tătăruși nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 76/2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127512",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-77-2023",
+   "path": "local/iasi/tatarusi/2023/77",
+   "short": "HCL Tătăruși nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 77/2023 privind privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii:„Reabilitarea şi modernizarea drumurilor locale în comuna Tătăruşi, județul Iaşi”",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127513",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-78-2023",
+   "path": "local/iasi/tatarusi/2023/78",
+   "short": "HCL Tătăruși nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 78/2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127514",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-79-2023",
+   "path": "local/iasi/tatarusi/2023/79",
+   "short": "HCL Tătăruși nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 79/2023 privind actualizarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitie: “MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA TATARUSI, JUDETUL IASI”",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127515",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127515",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-8-2023",
    "path": "local/iasi/tatarusi/2023/8",
    "short": "HCL Tătăruși nr. 8/2023",
@@ -583,6 +1318,156 @@
      "from": "2023-06-20",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/91128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-80-2023",
+   "path": "local/iasi/tatarusi/2023/80",
+   "short": "HCL Tătăruși nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 80/2023 privind aprobarea indicatorilor tehnico-economici actualizați la faza PTH și a cheltuielilor proiectului pentru proiectul „Înființarea si dotarea unui centru de colectare prin aport voluntar in Comuna Tătăruși, jud. Iași-Runda I” aprobat pentru finanțare prin Planului Național de Redresare și Reziliență al României, Componenta C3: Managementul Deșeurilor, Investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, Subinvestiția I1.a ,,Înființare de centre de colectare prin aport voluntar”",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127516",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-81-2023",
+   "path": "local/iasi/tatarusi/2023/81",
+   "short": "HCL Tătăruși nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 81/2023 privind desemnarea reprezentantilor Consiliului Local Tatarusi in Consiliul de Administratie a Scolii Profesionale Tatarusi pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127517",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-82-2023",
+   "path": "local/iasi/tatarusi/2023/82",
+   "short": "HCL Tătăruși nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 82/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Construirea de locuință de serviciu pentru specialiști din sănătate în com. Tătăruși, jud. Iași” aprobat pentru finanțare prin Planului Național de Redresare și Reziliență al României, Componenta 10 – Fondul Local, I.2 – Construirea de locuințe nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127518",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-83-2023",
+   "path": "local/iasi/tatarusi/2023/83",
+   "short": "HCL Tătăruși nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 83/2023 privind aprobarea indicatorilor tehnico- economici ai obiectivului Construire Parc de Joaca in comuna Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127519",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-84-2023",
+   "path": "local/iasi/tatarusi/2023/84",
+   "short": "HCL Tătăruși nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 84/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127559",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-85-2023",
+   "path": "local/iasi/tatarusi/2023/85",
+   "short": "HCL Tătăruși nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 85/2023 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Tatarusi din data de 30.10.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127560",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-86-2023",
+   "path": "local/iasi/tatarusi/2023/86",
+   "short": "HCL Tătăruși nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 86/2023 privind aprobarea procesului verbal al sedintei ordinare a Consiliului Local Tatarusi din data de 18.09.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127561",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-87-2023",
+   "path": "local/iasi/tatarusi/2023/87",
+   "short": "HCL Tătăruși nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 87/2023 privind rectificarea bugetului local de venituri si cheltuieli al comunei Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127562",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-88-2023",
+   "path": "local/iasi/tatarusi/2023/88",
+   "short": "HCL Tătăruși nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 88/2023 privind aprobarea valorilor reevaluate ale activelor fixe corporale din domeniul public UAT Tatarusi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127563",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-89-2023",
+   "path": "local/iasi/tatarusi/2023/89",
+   "short": "HCL Tătăruși nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 89/2023 privind aprobarea salariilor de baza pentru functionarii publici si personalul contractual al aparatului Primarului comunei Tatarusi incepand cu data de 01.10.2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/127564",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/127564",
      "sha256": null
     }
    ]

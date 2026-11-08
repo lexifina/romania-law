@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-seaca-10-2022",
+"path": "local/iasi/valea-seaca/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 10/2022 privind desemnarea unui reprezentant al Consiliului Local Valea-Seacă în comisia de evaluare a probei interviu pentru ocuparea funcției de director și director adjunct al Școlii Gimnaziale din Valea-Seacă, jud. Iași, - nr. 14/11.02.2022",
+"short": "HCL Valea Seacă nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-21",
+"latest": "2022-02-21",
+"portal": "https://emol.ro/valeaseaca-is/registru-hcl/52925",
+"council": "iasi/valea-seaca",
+"council_name": "Consiliul Local al Comunei Valea Seacă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-seaca-11-2022",
 "path": "local/iasi/valea-seaca/2022/11",
 "kind": "local",
@@ -264,6 +286,29 @@
 "council_name": "Consiliul Local al Comunei Valea Seacă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-seaca-14-2022",
+"path": "local/iasi/valea-seaca/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 14/2022",
+"short": "HCL Valea Seacă nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://emol.ro/valeaseaca-is/registru-hcl/56929",
+"council": "iasi/valea-seaca",
+"council_name": "Consiliul Local al Comunei Valea Seacă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

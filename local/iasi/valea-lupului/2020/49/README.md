@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Valea Lupului nr. 49/2020 privind acordarea mandatului special reprezentantului UAT Valea Lupului în AGA ADIS Iași, în vederea aporbării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul proiectului ''Sistem de management integrat al deșeurilor din județul Iași'' și împuternicirea președintelui ADIS să semneze Actul Adițional nr. 3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în județul Iași nr. 357/30.10.2018
+
+HCL Valea Lupului nr. 49/2020 · 1 versions, from 2020-05-18 (latest in force: 2020-05-18) · <https://emol.ro/valealupului-is/registru-hcl/18719>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-iasi--valea-lupului-49-2020` (tags `hcl-iasi--valea-lupului-49-2020/<day>`; `python tools/on.py <day> hcl-iasi--valea-lupului-49-2020`).
+
+## Decisions made by hand
+
+- HCL Valea Lupului nr. 49/2020: listed from Consiliul Local al Comunei Valea Lupului (emol.ro); an individual decision: metadata only.
+- HCL Valea Lupului nr. 49/2020: dated from 18 May 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Valea Lupului nr. 49/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

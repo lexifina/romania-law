@@ -113,6 +113,51 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-6-2026",
+"path": "local/iasi/tutora/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 6/2026",
+"short": "HCL Țuțora nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/249362",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tutora-7-2026",
+"path": "local/iasi/tutora/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 7/2026 cu privire la aprobarea rezilierii contractului de închiriere pajiști nr. 1416 din 09.04.2019",
+"short": "HCL Țuțora nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/249363",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-8-2026",
 "path": "local/iasi/tutora/2026/8",
 "kind": "local",
@@ -157,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-10-2026",
+"path": "local/iasi/tutora/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 10/2026 cu privire la aprobarea prelungirii duratei contractelor de concesiune nr. 2141 din 2017, nr.1914 din 2019, nr. 1916 din 2019, nr.1918 din 2019 și 1924 din 2019 și aprobarea actualizării redevenței/chiriei spațiilor concesionate/închiriate din cadrul clădirii dispensarului uman și a clădirii-anexă poștei",
+"short": "HCL Țuțora nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/249366",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-11-2026",
 "path": "local/iasi/tutora/2026/11",
 "kind": "local",
@@ -176,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-12-2026",
+"path": "local/iasi/tutora/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 12/2026 cu privire la aprobarea rezilierii contractului de închiriere pajiști nr. 1570 din 16.04.2019",
+"short": "HCL Țuțora nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/249368",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -396,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-23-2026",
+"path": "local/iasi/tutora/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 23/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local Ţuţora pentru trimestrul II al anului 2026",
+"short": "HCL Țuțora nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/259874",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -840,6 +951,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-44-2026",
+"path": "local/iasi/tutora/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 44/2026 privind darea în administrarea și gospodărirea cimitirelor din satele Țuțora și Chiperești către Parohiilor Țuțora și Chiperești și aprobarea Regulamentului de administrare şi funcţionare a tuturor cimitirelor de pe raza comunei Țuțora",
+"short": "HCL Țuțora nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/272112",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-45-2026",
 "path": "local/iasi/tutora/2026/45",
 "kind": "local",
@@ -884,6 +1017,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-47-2026",
+"path": "local/iasi/tutora/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 47/2026 privind validarea și însușirea Dispoziției Primarului Comunei Țuțora nr. 69 din 20 mai 2026 privind rectificarea bugetului local al anului 2026",
+"short": "HCL Țuțora nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/272115",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-48-2026",
 "path": "local/iasi/tutora/2026/48",
 "kind": "local",
@@ -903,6 +1058,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-49-2026",
+"path": "local/iasi/tutora/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 49/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local Ţuţora, pentru trimestrul III al anului 2026",
+"short": "HCL Țuțora nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/tutora-is/registru-hcl/275810",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1322,6 +1499,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-69-2026",
+"path": "local/iasi/tutora/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 69/2026 privind mandatarea Primarului comunei Țuțora, Județul Iași să semneze în formă autentică actul de vânzare-cumpărare nefinalizat pentru terenul proprietate privată a comunei Țuțora, județul Iași",
+"short": "HCL Țuțora nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/tutora-is/registru-hcl/282224",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,94 @@
 "shard": "local/ilfov/bragadiru/2020",
 "acts": [
 {
+"slug": "hcl-ilfov--bragadiru-4-2020",
+"path": "local/ilfov/bragadiru/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 4/2020",
+"short": "HCL Bragadiru nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-04",
+"latest": "2020-02-04",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-9-2020",
+"path": "local/ilfov/bragadiru/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 9/2020",
+"short": "HCL Bragadiru nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-10",
+"latest": "2020-03-10",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-10-2020",
+"path": "local/ilfov/bragadiru/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 10/2020",
+"short": "HCL Bragadiru nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-10",
+"latest": "2020-03-10",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-11-2020",
+"path": "local/ilfov/bragadiru/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 11/2020",
+"short": "HCL Bragadiru nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-10",
+"latest": "2020-03-10",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--bragadiru-44-2020",
 "path": "local/ilfov/bragadiru/2020/44",
 "kind": "local",

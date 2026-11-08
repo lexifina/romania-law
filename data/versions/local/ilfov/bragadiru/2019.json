@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/bragadiru/2019",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--bragadiru-10-2019",
+   "path": "local/ilfov/bragadiru/2019/10",
+   "short": "HCL Bragadiru nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 10/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "7a7b3a61236da7aa71309a29ecf4f830699e39e931054cef7b64164d747b9987"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-11-2019",
+   "path": "local/ilfov/bragadiru/2019/11",
+   "short": "HCL Bragadiru nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 11/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "e48ac7b5681e7846188e7624108be767e2a645bbf622e69d515231c969ad0839"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-12-2019",
+   "path": "local/ilfov/bragadiru/2019/12",
+   "short": "HCL Bragadiru nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 12/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "976325cf05543022d59016e06b61a22c55ede7da36e0b24ca1544684d72ff347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-5-2019",
+   "path": "local/ilfov/bragadiru/2019/5",
+   "short": "HCL Bragadiru nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 5/2019 privind scoaterea la licitatie publica deschisa a unui imobil - teren În suprafata de 50 mp , situat în domeniul public al orasului Bragadiru judetul Ilfov, în vederea închirierii",
+   "url": "http://primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/2019-hotarari",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://primariaorasbragadiru.ro/downloads/hcl/Hot.%205-2019.pdf",
+     "sha256": "37829f79740a727df59f874d40fde452638c8783325e9f9da0998944a8dec1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-6-2019",
+   "path": "local/ilfov/bragadiru/2019/6",
+   "short": "HCL Bragadiru nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 6/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "b9c73d04a12d2462e9124011032a37539a08a067208d31f07803fe5dbdb83496"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-60-2019",
+   "path": "local/ilfov/bragadiru/2019/60",
+   "short": "HCL Bragadiru nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 60/2019 privind înfiintarea Asociatia de Dezvoltare Intercomunitara si Interregionala ,, ASOCIATIEI DE DEZVOLTARE INTERREGIONALA SUD-VEST\"",
+   "url": "http://primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/2019-hotarari",
+   "versions": [
+    {
+     "from": "2019-09-18",
+     "units": 1,
+     "source_url": "https://primariaorasbragadiru.ro/downloads/hcl/hot.%2060_2019.pdf",
+     "sha256": "6835f3e3068fde8ddd04d295f42da6fc14a46b3130181d096856f2690f7f6748"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-7-2019",
+   "path": "local/ilfov/bragadiru/2019/7",
+   "short": "HCL Bragadiru nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 7/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "1c0200986f16057cc6a49771016d3766c6923a28e802876b578cc6701e917b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-8-2019",
+   "path": "local/ilfov/bragadiru/2019/8",
+   "short": "HCL Bragadiru nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 8/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "b2d527abcb7193c2bf9656eedd5f41f2dcfaa0f7a6aaa35a8418c60d1ecf2aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-82-2019",
+   "path": "local/ilfov/bragadiru/2019/82",
+   "short": "HCL Bragadiru nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 82/2019",
+   "url": "http://primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/2019-hotarari",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 1,
+     "source_url": "https://primariaorasbragadiru.ro/downloads/hcl/HOT.%2082_2019.pdf",
+     "sha256": "41b6e11c6c86b85c41ffe0868fbaa34f476a4e2a8bea8be1e63e6fa678d6fcc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-84-2019",
+   "path": "local/ilfov/bragadiru/2019/84",
+   "short": "HCL Bragadiru nr. 84/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 84/2019",
+   "url": "http://primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/2019-hotarari",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 1,
+     "source_url": "https://primariaorasbragadiru.ro/downloads/hcl/HOT.%2084_2019.pdf",
+     "sha256": "04dbb5eef7613b5386ffe7ab259e3a6911cb70d4b99619f9ced65149149e660b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--bragadiru-9-2019",
+   "path": "local/ilfov/bragadiru/2019/9",
+   "short": "HCL Bragadiru nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 9/2019",
+   "url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+     "sha256": "8f4b52cdcb00a69c30e5c2fec7ff845a3bab7fc37b93a77a170341df489f763d"
+    }
+   ]
+  }
+ ]
+}

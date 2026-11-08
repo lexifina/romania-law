@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-10-2020",
+   "path": "local/iasi/tomesti/2020/10",
+   "short": "HCL Tomești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 10/2020 privind aprobarea achitării cotizației comunei Tomești, județul Iași, de 50.000 lei la Grupul de Acțiune Locală GAL Poiana Vlădicăi, pentru anul 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6363",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-100-2020",
+   "path": "local/iasi/tomesti/2020/100",
+   "short": "HCL Tomești nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 100/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11363",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-101-2020",
+   "path": "local/iasi/tomesti/2020/101",
+   "short": "HCL Tomești nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 101/2020 privind aprobarea realizării lucrării pe domeniul public al comunei Tomești, județul Iași - „EXTINDERE CONDUCTĂ DISTRIBUȚIE GAZE NATURALE PRESIUNE REDUSĂ, BRANȘAMENT ȘI POST REGLARE/MĂSURARE PENTRU IMOBILUL SITUAT ÎN LOC. TOMEȘTI, STR. MORII, COMUNA TOMEȘTI, JUDEȚUL IAȘI”, PE CHELTUIALA BENEFICIARULUI, având în vedere cererea cu nr. 9825 din 30.07.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13167",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13167",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-102-2020",
    "path": "local/iasi/tomesti/2020/102",
    "short": "HCL Tomești nr. 102/2020",
@@ -28,6 +73,21 @@
      "from": "2020-08-27",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/13168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-103-2020",
+   "path": "local/iasi/tomesti/2020/103",
+   "short": "HCL Tomești nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 103/2020 privind constituirea Asociaţiei de Dezvoltare Intercomunitară de utilităţi publice pentru serviciul de transport public local „ASOCIAŢIA METROPOLITANĂ DE TRANSPORT PUBLIC IAŞI\"",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13169",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13169",
      "sha256": null
     }
    ]
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-106-2020",
+   "path": "local/iasi/tomesti/2020/106",
+   "short": "HCL Tomești nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 106/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente Programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative din școlile de pe raza Comunei Tomești, Județul Iași, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13172",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13172",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-107-2020",
    "path": "local/iasi/tomesti/2020/107",
    "short": "HCL Tomești nr. 107/2020",
@@ -78,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-108-2020",
+   "path": "local/iasi/tomesti/2020/108",
+   "short": "HCL Tomești nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 108/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13174",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-109-2020",
+   "path": "local/iasi/tomesti/2020/109",
+   "short": "HCL Tomești nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 109/2020 privind aprobarea: acordării unui sprijin financiar, în sumă de 15000 lei, Parohiei Vlădiceni - „Adormirea Maicii Domnului” din sat Vlădiceni, comuna Tomești, jud. Iași, pentru finalizare lucrări biserică",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13175",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-11-2020",
    "path": "local/iasi/tomesti/2020/11",
    "short": "HCL Tomești nr. 11/2020",
@@ -88,6 +193,96 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-110-2020",
+   "path": "local/iasi/tomesti/2020/110",
+   "short": "HCL Tomești nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 110/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13176",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-111-2020",
+   "path": "local/iasi/tomesti/2020/111",
+   "short": "HCL Tomești nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 111/2020 privind aprobarea realizării lucrării pe domeniul public al comunei Tomești, județul Iași „EXTINDERE CONDUCTĂ DISTRIBUȚIE GAZE NATURALE PRESIUNE REDUSĂ, BRANȘAMENT ȘI POST REGLARE/MĂSURARE PENTRU IMOBILELE SITUATE ÎN LOC. TOMEȘTI, STR. CODRULUI, JUD. IAȘI, PE CHELTUIALA BENEFICIARILOR”, având în vedere cererea cu nr. 12692 din 17.09.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13202",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-112-2020",
+   "path": "local/iasi/tomesti/2020/112",
+   "short": "HCL Tomești nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 112/2020 privind aprobarea „graficului ședințelor ordinare ale Consiliului Local Tomești pe trimestrul IV - 2020”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/13203",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/13203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-113-2020",
+   "path": "local/iasi/tomesti/2020/113",
+   "short": "HCL Tomești nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 113/2020 privind alegerea unui președinte de ședință al Consiliului Local al comunei Tomești, județul Iași, pe trimestrul IV 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15771",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-114-2020",
+   "path": "local/iasi/tomesti/2020/114",
+   "short": "HCL Tomești nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 114/2020 privind alegerea viceprimarului comunei Tomești, județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15772",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-115-2020",
+   "path": "local/iasi/tomesti/2020/115",
+   "short": "HCL Tomești nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 115/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Tomești, stabilirea numărului și a denumirii acestora, stabilirea numărului și a membrilor fiecărei comisii, precum și componența nominală a acestora",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15773",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15773",
      "sha256": null
     }
    ]
@@ -123,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-118-2020",
+   "path": "local/iasi/tomesti/2020/118",
+   "short": "HCL Tomești nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 118/2020 privind aprobarea desemnării reprezentanților din partea Consiliului Local Tomești în comisiile de administrație și în comisiile de evaluare și asigurarea calității din cadrul unităților de învățământ cu personalitate juridică de stat, sau particular, de pe raza comunei Tomești, județul Iași, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15784",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15784",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-119-2020",
    "path": "local/iasi/tomesti/2020/119",
    "short": "HCL Tomești nr. 119/2020",
@@ -133,6 +343,111 @@
      "from": "2020-11-10",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/15785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-12-2020",
+   "path": "local/iasi/tomesti/2020/12",
+   "short": "HCL Tomești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 12/2020 privind aprobarea efectuării demersurilor legale, în vederea trecerii, din domeniul public comunei Tomești, județul Iași, a grupului sanitar exterior de la Școala din sat Goruni, comuna Tomești, în vederea desființării, imobil aflat într-o stare avansată de degradare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6365",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-120-2020",
+   "path": "local/iasi/tomesti/2020/120",
+   "short": "HCL Tomești nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 120/2020 privind aprobarea „Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Tomești, Județul Iași și încetarea aplicabilității Hotărârii Consiliului Local al Comunei Tomești nr. 40 din 26.03.2020, privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local Tomești”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15864",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-121-2020",
+   "path": "local/iasi/tomesti/2020/121",
+   "short": "HCL Tomești nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 121/2020 privind aprobarea „desemnării reprezentantului Comunei Tomești, Județul Iași, în Adunarea Generală a Asociației Regionale a Serviciilor de Apă-Canal Iași-ARSACIS, precum și a înlocuitorului acestuia, având în vedere referatul de specialitate cu nr. 15899 din 19.11.2020”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15865",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-122-2020",
+   "path": "local/iasi/tomesti/2020/122",
+   "short": "HCL Tomești nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 122/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15866",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-123-2020",
+   "path": "local/iasi/tomesti/2020/123",
+   "short": "HCL Tomești nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 123/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15867",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-124-2020",
+   "path": "local/iasi/tomesti/2020/124",
+   "short": "HCL Tomești nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 124/2020 privind aprobarea: „modificării, în sensul rectificării poziției 56 - cod clasificare 1.3.7. Teren sat Tomești - fosta Școală Dealul Doamnei, în suprafață de 500 m.p. din Anexa la H.C.L.Tomești nr. 75/2013 privind domeniul public al Comunei Tomești, Județul Iași, în sensul rectificării indicatorilor cadastrali, din Tarlaua 26, Parcela 1479/6, în Tarlaua 26, Parcela Tf 1507/2 (cuprinde și parcela 1508)”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15868",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-125-2020",
+   "path": "local/iasi/tomesti/2020/125",
+   "short": "HCL Tomești nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 125/2020 privind aprobarea punerii la dispoziția «PROIECTULUI REGIONAL DE DEZVOLTARE A INFRASTRUCTURII DE APĂ ȘI APĂ UZATĂ DIN JUDEȚUL IAȘI ÎN PERIOADA 2014-2020», a unui teren din domeniul public al Comunei Tomești, în folosință gratuită şi pe termen limitat, pentru utilitate publică, în vederea construirii unei stații de pompare apă uzată în sat Chicerea, com. Tomești, din cadrul proiectului POIM, având în vedere adresa nr. 14316 din 20.10.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15869",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15869",
      "sha256": null
     }
    ]
@@ -193,6 +508,21 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/15873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-13-2020",
+   "path": "local/iasi/tomesti/2020/13",
+   "short": "HCL Tomești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 13/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6366",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6366",
      "sha256": null
     }
    ]
@@ -348,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-14-2020",
+   "path": "local/iasi/tomesti/2020/14",
+   "short": "HCL Tomești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 14/2020 privind aprobarea acordării unui sprijin financiar, în sumă de 50.000 lei, Parohiei Tomești I - „Nașterea Maicii Domnului” din sat Tomești, comuna Tomești, jud. Iași, în vederea efectuării lucrărilor de consolidare a turlei de deasupra naosului clădirii Bisericii parohiale",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6367",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6367",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-140-2020",
    "path": "local/iasi/tomesti/2020/140",
    "short": "HCL Tomești nr. 140/2020",
@@ -438,6 +783,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-15-2020",
+   "path": "local/iasi/tomesti/2020/15",
+   "short": "HCL Tomești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 15/2020 privind aprobarea realizării lucrării „Extinderea de rețea de alimentare cu energie electrică a spațiului comercial și a sediului administrativ, amplasată pe Str. Trei Fântâni din Sat Vlădiceni, Comuna Tomești, Județul Iași, la solicitarea și pe cheltuiala beneficiarului, în baza cererii nr. 16399 din 12.12.2019",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6368",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-16-2020",
+   "path": "local/iasi/tomesti/2020/16",
+   "short": "HCL Tomești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 16/2020 privind aprobarea încadrării zonei de siguranță și de protecție a drumurilor comunale Str. Sf. Nicolae, Str. Boca Toader, Str. Codrului, Str. Dealul Cucului, Str. Zorilor, Str. Crucii, Str. Narciselor, Str. Brăduțului, Str. Crizantemelor, Str. Nucilor, Str. Pinilor, Str. Salcâmului, Str. Chicerea 2, Str. Releu 3 și Str. Cireșului, din satele comunei Tomești, ce fac obiectul proiectului de investiții „Lucrări de reabilitare a Drumurilor de pe Teritoriul UAT Comuna Tomești, Județul Iași, Proiect nr. 17/2019''",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6369",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-17-2020",
+   "path": "local/iasi/tomesti/2020/17",
+   "short": "HCL Tomești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 17/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6370",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-18-2020",
+   "path": "local/iasi/tomesti/2020/18",
+   "short": "HCL Tomești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 18/2020 cu privire la: acordul prealabil al Consiliului Local Tomești pentru acces carosabil, în vederea realizării obiectivului de investiții „CONSTRUIRE SEDIU SECTOR POLIȚIE DE FRONTIERĂ TOMEȘTI”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6371",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-19-2020",
+   "path": "local/iasi/tomesti/2020/19",
+   "short": "HCL Tomești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 19/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6372",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6372",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-2-2020",
    "path": "local/iasi/tomesti/2020/2",
    "short": "HCL Tomești nr. 2/2020",
@@ -448,6 +868,51 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-20-2020",
+   "path": "local/iasi/tomesti/2020/20",
+   "short": "HCL Tomești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 20/2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Lucrări de reabilitare a drumurilor de pe teritoriul UAT Tomești, județul Iași''",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6415",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-21-2020",
+   "path": "local/iasi/tomesti/2020/21",
+   "short": "HCL Tomești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 21/2020 privind predarea către Ministerul Lucrărilor Publice, Dezvoltării și Administrației prin Compania Națională de Investiții „CNI SA'', a amplasamentelor și asigurarea condițiilor, în vederea executării obiectivului de investiții: „Lucrări de reabilitare a drumurilor de pe teritoriul UAT Tomești, județul Iași''",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6416",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-22-2020",
+   "path": "local/iasi/tomesti/2020/22",
+   "short": "HCL Tomești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 22/2020 privind aprobarea decontării cheltuileilor cu deplasarea, diurna și cazarea, pentru un număr de 5 (cinci) reprezentanți din partea UAT Comuna Tomești, județul Iași, care vor participa la TWIN TOWN DAYS și la Congresul ''Transferul jurisdicției în Europa'', în vederea realizării de noi contacte cu 9 (nouă) orașe din Uniunea Europeană, program ce se va desfășura în perioada 4-9 martie 2020, în orașul Eeklo din Belgia",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6417",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6417",
      "sha256": null
     }
    ]
@@ -498,6 +963,126 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-26-2020",
+   "path": "local/iasi/tomesti/2020/26",
+   "short": "HCL Tomești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 26/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6422",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-27-2020",
+   "path": "local/iasi/tomesti/2020/27",
+   "short": "HCL Tomești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 27/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6423",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-28-2020",
+   "path": "local/iasi/tomesti/2020/28",
+   "short": "HCL Tomești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 28/2020 privind acordarea de mandat special, în vederea exprimării votului AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS, urmare aderării Municipiului Roman, județul Neamț, la asociația ARSACIS",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6424",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-29-2020",
+   "path": "local/iasi/tomesti/2020/29",
+   "short": "HCL Tomești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 29/2020 cu privire la aprobarea Planului Urbanistic Zonal PUZ+RLU privind „CONSTRUIRE SPĂLĂTORIE AUTO, HALĂ DEPOZITARE, SPAȚII ADMINISTRATIVE ȘI BIROURI, ÎMPREJMUIRE TEREN ȘI BRANȘAMENTE REȚELE”, în comuna Tomești, având în vedere cererea cu nr. 1708 din 07.02.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6425",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-3-2020",
+   "path": "local/iasi/tomesti/2020/3",
+   "short": "HCL Tomești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 3/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6356",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-30-2020",
+   "path": "local/iasi/tomesti/2020/30",
+   "short": "HCL Tomești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 30/2020 privind aprobarea trecerii a două terenuri situate în sat Tomești, Cartier Tomești, Comuna Tomești, județul Iași, Tarlaua 204, conform schițelor anexate, din domeniul public al Comunei Tomești, Județul Iași, în domeniul privat al Comunei Tomești, județul Iași, în vederea vânzării, pentru derulare activități comerciale",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6426",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-31-2020",
+   "path": "local/iasi/tomesti/2020/31",
+   "short": "HCL Tomești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 31/2020 cu privire la aprobarea „punerii la dispoziție a 5 (cinci) terenuri din domeniul public al Comunei Tomești, Județul Iași, în folosință gratuită şi pe termen limitat, pentru utilitate publică, în vederea construirii a 5(cinci) stații de pompare apă uzată pe raza comunei, din cadrul proiectului POIM”, având în vedere adresa cu nr. 5974/04.02.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6427",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-32-2020",
+   "path": "local/iasi/tomesti/2020/32",
+   "short": "HCL Tomești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 32/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6428",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6428",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-33-2020",
    "path": "local/iasi/tomesti/2020/33",
    "short": "HCL Tomești nr. 33/2020",
@@ -508,6 +1093,21 @@
      "from": "2020-02-27",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-34-2020",
+   "path": "local/iasi/tomesti/2020/34",
+   "short": "HCL Tomești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 34/2020 privind aprobarea alocării sumei de 30.000 lei din bugetul Comunei Tomești, în vederea susținerii activităților competiționale din anul 2020, organizate la Clubul Sportiv Tomești-Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6430",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6430",
      "sha256": null
     }
    ]
@@ -543,6 +1143,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-37-2020",
+   "path": "local/iasi/tomesti/2020/37",
+   "short": "HCL Tomești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 37/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6433",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-38-2020",
+   "path": "local/iasi/tomesti/2020/38",
+   "short": "HCL Tomești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 38/2020 privind aprobarea achiziționării unui container pentru depozit la sala Sporturilor Tomești",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6434",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6434",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-39-2020",
    "path": "local/iasi/tomesti/2020/39",
    "short": "HCL Tomești nr. 39/2020",
@@ -553,6 +1183,111 @@
      "from": "2020-03-09",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-4-2020",
+   "path": "local/iasi/tomesti/2020/4",
+   "short": "HCL Tomești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 4/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6357",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-40-2020",
+   "path": "local/iasi/tomesti/2020/40",
+   "short": "HCL Tomești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 40/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Tomești, Județul Iași, în conformitate cu noile prevederi legale în materie",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6439",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-41-2020",
+   "path": "local/iasi/tomesti/2020/41",
+   "short": "HCL Tomești nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 41/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6440",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-42-2020",
+   "path": "local/iasi/tomesti/2020/42",
+   "short": "HCL Tomești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 42/2020 privind alegerea unui președinte de ședință al Consiliului Local Tomești pe trimestrul II - 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6441",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-43-2020",
+   "path": "local/iasi/tomesti/2020/43",
+   "short": "HCL Tomești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 43/2020 privind aprobarea graficului ședințelor ordinare ale Consiliului Local Tomești pe trimestrul II - 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6442",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-44-2020",
+   "path": "local/iasi/tomesti/2020/44",
+   "short": "HCL Tomești nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 44/2020 privind aprobarea acordării unui sprijin financiar Parohiei III Tomești „Sf. Arhangheli Mihail și Gavriil'' Tomești, în sumă de 50.000 lei, pentru lucrările de construire a bisericii din sat Tomești, cartier Tomești, comuna Tomești, județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6443",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-45-2020",
+   "path": "local/iasi/tomesti/2020/45",
+   "short": "HCL Tomești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 45/2020 privind revocarea HCL Tomești cu nr. 177 din 19.12.2019 și a HCL Tomești cu nr. 13 din 30.01.2020, date pentru aprobarea modificării, în sensul completării Anexei la HCL Tomești nr. 75/2013 privind domeniul public al Comunei Tomești, Județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6444",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6444",
      "sha256": null
     }
    ]
@@ -603,6 +1338,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-49-2020",
+   "path": "local/iasi/tomesti/2020/49",
+   "short": "HCL Tomești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 49/2020 privind aprobarea rectificării bugetului Comunei Tomești, Județul Iași, pe anul 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6457",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-5-2020",
+   "path": "local/iasi/tomesti/2020/5",
+   "short": "HCL Tomești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 5/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6358",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-50-2020",
+   "path": "local/iasi/tomesti/2020/50",
+   "short": "HCL Tomești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 50/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6458",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-51-2020",
    "path": "local/iasi/tomesti/2020/51",
    "short": "HCL Tomești nr. 51/2020",
@@ -613,6 +1393,201 @@
      "from": "2020-04-09",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-52-2020",
+   "path": "local/iasi/tomesti/2020/52",
+   "short": "HCL Tomești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 52/2020 privind actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, ARSACIS Iași, prin Actul Adițional nr. 36",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6464",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-53-2020",
+   "path": "local/iasi/tomesti/2020/53",
+   "short": "HCL Tomești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 53/2020 privind aprobarea valorii investițiilor aferente UAT Comuna Tomești, Județul Iași, și participării Consiliului Local al Comunei Tomești la cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6465",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-54-2020",
+   "path": "local/iasi/tomesti/2020/54",
+   "short": "HCL Tomești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 54/2020 privind aprobarea Studiului de fezabilitate pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020'', precum și a indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6466",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-55-2020",
+   "path": "local/iasi/tomesti/2020/55",
+   "short": "HCL Tomești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 55/2020 privind aprobarea realizării lucrării „Alimentare cu energie electrică locuință amplasată în sat Chicerea, Strada Cireșului, Comuna Tomești, Județul Iași”, pe cheltuiala beneficiarilor, având în vedere cererea cu nr. 536 din 30.03.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6467",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-56-2020",
+   "path": "local/iasi/tomesti/2020/56",
+   "short": "HCL Tomești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 56/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6468",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-57-2020",
+   "path": "local/iasi/tomesti/2020/57",
+   "short": "HCL Tomești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 57/2020 privind aprobarea realizării lucrărilor „Extindere conductă distribuție gaze naturale presiune redusă, branșamente și PRM”, pentru imobilele situate în localitatea Chicerea, Str. Coasta Morii, Comuna Tomești, județul Iași, din buget local și cotă parte a beneficiarilor, având în vedere cererea cu nr. 4605 din 07.04.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6469",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-58-2020",
+   "path": "local/iasi/tomesti/2020/58",
+   "short": "HCL Tomești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 58/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6470",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-59-2020",
+   "path": "local/iasi/tomesti/2020/59",
+   "short": "HCL Tomești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 59/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6471",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-6-2020",
+   "path": "local/iasi/tomesti/2020/6",
+   "short": "HCL Tomești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 6/2020 privind acceptul Consiliului Local Tomești pentru folosire cale de acces, pentru intrare-ieșire la terenul cu lucrarea privind Planul Urbanistic Zonal fază PUZ +RLU pentru CONSTRUIRE ANSAMBLU REZIDENȚIAL ȘI FUNCȚIUNI CONEXE, din intravilan Sat Tomești, Comuna Tomești, suprafață teren 23.940,00 mp, având în vedere cererea nr. 753 din 22.01.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6359",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-60-2020",
+   "path": "local/iasi/tomesti/2020/60",
+   "short": "HCL Tomești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 60/2020 privind aprobarea „modificării, în sensul completării, Anexei nr. 1 la HCL Tomești cu nr. 72 din 20.06.2007, privind Lista cu bunurile aflate în domeniul privat al Comunei Tomești, Județul Iași, cu un teren în suprafață de 247 mp, identificat cadastral în Tarlaua 47, parcela arabil 2489/8, intravilan extins conform PUG sat Tomești, Comuna Tomești, Județul Iași''",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6472",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-61-2020",
+   "path": "local/iasi/tomesti/2020/61",
+   "short": "HCL Tomești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 61/2020 cu privire la „acordul Consiliului Local Tomești pentru crearea unei căi de acces și relocarea construcției de colectare a deșeurilor, în vederea asigurării accesului de intrare/ieșire la lucrarea de investiție CONSTRUIRE ANSAMBLU REZIDENȚIAL ȘI FUNCȚIUNI CONEXE - fază PUZ+RLU, având în vedere cererea cu nr. 5241 din 28.04.2020”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6473",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-62-2020",
+   "path": "local/iasi/tomesti/2020/62",
+   "short": "HCL Tomești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 62/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6474",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-63-2020",
+   "path": "local/iasi/tomesti/2020/63",
+   "short": "HCL Tomești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 63/2020 privind aprobarea majorării devizului ofertă cu suma de 461.876,80 lei, cheltuială neeligibilă suportată din bugetul local, la care se adaugă TVA, pentru obiectivul de investiție „Executare trotuar etapa III la DN 28 (Iași -Albița), de la Km 83+263.430-85+060.000, în comuna Tomești, județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6476",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6476",
      "sha256": null
     }
    ]
@@ -633,6 +1608,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-65-2020",
+   "path": "local/iasi/tomesti/2020/65",
+   "short": "HCL Tomești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 65/2020 privind acordarea mandatului special reprezentantului UAT Tomești în AGA ADIS Iași, în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, și împuternicirea Președintelui ADIS Iași să semneze Actul Adițional nr.3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în Județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6483",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-66-2020",
    "path": "local/iasi/tomesti/2020/66",
    "short": "HCL Tomești nr. 66/2020",
@@ -643,6 +1633,51 @@
      "from": "2020-05-28",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-67-2020",
+   "path": "local/iasi/tomesti/2020/67",
+   "short": "HCL Tomești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 67/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6485",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-68-2020",
+   "path": "local/iasi/tomesti/2020/68",
+   "short": "HCL Tomești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 68/2020 privind asigurarea suportului IT, în vederea organizării și dezvoltării Sistemului de control intern managerial, prin intermediul platformei ''Soluția e-SCIM'', www.e-scim.ro",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6486",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-69-2020",
+   "path": "local/iasi/tomesti/2020/69",
+   "short": "HCL Tomești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 69/2020 privind aprobarea acordării de vouchere de vacanță, în anul 2020, salariaților de la nivelul UAT Comuna Tomești, Județul Iași, precum și aprobarea Regulamentului intern de acordare a voucherelor de vacanță",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6487",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6487",
      "sha256": null
     }
    ]
@@ -663,6 +1698,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-70-2020",
+   "path": "local/iasi/tomesti/2020/70",
+   "short": "HCL Tomești nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 70/2020 privind aprobarea lucrărilor de recompartimentări ușoare, amenajarea și modernizarea spațiilor din sediul Primăriei Comunei Tomești, Județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6488",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6488",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-71-2020",
    "path": "local/iasi/tomesti/2020/71",
    "short": "HCL Tomești nr. 71/2020",
@@ -673,6 +1723,81 @@
      "from": "2020-05-28",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-72-2020",
+   "path": "local/iasi/tomesti/2020/72",
+   "short": "HCL Tomești nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 72/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6490",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-73-2020",
+   "path": "local/iasi/tomesti/2020/73",
+   "short": "HCL Tomești nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 73/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6491",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-74-2020",
+   "path": "local/iasi/tomesti/2020/74",
+   "short": "HCL Tomești nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 74/2020 privind aprobarea acordării unui sprijin financiar în sumă de 10.000 lei, Bisericii Adventiste de ziua a șaptea din sat Goruni, comuna Tomești, județul Iași, pentru efectuarea unor lucrări de renovare a bisericii",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6492",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-75-2020",
+   "path": "local/iasi/tomesti/2020/75",
+   "short": "HCL Tomești nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 75/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6494",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-76-2020",
+   "path": "local/iasi/tomesti/2020/76",
+   "short": "HCL Tomești nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 76/2020 privind aprobarea „trecerii unui teren în suprafață de 2000 mp, situat în intravilan, sat Tomești, comuna Tomești, jud. Iași, Tarla 3, conform schițelor anexate, din domeniul privat al Comunei Tomești, Județul Iași, în domeniul public al Comunei Tomești, Județul Iași, în vederea realizării obiectivului de investiții «Construire sediu primărie, în comuna Tomești, jud. Iași»”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6495",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6495",
      "sha256": null
     }
    ]
@@ -708,6 +1833,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-79-2020",
+   "path": "local/iasi/tomesti/2020/79",
+   "short": "HCL Tomești nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 79/2020 privind alegerea unui președinte de ședință al Consiliului Local Tomești pe trimestrul III - 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6513",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6513",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-8-2020",
    "path": "local/iasi/tomesti/2020/8",
    "short": "HCL Tomești nr. 8/2020",
@@ -718,6 +1858,141 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/6361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-80-2020",
+   "path": "local/iasi/tomesti/2020/80",
+   "short": "HCL Tomești nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 80/2020 privind aprobarea graficului ședințelor ordinare ale Consiliului Local Tomești pe trimestrul III - 2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6514",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-81-2020",
+   "path": "local/iasi/tomesti/2020/81",
+   "short": "HCL Tomești nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 81/2020 privind aprobarea documentației pentru închirierea, prin licitație publică, a unui teren de suprafață de 18 mp situat în domeniul public al Comunei Tomești, Tarlaua 204, Sat Tomești, (Cartier Tomești), Județul Iași, pentru derulare activități comerciale",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6515",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-82-2020",
+   "path": "local/iasi/tomesti/2020/82",
+   "short": "HCL Tomești nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 82/2020 privind aprobarea Actului Adițional nr. 37 la Contractul de delegare ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6516",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-83-2020",
+   "path": "local/iasi/tomesti/2020/83",
+   "short": "HCL Tomești nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 83/2020 privind aprobarea Planului Tarifar APAVITAL SA pentru perioada 2020 - 2024, prin Actul Adițional nr. 38 la Contractul de delegare a gestiunii dintre ARSACIS și SC APAVITAL SA Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6517",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-84-2020",
+   "path": "local/iasi/tomesti/2020/84",
+   "short": "HCL Tomești nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 84/2020 privind aprobarea vânzării, prin licitație publică, a terenului în suprafață totală de 3179 mp, nr. cadastral 66661, teren extravilan Comuna Tomești, Jud. Iași, aflat în domeniul privat al comunei, precum și aprobarea raportului de evaluare pentru vânzarea terenului de mai sus",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6518",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-85-2020",
+   "path": "local/iasi/tomesti/2020/85",
+   "short": "HCL Tomești nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 85/2020 cu privire la aprobarea: „vânzării, prin licitație publică, a terenului în suprafaţă totală de 509 m.p., nr. cadastral 66537, intravilan extins conform PUG Sat Tomești, Comuna Tomești, Județul Iași, și extravilan Comuna Tomești, Județul Iași, precum și aprobarea raportului de evaluare pentru vânzarea terenului de mai sus”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6519",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-86-2020",
+   "path": "local/iasi/tomesti/2020/86",
+   "short": "HCL Tomești nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 86/2020 privind aprobarea amplasării pe domeniul public al comunei Tomești, județul Iași a instalațiilor electrice pentru lucrarea „MODERNIZARE PTCz 5 BLOCURI TOMEȘTI, SAT TOMEȘTI, COMUNA TOMEȘTI, JUDEȚUL IAȘI”, având în vedere cererea cu nr. 7294 din 15.06.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6520",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-87-2020",
+   "path": "local/iasi/tomesti/2020/87",
+   "short": "HCL Tomești nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 87/2020 privind aprobarea realizării lucrării pe domeniul public al comunei Tomești, județul Iași - EXTINDERE CONDUCTĂ DISTRIBUȚIE GAZE NATURALE PRESIUNE REDUSĂ, BRANȘAMENT ȘI POST REGLARE/MĂSURARE PENTRU IMOBILELE SITUATE LOC. VLĂDICENI, STR. STEJAR, PE CHELTUIALA BENEFICIARILOR, în baza cererii cu nr. 7495 din 17.06.2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6521",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-88-2020",
+   "path": "local/iasi/tomesti/2020/88",
+   "short": "HCL Tomești nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 88/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6522",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6522",
      "sha256": null
     }
    ]
@@ -738,6 +2013,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-9-2020",
+   "path": "local/iasi/tomesti/2020/9",
+   "short": "HCL Tomești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 9/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/6362",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/6362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-90-2020",
+   "path": "local/iasi/tomesti/2020/90",
+   "short": "HCL Tomești nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 90/2020 privind aprobarea: „vânzării, prin licitație publică, a terenului în suprafaţă totală de 268 m.p., nr. cadastral 66629, situat în Tarla 10, Parcela Arabil 455/5, intravilan extins conform PUG Sat Tomești, Comuna Tomești, Județul Iași, precum și aprobarea raportului de evaluare pentru vânzarea terenului de mai sus”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11282",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-91-2020",
+   "path": "local/iasi/tomesti/2020/91",
+   "short": "HCL Tomești nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 91/2020 privind aprobarea: „vânzării, prin licitație publică, a terenului în suprafaţă totală de 247 m.p., nr. cadastral 66957, situat în Tarla 47, Parcela Arabil 2489/8, intravilan extins conform PUG Sat Tomești, Comuna Tomești, Județul Iași, precum și aprobarea raportului de evaluare pentru vânzarea terenului de mai sus”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11283",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-92-2020",
+   "path": "local/iasi/tomesti/2020/92",
+   "short": "HCL Tomești nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 92/2020 privind aprobarea: „vânzării, prin licitație publică, a terenului în suprafaţă totală de 147 m.p., situat în Tarla 5, Parcela Arabil 114, intravilan Sat Vlădiceni, Comuna Tomești, Județul Iași, precum și aprobarea raportului de evaluare pentru vânzarea terenului de mai sus”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11284",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11284",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-93-2020",
    "path": "local/iasi/tomesti/2020/93",
    "short": "HCL Tomești nr. 93/2020",
@@ -748,6 +2083,81 @@
      "from": "2020-07-30",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/11356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-94-2020",
+   "path": "local/iasi/tomesti/2020/94",
+   "short": "HCL Tomești nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 94/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11357",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-95-2020",
+   "path": "local/iasi/tomesti/2020/95",
+   "short": "HCL Tomești nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 95/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11358",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-96-2020",
+   "path": "local/iasi/tomesti/2020/96",
+   "short": "HCL Tomești nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 96/2020 privind aprobarea: „vânzării, prin licitație publică, a terenului în suprafaţă totală de 848 m.p., situat în Tarlaua 23, Parcela CC 462/1, Arabil 462/2, intravilan Sat Goruni, Comuna Tomești, Județul Iași, precum și aprobarea raportului de evaluare pentru vânzarea terenului de mai sus”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11359",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-97-2020",
+   "path": "local/iasi/tomesti/2020/97",
+   "short": "HCL Tomești nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 97/2020",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11360",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-98-2020",
+   "path": "local/iasi/tomesti/2020/98",
+   "short": "HCL Tomești nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 98/2020 privind: „stabilirea consumului lunar de combustibil (1700 litri/lună) pentru autovehiculele și utilajele aflate în dotarea Primăriei Comunei Tomești, Județul Iași”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/11361",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/11361",
      "sha256": null
     }
    ]

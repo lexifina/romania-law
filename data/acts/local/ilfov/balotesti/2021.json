@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--balotesti-2-2021",
+"path": "local/ilfov/balotesti/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 2/2021 privind schimbarea temporara a destinatiei imobilului \"Piata Agroalimentara Balotesti\" cu functia de \"Centru de vaccinare impotriva COVID 19\"",
+"short": "HCL Balotești nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31096",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--balotesti-3-2021",
 "path": "local/ilfov/balotesti/2021/3",
 "kind": "local",
@@ -47,6 +69,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--balotesti-4-2021",
+"path": "local/ilfov/balotesti/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 4/2021 privind acordarea de mandat special Asociației de Dezvoltare Intercomunitară pentru Transportul Public București-Ilfov",
+"short": "HCL Balotești nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31103",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-5-2021",
+"path": "local/ilfov/balotesti/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 5/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2021 conform Legii nr. 416/2001 privind venitul minim garantat, republicată, cu modificările și completările ulterioare",
+"short": "HCL Balotești nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31104",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--balotesti-6-2021",
 "path": "local/ilfov/balotesti/2021/6",
 "kind": "local",
@@ -66,6 +132,161 @@
 "council_name": "Consiliul Local al Comunei Balotești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-7-2021",
+"path": "local/ilfov/balotesti/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 7/2021",
+"short": "HCL Balotești nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31106",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-8-2021",
+"path": "local/ilfov/balotesti/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 8/2021 privind numirea Administratorului Societății Administrarea Domeniului Public și Privat Balotești SRL",
+"short": "HCL Balotești nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31111",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-9-2021",
+"path": "local/ilfov/balotesti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 9/2021 privind modificarea Actului Constitutiv al Societății Administrarea Domeniului Public și Privat Balotești SRL",
+"short": "HCL Balotești nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31112",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-10-2021",
+"path": "local/ilfov/balotesti/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 10/2021 privind trecerea unei suprafețe de teren cu destinația de drum de acces în proprietatea publică a comunei Balotești ca urmare a declarațiilor de renunțare autentificate sub nr. /18-12-2019, 177/10-2-2020, 218/13-02-2020, 235/20-02-2020, 164/05-02-2020, 1138/12-12-2019, 1105/05-12-2019, 1114/06-12-2010, 1104/05-12-2019",
+"short": "HCL Balotești nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31113",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-11-2021",
+"path": "local/ilfov/balotesti/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 11/2021 privind terecerea unor suprafețe de teren cu destinație de drum de acces în proprietatea publică a comunei Balotești ca urmare a declarației de renunțare autentificată sub nr. 309 din 15.01.2021",
+"short": "HCL Balotești nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31114",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-12-2021",
+"path": "local/ilfov/balotesti/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 12/2021 privind alegerea președintelui de ședință",
+"short": "HCL Balotești nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31115",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-13-2021",
+"path": "local/ilfov/balotesti/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 13/2021 privind aprobarea studiului de piață și demararea procedurii de închiriere de către comuna Balotești a unui imobil teren clădire constituit din minim 5000 mp și 200 mp birouri",
+"short": "HCL Balotești nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/31116",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +331,50 @@
 "council_name": "Consiliul Local al Comunei Balotești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-16-2021",
+"path": "local/ilfov/balotesti/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 16/2021 privind acordarea de mandat special în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov",
+"short": "HCL Balotești nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-07",
+"latest": "2021-05-07",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/34314",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-17-2021",
+"path": "local/ilfov/balotesti/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 17/2021 privind acordarea unui spijin financiar de la bugetul local al comunei Balotești pentru Parohia Balotești",
+"short": "HCL Balotești nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-07",
+"latest": "2021-05-07",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/34315",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +642,72 @@
 }
 },
 {
+"slug": "hcl-ilfov--balotesti-30-2021",
+"path": "local/ilfov/balotesti/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 30/2021 privind acordarea de mandat special Asociației de Dezvoltare Intercomunitară pentru Transportul Public București-Ilfov, în vederea aprobării și semnării unor documente",
+"short": "HCL Balotești nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-07",
+"latest": "2021-05-07",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/34328",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-31-2021",
+"path": "local/ilfov/balotesti/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 31/2021 privind acordarea de mandat special Asociaței de Dezvoltare Intercomunitare pentru Transportul Public București-Ilfov, în vederea elaborării unor documente, aprobării modalității de gestiune a serviciului de transport public local de călători, atribuirii directe a contractelor de delegare a gestiunii și stabilirii prețurilor și tarifelor în condițiile legii speciale",
+"short": "HCL Balotești nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-07",
+"latest": "2021-05-07",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/34329",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-32-2021",
+"path": "local/ilfov/balotesti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 32/2021 privind aprobarea Planului Urbanistic Zonal pentru obiectivul ''Hypermarket și galerie cu spații comerciale de închiriat, container imbiss tip fast food, amenajări exterioare, racorduri la drumuri publice, amenajare circulații auto și pietonale, parcări, spații verzi, racorduri la utilități, elemente de signalistică, imprejmuire teren''",
+"short": "HCL Balotești nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-18",
+"latest": "2021-06-18",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/34330",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--balotesti-33-2021",
 "path": "local/ilfov/balotesti/2021/33",
 "kind": "local",
@@ -462,6 +793,28 @@
 "council_name": "Consiliul Local al Comunei Balotești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-37-2021",
+"path": "local/ilfov/balotesti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 37/2021 privind majorarea tarifelor din cadrul Administrarea Domeniului Public și Privat Balotești SRL",
+"short": "HCL Balotești nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-18",
+"latest": "2021-06-18",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/34335",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

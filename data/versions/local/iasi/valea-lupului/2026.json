@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-11-2026",
+   "path": "local/iasi/valea-lupului/2026/11",
+   "short": "HCL Valea Lupului nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 11/2026",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/278427",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/278427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-12-2026",
    "path": "local/iasi/valea-lupului/2026/12",
    "short": "HCL Valea Lupului nr. 12/2026",
@@ -238,6 +253,21 @@
      "from": "2026-08-21",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/278661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-25-2026",
+   "path": "local/iasi/valea-lupului/2026/25",
+   "short": "HCL Valea Lupului nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 25/2026",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/278662",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/278662",
      "sha256": null
     }
    ]

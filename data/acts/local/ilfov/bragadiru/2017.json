@@ -3,6 +3,97 @@
 "shard": "local/ilfov/bragadiru/2017",
 "acts": [
 {
+"slug": "hcl-ilfov--bragadiru-2-2017",
+"path": "local/ilfov/bragadiru/2017/2",
+"kind": "local",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 2/2017",
+"short": "HCL Bragadiru nr. 2/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-20",
+"latest": "2017-12-20",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-3-2017",
+"path": "local/ilfov/bragadiru/2017/3",
+"kind": "local",
+"year": "2017",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 3/2017",
+"short": "HCL Bragadiru nr. 3/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-20",
+"latest": "2017-12-20",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-27-2017",
+"path": "local/ilfov/bragadiru/2017/27",
+"kind": "local",
+"year": "2017",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 27/2017",
+"short": "HCL Bragadiru nr. 27/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-04-03",
+"latest": "2017-04-03",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/hcl-2017",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-93-2017",
+"path": "local/ilfov/bragadiru/2017/93",
+"kind": "local",
+"year": "2017",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 93/2017 privind modificarea HCL nr.93 din 28.07.2017 privind aprobarea indemnizatiei maxime lunare pentru consilierii locali ai orasului Bragadiru",
+"short": "HCL Bragadiru nr. 93/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-28",
+"latest": "2017-07-28",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/hcl-2017",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--bragadiru-145-2017",
 "path": "local/ilfov/bragadiru/2017/145",
 "kind": "local",

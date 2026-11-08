@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/bragadiru/2016",
+"acts": [
+{
+"slug": "hcl-ilfov--bragadiru-49-2016",
+"path": "local/ilfov/bragadiru/2016/49",
+"kind": "local",
+"year": "2016",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 49/2016 privind revocarea Hotararii Consiliului Local nr.49 din 27.04.2016",
+"short": "HCL Bragadiru nr. 49/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-27",
+"latest": "2016-04-27",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/hcl-2017",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

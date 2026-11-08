@@ -91,6 +91,95 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-5-2021",
+"path": "local/iasi/tutora/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 5/2021 privind aprobarea salariilor de bază pentru aparatul de specialitate al primarului comunei Țuțora -2021",
+"short": "HCL Țuțora nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34688",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-6-2021",
+"path": "local/iasi/tutora/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 6/2021 privind aprobarea rezilierii contractului de concesiune cu S.C AGRO-VERD S.R.L Butea",
+"short": "HCL Țuțora nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34689",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-7-2021",
+"path": "local/iasi/tutora/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 7/2021 privind acordare mandat D-lui Albu Cristinel, primar al comunei Țuțora să participe și să își exprime votul în ședințele Adunării Generale ale Asociației Regionale a Serviciilor de Apă-Canal Iași -ARSACIS",
+"short": "HCL Țuțora nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34690",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-8-2021",
+"path": "local/iasi/tutora/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 8/2021",
+"short": "HCL Țuțora nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34691",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--tutora-9-2021",
 "path": "local/iasi/tutora/2021/9",
 "kind": "local",
@@ -132,6 +221,95 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-11-2021",
+"path": "local/iasi/tutora/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 11/2021 privind aprobarea schimbării destinației prin demolare a clădirilor din structura Oprișeni, Școala Gimnazială Țuțora",
+"short": "HCL Țuțora nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34694",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-12-2021",
+"path": "local/iasi/tutora/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 12/2021 privind aprobarea concesionării prin licitație publică a unor terenuri din domeniul privat, proprietatea CL Țuțora",
+"short": "HCL Țuțora nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34695",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-13-2021",
+"path": "local/iasi/tutora/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 13/2021",
+"short": "HCL Țuțora nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34696",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tutora-14-2021",
+"path": "local/iasi/tutora/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 14/2021 privind însușirea transmiterii fără plată de lămpi către loc. Sireți, Raionul Strășeni, Republica Moldova",
+"short": "HCL Țuțora nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34697",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +555,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-26-2021",
+"path": "local/iasi/tutora/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 26/2021 privind aprobarea modificării HCL nr. 6/28.01.2021",
+"short": "HCL Țuțora nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34712",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-27-2021",
 "path": "local/iasi/tutora/2021/27",
 "kind": "local",
@@ -418,6 +618,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-29-2021",
+"path": "local/iasi/tutora/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 29/2021 privind aprobarea desemnării președintelui de ședință a Consiliului Local pe trimestrul II- 2021",
+"short": "HCL Țuțora nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34752",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -484,6 +706,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-33-2021",
+"path": "local/iasi/tutora/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 33/2021 privind aprobarea Identificării și inventarierii terenurilor pentru punerea în aplicare a L.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, cu modificările și completările ulterioare și, depistarea în vederea concesionării prin licitație publică a unor loturi de teren destinate construirii de locuințe proprietate personală pentru persoanele interesate, altele decât persoanele beneficiare ale L 15/2003",
+"short": "HCL Țuțora nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34756",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -704,6 +948,29 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-44-2021",
+"path": "local/iasi/tutora/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 44/2021",
+"short": "HCL Țuțora nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34781",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

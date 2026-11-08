@@ -3,6 +3,72 @@
 "shard": "local/iasi/valea-lupului/2021",
 "acts": [
 {
+"slug": "hcl-iasi--valea-lupului-1-2021",
+"path": "local/iasi/valea-lupului/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 1/2021 privind aprobarea ordinii de zi a ședinței ordinare din data de 28.01.2021, ora 18.00",
+"short": "HCL Valea Lupului nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20178",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-2-2021",
+"path": "local/iasi/valea-lupului/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 2/2021 privind emiterea acordului de principiu al Consiliului Local al Comunei Valea Lupului, către SC DELGAZ GRID SA, necesar extinderii rețelei de distribuție a energiei electrice pe străzile Dimineții și Lacului, sat Valea Lupului, comuna Valea Lupului, județul Iași",
+"short": "HCL Valea Lupului nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20179",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-3-2021",
+"path": "local/iasi/valea-lupului/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 3/2021 privind alipirea a două terenuri domeniu privat al Comunei Valea Lupului",
+"short": "HCL Valea Lupului nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20180",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-4-2021",
 "path": "local/iasi/valea-lupului/2021/4",
 "kind": "local",
@@ -25,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-5-2021",
+"path": "local/iasi/valea-lupului/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 5/2021 privind emiterea acordului onsiliului Local al Comunei Valea Lupului, către SC DELGAZ GRID SA, necesar executării lucrării ''Alimentare cu energie electrică șase locuințe colective amplasate în sat Valea Lupului, comuna Valea Lupului, județul Iași'', aparținând SC LIFE PLUS SRL",
+"short": "HCL Valea Lupului nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20182",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-6-2021",
 "path": "local/iasi/valea-lupului/2021/6",
 "kind": "local",
@@ -44,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-7-2021",
+"path": "local/iasi/valea-lupului/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 7/2021 privind reorganizarea Comisiei Comunitare Consultative de la nivelul comunei Valea Lupului, jud Iași și aprobarea Regulamentului de organizare și funcționare al acesteia",
+"short": "HCL Valea Lupului nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20184",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +201,160 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-10-2021",
+"path": "local/iasi/valea-lupului/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 10/2021 privind validarea dispoziție nr. 1/05.01.2021 privind acoperirea deficitului bugetar pe anul 2020",
+"short": "HCL Valea Lupului nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20187",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-11-2021",
+"path": "local/iasi/valea-lupului/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 11/2021 privind alegerea președintelui de ședință pentru o perioadă de 3 luni, februarie 2021 - aprilie 2021",
+"short": "HCL Valea Lupului nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20188",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-12-2021",
+"path": "local/iasi/valea-lupului/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 12/2021 privind emiterea acordului Consiliului Local al Comunei Valea Lupului, către SC DELGAZ GRID SA, necesar executării lucrării ''Alimentare cu energie electrică locuințe colective aparținând SC SINED CLEAN SRL, sat Valea Lupului, comuna Valea Lupului, județul Iași''",
+"short": "HCL Valea Lupului nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20189",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-13-2021",
+"path": "local/iasi/valea-lupului/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 13/2021 privind emiterea acordului Consiliului Local al Comunei Valea Lupului, către SC DELGAZ GRID SA, necesar executării lucrării ''Alimentare cu energie electrică pompă de apă amplasată în sat Valea Lupului, comuna Valea Lupului, județul Iași''",
+"short": "HCL Valea Lupului nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20190",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-14-2021",
+"path": "local/iasi/valea-lupului/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 14/2021 privind îndreptarea erorii materiale strecurate în Anexa la HCL nr. 67/30.06.2020",
+"short": "HCL Valea Lupului nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20191",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-15-2021",
+"path": "local/iasi/valea-lupului/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 15/2021 privind aprobarea ordinii de zi și suplimentarea ordinii de zi",
+"short": "HCL Valea Lupului nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20197",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-16-2021",
+"path": "local/iasi/valea-lupului/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 16/2021 privind aprobarea procesului verbal al ședinței anteriaore",
+"short": "HCL Valea Lupului nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20198",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-17-2021",
 "path": "local/iasi/valea-lupului/2021/17",
 "kind": "local",
@@ -110,6 +374,51 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-18-2021",
+"path": "local/iasi/valea-lupului/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 18/2021 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Valea Lupului nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20200",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-19-2021",
+"path": "local/iasi/valea-lupului/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 19/2021",
+"short": "HCL Valea Lupului nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20201",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -157,6 +466,50 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-22-2021",
+"path": "local/iasi/valea-lupului/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 22/2021 privind terecerea din domeniul privat în domeniul public al comunei Valea Lupului a două terenuri",
+"short": "HCL Valea Lupului nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20204",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-23-2021",
+"path": "local/iasi/valea-lupului/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 23/2021 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici ai obiectuvului de investiții ''Magazie, platforma de depozitare sare pentru dezăpezire și parcări''",
+"short": "HCL Valea Lupului nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20205",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-24-2021",
 "path": "local/iasi/valea-lupului/2021/24",
 "kind": "local",
@@ -179,6 +532,160 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-25-2021",
+"path": "local/iasi/valea-lupului/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 25/2021 privind reorganizarea serviciului voluntar pentru situații de urgență de tip V1",
+"short": "HCL Valea Lupului nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20207",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-26-2021",
+"path": "local/iasi/valea-lupului/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 26/2021 privind aprobarea ''Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ''",
+"short": "HCL Valea Lupului nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20208",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-27-2021",
+"path": "local/iasi/valea-lupului/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 27/2021 privind constatarea încetării de drept a contractului de concesiune nr. 535/1993 încheiat între Consiliul Local Rediu și Ilie P. Vasile",
+"short": "HCL Valea Lupului nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20209",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-28-2021",
+"path": "local/iasi/valea-lupului/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 28/2021 privind modificarea și completarea HCl 83/31.07.2020 prin prelungirea până la data de 31.03.2021 a termenului de aplicare a procedurii de acordar a anulării accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020",
+"short": "HCL Valea Lupului nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20210",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-29-2021",
+"path": "local/iasi/valea-lupului/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 29/2021 privind aprobarea încheierii unui contract de comodat cu SC MAYO-MEDIC SRL, pentru înființarea unui Centru de Vaccinare împotriva COVID-19",
+"short": "HCL Valea Lupului nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20211",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-30-2021",
+"path": "local/iasi/valea-lupului/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 30/2021 privind aprobarea ordinii de zi",
+"short": "HCL Valea Lupului nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-09",
+"latest": "2021-03-09",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20337",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-31-2021",
+"path": "local/iasi/valea-lupului/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 31/2021 privind îndreptarea unei erori materiale din cuprinsul HCL nr. 26/25.02.2021, la art. 2",
+"short": "HCL Valea Lupului nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-09",
+"latest": "2021-03-09",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20338",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-32-2021",
 "path": "local/iasi/valea-lupului/2021/32",
 "kind": "local",
@@ -198,6 +705,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-33-2021",
+"path": "local/iasi/valea-lupului/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 33/2021 privind modificarea HCL nr. 130/29.12.2020 privind desemnarea reprezentantului comunei Valea Lupului și a persoanelor care pot înlocui reprezentantul Comunei Valea Lupului în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă și Canal - ARSACIS",
+"short": "HCL Valea Lupului nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-09",
+"latest": "2021-03-09",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20340",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -862,6 +1391,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-64-2021",
+"path": "local/iasi/valea-lupului/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 64/2021 privind aprobarea unui sprijin financiar pentru Parohia Beldiman",
+"short": "HCL Valea Lupului nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26261",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-65-2021",
 "path": "local/iasi/valea-lupului/2021/65",
 "kind": "local",
@@ -903,6 +1454,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-67-2021",
+"path": "local/iasi/valea-lupului/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 67/2021 privind aprobarea listei de prioritati stabilita in conformitate cu criteriile de selectie a solicitantilor de terenuri pentru construire de locuinte in baza Legii nr.15/2003, republicata, cu modificarile ulterioare",
+"short": "HCL Valea Lupului nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26264",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -948,6 +1521,718 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-70-2021",
+"path": "local/iasi/valea-lupului/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 70/2021",
+"short": "HCL Valea Lupului nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26267",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-71-2021",
+"path": "local/iasi/valea-lupului/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 71/2021",
+"short": "HCL Valea Lupului nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26268",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-72-2021",
+"path": "local/iasi/valea-lupului/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 72/2021",
+"short": "HCL Valea Lupului nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26269",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-73-2021",
+"path": "local/iasi/valea-lupului/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 73/2021",
+"short": "HCL Valea Lupului nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26270",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-74-2021",
+"path": "local/iasi/valea-lupului/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 74/2021",
+"short": "HCL Valea Lupului nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26271",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-75-2021",
+"path": "local/iasi/valea-lupului/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 75/2021 privind respingerea cererii doamnei lacatus Stefania depusa pentru atribuirea unui teren in folosinta gratuita in baza Legii nr.15/2003, republicata, cu modificarile ulterioare",
+"short": "HCL Valea Lupului nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26272",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-76-2021",
+"path": "local/iasi/valea-lupului/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 76/2021",
+"short": "HCL Valea Lupului nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26273",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-77-2021",
+"path": "local/iasi/valea-lupului/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 77/2021",
+"short": "HCL Valea Lupului nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26274",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-78-2021",
+"path": "local/iasi/valea-lupului/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 78/2021",
+"short": "HCL Valea Lupului nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26275",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-79-2021",
+"path": "local/iasi/valea-lupului/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 79/2021",
+"short": "HCL Valea Lupului nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26276",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-80-2021",
+"path": "local/iasi/valea-lupului/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 80/2021",
+"short": "HCL Valea Lupului nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26277",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-81-2021",
+"path": "local/iasi/valea-lupului/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 81/2021",
+"short": "HCL Valea Lupului nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26278",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-82-2021",
+"path": "local/iasi/valea-lupului/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 82/2021",
+"short": "HCL Valea Lupului nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26279",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-83-2021",
+"path": "local/iasi/valea-lupului/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 83/2021",
+"short": "HCL Valea Lupului nr. 83/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26280",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-84-2021",
+"path": "local/iasi/valea-lupului/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 84/2021",
+"short": "HCL Valea Lupului nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26281",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-85-2021",
+"path": "local/iasi/valea-lupului/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 85/2021",
+"short": "HCL Valea Lupului nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26282",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-86-2021",
+"path": "local/iasi/valea-lupului/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 86/2021",
+"short": "HCL Valea Lupului nr. 86/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26283",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-87-2021",
+"path": "local/iasi/valea-lupului/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 87/2021",
+"short": "HCL Valea Lupului nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26284",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-88-2021",
+"path": "local/iasi/valea-lupului/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 88/2021",
+"short": "HCL Valea Lupului nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26285",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-89-2021",
+"path": "local/iasi/valea-lupului/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 89/2021",
+"short": "HCL Valea Lupului nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26286",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-90-2021",
+"path": "local/iasi/valea-lupului/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 90/2021",
+"short": "HCL Valea Lupului nr. 90/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26287",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-91-2021",
+"path": "local/iasi/valea-lupului/2021/91",
+"kind": "local",
+"year": "2021",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 91/2021",
+"short": "HCL Valea Lupului nr. 91/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26288",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-92-2021",
+"path": "local/iasi/valea-lupului/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 92/2021",
+"short": "HCL Valea Lupului nr. 92/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26289",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-93-2021",
+"path": "local/iasi/valea-lupului/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 93/2021",
+"short": "HCL Valea Lupului nr. 93/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26290",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-94-2021",
+"path": "local/iasi/valea-lupului/2021/94",
+"kind": "local",
+"year": "2021",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 94/2021",
+"short": "HCL Valea Lupului nr. 94/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26291",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-95-2021",
+"path": "local/iasi/valea-lupului/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 95/2021",
+"short": "HCL Valea Lupului nr. 95/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26292",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-96-2021",
+"path": "local/iasi/valea-lupului/2021/96",
+"kind": "local",
+"year": "2021",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 96/2021",
+"short": "HCL Valea Lupului nr. 96/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26293",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-97-2021",
+"path": "local/iasi/valea-lupului/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 97/2021",
+"short": "HCL Valea Lupului nr. 97/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26294",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-98-2021",
+"path": "local/iasi/valea-lupului/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 98/2021",
+"short": "HCL Valea Lupului nr. 98/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26295",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-99-2021",
+"path": "local/iasi/valea-lupului/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 99/2021",
+"short": "HCL Valea Lupului nr. 99/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26296",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-100-2021",
+"path": "local/iasi/valea-lupului/2021/100",
+"kind": "local",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 100/2021",
+"short": "HCL Valea Lupului nr. 100/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/26297",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1216,6 +2501,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-113-2021",
+"path": "local/iasi/valea-lupului/2021/113",
+"kind": "local",
+"year": "2021",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 113/2021 privind aprobarea unui sprijin financiar pentru Parohia SF.IOSIF CEL MILOSTIV",
+"short": "HCL Valea Lupului nr. 113/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/28418",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-114-2021",
 "path": "local/iasi/valea-lupului/2021/114",
 "kind": "local",
@@ -1455,6 +2762,50 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-125-2021",
+"path": "local/iasi/valea-lupului/2021/125",
+"kind": "local",
+"year": "2021",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 125/2021 privind aprobarea unui sprijin financiar pentru Parohia Romano Catolica Sfantul Pius de Pietrelcina",
+"short": "HCL Valea Lupului nr. 125/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/32115",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-126-2021",
+"path": "local/iasi/valea-lupului/2021/126",
+"kind": "local",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 126/2021 privind aprobarea unui sprijin financiar pentru Parohia Pogorârea Duhului Sfânt",
+"short": "HCL Valea Lupului nr. 126/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/32116",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1965,6 +3316,29 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-150-2021",
+"path": "local/iasi/valea-lupului/2021/150",
+"kind": "local",
+"year": "2021",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 150/2021",
+"short": "HCL Valea Lupului nr. 150/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/34942",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -2612,6 +3986,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-180-2021",
+"path": "local/iasi/valea-lupului/2021/180",
+"kind": "local",
+"year": "2021",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 180/2021 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului pentru fiecare unitate de invatamant cu personalitate juridica de pe raza UAT Valea Lupului, jud. Iasi,care sa faca parte din Comisia de evaluare a probei interviu, in calitate de membru",
+"short": "HCL Valea Lupului nr. 180/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/41173",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-181-2021",
 "path": "local/iasi/valea-lupului/2021/181",
 "kind": "local",
@@ -2631,6 +4027,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-182-2021",
+"path": "local/iasi/valea-lupului/2021/182",
+"kind": "local",
+"year": "2021",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 182/2021 privind desemnarea unui reprezentant al Consiliului Local Valea Lupului pentru fiecare unitate de invatamant cu personalitate juridica de pe raza UAT Valea Lupului, jud. lasi, care sa faca parte din Comisia de evaluare a probei interviu, in calitate de membru",
+"short": "HCL Valea Lupului nr. 182/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/41200",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

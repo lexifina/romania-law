@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-17-2026",
+   "path": "local/iasi/trifesti/2026/17",
+   "short": "HCL Trifești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 17/2026 privind desemnarea consilierilor locali din cadrul Consiliului Local Trifești în Comisia de evaluare a performanțelor profesionale ale Secretarului general al UAT Trifești, județul Iași",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/260686",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/260686",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-18-2026",
    "path": "local/iasi/trifesti/2026/18",
    "short": "HCL Trifești nr. 18/2026",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--trifesti-19-2026",
+   "path": "local/iasi/trifesti/2026/19",
+   "short": "HCL Trifești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 19/2026 privind modificarea și aprobarea Organigramei și Statului de funcții ale Unității Administrativ-Teritoriale comuna Trifești, județul Iași",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/271821",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/271821",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--trifesti-2-2026",
    "path": "local/iasi/trifesti/2026/2",
    "short": "HCL Trifești nr. 2/2026",
@@ -148,6 +178,21 @@
      "from": "2026-04-22",
      "units": 1,
      "source_url": "https://emol.ro/trifesti-is/registru-hcl/252619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--trifesti-20-2026",
+   "path": "local/iasi/trifesti/2026/20",
+   "short": "HCL Trifești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 20/2026 privind alegerea din rândul consilierilor a președintelui de ședință pentru trimestrul II, 2026",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/271822",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/271822",
      "sha256": null
     }
    ]
@@ -448,6 +493,21 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/trifesti-is/registru-hcl/288723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--trifesti-4-2026",
+   "path": "local/iasi/trifesti/2026/4",
+   "short": "HCL Trifești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Trifești nr. 4/2026",
+   "url": "https://emol.ro/trifesti-is/registru-hcl/252621",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/trifesti-is/registru-hcl/252621",
      "sha256": null
     }
    ]

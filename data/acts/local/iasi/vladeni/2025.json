@@ -3,6 +3,28 @@
 "shard": "local/iasi/vladeni/2025",
 "acts": [
 {
+"slug": "hcl-iasi--vladeni-33-2025",
+"path": "local/iasi/vladeni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 33/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vlădeni din data de 27.06.2025",
+"short": "HCL Vlădeni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223320",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-34-2025",
 "path": "local/iasi/vladeni/2025/34",
 "kind": "local",
@@ -88,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-38-2025",
+"path": "local/iasi/vladeni/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 38/2025 privind modificarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului și personalul contractual din cadrul aparatului de specialitate al primarului",
+"short": "HCL Vlădeni nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223325",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-39-2025",
+"path": "local/iasi/vladeni/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 39/2025 privind revocarea Hotărârii nr. 19 din data de 30.04.2025 a Consiliului Local Vlădeni privind aprobarea caietului de sarcini pentru vânzarea unui număr de 3 apartamente situate în localitatea Vlădeni și care fac parte din domeniul privat al comunei Vlădeni, județul Iași",
+"short": "HCL Vlădeni nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223326",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-iasi--vladeni-45-2025",
+"path": "local/iasi/vladeni/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 45/2025 privind revocarea Hotărârii Consiliului Local al Comunei Vlădeni nr. 29 / 30.05.2025 privind inventarierea în domeniul privat a unor suprafețe de teren și aprobarea concesionării / închirierii / vânzării acestora",
+"short": "HCL Vlădeni nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223332",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-46-2025",
 "path": "local/iasi/vladeni/2025/46",
 "kind": "local",
@@ -220,6 +308,50 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-47-2025",
+"path": "local/iasi/vladeni/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 47/2025 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Vlădeni din data de 14.07.2025",
+"short": "HCL Vlădeni nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223339",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-48-2025",
+"path": "local/iasi/vladeni/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 48/2025 privind aprobarea Planului de acțiuni și lucrări de interes local ce urmează a fi realizate de beneficiarii Legii nr. 196/2016 privind venitul minim de incluziune, la nivelul Comunei Vlădeni, județul Iași, pentru anul 2025",
+"short": "HCL Vlădeni nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223340",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +399,50 @@
 }
 },
 {
+"slug": "hcl-iasi--vladeni-51-2025",
+"path": "local/iasi/vladeni/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 51/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vlădeni din data de 31.07.2025",
+"short": "HCL Vlădeni nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223365",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-52-2025",
+"path": "local/iasi/vladeni/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 52/2025 privind stabilirea datelor de ședință pentru trimestrul III: august – septembrie 2025 și stabilirea președintelui de ședință",
+"short": "HCL Vlădeni nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223366",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-53-2025",
 "path": "local/iasi/vladeni/2025/53",
 "kind": "local",
@@ -311,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-iasi--vladeni-55-2025",
+"path": "local/iasi/vladeni/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 55/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Vlădeni nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223369",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-56-2025",
 "path": "local/iasi/vladeni/2025/56",
 "kind": "local",
@@ -330,6 +528,72 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-57-2025",
+"path": "local/iasi/vladeni/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 57/2025 privind retragerea din Acordul de cooperare nr 400 din 02 iulie 2014 pentru exercitarea funcției de audit public intern în sistem de cooperare din cadrul Filialei Județene Iași a Asociației Comunelor din România",
+"short": "HCL Vlădeni nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223371",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-58-2025",
+"path": "local/iasi/vladeni/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 58/2025 privind exercitarea funcției de audit public intern în sistem de cooperare în cadrul Filialei Județene Iași a Asociației Comunelor din România",
+"short": "HCL Vlădeni nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223372",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-59-2025",
+"path": "local/iasi/vladeni/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 59/2025 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Vlădeni din data de 14.08.2025",
+"short": "HCL Vlădeni nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/223374",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +641,28 @@
 }
 },
 {
+"slug": "hcl-iasi--vladeni-62-2025",
+"path": "local/iasi/vladeni/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 62/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vlădeni din data de 27.08.2025",
+"short": "HCL Vlădeni nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/224886",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-63-2025",
 "path": "local/iasi/vladeni/2025/63",
 "kind": "local",
@@ -418,6 +704,28 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-65-2025",
+"path": "local/iasi/vladeni/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 65/2025 privind aprobarea Acordului de Înfrățire/Cooperare între Comuna Vlădeni, județul Iași, România și Localitatea Sălcuța, satul Sălcuța, Raionul Căușeni, Republica Moldova",
+"short": "HCL Vlădeni nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/224889",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -641,6 +949,72 @@
 }
 },
 {
+"slug": "hcl-iasi--vladeni-76-2025",
+"path": "local/iasi/vladeni/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 76/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Vlădeni, județul Iași, din data de 30.09.2025;",
+"short": "HCL Vlădeni nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/228630",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-77-2025",
+"path": "local/iasi/vladeni/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 77/2025 privind stabilirea datelor de ședință pentru trimestrul IV: octombrie-decembrie 2025 și stabilirea președintelui de ședință;",
+"short": "HCL Vlădeni nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/228631",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-78-2025",
+"path": "local/iasi/vladeni/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 78/2025 privind desemnarea reprezentanților Consiliului Local Vlădeni, județul Iași, în Consiliul de Administraţie al Liceului Tehnologic Vlădeni pentru anul școlar 2025 – 2026;",
+"short": "HCL Vlădeni nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/228632",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-79-2025",
 "path": "local/iasi/vladeni/2025/79",
 "kind": "local",
@@ -663,6 +1037,28 @@
 }
 },
 {
+"slug": "hcl-iasi--vladeni-80-2025",
+"path": "local/iasi/vladeni/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 80/2025 privind aprobarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică pe raza Comunei Vlădeni, județul Iași;",
+"short": "HCL Vlădeni nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/228634",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-81-2025",
 "path": "local/iasi/vladeni/2025/81",
 "kind": "local",
@@ -682,6 +1078,29 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-82-2025",
+"path": "local/iasi/vladeni/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 82/2025",
+"short": "HCL Vlădeni nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/228636",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -726,6 +1145,28 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-85-2025",
+"path": "local/iasi/vladeni/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 85/2025 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Vlădeni, județul Iași, din data de 06.10.2025",
+"short": "HCL Vlădeni nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-14",
+"latest": "2025-10-14",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/228701",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -946,6 +1387,29 @@
 "council_name": "Consiliul Local al Comunei Vlădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-96-2025",
+"path": "local/iasi/vladeni/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 96/2025",
+"short": "HCL Vlădeni nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/232323",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

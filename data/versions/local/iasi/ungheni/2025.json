@@ -33,6 +33,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ungheni-56-2025",
+   "path": "local/iasi/ungheni/2025/56",
+   "short": "HCL Ungheni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 56/2025 privind rectificarea bugetului de venituri și cheltuieli",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/236536",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/236536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ungheni-57-2025",
+   "path": "local/iasi/ungheni/2025/57",
+   "short": "HCL Ungheni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 57/2025 privind aprobarea graficului de ședințe pentru trimestrul IV",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/236537",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/236537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ungheni-58-2025",
+   "path": "local/iasi/ungheni/2025/58",
+   "short": "HCL Ungheni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 58/2025 privind privind retragerea din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate”",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/236538",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/236538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ungheni-59-2025",
+   "path": "local/iasi/ungheni/2025/59",
+   "short": "HCL Ungheni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 59/2025 privind acordarea unor premii, în valoare de câte 1000lei, persoanelor care au împlinit sau urmează să împlinească vârsta de 100 de ani",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/236539",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/236539",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ungheni-60-2025",
    "path": "local/iasi/ungheni/2025/60",
    "short": "HCL Ungheni nr. 60/2025",
@@ -43,6 +103,36 @@
      "from": "2026-01-26",
      "units": 1,
      "source_url": "https://emol.ro/ungheni-is/registru-hcl/236540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ungheni-61-2025",
+   "path": "local/iasi/ungheni/2025/61",
+   "short": "HCL Ungheni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 61/2025 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici conform Legii 141/2025 pentru obiectivul de investiții „ÎNFIINȚARE RETEA DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE UNGHENI SI GOLAIESTI DIN JUDEȚUL IASI”",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/236541",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/236541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ungheni-62-2025",
+   "path": "local/iasi/ungheni/2025/62",
+   "short": "HCL Ungheni nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 62/2025 privind aprobarea Actului Adițional nr.4 la Contractul de lucrari nr.491/06.02.2023 la obiectivul de investiții „Reabilitare,Modernizare și Dotare Școala Gimnazială Bosia Corp A, Comuna Ungheni,județul Iași”, precum și pentru modificarea cotei TVA",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/236542",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/236542",
      "sha256": null
     }
    ]

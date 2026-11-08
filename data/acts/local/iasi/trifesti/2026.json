@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-iasi--trifesti-4-2026",
+"path": "local/iasi/trifesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trifești nr. 4/2026",
+"short": "HCL Trifești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/trifesti-is/registru-hcl/252621",
+"council": "iasi/trifesti",
+"council_name": "Consiliul Local al Comunei Trifești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--trifesti-5-2026",
 "path": "local/iasi/trifesti/2026/5",
 "kind": "local",
@@ -334,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-iasi--trifesti-17-2026",
+"path": "local/iasi/trifesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trifești nr. 17/2026 privind desemnarea consilierilor locali din cadrul Consiliului Local Trifești în Comisia de evaluare a performanțelor profesionale ale Secretarului general al UAT Trifești, județul Iași",
+"short": "HCL Trifești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/trifesti-is/registru-hcl/260686",
+"council": "iasi/trifesti",
+"council_name": "Consiliul Local al Comunei Trifești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--trifesti-18-2026",
 "path": "local/iasi/trifesti/2026/18",
 "kind": "local",
@@ -353,6 +398,50 @@
 "council_name": "Consiliul Local al Comunei Trifești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--trifesti-19-2026",
+"path": "local/iasi/trifesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trifești nr. 19/2026 privind modificarea și aprobarea Organigramei și Statului de funcții ale Unității Administrativ-Teritoriale comuna Trifești, județul Iași",
+"short": "HCL Trifești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/trifesti-is/registru-hcl/271821",
+"council": "iasi/trifesti",
+"council_name": "Consiliul Local al Comunei Trifești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--trifesti-20-2026",
+"path": "local/iasi/trifesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trifești nr. 20/2026 privind alegerea din rândul consilierilor a președintelui de ședință pentru trimestrul II, 2026",
+"short": "HCL Trifești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/trifesti-is/registru-hcl/271822",
+"council": "iasi/trifesti",
+"council_name": "Consiliul Local al Comunei Trifești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

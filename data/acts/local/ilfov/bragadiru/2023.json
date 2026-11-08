@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/bragadiru/2023",
+"acts": [
+{
+"slug": "hcl-ilfov--bragadiru-2-2023",
+"path": "local/ilfov/bragadiru/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 2/2023",
+"short": "HCL Bragadiru nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/registru-agricol-si-cadastru",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

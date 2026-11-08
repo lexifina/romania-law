@@ -3,6 +3,50 @@
 "shard": "local/iasi/victoria/2026",
 "acts": [
 {
+"slug": "hcl-iasi--victoria-1-2026",
+"path": "local/iasi/victoria/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 1/2026 privind atestarea apartenenței la domeniul public al Comunei Victoria a unor imobile situate în Comuna Victoria, județul Iași",
+"short": "HCL Victoria nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/victoria-is/registru-hcl/249217",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-2-2026",
+"path": "local/iasi/victoria/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 2/2026 privind atestarea apartenenței la domeniul privat al Comunei Victoria a unor suprafețe de teren situate în Comuna Victoria, județul Iași",
+"short": "HCL Victoria nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/victoria-is/registru-hcl/249218",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--victoria-3-2026",
 "path": "local/iasi/victoria/2026/3",
 "kind": "local",
@@ -25,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--victoria-4-2026",
+"path": "local/iasi/victoria/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 4/2026 privind aprobarea Planului de acțiuni și lucrări de interes local ce vor fi efectuate în cursul anului 2026 de către persoanele apte de muncă din familiile beneficiare de venit minim de incluziune",
+"short": "HCL Victoria nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/victoria-is/registru-hcl/249220",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--victoria-5-2026",
 "path": "local/iasi/victoria/2026/5",
 "kind": "local",
@@ -44,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Victoria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--victoria-6-2026",
+"path": "local/iasi/victoria/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 6/2026 privind alegerea preşedintelui de şedinţă, pentru şedinţele Consiliului Local al comunei Victoria pentru o perioadă de trei luni",
+"short": "HCL Victoria nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/victoria-is/registru-hcl/249222",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -70,6 +158,29 @@
 }
 },
 {
+"slug": "hcl-iasi--victoria-8-2026",
+"path": "local/iasi/victoria/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 8/2026",
+"short": "HCL Victoria nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/victoria-is/registru-hcl/249224",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--victoria-9-2026",
 "path": "local/iasi/victoria/2026/9",
 "kind": "local",
@@ -89,6 +200,94 @@
 "council_name": "Consiliul Local al Comunei Victoria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--victoria-10-2026",
+"path": "local/iasi/victoria/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 10/2026 privind anularea unor debite aferente rolurilor fiscale nr. 375 și nr. 20056",
+"short": "HCL Victoria nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/victoria-is/registru-hcl/256499",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-11-2026",
+"path": "local/iasi/victoria/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 11/2026 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiate din Registrul Comerțului și scăderea acestora din evidența fiscală",
+"short": "HCL Victoria nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/victoria-is/registru-hcl/256500",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-12-2026",
+"path": "local/iasi/victoria/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 12/2026 privind aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare a serviciului „Centru de zi de asistență și recuperare pentru persoane vârstnice” din Comuna Victoria, județul Iași",
+"short": "HCL Victoria nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/victoria-is/registru-hcl/256501",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-13-2026",
+"path": "local/iasi/victoria/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 13/2026 Privind aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare a „Serviciului de îngrijire la domiciliu” (SDI) din Comuna Victoria, județul Iași",
+"short": "HCL Victoria nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/victoria-is/registru-hcl/256502",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +332,29 @@
 "council_name": "Consiliul Local al Comunei Victoria",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--victoria-16-2026",
+"path": "local/iasi/victoria/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 16/2026",
+"short": "HCL Victoria nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/victoria-is/registru-hcl/256505",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -227,6 +449,50 @@
 }
 },
 {
+"slug": "hcl-iasi--victoria-21-2026",
+"path": "local/iasi/victoria/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 21/2026 privind reorganizarea aparatului de specialitate al Primarului Comunei Victoria, județul Iași",
+"short": "HCL Victoria nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/victoria-is/registru-hcl/262092",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-22-2026",
+"path": "local/iasi/victoria/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 22/2026 privind modificarea HCL 49/27.06.2024 pentru actualizarea formularelor anexe: Anexa 2.1. Deviz general și Anexa 2.2., aprobarea indicatorilor tehnico-economici în urma modificării cotei de TVA de la 19% la 21% și aprobarea cofinanțării de la bugetul local pentru obiectivul \"ALIMENTAREA CU GAZE NATURALE A COMUNEI VICTORIA (CU SATELE APARȚINĂTOARE), JUDEȚUL IAȘI\"",
+"short": "HCL Victoria nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/victoria-is/registru-hcl/262093",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--victoria-23-2026",
 "path": "local/iasi/victoria/2026/23",
 "kind": "local",
@@ -271,6 +537,28 @@
 }
 },
 {
+"slug": "hcl-iasi--victoria-25-2026",
+"path": "local/iasi/victoria/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 25/2026 privind aprobarea anulării numerelor cadastrale 61238 pentru suprafața de 41000 mp și 61228 pentru suprafața de 5100 mp înscrise în Titlul de Proprietate nr. 164755/21.10.1996",
+"short": "HCL Victoria nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/victoria-is/registru-hcl/269312",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--victoria-26-2026",
 "path": "local/iasi/victoria/2026/26",
 "kind": "local",
@@ -290,6 +578,28 @@
 "council_name": "Consiliul Local al Comunei Victoria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--victoria-27-2026",
+"path": "local/iasi/victoria/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 27/2026 privind alegerea preşedintelui de şedinţă, pentru şedinţele Consiliului Local al comunei Victoria pentru o perioadă de trei luni",
+"short": "HCL Victoria nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/victoria-is/registru-hcl/269314",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -315,6 +625,28 @@
 }
 },
 {
+"slug": "hcl-iasi--victoria-29-2026",
+"path": "local/iasi/victoria/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 29/2026 privind scoaterea din evidențele fiscale a unor sume reprezentând amenzi contravenționale prescrise la 31.12.2025",
+"short": "HCL Victoria nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-18",
+"latest": "2026-06-18",
+"portal": "https://emol.ro/victoria-is/registru-hcl/270944",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--victoria-30-2026",
 "path": "local/iasi/victoria/2026/30",
 "kind": "local",
@@ -337,6 +669,50 @@
 }
 },
 {
+"slug": "hcl-iasi--victoria-31-2026",
+"path": "local/iasi/victoria/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 31/2026 privind stabilirea consumului mediu de carburant pentru autovehiculele aflate în patrimoniul Comunei Victoria, județul Iași",
+"short": "HCL Victoria nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-18",
+"latest": "2026-06-18",
+"portal": "https://emol.ro/victoria-is/registru-hcl/270946",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-32-2026",
+"path": "local/iasi/victoria/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 32/2026 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului Comunei Victoria, județul Iași",
+"short": "HCL Victoria nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-18",
+"latest": "2026-06-18",
+"portal": "https://emol.ro/victoria-is/registru-hcl/270947",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--victoria-33-2026",
 "path": "local/iasi/victoria/2026/33",
 "kind": "local",
@@ -356,6 +732,51 @@
 "council_name": "Consiliul Local al Comunei Victoria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--victoria-34-2026",
+"path": "local/iasi/victoria/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 34/2026 privind rectificarea bugetului local al Comunei Victoria pentru anul 2026",
+"short": "HCL Victoria nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-18",
+"latest": "2026-06-18",
+"portal": "https://emol.ro/victoria-is/registru-hcl/270949",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-35-2026",
+"path": "local/iasi/victoria/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 35/2026",
+"short": "HCL Victoria nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-18",
+"latest": "2026-06-18",
+"portal": "https://emol.ro/victoria-is/registru-hcl/270950",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -422,6 +843,95 @@
 "council_name": "Consiliul Local al Comunei Victoria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--victoria-39-2026",
+"path": "local/iasi/victoria/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 39/2026 privind rectificarea bugetului local și a Listei obiectivelor de investiții ale Comunei Victoria pentru anul 2026",
+"short": "HCL Victoria nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/victoria-is/registru-hcl/277967",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-40-2026",
+"path": "local/iasi/victoria/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 40/2026 privind aprobarea Strategiei anuale de achiziții publice și a Programului anual de achiziții publice pentru anul 2026",
+"short": "HCL Victoria nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/victoria-is/registru-hcl/277968",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-41-2026",
+"path": "local/iasi/victoria/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 41/2026 privind aprobare PUZ (Plan Urbanistic Zonal) pentru lucrarea „INTRODUCERE TEREN ÎN INTRAVILAN PENTRU CONSTRUIRE PENSIUNE ȘI UNITĂȚI DE CAZARE INDIVIDUALE DE TIP CABANE A-FRAME”",
+"short": "HCL Victoria nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/victoria-is/registru-hcl/277969",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--victoria-42-2026",
+"path": "local/iasi/victoria/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Victoria nr. 42/2026",
+"short": "HCL Victoria nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/victoria-is/registru-hcl/278851",
+"council": "iasi/victoria",
+"council_name": "Consiliul Local al Comunei Victoria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

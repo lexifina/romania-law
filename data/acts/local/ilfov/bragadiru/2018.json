@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/bragadiru/2018",
+"acts": [
+{
+"slug": "hcl-ilfov--bragadiru-7-2018",
+"path": "local/ilfov/bragadiru/2018/7",
+"kind": "local",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 7/2018 pentru modificarea si completarea HCL nr.7 din 25.01.2018 privind acordarea unor drepturi pentru copii,elevi,tineri cu cerinte educationale speciale scolarizati in unitatile de invatamant de masa",
+"short": "HCL Bragadiru nr. 7/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-25",
+"latest": "2018-01-25",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/hot-2018",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
