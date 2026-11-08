@@ -3,6 +3,28 @@
 "shard": "local/ialomita/valea-macrisului/2025",
 "acts": [
 {
+"slug": "hcl-ialomita--valea-macrisului-1-2025",
+"path": "local/ialomita/valea-macrisului/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 1/2025 Acoperirea definitivă a deficitului secţiunii de dezvoltare a bugetului local pe anul 2024, din excedentul bugetului local al anilor precedenți",
+"short": "HCL Valea Măcrișului nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#91230",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-2-2025",
 "path": "local/ialomita/valea-macrisului/2025/2",
 "kind": "local",
@@ -18,6 +40,50 @@
 "from": "2025-01-15",
 "latest": "2025-01-15",
 "portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#91589",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-3-2025",
+"path": "local/ialomita/valea-macrisului/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 3/2025 Aprobarea devizului general actualizat după finalizarea procedurii de achiziție publică pentru obiectivul de investiții: *Construire două foraje de medie adâncime pe amplasamentul a două foraje existente colmatate din localitățile Valea Măcrișului și Grindași, comuna Valea Măcrișului,județul Ialomița*",
+"short": "HCL Valea Măcrișului nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#92045",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-4-2025",
+"path": "local/ialomita/valea-macrisului/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 4/2025 Aprobarea Planului de analiză şi acoperire a riscurilor aferent comunei Valea Măcrişului , pentru anul 2025",
+"short": "HCL Valea Măcrișului nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#92048",
 "council": "ialomita/valea-macrisului",
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
@@ -44,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-6-2025",
+"path": "local/ialomita/valea-macrisului/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 6/2025 Modificarea Regulamentului de organizare și funcționare a Consiliului local Valea Măcrișului",
+"short": "HCL Valea Măcrișului nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#92646",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -92,6 +180,205 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-10-2025",
+"path": "local/ialomita/valea-macrisului/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 10/2025 Aprobarea bugetului local pe anul 2025-comuna Valea Măcrişului",
+"short": "HCL Valea Măcrișului nr. 10/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#95349",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-11-2025",
+"path": "local/ialomita/valea-macrisului/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 11/2025 Alocarea sumei de 16.000 lei din bugetul local al comunei Valea Măcrișului pe anul 2025 pentru acordarea unui stimulent financiar pentru copilul nou-născut",
+"short": "HCL Valea Măcrișului nr. 11/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#95350",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-12-2025",
+"path": "local/ialomita/valea-macrisului/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 12/2025 Alocarea sumei de 7.000 lei din bugetul local al comunei Valea Măcrișului pe anul 2025 pentru acordarea unui stimulent financiar pentru constituirea familiilor",
+"short": "HCL Valea Măcrișului nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#95351",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-13-2025",
+"path": "local/ialomita/valea-macrisului/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 13/2025 Acordarea premiului *Aniversarea Căsătoriei de 50 ani* familiilor de pe raza UAT Valea Măcrișului, care aniversează 50 ani de căsătorie, în anul 2025",
+"short": "HCL Valea Măcrișului nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#95352",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-14-2025",
+"path": "local/ialomita/valea-macrisului/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 14/2025 Aprobarea numărului asistenților personali ai persoanelor cu handicap grav, pentru anul 2025",
+"short": "HCL Valea Măcrișului nr. 14/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#95421",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-15-2025",
+"path": "local/ialomita/valea-macrisului/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 15/2025 Modificarea și completarea Programului anual al achiziţiilor publice, pe anul 2025",
+"short": "HCL Valea Măcrișului nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#95440",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-16-2025",
+"path": "local/ialomita/valea-macrisului/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 16/2025 Darea în administrare temporară către Consiliul Județean Ialomița a drumului comunal DC 4 Valea Măcrișului",
+"short": "HCL Valea Măcrișului nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#96919",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-17-2025",
+"path": "local/ialomita/valea-macrisului/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 17/2025 Aprobarea documentatei tehnico-economice pentru obiectivul de investiții: “ Construire și dotare sediu primărie, str. Monumentului, nr. 1, sat Valea Măcrișului, comuna Valea Măcrișului”",
+"short": "HCL Valea Măcrișului nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#96920",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-18-2025",
+"path": "local/ialomita/valea-macrisului/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 18/2025",
+"short": "HCL Valea Măcrișului nr. 18/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-19-2025",
 "path": "local/ialomita/valea-macrisului/2025/19",
 "kind": "local",
@@ -136,6 +423,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-22-2025",
+"path": "local/ialomita/valea-macrisului/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 22/2025 susținerea financiară a asociației sportive*Asociația Club Sportiv Valea Măcrișului* , pe anul 2025",
+"short": "HCL Valea Măcrișului nr. 22/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#96972",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-23-2025",
 "path": "local/ialomita/valea-macrisului/2025/23",
 "kind": "local",
@@ -155,6 +464,293 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-24-2025",
+"path": "local/ialomita/valea-macrisului/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 24/2025 Aprobarea execuţiei bugetului local al comunei Valea Măcrişului pentru trimestrul I, al anului 2025",
+"short": "HCL Valea Măcrișului nr. 24/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#97150",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-25-2025",
+"path": "local/ialomita/valea-macrisului/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 25/2025 Modificarea și completarea Programului anual al achiziţiilor publice, pe anul 2025",
+"short": "HCL Valea Măcrișului nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#97156",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-26-2025",
+"path": "local/ialomita/valea-macrisului/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 26/2025",
+"short": "HCL Valea Măcrișului nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-27-2025",
+"path": "local/ialomita/valea-macrisului/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 27/2025 Aprobarea Raportului de evaluare bunuri imobile - a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Valea Măcrișului nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#98932",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-29-2025",
+"path": "local/ialomita/valea-macrisului/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 29/2025 Modificarea și completarea Programului anual al achizițiilor publice pe anul 2025",
+"short": "HCL Valea Măcrișului nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#98934",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-30-2025",
+"path": "local/ialomita/valea-macrisului/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 30/2025 Alocarea sumei de 26.000 lei pentru organizarea evenimentului“1 Iunie-Ziua Copilului” copiilor din comuna Valea Măcrişului, județul Ialomița",
+"short": "HCL Valea Măcrișului nr. 30/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#99189",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-31-2025",
+"path": "local/ialomita/valea-macrisului/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 31/2025 Alocarea sumei de 24.000 lei pentru organizarea unei tabere de vară copiilor de la Şcoala Gimnazială Valea Măcrişului , cu rezultate bune la învățătură și alte activități școlare, în anul școlar 2024/2025",
+"short": "HCL Valea Măcrișului nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#99190",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-32-2025",
+"path": "local/ialomita/valea-macrisului/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 32/2025 Aprobarea Contului de execuţie a bugetului local al comunei Valea Măcrişului, pe anul 2024",
+"short": "HCL Valea Măcrișului nr. 32/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#99288",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-33-2025",
+"path": "local/ialomita/valea-macrisului/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 33/2025 Aprobarea devizului general actualizat pentru obiectivul de investiții: *Construire două foraje de medie adâncime pe amplasamentul a două foraje existente colmatate din localitățile Valea Măcrișului și Grindași, comuna Valea Măcrișului,județul Ialomița*",
+"short": "HCL Valea Măcrișului nr. 33/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#99289",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-34-2025",
+"path": "local/ialomita/valea-macrisului/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 34/2025 Aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați,la finalizarea lucrărilor, pentru obiectivul de investiții:*Modernizare drumuri comunale de interes local în localitatea Valea Măcrișului, comuna Valea Măcrișului,județul Ialomița*",
+"short": "HCL Valea Măcrișului nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#99468",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-35-2025",
+"path": "local/ialomita/valea-macrisului/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 35/2025 Transformarea funcției publice vacante de inspector , grad profesional asistent, în inspector, grad profesional debutant , în cadrul comp. urbanism/stare civilă",
+"short": "HCL Valea Măcrișului nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#99506",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-36-2025",
+"path": "local/ialomita/valea-macrisului/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 36/2025 Constatarea încetării de drept mandatului de consilier local drei Ranete Anica precum și vacantarea locului de consilier local în cadul Consiliului local",
+"short": "HCL Valea Măcrișului nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#100888",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-37-2025",
+"path": "local/ialomita/valea-macrisului/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 37/2025 Reorganizarea comisiei pentru administrație publică locală,juridică,învățământ, sănătate, cultură, protecție socială, activități sportive și de agrement din cadrul Consiliului local Valea Măcrişului",
+"short": "HCL Valea Măcrișului nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#100943",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
 }
 },
 {

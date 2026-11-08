@@ -3,6 +3,66 @@
  "shard": "local/hunedoara/zam/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--zam-10-2021",
+   "path": "local/hunedoara/zam/2021/10",
+   "short": "HCL Zam nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 10/2021 privind reactualizarea unității împotriva bolilor transmisibile ale animalelor și zoonozelor",
+   "url": "https://emol.ro/zam-hd/registru-hcl/47897",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/47897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-11-2021",
+   "path": "local/hunedoara/zam/2021/11",
+   "short": "HCL Zam nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 11/2021",
+   "url": "https://emol.ro/zam-hd/registru-hcl/47898",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/47898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-12-2021",
+   "path": "local/hunedoara/zam/2021/12",
+   "short": "HCL Zam nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 12/2021",
+   "url": "https://emol.ro/zam-hd/registru-hcl/47899",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/47899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-33-2021",
+   "path": "local/hunedoara/zam/2021/33",
+   "short": "HCL Zam nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 33/2021 privind modificarea și completarea Legii nr.211/2021 privind deșeurilor, a Legii nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje și a OUG nr.196/2005 privind Fondul de mediu prin adiționarea Contractului de delegare a gestiunii serviciului de salubrizare în zona de colectare 3 Centru/Barcea Mare nr.1760/760/27.11.2018",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48053",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-41-2021",
    "path": "local/hunedoara/zam/2021/41",
    "short": "HCL Zam nr. 41/2021",

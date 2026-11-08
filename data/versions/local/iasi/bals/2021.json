@@ -3,6 +3,21 @@
  "shard": "local/iasi/bals/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--bals-10-2021",
+   "path": "local/iasi/bals/2021/10",
+   "short": "HCL Balș nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 10/2021 privind aprobarea oportunității realizării obiectivului de investiții cu denumirea ''reorganizare zonă exterioară aferentă clădirii sediului Primăriei comunei Balș, județul Iași''",
+   "url": "https://emol.ro/bals-is/registru-hcl/27533",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bals-36-2021",
    "path": "local/iasi/bals/2021/36",
    "short": "HCL Balș nr. 36/2021",

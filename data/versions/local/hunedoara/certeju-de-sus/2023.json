@@ -3,6 +3,141 @@
  "shard": "local/hunedoara/certeju-de-sus/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--certeju-de-sus-1-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/1",
+   "short": "HCL Certeju de Sus nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 1/2023 privind invalidarea propunerii din nota de fundamentare nr. 2469/06.12.2022 a ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ Sistemul Integrat de Gestionare a Deșeurilor Județului Hunedoara și acordarea unui mandat special reprezentantului Comunei Certeju de Sus în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru aplicarea colectării deșeurilor pe raza UAT Certeju de Sus prin tarif/taxă specială",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96382",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-10-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/10",
+   "short": "HCL Certeju de Sus nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 10/2023 privind aprobarea actualizării Programului anual al achizițiilor publice pentru anul 2023, urmare a aprobării bugetului local al comunei Certeju de Sus, pentru anul 2023",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96399",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-11-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/11",
+   "short": "HCL Certeju de Sus nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 11/2023 privind însusțirea Raportului asupra situației gestionării bunurilor comunei Certeju de Sus, județul Hunedoara, pentru anul 2022",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96400",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-12-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/12",
+   "short": "HCL Certeju de Sus nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 12/2023 privind însusțirea suprafețelor reale, conform expertizelor tehnice pentru bunurile aparținând domeniului public al comunei Certeju de Sus înscrise în HGR nr.1352/2001",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96401",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-13-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/13",
+   "short": "HCL Certeju de Sus nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 13/2023 privind aprobarea contractării de servicii de consultanță, asistență și reprezentare în justiție a intereselor U.A.T comunei Certeju de Sus, în dosarul cu nr. 5929/221/2020",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96402",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-2-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/2",
+   "short": "HCL Certeju de Sus nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 2/2023 privind aprobarea documentației P.U.Z-Zona Construcțiide turism și Funcțiuni Complementare, Amplasament, județul Hunedoara, Comuna Certeju de Sus,sat Hondol",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96391",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-3-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/3",
+   "short": "HCL Certeju de Sus nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 3/2023 privind modificarea și completarea HCL nr67/2022 privind modul de valorificare a masei lemnoase din fondul forestier proprietate publică a comunei Certeju de Sus, pe anul 2023",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96392",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-4-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/4",
+   "short": "HCL Certeju de Sus nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 4/2023 privind folosirea excedentului bugetului local al comunei Certeju de Sus, județul Hunedoara rezultat la sfârsitul anului bugetar 2022",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96393",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-5-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/5",
+   "short": "HCL Certeju de Sus nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 5/2023 privind aprobarea planului de lucrări de interes local, pentru repartizarea orelor de muncă persoanelor care prestează lucrări, conform prevederilor legii nr. 416/2001 cu completarile și modificările ulterioare, în anul 2023",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96394",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96394",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--certeju-de-sus-58-2023",
    "path": "local/hunedoara/certeju-de-sus/2023/58",
    "short": "HCL Certeju de Sus nr. 58/2023",
@@ -28,6 +163,21 @@
      "from": "2023-10-31",
      "units": 1,
      "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/144448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-6-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/6",
+   "short": "HCL Certeju de Sus nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 6/2023 privind aprobarea bugetului local al comunei Certeju de Sus, județul Hunedoara, pe anul 2023 și estimările anilor 2024-2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96395",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96395",
      "sha256": null
     }
    ]
@@ -183,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--certeju-de-sus-7-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/7",
+   "short": "HCL Certeju de Sus nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 7/2023 privind aprobarea studiului de oportunitate pentru delegarea activitățiilor serviciului de salubrizare în cadrul SMID Județul Hunedoara și a anexelor, a Strategiei de contractare, a Planului tarifelor actualizat, a Regulamentului Serviciului de salubrizare privind deșeurile menajere și similar din Județul Hunedoara și avizarea Documentației pentru atribuirea contractului de achiziție publică având ca obiect Delegarea gestiunii Serviciului de salubrizare în zona de colectare 1 Brad+2 Hațeg=3 Centru, județul Hunedoara",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96396",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96396",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--certeju-de-sus-70-2023",
    "path": "local/hunedoara/certeju-de-sus/2023/70",
    "short": "HCL Certeju de Sus nr. 70/2023",
@@ -298,6 +463,21 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/144988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-8-2023",
+   "path": "local/hunedoara/certeju-de-sus/2023/8",
+   "short": "HCL Certeju de Sus nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 8/2023 privind însușirea raportului privind activitatea desfășurată de asistenții personali ai personelor cu handicap, în anul 2022 sem II, angajați ai Primăriei Comunei Certeju de Sus, județul Hunedoara",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96397",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96397",
      "sha256": null
     }
    ]

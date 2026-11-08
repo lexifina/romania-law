@@ -1623,6 +1623,28 @@
 "text_pending": "source",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-ialomita--amara-2255-2022",
+"path": "local/ialomita/amara/2022/2255",
+"kind": "local",
+"year": "2022",
+"number": "2255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 2255/2022 privind aprobarea Planului de ordine și siguranță publică al orașului Amara, județul Ialomița, pentru anul 2022",
+"short": "HCL Amara nr. 2255/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-03",
+"latest": "2022-02-03",
+"portal": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#14726",
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

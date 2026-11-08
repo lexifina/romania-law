@@ -3,6 +3,771 @@
  "shard": "local/ialomita/facaeni/2023",
  "acts": [
   {
+   "slug": "hcl-ialomita--facaeni-1-2023",
+   "path": "local/ialomita/facaeni/2023/1",
+   "short": "HCL Făcăeni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 1/2023 privind aprobarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88477",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-10-2023",
+   "path": "local/ialomita/facaeni/2023/10",
+   "short": "HCL Făcăeni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 10/2023 privind rectificarea bugetului local la data de 28.03.2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/97188",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/97188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-12-2023",
+   "path": "local/ialomita/facaeni/2023/12",
+   "short": "HCL Făcăeni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 12/2023 privind alocarea de la bugetul local al Comunei Facaeni a unor fonduri pentru unitatile de cult din comuna Facaeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/98771",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/98771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-15-2023",
+   "path": "local/ialomita/facaeni/2023/15",
+   "short": "HCL Făcăeni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 15/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Făcăeni, județul Ialomița, referitor la colaborarea instituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/98774",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/98774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-16-2023",
+   "path": "local/ialomita/facaeni/2023/16",
+   "short": "HCL Făcăeni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 16/2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/98775",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/98775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-17-2023",
+   "path": "local/ialomita/facaeni/2023/17",
+   "short": "HCL Făcăeni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 17/2023 privind aprobarea cuantumului alocației de hrană pentru copiii din centrele de zi",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/98776",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/98776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-18-2023",
+   "path": "local/ialomita/facaeni/2023/18",
+   "short": "HCL Făcăeni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 18/2023 privind aprobarea proiectul Construcția și dotarea Centrului de zi de consiliere și sprijin pentru părinți și copii Făcăeni Jud. Ialomița",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/99991",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/99991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-19-2023",
+   "path": "local/ialomita/facaeni/2023/19",
+   "short": "HCL Făcăeni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 19/2023 privind aprobarea taxelor si impozitelor locale pe anul 2024",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/102997",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/102997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-2-2023",
+   "path": "local/ialomita/facaeni/2023/2",
+   "short": "HCL Făcăeni nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 2/2023 privind utilizarea excedentului din anul 2022 pentru finanțarea secțiunii de dezvoltare",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88478",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-20-2023",
+   "path": "local/ialomita/facaeni/2023/20",
+   "short": "HCL Făcăeni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 20/2023 privind delegarea gestiunii Serviciului public de alimentare cu apa , canalizare și epurare menajeră al comunei si aprobarea Contractului de delegare a gestiunii serviciului de alimentare cu apă si canalizare",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/102998",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/102998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-21-2023",
+   "path": "local/ialomita/facaeni/2023/21",
+   "short": "HCL Făcăeni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 21/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Facaeni și din serviciile publice și aparatul permanent din subordinea Consiliului local al comunei Facaeni ca urmare a reorganizării instituției",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/102999",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/102999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-22-2023",
+   "path": "local/ialomita/facaeni/2023/22",
+   "short": "HCL Făcăeni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 22/2023 privind rectificarea bugetului local la data de 03.05.2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/103054",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/103054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-23-2023",
+   "path": "local/ialomita/facaeni/2023/23",
+   "short": "HCL Făcăeni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 23/2023 privind acordul de principiu în vederea semnării unui acord de parteneriat între UAT comuna Facaeni și Asociația Comunitatea TA în scopul depunerii Cererii de Finanțare la Administrația Fondului pentru mediu în cadrul programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/104118",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/104118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-24-2023",
+   "path": "local/ialomita/facaeni/2023/24",
+   "short": "HCL Făcăeni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 24/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/104119",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/104119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-25-2023",
+   "path": "local/ialomita/facaeni/2023/25",
+   "short": "HCL Făcăeni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 25/2023 privind aprobare PUZ - „Construire Centrala Electrica Eoliana Facaeni II, Turbine Eoliane, Statie Transformare 33/110 kV, Linie Electrica Subterana Pentru Interconectare, Drumuri de Acces Si Organizare de Santier„ situat in comuna Facaeni, Judet Ialomita",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/105406",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/105406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-26-2023",
+   "path": "local/ialomita/facaeni/2023/26",
+   "short": "HCL Făcăeni nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 26/2023 privind aprobarea delegării către Unitatea administrativ - teritorială Județul Ialomița a depunerii cererii de finanțare și implementarea proiectului ”Microbuze electrice pentru elevi – Județul Ialomița”, finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/105407",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/105407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-27-2023",
+   "path": "local/ialomita/facaeni/2023/27",
+   "short": "HCL Făcăeni nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 27/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/105408",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/105408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-3-2023",
+   "path": "local/ialomita/facaeni/2023/3",
+   "short": "HCL Făcăeni nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 3/2023 privind aprobarea bugetului de venituri si cheltuieli al SC UTILITATI SI GOSPODARIRE COMUNALA SRL FACAENI pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88479",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-30-2023",
+   "path": "local/ialomita/facaeni/2023/30",
+   "short": "HCL Făcăeni nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 30/2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/105410",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/105410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-31-2023",
+   "path": "local/ialomita/facaeni/2023/31",
+   "short": "HCL Făcăeni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 31/2023 privind aprobarea contului de încheiere a exercițiului bugetar al bugetului local pe anul 2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/105411",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/105411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-32-2023",
+   "path": "local/ialomita/facaeni/2023/32",
+   "short": "HCL Făcăeni nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 32/2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/106263",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/106263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-33-2023",
+   "path": "local/ialomita/facaeni/2023/33",
+   "short": "HCL Făcăeni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 33/2023 privind aprobarea cofinanțării de la bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin PJDL - Ialomița 2023, pentru obiectivul ,, CONSTRUIRE TEREN DE SPORT CU GAZON SINTETIC COMUNA FĂCĂENI, SAT PROGRESU, JUDEȚUL IALOMIȚA”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/106264",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/106264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-34-2023",
+   "path": "local/ialomita/facaeni/2023/34",
+   "short": "HCL Făcăeni nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 34/2023 privind aprobarea Devizul General și a documentației Tehnico-economice și a principalilor indicatori tehnico-economici, pentru obiectivul ,, CONSTRUIRE TEREN DE SPORT CU GAZON SINTETIC COMUNA FĂCĂENI, SAT PROGRESU, JUDEȚUL IALOMIȚA”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/106265",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/106265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-35-2023",
+   "path": "local/ialomita/facaeni/2023/35",
+   "short": "HCL Făcăeni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 35/2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/106266",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/106266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-36-2023",
+   "path": "local/ialomita/facaeni/2023/36",
+   "short": "HCL Făcăeni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 36/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/110798",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/110798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-38-2023",
+   "path": "local/ialomita/facaeni/2023/38",
+   "short": "HCL Făcăeni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 38/2023 privind modificarea utilizării excedentului din anul 2022 pentru finanțarea secțiunii de dezvoltare",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/112993",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/112993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-39-2023",
+   "path": "local/ialomita/facaeni/2023/39",
+   "short": "HCL Făcăeni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 39/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/112994",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/112994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-4-2023",
+   "path": "local/ialomita/facaeni/2023/4",
+   "short": "HCL Făcăeni nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 4/2023 privind aprobarea organigramei si a statului de funcții pentru aparatul de specialitate al Primarului comunei Facaeni și serviciilor publice locale fără personalitate juridică din subordinea Consiliului Local",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88480",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-40-2023",
+   "path": "local/ialomita/facaeni/2023/40",
+   "short": "HCL Făcăeni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 40/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/116259",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/116259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-41-2023",
+   "path": "local/ialomita/facaeni/2023/41",
+   "short": "HCL Făcăeni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 41/2023 privind modificarea HCL nr. 19 / 2023 privind aprobarea taxelor si impozitelor locale pe anul 2024",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/116260",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/116260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-42-2023",
+   "path": "local/ialomita/facaeni/2023/42",
+   "short": "HCL Făcăeni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 42/2023 privind aprobarea Studiului de fezabilitate aferent proiectului „ÎNFIINȚAREA CENTRULUI DE COLECTARE A DEȘEURILOR PRIN APORT VOLUNTAR FĂCĂENI - JUDEȚUL IALOMIȚA” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 3 – Managementul Deșeurilor, Investiția I.1.A Înființarea de centre de colectare cu aport voluntar",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/116261",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/116261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-43-2023",
+   "path": "local/ialomita/facaeni/2023/43",
+   "short": "HCL Făcăeni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 43/2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/116262",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/116262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-44-2023",
+   "path": "local/ialomita/facaeni/2023/44",
+   "short": "HCL Făcăeni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 44/2023 privind aprobarea Regulamentului privind stabilirea unor măsuri privind buna gospodărire a comunei Făcăeni, precum și pentru stabilirea faptelor care constituie contravenții și a sancțiunilor aplicabile acestora",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/118899",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/118899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-45-2023",
+   "path": "local/ialomita/facaeni/2023/45",
+   "short": "HCL Făcăeni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 45/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Facaeni și din serviciile publice și aparatul permanent din subordinea Consiliului local al comunei Facaeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/121238",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/121238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-47-2023",
+   "path": "local/ialomita/facaeni/2023/47",
+   "short": "HCL Făcăeni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 47/2023 privind aprobarea Studiului de fezabilitate si a indicatorilor tehnico economici aferenți proiectului „ÎNFIINȚAREA CENTRULUI DE COLECTARE A DEȘEURILOR PRIN APORT VOLUNTAR FĂCĂENI - JUDEȚUL IALOMIȚA” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 3 – Managementul Deșeurilor, Investiția I.1.A Înființarea de centre de colectare cu aport voluntar",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/121240",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/121240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-5-2023",
+   "path": "local/ialomita/facaeni/2023/5",
+   "short": "HCL Făcăeni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 5/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Facaeni și din serviciile publice și aparatul permanent din subordinea Consiliului local al comunei Facaeni ca urmare a reorganizării instituției",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88481",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-52-2023",
+   "path": "local/ialomita/facaeni/2023/52",
+   "short": "HCL Făcăeni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 52/2023 privind derularea ”Programului pentru școli al României” în perioada 2023-2029 pe raza teritorială a Unității administrativ teritoriale Făcăeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/122593",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/122593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-53-2023",
+   "path": "local/ialomita/facaeni/2023/53",
+   "short": "HCL Făcăeni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 53/2023 privind modificarea și aprobarea unor documente constitutive ale cadrului juridic legal, aplicabil serviciului de alimentare cu apă și de canalizare din comuna Făcăeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/122594",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/122594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-54-2023",
+   "path": "local/ialomita/facaeni/2023/54",
+   "short": "HCL Făcăeni nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 54/2023 privind aprobarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investiții \"Realizare trotuare in vecinătatea drumului național DN 3B, sat Făcăeni, comuna Făcăeni, județul Ialomița\"",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/122595",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/122595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-57-2023",
+   "path": "local/ialomita/facaeni/2023/57",
+   "short": "HCL Făcăeni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 57/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/122598",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/122598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-59-2023",
+   "path": "local/ialomita/facaeni/2023/59",
+   "short": "HCL Făcăeni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 59/2023 privind aprobarea indicatorilor tehnico-economici actualizați, pentru investiția”Construire dispensar uman Calea Fetești, nr. 160, sat Făcăeni, comuna Făcăeni, județul Ialomița”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/124535",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/124535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-60-2023",
+   "path": "local/ialomita/facaeni/2023/60",
+   "short": "HCL Făcăeni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 60/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126018",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-61-2023",
+   "path": "local/ialomita/facaeni/2023/61",
+   "short": "HCL Făcăeni nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 61/2023 privind stabilirea nivelurilor impozitului pe mijloacele de transport, în cazul unui autovehicul de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, precum și în cazul unei combinații de autovehicule, un autovehicul articulat sau tren rutier, de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone, aplicabile în anul fiscal 2024",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126019",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-63-2023",
+   "path": "local/ialomita/facaeni/2023/63",
+   "short": "HCL Făcăeni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 63/2023 privind aprobarea proiectului ”Inființare sistem integrat de colectare și valorificare a gunoiului de grajd în comuna Făcăeni, județul Ialomița” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126021",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-64-2023",
+   "path": "local/ialomita/facaeni/2023/64",
+   "short": "HCL Făcăeni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 64/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici aferenți proiectului “Infiintare sistem integrat de colectare si valorificare a gunoiului de grajd in comuna Facaeni, judetul Ialomita”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126022",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-65-2023",
+   "path": "local/ialomita/facaeni/2023/65",
+   "short": "HCL Făcăeni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 65/2023 privind aprobarea participarii Comunei Făcăeni, Județul Ialomița la „Parteneriatul LEADER IALOMIȚA Est 2023 – 2027”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126023",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-66-2023",
+   "path": "local/ialomita/facaeni/2023/66",
+   "short": "HCL Făcăeni nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 66/2023 privind aprobarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investiții \"Realizare trotuare in vecinătatea drumului național DN 3B, sat Făcăeni, comuna Făcăeni, județul Ialomița\"",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126024",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-67-2023",
+   "path": "local/ialomita/facaeni/2023/67",
+   "short": "HCL Făcăeni nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 67/2023 privind aprobarea proiectului, a cheltuielilor aferente proiectului și a depunerii proiectului: „REABILITARE IN VEDEREA CRESTERII EFICIENTEI ENERGETICE A CLADIRII PUBLICE SCOALA P+E\" COMUNA FACAENI, NR. CAD. 2451-C1, JUD. IALOMITA” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local, Investiția I.3: Reabilitarea moderată a clădirilor publice, pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/126025",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/126025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-68-2023",
+   "path": "local/ialomita/facaeni/2023/68",
+   "short": "HCL Făcăeni nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 68/2023 privind aprobarea indicatorilor tehnico-economici actualizați, pentru investiția ”Construire dispensar uman Calea Fetești, nr. 160, sat Făcăeni, comuna Făcăeni, județul Ialomița”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/127385",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/127385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-69-2023",
+   "path": "local/ialomita/facaeni/2023/69",
+   "short": "HCL Făcăeni nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 69/2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/127386",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/127386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-7-2023",
+   "path": "local/ialomita/facaeni/2023/7",
+   "short": "HCL Făcăeni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 7/2023 privind modificarea și completarea HCL Făcăeni nr. 25/28.04.2022, modificata prin HCL nr. 43/2022, privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88483",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--facaeni-71-2023",
    "path": "local/ialomita/facaeni/2023/71",
    "short": "HCL Făcăeni nr. 71/2023",
@@ -133,6 +898,21 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/facaeni-il/registru-hcl/131851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-8-2023",
+   "path": "local/ialomita/facaeni/2023/8",
+   "short": "HCL Făcăeni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 8/2023 privind asocierea Unității Administrativ Teritoriale Comuna Făcăeni cu unele unități administrativ teritoriale din județul Ialomița și persoane juridice de drept privat fără scop patrimonial în vederea constituirii Asociației FLAG ”GRUP DE ACȚIUNE PENTRU DEZVOLTAREA LOCALĂ ȘI PESCUIT – BORCEA”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/88484",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/88484",
      "sha256": null
     }
    ]
@@ -283,6 +1063,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/facaeni-il/registru-hcl/134739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-9-2023",
+   "path": "local/ialomita/facaeni/2023/9",
+   "short": "HCL Făcăeni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 9/2023 privind aprobarea depunerii proiectului „dotarea cu mobilier, materiale didactice și echipamente a ȘCOLII GIMNAZIALE FĂCĂENI, JUDEȚUL IALOMIȚA\", finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/93760",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/93760",
      "sha256": null
     }
    ]

@@ -3,6 +3,171 @@
  "shard": "local/hunedoara/zam/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--zam-14-2022",
+   "path": "local/hunedoara/zam/2022/14",
+   "short": "HCL Zam nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 14/2022 privind implementarea proiectului „Dotarea cu echipamente IT a primăriei Comunei Zam, jud. Hunedoara”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72689",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-18-2022",
+   "path": "local/hunedoara/zam/2022/18",
+   "short": "HCL Zam nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 18/2022",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72708",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-20-2022",
+   "path": "local/hunedoara/zam/2022/20",
+   "short": "HCL Zam nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 20/2022 privind aprobarea înființării fondului de conservare și regenerare a pădurilor din proprietatea publică a comunei Zam pe anul 2022",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72710",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-24-2022",
+   "path": "local/hunedoara/zam/2022/24",
+   "short": "HCL Zam nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 24/2022 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72722",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-27-2022",
+   "path": "local/hunedoara/zam/2022/27",
+   "short": "HCL Zam nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 27/2022 privind completarea Inventarului bunurilor care aparțin domeniului public al comunei Zam, în vederea înscrierii dreptului de proprietate al Comunei Zam asupra unor imobile (drumuri și canale) cuprinse în Programul Național de Cadastru și Carte Funciară din Comuna Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72725",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-28-2022",
+   "path": "local/hunedoara/zam/2022/28",
+   "short": "HCL Zam nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 28/2022 privind aprobarea Cererii de finanțare, a Devizului general estimativ pentru obiectivul „Înființarea rețelelor inteligente de distribuție a gazelor naturale în comunele Gurasada, Burjuc și Zam, județul Hunedoara și comuna Petris, județul Arad” și Devizului general estimativ pentru obiectivul „INȚIINȚAREA REȚELEI INTELIGENTE DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72726",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-30-2022",
+   "path": "local/hunedoara/zam/2022/30",
+   "short": "HCL Zam nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 30/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72728",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-31-2022",
+   "path": "local/hunedoara/zam/2022/31",
+   "short": "HCL Zam nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 31/2022 privind aprobarea încheierii unui acord de parteneriat între comunele GURASADA, BURJUC, ZAM din județul Hunedoara și PETRIS din județul Arad, în vederea depunerii proiectului „Înființarea rețelelor inteligente de distribuție a gazelor naturale în comunele Gurasada, Burjuc și Zam, județul Hunedoara și comuna Petris, județul Arad”, în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72729",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-38-2022",
+   "path": "local/hunedoara/zam/2022/38",
+   "short": "HCL Zam nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 38/2022 privind înscrierea imobilelor „Drumuri și canale” în evidențele de publicitate imobiliară, în proprietatea comunei Zam-domeniul public, conform lucrărilor de înregistrare sistematică a imobilelor pe sectoare cadastrale",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72742",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-41-2022",
+   "path": "local/hunedoara/zam/2022/41",
+   "short": "HCL Zam nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 41/2022 privind aprobarea studiului de fezabilitate pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului, precum și a Planului anual de evoluție a tarifelor conform rezultatelor Analizei Cost-Beneficiu a proiectului",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72745",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-42-2022",
+   "path": "local/hunedoara/zam/2022/42",
+   "short": "HCL Zam nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 42/2022 privind aprobarea cofinanțării Proiectului ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2014-2020”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72746",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72746",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-44-2022",
    "path": "local/hunedoara/zam/2022/44",
    "short": "HCL Zam nr. 44/2022",

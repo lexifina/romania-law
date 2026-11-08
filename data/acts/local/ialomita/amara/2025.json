@@ -3,6 +3,51 @@
 "shard": "local/ialomita/amara/2025",
 "acts": [
 {
+"slug": "hcl-ialomita--amara-170-2025",
+"path": "local/ialomita/amara/2025/170",
+"kind": "local",
+"year": "2025",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 170/2025",
+"short": "HCL Amara nr. 170/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": null,
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--amara-187-2025",
+"path": "local/ialomita/amara/2025/187",
+"kind": "local",
+"year": "2025",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 187/2025",
+"short": "HCL Amara nr. 187/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#120812",
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-ialomita--amara-1428-2025",
 "path": "local/ialomita/amara/2025/1428",
 "kind": "local",

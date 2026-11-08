@@ -3,6 +3,486 @@
  "shard": "local/ialomita/balaciu/2022",
  "acts": [
   {
+   "slug": "hcl-ialomita--balaciu-1-2022",
+   "path": "local/ialomita/balaciu/2022/1",
+   "short": "HCL Balaciu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 1/2022 privind privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49281",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-10-2022",
+   "path": "local/ialomita/balaciu/2022/10",
+   "short": "HCL Balaciu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 10/2022 privind aprobarea procedurii,cuantumului maxim şi a situaţiilor deosebite, pentru care se acordă ajutoare de urgenţă,în baza Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56684",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-11-2022",
+   "path": "local/ialomita/balaciu/2022/11",
+   "short": "HCL Balaciu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 11/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56685",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-13-2022",
+   "path": "local/ialomita/balaciu/2022/13",
+   "short": "HCL Balaciu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 13/2022 privind aprobarea contului anual de execuţie a exerciţiului bugetar pe anul 2021",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56687",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-14-2022",
+   "path": "local/ialomita/balaciu/2022/14",
+   "short": "HCL Balaciu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 14/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56688",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-16-2022",
+   "path": "local/ialomita/balaciu/2022/16",
+   "short": "HCL Balaciu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 16/2022 pentru completarea Hotărârii Consiliului Local Balaciu nr.1 din 29.01.2021 privind înregistrarea u.a.t. comuna Balaciu în Sistemul naţional electronic de plată online a impozitelor si taxelor locale utilizând cardul bancar",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56690",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-17-2022",
+   "path": "local/ialomita/balaciu/2022/17",
+   "short": "HCL Balaciu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 17/2022 cu privire la rectificarea bugetului local al comunei Balaciu , pe anul 2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56691",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-18-2022",
+   "path": "local/ialomita/balaciu/2022/18",
+   "short": "HCL Balaciu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 18/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/57918",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/57918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-19-2022",
+   "path": "local/ialomita/balaciu/2022/19",
+   "short": "HCL Balaciu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 19/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/57919",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/57919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-20-2022",
+   "path": "local/ialomita/balaciu/2022/20",
+   "short": "HCL Balaciu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 20/2022 privind .alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/60865",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/60865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-21-2022",
+   "path": "local/ialomita/balaciu/2022/21",
+   "short": "HCL Balaciu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 21/2022 privind aprobarea indicatorilor tehnico-economici actualizaţi, pentru obiectivul de investiţii : DISPENSAR MEDICAL IN COMUNA BALACIU , JUD. IALOMITA",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/60866",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/60866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-23-2022",
+   "path": "local/ialomita/balaciu/2022/23",
+   "short": "HCL Balaciu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 23/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63711",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-24-2022",
+   "path": "local/ialomita/balaciu/2022/24",
+   "short": "HCL Balaciu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 24/2022 privind aprobarea taxei speciale de salubrizare şi a tarifelor practicate de către operatorul serviciului de salubrizare pe raza teritorială a comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63712",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-25-2022",
+   "path": "local/ialomita/balaciu/2022/25",
+   "short": "HCL Balaciu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 25/2022 privind mandatarea Asociaţiei de Dezvoltare Intercomunitară ”ECOO 2009”, de a exercita dreptul de delegare a gestiunii Serviciului de salubritate",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63713",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-26-2022",
+   "path": "local/ialomita/balaciu/2022/26",
+   "short": "HCL Balaciu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 26/2022 privind privind aprobarea Notei conceptuale şi a Temei de proiectare pentru proiectul „Modernizare drumuri de interes local in comuna Balaciu, judetul Ialomita”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63714",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-27-2022",
+   "path": "local/ialomita/balaciu/2022/27",
+   "short": "HCL Balaciu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 27/2022 privind aprobarea inchiderii conturilor de executie bugetara al bugetului Comunei Balaciu, a bugetului institutiilor publice finantate din venituri proprii si subventii de la bugetul local la 31.03.2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63715",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-28-2022",
+   "path": "local/ialomita/balaciu/2022/28",
+   "short": "HCL Balaciu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 28/2022 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru proiectul „Infiintare sistem de canalizare, statie de epurare in comunele Salcioara si Balaciu, judetul Ialomita”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63716",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-29-2022",
+   "path": "local/ialomita/balaciu/2022/29",
+   "short": "HCL Balaciu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 29/2022 privind rectificarea bugetului local al comunei Balaciu ,pe anul 2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63717",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-3-2022",
+   "path": "local/ialomita/balaciu/2022/3",
+   "short": "HCL Balaciu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 3/2022 privind aprobarea propunerii de demolare a imobilului-clădire ,, Scoala Generală I-IV Copuzu ,, ce face parte din domeniul public al comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49283",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-30-2022",
+   "path": "local/ialomita/balaciu/2022/30",
+   "short": "HCL Balaciu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 30/2022 pentru atestarea completării Hotărârii Consiliului Local Balaciu nr.23 din 30.08.1999 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Balaciu,judetul Ialomiţa",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/64135",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/64135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-31-2022",
+   "path": "local/ialomita/balaciu/2022/31",
+   "short": "HCL Balaciu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 31/2022 pentru modificarea Hotărârii Consiliului Local Balaciu nr.48 din 24.12.2021 privind aprobarea indicatorilor tehnico-economici actualizaţi şi a devizului general actualizat conform Ordonantei Guvernului nr.15/2021, pentru obiectivul de investiţii :MODERNIZAREA DRUMURILOR PUBLICE IN COMUNA BALACIU CU SATELE COMPONENTE, JUD. IALOMITA",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/64136",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/64136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-32-2022",
+   "path": "local/ialomita/balaciu/2022/32",
+   "short": "HCL Balaciu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 32/2022 privind aprobarea indicatorilor tehnico-economici actualizaţi, pentru obiectivul de investiţii : DISPENSAR MEDICAL IN COMUNA BALACIU , JUD. IALOMITA",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/66589",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/66589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-33-2022",
+   "path": "local/ialomita/balaciu/2022/33",
+   "short": "HCL Balaciu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 33/2022 privind aprobarea suportării din bugetul local a cheltuielilor ocazionate de înhumarea cadavrelor decedaţilor cu sau fără aparţinători şi a cadavrelor cu identitate necunoscută",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/67218",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/67218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-34-2022",
+   "path": "local/ialomita/balaciu/2022/34",
+   "short": "HCL Balaciu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 34/2022 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru proiectul de investitii „Reabilitarea strazilor Lujerului, Morii si Zorilor” comuna Balaciu, judetul Ialomita",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/67219",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/67219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-35-2022",
+   "path": "local/ialomita/balaciu/2022/35",
+   "short": "HCL Balaciu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 35/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/67220",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/67220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-36-2022",
+   "path": "local/ialomita/balaciu/2022/36",
+   "short": "HCL Balaciu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 36/2022 privind aprobarea Contractul de delegare prin atribuire directă a gestiunii serviciului public de salubrizare a deșeurilor municipale în județul Ialomița",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/67221",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/67221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-37-2022",
+   "path": "local/ialomita/balaciu/2022/37",
+   "short": "HCL Balaciu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 37/2022 pentru modificarea Hotărârii Consiliul Local Balaciu nr.5 din 31.01.2022 privind aprobarea numărului posturilor de asistent personal al persoanei cu handicap,pentru anul 2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/67222",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/67222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-38-2022",
+   "path": "local/ialomita/balaciu/2022/38",
+   "short": "HCL Balaciu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 38/2022 privind utilizarea excedentului anilor precedenti în anul 2022 pentru finantarea deficitului secţiunii de functionare sursa ,,E,, - Bugetul activităţilor finanţate integral din venituri proprii ,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/67223",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/67223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-39-2022",
+   "path": "local/ialomita/balaciu/2022/39",
+   "short": "HCL Balaciu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 39/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/70799",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/70799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-4-2022",
+   "path": "local/ialomita/balaciu/2022/4",
+   "short": "HCL Balaciu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 4/2022 privind aprobarea propunerii de demolare a imobilului ,, Scoala Generală I-IV Crăsanii de Sus ,, ce face parte din domeniul public al comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49284",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-40-2022",
+   "path": "local/ialomita/balaciu/2022/40",
+   "short": "HCL Balaciu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 40/2022 privind aprobarea inchiderii conturilor de executie bugetara al bugetului Comunei Balaciu, a bugetului institutiilor publice finantate din venituri proprii si subventii de la bugetul local la 30.06.2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/70800",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/70800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-41-2022",
+   "path": "local/ialomita/balaciu/2022/41",
+   "short": "HCL Balaciu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 41/2022 privind aprobarea documentatiei tehnico-economice, faza documentatie de avizare a lucrarilor de interventie (DALI) si a indicatorilor tehnico-economici pentru obiectivul de investitii „Reabilitarea strazilor Lujerului, Morii si Zorilor” comuna Balaciu, judetul Ialomita",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/74197",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/74197",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-42-2022",
    "path": "local/ialomita/balaciu/2022/42",
    "short": "HCL Balaciu nr. 42/2022",
@@ -118,6 +598,21 @@
      "from": "2022-11-21",
      "units": 1,
      "source_url": "https://emol.ro/balaciu-il/registru-hcl/78023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-5-2022",
+   "path": "local/ialomita/balaciu/2022/5",
+   "short": "HCL Balaciu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 5/2022 privind aprobarea numarului posturilor de asistent personal al persoanei cu handicap,pentru anul 2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49285",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49285",
      "sha256": null
     }
    ]
@@ -273,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--balaciu-6-2022",
+   "path": "local/ialomita/balaciu/2022/6",
+   "short": "HCL Balaciu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 6/2022 privind aprobarea planului de actiuni si lucrari de interes local pe anul 2022, ce vor fi executate de catre beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49286",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49286",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-60-2022",
    "path": "local/ialomita/balaciu/2022/60",
    "short": "HCL Balaciu nr. 60/2022",
@@ -298,6 +808,51 @@
      "from": "2023-01-05",
      "units": 1,
      "source_url": "https://emol.ro/balaciu-il/registru-hcl/84353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-7-2022",
+   "path": "local/ialomita/balaciu/2022/7",
+   "short": "HCL Balaciu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 7/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49287",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-8-2022",
+   "path": "local/ialomita/balaciu/2022/8",
+   "short": "HCL Balaciu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 8/2022 privind aprobarea bugetului local al comunei Balaciu şi al activităţilor autofinanţate,finanţate integral din venituri proprii pe anul 2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/52702",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/52702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-9-2022",
+   "path": "local/ialomita/balaciu/2022/9",
+   "short": "HCL Balaciu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 9/2022 privind stabilirea numărului şi a cuantumului burselor de merit ,de studiu şi de ajutor social, ce se vor acorda elevilor din cadrul Scolii Gimnaziale ,,Arhimandrit Teofil,, Balaciu , în semestrul II al anului scolar 2021-2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/52736",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/52736",
      "sha256": null
     }
    ]

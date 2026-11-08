@@ -3,6 +3,50 @@
 "shard": "local/ialomita/balaciu/2024",
 "acts": [
 {
+"slug": "hcl-ialomita--balaciu-23-2024",
+"path": "local/ialomita/balaciu/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 23/2024 privind stabilirea impozitelor şi taxelor locale pentru anul 2025, ca urmare a indexării cu rata inflaţiei",
+"short": "HCL Balaciu nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-17",
+"latest": "2024-04-17",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/152206",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-24-2024",
+"path": "local/ialomita/balaciu/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 24/2024 privind pentru aprobarea Regulamentului privind eliberarea cardului-legitimaţie de parcare gratuită pentru persoanele cu handicap",
+"short": "HCL Balaciu nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-17",
+"latest": "2024-04-17",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/152207",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ialomita--balaciu-57-2024",
 "path": "local/ialomita/balaciu/2024/57",
 "kind": "local",

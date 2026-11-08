@@ -3,6 +3,546 @@
  "shard": "local/hunedoara/criscior/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--criscior-1-2021",
+   "path": "local/hunedoara/criscior/2021/1",
+   "short": "HCL Crișcior nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 1/2021 privind aprobarea indicatorilor tehnico-economici pentru proiectul ''Dotarea Liceului Tehnologic ''Crișan'' Criscior cu materiale sanitare'' în vederea depunerii proiectului pentru finanțare în cadrul Programului Operațional Infrastructură Mare (POIM) 2014-2020, Axa Prioritară 9 ''Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19'', Obiectivul specific 9.1 ''Creșterea capacității de gestionare a crizei sanitare COVID - 19''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40105",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-10-2021",
+   "path": "local/hunedoara/criscior/2021/10",
+   "short": "HCL Crișcior nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 10/2021 privind aprobarea preturilor de referinta si a modului de valorificare a masei lemnoase din padurea proprietate a comunei Criscior , judetul Hunedoara pentru anul 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40114",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-11-2021",
+   "path": "local/hunedoara/criscior/2021/11",
+   "short": "HCL Crișcior nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 11/2021 privind aprobarea indicatorilor tehnico economici pentru obiectivul de investitie \"Modernizare drum vicinal Lunca Morii, drum vicinal Valea Pelii, strada Valea Garzii in comuna Criscior , judetul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40115",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-13-2021",
+   "path": "local/hunedoara/criscior/2021/13",
+   "short": "HCL Crișcior nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 13/2021 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul IV al anului 2020 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40118",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-14-2021",
+   "path": "local/hunedoara/criscior/2021/14",
+   "short": "HCL Crișcior nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 14/2021 privind aprobarea modificarii organigramei si a statului de functii a aparatului de specialitate al Primarului comunei Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40119",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-16-2021",
+   "path": "local/hunedoara/criscior/2021/16",
+   "short": "HCL Crișcior nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 16/2021 privind aprobarea Planului de actiuni si lucrari de interes local pe anul 2021 ce vor fi executate de catre beneficiarii de ajutor social , conform Legii nr 416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40121",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-17-2021",
+   "path": "local/hunedoara/criscior/2021/17",
+   "short": "HCL Crișcior nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 17/2021 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Crsicior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40144",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-18-2021",
+   "path": "local/hunedoara/criscior/2021/18",
+   "short": "HCL Crișcior nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 18/2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40145",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-2-2021",
+   "path": "local/hunedoara/criscior/2021/2",
+   "short": "HCL Crișcior nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 2/2021 privind aprobarea bugetului pentru proiectul ''Dotarea Liceului Tehnologic ''Crișan'' Criscior cu materiale sanitare'' în vederea depunerii proiectului pentru finanțare în cadrul Programului Operațional Infrastructură Mare (POIM) 2014-2020, Axa Prioritară 9 ''Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19'', Obiectivul specific 9.1 ''Creșterea capacității de gestionare a crizei sanitare COVID - 19''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40106",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-22-2021",
+   "path": "local/hunedoara/criscior/2021/22",
+   "short": "HCL Crișcior nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 22/2021 privind predarea către Ministerul Dezvoltării, Lucrărilor Publice și Administrației prin Compania Națională de Investiții ''CNI'' SA, a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiții Proiect pilot - ''Construire Sală de sport școlară, str. Bunei, nr. 2, sat Crișcior, comuna Crișcior, județul Hunedoara''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54085",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-23-2021",
+   "path": "local/hunedoara/criscior/2021/23",
+   "short": "HCL Crișcior nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 23/2021 privind situația conturilor de execuție pe trimestrul IV anul 2020 al comunei Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54090",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-24-2021",
+   "path": "local/hunedoara/criscior/2021/24",
+   "short": "HCL Crișcior nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 24/2021 privind aprobarea bugetului local al comunei Criscior pe anul 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54091",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-25-2021",
+   "path": "local/hunedoara/criscior/2021/25",
+   "short": "HCL Crișcior nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 25/2021 privind aprobarea bugetului de venituri proprii al comunei Criscior pe anul 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54092",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-26-2021",
+   "path": "local/hunedoara/criscior/2021/26",
+   "short": "HCL Crișcior nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 26/2021 privind utilizarea excedentului bugetar al Comunei Criscior din anul 2020 pentru anul 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54093",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-27-2021",
+   "path": "local/hunedoara/criscior/2021/27",
+   "short": "HCL Crișcior nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 27/2021 privind aprobarea acordării de finanțare nerambursabilă de la bugetul local al comunei Criscior, asociațiilor sportive, culturale și sociale, cultelor religioase recunoscute, cu personalitate juridică, fără scop patrimonial, care își desfășoară activitatea pe teritoriul comunei Crișcior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54094",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-28-2021",
+   "path": "local/hunedoara/criscior/2021/28",
+   "short": "HCL Crișcior nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 28/2021 privind stabilirea ''situațiilor deosebite'' pentru acordarea ajutoarelor de urgență familiilor și persoanelor din comuna Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54095",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-3-2021",
+   "path": "local/hunedoara/criscior/2021/3",
+   "short": "HCL Crișcior nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 3/2021 privind acoperirea deficitului bugetar pe anul 2020 a secțiunii de dezvoltare din excedentul anului 2019",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40107",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-31-2021",
+   "path": "local/hunedoara/criscior/2021/31",
+   "short": "HCL Crișcior nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 31/2021 privind aprobarea modificării organigramei, a statului de funcții a aparatului de specialitate al Primarului Comunei Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54098",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-32-2021",
+   "path": "local/hunedoara/criscior/2021/32",
+   "short": "HCL Crișcior nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 32/2021 privind indexarea impozitelor și taxelor locale cu rata inflației, respectiv actualizarea limitelor amenzilor prevăzute la alin 3 și 4 art. 493 din Legea nr. 227/2015 privind Codul Fiscal, pentru anul 2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54099",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-37-2021",
+   "path": "local/hunedoara/criscior/2021/37",
+   "short": "HCL Crișcior nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 37/2021 privind aprobarea Listei sesiunii de selecție din anul 2021, sesiunea a I a, a proiectelor/programelor care vor primi finanțări nerambursabile de la bugetul local al comunei Crișcior pentru activități nonprofit de interes local în baza Legii nr. 350/2005",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54112",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-38-2021",
+   "path": "local/hunedoara/criscior/2021/38",
+   "short": "HCL Crișcior nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 38/2021 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiție ''Eficientizare energetică a clădirilor instituțiilor publice - școală în regim de înălțime P+1E în comuna Crișcior, județul Hunedoara''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54113",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-50-2021",
+   "path": "local/hunedoara/criscior/2021/50",
+   "short": "HCL Crișcior nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 50/2021 privind aprobarea modificării organigramei, a statului de funcții a aparatului de specialitate al Primarului Comunei Crișcior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54212",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-55-2021",
+   "path": "local/hunedoara/criscior/2021/55",
+   "short": "HCL Crișcior nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 55/2021 privind aprobarea tarifelor/finale de operare a serviciului de salubrizare în zona de colecatre 1 Brad care inclus costurile CMID Bârcea Mare, transfer și sortare, prin aplicarea prevederilor OUG nr. 74/2018",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54328",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-58-2021",
+   "path": "local/hunedoara/criscior/2021/58",
+   "short": "HCL Crișcior nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 58/2021 privind aprobarea modificării organigramei și a statului de funcții a aparatului de specialitate al Primarului Comunei Crișcior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54331",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-6-2021",
+   "path": "local/hunedoara/criscior/2021/6",
+   "short": "HCL Crișcior nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 6/2021 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Comunei Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40110",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-61-2021",
+   "path": "local/hunedoara/criscior/2021/61",
+   "short": "HCL Crișcior nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 61/2021 privind aprobarea valorilor actualizate ale principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții 'Reabilitarea, modernizarea și dotarea dispensarului uman în satul Crișcior, comuna Crișcior, județul Hunedoara''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54334",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-62-2021",
+   "path": "local/hunedoara/criscior/2021/62",
+   "short": "HCL Crișcior nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 62/2021 privind aprobarea valorilor actualizate ale principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții ''Extinderea, modernizarea și reabilitarea sediului primăriei comunei Crișcior, județul Hunedoara''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54335",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-63-2021",
+   "path": "local/hunedoara/criscior/2021/63",
+   "short": "HCL Crișcior nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 63/2021 privind aprobarea valorilor actualizate ale principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții ''Reabilitare Liceu Tehnologic ''Crișan'' Crișcior - Corp B",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54336",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-64-2021",
+   "path": "local/hunedoara/criscior/2021/64",
+   "short": "HCL Crișcior nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 64/2021 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului comunei Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54337",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-65-2021",
+   "path": "local/hunedoara/criscior/2021/65",
+   "short": "HCL Crișcior nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 65/2021 privind participarea la Programul privind creșeterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici referitor la proiectul ''Eficientizare energetică a clădirilor instituțiilor publice - Școală în regim de înălțime P+1E în comuna Crișcior, județul Hunedoara''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54338",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-67-2021",
+   "path": "local/hunedoara/criscior/2021/67",
+   "short": "HCL Crișcior nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 67/2021 privind rectificarea bugetului local al Comunei Crișcior pe anul 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54340",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-69-2021",
+   "path": "local/hunedoara/criscior/2021/69",
+   "short": "HCL Crișcior nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 69/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Crișcior, județul Hunedoara, pentru perioada 2021-2027",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54342",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-7-2021",
+   "path": "local/hunedoara/criscior/2021/7",
+   "short": "HCL Crișcior nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 7/2021 privind aprobarea Regulamentului Intern al aparatului de specialitate al Primarului comunei Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40111",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-70-2021",
+   "path": "local/hunedoara/criscior/2021/70",
+   "short": "HCL Crișcior nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 70/2021 privind ajustarea prețului contractului de achiziție publică de lucrări a obiectivului de investiții ''Reabilitarea, modernizarea și dotarea dispensarului uman în satul Crișcior, comuna Crișcior, județul Hunedoara''",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54343",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-71-2021",
+   "path": "local/hunedoara/criscior/2021/71",
+   "short": "HCL Crișcior nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 71/2021 privind ajustarea prețului contractului de achiziție publică de lucrări a obiectivului de investiții ''Extindere, modernizarea și reabilitarea sediului primăriei comunei Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54344",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-72-2021",
+   "path": "local/hunedoara/criscior/2021/72",
+   "short": "HCL Crișcior nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 72/2021 privind rectificarea bugetului local al Comunei Crișcior pe anul 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/54345",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/54345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-78-2021",
    "path": "local/hunedoara/criscior/2021/78",
    "short": "HCL Crișcior nr. 78/2021",
@@ -28,6 +568,21 @@
      "from": "2022-03-21",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/54367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-8-2021",
+   "path": "local/hunedoara/criscior/2021/8",
+   "short": "HCL Crișcior nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 8/2021 privind fundamentarea cifrei de scolarizare pentru organizarea retelei de invatamant preuniversitar pentru anul 2021-2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40112",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40112",
      "sha256": null
     }
    ]
@@ -178,6 +733,21 @@
      "from": "2022-03-21",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/54393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-9-2021",
+   "path": "local/hunedoara/criscior/2021/9",
+   "short": "HCL Crișcior nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 9/2021 privind aprobarea bugetului de venituri si cheltuieli pe anul 2021 pentru fondul forestier proprietatea comunei Criscior administrat in baza contractului de administrare nr 1231/2020",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/40113",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/40113",
      "sha256": null
     }
    ]

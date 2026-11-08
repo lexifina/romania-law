@@ -3,6 +3,36 @@
  "shard": "local/ialomita/balaciu/2024",
  "acts": [
   {
+   "slug": "hcl-ialomita--balaciu-23-2024",
+   "path": "local/ialomita/balaciu/2024/23",
+   "short": "HCL Balaciu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 23/2024 privind stabilirea impozitelor şi taxelor locale pentru anul 2025, ca urmare a indexării cu rata inflaţiei",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/152206",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/152206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-24-2024",
+   "path": "local/ialomita/balaciu/2024/24",
+   "short": "HCL Balaciu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 24/2024 privind pentru aprobarea Regulamentului privind eliberarea cardului-legitimaţie de parcare gratuită pentru persoanele cu handicap",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/152207",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/152207",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-57-2024",
    "path": "local/ialomita/balaciu/2024/57",
    "short": "HCL Balaciu nr. 57/2024",

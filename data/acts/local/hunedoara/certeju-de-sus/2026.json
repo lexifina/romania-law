@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-4-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 4/2026 privind modul de valorificare a masei lemnoase din fondul forestier proprietatea publică a comunei Certeju de Sus pe anul 2026",
+"short": "HCL Certeju de Sus nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/253391",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-7-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 7/2026 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici/indicatorilor-tehnico economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiție „Stație de epurare în localitatea Certeju de Sus, comuna Certeju de Sus, județul Hunedoara (Realizarea unui colector de canalizare între localitatea Certeju de Sus și primul cămin de canalizare din localitatea Bârsău, comuna Hărău)”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny) și a sumei reprezentând cheltuielile finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Certeju de Sus nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/253394",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-13-2026",
 "path": "local/hunedoara/certeju-de-sus/2026/13",
 "kind": "local",
@@ -305,6 +349,28 @@
 "from": "2026-06-25",
 "latest": "2026-06-25",
 "portal": "https://emol.ro/certejudesus-hd/registru-hcl/275674",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-33-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 33/2026 privind aprobarea studiului de fezabilitate revizuit pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2021-2027”",
+"short": "HCL Certeju de Sus nr. 33/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-14",
+"latest": "2026-08-14",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/283225",
 "council": "hunedoara/certeju-de-sus",
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {

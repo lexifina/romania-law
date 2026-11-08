@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--vulcan-111-2022",
+"path": "local/hunedoara/vulcan/2022/111",
+"kind": "local",
+"year": "2022",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 111/2022 PRIVIND INDEXAREA CU RATA INFLATIEI A IMP. SI TAXELOR LOCALE.pdf",
+"short": "HCL Vulcan nr. 111/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-21",
+"latest": "2022-04-21",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2023-0000fae2?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-hunedoara--vulcan-302-2022",
 "path": "local/hunedoara/vulcan/2022/302",
 "kind": "local",

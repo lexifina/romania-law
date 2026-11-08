@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/simeria/2009",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--simeria-25-2009",
+   "path": "local/hunedoara/simeria/2009/25",
+   "short": "HCL Simeria nr. 25/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 25/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL25.doc",
+     "sha256": "490b1843461eaed16f0419fe649f3cc5117b13f89b2fc30ff20883d30ee228d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-50-2009",
+   "path": "local/hunedoara/simeria/2009/50",
+   "short": "HCL Simeria nr. 50/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 50/2009 privind aprobarea Planului Urbanistic Zonal pentru obiectivul “Baza de agrement Săulești”, beneficiari fiind Orașul Simeria și S.C",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL50.doc",
+     "sha256": "5570a12d44bdcbaf8e9a3df1d8ad9ed5d83f713cf41be387d21dd61cf5f7e567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-51-2009",
+   "path": "local/hunedoara/simeria/2009/51",
+   "short": "HCL Simeria nr. 51/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 51/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL51.doc",
+     "sha256": "44a4e34d84ac0b9911ccd94afba947c7eb36de69fd77796c3c5b79f57306db9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-55-2009",
+   "path": "local/hunedoara/simeria/2009/55",
+   "short": "HCL Simeria nr. 55/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 55/2009 pentru modificarea art. 1 din HCL nr. 87/2005, privind avizarea tarifelor pentru serviciile de distribuție apă potabilă și canalizare. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL55.doc",
+     "sha256": "c8dac3477e179162f7322350b64b13529d6e6053e39cbcb6465a4adc359b8e10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-60-2009",
+   "path": "local/hunedoara/simeria/2009/60",
+   "short": "HCL Simeria nr. 60/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 60/2009 privind stabilirea tarifului pentru utilizarea unor suprafețe de teren în cadrul locației provizorii a Pieței Agroalimentare a orașului Simeria, în vederea desfășurării activităților comerciale. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL60.doc",
+     "sha256": "6837d535bf6699306af490ab4c64ae29c8e54265ba0baf7bc62c52e32ec5ac1d"
+    }
+   ]
+  }
+ ]
+}

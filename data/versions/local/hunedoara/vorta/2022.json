@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/vorta/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--vorta-2-2022",
+   "path": "local/hunedoara/vorta/2022/2",
+   "short": "HCL Vorța nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 2/2022 privind aprobarea Studiului de Fezabilitate pentru proiectul de investiție „INSTALARE SISTEM DE SUPRAVEGHERE VIDEO ÎN COMUNA VORȚA”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/69243",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/69243",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vorta-27-2022",
    "path": "local/hunedoara/vorta/2022/27",
    "short": "HCL Vorța nr. 27/2022",
@@ -43,6 +58,21 @@
      "from": "2022-08-19",
      "units": 1,
      "source_url": "https://emol.ro/vorta-hd/registru-hcl/69279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-3-2022",
+   "path": "local/hunedoara/vorta/2022/3",
+   "short": "HCL Vorța nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 3/2022 privind implementarea proiectului „INSTALARE SISTEM DE SUPRAVEGHERE VIDEO ÎN COMUNA VORȚA”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/69244",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/69244",
      "sha256": null
     }
    ]

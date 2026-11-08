@@ -3,6 +3,66 @@
  "shard": "local/hunedoara/certeju-de-sus/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--certeju-de-sus-1-2024",
+   "path": "local/hunedoara/certeju-de-sus/2024/1",
+   "short": "HCL Certeju de Sus nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 1/2024 privind aprobarea documentaţiei P.U.Z.–ZONA DE LOCUINȚE - CONSTRUIRE LOCUINȚĂ D+P ȘI AMENAJĂRI EXTERIOARE , Amplasament: Jud. Hunedoara, Comuna Certeju de Sus, sat Bocșa Mică",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/170146",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/170146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-13-2024",
+   "path": "local/hunedoara/certeju-de-sus/2024/13",
+   "short": "HCL Certeju de Sus nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 13/2024 privind însușirea Raportului asupra situației gestionării bunurilor comunei Certeju de Sus, județul Hunedoara, pentru anul 2023",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/170163",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/170163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-2-2024",
+   "path": "local/hunedoara/certeju-de-sus/2024/2",
+   "short": "HCL Certeju de Sus nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 2/2024 privind modul de valorificare a masei lemnoase din fondul forestier propietatea publică a comunei Certeju de Sus pe anul 2024",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/170147",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/170147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-38-2024",
+   "path": "local/hunedoara/certeju-de-sus/2024/38",
+   "short": "HCL Certeju de Sus nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 38/2024",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/192133",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/192133",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--certeju-de-sus-49-2024",
    "path": "local/hunedoara/certeju-de-sus/2024/49",
    "short": "HCL Certeju de Sus nr. 49/2024",

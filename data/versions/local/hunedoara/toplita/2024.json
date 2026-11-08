@@ -3,6 +3,111 @@
  "shard": "local/hunedoara/toplita/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--toplita-11-2024",
+   "path": "local/hunedoara/toplita/2024/11",
+   "short": "HCL Toplița nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 11/2024 privind aprobarea cotizatiei comunei Toplița si a tarifului de capturare pentru anul 2024 la Asociaţia de Dezvoltare Intercomunitară ,, Serviciul judeţean pentru ocrotirea animalelor fără stăpân ”",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166603",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-15-2024",
+   "path": "local/hunedoara/toplita/2024/15",
+   "short": "HCL Toplița nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 15/2024 privind aprobarea valorificării si destinatia masei lemnoase din fondul forestier proprietate publica a comunei Toplita în anul 2024",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166607",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-16-2024",
+   "path": "local/hunedoara/toplita/2024/16",
+   "short": "HCL Toplița nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 16/2024",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166608",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-18-2024",
+   "path": "local/hunedoara/toplita/2024/18",
+   "short": "HCL Toplița nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 18/2024 privind aprobarea alipirii unor terenuri intravilane, aflate în domeniul privat al comunei Toplita, judetul Hunedoara",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166615",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-19-2024",
+   "path": "local/hunedoara/toplita/2024/19",
+   "short": "HCL Toplița nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 19/2024",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166616",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-20-2024",
+   "path": "local/hunedoara/toplita/2024/20",
+   "short": "HCL Toplița nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 20/2024 privind aprobarea indexării, impozitelor şi taxelor locale, care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum si limitel amenzilor aplicabile in anul 2025, cu rata inflației , comunicata pe site-ul oficial al Ministerului Finantelor Publice si Ministerului Dezvoltarii, lucrarilor Publice si Administratiei;",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166762",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-24-2024",
+   "path": "local/hunedoara/toplita/2024/24",
+   "short": "HCL Toplița nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 24/2024 privind aprobarea documentației de avizare a lucrărilor deintervenții, a indicatorilo tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții:„ Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului „Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166766",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166766",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-36-2024",
    "path": "local/hunedoara/toplita/2024/36",
    "short": "HCL Toplița nr. 36/2024",
@@ -58,6 +163,21 @@
      "from": "2024-09-27",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/188228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-4-2024",
+   "path": "local/hunedoara/toplita/2024/4",
+   "short": "HCL Toplița nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 4/2024 privind Aprobarea analizei stadiului de înscriere a datelor în Registrul Agricol al comunei Toplița, pentru trimestrul IV al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activităţi, inclusiv pentru solutionarea situatiilor particulare identificate la nivelul localitatii pe linia completarii registrului agricol si care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166572",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166572",
      "sha256": null
     }
    ]
@@ -208,6 +328,21 @@
      "from": "2024-12-13",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/188322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-5-2024",
+   "path": "local/hunedoara/toplita/2024/5",
+   "short": "HCL Toplița nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 5/2024 privind aprobarea documentației de avizare a lucrărilor deintervenții, a indicatorilo tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții:„ Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului „Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166573",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166573",
      "sha256": null
     }
    ]

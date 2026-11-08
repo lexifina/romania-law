@@ -46,6 +46,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-2684-2024",
+   "path": "local/ialomita/amara/2024/2684",
+   "short": "HCL Amara nr. 2684/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 2684/2024 privind aprobarea Planului de ordine și siguranță publică al orașului Amara, județul Ialomița, pentru anul 2024",
+   "url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#71495",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://amara.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24gkU4.u7bouDYYsc9K9edq.zN17hyKBXGJR37bWz5.BrWzj/w9LGeK/3612",
+     "sha256": "b91154f21bfcbc9d74d6bfa542aecf307d30caf07a5250f273f81e0a7b9f22f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-610-2024",
+   "path": "local/ialomita/amara/2024/610",
+   "short": "HCL Amara nr. 610/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 610/2024 privind aprobarea modificării și completării anexei la Hotărârea Consiliului Local Amara nr. 19 din 29 mai 2002 privind însușirea de catre Consiliul Local Amara a inventarului unor terenuri ce fac parte din domeniul privat al localității, cu modificările și completările ulterioare",
+   "url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#77051",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://amara.regista.ro/counter/download_approved_council_decision_files/%242y%2410%248tYGAuYGQtGCwbbGs/XUq.XbY6KQDtbqWdf6yT95x1UogRag29N4y/3612",
+     "sha256": "47b9aebf57b38a7bd5f83450f83b559f9f7c5a98b00c98dc3499c122c05d0dd1"
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,291 @@
  "shard": "local/hunedoara/gurasada/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--gurasada-1-2025",
+   "path": "local/hunedoara/gurasada/2025/1",
+   "short": "HCL Gurasada nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 1/2025 privind aprobarea analizei stadiului de înscriere a datelor în Registrul agricol al comunei Gurasada, pentru trimestrul IV al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/192604",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/192604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-10-2025",
+   "path": "local/hunedoara/gurasada/2025/10",
+   "short": "HCL Gurasada nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 10/2025 privind aprobarea valorificării masei lemnoase în volum total de 81,58 mc, din fondul forestier proprietatea publică a comunei Gurasada şi a preţului de pornire la licitaţie/negociere pentru masă lemnoasă pe picior, prin licitaţie publică organizată de administratorul fondului forestier, pentru anul de producție 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/200652",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/200652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-11-2025",
+   "path": "local/hunedoara/gurasada/2025/11",
+   "short": "HCL Gurasada nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 11/2025 privind modificarea HCL nr.32/2024 pentru aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri , străzi și ulițe de interes local în comuna Gurasada, Judeţul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/200653",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/200653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-12-2025",
+   "path": "local/hunedoara/gurasada/2025/12",
+   "short": "HCL Gurasada nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 12/2025 privind aprobarea valorificării masei lemnoase în volum total de 168,84 mc, din fondul forestier proprietatea publică a comunei Gurasada şi a preţului de pornire la licitaţie/negociere pentru masă lemnoasă pe picior, prin licitaţie publică organizată de administratorul fondului forestier, pentru anul de producție 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203341",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-13-2025",
+   "path": "local/hunedoara/gurasada/2025/13",
+   "short": "HCL Gurasada nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 13/2025 privind aprobarea acordului de participare a comunei GURASADA, județul Hunedoara, în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană finanțat prin Programul fondului pentru mediu",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203342",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-14-2025",
+   "path": "local/hunedoara/gurasada/2025/14",
+   "short": "HCL Gurasada nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 14/2025 privind aprobarea cererii prin care se solicită trecerea unor imobile din domeniul public al statului și din administrarea Direcției pentru Agricultură Județeană Hunedoara, în domeniul public al Comunei Gurasada şi în administrarea Consiliului Local al Comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203343",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-15-2025",
+   "path": "local/hunedoara/gurasada/2025/15",
+   "short": "HCL Gurasada nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 15/2025 privind aprobarea Programului anual al achiziţiilor publice al comunei Gurasada pe anul 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203664",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-16-2025",
+   "path": "local/hunedoara/gurasada/2025/16",
+   "short": "HCL Gurasada nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 16/2025 privind aprobarea documentației de dezlipire a imobilului teren extravilan (pășune) neîmprejmuit, înscris în CF nr 71467 Gurasada, județul Hunedoara, în două loturi",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203665",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-17-2025",
+   "path": "local/hunedoara/gurasada/2025/17",
+   "short": "HCL Gurasada nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 17/2025 privind aprobarea documentației de dezlipire a imobilului teren extravilan (fânaț) neîmprejmuit, înscris în CF nr. 71466 Gurasada, județul Hunedoara, în trei loturi",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203666",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-18-2025",
+   "path": "local/hunedoara/gurasada/2025/18",
+   "short": "HCL Gurasada nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 18/2025 privind aprobarea cuantumului cotizatiei Comunei Gurasada aferente anului 2025 pentru Asociația de Dezvoltare Intercomunitară „ GAZ VALEA MURESULUI”",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203667",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-19-2025",
+   "path": "local/hunedoara/gurasada/2025/19",
+   "short": "HCL Gurasada nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 19/2025 privind alegerea dintre membrii Consiliului local al comunei Gurasada a unui preşedinte de şedinţă pentru 3 luni, respectiv perioada mai - iulie 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/203668",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/203668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-2-2025",
+   "path": "local/hunedoara/gurasada/2025/2",
+   "short": "HCL Gurasada nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 2/2025 privind aprobarea organigramei a statului de funcţii și a numărului de personal pentru aparatului de specialitate al Primarului comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/192605",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/192605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-20-2025",
+   "path": "local/hunedoara/gurasada/2025/20",
+   "short": "HCL Gurasada nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 20/2025 privind solicitarea trecerii unor imobile din domeniul public al statului și din administrarea Direcției pentru Agricultură Județeană Hunedoara, în domeniul public al Comunei Gurasada şi în administrarea Consiliului Local al Comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/205666",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/205666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-21-2025",
+   "path": "local/hunedoara/gurasada/2025/21",
+   "short": "HCL Gurasada nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 21/2025 privind modificarea HCL nr.3/2024 pentru aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri , străzi și ulițe de interes local în comuna Gurasada, Judeţul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/208066",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/208066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-22-2025",
+   "path": "local/hunedoara/gurasada/2025/22",
+   "short": "HCL Gurasada nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 22/2025 privind aprobarea contului de încheiere a exerciţiului bugetar pe anul 2024",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/212638",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/212638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-23-2025",
+   "path": "local/hunedoara/gurasada/2025/23",
+   "short": "HCL Gurasada nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 23/2025 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență de tip V1, în subordinea Consiliului local al comunei Gurasada, județul Hunedoara",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/212639",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/212639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-24-2025",
+   "path": "local/hunedoara/gurasada/2025/24",
+   "short": "HCL Gurasada nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 24/2025 privind aprobarea rectificării bugetului comunei Gurasada pe anul 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/212640",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/212640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-25-2025",
+   "path": "local/hunedoara/gurasada/2025/25",
+   "short": "HCL Gurasada nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 25/2025 privind modificarea HCL nr.10/2025 pentru aprobarea valorificării masei lemnoase în volum total de 81,58 mc, din fondul forestier proprietatea publică a comunei Gurasada şi a preţului de pornire la licitaţie/negociere pentru masă lemnoasă pe picior, prin licitaţie publică organizată de administratorul fondului forestier, pentru anul de producție 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/215033",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/215033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-26-2025",
+   "path": "local/hunedoara/gurasada/2025/26",
+   "short": "HCL Gurasada nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 26/2025 privind aprobarea regulilor şi a măsurilor specifice de apărare împotriva incendiilor, corelate cu nivelul şi natura riscurilor locale și organizarea apărării împotriva incendiilor la nivelul UAT Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/215034",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/215034",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--gurasada-27-2025",
    "path": "local/hunedoara/gurasada/2025/27",
    "short": "HCL Gurasada nr. 27/2025",
@@ -43,6 +328,21 @@
      "from": "2025-08-14",
      "units": 1,
      "source_url": "https://emol.ro/gurasada-hd/registru-hcl/217769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-3-2025",
+   "path": "local/hunedoara/gurasada/2025/3",
+   "short": "HCL Gurasada nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 3/2025 privind aprobarea Programul de acțiune comunitară destinate prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul comunei Gurasada aferent anului 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/192606",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/192606",
      "sha256": null
     }
    ]
@@ -198,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--gurasada-4-2025",
+   "path": "local/hunedoara/gurasada/2025/4",
+   "short": "HCL Gurasada nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 4/2025 privind alegerea dintre membrii Consiliului local al comunei Gurasada a unui preşedinte de şedinţă pentru 3 luni, respectiv perioada februarie - aprilie 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/192607",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/192607",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--gurasada-40-2025",
    "path": "local/hunedoara/gurasada/2025/40",
    "short": "HCL Gurasada nr. 40/2025",
@@ -298,6 +613,81 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/gurasada-hd/registru-hcl/246919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-5-2025",
+   "path": "local/hunedoara/gurasada/2025/5",
+   "short": "HCL Gurasada nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 5/2025 privind modificarea Hotărârii Consiliului Local al comunei Gurasada nr.30/2023 privind aprobarea proiectului „Transport verde - Microbuze electrice pentru elevi în județul Hunedoara”, în vederea depunerii acestuia în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență – Componenta C15: Educație",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/193256",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/193256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-6-2025",
+   "path": "local/hunedoara/gurasada/2025/6",
+   "short": "HCL Gurasada nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 6/2025 privind aprobarea valorificării masei lemnoase în volum total de 70,36 mc, din fondul forestier proprietatea publică a comunei Gurasada şi a preţului de pornire la licitaţie/negociere pentru masă lemnoasă pe picior, prin licitaţie publică organizată de administratorul fondului forestier, pentru anul de producție 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/193257",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/193257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-7-2025",
+   "path": "local/hunedoara/gurasada/2025/7",
+   "short": "HCL Gurasada nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 7/2025 privind aprobarea Strategiei de Dezvoltare a serviciilor sociale acordate la nivelul comunei Gurasada, pentru perioada 2025 -2034",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/200649",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/200649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-8-2025",
+   "path": "local/hunedoara/gurasada/2025/8",
+   "short": "HCL Gurasada nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 8/2025 privind aprobarea planului anual de acţiuni privind serviciile sociale finanţate din bugetul comunei Gurasada, pentru anul 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/200650",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/200650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-9-2025",
+   "path": "local/hunedoara/gurasada/2025/9",
+   "short": "HCL Gurasada nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 9/2025 privind aprobarea bugetului comunei Gurasada pe anul 2025",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/200651",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/200651",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/ialomita/balaciu/2025",
  "acts": [
   {
+   "slug": "hcl-ialomita--balaciu-1-2025",
+   "path": "local/ialomita/balaciu/2025/1",
+   "short": "HCL Balaciu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 1/2025 pentru aprobarea Regulamentului privind procedura de înregistrarea, evidenţa şi radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/188678",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/188678",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-45-2025",
    "path": "local/ialomita/balaciu/2025/45",
    "short": "HCL Balaciu nr. 45/2025",

@@ -3,6 +3,72 @@
 "shard": "local/ialomita/scanteia/2026",
 "acts": [
 {
+"slug": "hcl-ialomita--scanteia-1-2026",
+"path": "local/ialomita/scanteia/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 1/2026 privind aprobarea contului de execuţie bugetară pe cele două secțiuni la 31 Decembrie 2025",
+"short": "HCL Scânteia nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/254868",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-2-2026",
+"path": "local/ialomita/scanteia/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 2/2026 privind aprobarea contului anual de execuție a bugetului local și bugetului împrumuturilor interne al UAT comuna Scânteia pe anul 2025",
+"short": "HCL Scânteia nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/254869",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-3-2026",
+"path": "local/ialomita/scanteia/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 3/2026 privind aprobarea utlizării excedentului anual al bugetului local si venituri proprii al comunei Scânteia, rezultat la încheierea exerciţiului bugetar al anului 2025",
+"short": "HCL Scânteia nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/287339",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ialomita--scanteia-11-2026",
 "path": "local/ialomita/scanteia/2026/11",
 "kind": "local",

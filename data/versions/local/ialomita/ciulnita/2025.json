@@ -3,6 +3,36 @@
  "shard": "local/ialomita/ciulnita/2025",
  "acts": [
   {
+   "slug": "hcl-ialomita--ciulnita-1-2025",
+   "path": "local/ialomita/ciulnita/2025/1",
+   "short": "HCL Ciulnița nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 1/2025 privind validarea Dispoziției nr.2/2025 privind aprobarea acoperirii definitive a deficitului sectiunii de dezvoltare, din excedentul bugetului local al anilor precedenți, rezultat la încheierea exercițiului bugetar aferent anului 2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207622",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-10-2025",
+   "path": "local/ialomita/ciulnita/2025/10",
+   "short": "HCL Ciulnița nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 10/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207631",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207631",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--ciulnita-100-2025",
    "path": "local/ialomita/ciulnita/2025/100",
    "short": "HCL Ciulnița nr. 100/2025",
@@ -298,6 +328,1161 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/ciulnita-il/registru-hcl/247979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-12-2025",
+   "path": "local/ialomita/ciulnita/2025/12",
+   "short": "HCL Ciulnița nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 12/2025 privind modificarea și completarea Hotărârii Consiliului local nr. 130/16.12.2024 privind înființarea Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208912",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-13-2025",
+   "path": "local/ialomita/ciulnita/2025/13",
+   "short": "HCL Ciulnița nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 13/2025 privind modificarea și completarea Hotărârii Consiliului local nr.117/25.11.2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208913",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-14-2025",
+   "path": "local/ialomita/ciulnita/2025/14",
+   "short": "HCL Ciulnița nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 14/2025 privind aprobarea Raportului de evaluare a capacităţii de apărare împotriva incendiilor pe anul 2024- semestrul II",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208914",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-15-2025",
+   "path": "local/ialomita/ciulnita/2025/15",
+   "short": "HCL Ciulnița nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 15/2025 privind aprobarea Calendarului principalelor manifestări cultural-artistice pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208915",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-16-2025",
+   "path": "local/ialomita/ciulnita/2025/16",
+   "short": "HCL Ciulnița nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 16/2025 privind aprobarea Programului anual al achizitiilor publice pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208916",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-17-2025",
+   "path": "local/ialomita/ciulnita/2025/17",
+   "short": "HCL Ciulnița nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 17/2025 privind modificarea și completarea Hotărârii Consiliului local nr. 31/05.03.2024 privind aprobarea implementării proiectului „Construire capacitate de producție a energiei electrice din surse regenerabile pentru autoconsum în Comuna Ciulnița, Județul Ialomița”",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208917",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-19-2025",
+   "path": "local/ialomita/ciulnita/2025/19",
+   "short": "HCL Ciulnița nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 19/2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208919",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-2-2025",
+   "path": "local/ialomita/ciulnita/2025/2",
+   "short": "HCL Ciulnița nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 2/2025 privind utilizarea excedentului bugetului local al comunei Ciulniţa- sursa A, existent la data de 31.12.2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207623",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-20-2025",
+   "path": "local/ialomita/ciulnita/2025/20",
+   "short": "HCL Ciulnița nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 20/2025 privind stabilirea salariilor de bază pentru personalul din cadrul Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208920",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-21-2025",
+   "path": "local/ialomita/ciulnita/2025/21",
+   "short": "HCL Ciulnița nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 21/2025 privind aprobarea indicatorilor economici și a cofinanțării investiției, privind actualizarea Planului Urbanistic General al comunei Ciulnița (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) al comunei Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208952",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-22-2025",
+   "path": "local/ialomita/ciulnita/2025/22",
+   "short": "HCL Ciulnița nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 22/2025 privind actualizarea Devizului General si actualizarea indicatorilor tehnico economici pentru obiectivul de investitii „EXTINDERE RETEA DE CANALIZARE SI REALIZARE RACORDURI MULTIPLE LA SISTEMUL DE CANALIZARE DIN COMUNA CIULNITA, JUDETUL IALOMITA”",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208953",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-23-2025",
+   "path": "local/ialomita/ciulnita/2025/23",
+   "short": "HCL Ciulnița nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 23/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208954",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-24-2025",
+   "path": "local/ialomita/ciulnita/2025/24",
+   "short": "HCL Ciulnița nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 24/2025 privind aprobarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208959",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-25-2025",
+   "path": "local/ialomita/ciulnita/2025/25",
+   "short": "HCL Ciulnița nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 25/2025 privind actualizarea Planului de analiza si acoperire a riscurilor al comunei Ciulnița, județul Ialomița, pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208960",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-27-2025",
+   "path": "local/ialomita/ciulnita/2025/27",
+   "short": "HCL Ciulnița nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 27/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208962",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-28-2025",
+   "path": "local/ialomita/ciulnita/2025/28",
+   "short": "HCL Ciulnița nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 28/2025 privind aprobarea contului de execuție al bugetului local pentru trimestrul I al anului 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208963",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-29-2025",
+   "path": "local/ialomita/ciulnita/2025/29",
+   "short": "HCL Ciulnița nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 29/2025 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208964",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-30-2025",
+   "path": "local/ialomita/ciulnita/2025/30",
+   "short": "HCL Ciulnița nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 30/2025 privind modificarea Hotărârii Consiliului local nr.17/2025 privind aprobarea Programului anual al achizitiilor publice pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208965",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-33-2025",
+   "path": "local/ialomita/ciulnita/2025/33",
+   "short": "HCL Ciulnița nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 33/2025 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208968",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-37-2025",
+   "path": "local/ialomita/ciulnita/2025/37",
+   "short": "HCL Ciulnița nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 37/2025 privind aprobarea Ghidului solicitantului privind regimul finanțărilor nerambursabile, alocate din bugetul comunei Ciulnița, pentru activități nonprofit de interes general",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208972",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-38-2025",
+   "path": "local/ialomita/ciulnita/2025/38",
+   "short": "HCL Ciulnița nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 38/2025 privind modificarea organigramei si statului de funcții al aparatului de specialitate al primarului comunei Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208973",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-39-2025",
+   "path": "local/ialomita/ciulnita/2025/39",
+   "short": "HCL Ciulnița nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 39/2025 privind alocarea unei sume din bugetul de venituri și cheltuieli al comunei Ciulnița, pentru finanțarea Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208974",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-40-2025",
+   "path": "local/ialomita/ciulnita/2025/40",
+   "short": "HCL Ciulnița nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 40/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208975",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-41-2025",
+   "path": "local/ialomita/ciulnita/2025/41",
+   "short": "HCL Ciulnița nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 41/2025 privind aprobarea tarifului de alimentare cu energie electrică la stațiile de reîncărcare a vehiculelor electrice instalate pe raza comunei Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208976",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-42-2025",
+   "path": "local/ialomita/ciulnita/2025/42",
+   "short": "HCL Ciulnița nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 42/2025 privind aprobarea proiectului „Digitalizarea administratiei publice locale in beneficiul cetatenilor si al Primariei Comunei Ciulnita”",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208977",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-43-2025",
+   "path": "local/ialomita/ciulnita/2025/43",
+   "short": "HCL Ciulnița nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 43/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208990",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-44-2025",
+   "path": "local/ialomita/ciulnita/2025/44",
+   "short": "HCL Ciulnița nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 44/2025 privind revocarea Hotărârii Consiliului local nr. 53/2024 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Ciulnița., judeţul Ialomița, începând cu luna iunie 2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208991",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-45-2025",
+   "path": "local/ialomita/ciulnita/2025/45",
+   "short": "HCL Ciulnița nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 45/2025 privind aprobarea salariilor de bază pentru personalului din cadrul aparatului de specialitate al primarului comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208992",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-46-2025",
+   "path": "local/ialomita/ciulnita/2025/46",
+   "short": "HCL Ciulnița nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 46/2025 privind aprobarea acordării normei de hrană pentru personalul din cadrul Poliției Locale",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208993",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-47-2025",
+   "path": "local/ialomita/ciulnita/2025/47",
+   "short": "HCL Ciulnița nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 47/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/208994",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/208994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-48-2025",
+   "path": "local/ialomita/ciulnita/2025/48",
+   "short": "HCL Ciulnița nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 48/2025 privind completarea Hotărârii Consiliului local nr. 130/ 2024 privind înființarea Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/209007",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/209007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-49-2025",
+   "path": "local/ialomita/ciulnita/2025/49",
+   "short": "HCL Ciulnița nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 49/2025 privind aprobarea aderării Comunei Ciulnița, județul Ialomița la Asociația LEADER IALOMIȚA EST",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234263",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-50-2025",
+   "path": "local/ialomita/ciulnita/2025/50",
+   "short": "HCL Ciulnița nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 50/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234264",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-51-2025",
+   "path": "local/ialomita/ciulnita/2025/51",
+   "short": "HCL Ciulnița nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 51/2025 privind stabilirea modalității gestiunii activității de tratare mecano-biologică a deșeurilor reziduale în aria de competență a Asociației de Dezvoltare Intercomunitară ECOO 2009 în județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234265",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-54-2025",
+   "path": "local/ialomita/ciulnita/2025/54",
+   "short": "HCL Ciulnița nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 54/2025 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234269",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-55-2025",
+   "path": "local/ialomita/ciulnita/2025/55",
+   "short": "HCL Ciulnița nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 55/2025 privind modificarea Hotărârii Consiliului local nr.43/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234270",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-56-2025",
+   "path": "local/ialomita/ciulnita/2025/56",
+   "short": "HCL Ciulnița nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 56/2025 privind aprobarea înființării de activitați finanțate integral din venituri proprii sursa E de finanțare a Școlii Gimnaziale Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234271",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-59-2025",
+   "path": "local/ialomita/ciulnita/2025/59",
+   "short": "HCL Ciulnița nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 59/2025 privind aprobarea contului de execuție al bugetului local pentru trimestrul II al anului 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234275",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-6-2025",
+   "path": "local/ialomita/ciulnita/2025/6",
+   "short": "HCL Ciulnița nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 6/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii – actualizati la finalizarea lucrarilor, aprobarea Devizului General Actualizat, aprobarea Devizului General defalcat pe surse de finantare actualizat a obiectivului de investitii ” MODERNIZARE SISTEM CENTRALIZAT DE ALIMENTARE CU APA SI EXTINDERE CANALIZARE, COMUNA CIULNITA, JUDETUL IALOMITA ”",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207627",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-60-2025",
+   "path": "local/ialomita/ciulnita/2025/60",
+   "short": "HCL Ciulnița nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 60/2025 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234276",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-61-2025",
+   "path": "local/ialomita/ciulnita/2025/61",
+   "short": "HCL Ciulnița nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 61/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234277",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-62-2025",
+   "path": "local/ialomita/ciulnita/2025/62",
+   "short": "HCL Ciulnița nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 62/2025 privind alocarea unei sume din bugetul de venituri și cheltuieli al comunei Ciulnița, pentru finanțarea Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234278",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-63-2025",
+   "path": "local/ialomita/ciulnita/2025/63",
+   "short": "HCL Ciulnița nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 63/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234279",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-64-2025",
+   "path": "local/ialomita/ciulnita/2025/64",
+   "short": "HCL Ciulnița nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 64/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234280",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-65-2025",
+   "path": "local/ialomita/ciulnita/2025/65",
+   "short": "HCL Ciulnița nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 65/2025 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234281",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-66-2025",
+   "path": "local/ialomita/ciulnita/2025/66",
+   "short": "HCL Ciulnița nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 66/2025 privind dezmembrarea terenului în suprafata de 1221 mp, din domeniul privat al comunei Ciulnita, situat în sat Ciulnița, com.Ciulnița, str.Nufărului, nr.8, jud.Ialomița,înscris în cartea funciara nr. 20394 a comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234282",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-67-2025",
+   "path": "local/ialomita/ciulnita/2025/67",
+   "short": "HCL Ciulnița nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 67/2025 privind aprobarea Raportului de evaluare a capacităţii de apărare împotriva incendiilor pe anul 2025- semestrul I",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234283",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-68-2025",
+   "path": "local/ialomita/ciulnita/2025/68",
+   "short": "HCL Ciulnița nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 68/2025 privind modificarea Hotărârii Consiliului local nr.45/2025 privind aprobarea salariilor de bază pentru personalul din cadrul aparatului de specialitate al primarului comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234284",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-69-2025",
+   "path": "local/ialomita/ciulnita/2025/69",
+   "short": "HCL Ciulnița nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 69/2025 privind dezmembrarea terenului în suprafata de 29.216 mp avand numarul cadastral 26728, situat în tarlaua 415/1/1 parcela 1, sat Ciulnița, com.ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234285",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-7-2025",
+   "path": "local/ialomita/ciulnita/2025/7",
+   "short": "HCL Ciulnița nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 7/2025 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207628",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-70-2025",
+   "path": "local/ialomita/ciulnita/2025/70",
+   "short": "HCL Ciulnița nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 70/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234286",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-71-2025",
+   "path": "local/ialomita/ciulnita/2025/71",
+   "short": "HCL Ciulnița nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 71/2025 privind aprobarea Programului anual pentru acordarea de finanțare nerambursabilă din bugetul local al comunei Ciulnița, pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234287",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-72-2025",
+   "path": "local/ialomita/ciulnita/2025/72",
+   "short": "HCL Ciulnița nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 72/2025 privind modificarea Hotărârii Consiliului local nr.114/11.11.2024privind organizarea Comisiilor de specialitate ale Consiliului local al comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234290",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-73-2025",
+   "path": "local/ialomita/ciulnita/2025/73",
+   "short": "HCL Ciulnița nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 73/2025 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234291",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-74-2025",
+   "path": "local/ialomita/ciulnita/2025/74",
+   "short": "HCL Ciulnița nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 74/2025 privind acordarea unui mandat special reprezentantului legal al comunei Ciulnița, jud.Ialomița, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOO 2009 să voteze favorabil la propunerea de aprobare a documentației pentru delegarea gestiunii activităților de transfer și eliminare prin depozitare a deșeurilor reziduale tratate și a reziduurilor din sortarea deșeurilor reciclabile și tratarea aerobă a deșeurilor biodegradabile din Județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234292",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-77-2025",
+   "path": "local/ialomita/ciulnita/2025/77",
+   "short": "HCL Ciulnița nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 77/2025 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234295",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-78-2025",
+   "path": "local/ialomita/ciulnita/2025/78",
+   "short": "HCL Ciulnița nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 78/2025 privind aprobarea Regulamentului de organizare și funcționare al Compartimentului de asistență socială din cadrul aparatului de specialitate al primarului comunei Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234296",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-79-2025",
+   "path": "local/ialomita/ciulnita/2025/79",
+   "short": "HCL Ciulnița nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 79/2025 privind modificarea Hotărârii Consiliului local nr.68/2025 privind modificarea Hotărârii Consiliului local nr.45/2025 privind aprobarea salariilor de bază pentru personalul din cadrul aparatului de specialitate al primarului comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234297",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-8-2025",
+   "path": "local/ialomita/ciulnita/2025/8",
+   "short": "HCL Ciulnița nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 8/2025 privind aprobarea organigramei și statului de funcții al Serviciului Public Local de Administrarea Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207629",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-80-2025",
+   "path": "local/ialomita/ciulnita/2025/80",
+   "short": "HCL Ciulnița nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 80/2025 privind acordul Comunei Ciulnița pentru implementarea investitiei din cadrul Programului Cheie I:„Surse regenerabile de energie și stocarea energiei- Sprijinirea investițiilor în noi capacități de producer a energiei electrice produsă din surse regenerabile pentru autoconsum” de către operatorul regional SC Urban SA Slobozia",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234298",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-81-2025",
+   "path": "local/ialomita/ciulnita/2025/81",
+   "short": "HCL Ciulnița nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 81/2025 privind acordarea dreptului de uz si servitute cu titlu gratuit pe toată durata existenței capacităților energetice, a suprafeței de 75 mp teren intravilan, în favoarea Rețele Electrice România SA",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234299",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-82-2025",
+   "path": "local/ialomita/ciulnita/2025/82",
+   "short": "HCL Ciulnița nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 82/2025 privind aprobarea Planului de dezvoltare a serviciului social „Centrul de consiliere și sprijin pentru părinți și copii – Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234300",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-83-2025",
+   "path": "local/ialomita/ciulnita/2025/83",
+   "short": "HCL Ciulnița nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 83/2025 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234301",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-84-2025",
+   "path": "local/ialomita/ciulnita/2025/84",
+   "short": "HCL Ciulnița nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 84/2025 privind aprobarea introducerii în intravilan a suprafeței de 60,2422 ha, pentru actualizarea Planului Urbanistic General și elaborarea Regulamentului Local de Urbanism al comunei Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234310",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-85-2025",
+   "path": "local/ialomita/ciulnita/2025/85",
+   "short": "HCL Ciulnița nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 85/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234311",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-86-2025",
+   "path": "local/ialomita/ciulnita/2025/86",
+   "short": "HCL Ciulnița nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 86/2025 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234312",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-88-2025",
+   "path": "local/ialomita/ciulnita/2025/88",
+   "short": "HCL Ciulnița nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 88/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234317",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-89-2025",
+   "path": "local/ialomita/ciulnita/2025/89",
+   "short": "HCL Ciulnița nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 89/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234318",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-9-2025",
+   "path": "local/ialomita/ciulnita/2025/9",
+   "short": "HCL Ciulnița nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 9/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/207630",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/207630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-90-2025",
+   "path": "local/ialomita/ciulnita/2025/90",
+   "short": "HCL Ciulnița nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 90/2025 privind aprobarea contului de execuție al bugetului local pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234319",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-91-2025",
+   "path": "local/ialomita/ciulnita/2025/91",
+   "short": "HCL Ciulnița nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 91/2025 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234320",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-94-2025",
+   "path": "local/ialomita/ciulnita/2025/94",
+   "short": "HCL Ciulnița nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 94/2025 privind retragerea dreptului de folosință asupra terenului acordat pentru construirea unei locuințe în temeiul Legii nr.15/2003",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234323",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-95-2025",
+   "path": "local/ialomita/ciulnita/2025/95",
+   "short": "HCL Ciulnița nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 95/2025 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234324",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-96-2025",
+   "path": "local/ialomita/ciulnita/2025/96",
+   "short": "HCL Ciulnița nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 96/2025 privind aprobarea impozitului pentru autovehicule transport de marfă, combinaţii de autovehicule și autovehicule articulate sau tren rutier, de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone, pentru anul 2026",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234325",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-97-2025",
+   "path": "local/ialomita/ciulnita/2025/97",
+   "short": "HCL Ciulnița nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 97/2025 privind actualizarea devizului general si indicatorii tehnico economici pentru dobiectivul de investitii „Extindere rețea de canalizare și realizare racorduri multiple la sistemul de canalizare din comuna Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234326",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-98-2025",
+   "path": "local/ialomita/ciulnita/2025/98",
+   "short": "HCL Ciulnița nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 98/2025",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234327",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-99-2025",
+   "path": "local/ialomita/ciulnita/2025/99",
+   "short": "HCL Ciulnița nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 99/2025 privind actualizarea devizului general si indicatorii tehnico-economici pentru obiectivul de investitii „Stații de reîncărcare pentru vehicule electrice în comuna Ciulnița, județul Ialomița”",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/234328",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/234328",
      "sha256": null
     }
    ]

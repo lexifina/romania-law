@@ -3,6 +3,156 @@
  "shard": "local/hunedoara/vorta/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--vorta-11-2025",
+   "path": "local/hunedoara/vorta/2025/11",
+   "short": "HCL Vorța nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 11/2025 privind aprobarea plății cotizației anuale, datorată de comuna Vorța, județul Hunedoara la Asociația de Dezvoltare Intercomunitară „Sistemul Integrat de Gestionare a Deșeurilor, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/201752",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/201752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-14-2025",
+   "path": "local/hunedoara/vorta/2025/14",
+   "short": "HCL Vorța nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 14/2025 privind aprobarea plății cotizației anuale, datorata de comuna Vorța, județul Hunedoara la Asociația de Dezvoltare Intercomunitară „Serviciul județean pentru ocrotirea anumalelor fără stăpân”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/201759",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/201759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-16-2025",
+   "path": "local/hunedoara/vorta/2025/16",
+   "short": "HCL Vorța nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 16/2025 privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într-o anumită sumă de lei sau care sunt stabilite pe baza unei anumite sume în lei precum și actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/229501",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/229501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-17-2025",
+   "path": "local/hunedoara/vorta/2025/17",
+   "short": "HCL Vorța nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 17/2025 privind aprobarea acordului de participare a comunei Vorța, județul Hunedoara, în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/229502",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/229502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-18-2025",
+   "path": "local/hunedoara/vorta/2025/18",
+   "short": "HCL Vorța nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 18/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2025 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/229503",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/229503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-25-2025",
+   "path": "local/hunedoara/vorta/2025/25",
+   "short": "HCL Vorța nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 25/2025 privind aprobarea organizării unor evenimente culturale la nivelul comunei Vorța și participarea Consiliului local Vorța la finanțarea acestor activități",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/229555",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/229555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-28-2025",
+   "path": "local/hunedoara/vorta/2025/28",
+   "short": "HCL Vorța nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 28/2025 privind aprobarea documentației de alipire a două imobile-terenuri, situate în comuna Vorța, localitatea Vorța, aparținând domeniului public al comunei Vorța, intabulate în Cartea funciară nr. 61359 Vorța și Cartea funciară nr. 62360 Vorța",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/235465",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/235465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-29-2025",
+   "path": "local/hunedoara/vorta/2025/29",
+   "short": "HCL Vorța nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 29/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 metru pătrat pe domeniul public al comunei Vorța, județul Hunedoara, satul Valea Poienii, în vederea exploatării pe o durată de 10 ani, cu titlul gratuit pentru operarea, întreținerea și exploatarea unui Punct Local de Acces în Banda Larga (PLABL) pentru echipamente și alimentare cu energie electrică în cadrul Proiectului „INVESTIȚII INFRASTRUCTURA BROADBAND ÎN JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/235466",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/235466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-30-2025",
+   "path": "local/hunedoara/vorta/2025/30",
+   "short": "HCL Vorța nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 30/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 metru pătrat pe domeniul public al comunei Vorța, județul Hunedoara, satul Coaja, în vederea exploatării pe o durată de 10 ani, cu titlul gratuit pentru operarea, întreținerea și exploatarea unui Punct Local de Acces în Banda Larga (PLABL) pentru echipamente și alimentare cu energie electrică în cadrul Proiectului „ÎNVESTIȚII ÎN INFRASTRUCTURĂ BROADBAND ÎN JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/235495",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/235495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-31-2025",
+   "path": "local/hunedoara/vorta/2025/31",
+   "short": "HCL Vorța nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 31/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 metru pătrat pe domeniul public al comunei Vorța, județul Hunedoara, satul Certeju de Jos, în vederea exploatării pe o durată de 10 ani, cu titlul gratuit pentru operarea, întreținerea și exploatarea unui Punct Local de Acces în Banda Larga (PLABL) pentru echipamente și alimentare cu energie electrică în cadrul Proiectului „ÎNVESTIȚII ÎN INFRASTRUCTURĂ BROADBAND ÎN JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/235496",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/235496",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vorta-32-2025",
    "path": "local/hunedoara/vorta/2025/32",
    "short": "HCL Vorța nr. 32/2025",

@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-salaj--simleu-silvaniei-105-2018",
+"path": "local/salaj/simleu-silvaniei/2018/105",
+"kind": "local",
+"year": "2018",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 105/2018 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 august 2018; Având în vedere Expunerea de motive nr. 11841/2018 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr. 11842/2018 al Arhitectului-șef al orașului Șiml",
+"short": "HCL Șimleu Silvaniei nr. 105/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/page/32/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-salaj--simleu-silvaniei-139-2018",
 "path": "local/salaj/simleu-silvaniei/2018/139",
 "kind": "local",

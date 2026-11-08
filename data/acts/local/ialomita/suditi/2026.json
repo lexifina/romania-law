@@ -3,6 +3,138 @@
 "shard": "local/ialomita/suditi/2026",
 "acts": [
 {
+"slug": "hcl-ialomita--suditi-24-2026",
+"path": "local/ialomita/suditi/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 24/2026 privind aprobarea contului anual de execuţie a bugetului local pe anul 2025 al comunei Sudiți",
+"short": "HCL Sudiți nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/suditi-il/registru-hcl/270673",
+"council": "ialomita/suditi",
+"council_name": "Consiliul Local al Comunei Sudiți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--suditi-25-2026",
+"path": "local/ialomita/suditi/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 25/2026 privind alegerea președintelui de ședință pentru lunile iunie-august 2026",
+"short": "HCL Sudiți nr. 25/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/suditi-il/registru-hcl/273370",
+"council": "ialomita/suditi",
+"council_name": "Consiliul Local al Comunei Sudiți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--suditi-26-2026",
+"path": "local/ialomita/suditi/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 26/2026 privind aprobarea rectificării bugetului local al comunei Sudiți pe trimestrul II - 2026",
+"short": "HCL Sudiți nr. 26/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/suditi-il/registru-hcl/273371",
+"council": "ialomita/suditi",
+"council_name": "Consiliul Local al Comunei Sudiți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--suditi-27-2026",
+"path": "local/ialomita/suditi/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 27/2026 privind corectarea/modificarea poziției nr. 56 din Anexa nr.1 la Hotărârea Consiliului Local nr.38 din 29.04.2025 privind ultima actualizare a inventarului bunurilor ce constituie domeniul privat al comunei Sudiți",
+"short": "HCL Sudiți nr. 27/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/suditi-il/registru-hcl/277379",
+"council": "ialomita/suditi",
+"council_name": "Consiliul Local al Comunei Sudiți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--suditi-29-2026",
+"path": "local/ialomita/suditi/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 29/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale la nivelul comunei Sudiți, în vederea depunerii documentației de acreditare a primăriei ca și furnizor de servicii sociale",
+"short": "HCL Sudiți nr. 29/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/suditi-il/registru-hcl/277381",
+"council": "ialomita/suditi",
+"council_name": "Consiliul Local al Comunei Sudiți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--suditi-30-2026",
+"path": "local/ialomita/suditi/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 30/2026 privind analiza stadiului de înscriere a datelor în Registrul agricol al comunei Sudiți, jud. Ialomița pentru trimestrul IV al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Sudiți nr. 30/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/suditi-il/registru-hcl/277382",
+"council": "ialomita/suditi",
+"council_name": "Consiliul Local al Comunei Sudiți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ialomita--suditi-32-2026",
 "path": "local/ialomita/suditi/2026/32",
 "kind": "local",

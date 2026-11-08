@@ -1867,6 +1867,50 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-376-2022",
+"path": "local/hunedoara/deva/2022/376",
+"kind": "local",
+"year": "2022",
+"number": "376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 376/2022 privind aprobarea documentaţiei Plan Urbanistic Zonal “Locuință familială, împrejmuire și racorduri la utilități” generat de imobilul situat în extravilanul municipiului Deva, strada Zăvoi, nr.56",
+"short": "HCL Deva nr. 376/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P200",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-391-2022",
+"path": "local/hunedoara/deva/2022/391",
+"kind": "local",
+"year": "2022",
+"number": "391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 391/2022 privind modificarea Hotărârii Consiliului local al municipiului Deva nr.188/2021 privind numirea comisiei de evaluare a oportunității achiziționării și/sau închirierii de imobile, precum și aprobarea Regulamentului de funcționare al comisiei de evaluare a oportunității și/sa",
+"short": "HCL Deva nr. 391/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P180",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-394-2022",
 "path": "local/hunedoara/deva/2022/394",
 "kind": "local",

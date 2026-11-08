@@ -3,6 +3,186 @@
  "shard": "local/hunedoara/luncoiu-de-jos/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-1-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/1",
+   "short": "HCL Luncoiu de Jos nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 1/2021 Privind acoperirea definitive din excedentul bugetului local al anului 2019 a deficitului secțiunii de dezvoltare pentru 2020",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35436",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-10-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/10",
+   "short": "HCL Luncoiu de Jos nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 10/2021 Privind aprobarea lucrărilor de decolmatare și amenajare pe cursul de apă a Văii Luncoiului de Jos și Valea Lungă în colaborare cu Administrația Bazinală de apă Crișuri",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35445",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-11-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/11",
+   "short": "HCL Luncoiu de Jos nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 11/2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35446",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-12-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/12",
+   "short": "HCL Luncoiu de Jos nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 12/2021 Privind actualizarea Planului de analiză și acoperire a riscurilor al comunei Luncoiu de Jos",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35447",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-13-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/13",
+   "short": "HCL Luncoiu de Jos nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 13/2021 Privind solicitare cu titlu gratuit a unor drumuri forestiere și a terenurilor acestora din domeniul public al Statului și administrarea Regiei Autonome a Pădurilor - Rosilva în domeniul public al comunei Luncoiu de Jos și administrarea Consiliului Local al comunei Luncoiu de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35448",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-14-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/14",
+   "short": "HCL Luncoiu de Jos nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 14/2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35449",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-15-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/15",
+   "short": "HCL Luncoiu de Jos nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 15/2021 Privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul IV al anului 2020 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35450",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-16-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/16",
+   "short": "HCL Luncoiu de Jos nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 16/2021 Privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Luncoiu de Jos pentru anul 2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35451",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-17-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/17",
+   "short": "HCL Luncoiu de Jos nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 17/2021 Privind aprobarea statului de funcții a aparatului de specialitate al primarului comunei Luncoiu de Jos și a Serviciului Public de Administrare a Domeniului Public și Privat aflat în subordinea Consiliului Local",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35452",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-18-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/18",
+   "short": "HCL Luncoiu de Jos nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 18/2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35453",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-19-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/19",
+   "short": "HCL Luncoiu de Jos nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 19/2021 Privind aprobarea contribuției la 3 lei/locuitor al comunei Luncoiu de Jos la Asociația “Salvital” Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35454",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-2-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/2",
+   "short": "HCL Luncoiu de Jos nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 2/2021 Privind aprobarea bugetului de venituri și cheltuieli pentru anul 2021 conform contractului încheiat între Ocolul Silvic Brad și Primăria comunei Luncoiu de Jos",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35437",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-24-2021",
    "path": "local/hunedoara/luncoiu-de-jos/2021/24",
    "short": "HCL Luncoiu de Jos nr. 24/2021",
@@ -88,6 +268,21 @@
      "from": "2021-06-29",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-3-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/3",
+   "short": "HCL Luncoiu de Jos nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 3/2021 Privind aprobarea prețurilor de referință pentru anul de producție 2021, aprobarea modului valorificare a masei lemnoase pentru anul 2021 precum și prețul de licitație pentru masa lemnoasă pe picior",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35438",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35438",
      "sha256": null
     }
    ]
@@ -243,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-4-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/4",
+   "short": "HCL Luncoiu de Jos nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 4/2021 Privind menținerea organizării rețelei școlare de pe raza comunei Luncoiu de Jos pentru anul 2021-2022",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35439",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35439",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-40-2021",
    "path": "local/hunedoara/luncoiu-de-jos/2021/40",
    "short": "HCL Luncoiu de Jos nr. 40/2021",
@@ -288,6 +498,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-5-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/5",
+   "short": "HCL Luncoiu de Jos nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 5/2021 Privind aprobarea Nomenclatorului stradal al comunei Luncoiu de Jos și a satelor componente",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35440",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-6-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/6",
+   "short": "HCL Luncoiu de Jos nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 6/2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35441",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35441",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-67-2021",
    "path": "local/hunedoara/luncoiu-de-jos/2021/67",
    "short": "HCL Luncoiu de Jos nr. 67/2021",
@@ -298,6 +538,51 @@
      "from": "2021-12-30",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/46159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-7-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/7",
+   "short": "HCL Luncoiu de Jos nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 7/2021 Privind aprobarea planului de acțiuni sau lucrări de interes local pe anul 2021 pentru repartizarea orelor de muncă prestate lunar de către persoanele majore apte de muncă din familia beneficiară de ajutor social",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35442",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-8-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/8",
+   "short": "HCL Luncoiu de Jos nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 8/2021 Privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35443",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-9-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/9",
+   "short": "HCL Luncoiu de Jos nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 9/2021 Privind aprobarea statului de funcții și organigramei aparatului de specialitate al primarului comunei Luncoiu de Jos și a Serviciului de Administrare a Domeniului Public și Privat aflat în subordinea Consiliului Local",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35444",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35444",
      "sha256": null
     }
    ]

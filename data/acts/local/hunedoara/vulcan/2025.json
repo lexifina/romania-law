@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/vulcan/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--vulcan-54-2025",
+"path": "local/hunedoara/vulcan/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 54/2025 PRIVIND INDEXAREA IMPOZITELOR SI TAXELOR LOCALE IN ANUL 2026.pdf",
+"short": "HCL Vulcan nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2026-0001560a?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

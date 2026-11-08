@@ -3,6 +3,36 @@
  "shard": "local/hunedoara/vorta/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--vorta-18-2023",
+   "path": "local/hunedoara/vorta/2023/18",
+   "short": "HCL Vorța nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 18/2023 privind aprobarea Planului Tarifar, Studiului de oportunitate pentru delegarea activităților serviciului de salubrizare în cadrul SMID Județul Hunedoara și a anexelor, Strategiei de contractare, Regulamentului Serviciului de salubrizare privind deșeurile menajere și similare din Județul Hunedoara și Documentației pentru atribuirea contractului de achiziție publică având ca obiect „Delegarea gestiunii serviciului de salubrizare în zona de colectare 1 Brad+2 Hațeg+3 Centru, județul Hunedoara”, mandatarea Asociației să organizeze procedura de achiziție până la finalizarea acesteia, precum și mandatarea Președintelui Asociației să semneze contractul de delegare",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110339",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-20-2023",
+   "path": "local/hunedoara/vorta/2023/20",
+   "short": "HCL Vorța nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 20/2023 privind înregistrarea UAT Vorța în Sistemul Național Electronic de Plata on-line a taxelor și impozitelor locale (SNEP), utilizând cardul bancar și implicit înrolarea în sistemul „Ghișeul .ro”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110341",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110341",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vorta-56-2023",
    "path": "local/hunedoara/vorta/2023/56",
    "short": "HCL Vorța nr. 56/2023",

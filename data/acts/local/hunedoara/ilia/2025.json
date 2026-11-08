@@ -3,6 +3,94 @@
 "shard": "local/hunedoara/ilia/2025",
 "acts": [
 {
+"slug": "hcl-hunedoara--ilia-2-2025",
+"path": "local/hunedoara/ilia/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 2/2025 privind aprobarea mentinerii retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza comunei Ilia, pentru anul scolar 2025-2026",
+"short": "HCL Ilia nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/190663",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--ilia-9-2025",
+"path": "local/hunedoara/ilia/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 9/2025 privind revocarea Hotararii Consiliului Local al comunei Ilia nr. 49 din 12.09.2024, cu privire la inventarul bunurilor care apartin domeniului public",
+"short": "HCL Ilia nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/193761",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--ilia-12-2025",
+"path": "local/hunedoara/ilia/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 12/2025 privind modificarea titlului proiectului, a Contractului de Finantare nr. 3894/12.01.2023, aferent cererii de finantare nr. C10-I1.2-1075 depusa in cadrul investitiei 1.2 - aferenta Componentei 10 - Fondul Local din Planul National de Redresare si Rezilienta (PNRR)",
+"short": "HCL Ilia nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/193764",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--ilia-14-2025",
+"path": "local/hunedoara/ilia/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 14/2025 privind privind aprobarea bugetului local de venituri și cheltuieli al Comunei Ilia, pentru anul 2025",
+"short": "HCL Ilia nr. 14/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/202883",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-hunedoara--ilia-41-2025",
 "path": "local/hunedoara/ilia/2025/41",
 "kind": "local",

@@ -3,6 +3,81 @@
  "shard": "local/hunedoara/criscior/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--criscior-11-2022",
+   "path": "local/hunedoara/criscior/2022/11",
+   "short": "HCL Crișcior nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 11/2022 privind participarea la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: stații de reîncarcare pentru vehicule electrice în localități” și aprobarea indicatorilor tehnico-economici pentru proiectul „STAȚII DE REÎNCARCARE PENTRU VEHICULE ELECTRICE ÎN COMUNA CRIȘCIOR, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69059",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-16-2022",
+   "path": "local/hunedoara/criscior/2022/16",
+   "short": "HCL Crișcior nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 16/2022 privind aprobarea bugetului și a indicatorilor tehnico economici pentru proiectul ”Dotarea Liceului Tehnologic ”Crișan” Crișcior cu materiale sanitare ”în vederea depunerii proiectul pentru finanțare în cadrul Programului Operațional Infrastructură Mare (POIM) 2014-2020, Axa Prioritară 9 ”Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19”, Obiectivul Specific 9.1. ”Creșterea capacității de gestionare a crizei sanitare COVID-19”",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70452",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-22-2022",
+   "path": "local/hunedoara/criscior/2022/22",
+   "short": "HCL Crișcior nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 22/2022 privind instituirea taxei de peaj pentru utilizarea infrastructurii publice locale de drumuri",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70459",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-28-2022",
+   "path": "local/hunedoara/criscior/2022/28",
+   "short": "HCL Crișcior nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 28/2022 privind modificarea și completarea art 1 al Hotărârii Consiliului local al comunei Crișcior nr.12/2022 privind clasificarea ca parcare de interes local a unei parcări neclasificate, în categoria de parcări, în cadrul UAT Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70465",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-33-2022",
+   "path": "local/hunedoara/criscior/2022/33",
+   "short": "HCL Crișcior nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 33/2022 privind înscrierea unui imobil ”teren”, în evidențele de publicitate imobiliară, în proprietatea comunei Crișcior-domeniul public",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70470",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70470",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-35-2022",
    "path": "local/hunedoara/criscior/2022/35",
    "short": "HCL Crișcior nr. 35/2022",
