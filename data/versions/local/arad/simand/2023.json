@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/simand/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--simand-3-2023",
+   "path": "local/arad/simand/2023/3",
+   "short": "HCL Șimand nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 3/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "32029422946eecb3651b2784caec8feae0a05d0de8b433c8705e58270822d366"
+    }
+   ]
+  }
+ ]
+}

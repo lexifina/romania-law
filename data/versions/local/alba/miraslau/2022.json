@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/miraslau/2022",
+ "acts": [
+  {
+   "slug": "hcl-alba--miraslau-57-2022",
+   "path": "local/alba/miraslau/2022/57",
+   "short": "HCL Mirăslău nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 57/2022 privind aprobarea nivelurilor pentru valorile impozabile, impozitele taxele locale, alte taxe, taxe speciale amenzile aplicabile in anul 2023 Primarul Comunei Miräsläu, jude!ul Alba; Avånd in vedere: Referatul de aprobare nr. 4287 din 07.11.2022 intocmit de cätre initiatorul proiectului de hotäråre; de specialitate nr. 4288 din 07.11.2022 al p.secretarului general al comunei privind aprobarea nive",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2022",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2023/02/HCL-nr.-57-din-15-decembrie-2022.pdf",
+     "sha256": "de8f0fec2b96696c42c2f990f41a844904dc0a9bf4140852b67dfc1a705db63c"
+    }
+   ]
+  }
+ ]
+}

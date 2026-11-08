@@ -3,6 +3,21 @@
  "shard": "local/alba/arieseni/2025",
  "acts": [
   {
+   "slug": "hcl-alba--arieseni-45-2025",
+   "path": "local/alba/arieseni/2025/45",
+   "short": "HCL Arieșeni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 45/2025 privind aprobarea tarifelor distincte, aplicabile de la 1 octombrie 2025, pentru beneficiarii serviciului de salubrizare Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 02.10.2025 Având în vedere:  referatul de aprobare nr.4906/16.09.2025 a Primarului comunei Arieșeni pentru modificare tarifelor distincte, aplicabile de la 1 octombrie 2025, pentru benefi",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-45.pdf",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-45.pdf",
+     "sha256": "f1602213de76a6386b4aeb22b1433b39f695c94e9bff7ce9bae67819f49522ea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--arieseni-48-2025",
    "path": "local/alba/arieseni/2025/48",
    "short": "HCL Arieșeni nr. 48/2025",

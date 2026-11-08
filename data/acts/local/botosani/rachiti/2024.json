@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/botosani/rachiti/2024",
+"acts": [
+{
+"slug": "hcl-botosani--rachiti-96-2024",
+"path": "local/botosani/rachiti/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 96/2024 Pentru aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau a gestionării neconforme cu ierarhia deșeurilor, referitoare la domeniul public și privat al comunei Răchiți",
+"short": "HCL Răchiți nr. 96/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+"council": "botosani/rachiti",
+"council_name": "Consiliul Local al Comunei Răchiți",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-botosani--rachiti-103-2024",
+"path": "local/botosani/rachiti/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 103/2024 privind aprobarea modificării și completării HCL nr.138/21.12.2023 privind aprobarea impozitelor și taxelor locale pentru anul 2024 Consiliul Local Răchiți, județul Botoșani , întrunit in ședința extraordinară astăzi , 06.12.2024, luând în dezbatere: - referatul de aprobare al primarului comunei Răchiți, înregistrat la nr.55/26.11.2024, - raportul de specialitate al compartimentului de resort, , î",
+"short": "HCL Răchiți nr. 103/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-06",
+"latest": "2024-12-06",
+"portal": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+"council": "botosani/rachiti",
+"council_name": "Consiliul Local al Comunei Răchiți",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--rachiti-104-2024",
+"path": "local/botosani/rachiti/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 104/2024 Privind delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fară stăpân al comunei Răchiți, județul Botoșani Consiliul Local al comunei Răchiți, întrunit în ședință extraordinară, astăzi,06.12.2024 , Având în vedere temeiurile juridice prevăzute de: - prevederile art.120 alin.(1), art.121 alin.(1) șialin.(2) și art.136 din Constituția României, republicată; - preved",
+"short": "HCL Răchiți nr. 104/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-06",
+"latest": "2024-12-06",
+"portal": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+"council": "botosani/rachiti",
+"council_name": "Consiliul Local al Comunei Răchiți",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--rachiti-116-2024",
+"path": "local/botosani/rachiti/2024/116",
+"kind": "local",
+"year": "2024",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 116/2024 Privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2025",
+"short": "HCL Răchiți nr. 116/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+"council": "botosani/rachiti",
+"council_name": "Consiliul Local al Comunei Răchiți",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-botosani--rachiti-117-2024",
+"path": "local/botosani/rachiti/2024/117",
+"kind": "local",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 117/2024",
+"short": "HCL Răchiți nr. 117/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": null,
+"council": "botosani/rachiti",
+"council_name": "Consiliul Local al Comunei Răchiți",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

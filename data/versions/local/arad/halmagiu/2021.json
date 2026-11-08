@@ -3,6 +3,276 @@
  "shard": "local/arad/halmagiu/2021",
  "acts": [
   {
+   "slug": "hcl-arad--halmagiu-10-2021",
+   "path": "local/arad/halmagiu/2021/10",
+   "short": "HCL Hălmagiu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 10/2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24665",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-11-2021",
+   "path": "local/arad/halmagiu/2021/11",
+   "short": "HCL Hălmagiu nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 11/2021 privind revocareaHotărârii Consiliului Local al Comunei Hălmagiu nr. 15/12.03.2019 privind introducerea contribuției pentru economia circulară",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24666",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-14-2021",
+   "path": "local/arad/halmagiu/2021/14",
+   "short": "HCL Hălmagiu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 14/2021 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 21.04.2021, convocată prin dispoziția primarului nr. 47/13.04.2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24670",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-15-2021",
+   "path": "local/arad/halmagiu/2021/15",
+   "short": "HCL Hălmagiu nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 15/2021 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 26.02.2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24671",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-16-2021",
+   "path": "local/arad/halmagiu/2021/16",
+   "short": "HCL Hălmagiu nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 16/2021 privind aprobarea situațiilor financiare, a contului de execuție bugetară pe anul 2020, pe cele două secțiuni, funcționare și dezvoltare și anexele la acestea, conform anexelor nr. 1-25",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24672",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-17-2021",
+   "path": "local/arad/halmagiu/2021/17",
+   "short": "HCL Hălmagiu nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 17/2021 privind aprobarea execuției bugetare la finele trimestrului I al anului 2021, pe cele două secțiuni, de funcționare, respectiv de dezvoltare, conform anexelor nr.1-4, care fac parte din prezentul",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24673",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-18-2021",
+   "path": "local/arad/halmagiu/2021/18",
+   "short": "HCL Hălmagiu nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 18/2021 privind aprobarea utilizării excedentului anual al Bugetului activităților finanțate integral din venituri propria-Sursă E, al comunei Hălmagiu, aferent anului 2020, în anul bugetar 2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24674",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-19-2021",
+   "path": "local/arad/halmagiu/2021/19",
+   "short": "HCL Hălmagiu nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 19/2021 privind aprobarea efectuării unui audit extern pentru a analiza activitatea Primăriei comunei Hălmagiu, pentru perioada iunie 2016-octombrie 2020, de către o firmă specializată",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24675",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-20-2021",
+   "path": "local/arad/halmagiu/2021/20",
+   "short": "HCL Hălmagiu nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 20/2021 privind aprobarea bugetului local general centralizat de venituri și cheltuieli al Comunei Hălmagiu, pe anul 2021 și estimările pe anii 2022-2024",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24676",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-21-2021",
+   "path": "local/arad/halmagiu/2021/21",
+   "short": "HCL Hălmagiu nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 21/2021 privind aprobarea Planului Anual de Acțiune privind serviciile sociale acordate în cadrul Compartimentului de asistență socială-Primăria comunei Hălmagiu pe anul 2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24677",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-22-2021",
+   "path": "local/arad/halmagiu/2021/22",
+   "short": "HCL Hălmagiu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 22/2021 privind aprobarea Statutului comunei Hălmagiu, județul Arad",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24678",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-23-2021",
+   "path": "local/arad/halmagiu/2021/23",
+   "short": "HCL Hălmagiu nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 23/2021 privind aprbarea Regulamentului privind măsuri edilitar-gospodărești, administrarea fondului locativ public și privat și alte măsuri pentru asigurarea ordinii și curățeniei în comuna Hălmagiu, județul Arad",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24679",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-24-2021",
+   "path": "local/arad/halmagiu/2021/24",
+   "short": "HCL Hălmagiu nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 24/2021 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 11.05.2021, convocată prin dispoziția primarului nr. 59/07.05.2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24680",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-25-2021",
+   "path": "local/arad/halmagiu/2021/25",
+   "short": "HCL Hălmagiu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 25/2021 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 21.04.2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24681",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-26-2021",
+   "path": "local/arad/halmagiu/2021/26",
+   "short": "HCL Hălmagiu nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 26/2021 privind aprobarea solicitării prelungirii valabilității scrisorii de garantare nr. 580/21.09.2017 de la FNGCIMM SA IFN în valoare de 2000.000 lei, de la data de 02.08.2021 până la data de 02.08.2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24682",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-4-2021",
+   "path": "local/arad/halmagiu/2021/4",
+   "short": "HCL Hălmagiu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 4/2021 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al comunei Hălmagiu, județul Arad",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24659",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-47-2021",
+   "path": "local/arad/halmagiu/2021/47",
+   "short": "HCL Hălmagiu nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 47/2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/38457",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/38457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-5-2021",
+   "path": "local/arad/halmagiu/2021/5",
+   "short": "HCL Hălmagiu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 5/2021 privind modificarea Regulamentului de instituire și administrare a taxei speciale de salubrizare în comuna Hălmagiu, jud. Arad aprobat prin HCL nr. 72 din 19.12.2020 privind aprobarea ” Regulamentului de instituire și administrare a taxei speciale de salubrizare în comuna Hălmagiu, jud. Arad”",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24660",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24660",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-54-2021",
    "path": "local/arad/halmagiu/2021/54",
    "short": "HCL Hălmagiu nr. 54/2021",
@@ -88,6 +358,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/54014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-6-2021",
+   "path": "local/arad/halmagiu/2021/6",
+   "short": "HCL Hălmagiu nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 6/2021 privind aprobarea cuantumului cotizației comunei Hălmagiu în cadrul Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județului Arad și mandatarea unei persoane care să voteze în numele și pe seama Consiliului Local în ședință AGA cuantumul cotizației și Bugetul de venituri și cheltuieli al Asociației pentru anul 2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24661",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24661",
      "sha256": null
     }
    ]
@@ -243,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagiu-7-2021",
+   "path": "local/arad/halmagiu/2021/7",
+   "short": "HCL Hălmagiu nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 7/2021 privind modificarea componenței și aprobarea Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ al comunei Hălmagiu, județul Arad",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24662",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24662",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-70-2021",
    "path": "local/arad/halmagiu/2021/70",
    "short": "HCL Hălmagiu nr. 70/2021",
@@ -298,6 +598,36 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/54036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-8-2021",
+   "path": "local/arad/halmagiu/2021/8",
+   "short": "HCL Hălmagiu nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 8/2021 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 26.02.2021, convocată prin dispoziția primarului nr. 37/19.02.2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24663",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-9-2021",
+   "path": "local/arad/halmagiu/2021/9",
+   "short": "HCL Hălmagiu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 9/2021 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 29.01.2021",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/24664",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/24664",
      "sha256": null
     }
    ]

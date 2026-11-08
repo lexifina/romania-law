@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/micestii-de-campie/2023",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--micestii-de-campie-2464-2023",
+"path": "local/bistrita-nasaud/micestii-de-campie/2023/2464",
+"kind": "local",
+"year": "2023",
+"number": "2464",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 2464/2023 privind stabilirea taxelor speciale, datorate de persoanele fizice și juridice din comuna Miceștii de Câmpie, în anul 2024",
+"short": "HCL Miceștii de Câmpie nr. 2464/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://micestiidecampie.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/micestii-de-campie",
+"council_name": "Consiliul Local al Comunei Miceștii de Câmpie",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--micestii-de-campie-2476-2023",
+"path": "local/bistrita-nasaud/micestii-de-campie/2023/2476",
+"kind": "local",
+"year": "2023",
+"number": "2476",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 2476/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024 la nivelul comunei Miceștii de Câmpie",
+"short": "HCL Miceștii de Câmpie nr. 2476/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://micestiidecampie.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/micestii-de-campie",
+"council_name": "Consiliul Local al Comunei Miceștii de Câmpie",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

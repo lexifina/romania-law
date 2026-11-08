@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2009",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-150-2009",
+   "path": "local/arad/santana/2009/150",
+   "short": "HCL Sântana nr. 150/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 150/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0150_2009_11_03.pdf",
+     "sha256": "9feebace3a453debd67ce6b3b230804198cfac09b1ad75cd8322f2a1b6c1c92a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-87-2009",
+   "path": "local/arad/santana/2009/87",
+   "short": "HCL Sântana nr. 87/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 87/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0087_2009_07_21.pdf",
+     "sha256": "d0e5494be1c1a013e2064409589edb59575db2fbbea9d42127a853bb4046cfb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-93-2009",
+   "path": "local/arad/santana/2009/93",
+   "short": "HCL Sântana nr. 93/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 93/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0093_2009_07_21.pdf",
+     "sha256": "147657530053f16eb0706ad7ff285cbfe387904e1e7c1cc4229c3b30b045a31f"
+    }
+   ]
+  }
+ ]
+}

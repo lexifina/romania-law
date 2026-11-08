@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/archis/2021",
+"acts": [
+{
+"slug": "hcl-arad--archis-18-2021",
+"path": "local/arad/archis/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Archiș nr. 18/2021 privind adoptarea unor măsuri edilitar gospodărești, păstrarea curățeniei ,respectarea normelor de igienă, precum și aprobarea Programului de gospodărire și înfrumusețare a comunei Archiș, judetul Arad , pentru anul 2021 Consiliul Local al comunei Archiș , întrunit în ședință de lucru ordinară în data de 26.02.2021, ora 900 , fiind prezenți un număr de 8 consilieri locali din totalul de 9 consilie",
+"short": "HCL Archiș nr. 18/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://archis-arad.ro/page/10/",
+"council": "arad/archis",
+"council_name": "Consiliul Local al Comunei Archiș",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

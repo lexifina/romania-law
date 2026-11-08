@@ -3,6 +3,94 @@
 "shard": "local/bacau/racaciuni/2020",
 "acts": [
 {
+"slug": "hcl-bacau--racaciuni-8-2020",
+"path": "local/bacau/racaciuni/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 8/2020 privind mod. tarife operator SC ECOSUD SA Vezi / Descarca",
+"short": "HCL Răcăciuni nr. 8/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+"council": "bacau/racaciuni",
+"council_name": "Consiliul Local al Comunei Răcăciuni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--racaciuni-12-2020",
+"path": "local/bacau/racaciuni/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 12/2020 privind regulamentul SERV. PUB. de salubrizare al UAT-membrii ADIS Vezi / Descarca",
+"short": "HCL Răcăciuni nr. 12/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+"council": "bacau/racaciuni",
+"council_name": "Consiliul Local al Comunei Răcăciuni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--racaciuni-30-2020",
+"path": "local/bacau/racaciuni/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 30/2020 privind indexarea impozitelor si taxelor locale pentru anul 2021 la comuna Racaciunui Vezi / Descarca",
+"short": "HCL Răcăciuni nr. 30/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+"council": "bacau/racaciuni",
+"council_name": "Consiliul Local al Comunei Răcăciuni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--racaciuni-34-2020",
+"path": "local/bacau/racaciuni/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 34/2020 privind regulamentuyl referitor la conditiile in care se realizeaza accesul pe dom.public a retelelor de comunicatii Vezi / Descarca",
+"short": "HCL Răcăciuni nr. 34/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+"council": "bacau/racaciuni",
+"council_name": "Consiliul Local al Comunei Răcăciuni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-bacau--racaciuni-71-2020",
 "path": "local/bacau/racaciuni/2020/71",
 "kind": "local",

@@ -1770,6 +1770,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-alba--ocna-mures-227-2018",
+"path": "local/alba/ocna-mures/2018/227",
+"kind": "local",
+"year": "2018",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 227/2018 privind prelungirea termenului de valabilitate a documentaţiilor de urbanism PUG, PAT şi RLU | 19.12.2018",
+"short": "HCL Ocna Mureș nr. 227/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

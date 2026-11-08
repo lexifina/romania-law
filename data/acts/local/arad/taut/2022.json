@@ -3,6 +3,50 @@
 "shard": "local/arad/taut/2022",
 "acts": [
 {
+"slug": "hcl-arad--taut-10-2022",
+"path": "local/arad/taut/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 10/2022 privind aprobarea Metodologiei de calcul a pretului de referinta pt.masa lemnoasa pe picior din proprietatea UAT Taut pt.anul 2022",
+"short": "HCL Tauț nr. 10/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2022/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--taut-56-2022",
+"path": "local/arad/taut/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 56/2022 privind aprobarera Regulament de autorizare si desfasurare a activitatilor comerciale de alimentatie publica si servicii de pe raza Comunei Taut",
+"short": "HCL Tauț nr. 56/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2022/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--taut-72-2022",
 "path": "local/arad/taut/2022/72",
 "kind": "local",

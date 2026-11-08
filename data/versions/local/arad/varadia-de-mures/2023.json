@@ -3,6 +3,36 @@
  "shard": "local/arad/varadia-de-mures/2023",
  "acts": [
   {
+   "slug": "hcl-arad--varadia-de-mures-1-2023",
+   "path": "local/arad/varadia-de-mures/2023/1",
+   "short": "HCL Vărădia de Mureș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 1/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 27 decembrie 2022",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89326",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-10-2023",
+   "path": "local/arad/varadia-de-mures/2023/10",
+   "short": "HCL Vărădia de Mureș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 10/2023 privind însuşirea raportului de activitate a asistentilor personali ai persoanelor încadrate în gradul grav de handicap din comuna Vărădia de Mures pe semestrul II 2022",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89335",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89335",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varadia-de-mures-100-2023",
    "path": "local/arad/varadia-de-mures/2023/100",
    "short": "HCL Vărădia de Mureș nr. 100/2023",
@@ -13,6 +43,1041 @@
      "from": "2024-01-10",
      "units": 1,
      "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/136033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-11-2023",
+   "path": "local/arad/varadia-de-mures/2023/11",
+   "short": "HCL Vărădia de Mureș nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 11/2023 privind Raportul de analiză a capacităţii de apărare împotriva incendiilor a comunei Vărădia de Mureş, pentru semestrul II anul 2022",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89336",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-12-2023",
+   "path": "local/arad/varadia-de-mures/2023/12",
+   "short": "HCL Vărădia de Mureș nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 12/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de depozitare și neutralizare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Depozitului Conform Arad",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89337",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-13-2023",
+   "path": "local/arad/varadia-de-mures/2023/13",
+   "short": "HCL Vărădia de Mureș nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 13/2023 privind avizarea Studiului de fundamentare/oportunitate, a Documentației de atribuire a Contractul de gestiune directă a serviciului de sortare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Stației de Sortare Arad",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89338",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-14-2023",
+   "path": "local/arad/varadia-de-mures/2023/14",
+   "short": "HCL Vărădia de Mureș nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 14/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 31 ianuarie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92193",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-15-2023",
+   "path": "local/arad/varadia-de-mures/2023/15",
+   "short": "HCL Vărădia de Mureș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 15/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 27 februarie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92194",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-16-2023",
+   "path": "local/arad/varadia-de-mures/2023/16",
+   "short": "HCL Vărădia de Mureș nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 16/2023 privind aprobarea contului anual de execuţie al bugetului general de venituri şi cheltuieli al comunei Vărădia de Mureş pe anul 2022",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92195",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-17-2023",
+   "path": "local/arad/varadia-de-mures/2023/17",
+   "short": "HCL Vărădia de Mureș nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 17/2023 privind aprobarea utilizării excedentului reportat al anului 2022",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92196",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-18-2023",
+   "path": "local/arad/varadia-de-mures/2023/18",
+   "short": "HCL Vărădia de Mureș nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 18/2023 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 200/24.05.2018 de la FNGCIMM SA IFN in valoare de 465.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 465.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Reabilitare cămin Vărădia de Mureș ”",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92197",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-19-2023",
+   "path": "local/arad/varadia-de-mures/2023/19",
+   "short": "HCL Vărădia de Mureș nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 19/2023 privind aprobarea participării UAT Comuna Vărădia de Mureș în cadrul programului PLANUL NAŢIONAL DE REDRESARE ŞI REZILIENTA - COMPONENTA 15 -EDUCAŢIE, pentru realizarea obiectivului de investiţii „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT DIN COMUNA VĂRĂDIA DE MUREȘ”",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92198",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-2-2023",
+   "path": "local/arad/varadia-de-mures/2023/2",
+   "short": "HCL Vărădia de Mureș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 2/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 31 ianuarie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89327",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-20-2023",
+   "path": "local/arad/varadia-de-mures/2023/20",
+   "short": "HCL Vărădia de Mureș nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 20/2023 privind aprobarea implementării proiectului „Sistem inteligent de management local în Comuna Vărădia de Mureș, județul Arad” în cadrul Planului Național de Redresare și Reziliență al României, Componenta C10 - Fondul Local",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92199",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-21-2023",
+   "path": "local/arad/varadia-de-mures/2023/21",
+   "short": "HCL Vărădia de Mureș nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 21/2023 privind aprobarea Planului de actiuni si de lucrari de interes local, pentru repartizarea orelor de muncă a beneficiarilor Legii 416/2001",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92200",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-22-2023",
+   "path": "local/arad/varadia-de-mures/2023/22",
+   "short": "HCL Vărădia de Mureș nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 22/2023 privind revocarea HCL nr.65/23 noiembrie 2022 privind trecerea din domeniul public in domeniul privat al UAT comuna Vărădia de Mures a terenului înscris în CF 304599 Vărădia de Mureș",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92201",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-24-2023",
+   "path": "local/arad/varadia-de-mures/2023/24",
+   "short": "HCL Vărădia de Mureș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 24/2023 privind aprobarea încheierii - semnării Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale din județul Arad ZONA 5, cu Societatea POLARIS M HOLDING SRL și a tarifelor pentru activitatea de colectare separată, transportul separat și sortarea Deşeurilor Municipale",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92203",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-25-2023",
+   "path": "local/arad/varadia-de-mures/2023/25",
+   "short": "HCL Vărădia de Mureș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 25/2023 privind aprobarea ”Regulamentului de instituire și administrare a taxei speciale de salubrizare în comuna Vărădia de Mureș”",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/92204",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/92204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-26-2023",
+   "path": "local/arad/varadia-de-mures/2023/26",
+   "short": "HCL Vărădia de Mureș nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 26/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/99353",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/99353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-27-2023",
+   "path": "local/arad/varadia-de-mures/2023/27",
+   "short": "HCL Vărădia de Mureș nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 27/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 27 februarie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/99354",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/99354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-28-2023",
+   "path": "local/arad/varadia-de-mures/2023/28",
+   "short": "HCL Vărădia de Mureș nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 28/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 31 martie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/99355",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/99355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-29-2023",
+   "path": "local/arad/varadia-de-mures/2023/29",
+   "short": "HCL Vărădia de Mureș nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 29/2023 privind privind aprobarea Planului Local de acţiune în domeniul serviciilor sociale la nivelul Comunei Vărădia de Mureș pentru anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/99356",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/99356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-3-2023",
+   "path": "local/arad/varadia-de-mures/2023/3",
+   "short": "HCL Vărădia de Mureș nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 3/2023 privind aprobarea bugetului local de venituri și cheltuieli a listei de investitii și a Programului de achiziții publice pe anul 2023 al UAT Vărădia de Mureș",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89328",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-30-2023",
+   "path": "local/arad/varadia-de-mures/2023/30",
+   "short": "HCL Vărădia de Mureș nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 30/2023 privind actualizarea Planului de analiză şi acoperire a riscurilor elaborat de Comitetul local pentru situaţii de urgenţă Vărădia de Mureş",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/99357",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/99357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-32-2023",
+   "path": "local/arad/varadia-de-mures/2023/32",
+   "short": "HCL Vărădia de Mureș nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 32/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 31 martie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/102383",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/102383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-33-2023",
+   "path": "local/arad/varadia-de-mures/2023/33",
+   "short": "HCL Vărădia de Mureș nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 33/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 26 aprilie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/102384",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/102384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-34-2023",
+   "path": "local/arad/varadia-de-mures/2023/34",
+   "short": "HCL Vărădia de Mureș nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 34/2023 privind aprobarea contului de execuție al bugetului local la trimestrul I 2023, pe cele două secțiuni, secțiunea de funcționare și secțiunea de dezvoltare",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/102385",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/102385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-35-2023",
+   "path": "local/arad/varadia-de-mures/2023/35",
+   "short": "HCL Vărădia de Mureș nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 35/2023 privind aprobarea planului anual de pregătire profesională a aparatului de specialitate al primarului comunei Vărădia de Mureş",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/102386",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/102386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-36-2023",
+   "path": "local/arad/varadia-de-mures/2023/36",
+   "short": "HCL Vărădia de Mureș nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 36/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Vărădia de Mureş",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/102387",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/102387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-37-2023",
+   "path": "local/arad/varadia-de-mures/2023/37",
+   "short": "HCL Vărădia de Mureș nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 37/2023 privind stabilirea stabilirea pretului la materialul lemnos ce se va exploata din fondul forestier proprietatea comunei Vărădia de Mureş pentru anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/102388",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/102388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-38-2023",
+   "path": "local/arad/varadia-de-mures/2023/38",
+   "short": "HCL Vărădia de Mureș nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 38/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 26 aprilie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/104748",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/104748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-39-2023",
+   "path": "local/arad/varadia-de-mures/2023/39",
+   "short": "HCL Vărădia de Mureș nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 39/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 15 mai 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/104749",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/104749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-4-2023",
+   "path": "local/arad/varadia-de-mures/2023/4",
+   "short": "HCL Vărădia de Mureș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 4/2023 privind aprobarea bugetului de Venituri și Cheltuieli pe anul 2023 a Regiei Publice Locale „Ocolul Silvic Valea Mureșului”",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89329",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-40-2023",
+   "path": "local/arad/varadia-de-mures/2023/40",
+   "short": "HCL Vărădia de Mureș nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 40/2023 aprobarea rectificarea bugetului de venituri și cheltuieli și a listei de investiții pe anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/104750",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/104750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-41-2023",
+   "path": "local/arad/varadia-de-mures/2023/41",
+   "short": "HCL Vărădia de Mureș nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 41/2023 privind aprobarea implementării proiectului \"Imbunătățirea și eficientizarea acctivității administrației publice locale, serviciului local edilitar-gospodăresc al Comunei Vărădia de Mureș, județul Arad\"",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/104751",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/104751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-43-2023",
+   "path": "local/arad/varadia-de-mures/2023/43",
+   "short": "HCL Vărădia de Mureș nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 43/2023 privind aprobarea Actul Adițional nr. 5 la Statutul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/104753",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/104753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-44-2023",
+   "path": "local/arad/varadia-de-mures/2023/44",
+   "short": "HCL Vărădia de Mureș nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 44/2023 privind aprobarea proiectului „MICROBUZE ELECTRICE PENTRU ELEVII JUDEȚULUI ARAD”, în vederea depunerii acestuia în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență – Componenta C15: Educație",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/104754",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/104754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-45-2023",
+   "path": "local/arad/varadia-de-mures/2023/45",
+   "short": "HCL Vărădia de Mureș nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 45/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/109705",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/109705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-46-2023",
+   "path": "local/arad/varadia-de-mures/2023/46",
+   "short": "HCL Vărădia de Mureș nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 46/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 15 mai 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/109706",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/109706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-47-2023",
+   "path": "local/arad/varadia-de-mures/2023/47",
+   "short": "HCL Vărădia de Mureș nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 47/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 20 iunie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/109707",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/109707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-48-2023",
+   "path": "local/arad/varadia-de-mures/2023/48",
+   "short": "HCL Vărădia de Mureș nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 48/2023 privind delegarea către Unitatea Administrativ-Teritorială Județul Arad a depunerii aplicației de finanțare pentru proiectul „Microbuze electrice pentru elevii din județul Arad”",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/109708",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/109708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-5-2023",
+   "path": "local/arad/varadia-de-mures/2023/5",
+   "short": "HCL Vărădia de Mureș nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 5/2023 privind aprobarea cotizaţiei Consiliului local Vărădia de Mureş pe anul 2023 la Asociaţia de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89330",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-50-2023",
+   "path": "local/arad/varadia-de-mures/2023/50",
+   "short": "HCL Vărădia de Mureș nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 50/2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/109710",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/109710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-51-2023",
+   "path": "local/arad/varadia-de-mures/2023/51",
+   "short": "HCL Vărădia de Mureș nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 51/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 20 iunie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/115260",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/115260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-52-2023",
+   "path": "local/arad/varadia-de-mures/2023/52",
+   "short": "HCL Vărădia de Mureș nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 52/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 31 iulie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/115261",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/115261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-53-2023",
+   "path": "local/arad/varadia-de-mures/2023/53",
+   "short": "HCL Vărădia de Mureș nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 53/2023 privind rectificarea bugetului de venituri si cheltuieli și a listei de investiții pe anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/115262",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/115262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-54-2023",
+   "path": "local/arad/varadia-de-mures/2023/54",
+   "short": "HCL Vărădia de Mureș nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 54/2023 privind stabilirea modului de valorificare și stabilirea preturilor la materialul lemnos ce se va exploata din fondul forestier proprietatea comunei Vărădia de Mureş în anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/115263",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/115263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-57-2023",
+   "path": "local/arad/varadia-de-mures/2023/57",
+   "short": "HCL Vărădia de Mureș nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 57/2023 privind delegarea serviciului public de salubrizare, a unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transferul deşeurilor municipale în staţiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deşeurilor reziduale la depozitul de deşeuri nepericuloase şi la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/115266",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/115266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-58-2023",
+   "path": "local/arad/varadia-de-mures/2023/58",
+   "short": "HCL Vărădia de Mureș nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 58/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 31 iulie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117603",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-59-2023",
+   "path": "local/arad/varadia-de-mures/2023/59",
+   "short": "HCL Vărădia de Mureș nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 59/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 29 august 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117604",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-6-2023",
+   "path": "local/arad/varadia-de-mures/2023/6",
+   "short": "HCL Vărădia de Mureș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 6/2023 privind aprobarea retelei scolare în unitatea administrativ teritorială în anul şcolar 2023-2024",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89331",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-60-2023",
+   "path": "local/arad/varadia-de-mures/2023/60",
+   "short": "HCL Vărădia de Mureș nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 60/2023 privind aprobarea tarifului pentru Contractul de gestiune directă nr. 772/02.02.2023, având ca obiect sortarea deşeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117605",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-61-2023",
+   "path": "local/arad/varadia-de-mures/2023/61",
+   "short": "HCL Vărădia de Mureș nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 61/2023 privind aprobarea tarifului pentru Contractul de concesiune nr. 6863/2002, având ca obiect eliminarea, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la Depozitul de deşeuri nepericuloase Arad",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117606",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-62-2023",
+   "path": "local/arad/varadia-de-mures/2023/62",
+   "short": "HCL Vărădia de Mureș nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 62/2023 privind aprobarea tarifelor la fracțiile de deșeuri Rezidual, Hârtie – carton, Plastic – metal, Biodegradabil pentru Contractul de delegare nr. 1869/11.12.2017, având ca obiect transferul deşeurilor municipale în staţii de transfer, inclusiv transportul separat al deşeurilor reziduale la depozitele de deşeuri nepericuloase şi/sau la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare şi/sau de digestie anaerobă",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117607",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-63-2023",
+   "path": "local/arad/varadia-de-mures/2023/63",
+   "short": "HCL Vărădia de Mureș nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 63/2023 privind Raportul de analiză a capacităţii de apărare împotriva incendiilor a comunei Vărădia de Mureş, pentru semestrul I anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117608",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-64-2023",
+   "path": "local/arad/varadia-de-mures/2023/64",
+   "short": "HCL Vărădia de Mureș nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 64/2023 privind neasumarea responsabilității de către UAT Comuna Vărădia de Mureș a organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României în perioada 2023-2029 pentru unitătile de învățământ de pe raza UAT Comuna Vărădia de Mureș",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/117609",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/117609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-65-2023",
+   "path": "local/arad/varadia-de-mures/2023/65",
+   "short": "HCL Vărădia de Mureș nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 65/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122777",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-66-2023",
+   "path": "local/arad/varadia-de-mures/2023/66",
+   "short": "HCL Vărădia de Mureș nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 66/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 29 august 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122778",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-67-2023",
+   "path": "local/arad/varadia-de-mures/2023/67",
+   "short": "HCL Vărădia de Mureș nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 67/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 29 septembrie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122779",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-68-2023",
+   "path": "local/arad/varadia-de-mures/2023/68",
+   "short": "HCL Vărădia de Mureș nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 68/2023 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 200/24.05.2018 de la FNGCIMM SA IFN in valoare de 465.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 465.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Reabilitare cămin Vărădia de Mureș ”",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122780",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-7-2023",
+   "path": "local/arad/varadia-de-mures/2023/7",
+   "short": "HCL Vărădia de Mureș nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 7/2023 privind aprobarea structurii funcţionale, a organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Vărădia de Mureş și structurii subordonate Consiliului local Vărădia de Mureş, județul Arad, pe anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89332",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-70-2023",
+   "path": "local/arad/varadia-de-mures/2023/70",
+   "short": "HCL Vărădia de Mureș nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 70/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitele de deşeuri nepericuloase, Operarea Depozitului de deseuri nepericuloase Arad, componenta eliminare, prin depozitare, a deșeurilor municipale reziduale, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum, a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor si a deșeurilor ce nu pot fi valorificate din deșeurile voluminoase, deșeurile textile și deșeurile provenite de la evenimente la depozitul de deşeuri nepericuloase din Aria Delegării, în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122782",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-71-2023",
+   "path": "local/arad/varadia-de-mures/2023/71",
+   "short": "HCL Vărădia de Mureș nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 71/2023 privind aprobarea prețului de valorificare a masei lemnoasă prin licitatie publica, din fondul forestier al comunei Vărădia de Mureș",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122783",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-72-2023",
+   "path": "local/arad/varadia-de-mures/2023/72",
+   "short": "HCL Vărădia de Mureș nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 72/2023 privind delegarea serviciului public de salubrizare, a unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transferul deşeurilor municipale în staţiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deşeurilor reziduale la depozitul de deşeuri nepericuloase şi la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/122784",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/122784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-73-2023",
+   "path": "local/arad/varadia-de-mures/2023/73",
+   "short": "HCL Vărădia de Mureș nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 73/2023 privind aprobarea procesului-verbal al şedinţei anterioare din data de 29 septembrie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/127570",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/127570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-74-2023",
+   "path": "local/arad/varadia-de-mures/2023/74",
+   "short": "HCL Vărădia de Mureș nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 74/2023 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 30 octombrie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/127571",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/127571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-75-2023",
+   "path": "local/arad/varadia-de-mures/2023/75",
+   "short": "HCL Vărădia de Mureș nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 75/2023 privind rectificarea bugetului de venituri si cheltuieli și a listei de investiții pe anul 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/127572",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/127572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-76-2023",
+   "path": "local/arad/varadia-de-mures/2023/76",
+   "short": "HCL Vărădia de Mureș nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 76/2023 privind aprobarea modificării tarifului pentru activitatea de colectare separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separate din județul Arad ZONA 5",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/127573",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/127573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-78-2023",
+   "path": "local/arad/varadia-de-mures/2023/78",
+   "short": "HCL Vărădia de Mureș nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 78/2023 privind aprobarea modificării organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Vărădia de Mureş și structurii subordonate Consiliului local Vărădia de Mureş, județul Arad, începând cu 01 noiembrie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/127575",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/127575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-79-2023",
+   "path": "local/arad/varadia-de-mures/2023/79",
+   "short": "HCL Vărădia de Mureș nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 79/2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/127576",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/127576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-8-2023",
+   "path": "local/arad/varadia-de-mures/2023/8",
+   "short": "HCL Vărădia de Mureș nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 8/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul propriu al Primăriei comunei Vărădia de Mureș, care se aplică începând cu data de 1 ianuarie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89333",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-80-2023",
+   "path": "local/arad/varadia-de-mures/2023/80",
+   "short": "HCL Vărădia de Mureș nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 80/2023 privind aprobarea continutului procesului-verbal al şedinţei anterioare din data de 30 octombrie 2023",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/130342",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/130342",
      "sha256": null
     }
    ]
@@ -148,6 +1213,21 @@
      "from": "2023-12-18",
      "units": 1,
      "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/132854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-9-2023",
+   "path": "local/arad/varadia-de-mures/2023/9",
+   "short": "HCL Vărădia de Mureș nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 9/2023 privind aprobarea Statutului Comunei Vărădia de Mureș",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/89334",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/89334",
      "sha256": null
     }
    ]

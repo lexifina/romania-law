@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/gaiceana/2026",
+"acts": [
+{
+"slug": "hcl-bacau--gaiceana-30-2026",
+"path": "local/bacau/gaiceana/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 30/2026 privind aprobarea inițierii actualizării Planului Urbanistic General al comunei Găiceana, județul Bacău, a indicatorilor si devizului general al Planului Urbanistic General al comunei Găiceana, judetul Bacau si a Regulamentului Local de Urbanism aferent Consiliul Local al comunei Găiceana, județul Bacău, întrunit în ședință ordinară la data de 27.04.2026 Avand în vedere : *referatul primarului com",
+"short": "HCL Găiceana nr. 30/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-04-27",
+"latest": "2026-04-27",
+"portal": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=3",
+"council": "bacau/gaiceana",
+"council_name": "Consiliul Local al Comunei Găiceana",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--gaiceana-42-2026",
+"path": "local/bacau/gaiceana/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 42/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 30 din 27.04.2026 privind aprobarea inițierii actualizării Planului Urbanistic General al comunei Găiceana, județul Bacău, a indicatorilor si devizului general al Planului Urbanistic General al comunei Găiceana, judetul Bacau si a Regulamentului Local de Urbanism aferent",
+"short": "HCL Găiceana nr. 42/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-27",
+"latest": "2026-07-27",
+"portal": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=2",
+"council": "bacau/gaiceana",
+"council_name": "Consiliul Local al Comunei Găiceana",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -3,6 +3,51 @@
  "shard": "local/botosani/manoleasa/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--manoleasa-20-2025",
+   "path": "local/botosani/manoleasa/2025/20",
+   "short": "HCL Manoleasa nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 20/2025 privind indexare taxe si impozite",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2020%20privind%20indexare%20taxe%20si%20impozite.pdf",
+     "sha256": "b201dadaed2511c6b4ccec28c435e5d391527f32d119658b60b827c5e8bd038a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-39-2025",
+   "path": "local/botosani/manoleasa/2025/39",
+   "short": "HCL Manoleasa nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 39/2025 privind aprobarea Metodologiei de evaluare a nevoilor comunitatii in vederea organizarii serviciilor sociale",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2039%20privind%20aprobarea%20Metodologiei%20de%20evaluare%20a%20nevoilor%20comunitatii%20in%20vederea%20organizarii%20serviciilor%20sociale.pdf",
+     "sha256": "d8339cbd8219dc5f46585c8908fe71eac8841d9c2cd78dc9353fdb4d3ba2c6e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-57-2025",
+   "path": "local/botosani/manoleasa/2025/57",
+   "short": "HCL Manoleasa nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 57/2025 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale, pe anul 2026",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2057%20privind%20stabilirea%20impozitelor%20si%20taxelor%20locale,%20precum%20si%20a%20taxelor%20speciale,%20pe%20anul%202026.pdf",
+     "sha256": "8ce3e0317d779501b4e35014b2830cc40f1517115e92898ef35e94a2e760f7a1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--manoleasa-59-2025",
    "path": "local/botosani/manoleasa/2025/59",
    "short": "HCL Manoleasa nr. 59/2025",
@@ -14,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2059%20privind%20actualizare%20Aparat%20de%20Specialitate%20al%20Primarului.pdf",
      "sha256": "21ce5034c7b16669044a134b8329e82cd59c08fb5555a2249f49b2c7f7289a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-9-2025",
+   "path": "local/botosani/manoleasa/2025/9",
+   "short": "HCL Manoleasa nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 9/2025 privind acordarea criteriilor pentru acordarea ajutoarelor de urgenta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.9%20privind%20acordarea%20criteriilor%20pentru%20acordarea%20ajutotoarelor%20de%20urgenta.pdf",
+     "sha256": "6311f5f48206d46f8159f4ae921a00bbea3008c9b4cfecd6f000da8ef1862a4d"
     }
    ]
   }

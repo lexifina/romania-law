@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/rauseni/2025",
+"acts": [
+{
+"slug": "hcl-botosani--rauseni-41-2025",
+"path": "local/botosani/rauseni/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 41/2025 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale pe anul 2026",
+"short": "HCL Răuseni nr. 41/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://rausenibt.ro/documents/hotararea-nr-41-din-28-11-2025-privind-stabilirea-impozitelor-si-taxelor-locale-precum-si-a-taxelor-speciale-pe-anul-2026/",
+"council": "botosani/rauseni",
+"council_name": "Consiliul Local al Comunei Răuseni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--rauseni-46-2025",
+"path": "local/botosani/rauseni/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 46/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Răuseni nr. 46/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://rausenibt.ro/documents/hotararea-nr-46-din-29-12-2025-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2026/",
+"council": "botosani/rauseni",
+"council_name": "Consiliul Local al Comunei Răuseni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

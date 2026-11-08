@@ -301,6 +301,96 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-32-2025",
+   "path": "local/arad/gurahont/2025/32",
+   "short": "HCL Gurahonț nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 32/2025 privind aprobarea utilizării excedentului anual al bugetului local al Comunei Gurahonţ în anul 2025",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/203801",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/203801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-33-2025",
+   "path": "local/arad/gurahont/2025/33",
+   "short": "HCL Gurahonț nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 33/2025 privind aprobarea bugetului local al Comunei Gurahonţ pe anul 2025",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/203802",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/203802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-35-2025",
+   "path": "local/arad/gurahont/2025/35",
+   "short": "HCL Gurahonț nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 35/2025 privind aprobarea înființării Serviciului de iluminat public al COMUNEI GURAHONȚ, județul ARAD, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a Studiului de oportunitate și a modalității de gestiune a acestuia",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/203804",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/203804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-40-2025",
+   "path": "local/arad/gurahont/2025/40",
+   "short": "HCL Gurahonț nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 40/2025 privind aprobarea participării Comunei Gurahonț în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/203809",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/203809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-42-2025",
+   "path": "local/arad/gurahont/2025/42",
+   "short": "HCL Gurahonț nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 42/2025 privind aprobarea Regulamentului de închiriere a pășunii comunale prin atribuire directă și măsuri de aplicare",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/206869",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/206869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-51-2025",
+   "path": "local/arad/gurahont/2025/51",
+   "short": "HCL Gurahonț nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 51/2025 privind aprobarea contului de încheiere a exerciţiului financiar pe anul 2024",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/210426",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/210426",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

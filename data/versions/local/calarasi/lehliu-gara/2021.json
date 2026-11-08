@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/lehliu-gara/2021",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--lehliu-gara-11-2021",
+   "path": "local/calarasi/lehliu-gara/2021/11",
+   "short": "HCL Lehliu Gară nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 11/2021 privind unele masuri in domeniul sanatatii pubile in orasul Lehliu – Gara",
+   "url": "https://www.primarialehliugara.ro/page/40/",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-11-din-25.10.2021-privind-unele-masuri-in-domeniul-sanatatii-pubile-in-orasul-Lehliu-Gara.pdf",
+     "sha256": "390fb17738c8c2cd38afb1e94a101adc21ce0f2c624b48faf4091c25a318bdf9"
+    }
+   ]
+  }
+ ]
+}

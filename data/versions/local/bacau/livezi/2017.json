@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/livezi/2017",
+ "acts": [
+  {
+   "slug": "hcl-bacau--livezi-18-2017",
+   "path": "local/bacau/livezi/2017/18",
+   "short": "HCL Livezi nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 18/2017 pentru aprobarea Normelor metodologice de alocare a prevederilor referitoare la atribuirea contractului de achizitie publica/acordului – cadru din Legea 98/2016 privind achizitiile publice, comuna Livezi prin Compartiment Achizitii- Investitii, a elaborat Strategia anuala de achizitie publica care cuprinde totalitatea proceselor de achizitie publica planificate a fi lansate de UAT comuna Livezi pe",
+   "url": "https://comunalivezi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=47",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2020/02/HCL_NR._9__HCL__NR._9__SITUATIE__STATEGIE_SI_PLAN_DE_ACHIZITII_PUBLICE_28.02.pdf",
+     "sha256": "c25acae9f05a2ecef074234465b1a1e2b67211cdb2e0ba1ddf462175cbe69b0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-31-2017",
+   "path": "local/bacau/livezi/2017/31",
+   "short": "HCL Livezi nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 31/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2fd0d9591a39c5602cb50bd81c0961b2e25b345f588c18babefaacc9690835cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-32-2017",
+   "path": "local/bacau/livezi/2017/32",
+   "short": "HCL Livezi nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 32/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "74e423801ea271416c8d08014d6ffbf94ea5f6dd206c38d51c761539aa040f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-37-2017",
+   "path": "local/bacau/livezi/2017/37",
+   "short": "HCL Livezi nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 37/2017 Privind aprobarea taxei speciale de salubrizare pentru anul 2018 , in cuantum de de 9,97 lei / persoana/luna in mediul urban , respectiv 4,07 lei /persoana / lunar in mediul rural Consiliul local al comunei Livezi , judetul Bacau , intrunit in sedinta ordinara la data de 15.DECEMBRIE .2017",
+   "url": "https://comunalivezi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=45",
+   "versions": [
+    {
+     "from": "2017-12-15",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2020/02/PR._HOT_HCL___ADIS_TAXA_DE_SALUBRIZARE_2018_407___15.12.pdf",
+     "sha256": "f37f45027d7dece63ac0fa5d45183794e4a3cb8be2e0f2b8ebd415ae6925b791"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/arad/ignesti/2023",
+"acts": [
+{
+"slug": "hcl-arad--ignesti-52-2023",
+"path": "local/arad/ignesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ignești nr. 52/2023 privind neaprobarea tarifelor la fractiile de deseuri ADISIGD Arad",
+"short": "HCL Ignești nr. 52/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "arad/ignesti",
+"council_name": "Consiliul Local al Comunei Ignești",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--ignesti-59-2023",
+"path": "local/arad/ignesti/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ignești nr. 59/2023 privind modificarea a tarifului la depozit de deseuri",
+"short": "HCL Ignești nr. 59/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "arad/ignesti",
+"council_name": "Consiliul Local al Comunei Ignești",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--ignesti-72-2023",
+"path": "local/arad/ignesti/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ignești nr. 72/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Ignești nr. 72/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "arad/ignesti",
+"council_name": "Consiliul Local al Comunei Ignești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

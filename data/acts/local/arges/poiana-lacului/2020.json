@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arges/poiana-lacului/2020",
+"acts": [
+{
+"slug": "hcl-arges--poiana-lacului-40-2020",
+"path": "local/arges/poiana-lacului/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 40/2020 privind stabilirea impozilelor și taxelor locale, precum și taxelor speciale pentru anul 2021",
+"short": "HCL Poiana Lacului nr. 40/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-sedinta-05-01-2024/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

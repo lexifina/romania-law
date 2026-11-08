@@ -811,6 +811,21 @@
      "sha256": "7eb0ae6537682c9be963cd989fcfcb9d3b6521c49bffc269a44379be7322f637"
     }
    ]
+  },
+  {
+   "slug": "hcl-arad--ineu-89-2026",
+   "path": "local/arad/ineu/2026/89",
+   "short": "HCL Ineu nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 89/2026 privind aprobarea înființării Serviciului de salubrizare a Orașului Ineu, Județul Arad, respectiv a activității de operare a Centrului de colectare a deșeurilor prin aport voluntar de la persoanele fizice din Orașul Ineu, Județul Arad și aprobarea Studiului de oportunitate, a Studiului de fundamentare, a Regulamentului activității de operare, a Regulamentului de funcționare a centrului de operare",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-87-92-din-data-de-26-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.89-din-data-e-26.05.2026.pdf",
+     "sha256": "21850f2c3e7c56231c412d5ccb76f8c71ca658f679c4553a9c57692de06ec366"
+    }
+   ]
   }
  ]
 }

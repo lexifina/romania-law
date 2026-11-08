@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arges/balilesti/2019",
+"acts": [
+{
+"slug": "hcl-arges--balilesti-9-2019",
+"path": "local/arges/balilesti/2019/9",
+"kind": "local",
+"year": "2019",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălilești nr. 9/2019 privind aprobarea cererilor depuse de cetatenii comunei Balilesti pentru scutirea unor impozite si taxe locale pentru anul2019 Consiliul Locql al comunei BdlileSti, judetul Arges, intrunit in sedinta ordinara din dota de 28.01.2019, Avdnd in vedere: - - Expunerea de motive a Primarului comunei Balilesti inregistrata cunr.2l}ll0.0l.2019; Referatul de specialitate intocmit de serviciul impozite si taxe inregistrat cu nr.2I9lI0.0t.20t9; - Cererile inregistrate la Primaria Balilesti prin care se solicita scutirea de la plata impozitelor si taxelor locale pentru anul2019; - Avizul de legalitate al secretarului comunei Bdlileqti, judeful Argeg;",
+"short": "HCL Bălilești nr. 9/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-28",
+"latest": "2019-01-28",
+"portal": "https://www.primariabalilesti.ro/ro/Informatii-Consiliul-Local/HOT%C4%82R%C3%82RI-ALE-CONSILIULUI-LOCAL-AL-COMUNEI-B%C4%82LILE%C8%98TI-359",
+"council": "arges/balilesti",
+"council_name": "Consiliul Local al Comunei Bălilești",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

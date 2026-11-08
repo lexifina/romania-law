@@ -3,6 +3,36 @@
  "shard": "local/bacau/helegiu/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--helegiu-22-2026",
+   "path": "local/bacau/helegiu/2026/22",
+   "short": "HCL Helegiu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 22/2026 privind aprobare indicatori PUG",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2026/05/Hotarare-22-din-21.04.2026-privind-aprobare-indicatori-PUG.pdf",
+     "sha256": "b75b445198fee723e67a70a4ec4b6f9ddd372c93756d44ad5adfc4bfc4b21a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-36-2026",
+   "path": "local/bacau/helegiu/2026/36",
+   "short": "HCL Helegiu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 36/2026 Nr. 36/23.07.2026 privind aprobarea Regulamentului de organizare si functionare al aparatului de specialitate al Primarului comunei Helegiu și a structurilor fără personalitate juridică din subordinea Consiliului local Helegiu",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 5,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2026/07/Hotarare-nr.36-din-23.07.2026-aprobare-Regulament-de-Organizare-si-Functioanare-al-aparatului-de-specialitate-al-primarului-comunei-Helegiu.pdf",
+     "sha256": "37ad287ea2d55a8b194b7943483c3be339e5f68e23a1a758f42717fbe26e3cbc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--helegiu-38-2026",
    "path": "local/bacau/helegiu/2026/38",
    "short": "HCL Helegiu nr. 38/2026",
@@ -134,6 +164,21 @@
      "units": 1,
      "source_url": "https://helegiu.ro/wp-content/uploads/2026/11/hotararea-nr.-49-privind-aprobare-indicatori-gaze.docx.pdf",
      "sha256": "3cac46c1084c91a96075929a2d0da269d6e79e2a8518614acc2dc52df265a5c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-7-2026",
+   "path": "local/bacau/helegiu/2026/7",
+   "short": "HCL Helegiu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 7/2026 Nr. 7/29.01.2026 privind modificarea tarifului pe care il va percepe Serviciul Public de Salubrizare Helegiu de la utilizatorii casnici pentru prestarea activitatilor de colectare, transport si depozitare deseuri solide",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 7,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2026/02/Hotarare-nr.7-din-29.01.2026-privind-modificarea-tarifului-pe-care-il-va-percepe-Serviciul-Public-de-Salubrizare-Helegiu-de-la-persoanele-fizice.pdf",
+     "sha256": "f3382a7239a57fc7f99ce43b1cfc43e0b935485a2746da21c24497d4083daddc"
     }
    ]
   }

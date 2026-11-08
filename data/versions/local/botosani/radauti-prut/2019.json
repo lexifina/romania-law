@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/radauti-prut/2019",
+ "acts": [
+  {
+   "slug": "hcl-botosani--radauti-prut-46-2019",
+   "path": "local/botosani/radauti-prut/2019/46",
+   "short": "HCL Rădăuți-Prut nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 46/2019 privind aprobarea Regulamentului de acordare a voucherelor de vacanta",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/10/HCL%2046.pdf",
+     "sha256": "803f0f9d19bf4ffa4b5aeb4cc2e8d93df3e5813e73c48ffa0f3c70881fef99c7"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/judet/botosani/2006",
 "acts": [
 {
+"slug": "hcj-botosani-2-2006",
+"path": "local/judet/botosani/2006/2",
+"kind": "local",
+"year": "2006",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 2/2006 privind stabilirea tarifelor pentru desfășurarea activității Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Botoșani, în anul 2007",
+"short": "HCJ Botoșani nr. 2/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-08-30",
+"latest": "2006-08-30",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcj-botosani-3-2006",
 "path": "local/judet/botosani/2006/3",
 "kind": "local",

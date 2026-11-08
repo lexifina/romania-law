@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/unteni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--unteni-43-2024",
+   "path": "local/botosani/unteni/2024/43",
+   "short": "HCL Unțeni nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 43/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=5",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/43_2024_1744869545.pdf",
+     "sha256": "b5422e92bfcfdd1eb189da4c066f74592f8e1af394aa0d05f6fb9afc9a4f9383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-46-2024",
+   "path": "local/botosani/unteni/2024/46",
+   "short": "HCL Unțeni nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 46/2024 privind aprobarea taxei de salubrizare pentru utilizatorii casnici și utilizatorii noncasnici din UAT Unțeni începand cu 01.01.2025",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=5",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 4,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/46_2024_1744871632.pdf",
+     "sha256": "cfb8a6931906f0b8d53281701f443f6dff36b08568c915c3201b14b1103ae4d2"
+    }
+   ]
+  }
+ ]
+}

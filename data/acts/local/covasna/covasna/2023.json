@@ -1,0 +1,231 @@
+{
+"country": "RO",
+"shard": "local/covasna/covasna/2023",
+"acts": [
+{
+"slug": "hcl-covasna--covasna-14-2023",
+"path": "local/covasna/covasna/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 14/2023",
+"short": "HCL Covasna nr. 14/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-15-2023",
+"path": "local/covasna/covasna/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 15/2023",
+"short": "HCL Covasna nr. 15/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-16-2023",
+"path": "local/covasna/covasna/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 16/2023",
+"short": "HCL Covasna nr. 16/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-29-2023",
+"path": "local/covasna/covasna/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 29/2023",
+"short": "HCL Covasna nr. 29/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-30-2023",
+"path": "local/covasna/covasna/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 30/2023",
+"short": "HCL Covasna nr. 30/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-69-2023",
+"path": "local/covasna/covasna/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 69/2023 Privind indexarea impozitelor și taxelor locale, pentru anul 2024",
+"short": "HCL Covasna nr. 69/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-covasna--covasna-87-2023",
+"path": "local/covasna/covasna/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 87/2023 cu privire la modificarea, stabilirea tarifelor la serviciul public de salubritate „Colectarea și transportul deșeurilor municipale” pe raza orașului Covasna",
+"short": "HCL Covasna nr. 87/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-covasna--covasna-167-2023",
+"path": "local/covasna/covasna/2023/167",
+"kind": "local",
+"year": "2023",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 167/2023 cu privire la aprobarea unor tarife pentru închirierea unor echipamente sportive la Pârtia de schi \"Lőrincz Zsigmond\" pentru sezonul de iarnă 2023-2024",
+"short": "HCL Covasna nr. 167/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-covasna--covasna-191-2023",
+"path": "local/covasna/covasna/2023/191",
+"kind": "local",
+"year": "2023",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 191/2023 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General al orașului Covasna și a Regulamentului local de urbanism aferent acestuia",
+"short": "HCL Covasna nr. 191/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-covasna--covasna-199-2023",
+"path": "local/covasna/covasna/2023/199",
+"kind": "local",
+"year": "2023",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 199/2023 cu privire la aprobarea Regulamentului de Organizare și Funcționare al Aparatului de Specialitate al Primarului orașului Covasna",
+"short": "HCL Covasna nr. 199/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "http://www.primariacovasna.ro/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/dobarceni/2025",
+"acts": [
+{
+"slug": "hcl-botosani--dobarceni-12-2025",
+"path": "local/botosani/dobarceni/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 12/2025 privind indexarea impozitelor si taxelor locale pentru anul 2026 cu rata inflatiei de din anul 2024 respectiv de 5,6 % Consiliul local al comunei Dobârceni , Județul Botoșani ; Analizând raportul de aprobare nr.72/22 04 2025 al primarului comunei Dobârceni și referatul compartimentului financiar contabil nr .73/22.04 2025; Potrivit Comunicatului nr. 10/14.01.2025 al Institutului Național de Statis",
+"short": "HCL Dobârceni nr. 12/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://comunadobarceni.ro/hotararea-nr-12-din-data-de-28-04-2025/",
+"council": "botosani/dobarceni",
+"council_name": "Consiliul Local al Comunei Dobârceni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

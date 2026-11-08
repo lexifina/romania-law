@@ -3,6 +3,666 @@
  "shard": "local/arad/varfurile/2024",
  "acts": [
   {
+   "slug": "hcl-arad--varfurile-10-2024",
+   "path": "local/arad/varfurile/2024/10",
+   "short": "HCL Vârfurile nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 10/2024 privind aprobarea Programului anual al achizițiilor publice pentru anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143261",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-11-2024",
+   "path": "local/arad/varfurile/2024/11",
+   "short": "HCL Vârfurile nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 11/2024 privind adoptarea bugetului general de venituri și cheltuieli al Comunei Vârfurile, Județul Arad, pe anul 2024 și estimări pentru anii 2025, 2026 și 2027",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143262",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-13-2024",
+   "path": "local/arad/varfurile/2024/13",
+   "short": "HCL Vârfurile nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 13/2024 privind aprobarea Planului de activități și lucrări de interes local ce se preconizează a fi efectuate în cursul anului 2024, de către persoanele apte de muncă beneficiare ale Legii nr.196/2016, privind venitul minim de incluziune",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143264",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-14-2024",
+   "path": "local/arad/varfurile/2024/14",
+   "short": "HCL Vârfurile nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 14/2024 privind delegarea prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor, Județul Arad ADISIGD Arad din Zona 2, Zona 3 și Zona 4 a județului Arad, avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 2, Zona 3 și Zona 4",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143265",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-15-2024",
+   "path": "local/arad/varfurile/2024/15",
+   "short": "HCL Vârfurile nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 15/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 14 februarie 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149246",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-17-2024",
+   "path": "local/arad/varfurile/2024/17",
+   "short": "HCL Vârfurile nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 17/2024 privind delegarea gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad ADISIGD Arad din Zona 4 a județului Arad, avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în Județul Arad, Zona 4",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149248",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-18-2024",
+   "path": "local/arad/varfurile/2024/18",
+   "short": "HCL Vârfurile nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 18/2024 privind actualizarea Planului de Analiză și Acoperire a Riscurilor generatoare de situații de urgență la nivelul comunei Vârfurile, pe anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149249",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-2-2024",
+   "path": "local/arad/varfurile/2024/2",
+   "short": "HCL Vârfurile nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 2/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 14.02.2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143253",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-20-2024",
+   "path": "local/arad/varfurile/2024/20",
+   "short": "HCL Vârfurile nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 20/2024 privind stabilirea de măsuri pentru asigurarea participării cetățenilor, a instituțiilor publice și a operatorilor economici la realizarea activităților de gospodărire, înfrumusețare și păstrarea ordinii și curățeniei și protecția mediului în comuna Vârfurile, pentru anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149251",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-21-2024",
+   "path": "local/arad/varfurile/2024/21",
+   "short": "HCL Vârfurile nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 21/2024 privind aprobarea Planului de acțiune pentru gestionarea câinilor fără stăpân, pentru anii 2024 - 2025",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149252",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-22-2024",
+   "path": "local/arad/varfurile/2024/22",
+   "short": "HCL Vârfurile nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 22/2024 privind aprobarea Planului de acțiune pe anul 2024 al serviciilor sociale administrate și finanțate din bugetul Unității Administrativ-Teritoriale Comuna Vârfurile, județul Arad",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149253",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-24-2024",
+   "path": "local/arad/varfurile/2024/24",
+   "short": "HCL Vârfurile nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 24/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare, prin Actul Adițional nr.23",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/149255",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/149255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-27-2024",
+   "path": "local/arad/varfurile/2024/27",
+   "short": "HCL Vârfurile nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 27/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/155476",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/155476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-28-2024",
+   "path": "local/arad/varfurile/2024/28",
+   "short": "HCL Vârfurile nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 28/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/155477",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/155477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-29-2024",
+   "path": "local/arad/varfurile/2024/29",
+   "short": "HCL Vârfurile nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 29/2024 privind rectificarea bugetului local al Comunei Vârfurile pe anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/155478",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/155478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-3-2024",
+   "path": "local/arad/varfurile/2024/3",
+   "short": "HCL Vârfurile nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 3/2024 privind aprobarea Contractului de delegare a gestiunii serviciului de eliminare, prin depozitare, a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a reziduurilor rezultate de la instalațiile de tratare da deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor la depozitele de deșeuri nepericuloase în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad - Operarea Depozitului de deșeuri nepericuloase Arad, componenta eliminare, prin depozitare, a deșeurilor municipale reziduale, a reziduurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum, a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor și a deșeurilor care nu pot fi valorificate din deșeurile voluminoase, deșeurile textile și deșeurile provenite de la evenimente la depozitul de deșeuri nepericuloase din Aria Delegării",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143254",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-30-2024",
+   "path": "local/arad/varfurile/2024/30",
+   "short": "HCL Vârfurile nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 30/2024 privind aprobarea contului de execuție bugetară pe anul 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/155479",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/155479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-33-2024",
+   "path": "local/arad/varfurile/2024/33",
+   "short": "HCL Vârfurile nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 33/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare, prin Actul Adițional nr.24",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/157042",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/157042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-34-2024",
+   "path": "local/arad/varfurile/2024/34",
+   "short": "HCL Vârfurile nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 34/2024 privind aprobarea Documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE STRĂZI SECUNDARE ÎN LOCALITATEA VÂRFURILE”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/157043",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/157043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-39-2024",
+   "path": "local/arad/varfurile/2024/39",
+   "short": "HCL Vârfurile nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 39/2024 privind aprobarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului comunei Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/159779",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/159779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-4-2024",
+   "path": "local/arad/varfurile/2024/4",
+   "short": "HCL Vârfurile nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 4/2024 privind modificarea HCL nr.31 din data de 27.04.2023 privind aprobarea aderării și includerii teritoriului Unității Administrativ Teritoriale Comuna Vârfurile, Județul Arad la Parteneriatul LEADER cu denumirea ”ASOCIAȚIA GRUPUL DE ACȚIUNE LOCALĂ ”DEPRESIUNEA SEBIȘ-GURAHONȚ-HĂLMAGIU” ”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143255",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-40-2024",
+   "path": "local/arad/varfurile/2024/40",
+   "short": "HCL Vârfurile nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 40/2024 privind schimbarea destinației imobilului situat în satul Mermești, compus din construcția cu numărul cadastral 301503-C1, înscris în CF nr.301503 Vârfurile, din „spațiu pentru învățământ” în spațiu cu destinație de „sală multifuncțională”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/159780",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/159780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-42-2024",
+   "path": "local/arad/varfurile/2024/42",
+   "short": "HCL Vârfurile nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 42/2024 privind aprobarea modificării indicatorilor tehnico-economici și a devizului general actualizat conform ofertei câștigătoare și a actelor adiționale subsecvente, pentru obiectivul de investiții „MODERNIZARE DRUM COMUNAL DC 42 ÎN LOCALITATEA MERMEȘTI, COMUNA VÂRFURILE”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/159782",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/159782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-45-2024",
+   "path": "local/arad/varfurile/2024/45",
+   "short": "HCL Vârfurile nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 45/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare, prin Actul Adițional nr. 25",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/166795",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/166795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-47-2024",
+   "path": "local/arad/varfurile/2024/47",
+   "short": "HCL Vârfurile nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 47/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare, prin Actul Adițional nr.26",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/166797",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/166797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-48-2024",
+   "path": "local/arad/varfurile/2024/48",
+   "short": "HCL Vârfurile nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 48/2024 privind rectificarea bugetului local al comunei Vârfurile pe anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/166798",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/166798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-49-2024",
+   "path": "local/arad/varfurile/2024/49",
+   "short": "HCL Vârfurile nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 49/2024 privind aprobarea Contractului de delegare (operare a stațiilor de transfer) prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad, respectiv transferul deșeurilor municipale în stațiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deșeurilor reziduale la depozitul de deșeuri nepericuloase și la instalațiile integrate de tratare al deșeurilor de hârtie, metal, plastic și sticlă colectate separat la stațiile de sortare și al biodeșeurilor la instalațiile de compostare",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/166799",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/166799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-5-2024",
+   "path": "local/arad/varfurile/2024/5",
+   "short": "HCL Vârfurile nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 5/2024 privind aprobarea rețelei școlare a unităților de învățământ din comuna Vârfurile, care va funcționa în anul școlar 2024-2025",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143256",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-52-2024",
+   "path": "local/arad/varfurile/2024/52",
+   "short": "HCL Vârfurile nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 52/2024 privind aprobarea prelungirii Contractului de concesiune nr.2911/30.11.2004 încheiat între Consiliul Local Vârfurile și Dr.Bărbulescu Valerică",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/166802",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/166802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-56-2024",
+   "path": "local/arad/varfurile/2024/56",
+   "short": "HCL Vârfurile nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 56/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/173125",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/173125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-57-2024",
+   "path": "local/arad/varfurile/2024/57",
+   "short": "HCL Vârfurile nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 57/2024 privind anularea unor obligații bugetare, conform OUG nr.107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/173126",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/173126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-6-2024",
+   "path": "local/arad/varfurile/2024/6",
+   "short": "HCL Vârfurile nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 6/2024 privind aprobarea cuantumului cotizației aferent anului 2024 la bugetul Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143257",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-60-2024",
+   "path": "local/arad/varfurile/2024/60",
+   "short": "HCL Vârfurile nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 60/2024 privind rectificarea bugetului local al Comunei Vârfurile pe anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/173129",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/173129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-62-2024",
+   "path": "local/arad/varfurile/2024/62",
+   "short": "HCL Vârfurile nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 62/2024 privind aprobarea Proiectului rețelei școlare a unităților de învățământ de pe raza comunei Vârfurile, propusă pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/173131",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/173131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-64-2024",
+   "path": "local/arad/varfurile/2024/64",
+   "short": "HCL Vârfurile nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 64/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/175743",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/175743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-65-2024",
+   "path": "local/arad/varfurile/2024/65",
+   "short": "HCL Vârfurile nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 65/2024 privind alegerea Viceprimarului comunei Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/175744",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/175744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-68-2024",
+   "path": "local/arad/varfurile/2024/68",
+   "short": "HCL Vârfurile nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 68/2024 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177912",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-7-2024",
+   "path": "local/arad/varfurile/2024/7",
+   "short": "HCL Vârfurile nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 7/2024 privind prorogarea, până la data de 30 iunie 2024, în condițiile art.LXIX din Ordonanța de Urgență a Guvernului nr.115/2023, a termenului de punere în aplicare a Hotărârii nr.87 din 28 noiembrie 2023, privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului Comunei Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143258",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-70-2024",
+   "path": "local/arad/varfurile/2024/70",
+   "short": "HCL Vârfurile nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 70/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177914",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-71-2024",
+   "path": "local/arad/varfurile/2024/71",
+   "short": "HCL Vârfurile nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 71/2024 privind aprobarea „Regulamentului de instituire și administrare a taxei de salubrizare în UAT Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177915",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-72-2024",
+   "path": "local/arad/varfurile/2024/72",
+   "short": "HCL Vârfurile nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 72/2024 privind rectificarea bugetului local al comunei Vârfurile pe anul 2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177916",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-73-2024",
+   "path": "local/arad/varfurile/2024/73",
+   "short": "HCL Vârfurile nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 73/2024 privind însușirea documentațiilor cadastrale de primă înscriere în sistemul integrat de cadastru și carte funciară ce privesc bunuri aflate în domeniul public al comunei Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177917",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-74-2024",
+   "path": "local/arad/varfurile/2024/74",
+   "short": "HCL Vârfurile nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 74/2024 privind aprobarea indicatorilor tehnico-economici pentru proiectul „DOTAREA SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ VÂRFURILE CU UN BULDOEXCAVATOR MULTIFUNCȚIONAL”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177919",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-75-2024",
+   "path": "local/arad/varfurile/2024/75",
+   "short": "HCL Vârfurile nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 75/2024 privind implementarea proiectului „DOTAREA SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ VÂRFURILE CU UN BULDOEXCAVATOR MULTIFUNCȚIONAL”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/177918",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/177918",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-79-2024",
    "path": "local/arad/varfurile/2024/79",
    "short": "HCL Vârfurile nr. 79/2024",
@@ -13,6 +673,21 @@
      "from": "2025-01-03",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/181938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-8-2024",
+   "path": "local/arad/varfurile/2024/8",
+   "short": "HCL Vârfurile nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 8/2024 privind aprobarea decontării contravalorii cheltuielilor de transport pentru angajații din aparatul de specialitate al Primarului comunei Vârfurile care nu au domiciliul sau reședința în localitatea Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143259",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143259",
      "sha256": null
     }
    ]
@@ -163,6 +838,21 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-9-2024",
+   "path": "local/arad/varfurile/2024/9",
+   "short": "HCL Vârfurile nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 9/2024 privind aprobarea utilizării excedentului anului precedent pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/143260",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/143260",
      "sha256": null
     }
    ]

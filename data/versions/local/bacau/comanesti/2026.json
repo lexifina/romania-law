@@ -588,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--comanesti-6-2026",
+   "path": "local/bacau/comanesti/2026/6",
+   "short": "HCL Comănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 6/2026 privind aprobare PUZ - \"Schimbare destinație fabrică de pâine în centru medical pentru recuperare și îngrijire paliativă, extindere clădire C1 și schimbare destinație imobil din magazie făina și atelier mecanic în centru de îngrijire medicală, îngrijire paliativă și asistenț",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_006_29.01.2026.pdf",
+     "sha256": "a69b58ba439ec03275a17c6e9eb513a2461cfcd54fc1cecc4e38dc6cf3bb6767"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--comanesti-60-2026",
    "path": "local/bacau/comanesti/2026/60",
    "short": "HCL Comănești nr. 60/2026",
@@ -974,6 +989,21 @@
      "units": 1,
      "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_087_28.08.2026.pdf",
      "sha256": "45375cb540b8c33e8106888a042274fd2b4ffdb6bd8be8712f48ed702a0a095a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-9-2026",
+   "path": "local/bacau/comanesti/2026/9",
+   "short": "HCL Comănești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 9/2026 privind aprobare PUZ - \"Construire spații comerciale și locuințe colective\", str",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_009_27.02.2026.pdf",
+     "sha256": "b1bbc5d09d757880dfb8e990ffbeb595bf0be5f726f1c1a075549747a6930d3a"
     }
    ]
   },

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/spring/2025",
+ "acts": [
+  {
+   "slug": "hcl-alba--spring-147-2025",
+   "path": "local/alba/spring/2025/147",
+   "short": "HCL Șpring nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 147/2025 privind aprobarea prețurilor de referință ale masei lemnoase",
+   "url": "https://comunaspring.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOEB441.pdf",
+     "sha256": "ebf83fa208cbe2c40b795c5cb81b533868ec1b438d5bafcff4b6e7859b0b98e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-158-2025",
+   "path": "local/alba/spring/2025/158",
+   "short": "HCL Șpring nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 158/2025 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2026",
+   "url": "https://comunaspring.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HOTARAREA-NR.-158-din-29-12-2025-privind-nivelurile-pentru-valorile-impozabile-impozitele-si-taxele-locale-si-alte-taxe-asimilate-acestora-precum-si-amenzile-aplicabile-in-anul-fiscal-2026.pdf",
+     "sha256": "fc189bcd8484af8b5d275f16e0057429a9e6a349640523b94ee38befe7425882"
+    }
+   ]
+  }
+ ]
+}

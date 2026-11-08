@@ -3,6 +3,50 @@
 "shard": "local/arad/macea/2025",
 "acts": [
 {
+"slug": "hcl-arad--macea-45-2025",
+"path": "local/arad/macea/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 45/2025 privind aprobarea Regulamentului privind activităţile de tăiere sau toaletare a arborilor din spaţiile verzi şi din alte terenuri aflate în proprietatea publică sau privată a Comunei Macea",
+"short": "HCL Macea nr. 45/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/macea-ar/registru-hcl/215082",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-80-2025",
+"path": "local/arad/macea/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 80/2025 privind aprobarea Regulamentului de Organizare şi funcţionare a spaţiilor de joacă situate pe domeniul public a comunei Macea",
+"short": "HCL Macea nr. 80/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/macea-ar/registru-hcl/233927",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-arad--macea-84-2025",
 "path": "local/arad/macea/2025/84",
 "kind": "local",

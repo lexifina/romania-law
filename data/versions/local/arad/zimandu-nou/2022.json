@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-23-2022",
+   "path": "local/arad/zimandu-nou/2022/23",
+   "short": "HCL Zimandu Nou nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 23/2022 privind modificarea prețului la apa potabilă și tariful la canalizare propuse de operatorul regional - societatea Compania de Apă Arad S.A",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/58568",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/58568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-7-2022",
+   "path": "local/arad/zimandu-nou/2022/7",
+   "short": "HCL Zimandu Nou nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 7/2022 Referitoare la modificarea HCL 133 din 25.11.2021 privind aprobarea nivelurilor impozitelor si taxelor locale pe anul 2022",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/51948",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/51948",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

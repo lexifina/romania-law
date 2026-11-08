@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/seitin/2025",
+"acts": [
+{
+"slug": "hcl-arad--seitin-20-2025",
+"path": "local/arad/seitin/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șeitin nr. 20/2025 privind aprobarea depunerii documentației în vederea finanțării Actualizarea PUG, Regulamentului local de Urbanism și transpunerea PUG în GIS",
+"short": "HCL Șeitin nr. 20/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://primariaseitin.ro/wp-content/uploads/2025/03/Hotararea-nr.-20-12.03.2025-privind-aprobarea-depunerii-documentatiei-in-vederea-finantarii-Actualizarea-PUG-Regulamentului-local-de-Urbanism-si-transpunerea-PUG-in-GIS.pdf",
+"council": "arad/seitin",
+"council_name": "Consiliul Local al Comunei Șeitin",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

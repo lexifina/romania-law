@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/runcu-salvei/2021",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-17-2021",
+   "path": "local/bistrita-nasaud/runcu-salvei/2021/17",
+   "short": "HCL Runcu Salvei nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 17/2021 privind aprobarea contractării unui împrumut în valoare de 1.000.000 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://primariaruncusalvei.ro/registru_hcl21.html",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcusalvei_hcl_nr.17_27.08.2021_aprobare_imprumut.pdf",
+     "sha256": "e5543c4df9f49231698385d9d50dcf370f92eeb99926a9a461de54f9e032f5fa"
+    }
+   ]
+  }
+ ]
+}

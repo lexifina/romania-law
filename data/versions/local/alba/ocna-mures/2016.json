@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2016",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-1-2016",
+   "path": "local/alba/ocna-mures/2016/1",
+   "short": "HCL Ocna Mureș nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 1/2016 privind prelungirea termenului de valabilitate a documentațiilor de urbanism PUG, PAT și RLU | 04.02.2016",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-001.pdf",
+     "sha256": "0acd13ddeeb6afdc016608d8b1e5277c3babda9e0f27121c1813760dc6a0fbb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2016",
+   "path": "local/alba/ocna-mures/2016/21",
+   "short": "HCL Ocna Mureș nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2016 privind aprobarea alocării, în bugetul UAT Orașul Ocna Mureș pe anul 2016, a sumelor necesare acordării unor drepturi de asistență socială pentru elevii cu cerințe educaționale speciale din Ocna Mureș; aprobarea normelor proprii de acordare a acestor drepturi | 04.02.2016",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-021.pdf",
+     "sha256": "a3c6a91335cf7b41188ddf6bedc46c160bcbc4a4a267ff3ee51f9d96611fe7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-27-2016",
+   "path": "local/alba/ocna-mures/2016/27",
+   "short": "HCL Ocna Mureș nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 27/2016 privind aprobarea Programului pentru acordarea finanţărilor nerambursabile aferent anului 2016 care se vor acorda în baza Regulamentului privind regimul finanţărilor nerambursabile de la bugetul oraşului Ocna Mureş, alocate pentru activităţi nonprofit de interes local aprobat prin HCLOM nr.226/19.12.2013 | 04.02.2016",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-027.pdf",
+     "sha256": "048dc917e49713290ac39cdcc8f2ab427d99d49c6fbd6c72949a27428ab2641f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-37-2016",
+   "path": "local/alba/ocna-mures/2016/37",
+   "short": "HCL Ocna Mureș nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 37/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-037.pdf",
+     "sha256": "1cb5ee4ba159838fc622fae551449813abbda66c88c066a5febe569bc0c91fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-41-2016",
+   "path": "local/alba/ocna-mures/2016/41",
+   "short": "HCL Ocna Mureș nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 41/2016 privind aprobarea Regulamentului de acordare a stimulentului educaţional pentru copii din grădiniţe care provin din familii defavorizate, conform anexei nr 1 şi a modalităţii de identificare a beneficiarilor de tichete sociale pentru grădiniţă şi de soluţionare a situaţiiilor identificate, conform anexei nr 2, care fac parte integrantă din prezenta | 29.03.2016",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-041.pdf",
+     "sha256": "996af61eff642b6d7c000e534d02dc7d0676f4f0950ad3c256019fe2d41e2d2a"
+    }
+   ]
+  }
+ ]
+}

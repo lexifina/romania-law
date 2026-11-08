@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/braila/faurei/2022",
+"acts": [
+{
+"slug": "hcl-braila--faurei-75-2022",
+"path": "local/braila/faurei/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Făurei nr. 75/2022 privind stabilirea impozitelor si taxelor locale pentru anul 2023",
+"short": "HCL Făurei nr. 75/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-21-12-2022/",
+"council": "braila/faurei",
+"council_name": "Consiliul Local al Orașului Făurei",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -488,6 +488,28 @@
 }
 },
 {
+"slug": "hcj-olt-42-2023",
+"path": "local/judet/olt/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 42/2023 cu privire la avizarea Regulamentului privind amplasarea constructiilor, Instalatiilor in zona drumurilor publice din Municipiul Caracal Vizualizare",
+"short": "HCJ Olt nr. 42/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-olt-44-2023",
 "path": "local/judet/olt/2023/44",
 "kind": "local",

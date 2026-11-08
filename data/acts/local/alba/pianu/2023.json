@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/pianu/2023",
+"acts": [
+{
+"slug": "hcl-alba--pianu-109-2023",
+"path": "local/alba/pianu/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 109/2023 privind Aprobarea stabilirii impozitelor și taxelor locale, precum și a taxelor speciale pentru 2024; 2023 Descarcă",
+"short": "HCL Pianu nr. 109/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

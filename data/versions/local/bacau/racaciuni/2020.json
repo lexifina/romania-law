@@ -3,6 +3,51 @@
  "shard": "local/bacau/racaciuni/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--racaciuni-12-2020",
+   "path": "local/bacau/racaciuni/2020/12",
+   "short": "HCL Răcăciuni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 12/2020 privind regulamentul SERV. PUB. de salubrizare al UAT-membrii ADIS Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.12%20DIN%2013.02.2020%20privind%20regulamentul%20SERV.%20PUB.%20de%20salubrizare%20al%20UAT-membrii%20ADIS.pdf",
+     "sha256": "d769ca72dd591a42074a23ae30de3e63965b36200e9cf5fd7b3b21a22549fb47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-30-2020",
+   "path": "local/bacau/racaciuni/2020/30",
+   "short": "HCL Răcăciuni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 30/2020 privind indexarea impozitelor si taxelor locale pentru anul 2021 la comuna Racaciunui Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%20%2030%20din%2020.05.2020%20privind%20indexarea%20impozitelor%20si%20taxelor%20locale%20pentru%20anul%202021%20la%20comuna%20Racaciunui.pdf",
+     "sha256": "78909de95b83a31a62fc092572364a8abd6f124695453f20381bd6e29369ea60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-34-2020",
+   "path": "local/bacau/racaciuni/2020/34",
+   "short": "HCL Răcăciuni nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 34/2020 privind regulamentuyl referitor la conditiile in care se realizeaza accesul pe dom.public a retelelor de comunicatii Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.34%20din%2030.06.2020%20privind%20%20regulamentuyl%20referitor%20la%20conditiile%20in%20care%20se%20realizeaza%20accesul%20pe%20dom.public%20a%20retelelor%20de%20comunicatii%20e.pdf",
+     "sha256": "82a3331b7b907950df5c057a3b33fc956851ec4c572e0ba2eb8114a32d3319ef"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racaciuni-71-2020",
    "path": "local/bacau/racaciuni/2020/71",
    "short": "HCL Răcăciuni nr. 71/2020",
@@ -59,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20nr.%2074%20din%2021.12.2020%20privind%20rectificarea%20bugetului%20comunei%20R%C4%83c%C4%83ciuni%20pentru%20trim.IV%20al%20anului%202020.pdf",
      "sha256": "8cf95dc5b0b675040d7d32fa9df12f518a346ed856b1946aa825b192af698260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-8-2020",
+   "path": "local/bacau/racaciuni/2020/8",
+   "short": "HCL Răcăciuni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 8/2020 privind mod. tarife operator SC ECOSUD SA Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2020/HCL%20NR.8%20DIN%2030.01.2020%20privind%20mod.%20tarife%20operator%20SC%20ECOSUD%20SA.pdf",
+     "sha256": "fc609242ab4c40dbdd6c84ac56d9d1908ccb8a6db8da6a844ac4c5950b617891"
     }
    ]
   }

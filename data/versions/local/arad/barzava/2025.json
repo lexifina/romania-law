@@ -3,6 +3,426 @@
  "shard": "local/arad/barzava/2025",
  "acts": [
   {
+   "slug": "hcl-arad--barzava-1-2025",
+   "path": "local/arad/barzava/2025/1",
+   "short": "HCL Bârzava nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 1/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 20.12.2024",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192389",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-10-2025",
+   "path": "local/arad/barzava/2025/10",
+   "short": "HCL Bârzava nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 10/2025 privind activitatea asistenților personali ai persoanelor cu handicap grav pentru perioada iulie-decembrie 2024",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192398",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-100-2025",
+   "path": "local/arad/barzava/2025/100",
+   "short": "HCL Bârzava nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 100/2025 privind respingerea modificării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229128",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-101-2025",
+   "path": "local/arad/barzava/2025/101",
+   "short": "HCL Bârzava nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 101/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229129",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-102-2025",
+   "path": "local/arad/barzava/2025/102",
+   "short": "HCL Bârzava nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 102/2025 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229130",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-105-2025",
+   "path": "local/arad/barzava/2025/105",
+   "short": "HCL Bârzava nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 105/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 30.09.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233891",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-106-2025",
+   "path": "local/arad/barzava/2025/106",
+   "short": "HCL Bârzava nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 106/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 22.10.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233892",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-107-2025",
+   "path": "local/arad/barzava/2025/107",
+   "short": "HCL Bârzava nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 107/2025 privind rectificarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233893",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-108-2025",
+   "path": "local/arad/barzava/2025/108",
+   "short": "HCL Bârzava nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 108/2025 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul III pe anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233894",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-109-2025",
+   "path": "local/arad/barzava/2025/109",
+   "short": "HCL Bârzava nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 109/2025 privind completarea programului de investiţii şi achiziţii publice pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233895",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-11-2025",
+   "path": "local/arad/barzava/2025/11",
+   "short": "HCL Bârzava nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 11/2025 privind analiza capacității de apărare împotriva incendiilor la nivelul comunei Bârzava pentru semestrul II 2024",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192399",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-110-2025",
+   "path": "local/arad/barzava/2025/110",
+   "short": "HCL Bârzava nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 110/2025 privind rectificarea bugetului de venituri și cheltuieli a Regiei Publice Locale Ocolul Silvic ”PIATRA CERBULUI” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233896",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-111-2025",
+   "path": "local/arad/barzava/2025/111",
+   "short": "HCL Bârzava nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 111/2025 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233897",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-112-2025",
+   "path": "local/arad/barzava/2025/112",
+   "short": "HCL Bârzava nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 112/2025 privind solicitarea Consiliului local Bârzava adresată Parohiei Ortodoxe Monorostia în vederea constituirii unui drept de superficie în favoarea comunei asupra terenului în suprafața de 466 mp",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233898",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-114-2025",
+   "path": "local/arad/barzava/2025/114",
+   "short": "HCL Bârzava nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 114/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 22.10.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235551",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-115-2025",
+   "path": "local/arad/barzava/2025/115",
+   "short": "HCL Bârzava nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 115/2025 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 14.11.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235552",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-116-2025",
+   "path": "local/arad/barzava/2025/116",
+   "short": "HCL Bârzava nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 116/2025 privind rectificarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235553",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-117-2025",
+   "path": "local/arad/barzava/2025/117",
+   "short": "HCL Bârzava nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 117/2025 privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zona 5, avizarea Strategiei de contractare, a Studiului de fundamentare/oportunitate și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235554",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-118-2025",
+   "path": "local/arad/barzava/2025/118",
+   "short": "HCL Bârzava nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 118/2025 privind avizarea Strategiei de contractare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235555",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-119-2025",
+   "path": "local/arad/barzava/2025/119",
+   "short": "HCL Bârzava nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 119/2025 privind respingerea ajustării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235556",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-12-2025",
+   "path": "local/arad/barzava/2025/12",
+   "short": "HCL Bârzava nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 12/2025 privind înființarea Serviciului Voluntar pentru Situații de Urgență al comunei BÂRZAVA - serviciu de tip V2 și aprobarea Regulamentului de organizare și funcționare al Serviciului Voluntar pentru Situații de Urgență al comunei BÂRZAVA",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192400",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-120-2025",
+   "path": "local/arad/barzava/2025/120",
+   "short": "HCL Bârzava nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 120/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235557",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-121-2025",
+   "path": "local/arad/barzava/2025/121",
+   "short": "HCL Bârzava nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 121/2025 privind demararea procedurii de atestare a apartenentei unui imobile la domeniul public al comunei Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/235558",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/235558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-122-2025",
+   "path": "local/arad/barzava/2025/122",
+   "short": "HCL Bârzava nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 122/2025 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 14.11.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/240394",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/240394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-123-2025",
+   "path": "local/arad/barzava/2025/123",
+   "short": "HCL Bârzava nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 123/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 28.11.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/240395",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/240395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-124-2025",
+   "path": "local/arad/barzava/2025/124",
+   "short": "HCL Bârzava nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 124/2025 privind completarea programului de investiţii şi achiziţii publice pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/240396",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/240396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-125-2025",
+   "path": "local/arad/barzava/2025/125",
+   "short": "HCL Bârzava nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 125/2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRĂZI ÎN LOCALITĂȚILE BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/240397",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/240397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-126-2025",
+   "path": "local/arad/barzava/2025/126",
+   "short": "HCL Bârzava nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 126/2025 privind depunerea si implementarea proiectului cu titlul “AMENAJARE TEREN DE SPORT MULTIFUNCTIONAL , LOCALITATEA GROSII NOI, COMUNA BARZAVA, JUDETUL ARAD”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/240398",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/240398",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-127-2025",
    "path": "local/arad/barzava/2025/127",
    "short": "HCL Bârzava nr. 127/2025",
@@ -43,6 +463,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/240401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-13-2025",
+   "path": "local/arad/barzava/2025/13",
+   "short": "HCL Bârzava nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 13/2025 privind intenția de aderare la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Arad a Asociației Comunelor din România aprobarea și încheierea unui Acord de cooperare în acest sens",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192401",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192401",
      "sha256": null
     }
    ]
@@ -298,6 +733,1251 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/243741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-15-2025",
+   "path": "local/arad/barzava/2025/15",
+   "short": "HCL Bârzava nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 15/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 30.01.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193141",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-16-2025",
+   "path": "local/arad/barzava/2025/16",
+   "short": "HCL Bârzava nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 16/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 21.02.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193142",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-17-2025",
+   "path": "local/arad/barzava/2025/17",
+   "short": "HCL Bârzava nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 17/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193143",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-18-2025",
+   "path": "local/arad/barzava/2025/18",
+   "short": "HCL Bârzava nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 18/2025 privind aprobarea planului de dezvoltare a serviciilor sociale la nivelul comunei Bârzava, judetul Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193144",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-19-2025",
+   "path": "local/arad/barzava/2025/19",
+   "short": "HCL Bârzava nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 19/2025 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Comunei BÂRZAVA, Județul Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193145",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-2-2025",
+   "path": "local/arad/barzava/2025/2",
+   "short": "HCL Bârzava nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 2/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 30.01.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192390",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-20-2025",
+   "path": "local/arad/barzava/2025/20",
+   "short": "HCL Bârzava nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 20/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193146",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-21-2025",
+   "path": "local/arad/barzava/2025/21",
+   "short": "HCL Bârzava nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 21/2025 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2025 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193147",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-22-2025",
+   "path": "local/arad/barzava/2025/22",
+   "short": "HCL Bârzava nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 22/2025 privind aprobarea DEVIZULUI GENERAL, actualizat după încheierea contractului de finanțare la obiectivul de investiții “Productie energie pentru autoconsum - Comuna Bârzava”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193148",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-24-2025",
+   "path": "local/arad/barzava/2025/24",
+   "short": "HCL Bârzava nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 24/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 21.02.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198351",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-25-2025",
+   "path": "local/arad/barzava/2025/25",
+   "short": "HCL Bârzava nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 25/2025 privind aprobarea ORDINEI DE ZI a ședinței ordinare a Consiliului Local al comunei Bârzava din 14.03.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198352",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-26-2025",
+   "path": "local/arad/barzava/2025/26",
+   "short": "HCL Bârzava nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 26/2025 privind aprobarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198353",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-27-2025",
+   "path": "local/arad/barzava/2025/27",
+   "short": "HCL Bârzava nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 27/2025 privind aprobarea bugetului de venituri și cheltuieli al ”Serviciul public de interes local de administrare a patrimoniului local și transport școlar”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198354",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-28-2025",
+   "path": "local/arad/barzava/2025/28",
+   "short": "HCL Bârzava nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 28/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198355",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-29-2025",
+   "path": "local/arad/barzava/2025/29",
+   "short": "HCL Bârzava nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 29/2025 privind aprobarea utilizării excedentului bugetului local al ”Comunei Bârzava”, din anul 2024 pentru secțiunea de dezvoltare în anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198356",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-3-2025",
+   "path": "local/arad/barzava/2025/3",
+   "short": "HCL Bârzava nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 3/2025 privind aprobarea volumului de masă lemnoasă care se recoltează din fondul forestier proprietatea comunei Bârzava pentru anul 2025, pentru masa lemnoasă pusă în valoare",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192391",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-30-2025",
+   "path": "local/arad/barzava/2025/30",
+   "short": "HCL Bârzava nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 30/2025 privind aprobarea utilizării sumelor din excedentul bugetului local al ”Serviciul public de interes local de administrare a patrimoniului local și transport școlar”, din anul 2024 pentru secțiunea de dezvoltare si funcționare în anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198357",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-31-2025",
+   "path": "local/arad/barzava/2025/31",
+   "short": "HCL Bârzava nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 31/2025 privind aprobarea programului de investiții și achiziții publice pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198358",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-33-2025",
+   "path": "local/arad/barzava/2025/33",
+   "short": "HCL Bârzava nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 33/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 14.03.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202232",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-34-2025",
+   "path": "local/arad/barzava/2025/34",
+   "short": "HCL Bârzava nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 34/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 08.04.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202233",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-35-2025",
+   "path": "local/arad/barzava/2025/35",
+   "short": "HCL Bârzava nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 35/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202234",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-36-2025",
+   "path": "local/arad/barzava/2025/36",
+   "short": "HCL Bârzava nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 36/2025 privind aprobarea participării la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană și mandatarea primarului pentru derularea procedurilor necesare",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202235",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-37-2025",
+   "path": "local/arad/barzava/2025/37",
+   "short": "HCL Bârzava nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 37/2025 privind atestarea apartenenței la domeniul public al comunei Bârzava a unui bun imobil înscris în CF nr. 301631, top. 49.a, a localității Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202236",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-38-2025",
+   "path": "local/arad/barzava/2025/38",
+   "short": "HCL Bârzava nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 38/2025 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202237",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-39-2025",
+   "path": "local/arad/barzava/2025/39",
+   "short": "HCL Bârzava nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 39/2025 privind aprobarea normativelor proprii de cheltuieli pentru acțiuni de protocol efectuate la nivelul comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202238",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-4-2025",
+   "path": "local/arad/barzava/2025/4",
+   "short": "HCL Bârzava nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 4/2025 privind stabilirea volumului de material lemnos necesar pentru consumul populației, consumul propriu precum și stabilirea criteriilor și priorităților privind valorificarea masei lemnoase pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192392",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-40-2025",
+   "path": "local/arad/barzava/2025/40",
+   "short": "HCL Bârzava nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 40/2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRAZI ÎN LOCALITATEA BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202239",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-41-2025",
+   "path": "local/arad/barzava/2025/41",
+   "short": "HCL Bârzava nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 41/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202240",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-42-2025",
+   "path": "local/arad/barzava/2025/42",
+   "short": "HCL Bârzava nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 42/2025 privind aprobarea încheierii contractului de cesiune având ca obiect transferul cu titlu gratuit către Comuna Bârzava a gestiunii/administrării asupra Podului amplasat peste râul Mureș de la Asocierea Webuild-FCC-Salcef-Hitachi Rail, Lot 2B (“Asocierea”) compusa din: WEBUILD SpA în calitate de Lider de Asociere, FCC CONSTRUCTION SA în calitate de ASOCIAT 1, SALCEF GROUP SA in calitate de ASOCIAT 2, HITACHI RAIL GTS SRL in calitate de ASOCIAT 3",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/202241",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/202241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-43-2025",
+   "path": "local/arad/barzava/2025/43",
+   "short": "HCL Bârzava nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 43/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 08.04.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207708",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-45-2025",
+   "path": "local/arad/barzava/2025/45",
+   "short": "HCL Bârzava nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 45/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 08.05.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207710",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-46-2025",
+   "path": "local/arad/barzava/2025/46",
+   "short": "HCL Bârzava nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 46/2025 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul IV pe anul 2024",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207711",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-47-2025",
+   "path": "local/arad/barzava/2025/47",
+   "short": "HCL Bârzava nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 47/2025 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul I pe anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207712",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-49-2025",
+   "path": "local/arad/barzava/2025/49",
+   "short": "HCL Bârzava nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 49/2025 privind aprobarea DEVIZULUI GENERAL, actualizat după încheierea contractului de finanțare la obiectivul de investiții “Productie energie pentru autoconsum - Comuna Bârzava”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207714",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-5-2025",
+   "path": "local/arad/barzava/2025/5",
+   "short": "HCL Bârzava nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 5/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192393",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-50-2025",
+   "path": "local/arad/barzava/2025/50",
+   "short": "HCL Bârzava nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 50/2025 privind aprobarea documentației PUZ și RLU \"Zona agrement si sport\"",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207715",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-52-2025",
+   "path": "local/arad/barzava/2025/52",
+   "short": "HCL Bârzava nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 52/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 08.05.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209394",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-53-2025",
+   "path": "local/arad/barzava/2025/53",
+   "short": "HCL Bârzava nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 53/2025 privind aprobarea ORDINEI DE ZI a ședinței extraordinare a Consiliului Local al comunei Bârzava din 28.05.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209395",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-54-2025",
+   "path": "local/arad/barzava/2025/54",
+   "short": "HCL Bârzava nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 54/2025 privind aprobarea principalelor manifestări cultural-artistice și educative care se desfășoară în comuna Bârzava în anul 2025 conform agendei",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209396",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-55-2025",
+   "path": "local/arad/barzava/2025/55",
+   "short": "HCL Bârzava nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 55/2025 privind aprobarea PROCEDURII principalelor manifestări cultural-artistice și educative care se desfășoară în comuna Bârzava în anul 2025 conform agendei",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209397",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-56-2025",
+   "path": "local/arad/barzava/2025/56",
+   "short": "HCL Bârzava nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 56/2025 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209398",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-57-2025",
+   "path": "local/arad/barzava/2025/57",
+   "short": "HCL Bârzava nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 57/2025 privind aprobarea Strategiei de dezvoltare a serviciului de salubrizare a Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209399",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-59-2025",
+   "path": "local/arad/barzava/2025/59",
+   "short": "HCL Bârzava nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 59/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 28.05.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/215261",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/215261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-6-2025",
+   "path": "local/arad/barzava/2025/6",
+   "short": "HCL Bârzava nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 6/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a AsociațilorAsociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192394",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-60-2025",
+   "path": "local/arad/barzava/2025/60",
+   "short": "HCL Bârzava nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 60/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 30.06.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/215262",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/215262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-61-2025",
+   "path": "local/arad/barzava/2025/61",
+   "short": "HCL Bârzava nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 61/2025 privind aprobarea raportului de reevaluare a bunurilor imobiliare aflate în proprietatea comunei Bârzava, în scopul estimării valorii juste în vederea înregistrării în contabilitate",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/215263",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/215263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-62-2025",
+   "path": "local/arad/barzava/2025/62",
+   "short": "HCL Bârzava nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 62/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/215264",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/215264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-63-2025",
+   "path": "local/arad/barzava/2025/63",
+   "short": "HCL Bârzava nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 63/2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRĂZI ÎN LOCALITĂȚILE BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/215265",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/215265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-64-2025",
+   "path": "local/arad/barzava/2025/64",
+   "short": "HCL Bârzava nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 64/2025 privind aprobarea Regulamentului propriu de organizare și funcţionare prezentat strict pentru activitățile de colectare și transport al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/215266",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/215266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-65-2025",
+   "path": "local/arad/barzava/2025/65",
+   "short": "HCL Bârzava nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 65/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 30.06.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216216",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-66-2025",
+   "path": "local/arad/barzava/2025/66",
+   "short": "HCL Bârzava nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 66/2025 privind aprobarea ORDINEI DE ZI a ședinţei ordinare a Consiliului Local al comunei Bârzava din 04.07.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216217",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-67-2025",
+   "path": "local/arad/barzava/2025/67",
+   "short": "HCL Bârzava nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 67/2025 privind rectificarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216218",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-68-2025",
+   "path": "local/arad/barzava/2025/68",
+   "short": "HCL Bârzava nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 68/2025 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul II pe anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216219",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-69-2025",
+   "path": "local/arad/barzava/2025/69",
+   "short": "HCL Bârzava nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 69/2025 privind completarea programului de investiţii şi achiziţii publice pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216220",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-7-2025",
+   "path": "local/arad/barzava/2025/7",
+   "short": "HCL Bârzava nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 7/2025 privind aprobarea cuantumului cotizației aferent anului 2025 la bugetul Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192395",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-73-2025",
+   "path": "local/arad/barzava/2025/73",
+   "short": "HCL Bârzava nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 73/2025 privind dezmembrarea unui teren extravilan cu număr cadastral 304346 în trei loturi",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216224",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-74-2025",
+   "path": "local/arad/barzava/2025/74",
+   "short": "HCL Bârzava nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 74/2025 privind aprobarea modificării prin Actul adițional nr. 1 a Acordului de parteneriat nr. 36571/09.12.2022 încheiat pentru realizarea proiectului “Cu bicicleta prin vest – traseu cicloturistic”, din Investiția I.4 – “Implementarea a 3000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta C11 – Turism și Cultură",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216225",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-75-2025",
+   "path": "local/arad/barzava/2025/75",
+   "short": "HCL Bârzava nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 75/2025 privind aprobarea documentației aferente obiectivului de investiții ” Împrejmuire imobil înscris în CF 307671”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216226",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-76-2025",
+   "path": "local/arad/barzava/2025/76",
+   "short": "HCL Bârzava nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 76/2025 privind atestarea apartenenței la domeniul privat al comunei Bârzava a unei suprafețe de teren din satul Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216227",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-77-2025",
+   "path": "local/arad/barzava/2025/77",
+   "short": "HCL Bârzava nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 77/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 04.07.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219838",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-78-2025",
+   "path": "local/arad/barzava/2025/78",
+   "short": "HCL Bârzava nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 78/2025 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 31.07.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219839",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-79-2025",
+   "path": "local/arad/barzava/2025/79",
+   "short": "HCL Bârzava nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 79/2025 privind aprobarea Actului Adițional nr. 1 la Actul constitutiv al Regiei Publice Locale Ocolul Silvic ”Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219840",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-8-2025",
+   "path": "local/arad/barzava/2025/8",
+   "short": "HCL Bârzava nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 8/2025 privind atestarea apartenenței la domeniul public al comunei Bârzava a unei suprafețe de teren",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192396",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-80-2025",
+   "path": "local/arad/barzava/2025/80",
+   "short": "HCL Bârzava nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 80/2025 privind aprobarea tarifului pentru activitatea de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale în stații de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deșeuri și/sau la instalațiile de valorificare energetică",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219841",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-82-2025",
+   "path": "local/arad/barzava/2025/82",
+   "short": "HCL Bârzava nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 82/2025 privind revocarea HCL nr.40 din 08.04.2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRAZI ÎN LOCALITATEA BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219843",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-83-2025",
+   "path": "local/arad/barzava/2025/83",
+   "short": "HCL Bârzava nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 83/2025 privind revocarea HCL nr.63 din 30.06.2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRĂZI ÎN LOCALITĂȚILE BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219844",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-84-2025",
+   "path": "local/arad/barzava/2025/84",
+   "short": "HCL Bârzava nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 84/2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRĂZI ÎN LOCALITĂȚILE BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219845",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-85-2025",
+   "path": "local/arad/barzava/2025/85",
+   "short": "HCL Bârzava nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 85/2025 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 31.07.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224347",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-86-2025",
+   "path": "local/arad/barzava/2025/86",
+   "short": "HCL Bârzava nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 86/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 28.08.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224348",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-87-2025",
+   "path": "local/arad/barzava/2025/87",
+   "short": "HCL Bârzava nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 87/2025 privind rectificarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224349",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-88-2025",
+   "path": "local/arad/barzava/2025/88",
+   "short": "HCL Bârzava nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 88/2025 privind completarea programului de investiţii şi achiziţii publice pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224350",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-89-2025",
+   "path": "local/arad/barzava/2025/89",
+   "short": "HCL Bârzava nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 89/2025 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea rectificării cotizației pe anul 2025 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224351",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-9-2025",
+   "path": "local/arad/barzava/2025/9",
+   "short": "HCL Bârzava nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 9/2025 privind modul de înscriere a datelor în Registrul agricol și stabilirea masurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192397",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-90-2025",
+   "path": "local/arad/barzava/2025/90",
+   "short": "HCL Bârzava nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 90/2025 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224352",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-91-2025",
+   "path": "local/arad/barzava/2025/91",
+   "short": "HCL Bârzava nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 91/2025 privind modul de înscriere a datelor în Registrul agricol și stabilirea masurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224353",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-92-2025",
+   "path": "local/arad/barzava/2025/92",
+   "short": "HCL Bârzava nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 92/2025 privind activitatea asistenţilor personali ai persoanelor cu handicap grav pentru perioada ianuarie - iunie 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224354",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-93-2025",
+   "path": "local/arad/barzava/2025/93",
+   "short": "HCL Bârzava nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 93/2025 privind analiza capacității de apărare împotriva incendiilor la nivelul comunei Bârzava pentru semestrul I 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224355",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-94-2025",
+   "path": "local/arad/barzava/2025/94",
+   "short": "HCL Bârzava nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 94/2025 privind rectificarea înscrierilor efectuate prin încheierea 8744 din 16.11.2027 în Cartea Funciară nr.300251 în sensul înscrierii dreptului de proprietate asupra construcției ” BISERICA ” în favoarea Bisericii Ortodoxe Groșii Noi;",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224356",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-95-2025",
+   "path": "local/arad/barzava/2025/95",
+   "short": "HCL Bârzava nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 95/2025 privind atestarea apartenenței unui imobil înscris în CF 305836 la domeniul public al comunei Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/224357",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/224357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-96-2025",
+   "path": "local/arad/barzava/2025/96",
+   "short": "HCL Bârzava nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 96/2025 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 28.08.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229124",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-97-2025",
+   "path": "local/arad/barzava/2025/97",
+   "short": "HCL Bârzava nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 97/2025 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 30.09.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229125",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-98-2025",
+   "path": "local/arad/barzava/2025/98",
+   "short": "HCL Bârzava nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 98/2025 privind rectificarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229126",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-99-2025",
+   "path": "local/arad/barzava/2025/99",
+   "short": "HCL Bârzava nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 99/2025 privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zona 5, avizarea Strategiei de contractare, a Studiului de fundamentare/oportunitate și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229127",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229127",
      "sha256": null
     }
    ]

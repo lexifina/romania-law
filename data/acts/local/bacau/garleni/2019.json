@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/garleni/2019",
+"acts": [
+{
+"slug": "hcl-bacau--garleni-68-2019",
+"path": "local/bacau/garleni/2019/68",
+"kind": "local",
+"year": "2019",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gârleni nr. 68/2019 privind revizuirea Regulamentului de organizare # func/ionare al Consiliului local al comunei GARLENI, conform OUG 57/2019 privind Codul Administrativ Consiliul local al comunei Garleni, judeful Baciiu, intrunit in 1edinfii ordinarii la data de 28.J1.2019, Avand in vedere: • Referatul de aprobare al primarului comunei GARLENI, inregistrat sub nr. 8657 din 25.10.2019; • Raportul de specialitate al",
+"short": "HCL Gârleni nr. 68/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-11-28",
+"latest": "2019-11-28",
+"portal": "https://primariagarleni.ro/despre-primarie/conducere/consiliul-local/hotarari-ale-autoritatii-deliberative/arhiva-hotarari/anul-2019/",
+"council": "bacau/garleni",
+"council_name": "Consiliul Local al Comunei Gârleni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-45-2025",
+   "path": "local/arad/macea/2025/45",
+   "short": "HCL Macea nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 45/2025 privind aprobarea Regulamentului privind activităţile de tăiere sau toaletare a arborilor din spaţiile verzi şi din alte terenuri aflate în proprietatea publică sau privată a Comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/215082",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/215082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-80-2025",
+   "path": "local/arad/macea/2025/80",
+   "short": "HCL Macea nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 80/2025 privind aprobarea Regulamentului de Organizare şi funcţionare a spaţiilor de joacă situate pe domeniul public a comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/233927",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/233927",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-84-2025",
    "path": "local/arad/macea/2025/84",
    "short": "HCL Macea nr. 84/2025",

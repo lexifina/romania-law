@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/magiresti/2023",
+"acts": [
+{
+"slug": "hcl-bacau--magiresti-56-2023",
+"path": "local/bacau/magiresti/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 56/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Magiresti, în conformitate cu Legea 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung Consiliul local al comunei Măgirești, județul Bacău, întrunit în ședința ordinară de lucru în data de 13.11.2023 Având în vedere: • adresa Instituției Prefectului",
+"short": "HCL Măgirești nr. 56/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2023/",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--magiresti-60-2023",
+"path": "local/bacau/magiresti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 60/2023 Privind aprobarea impozitelor, taxelor locale, taxelor de închiriere, taxelor speciale și tarifelor pentru anul 2024 Consiliul Local al Comunei Magiresti, județul Bacău întrunit în ședință de lucru în data de 15.12.2023 • Referatul de aprobare al Primarului comunei Măgirești înregistrat sub numărul 8673 din 11.12.2023, • raportul compartimentului de specialitate înregistrat sub numărul 8674 din 11",
+"short": "HCL Măgirești nr. 60/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2023/",
+"council": "bacau/magiresti",
+"council_name": "Consiliul Local al Comunei Măgirești",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-arad--macea-67-2024",
+   "path": "local/arad/macea/2024/67",
+   "short": "HCL Macea nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 67/2024 privind aprobarea instituirii taxei speciale de salubrizare",
+   "url": "https://emol.ro/macea-ar/registru-hcl/159554",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/159554",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

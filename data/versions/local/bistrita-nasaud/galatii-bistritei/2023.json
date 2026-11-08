@@ -3,6 +3,81 @@
  "shard": "local/bistrita-nasaud/galatii-bistritei/2023",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-18-2023",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2023/18",
+   "short": "HCL Galații Bistriței nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 18/2023 privind aprobarea regulamentului de funcționare a terenurilor de sport, proprietate a comunei Galații-Bistriței",
+   "url": "http://galatiibistritei.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.18_30.03.2023.pdf",
+     "sha256": "be76ffa3e82e6532d2575a86e190cf295e58f39e3a49f8e3129dd707befb3409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-22-2023",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2023/22",
+   "short": "HCL Galații Bistriței nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 22/2023",
+   "url": "http://galatiibistritei.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/registru_hcl2023.html",
+     "sha256": "a92432b569fce83ab812b79060815e322491b33e3d82ab6c13bb2cda45317ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-25-2023",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2023/25",
+   "short": "HCL Galații Bistriței nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 25/2023 privind aprobarea regulamentului pentru concursul ”Cea mai frumoasă gospodărie”",
+   "url": "http://galatiibistritei.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.25_27.04.2023.pdf",
+     "sha256": "cceaa9c35d824c140be9a307ff9d1dd3a79c7b0ef1e5dec4d79b8e026a650d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-31-2023",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2023/31",
+   "short": "HCL Galații Bistriței nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 31/2023 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport , stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deșeuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul și Operarea Centrului de Ma",
+   "url": "http://galatiibistritei.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.31_27.04.2023.pdf",
+     "sha256": "eb1d9ccffa9f3be40ae5b31531c9ea949cd9cd7d695a8360f2f06d7879534840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-43-2023",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2023/43",
+   "short": "HCL Galații Bistriței nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 43/2023 privind aprobarea regulamentului de funcționare a capelelor mortuare din comuna Galații-Bistriței",
+   "url": "http://galatiibistritei.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.43_20.07.2023.pdf",
+     "sha256": "77164f27faabcabf9a3cfb7311e170a7e2d219819d1e916ba0821bd287d4f262"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--galatii-bistritei-50-2023",
    "path": "local/bistrita-nasaud/galatii-bistritei/2023/50",
    "short": "HCL Galații Bistriței nr. 50/2023",

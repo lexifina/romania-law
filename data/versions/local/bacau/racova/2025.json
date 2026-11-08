@@ -3,6 +3,51 @@
  "shard": "local/bacau/racova/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--racova-13-2025",
+   "path": "local/bacau/racova/2025/13",
+   "short": "HCL Racova nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 13/2025 nr. 13 din 27.02.2025 privind aprobarea inițierii actualizarii Planului Urbanistic General al comunei Racova, a indicatorilor si devizului Planului Urbanistic General al comunei Racova, judetul Bacau si a Regulamentului Local de Urbanism aferent",
+   "url": "https://primariaracova.ro/wp-content/uploads/2025/03/HCL-13-din-2025-Actualizare-PUG-RACOVA.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 8,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2025/03/HCL-13-din-2025-Actualizare-PUG-RACOVA.pdf",
+     "sha256": "1f05a2b720f5cbabcf348027dd8536bc7fb6fb3887d1501463e8c059690580ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-14-2025",
+   "path": "local/bacau/racova/2025/14",
+   "short": "HCL Racova nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 14/2025 nr. 14 din 11.03.2025 privind aprobarea participării UAT Racova la Programul multianual 2025-2028 privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale și a regulamentelor locale de urbanism, derulat în baza HG nr. 1137/2023 și actualizarea indicatorilor si devizului PUG al comunei Racova, judetul Bacau si a Regulamentului Local de Urbanism aferent",
+   "url": "https://primariaracova.ro/wp-content/uploads/2025/03/HCL-14-din-11.03.2025-Participare-Program-actualizare-PUG-RACOVA.pdf",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 9,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2025/03/HCL-14-din-11.03.2025-Participare-Program-actualizare-PUG-RACOVA.pdf",
+     "sha256": "6b4765f86f995c0b2a45a3ca6ed53f01189dbcaa20020b69ab55f8c70771a1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racova-49-2025",
+   "path": "local/bacau/racova/2025/49",
+   "short": "HCL Racova nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 49/2025 nr. 49 din 29.09.2025 privind aprobarea Regulamentului privind promovarea acțiunilor având ca obiect transformarea amenzilor contravenționale și a celor stabilite printr-o hotărâre judecătorească definitivă, în muncă neremunerată în folosul comunității",
+   "url": "https://primariaracova.ro/wp-content/uploads/2025/09/HCL-49-din-29.09.2025-Aprobare-Regulament-transformare-amenzi.pdf",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 4,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2025/09/HCL-49-din-29.09.2025-Aprobare-Regulament-transformare-amenzi.pdf",
+     "sha256": "9fe4670ce0965e69b510ac34059e0359578da9c3481ffb38305b94d20b13ae48"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--racova-70-2025",
    "path": "local/bacau/racova/2025/70",
    "short": "HCL Racova nr. 70/2025",

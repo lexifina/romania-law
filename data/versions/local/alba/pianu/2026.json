@@ -3,6 +3,81 @@
  "shard": "local/alba/pianu/2026",
  "acts": [
   {
+   "slug": "hcl-alba--pianu-47-2026",
+   "path": "local/alba/pianu/2026/47",
+   "short": "HCL Pianu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 47/2026 privind Acordarea unui mandat special pentru vot în AGA Salubris Alba – asociați implicați în Zona 2 Lot 2 Tărtăria, cu privire la cererea de modificare a tarifelor pentru serviciile de salubritate 2026 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__47_din_03_06_2026_privind_2026_5705763.pdf",
+     "sha256": "9821492a33b8d8dcc745856e9e75b71e4f443c8ece29edd687378e46dcdbca38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-52-2026",
+   "path": "local/alba/pianu/2026/52",
+   "short": "HCL Pianu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 52/2026 privind aprobarea indexării taxelor și impozitelor locale pentru anul 2027 cu indicele de inflatie 2026 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__52_din_16_07_2026_privind_aprobarea_indexarii_taxelor_si_impozitelor_locale_pentru_anul_2027_cu_indicele_de_inflatie_2026_8056026.pdf",
+     "sha256": "10e2294a6d3977c7e7140ca28ade7df67843c474cab60995ec89ea27ae1cc542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-54-2026",
+   "path": "local/alba/pianu/2026/54",
+   "short": "HCL Pianu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 54/2026 privind aprobarea Regulamentului de acordare esalonare la plată a unor facilități fiscale pentru obligațiile restante datorate bugetului local și revocare HCL 46/2026 + Anexă 2026 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__54_din_16_07_2026_privind_aprobarea_regulamentului_de_acordare_esalonare_la_plata_a_unor_facilitati_fiscale_pentru_obligatiile_restante_datorate_bugetului_local_si_revocare_hcl_46_2026__.pdf",
+     "sha256": "e3d54d06e90f4bd07e547f75bdba273bf21175c36a574946676a0b512bb900c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-55-2026",
+   "path": "local/alba/pianu/2026/55",
+   "short": "HCL Pianu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 55/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__55_din_16_07_2026_privind_aprobarea_2026_5453508.pdf",
+     "sha256": "5ee75845ad001c1c720def59815980212ee2a1df4d51c9f4bd3a8a4e34b87abf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-6-2026",
+   "path": "local/alba/pianu/2026/6",
+   "short": "HCL Pianu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 6/2026 privind Aprobare Acordare mandat special reprezentant desemnat să voteze în AGA Salubris Alba – asociați implicați, din Zona 2 – Lot 2 Tărtăria, modificarea tarifelor distincte de gestionare și al tarifelor de facturare pentru serviciile de salubritate +Anexă 2026 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__6_din_16_07_2026_privind_aprobare_acordare_mandat_special_reprezentant_desemnat_sa_voteze_in_aga_salubris_alba___asociati_implicati__din_zona_2___lot_2_tartaria__modificarea_tarifelor_di.pdf",
+     "sha256": "7c2c58bc9a68e925d8242d8c086dafdeeb556561857dd3c98d80906e3820d996"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--pianu-82-2026",
    "path": "local/alba/pianu/2026/82",
    "short": "HCL Pianu nr. 82/2026",

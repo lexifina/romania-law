@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/comanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--comanesti-102-2025",
+   "path": "local/bacau/comanesti/2025/102",
+   "short": "HCL Comănești nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 102/2025 privind aprobarea Regulamentului serviciului public de salubrizare al Orașului Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_102_28.11.2025.pdf",
+     "sha256": "9d467c0ed06a085903e35ef66fbf03f2f66116b243390cdf351694ef918460dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-105-2025",
+   "path": "local/bacau/comanesti/2025/105",
+   "short": "HCL Comănești nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 105/2025 privind modificarea tarifului de transport public local de persoane, efectuat prin curse regulate în orașul Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_105_28.11.2025.pdf",
+     "sha256": "7943bc76e6182480980a3cee1d547802bf144ab179f82eca61b8eed607d4516d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-115-2025",
+   "path": "local/bacau/comanesti/2025/115",
+   "short": "HCL Comănești nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 115/2025 privind constituirea la nivelul Orașului Comănești a Comisiei Locale de Ordine Publică",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_115_22.12.2025.pdf",
+     "sha256": "a89fa34553d45467852d52a4eb78e32a271b8fe86f9a61354884e49bc080bb88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-121-2025",
+   "path": "local/bacau/comanesti/2025/121",
+   "short": "HCL Comănești nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 121/2025 privind stabilirea impozitelor și taxelor locale pe anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_121_22.12.2025.pdf",
+     "sha256": "d56b1815ba8c036a54f34df518f4cfc5d5411a718beca7aa0f71192215004848"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-122-2025",
+   "path": "local/bacau/comanesti/2025/122",
+   "short": "HCL Comănești nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 122/2025 privind aprobarea taxelor și tarifelor pentru contractele de închiriere teren/spațiu din piețele agroalimentare și târguri, aplicabile în anul 2026",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_122_22.12.2025.pdf",
+     "sha256": "5e2b4ce110052a1ecff6bc69d4a1a4b8f3bd8c30e02150852276a68ddd3a17be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-30-2025",
+   "path": "local/bacau/comanesti/2025/30",
+   "short": "HCL Comănești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 30/2025 privind corelarea unor impozite și taxe locale pentru anul 2025 cu venitul minim garantat- stabilit în conformitate cu prevederile legale",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_030_27.03.2025.pdf",
+     "sha256": "f67c07d2a1d88247517927299e9b60ed8937f5dd72f35cfe99c3fe85184013da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-51-2025",
+   "path": "local/bacau/comanesti/2025/51",
+   "short": "HCL Comănești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 51/2025 privind aprobare PUZ - \"Extindere garaj și schimbare destinație din garaj în spațiu comercial\", str. Gîrlei, Comănești, jud. Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4104-anul-2025.html",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2025/hcl_051_28.05.2025.pdf",
+     "sha256": "f600561234bd6e95b44010e06aab16f2322b7303b183b21696cf5ce7a8b86efc"
+    }
+   ]
+  }
+ ]
+}

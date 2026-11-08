@@ -3,6 +3,36 @@
  "shard": "local/judet/valcea/2026",
  "acts": [
   {
+   "slug": "hcj-valcea-200-2026",
+   "path": "local/judet/valcea/2026/200",
+   "short": "HCJ Vâlcea nr. 200/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 200/2026 privind stabilirea prețurilor medii ale produselor agricole, în baza cărora se evaluează în lei arenda, exprimată în natură, pentru anul 2027",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot200_2026.pdf",
+     "sha256": "8b92ff6502c0c33ba130f7dee9b297216983539046ae4bd403569100ca8d9b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-65-2026",
+   "path": "local/judet/valcea/2026/65",
+   "short": "HCJ Vâlcea nr. 65/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 65/2026 privind aprobarea modificării tarifelor de călătorie și a tarifelor maximale ale abonamentelor lunare pentru Loturile atribuite operatorilor de transport public județean de persoane, prin curse regulate în aria de competență a UAT- Județul Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot65.pdf",
+     "sha256": "73b9023d9556094344e4713df90f367c3cb1d406a99bb4e9c368fb9c164c2fdc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-82-2026",
    "path": "local/judet/valcea/2026/82",
    "short": "HCJ Vâlcea nr. 82/2026",

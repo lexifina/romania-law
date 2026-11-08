@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/racaciuni/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--racaciuni-61-2021",
+   "path": "local/bacau/racaciuni/2021/61",
+   "short": "HCL Răcăciuni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 61/2021 privind aprobarea și completarea prețurilor și tarifelor pentru unele servicii publice de alimentare cu apă și de canal Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2061%20din%2027.10.2021%20privind%20aprobarea%20%C8%99i%20completarea%20pre%C8%9Burilor%20%C8%99i%20tarifelor%20pentru%20unele%20servicii%20publice%20de%20alimentare%20cu%20ap%C4%83%20%C8%99i%20de%20cana.pdf",
+     "sha256": "367d1b9fc213bb768d266fe80c044c1f3aab3b80efd0c9d5f49342794277f515"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-78-2021",
+   "path": "local/bacau/racaciuni/2021/78",
+   "short": "HCL Răcăciuni nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 78/2021 privind instituirea unor taxe pentru utilizarea infrastructurii publice locale de drumuri de către ehipamente și utila Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/HCL%20nr.%2078%20din%2022.11.2021%20privind%20instituirea%20unor%20taxe%20pentru%20utilizarea%20infrastructurii%20publice%20locale%20de%20drumuri%20de%20c%C4%83tre%20ehipamente%20%C8%99i%20utila.pdf",
+     "sha256": "556d6a5766ce311317520239f2fe415fbda8ad968cc8448e60237c004da95073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--racaciuni-82-2021",
+   "path": "local/bacau/racaciuni/2021/82",
+   "short": "HCL Răcăciuni nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 82/2021 privind impozitele și taxele locale pentru anul 2022, indexate cu rata inflației Vezi / Descarca",
+   "url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/2021/Continuare%20HCL%20nr.%2082%20din%2016.12.2021.pdf",
+     "sha256": "ffe89d36b22da5e0c392acf993af1fc8555f07d0bb26c6fee82d5da6038edbaf"
+    }
+   ]
+  }
+ ]
+}

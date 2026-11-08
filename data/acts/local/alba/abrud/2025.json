@@ -3,6 +3,50 @@
 "shard": "local/alba/abrud/2025",
 "acts": [
 {
+"slug": "hcl-alba--abrud-16-2025",
+"path": "local/alba/abrud/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Abrud nr. 16/2025 PENTRU ACTUALIZARE ȘI TRANSPUNERE GIS PUG ORAȘ ABRUD",
+"short": "HCL Abrud nr. 16/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2025/",
+"council": "alba/abrud",
+"council_name": "Consiliul Local al Orașului Abrud",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--abrud-54-2025",
+"path": "local/alba/abrud/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Abrud nr. 54/2025 privind aprobarea impozitelor și taxelor locale la nivelul Orașului Abrud pentru anul 2025",
+"short": "HCL Abrud nr. 54/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2025/",
+"council": "alba/abrud",
+"council_name": "Consiliul Local al Orașului Abrud",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-alba--abrud-106-2025",
 "path": "local/alba/abrud/2025/106",
 "kind": "local",

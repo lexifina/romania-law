@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/alba/mihalt/2023",
+"acts": [
+{
+"slug": "hcl-alba--mihalt-57-2023",
+"path": "local/alba/mihalt/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 57/2023 privind prelungire teremn de valabilitate Plan urbanistic general al comunei Mihalț",
+"short": "HCL Mihalț nr. 57/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2023/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--mihalt-68-2023",
+"path": "local/alba/mihalt/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 68/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Mihalț nr. 68/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2023/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

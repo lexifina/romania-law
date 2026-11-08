@@ -3,6 +3,21 @@
  "shard": "local/judet/timis/2025",
  "acts": [
   {
+   "slug": "hcj-timis-159-2025",
+   "path": "local/judet/timis/2025/159",
+   "short": "HCJ Timiș nr. 159/2025",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 159/2025",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/159_HCJT_2025-CTATU-nou.pdf",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/159_HCJT_2025-CTATU-nou.pdf",
+     "sha256": "0ee6548901dc32c65cc34ad26da8c24e8ed165cfbf47cd27e17e00f281f85406"
+    }
+   ]
+  },
+  {
    "slug": "hcj-timis-262-2025",
    "path": "local/judet/timis/2025/262",
    "short": "HCJ Timiș nr. 262/2025",

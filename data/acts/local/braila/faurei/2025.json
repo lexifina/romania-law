@@ -3,6 +3,28 @@
 "shard": "local/braila/faurei/2025",
 "acts": [
 {
+"slug": "hcl-braila--faurei-33-2025",
+"path": "local/braila/faurei/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Făurei nr. 33/2025 privind modi ficarea şi completarea Hotărârii Consiliu lu i Local nr. 13/ 17 martie 2023 pentru aprobarea taxei speciale de salubrizare şi a Regulamentul ui de instituire şi administrare a taxei speciale de salubrizare pentru unitatea administrativ teritorială oraşul Făurei 2025",
+"short": "HCL Făurei nr. 33/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-03-2025/",
+"council": "braila/faurei",
+"council_name": "Consiliul Local al Orașului Făurei",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-braila--faurei-87-2025",
 "path": "local/braila/faurei/2025/87",
 "kind": "local",

@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/constanta/navodari/2025",
+"acts": [
+{
+"slug": "hcl-constanta--navodari-162-2025",
+"path": "local/constanta/navodari/2025/162",
+"kind": "local",
+"year": "2025",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 162/2025",
+"short": "HCL Năvodari nr. 162/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": null,
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--navodari-163-2025",
+"path": "local/constanta/navodari/2025/163",
+"kind": "local",
+"year": "2025",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 163/2025 privind aprobarea Planului Urbanistic Zonal Ã®n vederea modificÄrii reglementÄrilor urbanistice, imobile D+P+4E, nr. cad. 113364, 102237",
+"short": "HCL Năvodari nr. 163/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-164-2025",
+"path": "local/constanta/navodari/2025/164",
+"kind": "local",
+"year": "2025",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 164/2025 privind aprobarea Planului Urbanistic Zonal Ã®n vederea construirii unui imobil Sth+P+7E, nr. cad. 125109",
+"short": "HCL Năvodari nr. 164/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-243-2025",
+"path": "local/constanta/navodari/2025/243",
+"kind": "local",
+"year": "2025",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 243/2025 cu privire la actualizarea regulamentului serviciului de salubrizare",
+"short": "HCL Năvodari nr. 243/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-18",
+"latest": "2025-09-18",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-247-2025",
+"path": "local/constanta/navodari/2025/247",
+"kind": "local",
+"year": "2025",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 247/2025 privind aprobarea Planului Urbanistic Zonal COMPLEX R8 â GREEN CENTRAL VIEW â CONSTRUIREA UNUI COMPLEX, A UNEI STRUCTURI DE CAZARE TURISTICÄ DE TIP HOTELURI â APARTAMENT (APARTHOTEL) ÈI A UNOR ECHIPAMENTE PUBLICE ÈI COMERCIALE, nr. Cad. 123596",
+"short": "HCL Năvodari nr. 247/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-18",
+"latest": "2025-09-18",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-248-2025",
+"path": "local/constanta/navodari/2025/248",
+"kind": "local",
+"year": "2025",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 248/2025 cu privire la aprobarea Ã®ndreptÄrii erorii materiale de tehnoredactare strecuratÄ Ã®n art.1 din HotÄrÃ¢rea nr. 164/30.06.2025 privind aprobarea Planului Urbanistic Zonal Ã®n vederea construirii unui imobil Sth+p+7E, nr. Cad. 125109",
+"short": "HCL Năvodari nr. 248/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-18",
+"latest": "2025-09-18",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-279-2025",
+"path": "local/constanta/navodari/2025/279",
+"kind": "local",
+"year": "2025",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 279/2025 privind reducerea impozitului cu 50% pentru cladirile noi sau reabilitate cu destinatia de locuinta",
+"short": "HCL Năvodari nr. 279/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-316-2025",
+"path": "local/constanta/navodari/2025/316",
+"kind": "local",
+"year": "2025",
+"number": "316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 316/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Năvodari nr. 316/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/braila/baraganul/2023",
+ "acts": [
+  {
+   "slug": "hcl-braila--baraganul-25-2023",
+   "path": "local/braila/baraganul/2023/25",
+   "short": "HCL Bărăganul nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 25/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 7,
+     "source_url": null,
+     "sha256": "8f0a8f4cfb648c5205c2824a7a9759245915ffd8ef789db3171bc88386045e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-68-2023",
+   "path": "local/braila/baraganul/2023/68",
+   "short": "HCL Bărăganul nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 68/2023 privind acordarea unui mandat special reprezentantului de drept al comunei Baraganul, de a vota Ã®n cadrul AdunÄrii Generale a AsociaÈiei pentru aprobarea tarifelor Èi tarifelorÂ distincte privind gestionarea deÈeurilor aferente activitÄÈilor desfÄÈurate de opera",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2068_2023.pdf",
+     "sha256": "60f19c3b7a432e1342e7b5eefa644a478365ffe6c4dba13a2cb1d4b796f349d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-74-2023",
+   "path": "local/braila/baraganul/2023/74",
+   "short": "HCL Bărăganul nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 74/2023 privind aprobarea procedurii de autorizare si functionare a spatiilor de joaca situate pe domeniul public si privat al comunei Baraganul, judetul Braila",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 6,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2074_2023.pdf",
+     "sha256": "7dcd9f240d65d7598d4c439989e05a1666d66c24b6936e7ca72f68131ff45fb9"
+    }
+   ]
+  }
+ ]
+}

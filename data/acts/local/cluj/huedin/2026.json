@@ -424,6 +424,28 @@
 }
 },
 {
+"slug": "hcl-cluj--huedin-101-2026",
+"path": "local/cluj/huedin/2026/101",
+"kind": "local",
+"year": "2026",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 101/2026 privind aprobarea Regulamentului privind vdnzarca locuinlelor construite prin Agenlia Nalionald pentru Locuinle (ANL) situate in oraEul Huedin Consiliul Local Huedin intrunit in qedinla ordinard din data de 27.05.2026. AvAnd in vedere referatul nr. 8655/ 06.10 .2025 , inaintat de cdtre insp. principal, dl",
+"short": "HCL Huedin nr. 101/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-cluj--huedin-150-2026",
 "path": "local/cluj/huedin/2026/150",
 "kind": "local",

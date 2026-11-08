@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/manoleasa/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--manoleasa-10-2024",
+   "path": "local/botosani/manoleasa/2024/10",
+   "short": "HCL Manoleasa nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 10/2024 privind aprobare regulament buldoexcavator si microbuz",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/03/HCL%2010%20%20APROBARE%20REGULAMENT%20BULDO.pdf",
+     "sha256": "fc800dbe60777b8dfca5b51acbe35d230096a11919d16eed37925cd4deec318f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-30-2024",
+   "path": "local/botosani/manoleasa/2024/30",
+   "short": "HCL Manoleasa nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 30/2024 privind aprobare Regulament privind stabilirea tarifului pentru utilizarea serviciilor publice de alimentare cu apa si canalizare",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-30-privind-aprobare-Regulament-privind-stabilirea-tarifului-pentru-utilizarea-serviciilor-publice-de-alimentare-cu-apa-si-canalizare.pdf",
+     "sha256": "ef7d176df83a528e4bd0c4220b614ad0642030605e1f5deba3e1501f671c65da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-31-2024",
+   "path": "local/botosani/manoleasa/2024/31",
+   "short": "HCL Manoleasa nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 31/2024 privind stabilirea de masuri necesare pentru interzicerea abandonarii deseurilor (2)",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-31-privind-stabilirea-de-masuri-necesare-pentru-interzicerea-abandonarii-deseurilor--2.pdf",
+     "sha256": "6a204caa782c6a1812d4890c48d0629f60d2dad95aa367de70785275d38a2171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-42-2024",
+   "path": "local/botosani/manoleasa/2024/42",
+   "short": "HCL Manoleasa nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 42/2024 privind stabilirea impozitelor si taxelor pentru anul 2025",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2042%20privind%20stabilirea%20impozitelor%20si%20taxelor%20pentru%20anul%202025.pdf",
+     "sha256": "95c4b2de1bbf73c8115dd58d5d3643345706281f03b3c5d51cd317b0ef1db757"
+    }
+   ]
+  }
+ ]
+}

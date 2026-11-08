@@ -3,6 +3,94 @@
 "shard": "local/botosani/manoleasa/2025",
 "acts": [
 {
+"slug": "hcl-botosani--manoleasa-9-2025",
+"path": "local/botosani/manoleasa/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 9/2025 privind acordarea criteriilor pentru acordarea ajutoarelor de urgenta",
+"short": "HCL Manoleasa nr. 9/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-20-2025",
+"path": "local/botosani/manoleasa/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 20/2025 privind indexare taxe si impozite",
+"short": "HCL Manoleasa nr. 20/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-39-2025",
+"path": "local/botosani/manoleasa/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 39/2025 privind aprobarea Metodologiei de evaluare a nevoilor comunitatii in vederea organizarii serviciilor sociale",
+"short": "HCL Manoleasa nr. 39/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-57-2025",
+"path": "local/botosani/manoleasa/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 57/2025 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale, pe anul 2026",
+"short": "HCL Manoleasa nr. 57/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-botosani--manoleasa-59-2025",
 "path": "local/botosani/manoleasa/2025/59",
 "kind": "local",

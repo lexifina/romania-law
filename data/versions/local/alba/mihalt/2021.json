@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/mihalt/2021",
+ "acts": [
+  {
+   "slug": "hcl-alba--mihalt-57-2021",
+   "path": "local/alba/mihalt/2021/57",
+   "short": "HCL Mihalț nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 57/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-57-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2022.pdf",
+     "sha256": "dc9ccef6d398b043769a14782fe099ec0f402982a9ac20e7af9b56099a6892b1"
+    }
+   ]
+  }
+ ]
+}

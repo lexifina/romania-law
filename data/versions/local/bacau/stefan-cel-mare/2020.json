@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/stefan-cel-mare/2020",
+ "acts": [
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-34-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/34",
+   "short": "HCL Ștefan cel Mare nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 34/2020 privind indexarea impozitelor si taxelor locale pentru anul 2021 cu rata inflatiei de 3,8%",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/06/HCL-34-din-27.05.2020.pdf",
+     "sha256": "6efb4102570ee31039029723dd3098db322056617561b36b40243debda02fc54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-47-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/47",
+   "short": "HCL Ștefan cel Mare nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 47/2020 privind instituirea unor masuri fiscale si aprobarea procedurii de anulare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-47-din-22.07.2020-privind-instituirea-unor-masuri-fiscale-si-aprobarea-procedurii-de-anulare.pdf",
+     "sha256": "91e12c70b6c74e6e602a9931193da78d3a47387810a90083982e6fabaf92455f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-53-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/53",
+   "short": "HCL Ștefan cel Mare nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 53/2020 privind aprobrea modificarii tarifului de precolectare, colectare si transportul deseurilor",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr.-53-din-26.08.2020-privind-aprobrea-modfificarii-tarifului-da-catre-SC-Compania-Romprest-Service-SA.pdf",
+     "sha256": "35fe7fd2f77b0d4ed990e1cc542b096c46dc562c1734e46323759f5cc618916c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-84-2020",
+   "path": "local/bacau/stefan-cel-mare/2020/84",
+   "short": "HCL Ștefan cel Mare nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 84/2020 privind stabilirea impozitelor si taxelor locale la nivelul comunei Stefan cel Mare, jud. Bacau",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2020/01/HCL-nr-84-din-16.12.2020.pdf",
+     "sha256": "7cb1e5b6b091151ae89f8ff698d73391230760aeca08486778c3d3d73ca274ae"
+    }
+   ]
+  }
+ ]
+}

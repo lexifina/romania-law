@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/botosani/manoleasa/2024",
+"acts": [
+{
+"slug": "hcl-botosani--manoleasa-10-2024",
+"path": "local/botosani/manoleasa/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 10/2024 privind aprobare regulament buldoexcavator si microbuz",
+"short": "HCL Manoleasa nr. 10/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-30-2024",
+"path": "local/botosani/manoleasa/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 30/2024 privind aprobare Regulament privind stabilirea tarifului pentru utilizarea serviciilor publice de alimentare cu apa si canalizare",
+"short": "HCL Manoleasa nr. 30/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-31-2024",
+"path": "local/botosani/manoleasa/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 31/2024 privind stabilirea de masuri necesare pentru interzicerea abandonarii deseurilor (2)",
+"short": "HCL Manoleasa nr. 31/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-42-2024",
+"path": "local/botosani/manoleasa/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 42/2024 privind stabilirea impozitelor si taxelor pentru anul 2025",
+"short": "HCL Manoleasa nr. 42/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

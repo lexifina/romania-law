@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2024",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-98-2024",
+"path": "local/bihor/valea-lui-mihai/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 98/2024 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2025 ↓",
+"short": "HCL Valea lui Mihai nr. 98/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

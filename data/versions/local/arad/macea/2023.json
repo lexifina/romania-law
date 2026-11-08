@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-arad--macea-26-2023",
+   "path": "local/arad/macea/2023/26",
+   "short": "HCL Macea nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 26/2023 privind stabilirea situaţiilor de necesitate sau a situaţiilor deosebite care justifică acordarea ajutoarelor de urgenţă, precum şi procedura şi condiţiile de acordare a acestora",
+   "url": "https://emol.ro/macea-ar/registru-hcl/92545",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/92545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-40-2023",
+   "path": "local/arad/macea/2023/40",
+   "short": "HCL Macea nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 40/2023 privind aprobarea instituirii taxei speciale de salubrizare",
+   "url": "https://emol.ro/macea-ar/registru-hcl/95104",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/95104",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

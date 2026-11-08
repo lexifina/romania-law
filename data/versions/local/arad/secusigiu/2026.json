@@ -3,6 +3,951 @@
  "shard": "local/arad/secusigiu/2026",
  "acts": [
   {
+   "slug": "hcl-arad--secusigiu-1-2026",
+   "path": "local/arad/secusigiu/2026/1",
+   "short": "HCL Secusigiu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 1/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 26.02.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258082",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-10-2026",
+   "path": "local/arad/secusigiu/2026/10",
+   "short": "HCL Secusigiu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 10/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258091",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-11-2026",
+   "path": "local/arad/secusigiu/2026/11",
+   "short": "HCL Secusigiu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 11/2026 privind aprobarea cuantumului cotizației aferent anului 2026 la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258092",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-12-2026",
+   "path": "local/arad/secusigiu/2026/12",
+   "short": "HCL Secusigiu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 12/2026 privind acordarea unui mandat special reprezentantului Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258093",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-13-2026",
+   "path": "local/arad/secusigiu/2026/13",
+   "short": "HCL Secusigiu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 13/2026 privind aprobarea Planului anual de acţiuni şi lucrări de interes local pentru anul 2026, pentru repartizarea orelor in muncă prestate lunar de către persoanele majore, apte de muncă din familiile beneficiare de venit minim de incluziune care include componenta de ajutor de incluziune, în conformitate cu prevederile Legii nr. 196/2016, privind venitul minim de incluziune",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258094",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-14-2026",
+   "path": "local/arad/secusigiu/2026/14",
+   "short": "HCL Secusigiu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 14/2026 privind programele de acțiune comunitară destinate prevenirii și combaterii riscului de sărăcie și excluziune socială, aferent anului 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258095",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-15-2026",
+   "path": "local/arad/secusigiu/2026/15",
+   "short": "HCL Secusigiu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 15/2026 privind aprobarea trecerii din domeniul public al județului Arad in domeniul public al UAT Comuna Secusigiu a unui mijloc de transport achiziționat in cadrul proiectului ”Microbuze electrice pentru elevii din județul Arad”",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258096",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-16-2026",
+   "path": "local/arad/secusigiu/2026/16",
+   "short": "HCL Secusigiu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 16/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263684",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-17-2026",
+   "path": "local/arad/secusigiu/2026/17",
+   "short": "HCL Secusigiu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 17/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 31.03.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263685",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-18-2026",
+   "path": "local/arad/secusigiu/2026/18",
+   "short": "HCL Secusigiu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 18/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 26.02.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263686",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-19-2026",
+   "path": "local/arad/secusigiu/2026/19",
+   "short": "HCL Secusigiu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 19/2026 privind acordarea unui mandat special reprezentantului Comunei Secusigiu în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263687",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-2-2026",
+   "path": "local/arad/secusigiu/2026/2",
+   "short": "HCL Secusigiu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 2/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 18.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258083",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-20-2026",
+   "path": "local/arad/secusigiu/2026/20",
+   "short": "HCL Secusigiu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 20/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Secusigiu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263688",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-21-2026",
+   "path": "local/arad/secusigiu/2026/21",
+   "short": "HCL Secusigiu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 21/2026 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local al comunei Secusigiu judeţul Arad pentru anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263689",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-22-2026",
+   "path": "local/arad/secusigiu/2026/22",
+   "short": "HCL Secusigiu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 22/2026 privind aprobarea actualizării raportului de evaluare al imobilului fond de stat din com. Secusigiu, sat. Sânpetru German, nr. 308 A",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263690",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-23-2026",
+   "path": "local/arad/secusigiu/2026/23",
+   "short": "HCL Secusigiu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 23/2026 privind aprobarea ordinei de zi a ședinței de extraordinare din data de 08.04.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263884",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-24-2026",
+   "path": "local/arad/secusigiu/2026/24",
+   "short": "HCL Secusigiu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 24/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 31.03.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263885",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-25-2026",
+   "path": "local/arad/secusigiu/2026/25",
+   "short": "HCL Secusigiu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 25/2026 privind aplicarea noului număr total de posturi pentru comuna Secusigiu stabilit de către instituţia prefectului judeţului Arad, şi aprobarea Statului de funcţii si a organigramei comunei Secusigiu",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/263886",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/263886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-26-2026",
+   "path": "local/arad/secusigiu/2026/26",
+   "short": "HCL Secusigiu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 26/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 12.05.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/269132",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/269132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-27-2026",
+   "path": "local/arad/secusigiu/2026/27",
+   "short": "HCL Secusigiu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 27/2026 privind aprobarea procesului verbal al şedinţei extraordinare din data de 08.04.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/269133",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/269133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-28-2026",
+   "path": "local/arad/secusigiu/2026/28",
+   "short": "HCL Secusigiu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 28/2026 privind aprobarea bugetului local de venituri şi cheltuieli, a Listei de investiţii, conform Planului de achiziţii publice și a Raportului privind rezultatele etichetãrii cheltuielilor bugetarea al comunei Secusigiu pe anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/269134",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/269134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-29-2026",
+   "path": "local/arad/secusigiu/2026/29",
+   "short": "HCL Secusigiu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 29/2026 privind acordarea unui mandat special reprezentantului Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/269135",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/269135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-3-2026",
+   "path": "local/arad/secusigiu/2026/3",
+   "short": "HCL Secusigiu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 3/2026 privind aprobarea Raportului de execuție bugetară la 31.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258084",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-30-2026",
+   "path": "local/arad/secusigiu/2026/30",
+   "short": "HCL Secusigiu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 30/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274908",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-31-2026",
+   "path": "local/arad/secusigiu/2026/31",
+   "short": "HCL Secusigiu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 31/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 17.06.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274909",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-32-2026",
+   "path": "local/arad/secusigiu/2026/32",
+   "short": "HCL Secusigiu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 32/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 12.05.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274910",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-33-2026",
+   "path": "local/arad/secusigiu/2026/33",
+   "short": "HCL Secusigiu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 33/2026 privind validarea rectificării bugetului local aflat sub autoritatea Consiliului Local al comunei Secusigiu pentru anul 2026 conform Dispoziției primarului 54/21.05.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274911",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-34-2026",
+   "path": "local/arad/secusigiu/2026/34",
+   "short": "HCL Secusigiu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 34/2026 privind privind aprobarea Planului de dezvoltare a serviciilor sociale la nivelul comunei Secusigiu, județul Arad și a Manualului de proceduri al Compartimentului de Asistență Socială",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274912",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-35-2026",
+   "path": "local/arad/secusigiu/2026/35",
+   "short": "HCL Secusigiu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 35/2026 privind ajustarea tarifului pentru serviciul de delegare a gestiunii serviciului de eliminare,prin depozitare a deseurilor reziduale, a deseurilor stradale, a deseurilor de pamant si pietre provenite de pe caile publice, a reziduurilor rezultate de la instalatiile de tartare a deseurilor municipal, precum si a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor la depozitele de deseuri nepericuloase in cadrul proiectului ADISIGD Arad, componenta eliminare, prin depozitare, a deseurilor municipale reziduale, a reziduurilor rezultate de la instalatiile de tratare a deseurilor municipale, precum, a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor si a deseurilor ce nu pot fi valorificate din deseurile voluminoase, deseurile textile si deseurile provenite de la evenimente la depozitul de deseuri nepericuloase din Aria Delegarii, ctr. Nr. 5430/29.12.2023",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274913",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-36-2026",
+   "path": "local/arad/secusigiu/2026/36",
+   "short": "HCL Secusigiu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 36/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274914",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-37-2026",
+   "path": "local/arad/secusigiu/2026/37",
+   "short": "HCL Secusigiu nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 37/2026 privind modificarea tarifului aferent Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separate din județul Arad ZONA 1, Contract nr. 4850/23.11.2023",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274915",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-38-2026",
+   "path": "local/arad/secusigiu/2026/38",
+   "short": "HCL Secusigiu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 38/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării Actului adițional nr. 2 la Contractul de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274916",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-39-2026",
+   "path": "local/arad/secusigiu/2026/39",
+   "short": "HCL Secusigiu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 39/2026 privind declararea de inters public local a unor bunuri și darea acestora în concesiunea Companiei de Apă Arad SA",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274917",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-4-2026",
+   "path": "local/arad/secusigiu/2026/4",
+   "short": "HCL Secusigiu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 4/2026 privind utilizarea sumelor din excedentul anilor precedenți pentru finanțarea cheltuielilor secțiuni de dezvoltare în anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258085",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-40-2026",
+   "path": "local/arad/secusigiu/2026/40",
+   "short": "HCL Secusigiu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 40/2026 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ CONSTRUIRE CENTRU DE ZI PENTRU COPII COMUNA SECUSIGIU” în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență, Componenta C13 – REFORME SOCIALE, Investiția I1 - „Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie\", apelul de proiecte PNRR/2022/C13/I1",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274918",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-41-2026",
+   "path": "local/arad/secusigiu/2026/41",
+   "short": "HCL Secusigiu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 41/2026 privind rectificarea bugetului local al comunei Secusigiu pe anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274919",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-42-2026",
+   "path": "local/arad/secusigiu/2026/42",
+   "short": "HCL Secusigiu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 42/2026 privind modificarea art. 2 și art. 4 din Hotărârea Consiliului local al comunei Secusigiu nr. 103/27.11.2025 privind insușire documentaţia cadastrală de primă înscriere a terenului intravilan – arabil- în suprafață de 21302 mp. și a terenului intrabilan – neproductiv- în suprafață de 32371",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/274920",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/274920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-44-2026",
+   "path": "local/arad/secusigiu/2026/44",
+   "short": "HCL Secusigiu nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 44/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 21.07.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279529",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-45-2026",
+   "path": "local/arad/secusigiu/2026/45",
+   "short": "HCL Secusigiu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 45/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 17.06.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279530",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-46-2026",
+   "path": "local/arad/secusigiu/2026/46",
+   "short": "HCL Secusigiu nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 46/2026 privind respingerea rectificări bugetului local al comunei Secusigiu pe trimestru III anul 2026 și a listei de investiții pe anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279531",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-47-2026",
+   "path": "local/arad/secusigiu/2026/47",
+   "short": "HCL Secusigiu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 47/2026 privind aprobarea punerii la dispoziția operatorului a infrastructurii de colectare a deșeurilor (insule ecologice), proprietate publică a Municipiului Arad, integrate în Sistemul de Management Integrat al Deșeurilor Solide din Județul Arad, ca bunuri de retur, și mandatarea reprezentantului în Adunarea Generală a ADISIGD",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279532",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-48-2026",
+   "path": "local/arad/secusigiu/2026/48",
+   "short": "HCL Secusigiu nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 48/2026 privind acordarea unui mandat special reprezentantului Comunei Secusigiu în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea rectificării cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279533",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-49-2026",
+   "path": "local/arad/secusigiu/2026/49",
+   "short": "HCL Secusigiu nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 49/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279534",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-5-2026",
+   "path": "local/arad/secusigiu/2026/5",
+   "short": "HCL Secusigiu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 5/2026 privind aprobarea Planului de analiza si acoperire a riscurilor la nivelul comunei Secusigiu, judeţul Arad, pentru anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258086",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-50-2026",
+   "path": "local/arad/secusigiu/2026/50",
+   "short": "HCL Secusigiu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 50/2026 privind înființarea serviciului social „Centrul de zi pentru copii Sânpetru German” și aprobarea Regulamentului de organizare și funcționare al acestuia",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279535",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-51-2026",
+   "path": "local/arad/secusigiu/2026/51",
+   "short": "HCL Secusigiu nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 51/2026 privind aprobarea Raportului privind stadiul de înscriere a datelor în registrul agricol pentru perioada 01.01.2026-30.06.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279536",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-52-2026",
+   "path": "local/arad/secusigiu/2026/52",
+   "short": "HCL Secusigiu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 52/2026 privind modificarea Hotărâri Consiliului local al comunei Secusigiu nr. 100/2015 - consum normat anual de carburanţi pentru autoturismele din dotarea primăriei, costuri convorbiri telefonice și limita în cadrul cărora se pot aproba și efectua cheltuieli pentru acțiuni de protocol de către ministere, celelalte organe de specialitate ale administrației publice centrale și locale",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279537",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-53-2026",
+   "path": "local/arad/secusigiu/2026/53",
+   "short": "HCL Secusigiu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 53/2026 privind dotarea unui cabinet medical și a unei unități mobile stomatologice in Comuna Secusigiu, județul Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/279538",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/279538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-54-2026",
+   "path": "local/arad/secusigiu/2026/54",
+   "short": "HCL Secusigiu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 54/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 17.08.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289533",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-55-2026",
+   "path": "local/arad/secusigiu/2026/55",
+   "short": "HCL Secusigiu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 55/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 21.07.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289534",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-56-2026",
+   "path": "local/arad/secusigiu/2026/56",
+   "short": "HCL Secusigiu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 56/2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289535",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-57-2026",
+   "path": "local/arad/secusigiu/2026/57",
+   "short": "HCL Secusigiu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 57/2026 privind rectificarea bugetului local al comunei Secusigiu pe anul 2026 și a listei de investiții pe anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289536",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-58-2026",
+   "path": "local/arad/secusigiu/2026/58",
+   "short": "HCL Secusigiu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 58/2026 privind acordarea unui mandat special reprezentantului Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289537",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-59-2026",
+   "path": "local/arad/secusigiu/2026/59",
+   "short": "HCL Secusigiu nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 59/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării METODOLOGIEI privind aplicarea măsurilor de protecție socială la transportul public local pe raza teritorială a Unităților Administrativ-Teritoriale membre ale Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289538",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-60-2026",
+   "path": "local/arad/secusigiu/2026/60",
+   "short": "HCL Secusigiu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 60/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289553",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-61-2026",
+   "path": "local/arad/secusigiu/2026/61",
+   "short": "HCL Secusigiu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 61/2026 privind aprobarea ordinei de zi a ședinței de ordinare din data de 23.09.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289554",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-62-2026",
+   "path": "local/arad/secusigiu/2026/62",
+   "short": "HCL Secusigiu nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 62/2026 privind încetarea mandatului de consilier al domnei IOSIM DANIELA-FLOARE și vacantarea unui post de consilier din cadrul Consiliului Local al comunei Secusigiu",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289555",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-65-2026",
+   "path": "local/arad/secusigiu/2026/65",
+   "short": "HCL Secusigiu nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 65/2026 privind rectificarea bugetului local al comunei Secusigiu pe trimestru III anul 2026 și a listei de investiții pe anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289558",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-66-2026",
+   "path": "local/arad/secusigiu/2026/66",
+   "short": "HCL Secusigiu nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 66/2026 privind reevaluare privind activele fixe corporale – elemente ale sistemului de alimentare cu apă aflate în domeniul public al Comunei Secusigiu, Judeţul Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289559",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-69-2026",
+   "path": "local/arad/secusigiu/2026/69",
+   "short": "HCL Secusigiu nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 69/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei SECUSIGIU în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289562",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-7-2026",
+   "path": "local/arad/secusigiu/2026/7",
+   "short": "HCL Secusigiu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 7/2026 privind aprobarea derularii Programului National ”Masa sanatoasa” (PNMS) pentru anul 2026, la nivelul Scolii Gimnaziale Secusigiu, cu structurile arondate, beneficiariprescolarii si elevii Scolii Gimnaziale Secusigiu",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258088",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-70-2026",
+   "path": "local/arad/secusigiu/2026/70",
+   "short": "HCL Secusigiu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 70/2026 privind aprobarea încheierii Actului adițional nr. 5 la Contractul de delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separate din județul Arad – Zona 1 – Arad nr. 4850/23.11.2023",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289563",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-71-2026",
+   "path": "local/arad/secusigiu/2026/71",
+   "short": "HCL Secusigiu nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 71/2026 privind aprobarea procesului verbal al şedinţei ordinare din data de 17.08.2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/289564",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/289564",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--secusigiu-73-2026",
    "path": "local/arad/secusigiu/2026/73",
    "short": "HCL Secusigiu nr. 73/2026",
@@ -103,6 +1048,21 @@
      "from": "2026-10-07",
      "units": 1,
      "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/291310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-8-2026",
+   "path": "local/arad/secusigiu/2026/8",
+   "short": "HCL Secusigiu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 8/2026 privind aprobarea Raportului privind stadiul de înscriere a datelor în registrul agricol pentru perioada 01.07.2025-31.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/258089",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/258089",
      "sha256": null
     }
    ]

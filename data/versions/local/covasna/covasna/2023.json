@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2023",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-14-2023",
+   "path": "local/covasna/covasna/2023/14",
+   "short": "HCL Covasna nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 14/2023",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl14.pdf",
+     "sha256": "65dd614e2eb5df8866fbd7fb49552377511b937c9f6bf76c6fe8955f4fa47a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-15-2023",
+   "path": "local/covasna/covasna/2023/15",
+   "short": "HCL Covasna nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 15/2023",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl15.pdf",
+     "sha256": "3fe19415645e03290c2f9dff145f3cae4d1800ae4c6b3c0d18c5c169456cef9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-16-2023",
+   "path": "local/covasna/covasna/2023/16",
+   "short": "HCL Covasna nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 16/2023",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl16.pdf",
+     "sha256": "8f514887560932109ad3a831aa5fd07f6e8e2e6550f7cccd739c23d018c1bf20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-167-2023",
+   "path": "local/covasna/covasna/2023/167",
+   "short": "HCL Covasna nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 167/2023 cu privire la aprobarea unor tarife pentru închirierea unor echipamente sportive la Pârtia de schi \"Lőrincz Zsigmond\" pentru sezonul de iarnă 2023-2024",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 6,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl167.pdf",
+     "sha256": "4a1d2931d9f98843c4128ecb880dcfb1b3af4db842e875fddb091972ba66450e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-191-2023",
+   "path": "local/covasna/covasna/2023/191",
+   "short": "HCL Covasna nr. 191/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 191/2023 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General al orașului Covasna și a Regulamentului local de urbanism aferent acestuia",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 3,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl191.pdf",
+     "sha256": "6152091a549660ebbe3b4d9b165e324ea888b228949bb3dce028a00bd3cacf2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-199-2023",
+   "path": "local/covasna/covasna/2023/199",
+   "short": "HCL Covasna nr. 199/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 199/2023 cu privire la aprobarea Regulamentului de Organizare și Funcționare al Aparatului de Specialitate al Primarului orașului Covasna",
+   "url": "http://www.primariacovasna.ro/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl199.pdf",
+     "sha256": "7b3b55ad0891ebd91ae9646db2e52cb670bfd71244169eaf05a4fc0ce4178012"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-29-2023",
+   "path": "local/covasna/covasna/2023/29",
+   "short": "HCL Covasna nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 29/2023",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/HCL29.pdf",
+     "sha256": "56e7251e41a186a3a7e26aee012e96625f84156b9a74344e0d67274836025bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-30-2023",
+   "path": "local/covasna/covasna/2023/30",
+   "short": "HCL Covasna nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 30/2023",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/HCL30.pdf",
+     "sha256": "5215d3f90597ffbd931a449369575192b4858574ecc4c7eb3d5581567b3f5a03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-69-2023",
+   "path": "local/covasna/covasna/2023/69",
+   "short": "HCL Covasna nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 69/2023 Privind indexarea impozitelor și taxelor locale, pentru anul 2024",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 4,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl69.pdf",
+     "sha256": "83f77b4efede73817ceaad0e65a46e3d952a3cdf07c93ddcfcf8f479cc42fd2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-87-2023",
+   "path": "local/covasna/covasna/2023/87",
+   "short": "HCL Covasna nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 87/2023 cu privire la modificarea, stabilirea tarifelor la serviciul public de salubritate „Colectarea și transportul deșeurilor municipale” pe raza orașului Covasna",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 4,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2023/hcl87.pdf",
+     "sha256": "2a6f26d14f3dea23a6b8a70d8faa50fe8b9027937b921cf6d87c321807b3b09e"
+    }
+   ]
+  }
+ ]
+}

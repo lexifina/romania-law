@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcj-constanta-239-2022",
+   "path": "local/judet/constanta/2022/239",
+   "short": "HCJ Constanța nr. 239/2022",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 239/2022 privind aprobarea tarifelor de călătorie și a abonamentelor pentru serviciul de transport public județean de persoane prin curse regulate în județul Constanța, pentru traseele aferente lotului 7 tarife rezultate în urma procedurii de licitație deschisă",
+   "url": "https://www.cjc.ro/sectiune.php?s=46",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2022/239.pdf",
+     "sha256": "85978e97b7645c0c790ac3d27a8d1ec895857ebc51e8a791f61dac94d69521b6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-594-2022",
    "path": "local/judet/constanta/2022/594",
    "short": "HCJ Constanța nr. 594/2022",

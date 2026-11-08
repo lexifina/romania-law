@@ -1,0 +1,185 @@
+{
+"country": "RO",
+"shard": "local/arges/poienarii-de-muscel/2025",
+"acts": [
+{
+"slug": "hcl-arges--poienarii-de-muscel-12-2025",
+"path": "local/arges/poienarii-de-muscel/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 12/2025 privind aprobarea unor măsuri pentru interzicerea abandonării ,aruncării necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor pe raza comunei Poienarii de Muscel",
+"short": "HCL Poienarii de Muscel nr. 12/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-12.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-16-2025",
+"path": "local/arges/poienarii-de-muscel/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 16/2025 privind aprobarea înființării Serviciului de iluminat public fără personalitate juridică și a delegarii gestiunii prin concesiune a Serviciului de iluminat public al Comunei Poienarii de Muscel, Județul Argeș, a Studiului de fundamentare a deciziei de delegare a Serviciului de iluminat public al Comunei Poienarii de Muscel, Județul Argeș, a Regulamentului de Organizare și funcționare al serviciulu",
+"short": "HCL Poienarii de Muscel nr. 16/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-16.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-39-2025",
+"path": "local/arges/poienarii-de-muscel/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 39/2025 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară Servsal Argeș în vederea aprobării ajustării și modificării tarifului de tratare mecano-biologică a deșeurilor perceput de operatorul Soc",
+"short": "HCL Poienarii de Muscel nr. 39/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-06-24",
+"latest": "2025-06-24",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-39.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-51-2025",
+"path": "local/arges/poienarii-de-muscel/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 51/2025",
+"short": "HCL Poienarii de Muscel nr. 51/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-51.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-60-2025",
+"path": "local/arges/poienarii-de-muscel/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 60/2025 privind acordarea unui mandat special în vederea aprobării ajustării tarifelor percepute de operatorul Soc",
+"short": "HCL Poienarii de Muscel nr. 60/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-60.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-61-2025",
+"path": "local/arges/poienarii-de-muscel/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 61/2025 privind acordarea unui mandat special în vederea aprobării ajustării tarifului de tratare mecano-biologică a deșeurilor perceput de operatorul Soc",
+"short": "HCL Poienarii de Muscel nr. 61/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-61.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-65-2025",
+"path": "local/arges/poienarii-de-muscel/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 65/2025 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor de pe raza administrativ-teritorială a Comunei Poienarii de Muscel , care nu se supun înmatriculării",
+"short": "HCL Poienarii de Muscel nr. 65/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-65.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-71-2025",
+"path": "local/arges/poienarii-de-muscel/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 71/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Poienarii de Muscel nr. 71/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-71.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

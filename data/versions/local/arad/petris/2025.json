@@ -3,6 +3,36 @@
  "shard": "local/arad/petris/2025",
  "acts": [
   {
+   "slug": "hcl-arad--petris-1-2025",
+   "path": "local/arad/petris/2025/1",
+   "short": "HCL Petriș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 1/2025 privind aprobarea procesului verbal de la ședința ordinară, a Consiliului Local al comunei Petriş din data de 13 decembrie 2024",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188957",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-100-2025",
+   "path": "local/arad/petris/2025/100",
+   "short": "HCL Petriș nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 100/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul III al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/petris-ar/registru-hcl/232042",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/232042",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-102-2025",
    "path": "local/arad/petris/2025/102",
    "short": "HCL Petriș nr. 102/2025",
@@ -118,6 +148,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/237997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-11-2025",
+   "path": "local/arad/petris/2025/11",
+   "short": "HCL Petriș nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 11/2025 privind aprobarea contului de execuţie al bugetului local și al bugetului activităţilor autofinanţate și venituri proprii pe anul 2024",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188967",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188967",
      "sha256": null
     }
    ]
@@ -273,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-12-2025",
+   "path": "local/arad/petris/2025/12",
+   "short": "HCL Petriș nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 12/2025 privind aprobarea cotei de tăiere pe natură de produse pe anul 2025 din fondul forestier aparținând Comunei Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188968",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188968",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-120-2025",
    "path": "local/arad/petris/2025/120",
    "short": "HCL Petriș nr. 120/2025",
@@ -298,6 +358,981 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/245160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-14-2025",
+   "path": "local/arad/petris/2025/14",
+   "short": "HCL Petriș nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 14/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188970",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-16-2025",
+   "path": "local/arad/petris/2025/16",
+   "short": "HCL Petriș nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 16/2025 privind aprobarea procesului verbal de la ședința ordinară, a Consiliului Local al comunei Petriş din data de 29 ianuarie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194947",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-17-2025",
+   "path": "local/arad/petris/2025/17",
+   "short": "HCL Petriș nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 17/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 28 februarie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194948",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-18-2025",
+   "path": "local/arad/petris/2025/18",
+   "short": "HCL Petriș nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 18/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2025 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194949",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-19-2025",
+   "path": "local/arad/petris/2025/19",
+   "short": "HCL Petriș nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 19/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194950",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-2-2025",
+   "path": "local/arad/petris/2025/2",
+   "short": "HCL Petriș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 2/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 29 ianuarie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188958",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-20-2025",
+   "path": "local/arad/petris/2025/20",
+   "short": "HCL Petriș nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 20/2025 privind stabilirea domeniilor serviciilor publice și a locurilor în care persoanele care au săvârșit infracțiuni sau persoanele care au fost sancționate contravențional vor presta muncă neremunerată în folosul comunității, ca obligație stabilită de o instanță de judecată",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194951",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-22-2025",
+   "path": "local/arad/petris/2025/22",
+   "short": "HCL Petriș nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 22/2025 privind aprobarea devizului general actualizat pentru obiectivul de investiție „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN LOCALITĂȚILE CORBEȘTI ȘI ROȘIA NOUĂ, COMUNA PETRIȘ, JUDEȚUL ARAD” aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194953",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-23-2025",
+   "path": "local/arad/petris/2025/23",
+   "short": "HCL Petriș nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 23/2025 privind stabilirea modului de valorificare a materialului lemnos din APV 214 și APV 215",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194954",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-24-2025",
+   "path": "local/arad/petris/2025/24",
+   "short": "HCL Petriș nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 24/2025 privind aprobarea procesului verbal de la ședința ordinară, a Consiliului Local al comunei Petriş din data de 28 februarie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196843",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-25-2025",
+   "path": "local/arad/petris/2025/25",
+   "short": "HCL Petriș nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 25/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 13 martie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196844",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-26-2025",
+   "path": "local/arad/petris/2025/26",
+   "short": "HCL Petriș nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 26/2025 privind aprobarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196845",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-27-2025",
+   "path": "local/arad/petris/2025/27",
+   "short": "HCL Petriș nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 27/2025 privind aprobarea listei de investiţii pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196846",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-28-2025",
+   "path": "local/arad/petris/2025/28",
+   "short": "HCL Petriș nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 28/2025 privind aprobarea Programului anual al achizițiilor publice pentru anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196847",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-29-2025",
+   "path": "local/arad/petris/2025/29",
+   "short": "HCL Petriș nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 29/2025 privind aprobarea Calendarului manifestărilor cultural – artistice care se vor desfășura în comuna Petriș în anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196848",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-3-2025",
+   "path": "local/arad/petris/2025/3",
+   "short": "HCL Petriș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 3/2025 privind actualizarea Planului de analiză și acoperire a riscurilor al comunei Petriș, pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188959",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-31-2025",
+   "path": "local/arad/petris/2025/31",
+   "short": "HCL Petriș nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 31/2025 pentru modificarea art. 1 din Hotărârea Consiliului Local al comunei Petriș nr. 112/13.12.2024 privind modificarea art. 1 din Hotărârea Consiliului Local al comunei Petriș nr. 89/30.09.2024 privind stabilirea modului de valorificare a materialului lemnos din APV 196, APV 197 și APV 201",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196850",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-32-2025",
+   "path": "local/arad/petris/2025/32",
+   "short": "HCL Petriș nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 32/2025 privind aprobarea procesului verbal de la ședința ordinară, a Consiliului Local al comunei Petriş din data de 13 martie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/197656",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/197656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-33-2025",
+   "path": "local/arad/petris/2025/33",
+   "short": "HCL Petriș nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 33/2025 privind aprobarea ORDINII DE ZI de la Sedinţa extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 20 martie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/197657",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/197657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-36-2025",
+   "path": "local/arad/petris/2025/36",
+   "short": "HCL Petriș nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 36/2025 privind aprobarea participării Comunei Petriș, județul Arad, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/petris-ar/registru-hcl/197660",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/197660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-37-2025",
+   "path": "local/arad/petris/2025/37",
+   "short": "HCL Petriș nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 37/2025 privind aprobarea procesului verbal de la ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 20 martie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204454",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-38-2025",
+   "path": "local/arad/petris/2025/38",
+   "short": "HCL Petriș nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 38/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 14 aprilie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204455",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-4-2025",
+   "path": "local/arad/petris/2025/4",
+   "short": "HCL Petriș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 4/2025 privind aprobarea planului de acțiune și lucrări de interes local pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188960",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-41-2025",
+   "path": "local/arad/petris/2025/41",
+   "short": "HCL Petriș nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 41/2025 privind aprobarea tarifelor și a Actului Adițional nr. 1 la Contractul nr. 4108/16.10.2024 de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat din județul Arad, Zona 5",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204458",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-43-2025",
+   "path": "local/arad/petris/2025/43",
+   "short": "HCL Petriș nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 43/2025 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Petriș, județul Arad, pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204460",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-44-2025",
+   "path": "local/arad/petris/2025/44",
+   "short": "HCL Petriș nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 44/2025 privind aprobarea Planului de acțiune comunitară al comunei Petriș, județul Arad, pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204461",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-45-2025",
+   "path": "local/arad/petris/2025/45",
+   "short": "HCL Petriș nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 45/2025 privind aprobarea cuantumului cotizației Consiliului Local al comunei Petriș, în cadrul Asociației de Dezvoltare Intercomunitară ,,GAZ VALEA MUREȘULUI” pentru anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204462",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-47-2025",
+   "path": "local/arad/petris/2025/47",
+   "short": "HCL Petriș nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 47/2025 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 14 aprilie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207260",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-48-2025",
+   "path": "local/arad/petris/2025/48",
+   "short": "HCL Petriș nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 48/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 12 mai 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207261",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-49-2025",
+   "path": "local/arad/petris/2025/49",
+   "short": "HCL Petriș nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 49/2025 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Petriș, care se aplică începând cu data de 01 mai 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207262",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-5-2025",
+   "path": "local/arad/petris/2025/5",
+   "short": "HCL Petriș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 5/2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188961",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-50-2025",
+   "path": "local/arad/petris/2025/50",
+   "short": "HCL Petriș nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 50/2025 privind rectificarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207263",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-51-2025",
+   "path": "local/arad/petris/2025/51",
+   "short": "HCL Petriș nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 51/2025 privind acordarea unui mandat special reprezentantului Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207264",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-53-2025",
+   "path": "local/arad/petris/2025/53",
+   "short": "HCL Petriș nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 53/2025 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 12 mai 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213798",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-54-2025",
+   "path": "local/arad/petris/2025/54",
+   "short": "HCL Petriș nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 54/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 25 iunie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213799",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-57-2025",
+   "path": "local/arad/petris/2025/57",
+   "short": "HCL Petriș nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 57/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213802",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-6-2025",
+   "path": "local/arad/petris/2025/6",
+   "short": "HCL Petriș nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 6/2025 privind aprobarea modalității de completare a Registrului Agricol pentru perioada 2025 - 2029",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188962",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-61-2025",
+   "path": "local/arad/petris/2025/61",
+   "short": "HCL Petriș nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 61/2025 privind rectificarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213806",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-63-2025",
+   "path": "local/arad/petris/2025/63",
+   "short": "HCL Petriș nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 63/2025 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 25 iunie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219987",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-64-2025",
+   "path": "local/arad/petris/2025/64",
+   "short": "HCL Petriș nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 64/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 31 iulie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219988",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-65-2025",
+   "path": "local/arad/petris/2025/65",
+   "short": "HCL Petriș nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 65/2025 privind aprobarea modificării prin Actul adițional nr. 1 a Acordului de parteneriat nr. 36571/09.12.2022 încheiat pentru realizarea proiectului “Cu bicicleta prin vest – traseu cicloturistic”, din Investiția I.4 – “Implementarea a 3000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta C11 – Turism și Cultură",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219989",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-69-2025",
+   "path": "local/arad/petris/2025/69",
+   "short": "HCL Petriș nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 69/2025 privind rectificarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219993",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-7-2025",
+   "path": "local/arad/petris/2025/7",
+   "short": "HCL Petriș nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 7/2025 privind aprobarea cuantumului cotizației Consiliului Local al comunei Petriș, în cadrul Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad pentru anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188963",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-71-2025",
+   "path": "local/arad/petris/2025/71",
+   "short": "HCL Petriș nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 71/2025 privind aprobarea Actului Adițional nr. 1 la Actul constitutiv al Regiei Publice Locale Ocolul Silvic ”Piatra Cerbului” R.A",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219995",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-72-2025",
+   "path": "local/arad/petris/2025/72",
+   "short": "HCL Petriș nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 72/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I și trimestrul II ale anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219996",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-73-2025",
+   "path": "local/arad/petris/2025/73",
+   "short": "HCL Petriș nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 73/2025 privind însuşirea raportului de activitate a compartimentului de prevenire din cadrul SVSU Petriș, pe Semestrul I 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219997",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-75-2025",
+   "path": "local/arad/petris/2025/75",
+   "short": "HCL Petriș nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 75/2025 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 31 iulie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/222744",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/222744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-76-2025",
+   "path": "local/arad/petris/2025/76",
+   "short": "HCL Petriș nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 76/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 28 august 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/222745",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/222745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-77-2025",
+   "path": "local/arad/petris/2025/77",
+   "short": "HCL Petriș nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 77/2025 privind acordarea unui mandat special reprezentantului Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea rectificării cotizației pe anul 2025 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/222746",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/222746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-79-2025",
+   "path": "local/arad/petris/2025/79",
+   "short": "HCL Petriș nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 79/2025 privind aprobarea Actului Adițional nr. 1 la Statutul Regiei Publice Locale Ocolul Silvic ”Piatra Cerbului” R.A",
+   "url": "https://emol.ro/petris-ar/registru-hcl/222748",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/222748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-8-2025",
+   "path": "local/arad/petris/2025/8",
+   "short": "HCL Petriș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 8/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188964",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-80-2025",
+   "path": "local/arad/petris/2025/80",
+   "short": "HCL Petriș nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 80/2025 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 28 august 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/224447",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/224447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-81-2025",
+   "path": "local/arad/petris/2025/81",
+   "short": "HCL Petriș nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 81/2025 privind aprobarea ORDINII DE ZI de la Sedinţa extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 10 septembrie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/224448",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/224448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-82-2025",
+   "path": "local/arad/petris/2025/82",
+   "short": "HCL Petriș nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 82/2025 privind rectificarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/224449",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/224449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-83-2025",
+   "path": "local/arad/petris/2025/83",
+   "short": "HCL Petriș nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 83/2025 privind modificarea listei de investiţii pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/224450",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/224450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-84-2025",
+   "path": "local/arad/petris/2025/84",
+   "short": "HCL Petriș nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 84/2025 privind aprobarea procesului verbal de la ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 10 septembrie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228139",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-85-2025",
+   "path": "local/arad/petris/2025/85",
+   "short": "HCL Petriș nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 85/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 30 septembrie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228140",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-87-2025",
+   "path": "local/arad/petris/2025/87",
+   "short": "HCL Petriș nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 87/2025 privind rectificarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228142",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-88-2025",
+   "path": "local/arad/petris/2025/88",
+   "short": "HCL Petriș nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 88/2025 privind modificarea listei de investiţii pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228143",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-89-2025",
+   "path": "local/arad/petris/2025/89",
+   "short": "HCL Petriș nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 89/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228144",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-9-2025",
+   "path": "local/arad/petris/2025/9",
+   "short": "HCL Petriș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 9/2025 privind însuşirea raportului de activitate a compartimentului de prevenire din cadrul SVSU Petriș, pe Semestrul II 2024",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188965",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-93-2025",
+   "path": "local/arad/petris/2025/93",
+   "short": "HCL Petriș nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 93/2025 privind stabilirea modului de valorificare a materialului lemnos din APV 302",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228148",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-97-2025",
+   "path": "local/arad/petris/2025/97",
+   "short": "HCL Petriș nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 97/2025 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 30 septembrie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/232039",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/232039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-98-2025",
+   "path": "local/arad/petris/2025/98",
+   "short": "HCL Petriș nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 98/2025 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 29 octombrie 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/232040",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/232040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-99-2025",
+   "path": "local/arad/petris/2025/99",
+   "short": "HCL Petriș nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 99/2025 privind rectificarea bugetului local al comunei Petriș pe anul 2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/232041",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/232041",
      "sha256": null
     }
    ]

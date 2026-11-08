@@ -3,6 +3,291 @@
  "shard": "local/arad/socodor/2023",
  "acts": [
   {
+   "slug": "hcl-arad--socodor-1-2023",
+   "path": "local/arad/socodor/2023/1",
+   "short": "HCL Socodor nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 1/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 29 decembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87476",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-10-2023",
+   "path": "local/arad/socodor/2023/10",
+   "short": "HCL Socodor nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 10/2023 privind aprobarea plății cotizaţiei Consiliului Local Socodor aferentă anului 2023, la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87485",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-100-2023",
+   "path": "local/arad/socodor/2023/100",
+   "short": "HCL Socodor nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 100/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 29 septembrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122747",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-103-2023",
+   "path": "local/arad/socodor/2023/103",
+   "short": "HCL Socodor nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 103/2023 privind aprobarea bugetului local rectificat în luna septembrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122750",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-104-2023",
+   "path": "local/arad/socodor/2023/104",
+   "short": "HCL Socodor nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 104/2023 privind aprobarea prelungirii până la data de 23.02.2024 a Scrisorii de Garantare nr.495/29.08.2017 de la FNGCIMM SA IFN în valoare de 1.200.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.200.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Reabilitare și extindere sistem de alimentare cu apă și extindere canalizare menajeră în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122751",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-105-2023",
+   "path": "local/arad/socodor/2023/105",
+   "short": "HCL Socodor nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 105/2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122752",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-106-2023",
+   "path": "local/arad/socodor/2023/106",
+   "short": "HCL Socodor nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 106/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/ oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitele de deşeuri nepericuloase, Operarea Depozitului de deșeuri nepericuloase Arad, componenta eliminare, prin depozitare, a deșeurilor municipale reziduale, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum, a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor si a deșeurilor ce nu pot fi valorificate din deșeurile voluminoase, deșeurile textile și deșeurile provenite de la evenimente la depozitul de deşeuri nepericuloase din Aria Delegării, în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122753",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-107-2023",
+   "path": "local/arad/socodor/2023/107",
+   "short": "HCL Socodor nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 107/2023 privind aprobarea bugetului rectificat în luna septembrie 2023 al Clubului Sportiv Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122754",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-108-2023",
+   "path": "local/arad/socodor/2023/108",
+   "short": "HCL Socodor nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 108/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 29 septembrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127754",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-109-2023",
+   "path": "local/arad/socodor/2023/109",
+   "short": "HCL Socodor nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 109/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 31 octombrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127755",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-11-2023",
+   "path": "local/arad/socodor/2023/11",
+   "short": "HCL Socodor nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 11/2023 privind aprobarea Actului Adițional nr. 2 la Acordul document de poziție privind modul de implementare a proiectului “Sistem integrat de gestionare a deșeurilor județul Arad\"",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87486",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-111-2023",
+   "path": "local/arad/socodor/2023/111",
+   "short": "HCL Socodor nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 111/2023 privind aprobarea bugetului local rectificat în luna octombrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127757",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-112-2023",
+   "path": "local/arad/socodor/2023/112",
+   "short": "HCL Socodor nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 112/2023 privind aprobarea execuției bugetare la 30 septembrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127758",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-114-2023",
+   "path": "local/arad/socodor/2023/114",
+   "short": "HCL Socodor nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 114/2023 privind aprobarea implementării proiectului „ Realizare sistem integrat de gestionare a gunoiului de grajd prin construirea și dotarea unei platforme de depozitare a gunoiului de grajd în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127760",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-115-2023",
+   "path": "local/arad/socodor/2023/115",
+   "short": "HCL Socodor nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 115/2023 privind aprobarea documentației tehnico-economice şi a indicatorilor tehnico-economici pentru obiectivul de investiție „Construire drum de exploatare la SRMP Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127761",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-116-2023",
+   "path": "local/arad/socodor/2023/116",
+   "short": "HCL Socodor nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 116/2023 privind aprobarea bugetului revizuit al proiectului „Construire centru de zi pentru copiii aflați în situație de risc de separare de părinți, în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127762",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-117-2023",
+   "path": "local/arad/socodor/2023/117",
+   "short": "HCL Socodor nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 117/2023 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127763",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-118-2023",
+   "path": "local/arad/socodor/2023/118",
+   "short": "HCL Socodor nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 118/2023 privind aprobarea prelungirii până la data de 14.04.2024 a Scrisorii de Garantare nr.137/14.06.2017 de la FNGCIMM SA IFN în valoare de 450.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 450.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Renovare și dotare cămin cultural din comuna Socodor, jud. Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/127764",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/127764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-119-2023",
+   "path": "local/arad/socodor/2023/119",
+   "short": "HCL Socodor nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 119/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 octombrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/131230",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/131230",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-120-2023",
    "path": "local/arad/socodor/2023/120",
    "short": "HCL Socodor nr. 120/2023",
@@ -153,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-13-2023",
+   "path": "local/arad/socodor/2023/13",
+   "short": "HCL Socodor nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 13/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Socodor pentru anul școlar 2023 - 2024",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87488",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87488",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-130-2023",
    "path": "local/arad/socodor/2023/130",
    "short": "HCL Socodor nr. 130/2023",
@@ -298,6 +598,1221 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/135544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-14-2023",
+   "path": "local/arad/socodor/2023/14",
+   "short": "HCL Socodor nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 14/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de depozitare și neutralizare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Depozitului Conform Arad",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87489",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-15-2023",
+   "path": "local/arad/socodor/2023/15",
+   "short": "HCL Socodor nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 15/2023 privind avizarea Studiului de fundamentare/oportunitate, a Documentației de atribuire a Contractul de gestiune directă a serviciului de sortare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Stației de Sortare Arad",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87490",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-16-2023",
+   "path": "local/arad/socodor/2023/16",
+   "short": "HCL Socodor nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 16/2023 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87491",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-17-2023",
+   "path": "local/arad/socodor/2023/17",
+   "short": "HCL Socodor nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 17/2023 privind aprobarea dezlipirii terenului înscris în extrasul CF 304702 Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87492",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-18-2023",
+   "path": "local/arad/socodor/2023/18",
+   "short": "HCL Socodor nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 18/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 ianuarie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92307",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-19-2023",
+   "path": "local/arad/socodor/2023/19",
+   "short": "HCL Socodor nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 19/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 28 februarie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92308",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-2-2023",
+   "path": "local/arad/socodor/2023/2",
+   "short": "HCL Socodor nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 2/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 31 ianuarie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87477",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-20-2023",
+   "path": "local/arad/socodor/2023/20",
+   "short": "HCL Socodor nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 20/2023 privind aprobarea rezultatului inventarierii patrimoniului Comunei Socodor la data de 31.12.2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92309",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-21-2023",
+   "path": "local/arad/socodor/2023/21",
+   "short": "HCL Socodor nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 21/2023 privind aprobarea raportului pentru semestru II 2022, privind activitatea asistenților personali ai persoanelor cu handicap grav, angajați în cadrul Primăriei Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92310",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-22-2023",
+   "path": "local/arad/socodor/2023/22",
+   "short": "HCL Socodor nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 22/2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92311",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-23-2023",
+   "path": "local/arad/socodor/2023/23",
+   "short": "HCL Socodor nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 23/2023 privind aprobarea raportului privind starea economică, socială și de mediu a comunei Socodor pentru anul 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92312",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-24-2023",
+   "path": "local/arad/socodor/2023/24",
+   "short": "HCL Socodor nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 24/2023 privind aprobarea rapoartelor consilierilor și a viceprimarului pentru anul 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92313",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-25-2023",
+   "path": "local/arad/socodor/2023/25",
+   "short": "HCL Socodor nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 25/2023 privind aprobarea Programului de măsuri pentru gospodărirea, salubrizarea și înfrumusețarea comunei Socodor pentru anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92314",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-26-2023",
+   "path": "local/arad/socodor/2023/26",
+   "short": "HCL Socodor nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 26/2023 privind aprobarea bugetului local rectificat în luna februarie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92315",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-27-2023",
+   "path": "local/arad/socodor/2023/27",
+   "short": "HCL Socodor nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 27/2023 privind aprobarea prelungirii până la data de 09.08.2023 a Scrisorii de Garantare nr.139/15.06.2017 de la FNGCIMM SA IFN în valoare de 1.700.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.700.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Amenajare infrastructură drumuri agricole în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/92316",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/92316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-29-2023",
+   "path": "local/arad/socodor/2023/29",
+   "short": "HCL Socodor nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 29/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 28 februarie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98270",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-3-2023",
+   "path": "local/arad/socodor/2023/3",
+   "short": "HCL Socodor nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 3/2023 privind aprobarea bugetului local inițial pentru anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87478",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-30-2023",
+   "path": "local/arad/socodor/2023/30",
+   "short": "HCL Socodor nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 30/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 31 martie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98271",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-31-2023",
+   "path": "local/arad/socodor/2023/31",
+   "short": "HCL Socodor nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 31/2023 privind aprobarea modificării organigramei si a statului de funcții a Primăriei Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98272",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-32-2023",
+   "path": "local/arad/socodor/2023/32",
+   "short": "HCL Socodor nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 32/2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98273",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-33-2023",
+   "path": "local/arad/socodor/2023/33",
+   "short": "HCL Socodor nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 33/2023 privind aprobarea Planului anual de acțiuni privind serviciile sociale administrate și finanțate din bugetul local pentru anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98274",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-34-2023",
+   "path": "local/arad/socodor/2023/34",
+   "short": "HCL Socodor nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 34/2023 privind aprobarea proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale „Iustin Marșieu” Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98275",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-35-2023",
+   "path": "local/arad/socodor/2023/35",
+   "short": "HCL Socodor nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 35/2023 privind aprobarea bugetului local rectificat în luna martie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/98276",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/98276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-36-2023",
+   "path": "local/arad/socodor/2023/36",
+   "short": "HCL Socodor nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 36/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 martie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102614",
+   "versions": [
+    {
+     "from": "2023-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-37-2023",
+   "path": "local/arad/socodor/2023/37",
+   "short": "HCL Socodor nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 37/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 28 aprilie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102615",
+   "versions": [
+    {
+     "from": "2023-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-38-2023",
+   "path": "local/arad/socodor/2023/38",
+   "short": "HCL Socodor nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 38/2023 privind aprobarea documentației tehnico-economice şi a indicatorilor tehnico-economici pentru obiectivul de investiție „Construire centru de zi pentru copiii aflați în situație de risc de separare de părinți, în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102616",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-39-2023",
+   "path": "local/arad/socodor/2023/39",
+   "short": "HCL Socodor nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 39/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru „Construire centru de zi pentru copiii aflați în situație de risc de separare de părinți, în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102617",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-4-2023",
+   "path": "local/arad/socodor/2023/4",
+   "short": "HCL Socodor nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 4/2023 privind aprobarea utilizării excedentului bugetar al anului 2022 în anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87479",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-40-2023",
+   "path": "local/arad/socodor/2023/40",
+   "short": "HCL Socodor nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 40/2023 privind aprobarea bugetului local rectificat în luna aprilie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102618",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-41-2023",
+   "path": "local/arad/socodor/2023/41",
+   "short": "HCL Socodor nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 41/2023 privind participarea Comunei Socodor în cadrul Programului privind casarea autovehiculelor uzate",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102619",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-42-2023",
+   "path": "local/arad/socodor/2023/42",
+   "short": "HCL Socodor nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 42/2023 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2024 cu rata inflaţiei de 13,8% aferentă anului 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102620",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-43-2023",
+   "path": "local/arad/socodor/2023/43",
+   "short": "HCL Socodor nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 43/2023 privind aprobarea execuției bugetare la 31 martie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102621",
+   "versions": [
+    {
+     "from": "2023-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-44-2023",
+   "path": "local/arad/socodor/2023/44",
+   "short": "HCL Socodor nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 44/2023 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102622",
+   "versions": [
+    {
+     "from": "2023-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-46-2023",
+   "path": "local/arad/socodor/2023/46",
+   "short": "HCL Socodor nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 46/2023 privind aprobarea prelungirii până la data de 10.11.2023 a Scrisorii de Garantare nr.139/15.06.2017 de la FNGCIMM SA IFN în valoare de 1.700.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.700.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Amenajare infrastructură drumuri agricole în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102624",
+   "versions": [
+    {
+     "from": "2023-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-48-2023",
+   "path": "local/arad/socodor/2023/48",
+   "short": "HCL Socodor nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 48/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai proiectului „Renovare energetică moderată a sediului administrativ al Primărie Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102626",
+   "versions": [
+    {
+     "from": "2023-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-49-2023",
+   "path": "local/arad/socodor/2023/49",
+   "short": "HCL Socodor nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 49/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai proiectului „Renovare energetică moderată a corpului de vestiare din cadrul bazei sportive Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102627",
+   "versions": [
+    {
+     "from": "2023-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-5-2023",
+   "path": "local/arad/socodor/2023/5",
+   "short": "HCL Socodor nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 5/2023 privind aprobarea execuției bugetare la 31 decembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87480",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-50-2023",
+   "path": "local/arad/socodor/2023/50",
+   "short": "HCL Socodor nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 50/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici ai proiectului „Renovare energetică moderată a Grădiniței de copii PN Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102628",
+   "versions": [
+    {
+     "from": "2023-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-51-2023",
+   "path": "local/arad/socodor/2023/51",
+   "short": "HCL Socodor nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 51/2023 privind aprobarea dezlipirii terenului înscris în extrasul CF 306358 Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102629",
+   "versions": [
+    {
+     "from": "2023-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-52-2023",
+   "path": "local/arad/socodor/2023/52",
+   "short": "HCL Socodor nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 52/2023 privind aderarea în calitate de partener și semnarea acordului de parteneriat inițiat de către Asociația Grup de Acțiune Locală „Microregiunea Văilor Crișurilor Alb și Negru”, cu sediul în Socodor, nr. 1, jud. Arad, CIF 28992731, pentru depunerea și implementarea proiectului EDU MED, în cadrul PROGRAMULUI VIZÂND EDUCAȚIA ȘI CONȘTIENTIZAREA PUBLICULUI PRIVIND PROTECȚIA MEDIULUI, în conformitate cu ordinul Ministerului Mediului, Apelor și Pădurilor nr.3288/22.12.2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102630",
+   "versions": [
+    {
+     "from": "2023-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-53-2023",
+   "path": "local/arad/socodor/2023/53",
+   "short": "HCL Socodor nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 53/2023 privind aderarea și includerea teritoriului comunei Socodor la parteneriatul/teritoriul LEADER constituit prin Asociația Grup de Acțiune Locală „Microregiunea Văilor Crișurilor Alb și Negru” pentru obținerea sprijinului pregătitor, pentru selecția și implementarea Strategiei de Dezvoltare Locală aferentă perioadei de programare 2023-2027",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/102631",
+   "versions": [
+    {
+     "from": "2023-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/102631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-54-2023",
+   "path": "local/arad/socodor/2023/54",
+   "short": "HCL Socodor nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 54/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 28 aprilie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/107225",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/107225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-55-2023",
+   "path": "local/arad/socodor/2023/55",
+   "short": "HCL Socodor nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 55/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 31 mai 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/107226",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/107226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-56-2023",
+   "path": "local/arad/socodor/2023/56",
+   "short": "HCL Socodor nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 56/2023 privind aprobarea bugetului local rectificat în luna mai 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/107227",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/107227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-57-2023",
+   "path": "local/arad/socodor/2023/57",
+   "short": "HCL Socodor nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 57/2023 privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență, precum și a prestațiilor financiare excepționale",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/107228",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/107228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-58-2023",
+   "path": "local/arad/socodor/2023/58",
+   "short": "HCL Socodor nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 58/2023 privind aprobarea contractării unui împrumut in valoare de 1.500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgenta a Guvernului nr. 24/2023 privind unele masuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/107229",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/107229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-59-2023",
+   "path": "local/arad/socodor/2023/59",
+   "short": "HCL Socodor nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 59/2023 privind aprobarea prelungirii până la data de 23.11.2023 a Scrisorii de Garantare nr.495/29.08.2017 de la FNGCIMM SA IFN în valoare de 1.200.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.200.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Reabilitare și extindere sistem de alimentare cu apă și extindere canalizare menajeră în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/107230",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/107230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-6-2023",
+   "path": "local/arad/socodor/2023/6",
+   "short": "HCL Socodor nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 6/2023 privind aprobarea utilizării excedentului bugetar al Serviciului Apă - Canal Socodor din anul 2022 cu aceeași destinație în anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87481",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-60-2023",
+   "path": "local/arad/socodor/2023/60",
+   "short": "HCL Socodor nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 60/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 mai 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112137",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-61-2023",
+   "path": "local/arad/socodor/2023/61",
+   "short": "HCL Socodor nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 61/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 30 iunie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112138",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-62-2023",
+   "path": "local/arad/socodor/2023/62",
+   "short": "HCL Socodor nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 62/2023 privind aprobarea modificării organigramei si a statului de funcții a Primăriei Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112139",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-63-2023",
+   "path": "local/arad/socodor/2023/63",
+   "short": "HCL Socodor nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 63/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru „Centru de zi de asistență și recuperare pentru persoane vârstnice, în comuna Socodor, județul Arad” în cadrul apelului PNRR/2023/C13/MMSS/Investiția I4",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112140",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-64-2023",
+   "path": "local/arad/socodor/2023/64",
+   "short": "HCL Socodor nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 64/2023 privind aprobarea prelungirii până la data de 14.01.2024 a Scrisorii de Garantare nr.137/14.06.2017 de la FNGCIMM SA IFN în valoare de 450.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 450.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Renovare și dotare cămin cultural din comuna Socodor, jud. Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112141",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-65-2023",
+   "path": "local/arad/socodor/2023/65",
+   "short": "HCL Socodor nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 65/2023 privind aprobarea modificării Hotărârii nr.58 din 31 mai 2023 privind aprobarea contractării unui împrumut in valoare de 1.500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgenta a Guvernului nr. 24/2023 privind unele masuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112142",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-69-2023",
+   "path": "local/arad/socodor/2023/69",
+   "short": "HCL Socodor nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 69/2023 privind aprobarea bugetului local rectificat în luna iunie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112146",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-7-2023",
+   "path": "local/arad/socodor/2023/7",
+   "short": "HCL Socodor nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 7/2023 privind aprobarea utilizării excedentului bugetar al Clubului Sportiv Socodor al anului 2022, în anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87482",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-73-2023",
+   "path": "local/arad/socodor/2023/73",
+   "short": "HCL Socodor nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 73/2023 privind aprobarea bugetului rectificat în luna iunie 2023 al Clubului Sportiv Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112150",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-74-2023",
+   "path": "local/arad/socodor/2023/74",
+   "short": "HCL Socodor nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 74/2023 privind aprobarea valorii investiției actualizate pentru proiectul „Renovare și dotare Cămin Cultural din comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112151",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-75-2023",
+   "path": "local/arad/socodor/2023/75",
+   "short": "HCL Socodor nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 75/2023 privind aprobarea valorii investiției actualizate pentru proiectul „Alimentare cu gaze naturale în comunele Socodor, Grăniceri și Pilu, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/112152",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/112152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-76-2023",
+   "path": "local/arad/socodor/2023/76",
+   "short": "HCL Socodor nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 76/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 30 iunie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114588",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-77-2023",
+   "path": "local/arad/socodor/2023/77",
+   "short": "HCL Socodor nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 77/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 31 iulie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114589",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-8-2023",
+   "path": "local/arad/socodor/2023/8",
+   "short": "HCL Socodor nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 8/2023 privind aprobarea bugetului Serviciului Apă - Canal Socodor pentru anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87483",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-80-2023",
+   "path": "local/arad/socodor/2023/80",
+   "short": "HCL Socodor nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 80/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru „Centru de zi de asistență și recuperare pentru persoane vârstnice, în comuna Socodor, județul Arad” în cadrul apelului PNRR/2023/C13/MMSS/Investiția I4",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114592",
+   "versions": [
+    {
+     "from": "2023-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-81-2023",
+   "path": "local/arad/socodor/2023/81",
+   "short": "HCL Socodor nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 81/2023 privind aprobarea bugetului local rectificat în luna iulie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114593",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-82-2023",
+   "path": "local/arad/socodor/2023/82",
+   "short": "HCL Socodor nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 82/2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114594",
+   "versions": [
+    {
+     "from": "2023-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-83-2023",
+   "path": "local/arad/socodor/2023/83",
+   "short": "HCL Socodor nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 83/2023 privind aprobarea raportului pentru semestru I 2023, privind activitatea asistenților personali ai persoanelor cu handicap grav, angajați în cadrul Primăriei Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114595",
+   "versions": [
+    {
+     "from": "2023-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-84-2023",
+   "path": "local/arad/socodor/2023/84",
+   "short": "HCL Socodor nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 84/2023 privind aprobarea execuției bugetare la 30 iunie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114596",
+   "versions": [
+    {
+     "from": "2023-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-86-2023",
+   "path": "local/arad/socodor/2023/86",
+   "short": "HCL Socodor nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 86/2023 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/114598",
+   "versions": [
+    {
+     "from": "2023-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/114598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-87-2023",
+   "path": "local/arad/socodor/2023/87",
+   "short": "HCL Socodor nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 87/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 iulie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118117",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-88-2023",
+   "path": "local/arad/socodor/2023/88",
+   "short": "HCL Socodor nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 88/2023 privind aprobarea ordinii de zi a ședinței ordinare din data de 31 august 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118118",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-89-2023",
+   "path": "local/arad/socodor/2023/89",
+   "short": "HCL Socodor nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 89/2023 privind aprobarea bugetului local rectificat în luna august 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118119",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-9-2023",
+   "path": "local/arad/socodor/2023/9",
+   "short": "HCL Socodor nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 9/2023 privind aprobarea bugetului Clubului Sportiv Socodor pentru anul 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/87484",
+   "versions": [
+    {
+     "from": "2023-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/87484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-90-2023",
+   "path": "local/arad/socodor/2023/90",
+   "short": "HCL Socodor nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 90/2023 privind aprobarea prelungirii până la data de 09.01.2024 a Scrisorii de Garantare nr.139/15.06.2017 de la FNGCIMM SA IFN în valoare de 1.700.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.700.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Amenajare infrastructură drumuri agricole în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118120",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-91-2023",
+   "path": "local/arad/socodor/2023/91",
+   "short": "HCL Socodor nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 91/2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118121",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-92-2023",
+   "path": "local/arad/socodor/2023/92",
+   "short": "HCL Socodor nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 92/2023 privind aprobarea valorii investiției actualizate pentru proiectul „Alimentare cu gaze naturale în comunele Socodor, Grăniceri și Pilu, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118122",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-93-2023",
+   "path": "local/arad/socodor/2023/93",
+   "short": "HCL Socodor nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 93/2023 privind avizarea Strategiei de contractare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 2",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118123",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-94-2023",
+   "path": "local/arad/socodor/2023/94",
+   "short": "HCL Socodor nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 94/2023 privind delegarea serviciului public de salubrizare, a unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transferul deşeurilor municipale în staţiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deşeurilor reziduale la depozitul de deşeuri nepericuloase şi la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118124",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-95-2023",
+   "path": "local/arad/socodor/2023/95",
+   "short": "HCL Socodor nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 95/2023 privind aprobarea tarifului având ca obiect eliminarea, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a rezidurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la Depozitul de deşeuri nepericuloase Arad",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118125",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-96-2023",
+   "path": "local/arad/socodor/2023/96",
+   "short": "HCL Socodor nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 96/2023 privind aprobarea tarifului având ca obiect transferul deşeurilor municipale în staţii de transfer, inclusiv transportul separat al deşeurilor reziduale la depozitele de deşeuri nepericuloase şi/sau la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare şi/sau de digestie anaerobă",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118126",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-97-2023",
+   "path": "local/arad/socodor/2023/97",
+   "short": "HCL Socodor nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 97/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor /acordurilor-cadru pentru achiziționarea produselor aferente programului pentru școli și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Socodor, pentru anii școlari 2023-2029",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/118127",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/118127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-99-2023",
+   "path": "local/arad/socodor/2023/99",
+   "short": "HCL Socodor nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 99/2023 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 august 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/122746",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/122746",
      "sha256": null
     }
    ]

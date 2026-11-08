@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcj-bihor-9-2021",
+"path": "local/judet/bihor/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 9/2021 privind aprobarea procedurii de continuare a externalizării serviciilor sociale pentru contractele de furnizare servicii sociale",
+"short": "HCJ Bihor nr. 9/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-01-19",
+"latest": "2021-01-19",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-bihor-11-2021",
 "path": "local/judet/bihor/2021/11",
 "kind": "local",

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bacau/stefan-cel-mare/2020",
+"acts": [
+{
+"slug": "hcl-bacau--stefan-cel-mare-34-2020",
+"path": "local/bacau/stefan-cel-mare/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 34/2020 privind indexarea impozitelor si taxelor locale pentru anul 2021 cu rata inflatiei de 3,8%",
+"short": "HCL Ștefan cel Mare nr. 34/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-47-2020",
+"path": "local/bacau/stefan-cel-mare/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 47/2020 privind instituirea unor masuri fiscale si aprobarea procedurii de anulare",
+"short": "HCL Ștefan cel Mare nr. 47/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-53-2020",
+"path": "local/bacau/stefan-cel-mare/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 53/2020 privind aprobrea modificarii tarifului de precolectare, colectare si transportul deseurilor",
+"short": "HCL Ștefan cel Mare nr. 53/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-08-26",
+"latest": "2020-08-26",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-84-2020",
+"path": "local/bacau/stefan-cel-mare/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 84/2020 privind stabilirea impozitelor si taxelor locale la nivelul comunei Stefan cel Mare, jud. Bacau",
+"short": "HCL Ștefan cel Mare nr. 84/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-al-comunei-stefan-cel-mare-2020.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

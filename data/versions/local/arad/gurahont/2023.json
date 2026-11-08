@@ -3,6 +3,21 @@
  "shard": "local/arad/gurahont/2023",
  "acts": [
   {
+   "slug": "hcl-arad--gurahont-1-2023",
+   "path": "local/arad/gurahont/2023/1",
+   "short": "HCL Gurahonț nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 1/2023 privind aprobarea reţelei şcolare în anul şcolar 2023-2024 pe raza Comunei Gurahonţ, judeţul Arad",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/86549",
+   "versions": [
+    {
+     "from": "2023-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/86549",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-100-2023",
    "path": "local/arad/gurahont/2023/100",
    "short": "HCL Gurahonț nr. 100/2023",
@@ -118,6 +133,36 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-28-2023",
+   "path": "local/arad/gurahont/2023/28",
+   "short": "HCL Gurahonț nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 28/2023 privind indexarea pe baza ratei inflaţiei a limitelor impozitelor și taxelor locale, precum și a amenzilor care fac venit la bugetul local, aplicabile în anul fiscal 2024",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/102662",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/102662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-4-2023",
+   "path": "local/arad/gurahont/2023/4",
+   "short": "HCL Gurahonț nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 4/2023 privind actualizarea Regulamentului serviciului public de alimentare cu apă și canalizare din aria de competenţă a unităţilor administrativ-teritoriale membre ale “Asociaţiei de Dezvoltare Intercomunitară Apă – Canalizare judeţul Arad”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/86552",
+   "versions": [
+    {
+     "from": "2023-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/86552",
      "sha256": null
     }
    ]

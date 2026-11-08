@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Hălmăgel nr. 11/2024 privind aprobarea bugetului local de venituri şi cheltuieli al Comunei Hălmăgel, pe anul 2024 si estimarile pe anii 2025, 2026, 2027
+
+HCL Hălmăgel nr. 11/2024 · 1 versions, from 2024-05-08 (latest in force: 2024-05-08) · <https://emol.ro/halmagel-ar/registru-hcl/155507>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--halmagel-11-2024` (tags `hcl-arad--halmagel-11-2024/<day>`; `python tools/on.py <day> hcl-arad--halmagel-11-2024`).
+
+## Decisions made by hand
+
+- HCL Hălmăgel nr. 11/2024: listed from Consiliul Local al Comunei Hălmăgel (emol.ro); metadata only for now: no document of it is held.
+- HCL Hălmăgel nr. 11/2024: dated from 8 May 2024, the day the council's register gives it as published (adopted 12 February 2024).
+- HCL Hălmăgel nr. 11/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

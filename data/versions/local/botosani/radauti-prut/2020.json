@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/radauti-prut/2020",
+ "acts": [
+  {
+   "slug": "hcl-botosani--radauti-prut-11-2020",
+   "path": "local/botosani/radauti-prut/2020/11",
+   "short": "HCL Rădăuți-Prut nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 11/2020 privind stabilirea impozitelor si taxelor locale pe anul 2021",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/04/HCL%20nr.11%20impozite%20si%20taxe%202021.pdf",
+     "sha256": "da2bc9f2671840b3bd5c56874c5bfa72b9516279cfcfa4cdddaa7303fd8c7baa"
+    }
+   ]
+  }
+ ]
+}

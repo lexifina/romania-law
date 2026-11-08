@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/micestii-de-campie/2024",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-2666-2024",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2024/2666",
+   "short": "HCL Miceștii de Câmpie nr. 2666/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 2666/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025 la nivelul comunei Miceștii de Câmpie",
+   "url": "https://micestiidecampie.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_prh.nr.2666_23.10.2024_stabilire_itl.pdf",
+     "sha256": "f08148e4ed1e1a2bd0e1850bc1387b6bad876215f9ca7f6fce1ed56d286b75d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-34-2024",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2024/34",
+   "short": "HCL Miceștii de Câmpie nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 34/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025 la nivelul comunei Miceștii de Câmpie",
+   "url": "https://micestiidecampie.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.34_09.12.2024.pdf",
+     "sha256": "ee403586f22b1aeb28b1d214d61bf20eb9561e95047f4b7dff29a780f3c348e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-35-2024",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2024/35",
+   "short": "HCL Miceștii de Câmpie nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 35/2024 privind stabilirea taxelor speciale, datorate de persoanele fizice și juridice din comuna Miceștii de Câmpie, în anul 2025",
+   "url": "https://micestiidecampie.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_hcl.nr.35_09.12.2024.pdf",
+     "sha256": "1dd5ce0b52ae6b4db5e1b1c371fadcccc5a9c8859c90b4e5175e02e5f8300f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-401-2024",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2024/401",
+   "short": "HCL Miceștii de Câmpie nr. 401/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 401/2024 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deșeuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul și Operarea Centrului de Man",
+   "url": "https://micestiidecampie.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_prh.nr.401_12.02.2024_aprobare_r.pdf",
+     "sha256": "0276b8991c8c08972f128c5a5dcc1ceb494e342c565eebd9cc07ffb1661d2e33"
+    }
+   ]
+  }
+ ]
+}

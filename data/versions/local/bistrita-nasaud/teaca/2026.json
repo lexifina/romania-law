@@ -61,6 +61,21 @@
      "sha256": "bfd753b22ef634c46707a4a8e3872af356891092841ac0ce86ec8b33d9d86cbb"
     }
    ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-42-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/42",
+   "short": "HCL Teaca nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 42/2026 privind interzicerea organizării și exploatării activităților de jocuri de noroc pe raza Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.42_28.08.2026.pdf",
+     "sha256": "1f6d7812ef1a0c8c646743c7d335e2fd880e570b893a6651a61a48126071a55e"
+    }
+   ]
   }
  ]
 }

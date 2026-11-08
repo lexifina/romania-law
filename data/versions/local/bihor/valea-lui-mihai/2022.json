@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-15-2022",
+   "path": "local/bihor/valea-lui-mihai/2022/15",
+   "short": "HCL Valea lui Mihai nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 15/2022 privind aprobarea Metodologiei de acordare a ajutoarelor de urgenţă familiilor şi persoanelor singure care se află în situaţii de necesitate cauzate de calamităţi naturale, incendii, accidente şi alte situaţii deosebite, inclusiv în caz de deces în ţară sau în stră",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2022/03/hot.-15-din-25.02.2022.pdf",
+     "sha256": "e8939117303992a74384fff876a548c7a75ce9c0e4d1d9d57b99594259b4181e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-73-2022",
+   "path": "local/bihor/valea-lui-mihai/2022/73",
+   "short": "HCL Valea lui Mihai nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 73/2022 privind aprobarea Planului Urbanistic Zonal pentru Demolare corp de clădire existent și construire grădiniță, amplasat în orașul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2022/10/hot.-73-din-30.09.2022.pdf",
+     "sha256": "ec0038861e66d139cbf6774b86bcbe2f2de85477c70b9f285875ff7bed69242a"
+    }
+   ]
+  }
+ ]
+}

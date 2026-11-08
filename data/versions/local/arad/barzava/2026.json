@@ -3,6 +3,36 @@
  "shard": "local/arad/barzava/2026",
  "acts": [
   {
+   "slug": "hcl-arad--barzava-1-2026",
+   "path": "local/arad/barzava/2026/1",
+   "short": "HCL Bârzava nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 1/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 22.12.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/246682",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/246682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-10-2026",
+   "path": "local/arad/barzava/2026/10",
+   "short": "HCL Bârzava nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 10/2026 privind aprobarea valorificării lotului de masa lemnoasă fasonată din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251467",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251467",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-100-2026",
    "path": "local/arad/barzava/2026/100",
    "short": "HCL Bârzava nr. 100/2026",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-11-2026",
+   "path": "local/arad/barzava/2026/11",
+   "short": "HCL Bârzava nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 11/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251468",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251468",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-110-2026",
    "path": "local/arad/barzava/2026/110",
    "short": "HCL Bârzava nr. 110/2026",
@@ -238,6 +283,1236 @@
      "from": "2026-10-22",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/292095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-12-2026",
+   "path": "local/arad/barzava/2026/12",
+   "short": "HCL Bârzava nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 12/2026 privind aprobarea modului de înscriere a datelor în Registrul agricol și stabilirea masurilor pentru eficientizarea acestei activitatii",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251469",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-13-2026",
+   "path": "local/arad/barzava/2026/13",
+   "short": "HCL Bârzava nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 13/2026 privind activitatea asistenţilor personali ai persoanelor cu handicap grav pentru perioada iulie-decembrie 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251470",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-14-2026",
+   "path": "local/arad/barzava/2026/14",
+   "short": "HCL Bârzava nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 14/2026 privind analiza capacității de apărare împotriva incendiilor la nivelul comunei Bârzava pentru semestrul II 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251471",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-15-2026",
+   "path": "local/arad/barzava/2026/15",
+   "short": "HCL Bârzava nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 15/2026 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251472",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-17-2026",
+   "path": "local/arad/barzava/2026/17",
+   "short": "HCL Bârzava nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 17/2026 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 30.01.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/253932",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/253932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-18-2026",
+   "path": "local/arad/barzava/2026/18",
+   "short": "HCL Bârzava nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 18/2026 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 05.02.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/253933",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/253933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-19-2026",
+   "path": "local/arad/barzava/2026/19",
+   "short": "HCL Bârzava nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 19/2026 privind încetarea dreptului de administrare al ”Serviciului public de interes local de administrare a patrimoniului local și transport școlar” asupra unui bun imobil - teren intravilan în suprafață de 4.353 mp. și preluarea acestuia de către comuna Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/253934",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/253934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-2-2026",
+   "path": "local/arad/barzava/2026/2",
+   "short": "HCL Bârzava nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 2/2026 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 12.01.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/246683",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/246683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-20-2026",
+   "path": "local/arad/barzava/2026/20",
+   "short": "HCL Bârzava nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 20/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/253935",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/253935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-21-2026",
+   "path": "local/arad/barzava/2026/21",
+   "short": "HCL Bârzava nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 21/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 05.02.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/257036",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/257036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-22-2026",
+   "path": "local/arad/barzava/2026/22",
+   "short": "HCL Bârzava nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 22/2026 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 27.02.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/257037",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/257037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-23-2026",
+   "path": "local/arad/barzava/2026/23",
+   "short": "HCL Bârzava nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 23/2026 privind diminuarea unei suprafețe de teren care face parte din intravilanul comunei Bârzava, localitatea Lalașinț, înscris în CF 300742 rezultată ca urmare a întocmirii planului de situație privind identificarea imobilului",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/257038",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/257038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-24-2026",
+   "path": "local/arad/barzava/2026/24",
+   "short": "HCL Bârzava nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 24/2026 privind atestarea apartenenței la domeniul privat al comunei Bârzava a unui bun imobil - teren în suprafață de 4.200 mp. înscris în CF 302992, număr topografic 302992 cu categoria de folosința „arabil”, situat în extravilanul localitații Bârzava, precum și actualizarea datelor imobilului",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/257039",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/257039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-27-2026",
+   "path": "local/arad/barzava/2026/27",
+   "short": "HCL Bârzava nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 27/2026 privind aprobarea cuantumului cotizației aferent anului 2026 la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/257042",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/257042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-28-2026",
+   "path": "local/arad/barzava/2026/28",
+   "short": "HCL Bârzava nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 28/2026 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 27.02.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/258399",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/258399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-29-2026",
+   "path": "local/arad/barzava/2026/29",
+   "short": "HCL Bârzava nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 29/2026 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 05.03.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/258400",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/258400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-3-2026",
+   "path": "local/arad/barzava/2026/3",
+   "short": "HCL Bârzava nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 3/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/246684",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/246684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-30-2026",
+   "path": "local/arad/barzava/2026/30",
+   "short": "HCL Bârzava nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 30/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/258401",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/258401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-31-2026",
+   "path": "local/arad/barzava/2026/31",
+   "short": "HCL Bârzava nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 31/2026 privind aprobarea valorificării lotului de masa lemnoasă fasonată din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/258402",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/258402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-32-2026",
+   "path": "local/arad/barzava/2026/32",
+   "short": "HCL Bârzava nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 32/2026 privind completarea anexei 2 si 3 la HCL nr.8 din 30.01.2026, având ca obiect stabilirea volumului de material lemnos necesar pentru consumul populației, consumul propriu precum și stabilirea criteriilor și priorităților privind valorificarea masei lemnoase pentru anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/258403",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/258403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-33-2026",
+   "path": "local/arad/barzava/2026/33",
+   "short": "HCL Bârzava nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 33/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 05.03.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262095",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-34-2026",
+   "path": "local/arad/barzava/2026/34",
+   "short": "HCL Bârzava nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 34/2026 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 30.03.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262096",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-35-2026",
+   "path": "local/arad/barzava/2026/35",
+   "short": "HCL Bârzava nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 35/2026 privind acordarea unor reduceri de la plata impozitului persoanelor cu handicap grav și accentuat, precum și reducerea valorii impozabile a clădirilor în funcție de anul terminării acesteia",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262097",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-36-2026",
+   "path": "local/arad/barzava/2026/36",
+   "short": "HCL Bârzava nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 36/2026 privind aprobarea documentaţiei cadastrale și însușirea limitelor imobilului - drum DE 7766 în suprafață de 5997 mp., în vederea primei înscrieri în cartea funciară",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262098",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-37-2026",
+   "path": "local/arad/barzava/2026/37",
+   "short": "HCL Bârzava nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 37/2026 privind aprobarea documentaţiei cadastrale și însușirea limitelor imobilului - drum DE 8004 în suprafață de 5810 mp., în vederea primei înscrieri în cartea funciară",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262099",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-38-2026",
+   "path": "local/arad/barzava/2026/38",
+   "short": "HCL Bârzava nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 38/2026 privind încheierea Actului adițional nr. 1 la Contractul de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, Zona 5, nr. 233/19.01.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262100",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-39-2026",
+   "path": "local/arad/barzava/2026/39",
+   "short": "HCL Bârzava nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 39/2026 privind aprobarea valorificării lotului de masa lemnoasă fasonată din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului ” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262101",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-4-2026",
+   "path": "local/arad/barzava/2026/4",
+   "short": "HCL Bârzava nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 4/2026 privind aprobarea ”Regulamentului de instituire și administrare a taxei de salubrizare în comuna Bârzava”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/246685",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/246685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-40-2026",
+   "path": "local/arad/barzava/2026/40",
+   "short": "HCL Bârzava nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 40/2026 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262102",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-41-2026",
+   "path": "local/arad/barzava/2026/41",
+   "short": "HCL Bârzava nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 41/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262103",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-42-2026",
+   "path": "local/arad/barzava/2026/42",
+   "short": "HCL Bârzava nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 42/2026 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262104",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-43-2026",
+   "path": "local/arad/barzava/2026/43",
+   "short": "HCL Bârzava nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 43/2026 privind diminuarea unei suprafețe de teren care face parte din intravilanul comunei Bârzava, localitatea Lalașinț, înscrisă în CF 307503 rezultată ca urmare a întocmirii planului de identificare a imobilului",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/262105",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/262105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-44-2026",
+   "path": "local/arad/barzava/2026/44",
+   "short": "HCL Bârzava nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 44/2026 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 30.03.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/264033",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/264033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-45-2026",
+   "path": "local/arad/barzava/2026/45",
+   "short": "HCL Bârzava nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 45/2026 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 08.04.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/264034",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/264034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-48-2026",
+   "path": "local/arad/barzava/2026/48",
+   "short": "HCL Bârzava nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 48/2026 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 08.04.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266605",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-49-2026",
+   "path": "local/arad/barzava/2026/49",
+   "short": "HCL Bârzava nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 49/2026 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 29.04.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266606",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-5-2026",
+   "path": "local/arad/barzava/2026/5",
+   "short": "HCL Bârzava nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 5/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 12.01.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251462",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-50-2026",
+   "path": "local/arad/barzava/2026/50",
+   "short": "HCL Bârzava nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 50/2026 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul I pe anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266607",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-51-2026",
+   "path": "local/arad/barzava/2026/51",
+   "short": "HCL Bârzava nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 51/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266608",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-53-2026",
+   "path": "local/arad/barzava/2026/53",
+   "short": "HCL Bârzava nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 53/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266610",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-54-2026",
+   "path": "local/arad/barzava/2026/54",
+   "short": "HCL Bârzava nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 54/2026 privind stabilirea modului de valorificare a masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului ” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266611",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-55-2026",
+   "path": "local/arad/barzava/2026/55",
+   "short": "HCL Bârzava nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 55/2026 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRĂZI ÎN LOCALITĂȚILE BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/266612",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/266612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-57-2026",
+   "path": "local/arad/barzava/2026/57",
+   "short": "HCL Bârzava nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 57/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 29.04.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268570",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-58-2026",
+   "path": "local/arad/barzava/2026/58",
+   "short": "HCL Bârzava nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 58/2026 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 08.05.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268571",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-59-2026",
+   "path": "local/arad/barzava/2026/59",
+   "short": "HCL Bârzava nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 59/2026 privind aprobarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268572",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-6-2026",
+   "path": "local/arad/barzava/2026/6",
+   "short": "HCL Bârzava nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 6/2026 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 30.01.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251463",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-60-2026",
+   "path": "local/arad/barzava/2026/60",
+   "short": "HCL Bârzava nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 60/2026 privind aprobarea bugetului de venituri și cheltuieli al ”Serviciul public de interes local de administrare a patrimoniului local și transport școlar”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268573",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-61-2026",
+   "path": "local/arad/barzava/2026/61",
+   "short": "HCL Bârzava nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 61/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268574",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-62-2026",
+   "path": "local/arad/barzava/2026/62",
+   "short": "HCL Bârzava nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 62/2026 privind aprobarea utilizării excedentului bugetului local al ”Comunei Bârzava”, din anul 2025 pentru secțiunea de dezvoltare în anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268575",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-63-2026",
+   "path": "local/arad/barzava/2026/63",
+   "short": "HCL Bârzava nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 63/2026 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul IV pe anul 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268576",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-64-2026",
+   "path": "local/arad/barzava/2026/64",
+   "short": "HCL Bârzava nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 64/2026 privind aprobarea programului de investiții și achiziții publice pentru anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268577",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-65-2026",
+   "path": "local/arad/barzava/2026/65",
+   "short": "HCL Bârzava nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 65/2026 privind Accesarea precum și Instrumentarea dosarului tehnic Schemei de Ajutor de Stat: Dr 07 Silvomediu și Climă Sesiunea II/2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268578",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-66-2026",
+   "path": "local/arad/barzava/2026/66",
+   "short": "HCL Bârzava nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 66/2026 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268579",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-67-2026",
+   "path": "local/arad/barzava/2026/67",
+   "short": "HCL Bârzava nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 67/2026 privind ajustarea tarifului pentru serviciul de delegare a gestiunii serviciului de eliminare,prin depozitare a deseurilor reziduale, a deseurilor stradale, a deseurilor de pamant si pietre provenite de pe caile publice, a reziduurilor rezultate de la instalatiile de tartare a deseurilor municipal, precum si a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor la depozitele de deseuri nepericuloase in cadrul proiectului ADISIGD Arad, componenta eliminare, prin depozitare, a deseurilor municipale reziduale, a reziduurilor rezultate de la instalatiile de tratare a deseurilor municipale, precum, a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor si a deseurilor ce nu pot fi valorificate din deseurile voluminoase, deseurile textile si deseurile provenite de la evenimente la depozitul de deseuri nepericuloase din Aria Delegarii, ctr. Nr. 5430/29.12.2023",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268580",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-68-2026",
+   "path": "local/arad/barzava/2026/68",
+   "short": "HCL Bârzava nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 68/2026 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268581",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-69-2026",
+   "path": "local/arad/barzava/2026/69",
+   "short": "HCL Bârzava nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 69/2026 privind aprobarea valorificării lotului de masa lemnoasă fasonată din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului ” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268582",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-7-2026",
+   "path": "local/arad/barzava/2026/7",
+   "short": "HCL Bârzava nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 7/2026 privind aprobarea volumului de masă lemnoasă care se recoltează din fondul forestier proprietatea comunei Bârzava pentru anul 2026, pentru masa lemnoasă pusă în valoare",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251464",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-70-2026",
+   "path": "local/arad/barzava/2026/70",
+   "short": "HCL Bârzava nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 70/2026 privind revocare Hotărâri Consiliului Local Bârzava nr.43 din 30.03.2026, privind diminuarea unei suprafețe de teren care face parte din intravilanul comunei Bârzava, localitatea Lalașinț, înscrisă în CF 307503 rezultată ca urmare a întocmirii planului de identificare a imobilului",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/268583",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/268583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-71-2026",
+   "path": "local/arad/barzava/2026/71",
+   "short": "HCL Bârzava nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 71/2026 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 08.05.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/271634",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/271634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-72-2026",
+   "path": "local/arad/barzava/2026/72",
+   "short": "HCL Bârzava nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 72/2026 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 28.05.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/271635",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/271635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-73-2026",
+   "path": "local/arad/barzava/2026/73",
+   "short": "HCL Bârzava nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 73/2026 privind aprobarea modificării DEVIZULUI GENERAL, actualizat la obiectivul de investiție ”MODERNIZARE STRĂZI ÎN LOCALITĂȚILE BÂRZAVA ȘI LALAȘINȚ, JUDEȚUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/271636",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/271636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-74-2026",
+   "path": "local/arad/barzava/2026/74",
+   "short": "HCL Bârzava nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 74/2026 privind aprobarea principalelor manifestări cultural-artistice și educative care se desfășoară în comuna Bârzava în anul 2026 conform agendei",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/271637",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/271637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-75-2026",
+   "path": "local/arad/barzava/2026/75",
+   "short": "HCL Bârzava nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 75/2026 privind aprobarea PROCEDURII principalelor manifestări cultural-artistice și educative care se desfășoară în comuna Bârzava în anul 2026 conform agendei",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/271638",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/271638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-76-2026",
+   "path": "local/arad/barzava/2026/76",
+   "short": "HCL Bârzava nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 76/2026 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/271639",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/271639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-78-2026",
+   "path": "local/arad/barzava/2026/78",
+   "short": "HCL Bârzava nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 78/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 28.05.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/272662",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/272662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-79-2026",
+   "path": "local/arad/barzava/2026/79",
+   "short": "HCL Bârzava nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 79/2026 privind aprobarea ORDINEI DE ZI a şedinţei extraordinare a Consiliului Local al comunei Bârzava din 07.06.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/272663",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/272663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-8-2026",
+   "path": "local/arad/barzava/2026/8",
+   "short": "HCL Bârzava nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 8/2026 privind stabilirea volumului de material lemnos necesar pentru consumul populației, consumul propriu precum și stabilirea criteriilor și priorităților privind valorificarea masei lemnoase pentru anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251465",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-80-2026",
+   "path": "local/arad/barzava/2026/80",
+   "short": "HCL Bârzava nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 80/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării Actului adițional nr. 2 la Contractul de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/272664",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/272664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-81-2026",
+   "path": "local/arad/barzava/2026/81",
+   "short": "HCL Bârzava nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 81/2026 privind implementarea proiectului ”Realizare infrastructură socio-culturală în comuna Bârzava”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/272665",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/272665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-82-2026",
+   "path": "local/arad/barzava/2026/82",
+   "short": "HCL Bârzava nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 82/2026 privind aprobarea procesului – verbal al ședinței extraordinare a Consiliului Local Bârzava din data de 07.06.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282676",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-83-2026",
+   "path": "local/arad/barzava/2026/83",
+   "short": "HCL Bârzava nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 83/2026 privind aprobarea ORDINEI DE ZI a şedinţei ordinare a Consiliului Local al comunei Bârzava din 31.07.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282677",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-84-2026",
+   "path": "local/arad/barzava/2026/84",
+   "short": "HCL Bârzava nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 84/2026 privind rectificarea bugetului de venituri și cheltuieli a comunei Bârzava pentru anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282678",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-85-2026",
+   "path": "local/arad/barzava/2026/85",
+   "short": "HCL Bârzava nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 85/2026 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Bârzava pentru trimestrul II pe anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282679",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-86-2026",
+   "path": "local/arad/barzava/2026/86",
+   "short": "HCL Bârzava nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 86/2026 privind completarea programului de investiții și achiziții publice pentru anul 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282680",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-87-2026",
+   "path": "local/arad/barzava/2026/87",
+   "short": "HCL Bârzava nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 87/2026 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282681",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-88-2026",
+   "path": "local/arad/barzava/2026/88",
+   "short": "HCL Bârzava nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 88/2026 privind aprobarea Actului Adițional nr. 2 la Actul constitutiv al Regiei Publice Locale Ocolul Silvic ”Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282682",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-9-2026",
+   "path": "local/arad/barzava/2026/9",
+   "short": "HCL Bârzava nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 9/2026 privind aprobarea valorificării masei lemnoase din fondul forestier proprietatea comunei Bârzava de către Regia Publică Locală Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/251466",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/251466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-90-2026",
+   "path": "local/arad/barzava/2026/90",
+   "short": "HCL Bârzava nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 90/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282684",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-91-2026",
+   "path": "local/arad/barzava/2026/91",
+   "short": "HCL Bârzava nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 91/2026 privind acordarea unui mandat special reprezentantului Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282685",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-92-2026",
+   "path": "local/arad/barzava/2026/92",
+   "short": "HCL Bârzava nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 92/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Bârzava în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării METODOLOGIEI privind aplicarea măsurilor de protecție socială la transportul public local pe raza teritorială a Unităților Administrativ-Teritoriale membre ale Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282686",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-93-2026",
+   "path": "local/arad/barzava/2026/93",
+   "short": "HCL Bârzava nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 93/2026 privind aprobarea integrării în Sistemul de Management Integrat al Deșeurilor Solide din Județul Arad a infrastructurii de colectare a deșeurilor (insule ecologice), proprietate publică a Municipiului Arad, și mandatarea reprezentantului în Adunarea Generală a ADISIGD",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/282687",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/282687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-95-2026",
+   "path": "local/arad/barzava/2026/95",
+   "short": "HCL Bârzava nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 95/2026 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Local Bârzava din data de 31.07.2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/285477",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/285477",
      "sha256": null
     }
    ]

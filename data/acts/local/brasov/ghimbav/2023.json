@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-143-2023",
+"path": "local/brasov/ghimbav/2023/143",
+"kind": "local",
+"year": "2023",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 143/2023 pentru utilizatorii serviciului care nu au încheiat contract de prestare a serviciului cu operatorul de salubrizare și instituire tarif pentru separarea incorecta a deșeurilor municipale din oraș Ghimbav Vizualizare",
+"short": "HCL Ghimbav nr. 143/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-170-2023",
 "path": "local/brasov/ghimbav/2023/170",
 "kind": "local",

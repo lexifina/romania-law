@@ -3,6 +3,117 @@
 "shard": "local/alba/pianu/2026",
 "acts": [
 {
+"slug": "hcl-alba--pianu-6-2026",
+"path": "local/alba/pianu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 6/2026 privind Aprobare Acordare mandat special reprezentant desemnat să voteze în AGA Salubris Alba – asociați implicați, din Zona 2 – Lot 2 Tărtăria, modificarea tarifelor distincte de gestionare și al tarifelor de facturare pentru serviciile de salubritate +Anexă 2026 Descarcă",
+"short": "HCL Pianu nr. 6/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--pianu-47-2026",
+"path": "local/alba/pianu/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 47/2026 privind Acordarea unui mandat special pentru vot în AGA Salubris Alba – asociați implicați în Zona 2 Lot 2 Tărtăria, cu privire la cererea de modificare a tarifelor pentru serviciile de salubritate 2026 Descarcă",
+"short": "HCL Pianu nr. 47/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--pianu-52-2026",
+"path": "local/alba/pianu/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 52/2026 privind aprobarea indexării taxelor și impozitelor locale pentru anul 2027 cu indicele de inflatie 2026 Descarcă",
+"short": "HCL Pianu nr. 52/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--pianu-54-2026",
+"path": "local/alba/pianu/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 54/2026 privind aprobarea Regulamentului de acordare esalonare la plată a unor facilități fiscale pentru obligațiile restante datorate bugetului local și revocare HCL 46/2026 + Anexă 2026 Descarcă",
+"short": "HCL Pianu nr. 54/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative",
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--pianu-55-2026",
+"path": "local/alba/pianu/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pianu nr. 55/2026",
+"short": "HCL Pianu nr. 55/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": null,
+"council": "alba/pianu",
+"council_name": "Consiliul Local al Comunei Pianu",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--pianu-82-2026",
 "path": "local/alba/pianu/2026/82",
 "kind": "local",

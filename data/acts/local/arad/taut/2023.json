@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-arad--taut-8-2023",
+"path": "local/arad/taut/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 8/2023 privind actualizarea Regulamentului serviciului public de alimentare cu apa si canalizare",
+"short": "HCL Tauț nr. 8/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-arad--taut-12-2023",
 "path": "local/arad/taut/2023/12",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Tauț",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-24-2023",
+"path": "local/arad/taut/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 24/2023 privind aprobarea indexarii impozitelor si taxelor locale pt.anul 2024 cu rata inflatiei de 13,8%",
+"short": "HCL Tauț nr. 24/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {

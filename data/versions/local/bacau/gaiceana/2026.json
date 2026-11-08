@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gaiceana/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gaiceana-30-2026",
+   "path": "local/bacau/gaiceana/2026/30",
+   "short": "HCL Găiceana nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 30/2026 privind aprobarea inițierii actualizării Planului Urbanistic General al comunei Găiceana, județul Bacău, a indicatorilor si devizului general al Planului Urbanistic General al comunei Găiceana, judetul Bacau si a Regulamentului Local de Urbanism aferent Consiliul Local al comunei Găiceana, județul Bacău, întrunit în ședință ordinară la data de 27.04.2026 Avand în vedere : *referatul primarului com",
+   "url": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=3",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://comunagaiceana.ro/continut/fisiere/2026/04/model-HCL-30-din-27.04.2026-finantare-PUG-2026.pdf",
+     "sha256": "1b6d7c09296692220c4c546005649536cf3831e2e7aa2fbe5ff9114cfd8e3ee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gaiceana-42-2026",
+   "path": "local/bacau/gaiceana/2026/42",
+   "short": "HCL Găiceana nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 42/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 30 din 27.04.2026 privind aprobarea inițierii actualizării Planului Urbanistic General al comunei Găiceana, județul Bacău, a indicatorilor si devizului general al Planului Urbanistic General al comunei Găiceana, judetul Bacau si a Regulamentului Local de Urbanism aferent",
+   "url": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=2",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 6,
+     "source_url": "https://comunagaiceana.ro/continut/fisiere/2026/07/HCL-42-PUG-2026.pdf",
+     "sha256": "6e069a7d7df56e24ff2e9c52a3ea180c08f8a42a3677ba7dc825ad0412e269fc"
+    }
+   ]
+  }
+ ]
+}

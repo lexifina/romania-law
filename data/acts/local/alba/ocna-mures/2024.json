@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2024",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-261-2024",
+"path": "local/alba/ocna-mures/2024/261",
+"kind": "local",
+"year": "2024",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 261/2024",
+"short": "HCL Ocna Mureș nr. 261/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

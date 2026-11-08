@@ -3,6 +3,96 @@
  "shard": "local/bacau/magiresti/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--magiresti-10-2025",
+   "path": "local/bacau/magiresti/2025/10",
+   "short": "HCL Măgirești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 10/2025 privind aprobarea scutirii de la plata unor impozite/taxe locale pentru personalul încadrat voluntar in cadrul SVSU aflat in subordinea Consiliului local al comunei Măgirești Consiliul Local al Comunei Măgirești, județul Bacău întrunit în ședință de lucru în data de 28.01.2025 Având în vedere: • referatul de aprobare al primarului comunei Măgirești, înregistrat sub nr. 305 din 10.01.2025 • raportu",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/02/HCL-10-scutire-voluntari-svsu-2025.pdf",
+     "sha256": "a97bcad485c8426285055d47ad25a6615da17cd2d9c50c134a7a1bb311d61468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-13-2025",
+   "path": "local/bacau/magiresti/2025/13",
+   "short": "HCL Măgirești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 13/2025 nr. 13 din 18.02.2025 privind aprobarea Regulamentului de eliberare a autorizațiilor de funcționare și profil de activitate, a autorizației de amplasare și profil de activitate pentru persoanele fizice și persoanele juridice cu sediul și/sau punct de lucru pe raza comunei Măgirești, județul Bacău",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 4,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/02/HCL-13-actualizare-regulament-eliberare-autorizatie-functionare-Magiresti-2025-februarie.pdf",
+     "sha256": "a94fda763fb5f89508806160e24d89f0078174865648b385b863225621d82f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-19-2025",
+   "path": "local/bacau/magiresti/2025/19",
+   "short": "HCL Măgirești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 19/2025 privind prelungirea valabilității Planului Urbanistic General (P.U.G.) al Comunei Măgirești până la intrarea în vigoare a noului Plan Urbanistic General Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 05.03.2025 Văzând: • Referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 875/14.02.2025, • raportul compartimentului de reso",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/03/HCL-19-prelungire-pug.pdf",
+     "sha256": "dd62e0247110f7b03dc540a23f52ca37ed548bb85c857dba438a0c8a74a39e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-20-2025",
+   "path": "local/bacau/magiresti/2025/20",
+   "short": "HCL Măgirești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 20/2025 pentru “Studii de fundamentare și GIS aferente Planului Urbanistic General (P.U.G.) al Comunei Măgirești, județul Bacău și a Regulamentului Local de Urbanism aferent Consiliul local al Comunei Măgirești, județul Bacău întrunit în ședința ordinară de lucru în data de 05.03.2025 Văzând: • referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 996/19.02.2025, • raportul compartimen",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/03/HCL-20-aprobare-gis-pug-2025.pdf",
+     "sha256": "03a0467b569b8629ef365ecba5e42e7a6992c8374041c5d60c1237b2e1019543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-3-2025",
+   "path": "local/bacau/magiresti/2025/3",
+   "short": "HCL Măgirești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 3/2025 privind actualizarea Regulamentului de organizare și funcționare a Serviciului Public de Asistență socială – Cămin de Îngrijire bătrâni sat Valea Arinilor, comuna Măgirești Consiliul Local al comunei Măgirești, județul Bacău, întrunit în sedinta de lucru în data de 28.01.2025 Având în vedere: • referatul de aprobare la primarului comunei Măgirești înregistrat sub numărul 24 din 03.01.2025, • rapor",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/02/HCL-3-actualizare-regualament-spas-camin-ingrijire-batrani-2025.pdf",
+     "sha256": "bc3921a1d6d29f21d71acfaf12916836f180b5fac7660f7b9395c47752728f66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-43-2025",
+   "path": "local/bacau/magiresti/2025/43",
+   "short": "HCL Măgirești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 43/2025 Privind aprobarea documentației de urbanism Plan Urbanistic Zonal (PUZ) pentru “Construire locuință” Consiliul local al comunei Măgirești, județul Bacău întrunit în ședință ordinară de lucru în data de 25.06.2025 Având în vedere: • referatul de aprobare al primarului comunei Măgirești înregistrat sub nr. 4015/13.06.2025 • raportul compartimentului de specialitate din cadrul aparatului de specialit",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/06/HCL-43-aprobare-puz-dughila-iunie-2025.pdf",
+     "sha256": "06997703f00474fd385bcb4c59ba9e1326c8b529b87a57ed3c5d61040edb07e3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--magiresti-57-2025",
    "path": "local/bacau/magiresti/2025/57",
    "short": "HCL Măgirești nr. 57/2025",
@@ -164,6 +254,21 @@
      "units": 1,
      "source_url": "https://magiresti.ro/wp-content/uploads/2025/11/HCL-67-rectificare-buget-2025.pdf",
      "sha256": "c5de2985242cc0537d296afe8a1961a46189d59f9be79a31773cfe0875f6afe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-9-2025",
+   "path": "local/bacau/magiresti/2025/9",
+   "short": "HCL Măgirești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 9/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/02/HCL-9-scutire-2025-RNP.pdf",
+     "sha256": "62cc0692c80886caa138db0ad84f46ef982721abf31d5dc230b9b54854d66b25"
     }
    ]
   }

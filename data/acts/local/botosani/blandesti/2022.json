@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/blandesti/2022",
+"acts": [
+{
+"slug": "hcl-botosani--blandesti-51-2022",
+"path": "local/botosani/blandesti/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 51/2022 privind înregistrarea Primăriei Comunei Blȃndești în Sistemul Național Electronic de Plată on-line a taxelor și impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile on-line Consiliul Local al comunei Blândești; județul Botoșani, întrunit în ședința ordinară din data de 26.10.2022 Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1",
+"short": "HCL Blândești nr. 51/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=12",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

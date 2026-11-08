@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2025",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-149-2025",
+"path": "local/alba/ocna-mures/2025/149",
+"kind": "local",
+"year": "2025",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 149/2025 privind aprobarea Regulamentului cuprinzdnd mdsurile metodologice, organizatorice, termenele Ei circula(ia proiectelor de hofirAre care se supun adoptdrii Consiliului local al Orasului Ocna MureE Consiliul Local al oraqului Ocna Mureq, judetul Alba, intrunit in qedinfd public[ extraordinard cu convocare de indatd la data de 1l .09.2025 ca urnare a emiterii dispoziJiei de convocare nr.246108.09.202",
+"short": "HCL Ocna Mureș nr. 149/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2025/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-152-2025",
+"path": "local/alba/ocna-mures/2025/152",
+"kind": "local",
+"year": "2025",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 152/2025 privind aprobarea documentaliei urbanistice \"PUZ PLATFORMA UPSOM PARTEA NORD VEST: revitalizare par{iali zona industriall/cercetare qi reconversie par(iali in zone cu destina{ie turism, alimentafie publicl, locuire, agrement qi agriculturi comunitari\"qi RLU aferent, CF.nr.82379, CF. nr.83927, CF. nr.83857 OcnaMureq, in suprafafd totald de 51966 mp - faza iniliald CONSILIUL LOCAL AL ORASULUI OCNA M",
+"short": "HCL Ocna Mureș nr. 152/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2025/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-222-2025",
+"path": "local/alba/ocna-mures/2025/222",
+"kind": "local",
+"year": "2025",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 222/2025 pentru organizarea gi amenajarea teritoriului, protectia mediului din care rczultd\" cd; } terenul care face obiectul reglementdrii a fost vizat, inc6 din fazaachizifiei acestuia, in vederea dezvoltdrii unei investilii de interes public local qi, ulterior, a fost disponibilizatin vederea realizdrii investiliei - parc acvatic conform Hotir6rii nr.15 din 31.01.2024 a Consiliului local al oraqului Ocn",
+"short": "HCL Ocna Mureș nr. 222/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2025/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-224-2025",
+"path": "local/alba/ocna-mures/2025/224",
+"kind": "local",
+"year": "2025",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 224/2025",
+"short": "HCL Ocna Mureș nr. 224/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2025/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

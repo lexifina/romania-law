@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/braila/baraganul/2022",
+ "acts": [
+  {
+   "slug": "hcl-braila--baraganul-25-2022",
+   "path": "local/braila/baraganul/2022/25",
+   "short": "HCL Bărăganul nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 25/2022 privind aprobarea regulamentului privind vÃ¢nzarea la licitaÈie publicÄ a bunurilor imobile terenuri Èi/sau clÄdiri din domeniul privat al comunei BÄrÄganul",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 3,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2025_2022.pdf",
+     "sha256": "c5dc2b9bb9c833bfacfce21cef939af16bb878d6daffc84de8054b55fee47a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-48-2022",
+   "path": "local/braila/baraganul/2022/48",
+   "short": "HCL Bărăganul nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 48/2022 privind aprobarea âNormelor referitoare la Ã®mbunÄtÄÈirea activitÄÈii de gospodÄrire Èi Ã®nfrumuseÈare a comunei BÄrÄganul",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 5,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2048_2022.pdf",
+     "sha256": "b4a689532fd7a6077675ba5fcd2ea64d2c5f47914fb51ad0e3596903cbe4fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-50-2022",
+   "path": "local/braila/baraganul/2022/50",
+   "short": "HCL Bărăganul nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 50/2022 privind actualizarea Regulamentului de organizare Èi funcÈionare al aparatului de specialitate al primarului comunei BÄrÄganul, judeÈul BrÄila",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 5,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2050_2022.pdf",
+     "sha256": "64626314501532ab7e9f491f4e2e6467a10bd84284ab9886acccf036f888576d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-61-2022",
+   "path": "local/braila/baraganul/2022/61",
+   "short": "HCL Bărăganul nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 61/2022 privind constituirea Grupului de Lucru Local pentru problemele romilor Èi aprobarea regulamentului de funcÈionare a acestuia",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2061_2022.pdf",
+     "sha256": "859149f18d66e0004e1d18590b23e3ef6965c2c6c0562a7214ce5c56f66246ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-72-2022",
+   "path": "local/braila/baraganul/2022/72",
+   "short": "HCL Bărăganul nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 72/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1a47eb15221db9707fbbd37627690ddd1ab16d09ac8b8efd0aa20a4f9fab4192"
+    }
+   ]
+  }
+ ]
+}

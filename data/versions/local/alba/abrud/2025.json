@@ -196,6 +196,36 @@
      "sha256": "e7e272dccb7fa2a213ff299b1987df60682f14378a7e46b4f03e3d632dd549b0"
     }
    ]
+  },
+  {
+   "slug": "hcl-alba--abrud-16-2025",
+   "path": "local/alba/abrud/2025/16",
+   "short": "HCL Abrud nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 16/2025 PENTRU ACTUALIZARE ȘI TRANSPUNERE GIS PUG ORAȘ ABRUD",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2025/03/20250227-HCL-ABRUD-NR.-16-DIN-27.02.2025-APROBARE-INDICATORI-ECONOMICI-PENTRU-ACTUALIZARE-SI-TRANSPUNERE-GIS-PUG-ORAS-ABRUD.pdf",
+     "sha256": "761ee20a879707ef7d9e48843fd66310f68ee9b2d09a20c2c4d202e9140cd555"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-54-2025",
+   "path": "local/alba/abrud/2025/54",
+   "short": "HCL Abrud nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 54/2025 privind aprobarea impozitelor și taxelor locale la nivelul Orașului Abrud pentru anul 2025",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2025/07/20250718-HCL-ABRUD-NR.-54-DIN-17.07.2025-completarea-H.C.L-nr.117-din-19.12.2024-privind-aprobarea-impozitelor-si-taxelor-locale-la-nivelul-Orasului-Abrud-pentru-anul-2025.pdf",
+     "sha256": "3d14cd5ebce27a1dad4f559c56e2aa40851df93d45c029294d0faed2b019ebad"
+    }
+   ]
   }
  ]
 }

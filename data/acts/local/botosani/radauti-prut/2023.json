@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/radauti-prut/2023",
+"acts": [
+{
+"slug": "hcl-botosani--radauti-prut-15-2023",
+"path": "local/botosani/radauti-prut/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 15/2023 privind aprobarea procedurii de acordare a inlesnirii la plata sub forma unor scutiri",
+"short": "HCL Rădăuți-Prut nr. 15/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

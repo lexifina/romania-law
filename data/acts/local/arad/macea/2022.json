@@ -3,6 +3,138 @@
 "shard": "local/arad/macea/2022",
 "acts": [
 {
+"slug": "hcl-arad--macea-11-2022",
+"path": "local/arad/macea/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 11/2022 cu privire la aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular din comuna Macea pentru anul școlar 2022 - 2023",
+"short": "HCL Macea nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/macea-ar/registru-hcl/49413",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-19-2022",
+"path": "local/arad/macea/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 19/2022 privind aprobarea bugetului local pe anul 2022",
+"short": "HCL Macea nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-17",
+"latest": "2022-02-17",
+"portal": "https://emol.ro/macea-ar/registru-hcl/51532",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-33-2022",
+"path": "local/arad/macea/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 33/2022 privind aprobarea modificării tarifului pentru serviciul de salubrizare",
+"short": "HCL Macea nr. 33/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-19",
+"latest": "2022-04-19",
+"portal": "https://emol.ro/macea-ar/registru-hcl/55422",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-61-2022",
+"path": "local/arad/macea/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 61/2022 cu privire la aprobarea regulamentul propriu de organizare și funcţionare – prezentat strict pentru Activitățile de colectare și transport - al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad",
+"short": "HCL Macea nr. 61/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-08",
+"latest": "2022-09-08",
+"portal": "https://emol.ro/macea-ar/registru-hcl/62403",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-90-2022",
+"path": "local/arad/macea/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 90/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+"short": "HCL Macea nr. 90/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/macea-ar/registru-hcl/71290",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-95-2022",
+"path": "local/arad/macea/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 95/2022 privind aprobarea nomenclatorului stradal al comunei Macea",
+"short": "HCL Macea nr. 95/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/macea-ar/registru-hcl/73773",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-arad--macea-112-2022",
 "path": "local/arad/macea/2022/112",
 "kind": "local",

@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--taut-24-2023",
+   "path": "local/arad/taut/2023/24",
+   "short": "HCL Tauț nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 24/2023 privind aprobarea indexarii impozitelor si taxelor locale pt.anul 2024 cu rata inflatiei de 13,8%",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.24-din-24.03.2023-privind-aprobarea-indexarii-impozitelor-si-taxelor-locale-pt.anul-2024-cu-rata-inflatiei-de-138.pdf",
+     "sha256": "b5807f73b41cc80c6c0a5c8d40d61ce72da27fb53885b0bc4095f33ca3ec22da"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--taut-3-2023",
    "path": "local/arad/taut/2023/3",
    "short": "HCL Tauț nr. 3/2023",
@@ -164,6 +179,21 @@
      "units": 1,
      "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.63-din-27.09.2023-privind-modificarea-HCL-nr.7923.09.2023-pt.masa-lemnoasa.pdf",
      "sha256": "fe03b46cf90c53ba2c309cc5e7db05f268b3505b6f7aaec3bcc5a3d2efd4e468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-8-2023",
+   "path": "local/arad/taut/2023/8",
+   "short": "HCL Tauț nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 8/2023 privind actualizarea Regulamentului serviciului public de alimentare cu apa si canalizare",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.8-din-31.01.2023-privind-actualizarea-Regulamentului-serviciului-public-de-alimentare-cu-apa-si-canalizare.pdf",
+     "sha256": "6249b04f0537645e82c3a743acf6e182af8e5282b69354e77aaf1b33af0f8193"
     }
    ]
   }

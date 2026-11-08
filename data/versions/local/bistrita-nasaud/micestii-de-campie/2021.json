@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/micestii-de-campie/2021",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-10-2021",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2021/10",
+   "short": "HCL Miceștii de Câmpie nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 10/2021 privind aprobarea ”Regulamentului de măsuri ce vizează îmbunătățirea activității de gospodărire și înfrumusețare a Comunei Miceștii de Câmpie, a obligațiilor și responsabilităților care revin instituțiilor publice, agenților economici, cetățenilor pentru buna gospodărire a comunei Miceștii de Câmpie și respectarea condițiilor de mediu, de siguranță precum și stabilirea sancțiunilor”",
+   "url": "https://micestiidecampie.ro/registru_hcl2021.html",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_de_campie_hcl_nr.10_25.02.2021.pdf",
+     "sha256": "99907e02a771f6dff7c5c441a0dd0d0250248bcff8c921a79cef0b18d4b50064"
+    }
+   ]
+  }
+ ]
+}

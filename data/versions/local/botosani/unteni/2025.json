@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/unteni/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--unteni-17-2025",
+   "path": "local/botosani/unteni/2025/17",
+   "short": "HCL Unțeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 17/2025 privind aprobarea demararii procedurii de inchiriere prin atribuire directa a unor suprafete de pasuni si a Regulamentul pentru închirierea pajiștilor aflate în proprietatea privată a U.A.T",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=4",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/17_2025_1773917319.pdf",
+     "sha256": "e9df9d2056747577e9515537b9ac6d575734c676c34226acc630f3dbee63e909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-54-2025",
+   "path": "local/botosani/unteni/2025/54",
+   "short": "HCL Unțeni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 54/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=3",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/54_2025_1773642090.pdf",
+     "sha256": "84b1ae2769ea1655e4d6a1aebac0c15f57ffe21b83e6a0999f6c28ee049896b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-55-2025",
+   "path": "local/botosani/unteni/2025/55",
+   "short": "HCL Unțeni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 55/2025 nr. 55 din 30.12.2025 privind aprobarea taxei de salubrizare pentru utilizatorii casnici și utilizatorii noncasnici din UAT Unțeni începand cu 01.01.2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=3",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 5,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/55_2025_1773642162.pdf",
+     "sha256": "b90fbe543330ff63f158bbabd8b2237e3f3cf8a18030c98b6feee7428046615a"
+    }
+   ]
+  }
+ ]
+}

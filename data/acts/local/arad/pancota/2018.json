@@ -199,6 +199,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-arad--pancota-82-2018",
+"path": "local/arad/pancota/2018/82",
+"kind": "local",
+"year": "2018",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 82/2018 privind abrobarea imp. si taxe",
+"short": "HCL Pâncota nr. 82/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-11-28",
+"latest": "2018-11-28",
+"portal": "https://primariapancota.ro/page/8/",
+"council": "arad/pancota",
+"council_name": "Consiliul Local al Orașului Pâncota",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

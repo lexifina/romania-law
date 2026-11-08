@@ -3,6 +3,21 @@
  "shard": "local/judet/valcea/2025",
  "acts": [
   {
+   "slug": "hcj-valcea-118-2025",
+   "path": "local/judet/valcea/2025/118",
+   "short": "HCJ Vâlcea nr. 118/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 118/2025 privind avizarea modificării art.236 din Regulamentul serviciului de alimentare cu apă și de canalizare, cu modificările și completările ulterioare, în sensul eliminării prevederilor alineatului (3), mandatarea reprezentantului Județului Vâlcea în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”\"APA Vâlcea” să aprobe modificarea art.236 din Regulamentul serviciului, cu modificările și completările ulterioare, modificarea, prin Act adițional, a anexei la Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.1/2008, cu modificările și completările ulterioare, care cuprinde Regulamentul serviciului, precum și mandatarea Președintelui Asociației să semneze, în numele și pe seama Județului Vâlcea, Actul Adițional respectiv",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 5,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/06-17/hotarari/hot118.pdf",
+     "sha256": "b27f55d0fc139ddb82e5cfee28d5ff35e1284fd7a80ff2e44a35b9a1d988cbcc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-130-2025",
    "path": "local/judet/valcea/2025/130",
    "short": "HCJ Vâlcea nr. 130/2025",
@@ -239,6 +254,21 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/images/sedinte/2025/07-25/hotarari/hot152.pdf",
      "sha256": "99d21fcba94a016f0bfd3d2c100f109d3ffca53e7ee9eb18b4e0714cac62d4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-210-2025",
+   "path": "local/judet/valcea/2025/210",
+   "short": "HCJ Vâlcea nr. 210/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 210/2025 privind stabilirea prețurilor medii ale produselor agricole,",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 6,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/10-28/hotarari/hot210.pdf",
+     "sha256": "dc790cfa506ddf15f7ca5dbc73c73c162738a7eb66ba9ea8c61e20e0a3dc6ecf"
     }
    ]
   },
@@ -569,6 +599,21 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot62.pdf",
      "sha256": "be4f20e01e8361f1eaba11dd6c4b586c5e7ca8f53c6b24ddf4c32bebf1e04e2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-8-2025",
+   "path": "local/judet/valcea/2025/8",
+   "short": "HCJ Vâlcea nr. 8/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 8/2025 privind declararea de interes public județean a unui imobil-teren în vederea înființării unui serviciu public județean cu caracter continuu și permanent de adăpostire a animalelor precum și de gestionare a câinilor fără stăpân",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 7,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/01-30/hotarari/hot8.pdf",
+     "sha256": "69bc9da353c07e6cad1787837a059baaf69d427c4bd84f9a23168568800fc4a2"
     }
    ]
   }

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arad/lipova/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--lipova-147-2022",
+   "path": "local/arad/lipova/2022/147",
+   "short": "HCL Lipova nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 147/2022 privind aprobarea Regulamentului și Caietului de sarcini al serviciului de iluminat public al Orașului Lipova -localitățile Lipova și Radna",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202022/hcl%20nr.147.pdf",
+     "sha256": "17c069d11448b2e1b81fb28449ed0f5945f19155e4e4147f0b3132805131f21a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-159-2022",
+   "path": "local/arad/lipova/2022/159",
+   "short": "HCL Lipova nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 159/2022 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202022/hcl%20nr.159.pdf",
+     "sha256": "36864ef0c8c0e7e7c1616f9237be5b16405adcbcd93d820b4b6c751b46f56c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-189-2022",
+   "path": "local/arad/lipova/2022/189",
+   "short": "HCL Lipova nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 189/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202022/hcl%20nr.189.pdf",
+     "sha256": "6a20bc694c9934fcd33cffd36644f15cbbe2a8f824f37d88fb7a52bf6d9f2df1"
+    }
+   ]
+  }
+ ]
+}

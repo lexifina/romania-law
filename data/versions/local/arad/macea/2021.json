@@ -3,6 +3,81 @@
  "shard": "local/arad/macea/2021",
  "acts": [
   {
+   "slug": "hcl-arad--macea-11-2021",
+   "path": "local/arad/macea/2021/11",
+   "short": "HCL Macea nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 11/2021 privind aprobarea Regulamentului privind eliberarea avizului, programului și a autorizației de funcționare pentru desfășurarea activitățiilor comerciale în comuna Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30330",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-110-2021",
+   "path": "local/arad/macea/2021/110",
+   "short": "HCL Macea nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 110/2021 privind aprobarea strategiei de dezvoltare locală a comunei Macea, județul Arad, pentru perioada 2021-2027",
+   "url": "https://emol.ro/macea-ar/registru-hcl/39879",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/39879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-111-2021",
+   "path": "local/arad/macea/2021/111",
+   "short": "HCL Macea nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 111/2021",
+   "url": "https://emol.ro/macea-ar/registru-hcl/39880",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/39880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-112-2021",
+   "path": "local/arad/macea/2021/112",
+   "short": "HCL Macea nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 112/2021 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2022",
+   "url": "https://emol.ro/macea-ar/registru-hcl/39881",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/39881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-113-2021",
+   "path": "local/arad/macea/2021/113",
+   "short": "HCL Macea nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 113/2021",
+   "url": "https://emol.ro/macea-ar/registru-hcl/39882",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/39882",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-115-2021",
    "path": "local/arad/macea/2021/115",
    "short": "HCL Macea nr. 115/2021",
@@ -73,6 +148,21 @@
      "from": "2021-11-05",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/40429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-12-2021",
+   "path": "local/arad/macea/2021/12",
+   "short": "HCL Macea nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 12/2021 privind aprobarea Regulamentului privind utilizarea temporară a terenurilor din domeniului public sau privat al comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30331",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30331",
      "sha256": null
     }
    ]
@@ -228,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-13-2021",
+   "path": "local/arad/macea/2021/13",
+   "short": "HCL Macea nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 13/2021 privind aprobarea Regulamentului Serviciului de iluminat public în comuna Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30332",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-130-2021",
    "path": "local/arad/macea/2021/130",
    "short": "HCL Macea nr. 130/2021",
@@ -298,6 +403,51 @@
      "from": "2021-12-20",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/44814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-52-2021",
+   "path": "local/arad/macea/2021/52",
+   "short": "HCL Macea nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 52/2021",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30419",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-61-2021",
+   "path": "local/arad/macea/2021/61",
+   "short": "HCL Macea nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 61/2021 privind aprobarea modificării tarifului pentru serviciul de salubrizare",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30458",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-67-2021",
+   "path": "local/arad/macea/2021/67",
+   "short": "HCL Macea nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 67/2021",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30464",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30464",
      "sha256": null
     }
    ]

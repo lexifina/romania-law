@@ -3,6 +3,94 @@
 "shard": "local/arad/varadia-de-mures/2022",
 "acts": [
 {
+"slug": "hcl-arad--varadia-de-mures-57-2022",
+"path": "local/arad/varadia-de-mures/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 57/2022 privind aprobarea procesului-verbal al şedinţei anterioare din data de 26 septembrie 2022",
+"short": "HCL Vărădia de Mureș nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/77930",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-58-2022",
+"path": "local/arad/varadia-de-mures/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 58/2022 privind aprobarea ordinei de zi a şedinţei consiliului local din data de 20 octombrie 2022",
+"short": "HCL Vărădia de Mureș nr. 58/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/77931",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-59-2022",
+"path": "local/arad/varadia-de-mures/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 59/2022 privind implementarea proiectului „ACHIZITIE MIJLOACE FIXE ȘI UTILAJE PENTRU CĂMINUL DE BĂTRÂNI, DIN COMUNA VĂRĂDIA DE MUREȘ, JUDEȚUL ARAD”",
+"short": "HCL Vărădia de Mureș nr. 59/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/77932",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-60-2022",
+"path": "local/arad/varadia-de-mures/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 60/2022 privind neasumarea responsabilității de către UAT Comuna Vărădia de Mureș a organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României",
+"short": "HCL Vărădia de Mureș nr. 60/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/77933",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-arad--varadia-de-mures-61-2022",
 "path": "local/arad/varadia-de-mures/2022/61",
 "kind": "local",

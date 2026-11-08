@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/manastirea-casin/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--manastirea-casin-100-2025",
+   "path": "local/bacau/manastirea-casin/2025/100",
+   "short": "HCL Mănăstirea Cașin nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 100/2025 privind aprobarea Regulamentului pentru acordarea unor premii persoanelor care au împlinit sau împlinesc vârsta de 100 de ani sau peste 100 ani",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/01/HCL-100.pdf",
+     "sha256": "54672471d417392c4401647534993bb559e2aebe0a1ced02d24ac80b069ee919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-115-2025",
+   "path": "local/bacau/manastirea-casin/2025/115",
+   "short": "HCL Mănăstirea Cașin nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 115/2025 privind aprobarea impozitelor şi taxelor locale aferente anului 2026",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/01/HCL-115.pdf",
+     "sha256": "0a2ffdee97ec007423089a14889d3929f1555058d721f9c9f474b6daf3f93cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-116-2025",
+   "path": "local/bacau/manastirea-casin/2025/116",
+   "short": "HCL Mănăstirea Cașin nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 116/2025 privind stabilirea taxei de salubrizare pentru anul 2026 în comuna Mănăstirea Caşin, judeţul Bacău",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/01/HCL-116.pdf",
+     "sha256": "e8673abe102f8c76e62309df1509394ee33170e2cb37d958354a1ff3cd8a431e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-122-2025",
+   "path": "local/bacau/manastirea-casin/2025/122",
+   "short": "HCL Mănăstirea Cașin nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 122/2025 privind aprobarea taxei de închiriere pentru utilajele din dotarea primăriei",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/01/HCL-122.pdf",
+     "sha256": "d0e40265ff692eca4edb45b969160d041a08e39b18648f73f0df7138eecd31af"
+    }
+   ]
+  }
+ ]
+}

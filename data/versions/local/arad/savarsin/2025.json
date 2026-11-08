@@ -3,6 +3,36 @@
  "shard": "local/arad/savarsin/2025",
  "acts": [
   {
+   "slug": "hcl-arad--savarsin-36-2025",
+   "path": "local/arad/savarsin/2025/36",
+   "short": "HCL Săvârșin nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 36/2025 privind indexarea impozitelor, taxelor locale si a taxelor speciale, incepind cu 01ianuarie 2026 Ja nivelul comunei Savarsin, judetul Arad Analizand temeiurile juridice, respectiv: ~ prevederile art. 491 si art, 484 din Legea nr. 27/2015 privind Codul fiscal, cu modificarile si completarile ulterioare; - prevederile articolul 9, paragraful 3 din Carta europeand a autonomiei locale, adoptata la Str",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 4,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-36-DIN-26.05.2205.pdf",
+     "sha256": "2e1a8a205ab8d049213018b2b67c21808b6b5e46d0cc7f6e23db4724ad301894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-58-2025",
+   "path": "local/arad/savarsin/2025/58",
+   "short": "HCL Săvârșin nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 58/2025 privind aprobarea tarifelor Actului ional nr. 4 la Contractul de gestiune directa a serviciului de salubrizare privind sortarea deseurilodre hartie, carton, metal, plastic si sticl colectate separat din deseurile municipale in stafii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deseuri si/sau la instalafiile de valorificare energetica, in cadrul proiectului",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-58-DIN-31.07.2025.pdf",
+     "sha256": "dbf3218c45eb8a2f55e8149f963b3b7876076c794013383e111cf9d193dbdff0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--savarsin-89-2025",
    "path": "local/arad/savarsin/2025/89",
    "short": "HCL Săvârșin nr. 89/2025",

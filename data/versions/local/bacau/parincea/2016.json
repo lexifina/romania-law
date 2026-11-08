@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/parincea/2016",
+ "acts": [
+  {
+   "slug": "hcl-bacau--parincea-2-2016",
+   "path": "local/bacau/parincea/2016/2",
+   "short": "HCL Parincea nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Parincea nr. 2/2016 privind aprobarea impozitelor si taxelor locale pe anul 2016",
+   "url": "https://www.parincea.ro/document-categorii/hotarari-ale-consiliului-local/page/9/",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://www.parincea.ro/wp-content/uploads/2018/07/16-02-26-11-31-33HCL_Impozite_si_taxe_2016.pdf",
+     "sha256": "3aa30a3a4e20c93b147c5d5bb1f8b02514c3d98d7386684f8942d7dac81251e3"
+    }
+   ]
+  }
+ ]
+}

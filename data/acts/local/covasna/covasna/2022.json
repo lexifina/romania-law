@@ -1,0 +1,142 @@
+{
+"country": "RO",
+"shard": "local/covasna/covasna/2022",
+"acts": [
+{
+"slug": "hcl-covasna--covasna-138-2022",
+"path": "local/covasna/covasna/2022/138",
+"kind": "local",
+"year": "2022",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 138/2022",
+"short": "HCL Covasna nr. 138/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-06",
+"latest": "2022-10-06",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-145-2022",
+"path": "local/covasna/covasna/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 145/2022",
+"short": "HCL Covasna nr. 145/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-146-2022",
+"path": "local/covasna/covasna/2022/146",
+"kind": "local",
+"year": "2022",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 146/2022",
+"short": "HCL Covasna nr. 146/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-147-2022",
+"path": "local/covasna/covasna/2022/147",
+"kind": "local",
+"year": "2022",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 147/2022 cu privire la aprobare P.U.Z. – ZONĂ DE LOCUINȚE, STRADA FLORILOR, ORAȘUL COVASNA Beneficiar: Kozák Emőke",
+"short": "HCL Covasna nr. 147/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-covasna--covasna-173-2022",
+"path": "local/covasna/covasna/2022/173",
+"kind": "local",
+"year": "2022",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 173/2022 cu privire la aprobarea unor tarife pentru închirierea unor echipamente sportive la Pârtia de schi \"Lőrincz Zsigmond\" pentru sezonul de iarnă 2022-2023",
+"short": "HCL Covasna nr. 173/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-185-2022",
+"path": "local/covasna/covasna/2022/185",
+"kind": "local",
+"year": "2022",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 185/2022",
+"short": "HCL Covasna nr. 185/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

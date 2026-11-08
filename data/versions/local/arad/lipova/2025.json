@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/arad/lipova/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--lipova-115-2025",
+   "path": "local/arad/lipova/2025/115",
+   "short": "HCL Lipova nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 115/2025 privind respingerea ajustării tarifelor aferente Contractului nr.5430/29.12.2023 de delegare a gestiunii serviciului de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale a deșeurilor de pământ și pietre provenite de pe căile publice, a re",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.115.pdf",
+     "sha256": "03dfda7dc46d578cb7612ee015517fba97576d0be00976125961601e0dbdd706"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-137-2025",
+   "path": "local/arad/lipova/2025/137",
+   "short": "HCL Lipova nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 137/2025 privind aprobarea Regulamentului pentru atestarea/ autorizarea personalor fizice/juridice care doresc să obțină calitatea de ”administrator de condominii”",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.137%20(1).pdf",
+     "sha256": "c13a73b88fc29e5dd8feaf6a97a642bbe53e7650ce7ab1a06526d8c1fd599995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-139-2025",
+   "path": "local/arad/lipova/2025/139",
+   "short": "HCL Lipova nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 139/2025 privind respingerea tarifelor aferente Contractului nr.1540/04,04,2025, de delegare a gestiunii serviciului(operarea stației de compostare în Tunel Arad)unor activități componente ale serviciului de tratare aerobă a biodeșeurilor colectate separat în instalați",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.139%20(1).pdf",
+     "sha256": "c83ed5f8fc5b50131a3b3d1a937cf9f46dabd59818e09c11c2005248fe521de5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-151-2025",
+   "path": "local/arad/lipova/2025/151",
+   "short": "HCL Lipova nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 151/2025 privind stabilirea impozitelor și taxelor locale",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.151.pdf",
+     "sha256": "35788182b7c83f0bc4b038fdb8c1047c86afa224952c152d3da5dfa1bdec00b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-6-2025",
+   "path": "local/arad/lipova/2025/6",
+   "short": "HCL Lipova nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 6/2025 pentru îndreptarea erorii materiale din anexa nr.1 a Hoărârii nr.153/23.12.2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.6.pdf",
+     "sha256": "979aad1f3a0911e5a759eec9a9227f2feb347b3bc5a9ac4145f78344b628c424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-65-2025",
+   "path": "local/arad/lipova/2025/65",
+   "short": "HCL Lipova nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 65/2025 privind aprobarea măsurilor necesare înființării Serviciului pentru gestionarea câinilor fără stăpân din Orașul Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.65.pdf",
+     "sha256": "d61b9e3a53e76aac09c3462b0962455b2163b9f4d216afb229835bcb92ac4247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-78-2025",
+   "path": "local/arad/lipova/2025/78",
+   "short": "HCL Lipova nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 78/2025 privind aprobarea Regulamentului propriu de organizare și funcționare prezentat strict pentru activitățile de colectare și transport al serviciului public de salubrizare al ”Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor jud",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2025/mof/hotarari/hcl%20nr.78.pdf",
+     "sha256": "c5a60f5d066d05d839ece1e6d4b1de1b1b7e2f343c8d53b5e8873523de410bfb"
+    }
+   ]
+  }
+ ]
+}

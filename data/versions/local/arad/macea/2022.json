@@ -3,6 +3,21 @@
  "shard": "local/arad/macea/2022",
  "acts": [
   {
+   "slug": "hcl-arad--macea-11-2022",
+   "path": "local/arad/macea/2022/11",
+   "short": "HCL Macea nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 11/2022 cu privire la aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular din comuna Macea pentru anul școlar 2022 - 2023",
+   "url": "https://emol.ro/macea-ar/registru-hcl/49413",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/49413",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-112-2022",
    "path": "local/arad/macea/2022/112",
    "short": "HCL Macea nr. 112/2022",
@@ -298,6 +313,81 @@
      "from": "2023-03-02",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/84206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-19-2022",
+   "path": "local/arad/macea/2022/19",
+   "short": "HCL Macea nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 19/2022 privind aprobarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/macea-ar/registru-hcl/51532",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/51532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-33-2022",
+   "path": "local/arad/macea/2022/33",
+   "short": "HCL Macea nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 33/2022 privind aprobarea modificării tarifului pentru serviciul de salubrizare",
+   "url": "https://emol.ro/macea-ar/registru-hcl/55422",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/55422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-61-2022",
+   "path": "local/arad/macea/2022/61",
+   "short": "HCL Macea nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 61/2022 cu privire la aprobarea regulamentul propriu de organizare și funcţionare – prezentat strict pentru Activitățile de colectare și transport - al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad",
+   "url": "https://emol.ro/macea-ar/registru-hcl/62403",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/62403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-90-2022",
+   "path": "local/arad/macea/2022/90",
+   "short": "HCL Macea nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 90/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+   "url": "https://emol.ro/macea-ar/registru-hcl/71290",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/71290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-95-2022",
+   "path": "local/arad/macea/2022/95",
+   "short": "HCL Macea nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 95/2022 privind aprobarea nomenclatorului stradal al comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/73773",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/73773",
      "sha256": null
     }
    ]

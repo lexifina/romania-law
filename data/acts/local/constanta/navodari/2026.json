@@ -3,6 +3,338 @@
 "shard": "local/constanta/navodari/2026",
 "acts": [
 {
+"slug": "hcl-constanta--navodari-23-2026",
+"path": "local/constanta/navodari/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 23/2026 privind constituirea Comisie Locale de Ordine PublicÄ a OraÈului NÄvodari",
+"short": "HCL Năvodari nr. 23/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-39-2026",
+"path": "local/constanta/navodari/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 39/2026 privind aprobarea Planului Urbanistic Zonal Ã®n vederea corelÄrii Èi armonizÄrii indicilor urbanistici aferenÈi zonei studiate prin stabilirea indicatorilor urbanistici, nr. cadastral 122362",
+"short": "HCL Năvodari nr. 39/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-40-2026",
+"path": "local/constanta/navodari/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 40/2026 privind aprobarea âElaborare Plan Urbanistic Zonal Ã®n vederea corelÄrii Èi armonizÄrii indicatorilor urbanistici cu zona limitrofaâ, nr. cadastral 124643",
+"short": "HCL Năvodari nr. 40/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-44-2026",
+"path": "local/constanta/navodari/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 44/2026 privind modificarea Èi completarea HCL 316/30.12.2025 privind stabilirea nivelului impozitelor si taxelor locale pentru anul 2026 in Orasul Navodari",
+"short": "HCL Năvodari nr. 44/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-66-2026",
+"path": "local/constanta/navodari/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 66/2026 privind aprobarea regulamentului de utilizare a tramei stradale de cÄtre utilaje Èi vehicule concepute Èi construite pentru transportul mÄrfurilor Èi materialelor de construcÈii, cu masÄ totalÄ maximÄ autorizatÄ mai mare de 3,5 tone",
+"short": "HCL Năvodari nr. 66/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-83-2026",
+"path": "local/constanta/navodari/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 83/2026 privind aprobarea regulamentului privind comercializarea produselor Èi serviciilor de piaÈÄ pe teritoriul administrativ al OraÈului NÄvodari",
+"short": "HCL Năvodari nr. 83/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-98-2026",
+"path": "local/constanta/navodari/2026/98",
+"kind": "local",
+"year": "2026",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 98/2026 privind aprobarea Regulamentului de acordare a cÃ¢te unui premiu financiar persoanelor cu vÃ¢rsta peste 80, 90, respectiv 100 de ani Èi cuplurilor care au Ã®mplinit peste 50 de ani de cÄsÄtorie neÃ®ntreruptÄ",
+"short": "HCL Năvodari nr. 98/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-108-2026",
+"path": "local/constanta/navodari/2026/108",
+"kind": "local",
+"year": "2026",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 108/2026 privind aprobarea ELABORARE PLAN URBANISTIC ZONAL ÃN VEDEREA INTRODUCERII TERENULUI ÃN INTRAVILAN PENTRU SERVICII DEPOZITARE, MICA INDUSTRIE",
+"short": "HCL Năvodari nr. 108/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-109-2026",
+"path": "local/constanta/navodari/2026/109",
+"kind": "local",
+"year": "2026",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 109/2026 privind aprobarea ELABORARE PLAN URBANISTIC ZONAL ÃN VEDEREA INTRODUCERII TERENULUI ÃN INTRAVILANÂ Èi LOTIZÄRII TERENULUI ÃN SCOPUL â CONSTRUIRE LOCUINÈE CU REGIM DE ÃNÄLÈIME MAXIM S/D+P+2E",
+"short": "HCL Năvodari nr. 109/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-110-2026",
+"path": "local/constanta/navodari/2026/110",
+"kind": "local",
+"year": "2026",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 110/2026 privind modificarea HCLnr.50/26.03.2026 cu privire la aprobarea RegulamentuluiÂ privind stabilirea unor mÄsuri pentru ordinea Èi liniÈtea publicÄ, asigurarea unei bune gospodÄriri, pÄstrarea curÄÈeniei, respectarea normelor de igienÄ, Ã®nfrumuseÈarea oraÈ",
+"short": "HCL Năvodari nr. 110/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-112-2026",
+"path": "local/constanta/navodari/2026/112",
+"kind": "local",
+"year": "2026",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 112/2026 cu privire la aprobarea Regulamentului de Organizare Èi FuncÈionare al aparatului de specialitate al Primarului OraÈului NÄvodari",
+"short": "HCL Năvodari nr. 112/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-143-2026",
+"path": "local/constanta/navodari/2026/143",
+"kind": "local",
+"year": "2026",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2026",
+"short": "HCL Năvodari nr. 143/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": null,
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--navodari-144-2026",
+"path": "local/constanta/navodari/2026/144",
+"kind": "local",
+"year": "2026",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 144/2026",
+"short": "HCL Năvodari nr. 144/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": null,
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--navodari-145-2026",
+"path": "local/constanta/navodari/2026/145",
+"kind": "local",
+"year": "2026",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 145/2026 privind clarificare mod de calcul indice urbanistic Procent de ocupare teren din Regulament local de urbanism aferent PUZ aprobat prin HCL nr. 302/01.08.2016 Èi HCL nr. 275/24.11.2014",
+"short": "HCL Năvodari nr. 145/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-146-2026",
+"path": "local/constanta/navodari/2026/146",
+"kind": "local",
+"year": "2026",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 146/2026 privind aprobarea Regulamentelor de Organizare Èi FuncÈionare a serviciilor sociale administrate de Furnizorul Public de Servicii Sociale, UAT OraÈul NÄvodari prin PrimÄrie âDirecÈia GeneralÄ AsistenÈÄ SocialÄ",
+"short": "HCL Năvodari nr. 146/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-constanta--navodari-172-2026",
 "path": "local/constanta/navodari/2026/172",
 "kind": "local",
@@ -22,6 +354,28 @@
 "council_name": "Consiliul Local al Orașului Năvodari",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-173-2026",
+"path": "local/constanta/navodari/2026/173",
+"kind": "local",
+"year": "2026",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 173/2026 privind aprobarea Planului Urbanistic Zonal Ã®n vederea reglementÄrii urbanistice a unei zone turistice costiere pe plaja MÄrii Negre, Ã®n vederea amenajÄrii unor construcÈii provizorii, demontabile, destinate alimentaÈiei publice Èi agrementului",
+"short": "HCL Năvodari nr. 173/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {
@@ -88,6 +442,28 @@
 "council_name": "Consiliul Local al Orașului Năvodari",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-225-2026",
+"path": "local/constanta/navodari/2026/225",
+"kind": "local",
+"year": "2026",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 225/2026 privind aprobarea schemei de ajutor de minimis pentru acordarea reducerilor de la plata impozitului pe clÄdiri Èi a impozitului pe teren pentru Ã®ntreprinderile care activeazÄ pe raza administrativ-teritorialÄ a oraÈului NÄvodari, constÃ¢nd Ã®n reducerea cu 60% a impo",
+"short": "HCL Năvodari nr. 225/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2026/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {

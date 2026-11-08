@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/pianu/2024",
+ "acts": [
+  {
+   "slug": "hcl-alba--pianu-21-2024",
+   "path": "local/alba/pianu/2024/21",
+   "short": "HCL Pianu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 21/2024 privind Aprobarea indexării taxelor și impozitelor locale pentru anul 2025 cu indicele de inflație; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__21_din_15_04_2024___privind_aprobarea_indexarii_taxelor_si_impozitelor_locale_pentru_anul_2025_cu_indicele_de_inflatie__2024_4231313.pdf",
+     "sha256": "3520a005019ed2ad90e0c2ab7d2f22f0314c92d999b81774e9aa5ff09c51c600"
+    }
+   ]
+  }
+ ]
+}

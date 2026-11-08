@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-138-2019",
+   "path": "local/judet/buzau/2019/138",
+   "short": "HCJ Buzău nr. 138/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 138/2019 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-138.pdf",
+     "sha256": "76c31169354bcc16e47c40f1450dd99f2bca864b926841de9e61aa36efc57cfb"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-14-2019",
    "path": "local/judet/buzau/2019/14",
    "short": "HCJ Buzău nr. 14/2019",
@@ -104,6 +119,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/02/Hot%C4%83r%C3%A2rea-nr.15.pdf",
      "sha256": "7a1b3e02f8af805cf1101ed5c1148e14e44f1e82f6a5df10c0f7d43050019669"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-159-2019",
+   "path": "local/judet/buzau/2019/159",
+   "short": "HCJ Buzău nr. 159/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 159/2019 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-159.pdf",
+     "sha256": "d3d79ab30eba975deef9f6448ad095653752cad0ff151d8c57afec1a874456d1"
     }
    ]
   },

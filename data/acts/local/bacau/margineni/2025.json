@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/bacau/margineni/2025",
+"acts": [
+{
+"slug": "hcl-bacau--margineni-58-2025",
+"path": "local/bacau/margineni/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 58/2025",
+"short": "HCL Mărgineni nr. 58/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": null,
+"council": "bacau/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

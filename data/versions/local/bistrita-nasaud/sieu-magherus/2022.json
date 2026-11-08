@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/sieu-magherus/2022",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-1-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/1",
+   "short": "HCL Șieu-Măgheruș nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 1/2022 PH ALEGERE PRESEDINTE DE SEDINTA",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15146",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24dBoqPkMsV5DARx8pL59rVuNS9hglDGQNIxBfJknYNJ2Do4eNswL3S/26154",
+     "sha256": "d0e0d1b5e3df86ac93f0c7726a223d05f91c2823e9a00d9d32ee05b21f0a191d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--sieu-magherus-12-2022",
    "path": "local/bistrita-nasaud/sieu-magherus/2022/12",
    "short": "HCL Șieu-Măgheruș nr. 12/2022",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#10807",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-13-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/13",
+   "short": "HCL Șieu-Măgheruș nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 13/2022 PH aprobare buget 2022",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15144",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%248YNeb5TeK2lP2JmnugXLje.bEOtgRuxWYkUVuc8LkFQ8KtQLpwbY2/26154",
+     "sha256": "a938c2e73ff44dc4aab66a3bc19b3b004f5e8a4e774b6ce625354f92c9e1fbbd"
     }
    ]
   },
@@ -74,6 +104,81 @@
      "units": 1,
      "source_url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15955",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-3-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/3",
+   "short": "HCL Șieu-Măgheruș nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 3/2022 PH privind aprobarea Planului de acțiune privind categoriile de lucrări de interes local pe care familiile beneficiare de prevederile Legii nr.416/2001 prin persoanele apte de muncă au obligația de a presta lunar la solicitarea primarului",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15212",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24DOFqRJsDh5j9QM8j2p.54eFo.MoXuPxk/DX2zVkw3WQqPZZR5sVM./26154",
+     "sha256": "01e836e5916715adac61aff9c01356ee086426218b2ff2b062f67313b0d9e98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-5-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/5",
+   "short": "HCL Șieu-Măgheruș nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 5/2022 PH aprobare executie buget trim IV 2021",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15553",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24w.W4rQaHrLh6Jm5FSS6wf.EDDT69azfqzJwLdRtLWysgPpOmZBiLe/26154",
+     "sha256": "4303224ed6f3409e56305aabd021776fbf549ac2058dc03fbc6d0c24e085d70d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-6-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/6",
+   "short": "HCL Șieu-Măgheruș nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 6/2022 PH actualizare Plan analiza si acoperire riscuri",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15554",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%242MTM7W8pBHfHT7QYTkj5Fu6o61BxR.ZUkU.TORtN2BTuIJZniz5ta/26154",
+     "sha256": "f9bc449f29f78132803236c90baf35038758471f3388dfc72215b5aced9f52f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-7-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/7",
+   "short": "HCL Șieu-Măgheruș nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 7/2022 PH aprobare Raport evaluare incendii trim II 2021",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15555",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24A3arfPeuKKYeceMMHdEnhecq9J3dcdMMUW7rK3A8QVeAI9f4t/b0y/26154",
+     "sha256": "587bf8282f14d6851bf5007d26ec4aaaa4df6e8bbc2e0a67d7dd1b45cac532f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-8-2022",
+   "path": "local/bistrita-nasaud/sieu-magherus/2022/8",
+   "short": "HCL Șieu-Măgheruș nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 8/2022 PH aprobare Organigrama si Stat de functii",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15556",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24E4s6ZZuL1tBXvTUscuRblu9YtERA85n1Ew5j8RGF9WYZEyhCS/pfi/26154",
+     "sha256": "de9cf68b24027eb43c485914c17ebe9095715f9ffe7d2673cf0f07e955504cb2"
     }
    ]
   }

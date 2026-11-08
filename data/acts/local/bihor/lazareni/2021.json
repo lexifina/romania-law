@@ -375,6 +375,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-bihor--lazareni-65-2021",
+"path": "local/bihor/lazareni/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 65/2021 privind majorarea în anul 2022 cu până la 500% a impozitului pe terenurile neîngrijite de pe raza U.A.T",
+"short": "HCL Lăzăreni nr. 65/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+"council": "bihor/lazareni",
+"council_name": "Consiliul Local al Comunei Lăzăreni",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

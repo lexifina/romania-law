@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2024",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-261-2024",
+   "path": "local/alba/ocna-mures/2024/261",
+   "short": "HCL Ocna Mureș nr. 261/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 261/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-261-impozite-si-taxe-locale-20251.pdf",
+     "sha256": "ac516e9c61a3d0ec19c2b0ffb3ec8e6ff04eb19f43d341b2831be2fed9f18536"
+    }
+   ]
+  }
+ ]
+}

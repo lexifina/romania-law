@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-10-2024",
+"path": "local/brasov/ghimbav/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 10/2024 pentru Copii Abandonați” de la plata impozitului pe clădire și teren, aferent anului 2024 Vizualizare",
+"short": "HCL Ghimbav nr. 10/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2024-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-16-2024",
 "path": "local/brasov/ghimbav/2024/16",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Orașului Ghimbav",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-18-2024",
+"path": "local/brasov/ghimbav/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 18/2024 privind stabilirea taxelor și impozitelor locale pentru anul fiscal 2024 Vizualizare",
+"short": "HCL Ghimbav nr. 18/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2024-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {
@@ -69,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-49-2024",
+"path": "local/brasov/ghimbav/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 49/2024 privind masurile metodologice, organizatorice, termenele și circulației Proiectelor de hotărâri care se înaintează Consiliului Local al Orașului Ghimbav spre aprobare Vizualizare",
+"short": "HCL Ghimbav nr. 49/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2024-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-64-2024",
 "path": "local/brasov/ghimbav/2024/64",
 "kind": "local",
@@ -91,6 +157,52 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-102-2024",
+"path": "local/brasov/ghimbav/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 102/2024",
+"short": "HCL Ghimbav nr. 102/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": null,
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-103-2024",
+"path": "local/brasov/ghimbav/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 103/2024",
+"short": "HCL Ghimbav nr. 103/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": null,
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-123-2024",
 "path": "local/brasov/ghimbav/2024/123",
 "kind": "local",
@@ -110,6 +222,51 @@
 "council_name": "Consiliul Local al Orașului Ghimbav",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-152-2024",
+"path": "local/brasov/ghimbav/2024/152",
+"kind": "local",
+"year": "2024",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 152/2024 pentru aprobare Plan Urbanistic Zonal (P.U.Z.) „Locuințe individuale, locuințe cuplate, locuințe înșiruite, locuințe colective, dotări, servicii, funcțiuni complementare, drumuri de acces”, oraș Ghimbav, județul Brașov Vizualizare",
+"short": "HCL Ghimbav nr. 152/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2024-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-157-2024",
+"path": "local/brasov/ghimbav/2024/157",
+"kind": "local",
+"year": "2024",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 157/2024",
+"short": "HCL Ghimbav nr. 157/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": null,
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
 }
 },
 {

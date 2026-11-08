@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2010",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-109-2010",
+   "path": "local/arad/santana/2010/109",
+   "short": "HCL Sântana nr. 109/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 109/2010 PENTRU APROBAREA CAIETULUI DE SARCINI ÎN VEDEREA DELEGĂRII SERVICIULUI DE ILUMINAT PUBLIC AL ORAȘULUI CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : - Inițiativa Primarului orașului Sântana; - Legea nr. 52/2003 a transparenței decizionale - referatul compartimentului contabilitate din care rezultă necesitatea aprobării caietului de sarcini; - expunerea de motive a inițiatorului; - preveder",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=345",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0109_2010_08_17.pdf",
+     "sha256": "bb234aa89b9f8de50588457068d758d675d1bedd5d99660304d1d5ea22bee81d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-31-2010",
+   "path": "local/arad/santana/2010/31",
+   "short": "HCL Sântana nr. 31/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 31/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0031_2010_03_02.pdf",
+     "sha256": "edcffc853ac4144a0449b02779ef924555dfa2473a595ef51d70cb7a13bc8896"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-36-2010",
+   "path": "local/arad/santana/2010/36",
+   "short": "HCL Sântana nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 36/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0036_2010_03_17.pdf",
+     "sha256": "3ca198e4bd32c0217d886f323548c9b1a05b501a039f367d46ea189f5c8f6531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-57-2010",
+   "path": "local/arad/santana/2010/57",
+   "short": "HCL Sântana nr. 57/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 57/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0057_2010_04_20.pdf",
+     "sha256": "4164b82f52511d36df11734b960565e9ec497ca290e350e6cd80be272d97832a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-59-2010",
+   "path": "local/arad/santana/2010/59",
+   "short": "HCL Sântana nr. 59/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 59/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0059_2010_04_20.pdf",
+     "sha256": "a105ecd51d22eff1cea4e145de186020b2f453d4c7544762f19b81387422a745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-8-2010",
+   "path": "local/arad/santana/2010/8",
+   "short": "HCL Sântana nr. 8/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 8/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0008_2010_01_19.pdf",
+     "sha256": "b919b6edfbb23f19109b9e7ad591176433fcef658a7a67bdbc9c5737e6f71e51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-93-2010",
+   "path": "local/arad/santana/2010/93",
+   "short": "HCL Sântana nr. 93/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 93/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0093_2010_07_20.pdf",
+     "sha256": "bd42dc375e8c9c8cda46ed709dad48a86bdde4f4ced161864ccebb498e1ac719"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-97-2010",
+   "path": "local/arad/santana/2010/97",
+   "short": "HCL Sântana nr. 97/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 97/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0097_2010_07_20.pdf",
+     "sha256": "552ede2efa28b22d4f65c98889e0f8b5fc16ef2f944996ec83f6f6e14e19088e"
+    }
+   ]
+  }
+ ]
+}

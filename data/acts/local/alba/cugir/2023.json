@@ -1,0 +1,97 @@
+{
+"country": "RO",
+"shard": "local/alba/cugir/2023",
+"acts": [
+{
+"slug": "hcl-alba--cugir-238-2023",
+"path": "local/alba/cugir/2023/238",
+"kind": "local",
+"year": "2023",
+"number": "238",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 238/2023",
+"short": "HCL Cugir nr. 238/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-240-2023",
+"path": "local/alba/cugir/2023/240",
+"kind": "local",
+"year": "2023",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 240/2023",
+"short": "HCL Cugir nr. 240/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-281-2023",
+"path": "local/alba/cugir/2023/281",
+"kind": "local",
+"year": "2023",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 281/2023 privind aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale, alte taxe, taxe speciale și amenzile aplicabile pentru anul fiscal 2024 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind stabilirea nivelurilor taxelor și impozitelor locale, pentru anul 2024",
+"short": "HCL Cugir nr. 281/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--cugir-287-2023",
+"path": "local/alba/cugir/2023/287",
+"kind": "local",
+"year": "2023",
+"number": "287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 287/2023",
+"short": "HCL Cugir nr. 287/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

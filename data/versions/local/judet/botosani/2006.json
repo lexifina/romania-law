@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-2-2006",
+   "path": "local/judet/botosani/2006/2",
+   "short": "HCJ Botoșani nr. 2/2006",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2006 privind stabilirea tarifelor pentru desfășurarea activității Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Botoșani, în anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 3,
+     "source_url": "https://www.cjbotosani.ro/files/h082_2006.08.30.pdf",
+     "sha256": "660060c18033a3a9dd3a98fcf68baced19a97e402bc1b00656dd9965c880373e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-20-2006",
    "path": "local/judet/botosani/2006/20",
    "short": "HCJ Botoșani nr. 20/2006",

@@ -3,6 +3,21 @@
  "shard": "local/alba/spring/2026",
  "acts": [
   {
+   "slug": "hcl-alba--spring-10-2026",
+   "path": "local/alba/spring/2026/10",
+   "short": "HCL Șpring nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 10/2026 privind modificarea și completarea HCL nr. 110/17.09.2025 privind aprobarea Regulamentului de gospodărire şi menţinere a curăţeniei în comuna Șpring",
+   "url": "https://comunaspring.ro/hotarari-consiliul-local-2026",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/02/HCL-NR.-10-aprobare-regulament-gospodarire-.pdf",
+     "sha256": "8d992bafca760e78723aadd16f582100716e9f8f548de83740a5630cf5f7957f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--spring-110-2026",
    "path": "local/alba/spring/2026/110",
    "short": "HCL Șpring nr. 110/2026",
@@ -269,6 +284,21 @@
      "units": 1,
      "source_url": "https://comunaspring.ro/wp-content/uploads/2026/10/HOTARAREA-NR.-135-din-30.09.2026-privind-aprobarea-indicatorilor-tehnico-%E2%80%93-economici-si-a-devizului.pdf",
      "sha256": "25ef1c3083430e14beb13444fa8defc40b16402f043c4e7ed645ecee3519f035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-17-2026",
+   "path": "local/alba/spring/2026/17",
+   "short": "HCL Șpring nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 17/2026 privind modificarea HCL nr. 79 din 09.06.2022 privind constituirea Consiliului Comunitar Consultativ al comunei Șpring și aprobarea Regulamentul",
+   "url": "https://comunaspring.ro/hotarari-consiliul-local-2026",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/04/HOTARAREA-NR.-17-din-17.02.2026-privind-modificarea-HCL-nr.-79-din-09.06.2022-privind-constituirea-Consiliului-Comunitar-Consultativ-al-comunei-Spring-si-aprobarea-Regulamentul.pdf",
+     "sha256": "b0ff2c67a6fef1716d6d8e67cb25c314322a3a6d5dbc1790398719a63d28090d"
     }
    ]
   }

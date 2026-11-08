@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-120-2023",
+   "path": "local/arad/nadlac/2023/120",
+   "short": "HCL Nădlac nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2023 privind aprobarea tarifului pentru activitatea de tratare aerobă a biodeşeurilor colectate separat în instalaţii de compostare, inclusiv transportul reziduurilor la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică, la Stația de compostare în tu",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h120.pdf",
+     "sha256": "c1ba384690dab76626a2035c63f533741d4d9c735be118d8dce07f484cb33879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-121-2023",
+   "path": "local/arad/nadlac/2023/121",
+   "short": "HCL Nădlac nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 121/2023 privind aprobarea tarifului pentru activitatea de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h121.pdf",
+     "sha256": "5ea3e9a2050d36c29fdebe3b230ded41ec1070f61962a6865da567c38f37ac62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2023",
+   "path": "local/arad/nadlac/2023/122",
+   "short": "HCL Nădlac nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2023 privind aprobarea tarifului pentru activitatea de sortare a deşeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deşeuri şi/sau",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h122.pdf",
+     "sha256": "400340b86395768484617ba388d911bedf2925ab5a55122f705805f1cfaafe12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2023",
+   "path": "local/arad/nadlac/2023/135",
+   "short": "HCL Nădlac nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2023 privind aprobarea prelungirii Planului Urbanistic General al orașului Nădlac și a Regulamentului Local de Urbanism",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h135.pdf",
+     "sha256": "c703919bd8646d48aa2cf73dd750c6efed213e6c62a8cfac6f2a59d185dfb388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-148-2023",
+   "path": "local/arad/nadlac/2023/148",
+   "short": "HCL Nădlac nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 148/2023 privind aprobarea taxei speciale de salubrizare datorată de utilizatorii casnici/non-casnici",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h148.pdf",
+     "sha256": "ba4e6b9385537af1f2017f996f71fcdcd6c324600ebea65cbed8b29480e07411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-174-2023",
+   "path": "local/arad/nadlac/2023/174",
+   "short": "HCL Nădlac nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 174/2023 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum şi a amenzilor aplicabile pentru anul fiscal 2023",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h174.pdf",
+     "sha256": "fffc0c32a870b4f2f8ef70e31ad6df76941fd424f0f7c38ba1a8d0a07e1fbaad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-175-2023",
+   "path": "local/arad/nadlac/2023/175",
+   "short": "HCL Nădlac nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 175/2023 privind aprobarea taxelor speciale aplicabile în anul fiscal 2023",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 9,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h175.pdf",
+     "sha256": "64da3e187124d7efc143174c744ef0018000242f0564e4399306b0f5914e6a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-181-2023",
+   "path": "local/arad/nadlac/2023/181",
+   "short": "HCL Nădlac nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 181/2023 privind aprobarea scutirii de la plata impozitului pe clădiri și impozitului pe teren proprietatea Bisericii Evanghelice-Lutherane din România- Parohia Slovacă Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2023/h181.pdf",
+     "sha256": "60ae30e746f605212b46ccf6c3f64ca14bc8b07c83c3a0290451ab71e2483e48"
+    }
+   ]
+  }
+ ]
+}

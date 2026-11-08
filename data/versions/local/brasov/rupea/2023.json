@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2023",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-115-2023",
+   "path": "local/brasov/rupea/2023/115",
+   "short": "HCL Rupea nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 115/2023 pentru modificarea HCL nr. 72/2023 privind aprobarea impozitelor si taxelor locale pe anul 2024",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2023/",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/115-Hotarare-nr.-115-privind-aprobare-impozite-si-taxe-locale-2024-modificare-HCL-72.pdf",
+     "sha256": "db7d9bf7e84c322a137760a7358e48bf5e37868c7382e087b5070611ca6d9735"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-117-2023",
+   "path": "local/brasov/rupea/2023/117",
+   "short": "HCL Rupea nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 117/2023 privind aprobarea unei scutiri de la plata impozitului",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2023/",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 3,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/117-hotarare-nr.-117-scutire-taxa-impozit-sala-plugarilor.pdf",
+     "sha256": "df3bb51b8c6d8db81bdeb0234d7588b351e5da3dbbc1f7a67c71a9c920fa2eee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-16-2023",
+   "path": "local/brasov/rupea/2023/16",
+   "short": "HCL Rupea nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 16/2023",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2023/",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 6,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/16-tarife-salubrizare.pdf",
+     "sha256": "05330ad1b163ff7636c5164bd307c1665ffd46362472b70da37eda8e32067ede"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-71-2023",
+   "path": "local/brasov/rupea/2023/71",
+   "short": "HCL Rupea nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 71/2023 privind aprobarea regulametului si stabilirea taxelor locale de piata",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 5,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/71_hotarare-nr.-71-TAXE-PIATA-2023.pdf",
+     "sha256": "40860a2180f7a149b342538caac0901c7af230048f7ce21fa593a01632b6e745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-80-2023",
+   "path": "local/brasov/rupea/2023/80",
+   "short": "HCL Rupea nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 80/2023 privind aprobare Regulament privind prestarea de activități în folosul comunității dispusă de instanță ca sancțiune contravențională",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/80_hotarare-nr.-80-privind-aprobare-regulament-munca-in-folosul-comunitatii.pdf",
+     "sha256": "e11fdcd2930d5e98423ce08e34b9674a874e1422ea502c137a26c568eb66c427"
+    }
+   ]
+  }
+ ]
+}

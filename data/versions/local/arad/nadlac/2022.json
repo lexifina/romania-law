@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-110-2022",
+   "path": "local/arad/nadlac/2022/110",
+   "short": "HCL Nădlac nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h110.pdf",
+     "sha256": "ddae8059aefa0e694f724cd6a768c22e1b800d87350c30afb2b689947f39ca33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-163-2022",
+   "path": "local/arad/nadlac/2022/163",
+   "short": "HCL Nădlac nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 163/2022 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum şi a amenzilor aplicabile pentru anul fiscal 2023",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h163.pdf",
+     "sha256": "cabd21b99fec084d7ccc469094141fa082b96716b5a71c3f5f7e13a0ae86aa3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-164-2022",
+   "path": "local/arad/nadlac/2022/164",
+   "short": "HCL Nădlac nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 164/2022 privind aprobarea taxelor speciale aplicabile în anul fiscal 2023",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 9,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h164.pdf",
+     "sha256": "4f6903fb9ee2c204e3ed93b7cf2850ce18ff31d8fc12c31d72d50c6a67e87942"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2022",
+   "path": "local/arad/nadlac/2022/34",
+   "short": "HCL Nădlac nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2022 privind aprobarea modificării tarifelor de colectare deșeuri, aplicabile tuturor UAT-urilor componente Zonei I",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h34.pdf",
+     "sha256": "c2cbce004a4c3c0930873eca7a877f0cf8e378fcc46f7470c39d4c364d333fb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2022",
+   "path": "local/arad/nadlac/2022/41",
+   "short": "HCL Nădlac nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2022 privind aprobarea și introducerea tarifelor pentru Serviciul Public de Salubrizare al Orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 5,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h41.pdf",
+     "sha256": "7ff29cf5f48e10dcd9a2fdc7beb6a05d998875697640bf9ce72e54b99d2b4d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2022",
+   "path": "local/arad/nadlac/2022/51",
+   "short": "HCL Nădlac nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h51.pdf",
+     "sha256": "094a6285ea31fb7edf3c7d528089393e1e6b4f7900f59b64b88c09b9fa3dd54c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2022",
+   "path": "local/arad/nadlac/2022/78",
+   "short": "HCL Nădlac nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2022 privind aprobarea pierderilor tehnologice luate în calcul la aprobarea tarifelor pentru serviciul de transport și distribuție a energiei termice prestart de APOTERM NĂDLAC SA",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h78.pdf",
+     "sha256": "9c3943f2fb004074eda771b0b1aa27b968f99a598e6c6df4898a8f6f3a213336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2022",
+   "path": "local/arad/nadlac/2022/80",
+   "short": "HCL Nădlac nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2022/h80.pdf",
+     "sha256": "b058466259e4ba46d0e4f079a8fa2f5431399d881669eac451f38eb231768add"
+    }
+   ]
+  }
+ ]
+}

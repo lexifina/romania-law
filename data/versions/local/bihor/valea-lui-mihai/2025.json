@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-101-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/101",
+   "short": "HCL Valea lui Mihai nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 101/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/10/HCL-nr-101-din-30-sept-2025.pdf",
+     "sha256": "f62e490c94c96046286fc34dda34b1a2440b6372b70dfb73553ca35e6bd91b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-11-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/11",
+   "short": "HCL Valea lui Mihai nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 11/2025 privind instituirea taxei de salubrizare pentru utilizatorii care beneficiază individual de prestarea serviciului de salubrizare fără contract ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/02/H011-din-2025.pdf",
+     "sha256": "c6a3472da3d7202eaa547589abf03fe8a14a0b465f4b0fe1c2997438b384dbcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-124-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/124",
+   "short": "HCL Valea lui Mihai nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 124/2025 privind aprobarea caietului de sarcini în vederea achiziționării, prin licitație publică, a serviciilor medicale veterinare de microcipare și sterilizare a câinilor cu stăpân, aparținând rasei comune sau metișilor acestora, aflați pe teritoriul UAT Orașului Vale",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/12/hcl-nr-124-din-2025.pdf",
+     "sha256": "fe81ee99dc61038cc0b48462d2d85d9bbb732ca768885b1a0fa3d835446e23e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-20-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/20",
+   "short": "HCL Valea lui Mihai nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 20/2025 Nr.20 din 12 martie 2025 privind aprobarea indicatorilor pentru finanțarea elaborării și actualizării Planului Urbanistic General și Regulamentului Local de Urbanism al Orașului Valea lui Mihai, județul Bihor",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 3,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/03/H-nr-20-din-2025.pdf",
+     "sha256": "f81e9f5e226eed79317623f976e380360bc782c81d011947550d00d9d52cd562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-41-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/41",
+   "short": "HCL Valea lui Mihai nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 41/2025 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2026 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/05/H-nr-41-din-2025.pdf",
+     "sha256": "de10df2e20446aea0717ba23c65e211b0962280ef7989d4002b0fe42b97b844b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-81-2025",
+   "path": "local/bihor/valea-lui-mihai/2025/81",
+   "short": "HCL Valea lui Mihai nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 81/2025 privind aprobarea Planului de Mobilitate Urbană Durabilă al Orașului Valea lui Mihai actualizat, inclusiv transpunerea în format GIS ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/08/H-nr-81-din-2025.pdf",
+     "sha256": "94d3fa0c22681e3ca53085f6a87f2492f544ece8b6174988cd4449b9dcb6b32c"
+    }
+   ]
+  }
+ ]
+}

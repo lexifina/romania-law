@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2022",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-15-2022",
+"path": "local/bihor/valea-lui-mihai/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 15/2022 privind aprobarea Metodologiei de acordare a ajutoarelor de urgenţă familiilor şi persoanelor singure care se află în situaţii de necesitate cauzate de calamităţi naturale, incendii, accidente şi alte situaţii deosebite, inclusiv în caz de deces în ţară sau în stră",
+"short": "HCL Valea lui Mihai nr. 15/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-73-2022",
+"path": "local/bihor/valea-lui-mihai/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 73/2022 privind aprobarea Planului Urbanistic Zonal pentru Demolare corp de clădire existent și construire grădiniță, amplasat în orașul Valea lui Mihai, str",
+"short": "HCL Valea lui Mihai nr. 73/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

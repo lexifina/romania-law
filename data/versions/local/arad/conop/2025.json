@@ -3,6 +3,36 @@
  "shard": "local/arad/conop/2025",
  "acts": [
   {
+   "slug": "hcl-arad--conop-10-2025",
+   "path": "local/arad/conop/2025/10",
+   "short": "HCL Conop nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 10/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189373",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-100-2025",
+   "path": "local/arad/conop/2025/100",
+   "short": "HCL Conop nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 100/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/235310",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/235310",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-104-2025",
    "path": "local/arad/conop/2025/104",
    "short": "HCL Conop nr. 104/2025",
@@ -88,6 +118,21 @@
      "from": "2025-12-05",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/237360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-11-2025",
+   "path": "local/arad/conop/2025/11",
+   "short": "HCL Conop nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 11/2025 privind aprobarea modelului contractului de mandat pentru exercitarea funcţiei de membru al Consiliului de Administratie al Regiei Publice Locale Ocolul Silvic Valea Mureșului R.A",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189374",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189374",
      "sha256": null
     }
    ]
@@ -243,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-12-2025",
+   "path": "local/arad/conop/2025/12",
+   "short": "HCL Conop nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 12/2025 privind aprobarea structurii funcţionale a unităţii administrativ teritoriale comuna Conop , județul Arad , pentru anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189375",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189375",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-120-2025",
    "path": "local/arad/conop/2025/120",
    "short": "HCL Conop nr. 120/2025",
@@ -298,6 +358,1011 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/242996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-13-2025",
+   "path": "local/arad/conop/2025/13",
+   "short": "HCL Conop nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 13/2025 privind stabilirea locurilor destinate pentru desfăşurarea adunărilor publice si constituirea Comisiei locale de avizare a cererilor de organizare a adunarilor publice in comuna Conop, judetul Arad",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189376",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-15-2025",
+   "path": "local/arad/conop/2025/15",
+   "short": "HCL Conop nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 15/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/194164",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/194164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-16-2025",
+   "path": "local/arad/conop/2025/16",
+   "short": "HCL Conop nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 16/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 30.01.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/194165",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/194165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-19-2025",
+   "path": "local/arad/conop/2025/19",
+   "short": "HCL Conop nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 19/2025 privind aprobarea Calendarului manifestărilor cultural-artistice care se vor desfășura în comuna Conop în anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/194168",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/194168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-2-2025",
+   "path": "local/arad/conop/2025/2",
+   "short": "HCL Conop nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 2/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189365",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-23-2025",
+   "path": "local/arad/conop/2025/23",
+   "short": "HCL Conop nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 23/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/194172",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/194172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-25-2025",
+   "path": "local/arad/conop/2025/25",
+   "short": "HCL Conop nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 25/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199483",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-26-2025",
+   "path": "local/arad/conop/2025/26",
+   "short": "HCL Conop nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 26/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 27.02.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199484",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-27-2025",
+   "path": "local/arad/conop/2025/27",
+   "short": "HCL Conop nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 27/2025 privind aprobarea bugetului local de venituri şi cheltuieli, a Listei de investiţii şi a Planului de achiziţii a comunei Conop pe anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199485",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-28-2025",
+   "path": "local/arad/conop/2025/28",
+   "short": "HCL Conop nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 28/2025 privind actualizarea „Planului de Analiză şi Acoperire a Riscurilor” al comunei CONOP",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199486",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-29-2025",
+   "path": "local/arad/conop/2025/29",
+   "short": "HCL Conop nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 29/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199487",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-3-2025",
+   "path": "local/arad/conop/2025/3",
+   "short": "HCL Conop nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 3/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 16.12.2024",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189366",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-30-2025",
+   "path": "local/arad/conop/2025/30",
+   "short": "HCL Conop nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 30/2025 Privind aprobarea modificării Planului cadastral, sector 18, Tarla 56, Parcela A1962/2",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199488",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-31-2025",
+   "path": "local/arad/conop/2025/31",
+   "short": "HCL Conop nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 31/2025 privind participarea Comunei Conop, județul Arad, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/conop-ar/registru-hcl/199489",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/199489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-33-2025",
+   "path": "local/arad/conop/2025/33",
+   "short": "HCL Conop nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 33/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/204525",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/204525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-34-2025",
+   "path": "local/arad/conop/2025/34",
+   "short": "HCL Conop nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 34/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 25.03.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/204526",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/204526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-35-2025",
+   "path": "local/arad/conop/2025/35",
+   "short": "HCL Conop nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 35/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/204527",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/204527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-38-2025",
+   "path": "local/arad/conop/2025/38",
+   "short": "HCL Conop nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 38/2025 privind validarea și însușirea Dispoziţiei nr.73/31.03.2025 a Primarului Comunei Conop privind rectificarea bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/204530",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/204530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-39-2025",
+   "path": "local/arad/conop/2025/39",
+   "short": "HCL Conop nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 39/2025 privind aprobarea contului de execuție al bugetului general de venituri și cheltuieli al comunei Conop, pe trimestrul I, anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/204531",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/204531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-4-2025",
+   "path": "local/arad/conop/2025/4",
+   "short": "HCL Conop nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 4/2025 privind aprobarea contului de execuție al bugetului general de venituri și cheltuieli al comunei Conop, pe anul 2024",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189367",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-41-2025",
+   "path": "local/arad/conop/2025/41",
+   "short": "HCL Conop nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 41/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210487",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-42-2025",
+   "path": "local/arad/conop/2025/42",
+   "short": "HCL Conop nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 42/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 28.04.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210488",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-43-2025",
+   "path": "local/arad/conop/2025/43",
+   "short": "HCL Conop nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 43/2025 privind aprobarea structurii funcţionale a unităţii administrativ teritoriale comuna Conop , județul Arad",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210489",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-44-2025",
+   "path": "local/arad/conop/2025/44",
+   "short": "HCL Conop nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 44/2025 privind însușirea documentației tehnice de dezlipire a imobilului înscris în CF.Nr. 301050 Conop, Nr. cadastral 301050,",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210490",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-45-2025",
+   "path": "local/arad/conop/2025/45",
+   "short": "HCL Conop nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 45/2025 privind însușirea documentației tehnice de dezlipire a imobilului înscris în CF.Nr. 301485 Conop, Nr. cadastral 301485",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210491",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-46-2025",
+   "path": "local/arad/conop/2025/46",
+   "short": "HCL Conop nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 46/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210492",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-47-2025",
+   "path": "local/arad/conop/2025/47",
+   "short": "HCL Conop nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 47/2025 privind aprobarea Strategiei de dezvoltare a serviciului de salubrizare a Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad,",
+   "url": "https://emol.ro/conop-ar/registru-hcl/210493",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/210493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-49-2025",
+   "path": "local/arad/conop/2025/49",
+   "short": "HCL Conop nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 49/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/211147",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/211147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-5-2025",
+   "path": "local/arad/conop/2025/5",
+   "short": "HCL Conop nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 5/2025 privind aprobarea modalității de completare a Registrului Agricol pentru perioada 2025-2029",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189368",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-52-2025",
+   "path": "local/arad/conop/2025/52",
+   "short": "HCL Conop nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 52/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214424",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-53-2025",
+   "path": "local/arad/conop/2025/53",
+   "short": "HCL Conop nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 53/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 29.05.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214425",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-54-2025",
+   "path": "local/arad/conop/2025/54",
+   "short": "HCL Conop nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 54/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214426",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-55-2025",
+   "path": "local/arad/conop/2025/55",
+   "short": "HCL Conop nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 55/2025 privind însușirea documentației tehnice de dezlipire a imobilului înscris în CF.Nr. 301051 Conop, Nr. cadastral 301051,",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214427",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-56-2025",
+   "path": "local/arad/conop/2025/56",
+   "short": "HCL Conop nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 56/2025 privind acordarea unor ajutoare financiare unor unități de cult de pe raza UAT Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214428",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-57-2025",
+   "path": "local/arad/conop/2025/57",
+   "short": "HCL Conop nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 57/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214429",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-59-2025",
+   "path": "local/arad/conop/2025/59",
+   "short": "HCL Conop nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 59/2025 privind aprobarea Regulamentul propriu de organizare și funcţionare prezentat strict pentru activitățile de colectare și transport al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad",
+   "url": "https://emol.ro/conop-ar/registru-hcl/214431",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/214431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-6-2025",
+   "path": "local/arad/conop/2025/6",
+   "short": "HCL Conop nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 6/2025 privind aprobarea Planului de acţiuni şi de lucrari de interes local, pentru repartizarea orelor de muncă a beneficiarilor venitului minim de incluziune în baza Legii 196/2016, privind venitul minim de incluziune",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189369",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-62-2025",
+   "path": "local/arad/conop/2025/62",
+   "short": "HCL Conop nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 62/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219952",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-63-2025",
+   "path": "local/arad/conop/2025/63",
+   "short": "HCL Conop nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 63/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 30.06.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219953",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-64-2025",
+   "path": "local/arad/conop/2025/64",
+   "short": "HCL Conop nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 64/2025 privind aprobarea contului de execuție al bugetului general de venituri și cheltuieli al comunei Conop, pe trimestrul II , respecriv Semestrul I anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219954",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-65-2025",
+   "path": "local/arad/conop/2025/65",
+   "short": "HCL Conop nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 65/2025 privind rectificarea bugetului general de venituri și cheltuieli al comunei Conop pe anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219955",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-66-2025",
+   "path": "local/arad/conop/2025/66",
+   "short": "HCL Conop nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 66/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219956",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-67-2025",
+   "path": "local/arad/conop/2025/67",
+   "short": "HCL Conop nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 67/2025 privind aprobarea tarifelor la fracțiile de deșeuri Rezidual, Hârtie – carton, Plastic – metal, Sticlă în cadrul ADISIGD Județul Arad",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219957",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-68-2025",
+   "path": "local/arad/conop/2025/68",
+   "short": "HCL Conop nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 68/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul II al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219958",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-69-2025",
+   "path": "local/arad/conop/2025/69",
+   "short": "HCL Conop nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 69/2025 privind aprobarea modificării prin Actul adițional nr. 1 a Acordului de parteneriat nr.36571/09.12.2022 încheiat pentru realizarea proiectului “Cu bicicleta prin vest – traseu cicloturistic”, din Investiția I.4 – “Implementarea a 3000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta C11 – Turism și Cultură,",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219959",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-7-2025",
+   "path": "local/arad/conop/2025/7",
+   "short": "HCL Conop nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 7/2025 privind aprobarea cuantumului cotizaţiei Consiliului Local Conop pe anul 2025 în cadrul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad şi mandatarea unei persoane care să voteze în numele şi pe seama Consiliului Local Conop în şedinţa AGA cuantumul cotizaţiei şi Bugetul de venituri şi cheltuieli al asociaţiei pentru anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189370",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-70-2025",
+   "path": "local/arad/conop/2025/70",
+   "short": "HCL Conop nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 70/2025 privind acordarea unor ajutoare financiare unor unități de cult de pe raza UAT Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/219960",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/219960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-72-2025",
+   "path": "local/arad/conop/2025/72",
+   "short": "HCL Conop nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 72/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222356",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-73-2025",
+   "path": "local/arad/conop/2025/73",
+   "short": "HCL Conop nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 73/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 31.07.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222357",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-74-2025",
+   "path": "local/arad/conop/2025/74",
+   "short": "HCL Conop nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 74/2025 privind acordarea unor ajutoare financiare unor unități de cult de pe raza UAT Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222358",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-75-2025",
+   "path": "local/arad/conop/2025/75",
+   "short": "HCL Conop nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 75/2025 privind însușirea documentației tehnice de dezlipire a imobilului înscris în CF. nr.303918 Conop, Nr. cadastral 303918,",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222359",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-76-2025",
+   "path": "local/arad/conop/2025/76",
+   "short": "HCL Conop nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 76/2025 privind însuşirea raportului de activitate a compartimentului de prevenire din cadrul SVSU Conop, pe Semestrul I 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222360",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-77-2025",
+   "path": "local/arad/conop/2025/77",
+   "short": "HCL Conop nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 77/2025 privind rectificarea bugetului general de venituri și cheltuieli al comunei Conop pe anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222361",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-78-2025",
+   "path": "local/arad/conop/2025/78",
+   "short": "HCL Conop nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 78/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/222362",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/222362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-8-2025",
+   "path": "local/arad/conop/2025/8",
+   "short": "HCL Conop nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 8/2025 privind aprobarea bugetului de Venituri și Cheltuieli pe anul 2025 a Regiei Publice Locale „Ocolul Silvic Valea Mureșului”R.A",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189371",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-80-2025",
+   "path": "local/arad/conop/2025/80",
+   "short": "HCL Conop nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 80/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227466",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-81-2025",
+   "path": "local/arad/conop/2025/81",
+   "short": "HCL Conop nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 81/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 28.08.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227467",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-82-2025",
+   "path": "local/arad/conop/2025/82",
+   "short": "HCL Conop nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 82/2025 privind acordarea unor ajutoare financiare unor unități de cult de pe raza UAT Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227468",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-85-2025",
+   "path": "local/arad/conop/2025/85",
+   "short": "HCL Conop nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 85/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227471",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-86-2025",
+   "path": "local/arad/conop/2025/86",
+   "short": "HCL Conop nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 86/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227472",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-87-2025",
+   "path": "local/arad/conop/2025/87",
+   "short": "HCL Conop nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 87/2025 privind rectificarea bugetului general de venituri și cheltuieli al comunei Conop pe anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227473",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-88-2025",
+   "path": "local/arad/conop/2025/88",
+   "short": "HCL Conop nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 88/2025 privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zona 5, avizarea Strategiei de contractare, a Studiului de fundamentare/oportunitate și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+   "url": "https://emol.ro/conop-ar/registru-hcl/227474",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/227474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-9-2025",
+   "path": "local/arad/conop/2025/9",
+   "short": "HCL Conop nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 9/2025 privind însuşirea raportului de activitate a compartimentului de prevenire din cadrul SVSU Conop, pe Semestrul II 2024",
+   "url": "https://emol.ro/conop-ar/registru-hcl/189372",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/189372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-91-2025",
+   "path": "local/arad/conop/2025/91",
+   "short": "HCL Conop nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 91/2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/232357",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/232357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-92-2025",
+   "path": "local/arad/conop/2025/92",
+   "short": "HCL Conop nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 92/2025 privind aprobarea conținutului procesului verbal al ședinței ordinare din data de 30.09.2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/232358",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/232358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-93-2025",
+   "path": "local/arad/conop/2025/93",
+   "short": "HCL Conop nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 93/2025 privind rectificarea bugetului general de venituri și cheltuieli al comunei Conop pe anul 2025",
+   "url": "https://emol.ro/conop-ar/registru-hcl/232359",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/232359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-97-2025",
+   "path": "local/arad/conop/2025/97",
+   "short": "HCL Conop nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 97/2025 privind stabilirea prețului și modalitatea de valorificare a materialului lemnos ce se recoltează din suprafața de fond forestier proprietate publică și privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/232363",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/232363",
      "sha256": null
     }
    ]

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/arges/titesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-arges--titesti-32-2025",
+   "path": "local/arges/titesti/2025/32",
+   "short": "HCL Țițești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 32/2025 privind aprobarea Studiului de oportunitate , stabilirea Formei de gestiune, aprobarea Regulamentului de funcționare al Serviciului Public de alimentare cu apă al comunei Țițești, județul Argeș, Indicatorilor de peformanță, a Caietul de sarcini și a modelului Contractului de furnizare/prestare servicii de alimentare cu apă, a serviciului public de alimentare cu apă, precum și modalitatea de presta",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-apa-2.pdf",
+     "sha256": "3be6ce9aad7cc5d0521de29243b3f0510121a4fa9b3f0917049520cdf161bd67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-35-2025",
+   "path": "local/arges/titesti/2025/35",
+   "short": "HCL Țițești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 35/2025 privind aprobarea programului de subventionare a sterilizarii cainilor fara stapan , ce apartin rasei comune si a metisilor acestora , aflati pe raza comunei Titesti, judet Arges. | 30.05.2025",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-caini.pdf",
+     "sha256": "a22a70669cefe08457efcc7483de13e152a98145269d88ceded8215154d976a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-4-2025",
+   "path": "local/arges/titesti/2025/4",
+   "short": "HCL Țițești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 4/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "07a6223c3965d69782000c036b850f3934f192eb55b6d421f27286f847aca240"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-76-2025",
+   "path": "local/arges/titesti/2025/76",
+   "short": "HCL Țițești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 76/2025 privind acordarea unui mandat special în vederea aprobării ajustării tarifului de tratare mecano-biologică a deșeurilor perceput de operatorul Soc",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+     "sha256": "1bb022a4e498943692e9ee4e9e10c59239a580ff1eee00c0242094af90e39ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-85-2025",
+   "path": "local/arges/titesti/2025/85",
+   "short": "HCL Țițești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 85/2025 privind aprobarea tarifelor diferenţiate, distincte pentru gestionarea deşeurilor de către beneficiarii serviciului de salubritate precum şi sancţiunile aplicate acestora, pe raza comunei Titesti, judetul Arges | Data publicarii: 11.12.2025",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-tarife-diferentiate.pdf",
+     "sha256": "03d1a3398c3ba507429d0fe8b55373a4cbc32fff19bbba620ad43522479eeddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--titesti-90-2025",
+   "path": "local/arges/titesti/2025/90",
+   "short": "HCL Țițești nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țițești nr. 90/2025 privind modificarea si completarea Hotararii Consiliului Local Titesti cu nr. 04/30.01.2025 privind aprobarea Regulamentului privind încasarea taxei speciale de salubrizare în comuna Țițești, județul Argeș | Data publicarii: 29.12.2025 Anexa la HCL nr.90/ 29.12.2025 – REGULAMENT încasarea taxei speciale de salubrizare în comuna Țițești, județul Argeș | Data publicarii: 29.12.2025",
+   "url": "https://comunatitesti.ro/monitorul-oficial-local/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://comunatitesti.ro/wp-content/uploads/HCL-Salubrizare.pdf",
+     "sha256": "1834905a46817a26d757e594adc54305a20f89ec5431b5e635b54d16e66e22e0"
+    }
+   ]
+  }
+ ]
+}

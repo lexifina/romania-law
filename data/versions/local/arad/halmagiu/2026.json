@@ -3,6 +3,186 @@
  "shard": "local/arad/halmagiu/2026",
  "acts": [
   {
+   "slug": "hcl-arad--halmagiu-11-2026",
+   "path": "local/arad/halmagiu/2026/11",
+   "short": "HCL Hălmagiu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 11/2026 privind actualizarea Planului de analiză și acoperire a riscurilor (PAAR) în comuna Hălmagiu pe anul 2026",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/266367",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/266367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-13-2026",
+   "path": "local/arad/halmagiu/2026/13",
+   "short": "HCL Hălmagiu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 13/2026 privind aprobarea indicatorilor-economici actualizați finali (inclusiv dispoziții de șantier și ajustări de preț) și a devizului general actualizat final (inclusiv dispoziții de șantier și ajustări de preț) pentru obiectivul de investiții ''Modernizare DC 50B și străzi aferente din localitatea Leasa, comuna Hălmagiu, județul Arad''",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/266387",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/266387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-16-2026",
+   "path": "local/arad/halmagiu/2026/16",
+   "short": "HCL Hălmagiu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 16/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al primarului comunei Hălmagiu, județul Arad, conform prevederilor OUG nr. 7/2026",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/266390",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/266390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-17-2026",
+   "path": "local/arad/halmagiu/2026/17",
+   "short": "HCL Hălmagiu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 17/2026 privind asumarea cofinanțării de 20% din sumele eligibile solicitate de la bugetul de stat pentru realizarea obiectivului de investiții ''Modernizare DC50B și străzi aferente din localitatea Leasa, comuna Hălmagiu, județul Arad'', finanțat în cadrul Programul Național de Investiții ''Anghel Saligny'', în conformitate cu prevederile OUG nr. 87/2025",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/266391",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/266391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-20-2026",
+   "path": "local/arad/halmagiu/2026/20",
+   "short": "HCL Hălmagiu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 20/2026 privind aprobarea situațiilor financiare, a contului de execuție bugetară pentru anul 2025, sursele A, E și G, pe cele două secțiuni, funcționare și dezvoltare, anexele la acesta, conform anexelor nr.1-15",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/269906",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/269906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-22-2026",
+   "path": "local/arad/halmagiu/2026/22",
+   "short": "HCL Hălmagiu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 22/2026 privind ajustarea tarifului pentru serviciul de delegare a gestiunii servicului de eliminare, prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a rezidurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare reabilitare interioară și/sau exterioară a locuințelor la depozitele de deșeuri nepericuloase în cadrul proiectului ADISIGD Arad, componenta eliminare , prin depozitare, a deșeurilor municipale, precum, a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor și a deșeurilor ce nu pot fi valorificate din deșeurile voluminoase, deșeurile textile și deșeurile provenite de la evenimente la depozitul de deșeuri nepericuloase din Aria Delegării, ctr. Nr. 5430/29.12.2023",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/269917",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/269917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-26-2026",
+   "path": "local/arad/halmagiu/2026/26",
+   "short": "HCL Hălmagiu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 26/2026 privind aprobarea/avizarea documentelor necesare demarării procedurii de negociere fără publicarea unui anunț de participare pentru atribuirea contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat din județul Arad, zona 4",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/276952",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/276952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-28-2026",
+   "path": "local/arad/halmagiu/2026/28",
+   "short": "HCL Hălmagiu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 28/2026",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/276955",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/276955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-29-2026",
+   "path": "local/arad/halmagiu/2026/29",
+   "short": "HCL Hălmagiu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 29/2026 privind aprobarea executiei bugetare Ia finele trimestrului I al anului 2026, pe cele două secțiuni, de funcționare, respectiv de dezvoltare, sursele A, E, G, conform anexelor nr.1-7, care fac parte din prezenta",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/276958",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/276958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-3-2026",
+   "path": "local/arad/halmagiu/2026/3",
+   "short": "HCL Hălmagiu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 3/2026 privind aprobarea Diagnozei Sociale și a Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Hălmagiu, aferent anului 2026",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/259045",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/259045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-33-2026",
+   "path": "local/arad/halmagiu/2026/33",
+   "short": "HCL Hălmagiu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 33/2026 privind rectificarea bugetului local de venituri și cheltuieli al comunei Hălmagiu, sursa A pe anul 2026, conform anexelor 1 și 2",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/280231",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/280231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-34-2026",
+   "path": "local/arad/halmagiu/2026/34",
+   "short": "HCL Hălmagiu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 34/2026 privind înscrierea definitivă în proprietatea publică a comunei Hălmagiu a 6 (șase) bunuri imobile înscrise provizoriu pe UAT Hălmagiu și completarea inventarului bunurilor care aparțin domeniului public al comunei Hălmagiu, cu aceste bunuri",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/280232",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/280232",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-35-2026",
    "path": "local/arad/halmagiu/2026/35",
    "short": "HCL Hălmagiu nr. 35/2026",
@@ -73,6 +253,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/286636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-4-2026",
+   "path": "local/arad/halmagiu/2026/4",
+   "short": "HCL Hălmagiu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 4/2026 privind aprobarea PLANULUI ANUAL DE ACȚIUNE PRIVIND SERVICIILE SOCIALE acordate în cadrul Compartimentului de asistență socială",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/259046",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/259046",
      "sha256": null
     }
    ]
@@ -228,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagiu-5-2026",
+   "path": "local/arad/halmagiu/2026/5",
+   "short": "HCL Hălmagiu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 5/2026 privind aprobarea STRATEGIEI DE DEZVOLTARE A SERVICIILOR SOCIALE A COMUNEI HĂLMAGIU, JUDEȚUL ARAD, pentru perioada 2026-2030",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/259049",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/259049",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-50-2026",
    "path": "local/arad/halmagiu/2026/50",
    "short": "HCL Hălmagiu nr. 50/2026",
@@ -298,6 +508,36 @@
      "from": "2026-10-02",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/291763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-6-2026",
+   "path": "local/arad/halmagiu/2026/6",
+   "short": "HCL Hălmagiu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 6/2026 privind modificarea și completarea anexei nr. 1 și anexei nr. 2 la Hotărârea Consiliului Local Hălmagiu nr. 93 din 31.12.2025 privind aprobarea impozitelor și taxelor locale pentru anul fiscal 2026, conform prevederilor Ordonanței Guvernului nr. 6 din 30.01.2026 pentru completarea Legii nr. 207/2015 privind Codul de procedură fiscala, precum și unele măsuri fiscal-bugetare",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/259050",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/259050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-7-2026",
+   "path": "local/arad/halmagiu/2026/7",
+   "short": "HCL Hălmagiu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 7/2026 privind aprobarea utilizării, în anul 2026, al excedentului anual al Bugetului local de venituri și cheltuieli sursa A și al Bugetului local al activităților finanțate integral din venituri proprii, sursa E, al Comunei Hălmagiu, rezultat la încheierea exercițiului bugetar al anului 2025",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/259051",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/259051",
      "sha256": null
     }
    ]

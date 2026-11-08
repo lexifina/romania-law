@@ -3,6 +3,21 @@
  "shard": "local/brasov/rupea/2024",
  "acts": [
   {
+   "slug": "hcl-brasov--rupea-104-2024",
+   "path": "local/brasov/rupea/2024/104",
+   "short": "HCL Rupea nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 104/2024 privind aprobarea unei scutiri de la plata impozitului",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2024",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 3,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/104_Hotararea-nr.-104-scutire-taxa-impozit-sala-plugarilor.pdf",
+     "sha256": "4f5aaea78a2a98bf2d933a836bf126cd2036aeff3bc7a56928219f69f77638a1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-14-2024",
    "path": "local/brasov/rupea/2024/14",
    "short": "HCL Rupea nr. 14/2024",
@@ -74,6 +89,21 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/22-hotarare-nr.-22-privind-aprobare-plan-de-actiuni-si-lucrari-de-interes-local.pdf",
      "sha256": "5c88b535fb6c6bbda446a877acef44782f110c0e5ca740bd76a7445099ef5802"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-70-2024",
+   "path": "local/brasov/rupea/2024/70",
+   "short": "HCL Rupea nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 70/2024 privind aprobarea modificarii regulametului de piata aprobat prin HCL nr. HOTARAREA nr. 71 / Din 31.07.2023 privind aprobarea regulametului si stabilirea taxelor locale de piata",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2024",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 3,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/70_hotarare-nr.-70-modificare-regulament-piata.pdf",
+     "sha256": "62cd740563c3ab4128e2c408e477e35dbd984b8436cb5ca3ddd7ffb957d69e2b"
     }
    ]
   }

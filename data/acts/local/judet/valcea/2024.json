@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/valcea/2024",
+"acts": [
+{
+"slug": "hcj-valcea-261-2024",
+"path": "local/judet/valcea/2024/261",
+"kind": "local",
+"year": "2024",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 261/2024 privind aprobarea tarifelor pentru vânzarea biletelor și abonamentelor la competițiile sportive oficiale desfășurate pe teren propriu, de echipa de baschet masculin a Clubului Sportiv Vâlcea – 1924, pentru anul competițional 2024-2025 Vizualizare",
+"short": "HCJ Vâlcea nr. 261/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-valcea-354-2024",
+"path": "local/judet/valcea/2024/354",
+"kind": "local",
+"year": "2024",
+"number": "354",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 354/2024 privind aprobarea tarifului lunar pentru prestarea serviciului de pază de către Serviciul Public Județean de Pază Vâlcea, începând cu anul 2025",
+"short": "HCJ Vâlcea nr. 354/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_source": "ocr"
+}
+}
+]
+}

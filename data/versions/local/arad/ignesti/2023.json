@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ignesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--ignesti-52-2023",
+   "path": "local/arad/ignesti/2023/52",
+   "short": "HCL Ignești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 52/2023 privind neaprobarea tarifelor la fractiile de deseuri ADISIGD Arad",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 6,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2023/09/HOTARAREA-NR.-52-din-29.08.2023-privind-neaprobarea-tarifelor-la-fractiile-de-deseuri-ADISIGD-Arad.pdf",
+     "sha256": "25d45b3c25aeda92b06525b3173dac70fb83152a4810448bf28aa3cfc1cf0d42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-59-2023",
+   "path": "local/arad/ignesti/2023/59",
+   "short": "HCL Ignești nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 59/2023 privind modificarea a tarifului la depozit de deseuri",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2023/10/Hotararea-nr.-59-din-28.09.2023-privind-modificarea-a-tarifului-la-depozit-de-deseuri.pdf",
+     "sha256": "a8738462b1a38c91efdaf0a1ec6adbcdc6bfc699955bb06767917ff3ed0eb1a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-72-2023",
+   "path": "local/arad/ignesti/2023/72",
+   "short": "HCL Ignești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 72/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2023/12/HOTARAREA-NR.72-DIN-28.11.2023-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2024.pdf",
+     "sha256": "31c5948fcc8fbb2a7e0c5de24861b47116f409cd4d04e870365a15d137b566ee"
+    }
+   ]
+  }
+ ]
+}

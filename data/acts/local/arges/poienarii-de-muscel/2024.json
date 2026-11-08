@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/arges/poienarii-de-muscel/2024",
+"acts": [
+{
+"slug": "hcl-arges--poienarii-de-muscel-13-2024",
+"path": "local/arges/poienarii-de-muscel/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 13/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Poienarii de Muscel nr. 13/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-13.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-22-2024",
+"path": "local/arges/poienarii-de-muscel/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 22/2024",
+"short": "HCL Poienarii de Muscel nr. 22/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-03-12",
+"latest": "2024-03-12",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-22.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-55-2024",
+"path": "local/arges/poienarii-de-muscel/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 55/2024 privind acordarea unui mandat special în vederea aprobării ajustării tarifelor percepute de operatorul Soc",
+"short": "HCL Poienarii de Muscel nr. 55/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-55.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

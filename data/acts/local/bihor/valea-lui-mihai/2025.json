@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2025",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-11-2025",
+"path": "local/bihor/valea-lui-mihai/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 11/2025 privind instituirea taxei de salubrizare pentru utilizatorii care beneficiază individual de prestarea serviciului de salubrizare fără contract ↓",
+"short": "HCL Valea lui Mihai nr. 11/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-20-2025",
+"path": "local/bihor/valea-lui-mihai/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 20/2025 Nr.20 din 12 martie 2025 privind aprobarea indicatorilor pentru finanțarea elaborării și actualizării Planului Urbanistic General și Regulamentului Local de Urbanism al Orașului Valea lui Mihai, județul Bihor",
+"short": "HCL Valea lui Mihai nr. 20/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-41-2025",
+"path": "local/bihor/valea-lui-mihai/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 41/2025 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2026 ↓",
+"short": "HCL Valea lui Mihai nr. 41/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-81-2025",
+"path": "local/bihor/valea-lui-mihai/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 81/2025 privind aprobarea Planului de Mobilitate Urbană Durabilă al Orașului Valea lui Mihai actualizat, inclusiv transpunerea în format GIS ↓",
+"short": "HCL Valea lui Mihai nr. 81/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-101-2025",
+"path": "local/bihor/valea-lui-mihai/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 101/2025",
+"short": "HCL Valea lui Mihai nr. 101/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-124-2025",
+"path": "local/bihor/valea-lui-mihai/2025/124",
+"kind": "local",
+"year": "2025",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 124/2025 privind aprobarea caietului de sarcini în vederea achiziționării, prin licitație publică, a serviciilor medicale veterinare de microcipare și sterilizare a câinilor cu stăpân, aparținând rasei comune sau metișilor acestora, aflați pe teritoriul UAT Orașului Vale",
+"short": "HCL Valea lui Mihai nr. 124/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

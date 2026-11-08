@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/saveni/2020",
+ "acts": [
+  {
+   "slug": "hcl-botosani--saveni-69-2020",
+   "path": "local/botosani/saveni/2020/69",
+   "short": "HCL Săveni nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 69/2020 privind indexarea impozitelor și taxelor locale pe anul 2021",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Hotarari-ale-Consiliului-Local/2020/Hotararea-nr.-69-30.04.2020-privind-indexarea-impozitelor-si-taxelor-locale-pe-anul-2021.pdf",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Hotarari-ale-Consiliului-Local/2020/Hotararea-nr.-69-30.04.2020-privind-indexarea-impozitelor-si-taxelor-locale-pe-anul-2021.pdf",
+     "sha256": "fa0241f512487540445d04babc51bb5d72746eac8c3002c4635fe6d97d67d96b"
+    }
+   ]
+  }
+ ]
+}

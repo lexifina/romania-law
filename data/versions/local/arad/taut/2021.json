@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/taut/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--taut-78-2021",
+   "path": "local/arad/taut/2021/78",
+   "short": "HCL Tauț nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 78/2021 privind aprobarea impozitelor si taxelor locale pt.anul 2022",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.78-din-24.11.2021privind-aprobarea-impozitelor-si-taxelor-locale-pt.anul-2022.pdf",
+     "sha256": "5a549d7815ff2d03430ff26e45261bc55d9b8b300f6c94d63709caec00907723"
+    }
+   ]
+  }
+ ]
+}

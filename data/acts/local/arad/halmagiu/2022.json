@@ -3,6 +3,95 @@
 "shard": "local/arad/halmagiu/2022",
 "acts": [
 {
+"slug": "hcl-arad--halmagiu-60-2022",
+"path": "local/arad/halmagiu/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 60/2022 privind actualizarea planului de analiză și acoperire a riscurilor (PAAR) în comuna Hălmagiu pe anul 2022",
+"short": "HCL Hălmagiu nr. 60/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/99783",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-61-2022",
+"path": "local/arad/halmagiu/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 61/2022",
+"short": "HCL Hălmagiu nr. 61/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/99784",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-66-2022",
+"path": "local/arad/halmagiu/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 66/2022 privind aprobarea exploatării unei cantități de masă lemnoasă din pădurea comunală a comunei Hălmagiu, în vederea asigurării necesarului de lemn de foc, către populație",
+"short": "HCL Hălmagiu nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/99811",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-68-2022",
+"path": "local/arad/halmagiu/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 68/2022 privind aprobarea structurii Devizului General, a indicatorilor tehnico-economici și a indicatorilor de performanță și eficiență, actualizați, la terminarea lucrărilor, pentru obiectivul de investiții „ALIMENTARE CU APA ȘI CANALIZARE ÎN LOCALITATEA ȚĂRMURE, COMUNA HĂLMAGIU, JUDEȚUL ARAD”, proiect finanțat prin PNDL",
+"short": "HCL Hălmagiu nr. 68/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/99813",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-74-2022",
 "path": "local/arad/halmagiu/2022/74",
 "kind": "local",

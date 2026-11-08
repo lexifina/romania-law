@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2024",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-26-2024",
+"path": "local/arad/nadlac/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2024 privind stabilirea situațiilor deosebite și a criteriilor conform cărora se pot acorda ajutoare de urgență sau ajutoare comunitare familiilor sau persoanelor singure, cu domiciliul pe raza orașului Nădlac",
+"short": "HCL Nădlac nr. 26/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2024/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-37-2024",
+"path": "local/arad/nadlac/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2024",
+"short": "HCL Nădlac nr. 37/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-03-26",
+"latest": "2024-03-26",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-61-2024",
+"path": "local/arad/nadlac/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2024 privind respingerea ajustării tarifelor aferente Contractului nr. 4850/23.11.2023",
+"short": "HCL Nădlac nr. 61/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2024/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-122-2024",
+"path": "local/arad/nadlac/2024/122",
+"kind": "local",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2024 privind aprobarea modificării tarifului pentru activitatea de colectare separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separate din județul A",
+"short": "HCL Nădlac nr. 122/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2024/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-143-2024",
+"path": "local/arad/nadlac/2024/143",
+"kind": "local",
+"year": "2024",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2024 privind aprobarea taxelor speciale aplicabile în anul fiscal 2025",
+"short": "HCL Nădlac nr. 143/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2024/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-144-2024",
+"path": "local/arad/nadlac/2024/144",
+"kind": "local",
+"year": "2024",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2024 privind aprobarea valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum şi a amenzilor aplicabile pentru anul fiscal 2025",
+"short": "HCL Nădlac nr. 144/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2024/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-161-2024",
+"path": "local/arad/nadlac/2024/161",
+"kind": "local",
+"year": "2024",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2024 privind aprobarea taxelor speciale pentru piața agroalimentară și obor aplicabile în anul fiscal 2025",
+"short": "HCL Nădlac nr. 161/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2024/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gaiceana/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gaiceana-107-2025",
+   "path": "local/bacau/gaiceana/2025/107",
+   "short": "HCL Găiceana nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 107/2025 Privind stabilirea taxei speciale de salubrizare pentru anul 2026, pentru consumatorii casnici și noncasnici, la nivelul comunei Găiceana, județul Bacău",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://comunagaiceana.ro/continut/fisiere/2025/12/HCL-107-DIN15.11.2025-salubrizare.pdf",
+     "sha256": "03c6d6d3aff1d41499a74b4b48a1c5f03584ea7a7bcbf2853b996544c878f294"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gaiceana-91-2025",
+   "path": "local/bacau/gaiceana/2025/91",
+   "short": "HCL Găiceana nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 91/2025 privind indexarea și stabilirea, începând cu anul 2026 a nivelului valorilor impozabile, a impozitelor locale pentru vehiculele grele de marfa prevazute de Legea nr.227/2015 privind Codul Fiscal art.470 alin. (5) si (6) in functie de rata de schimb a monedei euro, în vigoare în prima zi lucrătoare a lunii octombrie 2025",
+   "url": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=8",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://comunagaiceana.ro/continut/fisiere/2025/11/hcl-91-.pdf",
+     "sha256": "755a26dcf202038f0e50d1d119637991459a09497bdef6ac7d91d5c6324be21a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gaiceana-94-2025",
+   "path": "local/bacau/gaiceana/2025/94",
+   "short": "HCL Găiceana nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 94/2025 privind aprobarea Regulamentului de organizare a pășunatului pe raza administrativ-teritorială a Comunei Găiceana și sancționarea faptelor care constituie contravenții pentru distrugerea terenurilor agricole cultivate de către animalele domestice",
+   "url": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=7",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 3,
+     "source_url": "https://comunagaiceana.ro/continut/fisiere/2025/11/HCL-94-Regulament-pasunat-UAT-Gaiceana.pdf",
+     "sha256": "b48727eda0ca234a07d1520f9dd1353910d5d35155775238d110ff9c9fd13fdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gaiceana-96-2025",
+   "path": "local/bacau/gaiceana/2025/96",
+   "short": "HCL Găiceana nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 96/2025 privind aprobarea contului de executie al exercitiului bugetar, pentru trimestrul al III-lea, anul 2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d68defa3a1e6c575bebecb4224633489429abd616b50fa87e66c36bf3c2c5a9c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/manoleasa/2023",
+"acts": [
+{
+"slug": "hcl-botosani--manoleasa-51-2023",
+"path": "local/botosani/manoleasa/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 51/2023 privind prelungire valabilitate PUG",
+"short": "HCL Manoleasa nr. 51/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2023",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-57-2023",
+"path": "local/botosani/manoleasa/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 57/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Manoleasa nr. 57/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2023",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

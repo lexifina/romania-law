@@ -3,6 +3,531 @@
  "shard": "local/arad/halmagel/2025",
  "acts": [
   {
+   "slug": "hcl-arad--halmagel-13-2025",
+   "path": "local/arad/halmagel/2025/13",
+   "short": "HCL Hălmăgel nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 13/2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197006",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-14-2025",
+   "path": "local/arad/halmagel/2025/14",
+   "short": "HCL Hălmăgel nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 14/2025 privind aprobarea Raportului asupra activitatii desfasurate de asistentii personali ai persoanelor cu handicap grav pe semestrul II al anului 2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197007",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-15-2025",
+   "path": "local/arad/halmagel/2025/15",
+   "short": "HCL Hălmăgel nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 15/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Hălmăgel, aferent anului 2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197008",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-16-2025",
+   "path": "local/arad/halmagel/2025/16",
+   "short": "HCL Hălmăgel nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 16/2025 privind aprobarea Planului de acţiuni/lucrări de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apti de munca, potrivit Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2025, la nivelul comunei Hălmăgel, judeţul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197009",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-17-2025",
+   "path": "local/arad/halmagel/2025/17",
+   "short": "HCL Hălmăgel nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 17/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și/sau finanțate din bugetul Consiliului Local al comunei Hălmăgel, judetul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197011",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-18-2025",
+   "path": "local/arad/halmagel/2025/18",
+   "short": "HCL Hălmăgel nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 18/2025 privind delegarea gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor, Județul Arad ADISIGD Arad din Zona 4 a județului Arad, avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 4",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197012",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-19-2025",
+   "path": "local/arad/halmagel/2025/19",
+   "short": "HCL Hălmăgel nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 19/2025 privind modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară Apă Canalizare Judeţul Arad, la care UAT Hălmăgel este membru asociat",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197013",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-22-2025",
+   "path": "local/arad/halmagel/2025/22",
+   "short": "HCL Hălmăgel nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 22/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale prevăzut la art. 3 alin. (2) din Legea 100/2024 din 16 aprilie 2024 pentru modificarea și completarea unor acte normative în domeniul asistenței sociale, precum și pentru completarea Legii nr. 78/2014 privind regelemnetarea activității de voluntariat în România și pentru modificarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului în vederea depunerii documentației de acreditare a Primăriei ca si furnizor de servicii sociale",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216580",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-23-2025",
+   "path": "local/arad/halmagel/2025/23",
+   "short": "HCL Hălmăgel nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 23/2025 privind constituirea Structurii Consultative și aprobarea Regulamentului de organizare și funcționare al acesteia",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216581",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-25-2025",
+   "path": "local/arad/halmagel/2025/25",
+   "short": "HCL Hălmăgel nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 25/2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216583",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-26-2025",
+   "path": "local/arad/halmagel/2025/26",
+   "short": "HCL Hălmăgel nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 26/2025 privind aprobarea bugetului local de venituri și cheltuieli al Comunei Hălmăgel, pe anul 2025 și estimările pe anii 2026, 2027, 2028",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216584",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-28-2025",
+   "path": "local/arad/halmagel/2025/28",
+   "short": "HCL Hălmăgel nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 28/2025 privind aprobarea participării comunei Hălmăgel la programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană, finanțat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216586",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-31-2025",
+   "path": "local/arad/halmagel/2025/31",
+   "short": "HCL Hălmăgel nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 31/2025 privind rectificarea în trimestrul II/2025, a bugetului loal aprobat pentru anul 2025 de către Consiliul Local al comunei Hălmăgel prin Hotărârea nr. 26 din 20.03.2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216589",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-32-2025",
+   "path": "local/arad/halmagel/2025/32",
+   "short": "HCL Hălmăgel nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 32/2025 privind aprobarea încheierii unui acord de cooperare cu Filiala Județeană ARAD a Asociației Comunelor din România pentru organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216590",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-36-2025",
+   "path": "local/arad/halmagel/2025/36",
+   "short": "HCL Hălmăgel nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 36/2025 privind aprobarea depunerii și implementării proiectului Comunei Hălmăgel prin Programul privind reducerea emisiilor de gaze cu efect de sera în transporturi, prin promovoarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025-2030",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216599",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-37-2025",
+   "path": "local/arad/halmagel/2025/37",
+   "short": "HCL Hălmăgel nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 37/2025 privind aprobarea Regulamentului privind modul de utilizare al microbuzelor de transport școlar",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216600",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-4-2025",
+   "path": "local/arad/halmagel/2025/4",
+   "short": "HCL Hălmăgel nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 4/2025 privind actualizarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investiții “MODERNIZARE DC 46 LUNCȘOARA, DC 47 ȚOHEȘTI ȘI STRĂZI AFERENTE DIN COMUNA HĂLMĂGEL, JUDEȚEUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/196911",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-42-2025",
+   "path": "local/arad/halmagel/2025/42",
+   "short": "HCL Hălmăgel nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 42/2025 privind aprobarea Regulamentului de organizare al traficului autovehiculelor cu masa maximă autorizată mai mare de 16 to în comuna Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216614",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-43-2025",
+   "path": "local/arad/halmagel/2025/43",
+   "short": "HCL Hălmăgel nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 43/2025 privind aprobarea Regulamentului pentru utilizarea Spațiului recreativ - Parc, aflat în administrarea comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216615",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-44-2025",
+   "path": "local/arad/halmagel/2025/44",
+   "short": "HCL Hălmăgel nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 44/2025 privind aprobarea organigramei și a statului de funcții personalului primăriei comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/216625",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/216625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-47-2025",
+   "path": "local/arad/halmagel/2025/47",
+   "short": "HCL Hălmăgel nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 47/2025 privind aprobarea Raportului asupra actvitații desfasurate de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229170",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-48-2025",
+   "path": "local/arad/halmagel/2025/48",
+   "short": "HCL Hălmăgel nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 48/2025 privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zonele 2, 3 și 4, avizarea Strategiei de contractare, a Studiului de fundamentare/oportunitate și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 2, Zona 3 și Zona 4",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229171",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-49-2025",
+   "path": "local/arad/halmagel/2025/49",
+   "short": "HCL Hălmăgel nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 49/2025 privind avizarea Strategiei de contractare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 4",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229172",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-5-2025",
+   "path": "local/arad/halmagel/2025/5",
+   "short": "HCL Hălmăgel nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 5/2025 privind aprobarea cuantumului cotizației aferent anului 2025 la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/196912",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-50-2025",
+   "path": "local/arad/halmagel/2025/50",
+   "short": "HCL Hălmăgel nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 50/2025 privind declararea de inters public local a unor bunuri înregistrate în contabilitatea Companiei de Apă Arad SA și trecerea lor din domeniul public în domeniul privat al UAT comuna Hălmăgel în vederea scoaterii din funcțiune, casării și valorificării lor",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229173",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-51-2025",
+   "path": "local/arad/halmagel/2025/51",
+   "short": "HCL Hălmăgel nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 51/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 30",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229174",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-52-2025",
+   "path": "local/arad/halmagel/2025/52",
+   "short": "HCL Hălmăgel nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 52/2025 privind aprobarea organigramei și a statului de funcții personalului primăriei comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229178",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-53-2025",
+   "path": "local/arad/halmagel/2025/53",
+   "short": "HCL Hălmăgel nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 53/2025 privind aprobarea utilizării excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229179",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-57-2025",
+   "path": "local/arad/halmagel/2025/57",
+   "short": "HCL Hălmăgel nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 57/2025 privind rectificarea în trimestrul III/2025, a bugetului local aprobat pentru anul 2025 de către Consiliul Local al Comunei Hălmăgel prin Hotărârea nr. 26 din 20.03.2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229183",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-58-2025",
+   "path": "local/arad/halmagel/2025/58",
+   "short": "HCL Hălmăgel nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 58/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 mp în cadrul proiectului ,, Realizarea infrastructurii de Broadband și racordarea la rețeaua de energie electrică existentă printr-un branșament nou ,,Județul Arad ,UAT Hălmăgel, localitatea Țârnăvița",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229184",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-6-2025",
+   "path": "local/arad/halmagel/2025/6",
+   "short": "HCL Hălmăgel nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 6/2025 privind aprobarea execuției bugetare pe trimestrul IV/2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/196999",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-62-2025",
+   "path": "local/arad/halmagel/2025/62",
+   "short": "HCL Hălmăgel nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 62/2025 privind respingerea modificării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229188",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-63-2025",
+   "path": "local/arad/halmagel/2025/63",
+   "short": "HCL Hălmăgel nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 63/2025 privind rectificarea în trimestrul IV/2025, a bugetului local aprobat pentru anul 2025 de către Consiliul Local al Comunei Hălmăgel prin Hotărârea nr. 26 din 20.03.2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/229189",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/229189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-68-2025",
+   "path": "local/arad/halmagel/2025/68",
+   "short": "HCL Hălmăgel nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 68/2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/262548",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/262548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-69-2025",
+   "path": "local/arad/halmagel/2025/69",
+   "short": "HCL Hălmăgel nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 69/2025 privind respingerea ajustării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/262558",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/262558",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-70-2025",
    "path": "local/arad/halmagel/2025/70",
    "short": "HCL Hălmăgel nr. 70/2025",
@@ -298,6 +823,21 @@
      "from": "2026-04-09",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/262596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-9-2025",
+   "path": "local/arad/halmagel/2025/9",
+   "short": "HCL Hălmăgel nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 9/2025 privind aprobarea modificării HCL Hălmăgel nr. 88 din 19.12.2024 privind proiectul ,,CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIREA PUBLICĂ CU DESTINAȚIA ȘCOALA GIMNAZIALĂ HĂLMĂGEL (C 1 și C 2),,",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/197002",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/197002",
      "sha256": null
     }
    ]

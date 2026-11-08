@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/bacau/gura-vaii/2025",
+"acts": [
+{
+"slug": "hcl-bacau--gura-vaii-80-2025",
+"path": "local/bacau/gura-vaii/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 80/2025 privind modificarea și completarea HCL 61/28.06.2021 privind aprobarea tarifelor de debranșare/rebranșare pentru utilizatorii rău platnici la Serviciul de Utilități Publice, începând cu 01.07.2021",
+"short": "HCL Gura Văii nr. 80/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-93-2025",
+"path": "local/bacau/gura-vaii/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 93/2025 privind aprobarea unor impozite și taxe locale pentru anul 2026",
+"short": "HCL Gura Văii nr. 93/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-94-2025",
+"path": "local/bacau/gura-vaii/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 94/2025 privind aprobarea taxei speciale de salubrizare pentru utilizatorii casnici în anul 2026",
+"short": "HCL Gura Văii nr. 94/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-95-2025",
+"path": "local/bacau/gura-vaii/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 95/2025 privind aprobarea taxei de salubrizare pentru anul 2026, datorată de utilizatorii noncasnici, persoanele juridice și agenții economici din Comuna Gura Văii",
+"short": "HCL Gura Văii nr. 95/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-96-2025",
+"path": "local/bacau/gura-vaii/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 96/2025",
+"short": "HCL Gura Văii nr. 96/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": null,
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--gura-vaii-98-2025",
+"path": "local/bacau/gura-vaii/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 98/2025 privind scutirea de la plata taxei speciale de salubritate a Școlii Gimnaziale nr.1 Gura Văii și a Primăriei Gura Văii",
+"short": "HCL Gura Văii nr. 98/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+"council": "bacau/gura-vaii",
+"council_name": "Consiliul Local al Comunei Gura Văii",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2023",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-47-2023",
+"path": "local/bihor/valea-lui-mihai/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 47/2023 privind aprobarea contractării unui împrumut în valoare de 2.000.000,00 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Valea lui Mihai nr. 47/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

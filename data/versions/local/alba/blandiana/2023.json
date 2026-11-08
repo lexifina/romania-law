@@ -3,6 +3,51 @@
  "shard": "local/alba/blandiana/2023",
  "acts": [
   {
+   "slug": "hcl-alba--blandiana-3-2023",
+   "path": "local/alba/blandiana/2023/3",
+   "short": "HCL Blandiana nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 3/2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/3.pdf",
+     "sha256": "12dde14996569f219c4ac6394cf4faf69287bedb0368c6de72f9d1a877b0e185"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-37-2023",
+   "path": "local/alba/blandiana/2023/37",
+   "short": "HCL Blandiana nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 37/2023 privind aprobarea cuantumului taxei speciale de salubrizare",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/37.pdf",
+     "sha256": "0cee5809a7c08cc74ff5ab8986b311dd88428ad16331a096e7d3494016c06d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-44-2023",
+   "path": "local/alba/blandiana/2023/44",
+   "short": "HCL Blandiana nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 44/2023 pentru aprobarea Regulamentului privind procedura de înregistrare, evidență și radiere a vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a Comunei Blandiana",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 6,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/44.pdf",
+     "sha256": "4a2854e410efc49e2c8ca0b693d487b2742b62d2d63141879242e666a6aefb67"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--blandiana-59-2023",
    "path": "local/alba/blandiana/2023/59",
    "short": "HCL Blandiana nr. 59/2023",

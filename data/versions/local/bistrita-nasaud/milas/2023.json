@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--milas-15-2023",
+   "path": "local/bistrita-nasaud/milas/2023/15",
+   "short": "HCL Milaș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 15/2023 privind aprobarea prețurilor de referință a masei lemnoase pe picior pe specii, sortimente dimensionale și gradele de accesibilitate, producția anului 2023 si a listei de patrizi, din fondul forestier proprietate publică a Comunei Milaș, administrată de Ocolul Silvic Bistrița",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.15_15.03.2023_aprobare_prml.pdf",
+     "sha256": "8fe40b2111abf01a439901d291849b98b80451dcefb7ed783dc8e037b3e3a129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-20-2023",
+   "path": "local/bistrita-nasaud/milas/2023/20",
+   "short": "HCL Milaș nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 20/2023 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deseuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul şi Operarea Centrului de Man",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.20_24.04.2023_aprobare_rof.pdf",
+     "sha256": "bf89c37493349210ca2432e207be7b997c9913ef510826bd7f06d33cf27cad7d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--milas-232-2023",
    "path": "local/bistrita-nasaud/milas/2023/232",
    "short": "HCL Milaș nr. 232/2023",
@@ -29,6 +59,36 @@
      "units": 1,
      "source_url": "https://comunamilas.ro/documente/publicatiicasatorie/uat_milas_nr.232_05.10.2023_pc_belean_moldovan.pdf",
      "sha256": "1140c8766adeaf406740902934d737a294555120b6fb244e3c6d9929906a8ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-24-2023",
+   "path": "local/bistrita-nasaud/milas/2023/24",
+   "short": "HCL Milaș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 24/2023 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2024",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.24_24.04.2023_aprobare_ebl.pdf",
+     "sha256": "92556b22075812fa23aca8d534c559ab4a3f76b44b17522ecec73a888dfed6ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-9-2023",
+   "path": "local/bistrita-nasaud/milas/2023/9",
+   "short": "HCL Milaș nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 9/2023 privind prelungirea termenului de valabilitate a Planului Urbanistic General al comunei Milaș",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 6,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.09_31.01.2023_prelungire_termen_v.pdf",
+     "sha256": "b78209fc4362dd1cdcdedff718c91dbc64579d268ab27fd3d64fa79df99a08f7"
     }
    ]
   }

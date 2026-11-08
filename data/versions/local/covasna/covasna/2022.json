@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2022",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-138-2022",
+   "path": "local/covasna/covasna/2022/138",
+   "short": "HCL Covasna nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 138/2022",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2022/hcl138.pdf",
+     "sha256": "16303d2c411541ef5903c8ccfc658bf6b53aaa15e98772a972ab908203e25071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-145-2022",
+   "path": "local/covasna/covasna/2022/145",
+   "short": "HCL Covasna nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 145/2022",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2022/hcl145.pdf",
+     "sha256": "8fb443e5aaf0d9ec83187f25132b81740fdc6964fbd307956b6c40414004d058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-146-2022",
+   "path": "local/covasna/covasna/2022/146",
+   "short": "HCL Covasna nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 146/2022",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2022/hcl146.pdf",
+     "sha256": "1c08cb5443ace0cf35e780ed3a9ac884fb79deeb11c27904cb769ceacabdfe19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-147-2022",
+   "path": "local/covasna/covasna/2022/147",
+   "short": "HCL Covasna nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 147/2022 cu privire la aprobare P.U.Z. – ZONĂ DE LOCUINȚE, STRADA FLORILOR, ORAȘUL COVASNA Beneficiar: Kozák Emőke",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 6,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2022/hcl147.pdf",
+     "sha256": "8c491166049c6cb99d674f19d0d4d1db4d2c586d8e3e9a1eebd999d403b99b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-173-2022",
+   "path": "local/covasna/covasna/2022/173",
+   "short": "HCL Covasna nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 173/2022 cu privire la aprobarea unor tarife pentru închirierea unor echipamente sportive la Pârtia de schi \"Lőrincz Zsigmond\" pentru sezonul de iarnă 2022-2023",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2022/hcl173.pdf",
+     "sha256": "22b1e4010564c1a58f95aff9f26c4becf5729e17dd91f76a7a89e4291846d849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-185-2022",
+   "path": "local/covasna/covasna/2022/185",
+   "short": "HCL Covasna nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 185/2022",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2022/hcl185.pdf",
+     "sha256": "9ed72b905f571e2a259cc651ab1c755773df1fb1f1cd987fe12639605e21c3fe"
+    }
+   ]
+  }
+ ]
+}

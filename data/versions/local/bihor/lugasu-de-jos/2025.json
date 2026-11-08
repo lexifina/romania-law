@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/lugasu-de-jos/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-118-2025",
+   "path": "local/bihor/lugasu-de-jos/2025/118",
+   "short": "HCL Lugașu de Jos nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 118/2025 privind aprobarea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://lugasudejos.ro/monitor-oficial/hotarari/",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-118-din-31.12.2025-privind-aprobarea-impozitelor-si-taxelor-locale-pentru-anul-2026.pdf",
+     "sha256": "e401cd2d6c766776fcfdbc6f685fafdc4b6fca0c979d1e0a241ddaad1402f98c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-29-2025",
+   "path": "local/bihor/lugasu-de-jos/2025/29",
+   "short": "HCL Lugașu de Jos nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 29/2025 pentru finanțarea elaborării și actualizării Planului Urbanistic General și a Regulamentului local de urbanism , coninanțare PUG",
+   "url": "https://lugasudejos.ro/monitor-oficial/hotarari/",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.-29-din-25.04.2025-aprobarea-indicatorilor-pentru-finantarea-elaborarii-si-actualizarii-Planului-Urbanistic-General-si-a-Regulamentului-local-de-urbanism-coninantare-PUG.pdf",
+     "sha256": "493bab18895a88a7d5cb5c985a66c407cd1e5251b6af24ca53047418c1256be6"
+    }
+   ]
+  }
+ ]
+}

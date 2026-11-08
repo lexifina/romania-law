@@ -408,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-130-2022",
+   "path": "local/judet/hunedoara/2022/130",
+   "short": "HCJ Hunedoara nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 130/2022 privind modificarea Hotărârii Consiliului Județean Hunedoara nr.328/2021 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20130.pdf",
+     "sha256": "77d0d583ecd0dd37c4341fe0fbc466ac053c45942be0425acdea14e22d65ca26"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-14-2022",
    "path": "local/judet/hunedoara/2022/14",
    "short": "HCJ Hunedoara nr. 14/2022",

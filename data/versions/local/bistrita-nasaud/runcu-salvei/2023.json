@@ -3,6 +3,36 @@
  "shard": "local/bistrita-nasaud/runcu-salvei/2023",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-11-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/11",
+   "short": "HCL Runcu Salvei nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 11/2023 privind avizarea caietului de sarcini al serviciului de alimentare cu apă și de canalizare în județul Bistrița-Năsăud și mandatarea reprezentantului legal al Comunei Runcu Salvei să voteze aprobarea acestuia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Servicii de Alimentare cu Apă și de Canalizare în județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.11_31.03.2023_.pdf",
+     "sha256": "34110cc19120ba2248ac2347c597394445c503df493ad2776898cba13c95d96a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-14-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/14",
+   "short": "HCL Runcu Salvei nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 14/2023 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul și Operarea Centrului de Mana",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.14_24.04.2023_.pdf",
+     "sha256": "04de5a1600fcfa001480f08a9d6fa6d240bb011aaa5e46b057bd5e3e5fe25b15"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--runcu-salvei-28-2023",
    "path": "local/bistrita-nasaud/runcu-salvei/2023/28",
    "short": "HCL Runcu Salvei nr. 28/2023",

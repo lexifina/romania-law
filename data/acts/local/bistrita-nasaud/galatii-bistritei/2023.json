@@ -3,6 +3,117 @@
 "shard": "local/bistrita-nasaud/galatii-bistritei/2023",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-18-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 18/2023 privind aprobarea regulamentului de funcționare a terenurilor de sport, proprietate a comunei Galații-Bistriței",
+"short": "HCL Galații Bistriței nr. 18/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-22-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 22/2023",
+"short": "HCL Galații Bistriței nr. 22/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-25-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 25/2023 privind aprobarea regulamentului pentru concursul ”Cea mai frumoasă gospodărie”",
+"short": "HCL Galații Bistriței nr. 25/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-31-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 31/2023 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport , stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deșeuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul și Operarea Centrului de Ma",
+"short": "HCL Galații Bistriței nr. 31/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-43-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 43/2023 privind aprobarea regulamentului de funcționare a capelelor mortuare din comuna Galații-Bistriței",
+"short": "HCL Galații Bistriței nr. 43/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--galatii-bistritei-50-2023",
 "path": "local/bistrita-nasaud/galatii-bistritei/2023/50",
 "kind": "local",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/braila/faurei/2020",
+ "acts": [
+  {
+   "slug": "hcl-braila--faurei-59-2020",
+   "path": "local/braila/faurei/2020/59",
+   "short": "HCL Făurei nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 59/2020 privind stabilirea impozitelor si taxelor locale pentru anul 2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-59-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-59-din-26.11.2020.pdf",
+     "sha256": "408c257b4981ddd1a34bcf841818a264dfe035d715217718d714f1c73bdceffe"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/mihalt/2023",
+ "acts": [
+  {
+   "slug": "hcl-alba--mihalt-57-2023",
+   "path": "local/alba/mihalt/2023/57",
+   "short": "HCL Mihalț nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 57/2023 privind prelungire teremn de valabilitate Plan urbanistic general al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/12/57.-Hotararea-nr.-57-privind-prelungire-teremn-de-valabilitate-Plan-urbanistic-general-al-comunei-Mihalt.pdf",
+     "sha256": "cc6df2b49d80717935c176ae8907ca7b0afdf81e49c8c01ff3535447f470d1d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-68-2023",
+   "path": "local/alba/mihalt/2023/68",
+   "short": "HCL Mihalț nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 68/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/68.-Hotararea-nr.-68-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2024.pdf",
+     "sha256": "6d39814dd4a7fed93ab853e0b98cbaa4e37b772f15fa66715ade1cde6b63ba74"
+    }
+   ]
+  }
+ ]
+}

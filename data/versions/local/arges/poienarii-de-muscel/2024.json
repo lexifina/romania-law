@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arges/poienarii-de-muscel/2024",
+ "acts": [
+  {
+   "slug": "hcl-arges--poienarii-de-muscel-13-2024",
+   "path": "local/arges/poienarii-de-muscel/2024/13",
+   "short": "HCL Poienarii de Muscel nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 13/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-13.pdf",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 10,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-13.pdf",
+     "sha256": "28ef81a9d78fe700768fbc9349cdf4839d1b1625febe138af7e9533f95c24d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poienarii-de-muscel-22-2024",
+   "path": "local/arges/poienarii-de-muscel/2024/22",
+   "short": "HCL Poienarii de Muscel nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 22/2024",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-22.pdf",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-22.pdf",
+     "sha256": "d9979d8bf33f5675962beb894b09519d010879baa3082365203d5ff54565af59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poienarii-de-muscel-55-2024",
+   "path": "local/arges/poienarii-de-muscel/2024/55",
+   "short": "HCL Poienarii de Muscel nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 55/2024 privind acordarea unui mandat special în vederea aprobării ajustării tarifelor percepute de operatorul Soc",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-55.pdf",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/06/HCL-55.pdf",
+     "sha256": "f6e23e7897aaaccac256626b9f8abb85389e3d1751005b7e79a61c6c2f0d7330"
+    }
+   ]
+  }
+ ]
+}

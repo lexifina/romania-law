@@ -2965,6 +2965,138 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-arad--nadlac-170-2025",
+"path": "local/arad/nadlac/2025/170",
+"kind": "local",
+"year": "2025",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 170/2025 privind respingerea modificării tarifelor aferente Contractului nr. 5430/29.12.2023",
+"short": "HCL Nădlac nr. 170/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-183-2025",
+"path": "local/arad/nadlac/2025/183",
+"kind": "local",
+"year": "2025",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 183/2025 privind constituirea comisiei de circulație cu rol în administrarea drumurilor locale și aprobarea Regulamentului privind organizarea și funcționarea acesteia",
+"short": "HCL Nădlac nr. 183/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-187-2025",
+"path": "local/arad/nadlac/2025/187",
+"kind": "local",
+"year": "2025",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 187/2025 privind respingerea modificării tarifelor aferente Contractului nr. 1540/04.04.2025",
+"short": "HCL Nădlac nr. 187/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-203-2025",
+"path": "local/arad/nadlac/2025/203",
+"kind": "local",
+"year": "2025",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 203/2025 privind aprobarea taxelor speciale aplicabile în anul fiscal 2026",
+"short": "HCL Nădlac nr. 203/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-209-2025",
+"path": "local/arad/nadlac/2025/209",
+"kind": "local",
+"year": "2025",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 209/2025 privind aprobarea modificării tarifului pentru activitatea de colectare separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separate din județul A",
+"short": "HCL Nădlac nr. 209/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-219-2025",
+"path": "local/arad/nadlac/2025/219",
+"kind": "local",
+"year": "2025",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 219/2025 privind aprobarea acordării unor scutiri sau reduceri a impozitului/taxei pe clădiri, a impozitului / taxei pe teren și a impozitului pe mijloace de transport, de natura celor ce se pot acorda de către consiliul local în baza: art. 456 alin. (2), art. 464 alin. (2) ș",
+"short": "HCL Nădlac nr. 219/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

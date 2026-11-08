@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gura-vaii/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gura-vaii-80-2025",
+   "path": "local/bacau/gura-vaii/2025/80",
+   "short": "HCL Gura Văii nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 80/2025 privind modificarea și completarea HCL 61/28.06.2021 privind aprobarea tarifelor de debranșare/rebranșare pentru utilizatorii rău platnici la Serviciul de Utilități Publice, începând cu 01.07.2021",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2025/10/hcl_80.pdf",
+     "sha256": "21036611838134fbb9d1b932afba28e0f256a95a9013fe7216c90a32d31b5d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-93-2025",
+   "path": "local/bacau/gura-vaii/2025/93",
+   "short": "HCL Gura Văii nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 93/2025 privind aprobarea unor impozite și taxe locale pentru anul 2026",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/01/hcl_93.pdf",
+     "sha256": "fc4c0746c78aa06e0f58ab8af5695a3d5e8a424c66c1ecb653008bae9ad44888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-94-2025",
+   "path": "local/bacau/gura-vaii/2025/94",
+   "short": "HCL Gura Văii nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 94/2025 privind aprobarea taxei speciale de salubrizare pentru utilizatorii casnici în anul 2026",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/01/hcl_94.pdf",
+     "sha256": "699f09e2e83bc32058f27ddab6de66a21ad0cd95f1f3b95a4e0522de596a15ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-95-2025",
+   "path": "local/bacau/gura-vaii/2025/95",
+   "short": "HCL Gura Văii nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 95/2025 privind aprobarea taxei de salubrizare pentru anul 2026, datorată de utilizatorii noncasnici, persoanele juridice și agenții economici din Comuna Gura Văii",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/01/hcl_95.pdf",
+     "sha256": "5c6e0a4c54ee8fa70020168bfd8e910b2ca85bc1884150bddbde4fe62dfa0432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-96-2025",
+   "path": "local/bacau/gura-vaii/2025/96",
+   "short": "HCL Gura Văii nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 96/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/01/hcl_96.pdf",
+     "sha256": "611309c461cb65992e8e93a94cb5886d5cb088c88d364dacc1fc3f68ac2f92c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--gura-vaii-98-2025",
+   "path": "local/bacau/gura-vaii/2025/98",
+   "short": "HCL Gura Văii nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 98/2025 privind scutirea de la plata taxei speciale de salubritate a Școlii Gimnaziale nr.1 Gura Văii și a Primăriei Gura Văii",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/01/hcl_98.pdf",
+     "sha256": "b8a55397e228e9eb588c87c838e896dc9bc7a213e95e01495886042264fbea09"
+    }
+   ]
+  }
+ ]
+}

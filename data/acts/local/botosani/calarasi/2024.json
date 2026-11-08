@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/calarasi/2024",
+"acts": [
+{
+"slug": "hcl-botosani--calarasi-76-2024",
+"path": "local/botosani/calarasi/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 76/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Călărași nr. 76/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://primariacalarasibt.ro/documente/hotararea-nr-76-23-12-2024-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2025/",
+"council": "botosani/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

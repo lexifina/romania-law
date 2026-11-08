@@ -3,6 +3,36 @@
  "shard": "local/braila/baraganul/2024",
  "acts": [
   {
+   "slug": "hcl-braila--baraganul-11-2024",
+   "path": "local/braila/baraganul/2024/11",
+   "short": "HCL Bărăganul nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 11/2024 privind aprobarea actualizarii regulamentului de acordare a ajutoarelor de urgenta si a conditiilor, situatiilor, cuantumului si modalitatilor de acordare a ajutoarelor de urgenta, din bugetul local al UAT Baraganul in conformitate cu Legea nr. 196/2016",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 6,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2011_2024.pdf",
+     "sha256": "aa7367bb19dd65968012b94fcdfb3289265aa78e27890fda7f8cbee490e5b854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-34-2024",
+   "path": "local/braila/baraganul/2024/34",
+   "short": "HCL Bărăganul nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 34/2024 privind aprobarea impozitelor Åi taxelor locale pe anul 2025, indexate conform art. 491, alin. (1), alin. (1^1) si alin. (2) din Legea nr. 227/2015, privind Codul Fiscal, cu modificarile si completarile ulterioare",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2034_2024.pdf",
+     "sha256": "47c65381bbe1ff8b147fc4354d30434070640d334d72397ae0978d7be1b8b466"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--baraganul-44-2024",
    "path": "local/braila/baraganul/2024/44",
    "short": "HCL Bărăganul nr. 44/2024",

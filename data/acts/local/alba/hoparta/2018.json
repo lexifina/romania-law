@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/alba/hoparta/2018",
+"acts": [
+{
+"slug": "hcl-alba--hoparta-65-2018",
+"path": "local/alba/hoparta/2018/65",
+"kind": "local",
+"year": "2018",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 65/2018 privind aprobarea Regulamentului de utilizare a microbuzului de transport școlar pentru elevii din cadrul Școlii Gimnaziale Hopîrta Consiliul local al comunei Hopîrta, județul Alba, întrunit în ședință publică ordinară; Luând în dezbatere: raportul inspectorului Szolga Cilla, expunerea de motive la proiectul de hotărâre privind aprobarea Regulamentului de utilizare a microbuzului de transport școl",
+"short": "HCL Hopârta nr. 65/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-11-19",
+"latest": "2018-11-19",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2018/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--hoparta-74-2018",
+"path": "local/alba/hoparta/2018/74",
+"kind": "local",
+"year": "2018",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 74/2018 Privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și a amenzilor aplicabile în anul 2019 Consiliul local al comunei Hopîrta, Județul Alba,întrunit în ședință publică extraordinară; Luând în dezbatere: - Expunerea de motive la proiectul de hotărâre privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe",
+"short": "HCL Hopârta nr. 74/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-18",
+"latest": "2018-12-18",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2018/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

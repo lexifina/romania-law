@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-102-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/102",
+   "short": "HCL Ștefan cel Mare nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 102/2023 privind aprobarea Regulamentului",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.102-din-08.12.2023-privind-Regulamentului-.pdf",
+     "sha256": "e9d9ab45eeaf4ad3fb9084dd476504e390bb25a13c35dfaf1ca4386201f0f423"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-11-2023",
    "path": "local/bacau/stefan-cel-mare/2023/11",
    "short": "HCL Ștefan cel Mare nr. 11/2023",
@@ -44,6 +59,36 @@
      "units": 1,
      "source_url": null,
      "sha256": "1115197ef1bf49a785f74b0b24c2e6e70777ce95a3358b4c352718c2aac2662c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-112-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/112",
+   "short": "HCL Ștefan cel Mare nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 112/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.112-din-27.12.2023-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2024-.pdf",
+     "sha256": "9d243aed1d3efb1e89aedbe5464f3a01d0edc20e32f6aeed36c465476df3179d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-113-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/113",
+   "short": "HCL Ștefan cel Mare nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 113/2023 privind stabilirea taxei de salubrizare pentru anul 2024",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.113-din-27.12.2023-privind-stabilirea-taxei-de-salubrizare-pentru-anul-2024-2.pdf",
+     "sha256": "179976a6acce5c0a9274b9d1007fe8f70308549360e173ce008c771866ec4a19"
     }
    ]
   },
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-32-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/32",
+   "short": "HCL Ștefan cel Mare nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 32/2023 privind indexarea impozitelor si taxelor locale pentru anul 2024, cu rata inflatiei de 13,8%",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.32-din-27.03.2023-privind-indexarea-impozitelor-si-taxelor-locale-pentru-anul-2024-cu-rata-inflatiei-de-138.pdf",
+     "sha256": "fdcce05584afef83c98271f8102544a5d5f3f8a9fb34e3c10d3319fb256f642a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-4-2023",
    "path": "local/bacau/stefan-cel-mare/2023/4",
    "short": "HCL Ștefan cel Mare nr. 4/2023",
@@ -89,6 +149,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "67926fe05a7831b5194eeca2852efb26f05d1fb2970b4a810f5a6c41c055efa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-41-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/41",
+   "short": "HCL Ștefan cel Mare nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 41/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3c432b2aac713b6100a50fad90a744ca37f09b91d5504dc90546f7d35d3ba5c9"
     }
    ]
   },
@@ -108,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-69-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/69",
+   "short": "HCL Ștefan cel Mare nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 69/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0b220b95a0849e6d83d62065c1cc1abb0dabbe11ca4f14c7453a0abcc48c14b0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-7-2023",
    "path": "local/bacau/stefan-cel-mare/2023/7",
    "short": "HCL Ștefan cel Mare nr. 7/2023",
@@ -123,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--stefan-cel-mare-74-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/74",
+   "short": "HCL Ștefan cel Mare nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 74/2023 privind aprobarea infiintării Serviciului de gestionare a cainilor fără stăpan la nivelul comunei Stefan cel Mare",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.-74-din-26.07.2023-privind-infiintarea-Serviciului-gestionare-caini-fara-stapan.pdf",
+     "sha256": "92aba642a9aacba33124e5e43e63c251e6fa521f6bc4e37999f126fc7bebfb5b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--stefan-cel-mare-8-2023",
    "path": "local/bacau/stefan-cel-mare/2023/8",
    "short": "HCL Ștefan cel Mare nr. 8/2023",
@@ -134,6 +239,36 @@
      "units": 1,
      "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.-8-din-25.01.2023-privind-aprobarea-contului-de-executie-bugetara-pentru-anul-2022-al-comunei-Stefan-cel-Mare-Judetul-Bacau.pdf",
      "sha256": "4191722a412a2b0cff91341d0fe6629239f29079f64413776e5a30e09f58832f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-82-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/82",
+   "short": "HCL Ștefan cel Mare nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 82/2023 privind aprobarea Regulamentului amplasarea constructii, lucrari, amenajari",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.-82-din-data-de-08.09.2023-privind-aprobarea-Regulamentului-amplasarea-constructii-lucrari-amenajari.pdf",
+     "sha256": "d1ec8ef61ae08228fd036641c0cdf4aeffdb08653af5560c3083cae1d1a25509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--stefan-cel-mare-85-2023",
+   "path": "local/bacau/stefan-cel-mare/2023/85",
+   "short": "HCL Ștefan cel Mare nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 85/2023 privind aprobarea Planului anual de evolutie a tarifelor ADIB",
+   "url": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.-85-din-data-de-27.09.2023-privind-aprobarea-Planului-anual-de-evolutie-a-tarifelor-ADIB-.pdf",
+     "sha256": "29c577c3458af938cc9b641479b9bb2f37eb247f10d61ebceb61e18082c834b8"
     }
    ]
   },

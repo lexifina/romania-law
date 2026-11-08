@@ -223,6 +223,206 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-32-2023",
+"path": "local/bacau/stefan-cel-mare/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 32/2023 privind indexarea impozitelor si taxelor locale pentru anul 2024, cu rata inflatiei de 13,8%",
+"short": "HCL Ștefan cel Mare nr. 32/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-41-2023",
+"path": "local/bacau/stefan-cel-mare/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 41/2023",
+"short": "HCL Ștefan cel Mare nr. 41/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": null,
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-69-2023",
+"path": "local/bacau/stefan-cel-mare/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 69/2023",
+"short": "HCL Ștefan cel Mare nr. 69/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": null,
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-74-2023",
+"path": "local/bacau/stefan-cel-mare/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 74/2023 privind aprobarea infiintării Serviciului de gestionare a cainilor fără stăpan la nivelul comunei Stefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 74/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-82-2023",
+"path": "local/bacau/stefan-cel-mare/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 82/2023 privind aprobarea Regulamentului amplasarea constructii, lucrari, amenajari",
+"short": "HCL Ștefan cel Mare nr. 82/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-09-08",
+"latest": "2023-09-08",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-85-2023",
+"path": "local/bacau/stefan-cel-mare/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 85/2023 privind aprobarea Planului anual de evolutie a tarifelor ADIB",
+"short": "HCL Ștefan cel Mare nr. 85/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-102-2023",
+"path": "local/bacau/stefan-cel-mare/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 102/2023 privind aprobarea Regulamentului",
+"short": "HCL Ștefan cel Mare nr. 102/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-112-2023",
+"path": "local/bacau/stefan-cel-mare/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 112/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Ștefan cel Mare nr. 112/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-113-2023",
+"path": "local/bacau/stefan-cel-mare/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 113/2023 privind stabilirea taxei de salubrizare pentru anul 2024",
+"short": "HCL Ștefan cel Mare nr. 113/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

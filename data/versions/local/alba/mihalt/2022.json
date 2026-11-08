@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/mihalt/2022",
+ "acts": [
+  {
+   "slug": "hcl-alba--mihalt-55-2022",
+   "path": "local/alba/mihalt/2022/55",
+   "short": "HCL Mihalț nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 55/2022 privind aprobarea modificării tarifelor de călătorie pentru transportul public local de persoane – zona tarifară 5, corespunzătoare ariei teritoriale a Com. Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-55-privind-aprobarea-modificarii-tarifelor-de-calatorie-pentru-transportul-public-local-de-persoane-%E2%80%93-zona-tarifara-5-corespunzatoare-ariei-teritoriale-a-Com.-Mihalt.pdf",
+     "sha256": "a4294dd86bc40674eb4587310afdf9129935d581d90bc7301ac369c12b3bed36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-89-2022",
+   "path": "local/alba/mihalt/2022/89",
+   "short": "HCL Mihalț nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 89/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/2.-HCL-nr.-89-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2023.pdf",
+     "sha256": "3172de891eaa2a258a9916fb6c1987ecc9b37b08313e3076d17b495d9c1c9112"
+    }
+   ]
+  }
+ ]
+}

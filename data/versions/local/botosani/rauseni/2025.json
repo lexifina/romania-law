@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/rauseni/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--rauseni-41-2025",
+   "path": "local/botosani/rauseni/2025/41",
+   "short": "HCL Răuseni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 41/2025 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale pe anul 2026",
+   "url": "https://rausenibt.ro/documents/hotararea-nr-41-din-28-11-2025-privind-stabilirea-impozitelor-si-taxelor-locale-precum-si-a-taxelor-speciale-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://rausenibt.ro/wp-content/uploads/2026/01/Hotararea-nr.-41-din-28.11.2025-privind-stabilirea-impozitelor-si-taxelor-locale-precum-si-a-taxelor-speciale-pe-anul-2026.pdf",
+     "sha256": "99df589302814e5c8699031dfba1a0440c56ce6387f99f6744ce81991a3fe915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rauseni-46-2025",
+   "path": "local/botosani/rauseni/2025/46",
+   "short": "HCL Răuseni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 46/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://rausenibt.ro/documents/hotararea-nr-46-din-29-12-2025-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://rausenibt.ro/wp-content/uploads/2026/01/Hotararea-nr.-46-din-29.12.2025-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2026.pdf",
+     "sha256": "79d6214fa41ed6d259999e91c84c18a8f02b1e61c0256848a568ec6ece57d5f7"
+    }
+   ]
+  }
+ ]
+}

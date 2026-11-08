@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ignesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--ignesti-76-2022",
+   "path": "local/arad/ignesti/2022/76",
+   "short": "HCL Ignești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 76/2022 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE PT ANUL 2023",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/Hotararea-nr.-76-din-25.11.2022-PRIVIND-STABILIREA-IMPOZITELOR-SI-TAXELOR-LOCALE-PT-ANUL-2023_000750.pdf",
+     "sha256": "667d4aad139a934720a6390b8d2aa5ae70fd5e5fe8493a8fc73805bea7627d7c"
+    }
+   ]
+  }
+ ]
+}

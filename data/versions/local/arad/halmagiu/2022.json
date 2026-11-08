@@ -3,6 +3,66 @@
  "shard": "local/arad/halmagiu/2022",
  "acts": [
   {
+   "slug": "hcl-arad--halmagiu-60-2022",
+   "path": "local/arad/halmagiu/2022/60",
+   "short": "HCL Hălmagiu nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 60/2022 privind actualizarea planului de analiză și acoperire a riscurilor (PAAR) în comuna Hălmagiu pe anul 2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99783",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-61-2022",
+   "path": "local/arad/halmagiu/2022/61",
+   "short": "HCL Hălmagiu nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 61/2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99784",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-66-2022",
+   "path": "local/arad/halmagiu/2022/66",
+   "short": "HCL Hălmagiu nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 66/2022 privind aprobarea exploatării unei cantități de masă lemnoasă din pădurea comunală a comunei Hălmagiu, în vederea asigurării necesarului de lemn de foc, către populație",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99811",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-68-2022",
+   "path": "local/arad/halmagiu/2022/68",
+   "short": "HCL Hălmagiu nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 68/2022 privind aprobarea structurii Devizului General, a indicatorilor tehnico-economici și a indicatorilor de performanță și eficiență, actualizați, la terminarea lucrărilor, pentru obiectivul de investiții „ALIMENTARE CU APA ȘI CANALIZARE ÎN LOCALITATEA ȚĂRMURE, COMUNA HĂLMAGIU, JUDEȚUL ARAD”, proiect finanțat prin PNDL",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99813",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-74-2022",
    "path": "local/arad/halmagiu/2022/74",
    "short": "HCL Hălmagiu nr. 74/2022",

@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--gurahont-19-2026",
+   "path": "local/arad/gurahont/2026/19",
+   "short": "HCL Gurahonț nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 19/2026 privind aprobarea contului de încheiere a exerciţiului financiar pe anul 2025",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/259811",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/259811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-32-2026",
+   "path": "local/arad/gurahont/2026/32",
+   "short": "HCL Gurahonț nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 32/2026 privind aprobarea bugetului local al comunei Gurahonț pe anul 2026",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/267615",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/267615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-47-2026",
+   "path": "local/arad/gurahont/2026/47",
+   "short": "HCL Gurahonț nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 47/2026 privind aprobarea Statutului Comunei Gurahonț",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/273260",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/273260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-8-2026",
+   "path": "local/arad/gurahont/2026/8",
+   "short": "HCL Gurahonț nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 8/2026 privind modificarea în conformitate cu prevederile OG nr.6/2026 a prevederilor Hotărârii Consiliului local al comunei Gurahonț nr.134/30.12.2025 privind aprobarea impozitelor și taxelor locale prevăzute de Codul fiscal pentru anul 2026 și stabilirea unor măsuri de aplicare",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/254234",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/254234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-81-2026",
    "path": "local/arad/gurahont/2026/81",
    "short": "HCL Gurahonț nr. 81/2026",

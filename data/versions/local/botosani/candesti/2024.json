@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/candesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--candesti-15-2024",
+   "path": "local/botosani/candesti/2024/15",
+   "short": "HCL Cândești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 15/2024 privind indexarea anuala a impozitelor si taxelor locale pe baza ratei inflatiei, aplicabile in anul fiscal 2025",
+   "url": "https://candestibt.ro/documente/hotararea-nr-15-din-25-04-2024-privind-indexarea-anuala-a-impozitelor-si-taxelor-locale-pe-baza-ratei-inflatiei-aplicabile-in-anul-fiscal-2025/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/03/Hotararea-nr.-15-din-25.04.2024-privind-indexarea-anuala-a-impozitelor-si-taxelor-locale-pe-baza-ratei-inflatiei-aplicabile-in-anul-fiscal-2025.pdf",
+     "sha256": "bd78efc444eee06e19d30d2e22c5e94afcb15b3588298059607daef0534b76ad"
+    }
+   ]
+  }
+ ]
+}

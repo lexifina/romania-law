@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/rachiti/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--rachiti-103-2024",
+   "path": "local/botosani/rachiti/2024/103",
+   "short": "HCL Răchiți nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 103/2024 privind aprobarea modificării și completării HCL nr.138/21.12.2023 privind aprobarea impozitelor și taxelor locale pentru anul 2024 Consiliul Local Răchiți, județul Botoșani , întrunit in ședința extraordinară astăzi , 06.12.2024, luând în dezbatere: - referatul de aprobare al primarului comunei Răchiți, înregistrat la nr.55/26.11.2024, - raportul de specialitate al compartimentului de resort, , î",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_103_06.12.2024.pdf",
+     "sha256": "434341e04bcf964eb4288e6106ab8cfb58666aeb588eb59e688a0484167243bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-104-2024",
+   "path": "local/botosani/rachiti/2024/104",
+   "short": "HCL Răchiți nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 104/2024 Privind delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fară stăpân al comunei Răchiți, județul Botoșani Consiliul Local al comunei Răchiți, întrunit în ședință extraordinară, astăzi,06.12.2024 , Având în vedere temeiurile juridice prevăzute de: - prevederile art.120 alin.(1), art.121 alin.(1) șialin.(2) și art.136 din Constituția României, republicată; - preved",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_104_06.12.2024.pdf",
+     "sha256": "b4a561b93d153c2a57043f78829f76c1b73eda3d595bc1c3626d31a70bafe357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-116-2024",
+   "path": "local/botosani/rachiti/2024/116",
+   "short": "HCL Răchiți nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 116/2024 Privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 14,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_116_20.12.2024.pdf",
+     "sha256": "4d4e21148061d5a0b69745c3f86871cfb6b8c66beb005705111c987808990812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-117-2024",
+   "path": "local/botosani/rachiti/2024/117",
+   "short": "HCL Răchiți nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 117/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_117_20.12.2024.pdf",
+     "sha256": "91edca64f554a5eafe9535dc123931edf635dfb8be530612869b02f93d58bd72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-96-2024",
+   "path": "local/botosani/rachiti/2024/96",
+   "short": "HCL Răchiți nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 96/2024 Pentru aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau a gestionării neconforme cu ierarhia deșeurilor, referitoare la domeniul public și privat al comunei Răchiți",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 3,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/11/hot_96_21.11.2024.pdf",
+     "sha256": "7bd5fae5316421329e68b368c2b4eb4dbf2174b3c85f761fc660faa5862ee8a2"
+    }
+   ]
+  }
+ ]
+}

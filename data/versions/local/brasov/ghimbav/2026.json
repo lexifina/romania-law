@@ -3,6 +3,51 @@
  "shard": "local/brasov/ghimbav/2026",
  "acts": [
   {
+   "slug": "hcl-brasov--ghimbav-102-2026",
+   "path": "local/brasov/ghimbav/2026/102",
+   "short": "HCL Ghimbav nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 102/2026 pentru aprobarea Plan Urbanistic Zonal (P.U.Z.) „Construire imobil locuințe sociale str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-07-09-HCL_nr_102_30-06-2026.pdf",
+     "sha256": "85d414d983ab7a3c805991f02ae8e6e0805595628b046bce4527a434dc0aee28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-103-2026",
+   "path": "local/brasov/ghimbav/2026/103",
+   "short": "HCL Ghimbav nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 103/2026 pentru aprobare Plan Urbanistic Zonal (P.U.Z.) „Campus școlar, locuințe și funcțiuni complementare” – orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-07-09-HCL_nr_103_30-06-2026.pdf",
+     "sha256": "6ea2e81ca7e3f213db823672623847f2e72bd80ee224f928237e0c5e57c9a23c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-106-2026",
+   "path": "local/brasov/ghimbav/2026/106",
+   "short": "HCL Ghimbav nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 106/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-07-09-HCL_nr_106_30-06-2026.pdf",
+     "sha256": "c0d94414e5849f32541d6bf4a7e55344c1266796c701c77cc2f8e795023e1055"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-110-2026",
    "path": "local/brasov/ghimbav/2026/110",
    "short": "HCL Ghimbav nr. 110/2026",
@@ -14,6 +59,21 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-07-16-HCL_nr_110_08-07-2026-1.pdf",
      "sha256": "38efc6bcf4f55231d491fd9407ef0bb052d75f260ec20438eb9c6b3a80fac6d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-111-2026",
+   "path": "local/brasov/ghimbav/2026/111",
+   "short": "HCL Ghimbav nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 111/2026 pentru aprobarea Plan Urbanistic Zonal (P.U.Z.) „PUZ locuințe individuale și cuplate cu funcțiuni complementare”, orașul Ghimbav, jud. Brașov, CF nr. 107064, CF nr. 103625, CF nr. 103603 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-07-16-HCL_nr_111_08-07-2026.pdf",
+     "sha256": "6b11f99de5ef575b68ec19cf6229dc2b71aa07d1c14e7352eb1991005d17da96"
     }
    ]
   },
@@ -228,6 +288,141 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-23-2026",
+   "path": "local/brasov/ghimbav/2026/23",
+   "short": "HCL Ghimbav nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 23/2026 privind aprobarea Regulamentului intern privind acordarea voucherelor de vacanță în anul 2026 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-03-05-HCL_nr_23_26-02-2026.pdf",
+     "sha256": "94000f4c58ae04014ce2e32acf9c938b1cd5d62b873cf20e6361bf9682f8570b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-26-2026",
+   "path": "local/brasov/ghimbav/2026/26",
+   "short": "HCL Ghimbav nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 26/2026 privind aprobarea Plan Urbanistic Zonal (P.U.Z.) „Actualizare PUZ aprobat prin HCL nr. 11/25.02.2009, conform ADR. nr. 2279/2280 din 07.02.2024 (eliberată de Primăria orașului Ghimbav) – Lotizare, Zonificare funcțională”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-03-05-HCL_nr_26_26-02-2026.pdf",
+     "sha256": "8c688975fe550f78ab7e88501b4247c84381ce2ffe3c8f4f59a0ccce3dcc88f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-37-2026",
+   "path": "local/brasov/ghimbav/2026/37",
+   "short": "HCL Ghimbav nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 37/2026 pentru completarea HCL Ghimbav nr. 186/23.12.2025 privind stabilirea taxelor și impozitelor locale pentru anul fiscal 2026 la nivelul Orașului Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-03-19-HCL_nr_37_12-03-2026.pdf",
+     "sha256": "59c0a1111c0495556a611a965e57360b341fae0adc6d65bfaf9667213f040851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-5-2026",
+   "path": "local/brasov/ghimbav/2026/5",
+   "short": "HCL Ghimbav nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 5/2026 privind identificarea, ridicarea, transportul, depozitarea și eliberarea vehiculelor fără stăpân sau abandonae pe domeniul public sau privat al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-02-27-HCL_nr_05_29-01-2026-republicata.pdf",
+     "sha256": "ce20b3bde823eeb3b8da4037e533c4362b44685b35c0ad9b4908c37663fd6f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-59-2026",
+   "path": "local/brasov/ghimbav/2026/59",
+   "short": "HCL Ghimbav nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 59/2026 privind scutirea „Fundației pentru Copii Abandonați” de la plata impozitului pe clădire și teren, aferent anului fiscal 2026 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-05-12-HCL_nr_59_30-04-2026.pdf",
+     "sha256": "30ad7c725f523085bd90340048c6f4de732ea201ab13a3604e889de2bd029219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-6-2026",
+   "path": "local/brasov/ghimbav/2026/6",
+   "short": "HCL Ghimbav nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 6/2026 privind aprobarea Regulamentului de atribuire și funcționare a parcărilor de reședință, publice și private din orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-02-06-HCL_nr_06_29-01-2026.pdf",
+     "sha256": "dfb79e92146667a270922e06f3ee00988d58d61472ac7666ee86d00ac92321c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-61-2026",
+   "path": "local/brasov/ghimbav/2026/61",
+   "short": "HCL Ghimbav nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 61/2026 privind interzicerea organizării și exploatării jocurilor de noroc pe raza Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-05-12-HCL_nr_61_30-04-2026.pdf",
+     "sha256": "902cc12683a5ed2309db4a7ae23d7af346fde242d221d3e509efdadf5ebaf9f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-62-2026",
+   "path": "local/brasov/ghimbav/2026/62",
+   "short": "HCL Ghimbav nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 62/2026 privind aprobarea Regulamentului revizuit al Consiliului Local al Orașului Ghimbav de acordare a unui sprijin financiar unităților de cult din Orașul Ghimbav, aparținând cultelor religioase recunoscute din România Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-05-12-HCL_nr_62_30-04-2026.pdf",
+     "sha256": "4a4583c8f8b0c18eb63717147477a1dc5bde27738c20d43c20254f16666ce708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-63-2026",
+   "path": "local/brasov/ghimbav/2026/63",
+   "short": "HCL Ghimbav nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 63/2026 pentru aprobarea Plan Urbanistic Zonal (P.U.Z.) „Amenajare Promenadă Strada Morii”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-05-12-HCL_nr_63_30-04-2026.pdf",
+     "sha256": "e28d3f0834255b5edc5deb7d90f966ba01adeb0595e6a4affcd0c62bc8dfcafd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-72-2026",
    "path": "local/brasov/ghimbav/2026/72",
    "short": "HCL Ghimbav nr. 72/2026",
@@ -239,6 +434,21 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-05-25-HCL_nr_72_11-05-2026.pdf",
      "sha256": "96cd3fd4530468481b237410c2f15b4ad4dcb555b7f0192208da144eb3bc5e06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-98-2026",
+   "path": "local/brasov/ghimbav/2026/98",
+   "short": "HCL Ghimbav nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 98/2026 privind însușirea Regulamentului privind efectuarea serviciilor publice de transport persoane în unitățile administrativ-teritoriale membre ale Asociației de Transport Brașov, aprobat prin Hotărârea AGA a ATBv nr. 32/2026 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-07-09-HCL_nr_98_30-06-2026.pdf",
+     "sha256": "e6b871531ece994d3f2cf2f8799cc7af4b49401543532f7998cf57b8627eddc1"
     }
    ]
   }

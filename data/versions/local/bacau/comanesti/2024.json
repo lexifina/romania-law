@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/comanesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--comanesti-160-2024",
+   "path": "local/bacau/comanesti/2024/160",
+   "short": "HCL Comănești nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 160/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4000-anul-2024.html",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2024/hcl_160_23.12.2024.pdf",
+     "sha256": "32a4084c432cef6879ca8d2ac79b8b2700da5e3d67566c4a2b90a6f2046dfa8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-161-2024",
+   "path": "local/bacau/comanesti/2024/161",
+   "short": "HCL Comănești nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 161/2024 privind aprobarea taxelor și tarifelor pentru contractele de închiriere teren/spațiu din piețele agroalimentare și târguri, aplicabile în anul 2025",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4000-anul-2024.html",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2024/hcl_161_23.12.2024.pdf",
+     "sha256": "f090319903f0a6401dbeb0526480a9ac8c030fa212bd62bb4f79f505ac45b07b"
+    }
+   ]
+  }
+ ]
+}

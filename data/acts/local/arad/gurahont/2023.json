@@ -3,6 +3,72 @@
 "shard": "local/arad/gurahont/2023",
 "acts": [
 {
+"slug": "hcl-arad--gurahont-1-2023",
+"path": "local/arad/gurahont/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 1/2023 privind aprobarea reţelei şcolare în anul şcolar 2023-2024 pe raza Comunei Gurahonţ, judeţul Arad",
+"short": "HCL Gurahonț nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-22",
+"latest": "2023-01-22",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/86549",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-4-2023",
+"path": "local/arad/gurahont/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 4/2023 privind actualizarea Regulamentului serviciului public de alimentare cu apă și canalizare din aria de competenţă a unităţilor administrativ-teritoriale membre ale “Asociaţiei de Dezvoltare Intercomunitară Apă – Canalizare judeţul Arad”",
+"short": "HCL Gurahonț nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-22",
+"latest": "2023-01-22",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/86552",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-28-2023",
+"path": "local/arad/gurahont/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 28/2023 privind indexarea pe baza ratei inflaţiei a limitelor impozitelor și taxelor locale, precum și a amenzilor care fac venit la bugetul local, aplicabile în anul fiscal 2024",
+"short": "HCL Gurahonț nr. 28/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/102662",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-arad--gurahont-88-2023",
 "path": "local/arad/gurahont/2023/88",
 "kind": "local",

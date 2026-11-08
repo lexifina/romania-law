@@ -16,6 +16,21 @@
      "sha256": "e60a8778ab2fff814c5b231fd87f600f41b810bf17c4be65578c3ade14211571"
     }
    ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-6-2020",
+   "path": "local/bistrita-nasaud/milas/2020/6",
+   "short": "HCL Milaș nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 6/2020 privind aprobarea prețurilor de referință a masei lemnoase pe picior pe specii, sortimente dimensionale și gradele de accesibilitate, producția anului 2020, din fondul foresstier proprietate publică a comunei Milaș, administrată de Ocolul Silvic Reghin",
+   "url": "https://comunamilas.ro/registru_hcl2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.06_30.01.2020_aprobare_prml.pdf",
+     "sha256": "3fe7c1a1626831bc0fd6853bc5a65b2165c9af8e64168f99b70a20ebde181c2e"
+    }
+   ]
   }
  ]
 }

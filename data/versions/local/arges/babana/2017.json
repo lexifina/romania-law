@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arges/babana/2017",
+ "acts": [
+  {
+   "slug": "hcl-arges--babana-29-2017",
+   "path": "local/arges/babana/2017/29",
+   "short": "HCL Băbana nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 29/2017 Privind modificarea taxei de gunoi stabjlita prin HCL 29112.10.2016 pentru anul 2017 a Societatilor Comerciale din Comuna Babana conform referatului nr.2903 122.05.2017, pentru anul 2017",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2029%2017.pdf",
+     "sha256": "50d8397ffd033c9186cf6fd258f9ae0da18de565bb57c91ad6a1b1838098c923"
+    }
+   ]
+  }
+ ]
+}

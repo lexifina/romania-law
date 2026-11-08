@@ -3,6 +3,73 @@
 "shard": "local/brasov/rupea/2025",
 "acts": [
 {
+"slug": "hcl-brasov--rupea-21-2025",
+"path": "local/brasov/rupea/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 21/2025",
+"short": "HCL Rupea nr. 21/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": null,
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--rupea-27-2025",
+"path": "local/brasov/rupea/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 27/2025 privind aprobarea Regulamentului actualizat de acordare a materialului lemnos catre populatia orasului Rupea",
+"short": "HCL Rupea nr. 27/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--rupea-34-2025",
+"path": "local/brasov/rupea/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 34/2025 privind Aprobarea impozitelor si taxelor locale pe anul 2025",
+"short": "HCL Rupea nr. 34/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-brasov--rupea-47-2025",
 "path": "local/brasov/rupea/2025/47",
 "kind": "local",

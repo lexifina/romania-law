@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-122-2025",
+   "path": "local/arad/santana/2025/122",
+   "short": "HCL Sântana nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 122/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_122_NG4ntyB.doc",
+     "sha256": "fb4ffb5ef4778cb190c2bc1f2cf978bfe065045a9bb3a0e634eb835cb4e998af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-154-2025",
+   "path": "local/arad/santana/2025/154",
+   "short": "HCL Sântana nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 154/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_154.doc",
+     "sha256": "9d4efd803b8dad876b0e7a4367657f4f3e651fb7222fb61e9d3ae70c395a2a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-157-2025",
+   "path": "local/arad/santana/2025/157",
+   "short": "HCL Sântana nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 157/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_157_6XE0096.doc",
+     "sha256": "32a5562cbbe1b5421d24b765924c7827c70b3ff2335efba559857be92d2d3580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-168-2025",
+   "path": "local/arad/santana/2025/168",
+   "short": "HCL Sântana nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 168/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_168.doc",
+     "sha256": "8dc1b55563cda010a30fc32eaafd287c468696b5ce1e9032e9faf3b1471424a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-26-2025",
+   "path": "local/arad/santana/2025/26",
+   "short": "HCL Sântana nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 26/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_26.doc",
+     "sha256": "dc509af7c9be8df9d9261280955b115b8d9065a6f8055ff93475e9a4c2cc57f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-37-2025",
+   "path": "local/arad/santana/2025/37",
+   "short": "HCL Sântana nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 37/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_37.doc",
+     "sha256": "00a309283f00227119c51dd69a3a45444f484fdd6e427ab3fa7eb5cad451adc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-70-2025",
+   "path": "local/arad/santana/2025/70",
+   "short": "HCL Sântana nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 70/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_70.doc",
+     "sha256": "c3729920d63151f61ccf222a2bfb16b1836ef5cc17cfa0dda7aee8d9ab2177d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-83-2025",
+   "path": "local/arad/santana/2025/83",
+   "short": "HCL Sântana nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 83/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_83_V2kZmD0.doc",
+     "sha256": "bdd3386d47a3337503434216212f0416cb39c8e46378a53bc1f71c82af25167d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-95-2025",
+   "path": "local/arad/santana/2025/95",
+   "short": "HCL Sântana nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 95/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_95_DifbJJx.doc",
+     "sha256": "ecea8500e878b5c41cbf793a0d1394ac1b4fb152c6539b2f9e327ec644d27acf"
+    }
+   ]
+  }
+ ]
+}

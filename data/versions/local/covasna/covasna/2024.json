@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2024",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-165-2024",
+   "path": "local/covasna/covasna/2024/165",
+   "short": "HCL Covasna nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 165/2024 cu privire la aprobarea unor tarife pentru închirierea unor echipamente sportive la Pârtia de schi \"Lőrincz Zsigmond\" pentru sezonul de iarnă 2024-2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2024/hcl165.pdf",
+     "sha256": "70863443d97ed7b6ca63c8564f7e947821fc6e2cbbd683ef6477498aef73cadd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-39-2024",
+   "path": "local/covasna/covasna/2024/39",
+   "short": "HCL Covasna nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 39/2024",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2024/hcl39.pdf",
+     "sha256": "7d79d7b00866d1f382f50272e05bcdd707d53d2749c0039b74e15485a1143703"
+    }
+   ]
+  }
+ ]
+}

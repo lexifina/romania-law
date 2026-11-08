@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2021",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-125-2021",
+   "path": "local/brasov/rupea/2021/125",
+   "short": "HCL Rupea nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 125/2021 privind aprobarea unei scutiri de la plata impozitului",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 3,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-125-scutire-taxa-impozit-sala-plugarilor.pdf",
+     "sha256": "fc612cccc5a9147bc9ff28d1764d68440ae4404d06aeff8402e87c05ec6af0e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-32-2021",
+   "path": "local/brasov/rupea/2021/32",
+   "short": "HCL Rupea nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 32/2021 Pentru aprobarea Regulamentului de vizitare a Cetatii orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2021-03-30-REHAD-HCL-32.pdf",
+     "sha256": "1f906c2d88e5d1c175f1361b5a1ecc831565e49f33f05128eef6e1d2013daab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-33-2021",
+   "path": "local/brasov/rupea/2021/33",
+   "short": "HCL Rupea nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 33/2021 Privind aprobarea delegarii Serviciului de gestionare a cainilor fara stapan al orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2021-03-30-REHAD-HCL-33.pdf",
+     "sha256": "11deb69ddd4ce6c77165339943bac3136495467d6adaab0d9af3936333a6da47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-36-2021",
+   "path": "local/brasov/rupea/2021/36",
+   "short": "HCL Rupea nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 36/2021 privind aprobarea modificarii art. 9 alin 3 din Regulamentul de Pasunat de pe teritoriul administrativ al orasului Rupea aprobat prin HCL nr. 16/12.04.2017",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 2,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2021-03-30-REHAD-HCL-36.pdf",
+     "sha256": "e876e322fb210ac97ae80e2ae2211a050c85232167ad1a30817c056cd446e7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-49-2021",
+   "path": "local/brasov/rupea/2021/49",
+   "short": "HCL Rupea nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 49/2021 privind modificarea HCL nr. 53/18.09.2020 pentru aprobarea impozitelor si taxelor locale pe anul 2021",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2021-04-27-REHAD-HCL-49.pdf",
+     "sha256": "fdc0fdfbfb493395ea8c6bd19c3a95ec91b5b0479f9c42b0078b1605f60415b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-50-2021",
+   "path": "local/brasov/rupea/2021/50",
+   "short": "HCL Rupea nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 50/2021 pentru aprobarea Regulamentului privind desfăşurarea comerţului stradal/teraselor în orașul Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2021-04-27-REHAD-HCL-50.pdf",
+     "sha256": "3a9e786eddb10bf31e6e815d2f07e40fa2a28a2cd8c6033cf16131a1ff1a21d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-61-2021",
+   "path": "local/brasov/rupea/2021/61",
+   "short": "HCL Rupea nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 61/2021 privind modificarea HCL nr. 53/18.09.2020 pentru aprobarea impozitelor si taxelor locale pe anul 2021",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-61-privind-modificare-impozite-si-taxe-locale-2021-1.pdf",
+     "sha256": "95e172f1f8fdcf751c278c027bdc76abd876fb9450494bde9d3d26f50bee9dea"
+    }
+   ]
+  }
+ ]
+}

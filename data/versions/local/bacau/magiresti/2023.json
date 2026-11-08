@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/magiresti/2023",
+ "acts": [
+  {
+   "slug": "hcl-bacau--magiresti-56-2023",
+   "path": "local/bacau/magiresti/2023/56",
+   "short": "HCL Măgirești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 56/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Magiresti, în conformitate cu Legea 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung Consiliul local al comunei Măgirești, județul Bacău, întrunit în ședința ordinară de lucru în data de 13.11.2023 Având în vedere: • adresa Instituției Prefectului",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2023/11/HCL-56-reorganizare-reducere-10-.pdf",
+     "sha256": "0c487013de07b2e54c892801e947436add622d27733276c5098c8f0eebee09cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--magiresti-60-2023",
+   "path": "local/bacau/magiresti/2023/60",
+   "short": "HCL Măgirești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 60/2023 Privind aprobarea impozitelor, taxelor locale, taxelor de închiriere, taxelor speciale și tarifelor pentru anul 2024 Consiliul Local al Comunei Magiresti, județul Bacău întrunit în ședință de lucru în data de 15.12.2023 • Referatul de aprobare al Primarului comunei Măgirești înregistrat sub numărul 8673 din 11.12.2023, • raportul compartimentului de specialitate înregistrat sub numărul 8674 din 11",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2023/12/HCL-60-impozite-si-taxe-2024.pdf",
+     "sha256": "33a926ef827a86aafcc2580732cae8a57bed82765eea01166b437799ffcdf66c"
+    }
+   ]
+  }
+ ]
+}

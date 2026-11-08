@@ -31,6 +31,21 @@
      "sha256": "049c4b55eccecc10847d9a5e65ccc1932220490d7219e0a8605246a962fb95e0"
     }
    ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-86-2024",
+   "path": "local/buzau/nehoiu/2024/86",
+   "short": "HCL Nehoiu nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 86/2024 privind aprobarea documentatiei de urbanism PUZ Construire fabrica prelucrare lemn, sediu ocol silvic, amenajare acces auto si pietonal, imprejmuire si racord la utilitati, nr. cadastral 25332 – oras Nehoiu, sat Chirlesti, jud",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2024/11/Hotararea-nr.-86-privind-aprobarea-documentatiei-de-urbanism-PUZ-Construire-fabrica-prelucrare-lemn-sediu-ocol-silvic-amenajare-acces-auto-si-pietonal-imprejmuire-si-racord-la-utilitati.pdf",
+     "sha256": "53a8ccc0e1c57ebe882fa8115a1c6c0475df28f001283a0f4317375b16a93990"
+    }
+   ]
   }
  ]
 }

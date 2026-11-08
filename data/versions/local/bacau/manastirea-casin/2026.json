@@ -63,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-bacau--manastirea-casin-27-2026",
+   "path": "local/bacau/manastirea-casin/2026/27",
+   "short": "HCL Mănăstirea Cașin nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 27/2026 privind aprobarea Regulamentului privind normele de gospodărire comunală, întreţinere, colectare, transport şi depozitare a deşeurilor şi pentru activităţile comerciale, stabilirea unor măsuri de protecţia mediului, precum şi obligaţii cetăţeneşti",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/04/HCL-27.pdf",
+     "sha256": "ced63152ae30599fb9a0925f189548765243c57d15f07f7a98d47fe3026018dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-32-2026",
+   "path": "local/bacau/manastirea-casin/2026/32",
+   "short": "HCL Mănăstirea Cașin nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 32/2026 privind aprobarea devizului general actualizat, în urma procedurii de atribuire mobilier şi aplicarea Legii nr. 141/2026, pentru obiectivul de investiţii DEZVOLTAREA SISTEMULUI DE MANAGEMENT LOCAL PRIN IMPLEMENTAREA UNOR INFRASTRUCTURI INTELIGENTE LA NIVELUL COMUNEI MĂNĂSTI",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/04/HCL-32.pdf",
+     "sha256": "51e1edfdbfdb854ceaf00631eeea117457661a1feabe0b5858f9c949b03a865a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-53-2026",
+   "path": "local/bacau/manastirea-casin/2026/53",
+   "short": "HCL Mănăstirea Cașin nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 53/2026 privind aprobarea tarifelor pentru serviciul de transport public de persoane în regim de taxi, desfăşurat de posesorii de autorizaţii de taxi emise de Primăria comunei Mănăstirea Caşin",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/08/HCL-53.pdf",
+     "sha256": "83b99cc66d9df19f37c3395afb0b592037f01d4a93cfbb8a6f9598c5e4d0da0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--manastirea-casin-73-2026",
+   "path": "local/bacau/manastirea-casin/2026/73",
+   "short": "HCL Mănăstirea Cașin nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstirea Cașin nr. 73/2026 privind aprobarea documentaţiei de urbanism de actualizare a Planului Urbanistic General şi a Regulamentului Local de Urbanism al Comunei Mănăstirea Caşin, judeţul Bacău",
+   "url": "https://manastireacasin.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://manastireacasin.ro/wp-content/uploads/2026/08/HCL-73.pdf",
+     "sha256": "358fb344df5e00326142b2168be6e97ae942c60fb1ce87b291ca651946e43f6a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--manastirea-casin-81-2026",
    "path": "local/bacau/manastirea-casin/2026/81",
    "short": "HCL Mănăstirea Cașin nr. 81/2026",

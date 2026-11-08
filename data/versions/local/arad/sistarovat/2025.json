@@ -3,6 +3,456 @@
  "shard": "local/arad/sistarovat/2025",
  "acts": [
   {
+   "slug": "hcl-arad--sistarovat-13-2025",
+   "path": "local/arad/sistarovat/2025/13",
+   "short": "HCL Șiștarovăț nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 13/2025 privind adoptarea bugetului local al comunei Sistarovat pe anul 2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206592",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-14-2025",
+   "path": "local/arad/sistarovat/2025/14",
+   "short": "HCL Șiștarovăț nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 14/2025 privind revocarea HCL nr.6/31.01.2025 privind aprobarea rectificării suprafeței din CF nr. 306190 situată în extravilanul UAT Sistarovat, de la 15800 mp la 4654 mp și repoziționarea, ca urmare a suprapunerii cu alta parcela",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206593",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-15-2025",
+   "path": "local/arad/sistarovat/2025/15",
+   "short": "HCL Șiștarovăț nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 15/2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206594",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-16-2025",
+   "path": "local/arad/sistarovat/2025/16",
+   "short": "HCL Șiștarovăț nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 16/2025 privind aprobarea modalității de completare a Registrului Agricol pentru perioada 2025-2029",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206595",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-2-2025",
+   "path": "local/arad/sistarovat/2025/2",
+   "short": "HCL Șiștarovăț nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 2/2025 privind acoperirea deficitului bugetului local din excedentul anilor precedenți",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206306",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-22-2025",
+   "path": "local/arad/sistarovat/2025/22",
+   "short": "HCL Șiștarovăț nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 22/2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/207603",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/207603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-23-2025",
+   "path": "local/arad/sistarovat/2025/23",
+   "short": "HCL Șiștarovăț nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 23/2025 privind însușirea documentației cadastrale de prima înscriere a unui imobil în cartea funciară",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/207604",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/207604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-27-2025",
+   "path": "local/arad/sistarovat/2025/27",
+   "short": "HCL Șiștarovăț nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 27/2025 privind aprobarea ordinii de zi a sedintei ordinare din data de 26.06.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/214123",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/214123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-28-2025",
+   "path": "local/arad/sistarovat/2025/28",
+   "short": "HCL Șiștarovăț nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 28/2025 privind aprobarea procesului-verbal al sedintei anterioare",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/214124",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/214124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-29-2025",
+   "path": "local/arad/sistarovat/2025/29",
+   "short": "HCL Șiștarovăț nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 29/2025 privind actualizarea Planului de Analiza si Acoperire a Riscurilor, al comunei Sistarovat",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/214125",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/214125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-30-2025",
+   "path": "local/arad/sistarovat/2025/30",
+   "short": "HCL Șiștarovăț nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 30/2025 privind modificarea HCL nr.77/23.12.2024 privind acordarea dreptului de administrare asupra imobilelor Drum Ivanuc inscris in CF nr.306565 si 306564 si Drum auto forestier Ogasu Mic inscris in CF nr.307065, Regia Nationala a Padurilor Romsilva-Directia Silvica Arad-Ocolul Silvic Lipova",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/214126",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/214126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-32-2025",
+   "path": "local/arad/sistarovat/2025/32",
+   "short": "HCL Șiștarovăț nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 32/2025 privind aprobarea Regulamentului propriu de organizare și funcţionare prezentat strict pentru activitățile de colectare și transport al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad, conform Anexei 1",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/214128",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/214128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-33-2025",
+   "path": "local/arad/sistarovat/2025/33",
+   "short": "HCL Șiștarovăț nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 33/2025 privind alegerea presedintelui de sedinta pe 3 luni",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221025",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-34-2025",
+   "path": "local/arad/sistarovat/2025/34",
+   "short": "HCL Șiștarovăț nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 34/2025 privind aprobarea ordinea de zi a sedintei ordinare din data de 12.08.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221026",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-35-2025",
+   "path": "local/arad/sistarovat/2025/35",
+   "short": "HCL Șiștarovăț nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 35/2025 privind aprobarea procesului-verbal al sedintei ordinare din 26.06.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221027",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-36-2025",
+   "path": "local/arad/sistarovat/2025/36",
+   "short": "HCL Șiștarovăț nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 36/2025 privind aprobarea preturilor de referinta si de pornire la licitatie pentru masa lemnoasa fasonata valorificata in anul 2024, in vederea organizarii licitatiei publice de catre Directia Silvica Arad",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221028",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-37-2025",
+   "path": "local/arad/sistarovat/2025/37",
+   "short": "HCL Șiștarovăț nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 37/2025 privind aprobarea Strategiei de Dezvoltare a Serviciului de Salubrizare a ADI-SIGD jud.Arad",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221029",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-38-2025",
+   "path": "local/arad/sistarovat/2025/38",
+   "short": "HCL Șiștarovăț nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 38/2025 privind aprobarea tarifelor conform fiselor de fundamentare, a operatorului Recons S.A si incheierea si semnarea Actului Aditional nr.4 la Contractul de gestiune directa a serviciului de salubrizare privind sortarea deseurilor de hartie, caton, metal, plastic si sticla, colectate separat din deseurile municipale in statii de sortare, inclusiv transportul reziuurilor rezultate din sortare la depozitele de deseuri si/sau la instalatiile de valorificare energetica, in cadrul proiectului Sistem de Management Integrat al Deseurilor Solide in jud.Arad, nr.772/02.02.2023",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221030",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-39-2025",
+   "path": "local/arad/sistarovat/2025/39",
+   "short": "HCL Șiștarovăț nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 39/2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221031",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-40-2025",
+   "path": "local/arad/sistarovat/2025/40",
+   "short": "HCL Șiștarovăț nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 40/2025 privind aprobarea contului de executie al bugetului local al comunei Sistarovat centralizat si pe structura celor doua sectiuni, respectiv sectiunea de functionare si sectiunea de dezvoltare si a situatiilor financiare, pe trim.I si II 2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/221032",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/221032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-41-2025",
+   "path": "local/arad/sistarovat/2025/41",
+   "short": "HCL Șiștarovăț nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 41/2025 privind aprobarea ordinii de zi a sedintei DE INDATA a Consiliului local Sistarovat din data de 26.09.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/228233",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/228233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-42-2025",
+   "path": "local/arad/sistarovat/2025/42",
+   "short": "HCL Șiștarovăț nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 42/2025 privind aprobarea DEVIZULUI GENERAL, actualizat la obiectivul de investiție “AMENAJARE STRĂZI ÎN COMUNA ȘIȘTAROVĂȚ, JUDEȚUL ARAD”, aprobat pentru finantare prin Programul national de investiții„AngheI SaIigny”",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/228234",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/228234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-43-2025",
+   "path": "local/arad/sistarovat/2025/43",
+   "short": "HCL Șiștarovăț nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 43/2025 privind aprobarea ordinii de zi a sedintei ordinare din data de 30.09.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/228252",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/228252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-44-2025",
+   "path": "local/arad/sistarovat/2025/44",
+   "short": "HCL Șiștarovăț nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 44/2025 privind aprobarea procesului-verbal al sedintei anterioare din data de 12.08.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/228253",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/228253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-45-2025",
+   "path": "local/arad/sistarovat/2025/45",
+   "short": "HCL Șiștarovăț nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 45/2025 privind respingerea modificării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/228254",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/228254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-46-2025",
+   "path": "local/arad/sistarovat/2025/46",
+   "short": "HCL Șiștarovăț nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 46/2025 privind alegerea presedintelui de sedinta pe 3 luni",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/231442",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/231442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-47-2025",
+   "path": "local/arad/sistarovat/2025/47",
+   "short": "HCL Șiștarovăț nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 47/2025 privind aprobarea ordinii de zi a sedintei ordinare din data de 24.10.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/231443",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/231443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-48-2025",
+   "path": "local/arad/sistarovat/2025/48",
+   "short": "HCL Șiștarovăț nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 48/2025 privind aprobarea procesului-verbal al sedintei ordinare din data de 30.09.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/231444",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/231444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-49-2025",
+   "path": "local/arad/sistarovat/2025/49",
+   "short": "HCL Șiștarovăț nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 49/2025 privind rectificarea bugetului local al comunei Sistarovat pe anul 2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/231445",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/231445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-50-2025",
+   "path": "local/arad/sistarovat/2025/50",
+   "short": "HCL Șiștarovăț nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 50/2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/231446",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/231446",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--sistarovat-51-2025",
    "path": "local/arad/sistarovat/2025/51",
    "short": "HCL Șiștarovăț nr. 51/2025",
@@ -133,6 +583,21 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/241372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-6-2025",
+   "path": "local/arad/sistarovat/2025/6",
+   "short": "HCL Șiștarovăț nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 6/2025 privind aprobarea rectificării suprafeței din CF nr. 306190 situată în extravilanul UAT Sistarovat, de la 15800 m la 4654 mp și repoziționarea, ca urmare a suprapunerii cu alta parcela",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206310",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206310",
      "sha256": null
     }
    ]
@@ -298,6 +763,21 @@
      "from": "2026-01-19",
      "units": 1,
      "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/245623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-9-2025",
+   "path": "local/arad/sistarovat/2025/9",
+   "short": "HCL Șiștarovăț nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 9/2025 privind aprobarea Programului anual al achizițiilor publice al comunei Sistarovat pe anul 2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/206313",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/206313",
      "sha256": null
     }
    ]
